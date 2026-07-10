@@ -89,17 +89,17 @@ Full design doc: `Tonopah-Attachment-A-System-Master-Plan.md` (repo root). Summa
 |---|---|
 | Repo skeleton + `CLAUDE.md` | ✅ Done |
 | Source docs staged | ✅ Done — and then some (GMP + actual sub proposals in hand, beyond original scope) |
-| Bid Spec Manual split into per-division sections | ❌ Not done — still one 40MB file |
-| `scripts/upload-files.py` (Files API upload) | ⚠️ Stub only — `SOURCE_FILES` dict is empty, needs wiring before it can run |
-| `01-index/file_ids.json` | ❌ Not generated |
-| `attachment-a-generator` skill | ❌ Not built |
-| `doc-indexer` / `scope-drafter` / `scope-qa` subagent definitions | ❌ Not built |
-| `01-index/package-index.json` | ❌ Not generated |
+| Bid Spec Manual split into per-division sections | ✅ Done — 22 division PDFs in `04-specs-reports/spec-manual-split/`, built from the manual's own bookmark outline (exact page boundaries, manifest at `spec-manual-split/_manifest.json`) |
+| `01-index/awarded-sub-mapping.json` | ✅ Done — 14 of 16 1% packages have a confirmed awarded sub; RFP-094 (Bleachers & Press Box) and RFP-109 (Prefabricated Ticket Booth) not yet awarded. Several PM-review flags recorded (awarded sub not low bidder on 5 packages, one missing signed Bid Form, one late/out-of-process proposal) |
+| Files API upload script | 🗑️ Superseded — running inside Claude Code, subagents read `00-source-docs/` directly via Read/Glob, no file_id upload needed. `scripts/upload-files.py` left in place but noted as not part of this pipeline |
+| `attachment-a-generator` skill | ✅ Built — `.claude/skills/attachment-a-generator/SKILL.md` (+ `references/csi-divisions.md`) |
+| `doc-indexer` / `scope-drafter` / `scope-qa` subagent definitions | ✅ Built — `.claude/agents/{doc-indexer,scope-drafter,scope-qa}.md` |
+| `01-index/package-index.json` | ❌ Not generated yet — next step |
 
 ## Current Pipeline Stage
 - [x] Stage 0: Repo setup complete
-- [~] Stage 1: Source docs staged (done — RFP/ITB/scopes/drawings/specs/addenda/GMP/sub proposals all present); spec manual split and Files API upload still outstanding
-- [ ] Stage 2: Index generated (`01-index/package-index.json`)
+- [x] Stage 1: Source docs staged, spec manual split, awarded-sub mapping built (Files API step dropped as unnecessary — see build status)
+- [ ] Stage 2: Index generated (`01-index/package-index.json`) — pipeline components are built, ready to run
 - [ ] Stage 3: Index reviewed/corrected by PM
 - [ ] Stage 4: Drafts generated (`02-drafts/`)
 - [ ] Stage 5: QA leveling register generated (`03-qa/`)
