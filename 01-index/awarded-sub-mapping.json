@@ -1,0 +1,197 @@
+{
+  "_source": "00-source-docs/GMP/1% Subcontractor Listing.pdf (dated 05.27.26), cross-referenced against 00-source-docs/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).pdf",
+  "_generated": "2026-07-10",
+  "_note": "package_id follows the CLAUDE.md scheme (source + number). Proposal file paths point into 00-source-docs/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/ unless noted. Descope files (if any) live in the sibling '1% Descopes/' folder, keyed loosely by sub name, not package number -- doc-indexer must fuzzy-match those.",
+  "self_performed": {
+    "General Conditions & Requirements": {
+      "subcontractor": "CORE Construction",
+      "license_no": "0006144A",
+      "note": "Self-performed by CMAR, not a bid package"
+    }
+  },
+  "packages": {
+    "RFP-002": {
+      "title": "Abatement & Building Wrecking",
+      "awarded_sub": "Northstar Contracting Group",
+      "license_no": "0044001",
+      "proposal_price": 718623.00,
+      "proposal_file": "002 Abatement & Building Wrecking - Northstar (w backup).pdf",
+      "other_bidders": ["Action Solutions", "Earth Resource Group", "Environmental Protection Services", "GGG Demolition"],
+      "descope_files_present": false,
+      "status": "awarded"
+    },
+    "RFP-008": {
+      "title": "Site Demolition, Salvage, Earthwork, Asphalt Paving, Wet Utilities, & Site Signage & Striping",
+      "awarded_sub": "TAB Contractors (New-Com)",
+      "license_no": "0021801",
+      "proposal_price": 3152033.00,
+      "proposal_file": "008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf",
+      "other_bidders": ["NDX", "The Monument Company"],
+      "descope_files_present": false,
+      "status": "awarded",
+      "note": "Awarded price ($3,152,033) is the HIGHEST of the three bids, not lowest -- confirm basis of award (qualifications, schedule, or scope completeness) before finalizing Attachment A; may indicate a broader/adjusted scope than the other two bids."
+    },
+    "RFP-016": {
+      "title": "Landscaping & Irrigation",
+      "awarded_sub": "Black Canyon",
+      "license_no": "0060235",
+      "proposal_price": 111275.00,
+      "proposal_file": "016 Irrigation - Black Canyon (w backup).pdf",
+      "other_bidders": ["Brightview Landscape", "Sprinturf", "Tand"],
+      "descope_files_present": true,
+      "descope_file_hint": "Black Canyon Scope Review Meeting Agenda.docx; Black Canyon Homework Response(s) in 1% Descopes/Homework Responses/",
+      "status": "awarded",
+      "note": "1% Subcontractor Listing labels this trade 'Irrigation' only, not 'Landscaping & Irrigation' -- confirm whether landscaping (planting/sod) scope is included in Black Canyon's award or was descoped/moved elsewhere."
+    },
+    "RFP-021": {
+      "title": "Running Track Surfacing",
+      "awarded_sub": "Elite Sports Builders",
+      "license_no": "0081920",
+      "proposal_price": 434504.00,
+      "proposal_file": "021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf",
+      "other_bidders": ["Great Western Installations (TBD, no price)", "The Monument Company"],
+      "descope_files_present": true,
+      "descope_file_hint": "021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf; (Descope - Track Asphalt Info).pdf; (R1, Descoped).pdf",
+      "status": "awarded"
+    },
+    "RFP-022": {
+      "title": "Synthetic Turf Sports Field",
+      "awarded_sub": "CG&B Enterprises",
+      "license_no": "0039691",
+      "proposal_price": 1139000.00,
+      "proposal_file": "022 Synthetic Turf Sports Field - CG & B Enterprises (w backup).pdf",
+      "other_bidders": ["AstroTurf Corporation", "Green Living Services", "Sprinturf", "Tand", "The Monument Company"],
+      "descope_files_present": true,
+      "descope_file_hint": "CG&B Scope Review Meeting Agenda.docx; 016, 022 Irrigation + Synthetic Turf Sports Field - Sprinturf (Descope Qs).pdf is for a non-awarded bidder, not CG&B -- verify no CG&B-specific descope doc was missed",
+      "status": "awarded",
+      "note": "Awarded price ($1,139,000) is not the lowest bid (AstroTurf at $609,151 was lower) -- confirm basis of award before drafting."
+    },
+    "RFP-023": {
+      "title": "Fencing & Gates",
+      "awarded_sub": "Tahoe Fence Company",
+      "license_no": "0053722A",
+      "proposal_price": 215392.00,
+      "proposal_file": "023 Fencing & Gates - Tahoe Fence Co (w backup).pdf",
+      "other_bidders": ["All 5's Construction", "Fencing Specialists", "Golden Bay Fence Plus Iron Works", "Red Star Fence", "Tiberti Fence Co."],
+      "descope_files_present": true,
+      "descope_file_hint": "023 Fencing & Gates - Red Star (R1, Descoped).pdf is for a non-awarded bidder -- verify no Tahoe Fence descope doc was missed",
+      "status": "awarded",
+      "note": "Awarded price ($215,392) is not the lowest bid (Red Star Fence at $199,500 was lower) -- confirm basis of award before drafting."
+    },
+    "RFP-030": {
+      "title": "Concrete",
+      "awarded_sub": "Sahara Concrete",
+      "license_no": "0042163A",
+      "proposal_price": 1518456.00,
+      "proposal_file": "030 Concrete - Sahara Concrete (w backup).pdf",
+      "other_bidders": ["Cheek Construction", "The Monument Company", "XL Concrete Masonry"],
+      "descope_files_present": true,
+      "descope_file_hint": "030 Concrete - Cheek (descope).pdf is for a non-awarded bidder -- verify no Sahara-specific descope doc was missed; Cheeck Scope Review Meeting Agenda.docx also references a non-awarded bidder",
+      "status": "awarded",
+      "note": "Awarded price ($1,518,456) is not the lowest bid (The Monument Company at $1,113,208 was lower) -- confirm basis of award before drafting."
+    },
+    "RFP-031": {
+      "title": "Masonry",
+      "awarded_sub": "Henderson Masonry",
+      "license_no": "0052532A",
+      "proposal_price": 189449.00,
+      "proposal_file": "031 Masonry - Henderson (backup, no Form).pdf",
+      "other_bidders": ["John Jackson Masonry", "Kemper Masonry", "Monument Construction (late, emailed)", "XL Concrete Masonry"],
+      "descope_files_present": false,
+      "status": "awarded",
+      "note": "Henderson proposal file is flagged '(backup, no Form)' -- no signed Subcontractor Proposal (Bid) Form on file for the awarded sub; flag for PM to confirm a Form exists elsewhere before relying on it as a contract-basis document."
+    },
+    "RFP-033": {
+      "title": "Structural Steel & Ornamental Metals",
+      "awarded_sub": "Corona Steel",
+      "license_no": "0085569",
+      "proposal_price": 145468.00,
+      "proposal_file": "033 Structural Steel - Corona Steel (w backup).pdf",
+      "other_bidders": ["Adams & Smith"],
+      "descope_files_present": true,
+      "descope_file_hint": "Corona Steel Scope Review Meeting Agenda.docx",
+      "status": "awarded"
+    },
+    "RFP-045": {
+      "title": "Metal Roofing, Fascia & Soffit Panels",
+      "awarded_sub": "Foursquare Roof and Walls",
+      "license_no": "0077998 / 0077999",
+      "proposal_price": 135698.00,
+      "proposal_file": "045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf",
+      "other_bidders": ["Canyon State Enterprises", "The Original Roofing Company (TORC) (TBD, no price)"],
+      "descope_files_present": false,
+      "status": "awarded",
+      "note": "CAUTION: awarded sub's only proposal on file is flagged 'LATE - not submitted to BuildingConnected' -- verify with PM whether a properly-submitted Foursquare proposal exists elsewhere, since a late/out-of-process bid is an unusual basis for the awarded scope."
+    },
+    "RFP-060": {
+      "title": "Framing, Drywall & Painting (incl. FRP)",
+      "awarded_sub": "Jetstream Construction",
+      "license_no": "0043791 / 0050479",
+      "proposal_price": 257848.00,
+      "proposal_file": "061 Framing Drywall & Painting - Jetstream (w backup).pdf",
+      "other_bidders": ["Division 09", "M&H Building Specialties"],
+      "descope_files_present": true,
+      "descope_file_hint": "061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf; (R1, Descoped).pdf; (R2, Descope ALTs).pdf",
+      "status": "awarded",
+      "note": "Source folder/files use package number '061' -- package_id in CLAUDE.md is RFP-060. Same package, numbering drift between RFP list and file naming; doc-indexer must reconcile."
+    },
+    "RFP-094": {
+      "title": "Bleachers & Press Box",
+      "awarded_sub": null,
+      "status": "NOT YET AWARDED as of 1% Subcontractor Listing (05.27.26)",
+      "bid_tab_bidders": ["American Press Box (Whitley Manufacturing) -- NO BID", "California Bleachers (Nata Construction) -- SUPPLY ONLY, $395,379", "Great Western Installations -- TBD, no price"],
+      "descope_files_present": true,
+      "descope_file_hint": "094 Bleachers & Press Box - California Bleachers NATA (Descope Qs).pdf; Cali. Bleachers Scope Review Meeting Agenda.docx -- descope activity exists for California Bleachers even though no award is reflected yet in the 1% Listing",
+      "note": "Draft from generic RFP/spec scope until a subcontractor is confirmed. Flag to PM: California Bleachers proposal is SUPPLY ONLY per bid tab -- if awarded, Attachment A will need an install-scope split (who installs if California Bleachers only supplies)."
+    },
+    "RFP-098": {
+      "title": "Plumbing Systems",
+      "awarded_sub": "US Mechanical",
+      "license_no": "0057582",
+      "proposal_price": 383000.00,
+      "proposal_file": "098 Plumbing - US Mechanical (Form).pdf",
+      "other_bidders": ["Bombard Mechanical", "J.W. McClenahan Co.", "Universal Plumbing & Heating"],
+      "descope_files_present": false,
+      "status": "awarded",
+      "note": "Awarded price ($383,000) is not the lowest bid (Universal Plumbing & Heating at $375,000 was lower) -- confirm basis of award before drafting. Same sub (US Mechanical) also awarded RFP-100 (HVAC) -- check for combined-scope proposal/pricing across both packages."
+    },
+    "RFP-100": {
+      "title": "HVAC & Building Control Systems (incl. Test & Balance)",
+      "awarded_sub": "US Mechanical",
+      "license_no": "0031212A",
+      "proposal_price": 241300.00,
+      "proposal_file": "100 HVAC - US Mechanical (Form).pdf",
+      "other_bidders": ["Bombard Mechanical", "Sunrise Air Systems"],
+      "descope_files_present": false,
+      "status": "awarded",
+      "note": "Same sub (US Mechanical) also awarded RFP-098 (Plumbing) -- check for combined-scope proposal/pricing across both packages; RFP title mentions Test & Balance -- confirm US Mechanical's proposal covers T&B or whether it's a separate sub-tier."
+    },
+    "RFP-103": {
+      "title": "Electrical & Low Voltage Systems (incl. Sports Field Lighting)",
+      "awarded_sub": "Quantum Electric",
+      "license_no": "0092278",
+      "proposal_price": 937714.00,
+      "proposal_file": "103 Electrical & Low Voltage - Quantum (w backup).pdf",
+      "other_bidders": ["Conti", "JW Electric", "Kill A Watt", "Wheeler's Electric"],
+      "descope_files_present": false,
+      "status": "awarded",
+      "note": "RFP title includes Sports Field Lighting -- confirm Quantum's proposal explicitly carries this scope, since it's a common gap-zone item between electrical and specialty sports-lighting subs."
+    },
+    "RFP-109": {
+      "title": "Prefabricated Ticket Booth",
+      "awarded_sub": null,
+      "status": "NOT YET AWARDED as of 1% Subcontractor Listing (05.27.26) -- and all bids are SUPPLY-ONLY, under the 1%/$50k threshold",
+      "bid_tab_bidders": ["American Press Box (Whitley Manufacturing) -- NO BID", "Guardian Booth -- SUPPLY, $74,763", "Par-Kut International -- SUPPLY, $21,635", "Porta-King Building Systems -- SUPPLY, $17,019"],
+      "descope_files_present": false,
+      "note": "All bids are supply-only and below the NRS 338.16995 1% threshold ($120k) -- this may be why it's absent from the 1% Subcontractor Listing despite being on the original RFP 1% list. Confirm with PM whether this package will be re-classified as non-1%/ITB, and who holds install scope (ticket booth supplier is supply-only)."
+    }
+  },
+  "not_yet_awarded_summary": ["RFP-094 (Bleachers & Press Box)", "RFP-109 (Prefabricated Ticket Booth)"],
+  "flags_for_pm_review": [
+    "RFP-008, RFP-022, RFP-023, RFP-030, RFP-098: awarded sub was NOT the low bidder -- confirm basis of award (qualifications/schedule/scope) so Attachment A isn't drafted against a stale low-bid assumption",
+    "RFP-031: awarded sub (Henderson) has no signed Bid Form on file, only backup",
+    "RFP-045: awarded sub (Foursquare) proposal on file is flagged LATE / not submitted through BuildingConnected",
+    "RFP-098 / RFP-100: same awarded sub (US Mechanical) for both plumbing and HVAC -- check for combined pricing/scope",
+    "RFP-094 / RFP-109: no awarded sub yet -- draft from generic RFP scope, revisit once awarded"
+  ]
+}
