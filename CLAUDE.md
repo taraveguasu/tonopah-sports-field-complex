@@ -108,7 +108,11 @@ Full design doc: `Tonopah-Attachment-A-System-Master-Plan.md` (repo root). Summa
 - [ ] Stage 8: Subcontracts issued
 
 ## Open Questions / Notes
-- **Drafting source-of-truth question (needs PM decision before Stage 2 indexing):** Since actual subcontractor proposals, descopes, and scope-review agendas already exist for most 1% packages, should each package's Attachment A be drafted from (a) the generic RFP/spec/scope-of-work language only, or (b) reconciled against the specific awarded subcontractor's actual proposal + negotiated descopes? Option (b) is more accurate to what was actually bought out but requires a package→awarded-sub mapping (Bid Tabulation Sheet may already have this) and pulls the descope/homework-response docs into the index.
+- ~~**Drafting source-of-truth question**~~ — **RESOLVED (07.10.26):** each 1% package's Attachment A will be drafted **reconciled to the awarded subcontractor** — i.e. cross-referenced against that package's actual submitted proposal, negotiated descopes, and scope-review agenda in `SUBCONTRACTOR FILES/`, not just the generic RFP/spec language. Consequences for the pipeline:
+  - `doc-indexer` must build a **package → awarded-sub mapping** first (start from `GMP/1% Subcontractor Listing.pdf` and `SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/`), then pull that specific sub's proposal PDF + any `1% Descopes/` files (descope Q&A, homework responses, scope-review agenda) into the index alongside the RFP/spec/drawing citations
+  - Non-1% (ITB) packages have no awarded-sub proposal on hand yet in `SUBCONTRACTOR FILES/` — those still draft from generic RFP/ITB/spec scope until awarded-sub docs show up
+  - `scope-drafter` prompts need a second citation class beyond spec-section/sheet-number: "per [Sub Name]'s proposal dated [x]" / "excluded per descope agreement [x]"
+  - `scope-qa` should flag any package where the awarded-sub's proposal contradicts the RFP scope, not just gaps/overlaps between packages
 - Need: confirm CORE job number is 25-10-003
 - ~~Need: "02 – Subcontractor Trade Scopes of Work" narrative and Bid Form~~ — RESOLVED, present in `02-trade-scopes-bidform/`
 - Need: confirm whether any addenda/clarifications were issued after Clarification No. 2 (05.07.26) and before bid opening (05.12.26), or since
