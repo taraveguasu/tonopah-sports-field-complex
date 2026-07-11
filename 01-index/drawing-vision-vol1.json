@@ -1,0 +1,337 @@
+{
+  "_generated": "2026-07-11",
+  "_source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+  "_method": "vision -- actually opened and read each sheet's content (plans, schedules, legends, keynotes, details), not title-matched. Read via Read tool pages param in three chunks (1-20, 21-40, 41-45, 1-indexed) after installing poppler-utils (pdftoppm) which was not present in this environment.",
+  "sheet_assignments": [
+    {
+      "sheet_number": "G0-00",
+      "sheet_title": "COVER SHEET",
+      "package_ids": ["RFP-094", "ITB-089"],
+      "rationale": "Deferred Submittals list on cover sheet explicitly names PRESSBOX, BLEACHERS, SCOREBOARD, and GOAL POST STRUCTURAL DESIGN as deferred structural submittals. Pressbox/Bleachers map to RFP-094; Scoreboard maps to ITB-089. Goal Post Structural Design is ambiguous (see notes_for_pm) so not force-assigned to a single package.",
+      "confidence": "low"
+    },
+    {
+      "sheet_number": "G0-11",
+      "sheet_title": "TYPICAL SIGNAGE & ACCESSBILITY REQUIREMENTS",
+      "package_ids": ["ITB-072"],
+      "rationale": "Sheet is entirely code-required interior signage details (room/door sign, exit sign, restroom sign, room max occupancy sign, fire dept connection sign, no smoking sign) plus a signage floor plan -- this is building/interior signage scope, matching ITB-072's title and its cited spec section 10 1423 Panel Signage.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "LS1-10",
+      "sheet_title": "CODE AND EXITING PLAN",
+      "package_ids": ["RFP-045", "ITB-074"],
+      "rationale": "Code analysis block states 'MINIMUM CLASS C ROOF COVERING MATERIAL' per IBC 1505.1 (roofing fire-class requirement, RFP-045). Symbol Legend defines FEB/KFEB (fire extinguisher bracket / bracket mounted in kitchen) tags used on the floor plan below -- this is the fire-extinguisher-cabinet/bracket content that the package-index flagged as a real gap for ITB-074 (Building & Fire Protection Specialties, spec section 10 44 13 uncited).",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "LS1-11",
+      "sheet_title": "ENVELOPE COMPLIANCE",
+      "package_ids": ["ITB-044"],
+      "rationale": "COMcheck Envelope Compliance Certificate lists actual R-values for the building envelope: roof/attic wood joists R-32.0 cavity, exterior wall (CMU) R-19.0 cavity + continuous, floor uninsulated slab-on-grade -- plus a full Insulation Inspection checklist (roof insulation, wall insulation, radiant panel insulation). This is the authoritative insulation-value source that ITB-044's own scope doc lacked (its cited spec section 09 82 00 does not exist in the manual).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "C1",
+      "sheet_title": "COVER",
+      "package_ids": ["RFP-008"],
+      "rationale": "Civil cover sheet (Taney Engineering), sheet list table for the 9-sheet civil set. Confirms existing RFP-008 assignment; no new package content.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "C2",
+      "sheet_title": "GENERAL NOTES",
+      "package_ids": ["RFP-008"],
+      "rationale": "NYE County general notes, grading notes, general street plan notes, sewer/water notes, permits. Confirms existing RFP-008 assignment; no new package content.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "C3",
+      "sheet_title": "GENERAL NOTES",
+      "package_ids": ["RFP-008"],
+      "rationale": "Great Basin Water Co. water construction standard and sewer construction standard general notes sheets (W-1, SD-1 boilerplate). Utility general notes support RFP-008's wet-utilities scope; not previously cited in index but consistent with existing RFP-008 civil-sheet set.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "MG",
+      "sheet_title": "MASTER GRADING",
+      "package_ids": ["RFP-008"],
+      "rationale": "Master grading plan of full site (school, field, parking, driving range). Confirms existing RFP-008 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "G1",
+      "sheet_title": "GRADING PLAN 1",
+      "package_ids": ["RFP-008"],
+      "rationale": "Detailed grading plan, north half of field/parking. Confirms existing RFP-008 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "G2",
+      "sheet_title": "GRADING PLAN 2",
+      "package_ids": ["RFP-008"],
+      "rationale": "Detailed grading plan, south half of field. Confirms existing RFP-008 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "GD",
+      "sheet_title": "GRADING DETAILS",
+      "package_ids": ["RFP-008", "RFP-021", "RFP-022"],
+      "rationale": "Track/football field mow-curb sections explicitly note 'TRACK DESIGNED BY OTHERS' and 'FOOTBALL FIELD SURFACE AND SUBSURFACE TYPE DESIGNED BY OTHERS' (RFP-021/RFP-022 territory, civil only sets grade). Detail K '8\" Perforated HDPE Storm Drain System' and detail # 'Typical Field Trench' show the sub-turf drainage trench running under the football field -- directly supports RFP-022's Alternate 022.02 (ADD) Storm Drainage System. Confirms existing RFP-008/RFP-021 citations and adds RFP-022.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "UT1",
+      "sheet_title": "UTILITY PLAN 1",
+      "package_ids": ["RFP-008"],
+      "rationale": "Water/sewer utility plan, north half. Confirms existing RFP-008 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "UT2",
+      "sheet_title": "UTILITY PLAN 2",
+      "package_ids": ["RFP-008"],
+      "rationale": "Water/sewer utility plan, south half, including storm drain manhole tie-ins. Confirms existing RFP-008 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L0.00",
+      "sheet_title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+      "package_ids": ["RFP-008"],
+      "rationale": "Legend/notes for demo codes DM-101 through DM-106: remove/dispose existing track material, existing natural grass, existing long jump/triple jump/high jump landing pit material, existing concrete/subgrade, existing concrete curb, existing goal post and footings. Reads as general site demolition/salvage scope (RFP-008's title includes 'Salvage'), but see notes_for_pm -- boundary with RFP-021/RFP-022/ITB-019 install-side demo responsibility is not explicit anywhere in the source docs.",
+      "confidence": "low"
+    },
+    {
+      "sheet_number": "L0.01",
+      "sheet_title": "LANDSCAPE DEMOLITION PLAN",
+      "package_ids": ["RFP-008"],
+      "rationale": "Plotted demolition plan applying DM-101 through DM-106 codes across the existing track/field. Content is pure demolition (track, grass, jump pits, goal posts, curb, scoreboard/bleacher/field-light cross-references to other disciplines) -- see notes_for_pm, this content reads more like RFP-008 territory than the current index's RFP-016 (Landscaping & Irrigation) assignment for this sheet.",
+      "confidence": "low"
+    },
+    {
+      "sheet_number": "L0.02",
+      "sheet_title": "LANDSCAPE DEMOLITION PLAN",
+      "package_ids": [],
+      "rationale": "Sheet reads 'NO LANDSCAPE DEMOLITION WORK IN THIS AREA' across the entire plotted area (west of the field, matchline to L0.01) -- no scope content, not assignable to any package.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.00",
+      "sheet_title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+      "package_ids": ["ITB-019", "RFP-022", "RFP-021", "ITB-018", "RFP-030"],
+      "rationale": "Legend directly itemizes: PE-102 football goal, PE-103 long/triple jump, PE-104 pole vault line markings, PE-105 pole vault landing system, PE-106 high jump landing system, PE-107 discus cage, PE-108/109 discus & shot put throwing pads, PE-110 rubber edging, PE-111 pole vault box, PE-112 high jump (all NFHS-compliant athletic equipment = ITB-019); RS-101/102/103 synthetic turf colors (RFP-022); RS-104 track system (RFP-021); RS-105/106 discus/shot put mix & pit sand (ITB-019, ties to spec 32 91 13); SA-101/102 steel bench & waste receptacle (ITB-018 Site Furnishings); HS-101 concrete curb (RFP-030).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.01",
+      "sheet_title": "LANDSCAPE CONSTRUCTION PLAN",
+      "package_ids": ["ITB-019", "RFP-022", "RFP-021", "ITB-018", "RFP-030"],
+      "rationale": "Plotted plan placing the same PE-/RS-/HS-/SA-/MS- codes from L1.00 onto the actual field/track layout. Also calls out 'SCOREBOARD, SEE ARCHITECTURE SHEETS', 'PRESS BOX...BLEACHERS, SEE ARCHITECTURE SHEETS', and 'FLAGPOLE, SEE ARCHITECTURE SHEETS' -- confirming those three items are NOT landscape-package scope (cross-referenced to ITB-089, RFP-094, ITB-078 respectively, which live on A-series sheets).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.02",
+      "sheet_title": "LANDSCAPE CONSTRUCTION PLAN",
+      "package_ids": ["ITB-019"],
+      "rationale": "Second landscape construction plan sheet covering the driving-range/parking triangle areas -- shows PE-107/108/109/110 (discus cage, discus pad, shot put pad, rubber edging) and RS-105 (discus/shot put mix) placement, plus a 'TICKET BOOTH, SEE ARCHITECTURE SHEETS' cross-reference (RFP-109). Content is field-events equipment, not turf/track notes -- see notes_for_pm, this contradicts the current index's description of L1.02 as 'Synthetic Turf / Track Notes and Plan' under RFP-022.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.03",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "package_ids": ["RFP-021", "RFP-022", "RFP-030"],
+      "rationale": "Sheet actually contains: Track Dimension Information table, Track Markings notes, 400M Track Layout (A), Track Lanes Painted Line Layout (B), Track Text 'MUCKERS'/'TONOPAH' lettering spec (C), Synthetic Turf detail (D), In-Line Catch Basin at D-Zone (E), Drain System at D-Zone (F), Concrete Curb detail (G). This is track markings/layout (RFP-021) + synthetic turf install detail (RFP-022) + concrete curb (RFP-030) -- see notes_for_pm, this contradicts the current index's description of L1.03 as 'turf system, high jump, pole vault details' (those actually live on L1.07, not L1.03).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.04",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "package_ids": ["RFP-022"],
+      "rationale": "Soccer Layout (A) and Mid-Field Logo (B) details with explicit note: 'CONTRACTOR SHALL PROVIDE SHOP DRAWINGS FOR SYNTHETIC TURF FIELD SYSTEM. INCLUDE STRIPING FOR THE FOLLOWING: SOCCER STRIPING...' -- turf field marking/striping scope is squarely RFP-022.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.05",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "package_ids": ["RFP-022"],
+      "rationale": "Football Layout (A), North/South Endzone lettering 'TONOPAH'/'MUCKERS' (B/C) with the same synthetic-turf-field-system shop-drawing note as L1.04. Turf field markings = RFP-022.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.06",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "package_ids": ["ITB-019", "RFP-030"],
+      "rationale": "Shot Put Pad (A) and Discus Pad (B) plan/section details plus Shot Put/Discus runway layout and section -- NFHS-compliant throwing-event equipment pads, ITB-019 territory. Pad construction calls out '6-inch thick concrete, Type V, 4500 PSI, with welded wire mesh' -- concrete placement scope overlapping RFP-030.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L1.07",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "package_ids": ["ITB-019", "RFP-021"],
+      "rationale": "Long Jump/Triple Jump (A), Sand Pit (B), Pole Vault (C), Pole Vault Box (D), High Jump (E) details -- all NFHS-compliant jump-event equipment, ITB-019. Details reference 'Track Surfacing' and 'Synthetic Track Surface Over Asphalt' at the runway approaches, tying to RFP-021's track-surfacing scope at the point where runway meets the 400m track.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L2.01",
+      "sheet_title": "IRRIGATION PLAN, LEGEND AND NOTES",
+      "package_ids": ["RFP-016"],
+      "rationale": "Irrigation demolition notes, irrigation legend (quick coupling valve, gate valve, mainline), irrigation notes, and plotted quick-coupler/mainline plan around the field. Confirms existing RFP-016 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L2.02",
+      "sheet_title": "IRRIGATION PLAN",
+      "package_ids": ["RFP-016"],
+      "rationale": "Continuation of irrigation plan into the driving-range/parking triangle area, same legend as L2.01. Confirms existing RFP-016 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "L2.03",
+      "sheet_title": "IRRIGATION DETAILS",
+      "package_ids": ["RFP-016"],
+      "rationale": "Irrigation Trench Section, Irrigation Sleeve Section, Gate Valve Detail, Quick Coupler at Synthetic Turf detail. Confirms existing RFP-016 assignment.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "AD1-10",
+      "sheet_title": "SITE DEMO PLAN",
+      "package_ids": ["RFP-008", "RFP-002"],
+      "rationale": "Site-wide demolition keynotes 1-01 through 1-15: existing press box removed, existing bleachers removed, existing trees removed, existing fence removed, existing lights removed, existing CONCESSIONS BUILDING TO BE REMOVED (salvage 3-compartment sink and hand sink, refurbish/repair for re-use), existing scoreboard removed, existing flagpole removed (return flag to owner), existing transformer/irrigation controller to remain, existing distribution to remain, existing field/track removed. General demolition/salvage scope matches RFP-008's title directly; the existing concessions BUILDING removal specifically overlaps RFP-002 (Abatement & Building Wrecking) -- worth PM confirmation on which package owns the on-site concessions building teardown vs. the off-site abandoned elementary school building wrecking that RFP-002's base scope otherwise targets.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "A1-10",
+      "sheet_title": "SITE PLAN",
+      "package_ids": [],
+      "rationale": "Overall site plan for reference only (site data table: APN, zoning, lot size, building coverage) -- no package-specific scope content beyond what's captured on the enlarged site plans A1-12/A1-13.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A1-12",
+      "sheet_title": "ENLARGED SITE PLAN",
+      "package_ids": ["RFP-109", "ITB-078", "RFP-030", "ITB-018"],
+      "rationale": "Keynote 2-30 'PRE-MANUFACTURED TICKET BOOTH, 4X6, SEE SHEET A1-40 FOR ADDITIONAL INFORMATION' is a direct RFP-109 citation. Keynotes 2-21/2-22 flag poles (30' and 39', Nevada/NCSD and American flags) = ITB-078. Keynote 2-19 new concrete paving / 2-27 control joints = RFP-030. Keynote 2-16 new trash receptacle = ITB-018.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A1-13",
+      "sheet_title": "ENLARGED SITE PLAN",
+      "package_ids": ["RFP-094", "ITB-089"],
+      "rationale": "Keynote 2-06 'PRE-MANUFACTURED RAISED BLEACHERS, 346 CAPACITY (CALIFORNIA BLEACHERS), SEE SITE EQUIPMENT MATRIX ON A1-20 AND A1-40' and keynote 2-07 'PRE-MANUFACTURED PRESS BOX, SEE SITE EQUIPMENT MATRIX' are direct RFP-094 citations. Keynote 2-08 'SCOREBOARD, SEE SITE EQUIPMENT MATRIX' is a direct ITB-089 citation. (RFP-023 fencing keynotes 2-09/2-15 already correctly cited in the current index for this sheet.)",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A1-20",
+      "sheet_title": "SITE DETAILS",
+      "package_ids": ["ITB-089", "RFP-094", "RFP-109", "ITB-018", "RFP-030"],
+      "rationale": "SITE EQUIPMENT MATRIX table explicitly lists, with CFCI responsibility: Scoreboard (Watchfire WF-FB-11824, ITB-089), Bleachers (see A1-40, RFP-094), Press Box (see A1-40, RFP-094), Trash Receptacle (see landscape, ITB-018), Pre-Manufactured Ticket Booth (see A1-40, RFP-109). Also contains Expansion Joint / Control Joint concrete-slab details (RFP-030) alongside the already-cited gate schedule/chainlink fence details (RFP-023) and flag pole base detail (ITB-078).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A1-40",
+      "sheet_title": "BLEACHERS AND PRESS BOX",
+      "package_ids": ["RFP-094", "RFP-109"],
+      "rationale": "Full written spec blocks for 'PRE-MANUFACTURED TICKET BOOTH SPECS', 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS', and 'PRE-MANUFACTURED PRESS BOX SPECS' (codes/design criteria, construction/materials, ADA access, foundations, basis-of-design manufacturers), plus a Bleachers and Pressbox foundation floor plan. This sheet is the real spec source for RFP-109 (whose scope doc has NO primary specification section in the manual) and RFP-094 (whose cited bleacher spec section 13 12 50 does not exist in the manual).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A2-10",
+      "sheet_title": "FLOOR PLAN AND RCP",
+      "package_ids": ["ITB-062", "RFP-060"],
+      "rationale": "Ceiling Types legend: ACT-1 suspended acoustical ceiling tile, ACT-2 suspended acoustical ceiling tile (cleanable), HRD1 5/8\" GYP board ceiling, OTS open to structure -- direct ITB-062 (Acoustical Ceiling Treatments) content, confirming/upgrading the current index's generic 'Vol1 p.34' citation. Wall Legend (metal building wall, load bearing wall, non-load bearing partition, core-type notation) ties to RFP-060 framing scope.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A2-40",
+      "sheet_title": "PARTITION SCHEDULE",
+      "package_ids": ["RFP-060"],
+      "rationale": "Partition Types 3F0/5F0/3B0 with core type (metal stud, masonry), thickness, and fire-rating tables -- Cold-Formed Steel Framing / Gypsum Board Assemblies content, RFP-060's core scope.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A4-10",
+      "sheet_title": "ROOF PLAN AND BUILDING SECTIONS",
+      "package_ids": ["RFP-045", "ITB-044", "ITB-040", "RFP-031"],
+      "rationale": "Roof legend (tubular skylight, roof drain/overflow drain). Keynote 6-06: 'STANDING SEAM METAL ROOF O/ HIGH-TEMP UNDERLAYMENT O/ SELF-ADHERED MEMBRANE O/ METAL DECK PER STRUCTURAL W/ R-38 BATT INSULATION BENEATH DECK' -- directly names RFP-045 (metal roof), ITB-044 (R-38 batt insulation), and ITB-040 (self-adhered membrane = moisture protection). Keynote 6-02: 'CMU WALL - PROVIDE GYP. BD. O/ 1-1/2\" METAL HAT CHANNELS W/ EXTENDED MASONRY FASTENERS O/ 2\" RIGID INSULATION O/ FLUID APPLIED AIR AND WATER-RESISTIVE BARRIER' -- names RFP-031 (CMU), ITB-044 (2\" rigid insulation), and ITB-040 (fluid-applied WRB) again. This is the wall/roof assembly that Clarification No.1 RFI #26 references, and it directly resolves the zero-drawing-sheet gaps for ITB-040 and ITB-044.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A4-20",
+      "sheet_title": "ROOF DETAILS",
+      "package_ids": ["RFP-045", "ITB-040"],
+      "rationale": "Pipe Penetration, Pipe Penetration Isometric, Gable Detail, Slope Transition Roof to Fascia, Metal Roof Edge, Eave with Gutter -- all Berridge/BMC standing-seam metal roof system details (RFP-045, already cited). Details also call out '#30 felt or Berridge approved peel & stick underlayment' repeatedly -- underlayment/weather-barrier scope overlapping ITB-040 (Moisture Protection & Sealants).",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "A5-10",
+      "sheet_title": "EXTERIOR ELEVATIONS",
+      "package_ids": ["ITB-072", "ITB-071"],
+      "rationale": "Keynote 6-04 '24\" H METAL SIGNAGE' labels the wall-mounted 'TONOPAH HIGH SCHOOL' / 'HOME OF THE MUCKERS' lettering on the South elevation -- direct ITB-072 (Building Signage) content. Keynote 6-01 '5'-0\" x 3'-0\" ENCLOSED BULLETIN CABINET, B.O.D. AARCO PRODUCTS ODCC OUTDOOR ENCLOSED BULLETIN CABINET' is a visual-display-board item matching ITB-071's title scope. (Keynote 6-10 'mascot mural, painted by others' is explicitly excluded from any bid package.)",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A7-10",
+      "sheet_title": "WALL SECTIONS",
+      "package_ids": ["ITB-054", "RFP-031"],
+      "rationale": "Wall Section at grid B shows an 'OVERHEAD COILING DOOR, STAINLESS STEEL, ATTACHED DIRECTLY TO FACE OF CMU WALL' with operator/guide details -- this is the overhead coiling door detail (ITB-054, spec 08 3323). The current index cites this content as sheet 'A4-10 (Vol1 p.45)' which is a mislabel -- see notes_for_pm; the correct sheet number is A7-10 (this sheet), at page 38 (0-indexed) / 39 (1-indexed), not A4-10. CMU wall/bond beam sections throughout also support RFP-031 (Masonry).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A9-10",
+      "sheet_title": "ENLARGED PLANS - RESTROOMS",
+      "package_ids": ["ITB-074"],
+      "rationale": "Restroom Accessory Schedule (Bobrick grab bars, toilet tissue dispenser, mirror, Gojo soap dispenser, paper towel dispenser, sanitary napkin disposal, Koala Kare baby changing station) and restroom-partition keynote (9-04) -- this is exactly ITB-074's Building Specialties scope (toilet/bath accessories 10 2800, toilet compartments 10 2113.13), resolving its previously zero drawing-sheet citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A9-11",
+      "sheet_title": "ENLARGED PLANS - RESTROOMS",
+      "package_ids": ["ITB-074"],
+      "rationale": "Continuation of restroom accessory schedule and interior elevations (100A/101A/108/109 restrooms), plus keynote 3-07 'MOP SINK'. Same ITB-074 scope as A9-10.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A9-20",
+      "sheet_title": "ENLARGED PLANS - CONCESSIONS",
+      "package_ids": ["ITB-085", "ITB-054"],
+      "rationale": "Kitchen Equipment Schedule (Refrigerator, Microwave -- True CVM-13-HC-E, 3-Comp Sink [salvaged], 4-Tier Storage Rack, Advance Tabco stainless steel work tables/shelves, Hand Sink [salvaged]) is exactly ITB-085 (Warming Kitchen Food Service Equipment) scope, confirming/upgrading the current index's generic 'Vol1 p.42' citation. Elevations also show an overhead coiling counter shutter at the concessions serving window (ITB-054 Special Doors, matches door 106A on the door schedule).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A10-10",
+      "sheet_title": "ROOM FINISH SCHEDULE AND FINISH PLAN",
+      "package_ids": ["ITB-067", "ITB-066", "ITB-062", "RFP-060", "RFP-045", "ITB-074"],
+      "rationale": "Finish Legend, organized by CSI division, directly lists: Division 03 Concrete -- SC-1 'SEALED CONCRETE...FINE BROOM FINISH' (ITB-067 Concrete Finishing, resolving its zero-drawing gap); Division 09 Finishes -- EP-1 'EPOXY FLOORING' Duraflex Clean Room VL (ITB-066 Fluid-Applied Flooring, resolving its zero-drawing AND zero-spec-section gap) and ACT-1/ACT-2 acoustical ceiling tile Armstrong (ITB-062); Division 06 -- FRP-1/FRP-2 fiberglass reinforced panel Marlite and paint colors (RFP-060); Division 07 -- RF-1 metal panel roof MBCI PBR (RFP-045, matches Clarification RFI #23's basis-of-design); Division 10 -- TP-1 toilet partition Scranton Products (ITB-074). Room Finish Schedule table assigns these finishes room-by-room.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A10-30",
+      "sheet_title": "INTERIOR ELEVATIONS",
+      "package_ids": ["ITB-071", "ITB-077"],
+      "rationale": "Keynote 9-06: '4'-0\" x 8'-0\" MARKERBOARD, CFCI' on Team 2 room elevation -- direct ITB-071 (Visual Display Boards) content. Keynote 9-08: '15'W x 18\"D METAL LOCKERS, B.O.D. ASI STORAGE SOLUTIONS SINGLE TIER LOCKER COMPETITOR COLLECTION, CFCI' on Team 1 room elevation -- this exactly matches the Basis of Design established in Clarification No.1 RFI #3 (ASI Storage Solutions, Pro Collection) for ITB-077 Lockers, resolving its zero-drawing AND zero-spec-section gap with real drawn content.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "A11-10",
+      "sheet_title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+      "package_ids": ["ITB-056", "ITB-054"],
+      "rationale": "Full Door Schedule table (13 door numbers, size/type/material/finish/frame/hardware set), Door Legend, HM Frame @ Head/Jamb details, and door general notes (panic hardware, Knox Box, hardware sets) -- this is ITB-056's (Doors, Frames & Hardware) core scope, confirming/upgrading the current index's generic 'Vol1 p.45' citation. Roll Up Door @ Head/Jamb/Sill details at the bottom of the sheet, plus door 106A scheduled as 'OVERHEAD COUNTER SHUTTER, STAINLESS STEEL, SOLID FRONT, ELECTRIC OPERATION' (matches spec 08 3313 Coiling Counter Doors), are ITB-054 (Special Doors) content.",
+      "confidence": "high"
+    }
+  ],
+  "notes_for_pm": [
+    "COVERAGE RESOLVED: Of the packages CLAUDE.md flagged as having zero drawing-sheet citations, vision review of Vol 1 found real, content-verified drawing sheets for all of them except ITB-008 (Surveying, Layout & Staking) -- surveying/staking scope inherently isn't depicted on finished architectural/civil plan sheets, so its zero-drawing-sheet status appears to be a genuine characteristic of this package, not an indexing gap. Resolved: RFP-002 (AD1-10), RFP-045 (LS1-10, A4-10, A4-20, A10-10), ITB-040 (A4-10, A4-20), ITB-044 (LS1-11, A4-10), ITB-066 (A10-10), ITB-067 (A10-10), ITB-071 (A5-10, A10-30), ITB-072 (G0-11, A5-10), ITB-074 (LS1-10, A9-10, A9-11, A9-20, A10-10), ITB-089 (G0-00, A1-13, A1-20).",
+    "CORRECTION -- ITB-054 mislabeled sheet number: the current package-index.json cites 'A4-10 (Vol1 p.45)' for ITB-054's roll-up door head/jamb/sill detail. Page 45 (1-indexed) is actually sheet A11-10, and the overhead coiling door detail specifically lives on sheet A7-10 (page 39, 1-indexed) and A11-10 (details 6-8). Recommend correcting the citation to A7-10 and/or A11-10, not A4-10.",
+    "CORRECTION -- RFP-022 mislabeled content on L1.02 and L1.03: the current index describes L1.02 as 'Synthetic Turf / Track Notes and Plan' but its actual content is the shot-put/discus field-events layout in the driving-range/parking area -- this is ITB-019 (Track & Field Athletic Equipment) territory, not RFP-022. Similarly, L1.03 is described as 'turf system, high jump, pole vault details' but its actual content is the 400m track layout/markings/lettering plus one synthetic-turf install detail and one concrete-curb detail -- the high jump/pole vault details actually live on L1.07. Recommend scope-drafter re-verify these two citations before drafting RFP-022's Attachment A.",
+    "AMBIGUOUS BOUNDARY: Landscape demolition sheets L0.00/L0.01 (existing track material, natural grass, jump-pit material, goal post/footing removal) read most naturally as RFP-008 (Site Demolition, Salvage...) scope by title, but the current index cites L0.01/L0.02 under RFP-016 (Landscaping & Irrigation) instead. No RFI or scope doc explicitly resolves whether the demo contractor (RFP-008) or the respective install contractors (RFP-021 track, RFP-022 turf, ITB-019 equipment) are responsible for removing the legacy track/turf/pit material ahead of their own work -- this mirrors the RFI #14/#15 pattern already flagged in the index for other demo/install boundaries. Recommend scope-qa flag this explicitly.",
+    "L0.02 has no plotted demolition content ('NO LANDSCAPE DEMOLITION WORK IN THIS AREA') and is not assignable to any package.",
+    "A1-10 (Overall Site Plan) and portions of general civil sheets (C1-C3, MG, G1-G2, UT1-UT2) contain only general project/reference data already fully captured by the existing RFP-008 citation set -- no new package content found on these beyond what's already indexed.",
+    "SPEC-GAP RESOLUTION: RFP-109 (Prefabricated Ticket Booth) scope doc has NO primary specification section in the split spec manual -- sheet A1-40 contains a full written 'PRE-MANUFACTURED TICKET BOOTH SPECS' block (codes/design criteria, construction, doors/windows, utilities, basis of design) that functions as the real specification. Recommend scope-drafter cite A1-40 directly as the spec source for RFP-109 rather than leaving spec_sections empty.",
+    "SPEC-GAP RESOLUTION: RFP-094's Bleacher-specific spec section (13 12 50, cited by its scope doc but absent from the manual) is likewise substantively present as a written 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS' block on sheet A1-40 (and a parallel 'PRE-MANUFACTURED PRESS BOX SPECS' block). Recommend citing A1-40 for RFP-094 as well.",
+    "SPEC-GAP RESOLUTION: ITB-077's missing spec section (10 51 13, absent from manual, previously only resolved via Clarification No.1 RFI #3) now has a matching drawn Basis-of-Design citation on sheet A10-30 keynote 9-08 ('ASI Storage Solutions Single Tier Locker Competitor Collection') -- exact match to the RFI language. Recommend citing A10-30 for ITB-077.",
+    "RESPONSIBILITY MATRIX FOUND: Sheet A1-20's 'Site Equipment Matrix' table formally assigns CFCI (Contractor Furnished, Contractor Installed) responsibility to Scoreboard (ITB-089), Bleachers (RFP-094), Press Box (RFP-094), Trash Receptacle (ITB-018), and Pre-Manufactured Ticket Booth (RFP-109). This table is a useful authoritative source for scope-drafter/scope-qa when writing responsibility language for these five packages -- none of them are Owner-furnished as might otherwise be assumed for 'pre-manufactured'/'prefabricated' items.",
+    "RFP-002 / RFP-008 overlap on AD1-10: keynote 1-06 on the on-site Site Demo Plan reads 'Existing concessions building to be removed, salvage 3-compartment sink and hand sink, refurbish and repair as required for re-use.' This is a THIRD, previously-unflagged overlap between RFP-002 (Abatement & Building Wrecking) and RFP-008 (Site Demolition/Salvage) -- distinct from the already-flagged Alternate 002.02 / 008.04 duplicate (which both concern the OFF-site abandoned elementary school). Recommend PM confirm which package's subcontractor removes/salvages the ON-site concessions building.",
+    "AMBIGUOUS ITEM: G0-00's Deferred Submittals list names 'GOAL POST STRUCTURAL DESIGN' alongside Pressbox/Bleachers/Scoreboard (which map cleanly to RFP-094/ITB-089). Goal post structural design could belong to ITB-019 (Track & Field Athletic Equipment, which supplies football goals per spec 12 93 00) or RFP-033 (Structural Steel & Ornamental Metals, if goal posts are treated as structural steel requiring delegated engineering). Not force-assigned; recommend PM confirm which awarded sub is responsible for this deferred submittal.",
+    "Architectural drawing index gap (noted in the existing package-index.json _flags_for_pm) is now substantially closed for Vol 1 -- all 45 sheets in this file were opened and read directly; real sheet numbers, titles, and content are now available for G-, LS-, C-, MG/G/GD/UT-, L-, AD-, and A-series sheets. Structural (S-), Mechanical (M-), Plumbing (P-), and Electrical (E-) sheets referenced in the current index are NOT in this file (03.01 - Bid Plans Vol 1) -- they live in Vol 2, which was not part of this vision pass."
+  ]
+}
