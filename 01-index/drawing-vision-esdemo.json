@@ -1,0 +1,57 @@
+{
+  "_generated": "2026-07-11",
+  "_source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+  "_method": "vision -- actually opened and read each sheet's content",
+  "sheet_assignments": [
+    {
+      "sheet_number": "AD1.11",
+      "sheet_title": "DEMOLITION PLAN - ES",
+      "package_ids": ["RFP-002", "RFP-008"],
+      "rationale": "Master ES site demo plan: Bldgs 3,4,5,6,7 hatched for demolition (Bldgs 1&2 to remain) = building wrecking scope (RFP-002); Landscape Demolition Notes (fell 40 trees, remove shrubs, kill irrigation) match RFP-008's cited Site Clearing spec 31 10 00; keynotes 11/16/18 (remove existing propane tank/enclosure/piping, relocate new propane tank) match RFP-008 Alternate 008.03 'Propane Gas System' verbatim. General asbestos note is boilerplate ('IF asbestos is determined...'), not a specific ACM callout.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "AD1.12",
+      "sheet_title": "POST-DEMOLITION PLAN - ES",
+      "package_ids": ["RFP-002", "RFP-008"],
+      "rationale": "End-state plan after demo: Bldgs 1&2 remain, new chainlink fence and retaining walls to remain, existing water line to remain, cross-references AD1.13/AD1.15 for wet utility demo detail. Shows the combined outcome of both building wrecking and site/utility demo work rather than delineating scope by trade.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "AD1.13",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 4",
+      "package_ids": ["RFP-002", "RFP-008"],
+      "rationale": "Wall-legend demo plan (upper/lower levels) showing walls to be demolished vs. demolished-to-grade vs. remain = building wrecking (RFP-002). Also shows WC/lavatory removal and sewer/water lines cut & capped below finish slab -- overlaps RFP-008's cited Water Distribution (33 10 00) / Sanitary Sewer (33 30 00) sections. Trade boundary for the interior utility cut/cap is not resolved by the drawing alone.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "AD1.14",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 5&6",
+      "package_ids": ["RFP-002", "RFP-008"],
+      "rationale": "Same pattern as AD1.13: wall-legend building demo plan (RFP-002) plus WC/lavatory removal and cut & cap sewer/water lines below slab (RFP-008 wet-utility overlap). Also notes existing salvage pipe columns to remain in place, typ. as shown.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "AD1.15",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+      "package_ids": ["RFP-002", "RFP-008"],
+      "rationale": "Enlarged demo plans for Bldgs 3 & 7 plus 5 demo details: stem-wall demo to grade, slab cut/patch, new chainlink fence tied into existing retaining wall, salvaged steel pipe column relocated onto a new steel channel bracket, and WC/lavatory removal with sewer/water cut & cap below slab. Building wrecking details dominate (RFP-002); wet-utility cut/cap detail again overlaps RFP-008. The steel-post salvage/reset detail is a minor gray-zone item (new steel bracket + expansion bolts) but reads as incidental to the wrecking sub's scope, not a distinct structural-steel package.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "AD1.16",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+      "package_ids": ["RFP-002", "RFP-008"],
+      "rationale": "Explicitly labeled 'ALTERNATE' enlarged demo plan for Bldg 4 lower level: demo stem wall to finish grade, demo concrete/steel stair system complete, demo wooden shed and floor structure, exposed earth to remain, new chainlink fence tie-in. This appears to be the drawing basis for the identically-worded 'ADD - Demolition & Site Clearing at Abandoned Elementary School Campus' alternate that exists on BOTH RFP-002 (Alt 002.02) and RFP-008 (Alt 008.04) per package-index.json bid_form_line_items -- see notes_for_pm.",
+      "confidence": "medium"
+    }
+  ],
+  "notes_for_pm": [
+    "Scope check: this entire 6-sheet ES Demo drawing set had zero prior citations in package-index.json -- confirmed as a genuine first pass, not a verification gap.",
+    "This drawing set is legitimately in scope for the current buyout, not a separate contract: CLAUDE.md's Total Budget line explicitly states the $12M covers 'THS Sports Complex + Tonopah Elementary School Demolition,' and RFP-002/RFP-008 both carry ES-campus-specific alternates that reference 'Abandoned Elementary School Campus.' The title block's Job No. 210090 differs from the main GMP job number (25-10-003) -- this reads as the architect's (KNIT Studios) internal project number for the ES demo design package, not evidence of a different owner contract, but worth a quick PM confirmation since it's an unexplained number mismatch similar to the numbering-drift flags already in the index.",
+    "KEY AMBIGUITY: RFP-002 Alternate 002.02 and RFP-008 Alternate 008.04 are worded IDENTICALLY -- 'ADD - Demolition & Site Clearing at Abandoned Elementary School Campus' (confirmed by reading both entries in package-index.json). This ES Demo drawing set is almost certainly the shared source drawings for that one alternate description, but it's unresolved whether: (a) the alternate is split by trade -- RFP-002's wrecking sub demolishes the building shells while RFP-008's sub handles site clearing/utilities/landscape/paving, or (b) both packages are pricing the SAME combined scope as competing/overlapping alternates. This needs to be resolved from the 1% Descopes / scope-review agenda files in SUBCONTRACTOR FILES before scope-qa runs, since it directly affects how Attachment A divides RFP-002 vs RFP-008 for the ES alternate.",
+    "No sheet shows asbestos-specific graphic notation (no ACM hatching, no hazmat-specific keynote legend) -- only a generic 'if asbestos is found, retain an abatement contractor' note on AD1.11. Actual ACM locations live in the separate Asbestos Survey report (04-specs-reports/), consistent with CLAUDE.md's note that Clarification No. 1 (RFI #16) already ties asbestos quantities on this project to Buildings 3-7 -- the same buildings shown hatched-for-demolition here. Since RFP-002's title bundles 'Abatement & Building Wrecking' into one package, there is no drawing-driven need to split abatement vs. wrecking within RFP-002 itself; the real split question is RFP-002 vs. RFP-008 as noted above.",
+    "Interior WC/lavatory removal and sewer/water line cut-and-cap-below-slab appear on AD1.13, AD1.14, and AD1.15 for every building. This is a recurring RFP-002/RFP-008 boundary item -- recommend scope-qa confirm against the awarded subs' actual proposals (Northstar for RFP-002 per current index) which sub is pricing this interior utility disconnection work.",
+    "AD1.15's detail of relocating a salvaged 3-inch steel pipe column onto a new steel channel bracket (with expansion bolts) is a small item that touches 'new steel fabrication' language -- flagged only because RFP-033 (Structural Steel & Ornamental Metals) exists as a separate 1% package, but that package is scoped to the new sports complex construction, not ES demo salvage, so this is very likely incidental to RFP-002's wrecking scope. No action needed unless scope-qa disagrees."
+  ]
+}
