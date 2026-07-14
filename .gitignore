@@ -1,0 +1,8 @@
+# Personal Claude Code notes (not shared with the team)
+CLAUDE.local.md
+
+# Secrets (e.g. ANTHROPIC_API_KEY for scripts/upload-files.py)
+.env
+
+__pycache__/
+*.pyc
