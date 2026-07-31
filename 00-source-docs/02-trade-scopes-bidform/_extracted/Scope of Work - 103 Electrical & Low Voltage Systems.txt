@@ -1,0 +1,216 @@
+SCOPE OF WORK
+PROPOSAL PACKAGE #103 Electrical & Low Voltage Systems
+
+PRECEDENCE
+
+The trade partner Proposer submitting on this Scope of Work Proposal Package acknowledges receipt and review of this document, understands the Work and Expectations set forth under this agreement, and agrees to the terms and conditions thereof.  This document is intended to compliment the Contract Documents, however, in the event of any inconsistency, the Contract Documents (Plans, Specifications, and Supplemental Documents), shall govern.
+
+SCHEDULE
+
+Refer to the published schedule with the Notice of Request for Proposals (RFP) for pertinent start, end, and critical milestone dates for work associated with this proposal package.  It is expected that the Proposer shall provide all necessary labor, material, and equipment to meet the published schedule durations as part of the Base (“Bid”) Proposal Value.  Should the Proposer feel that this published duration is not optimal and believe that a more cost-efficient duration option is available, CORE Construction (“Contractor”) encourages the Proposer to include this information and cost savings value as a Voluntary Alternate on the Proposal (“Bid”) Form.
+
+REASONABLE INFERENCE / GURANTEED MAXIMUM PRICE PROPOSAL
+
+This delivery method requires a Guaranteed Maximum Price (GMP).  No change orders will be issued for work that is clearly identified, or can be reasonably inferred from the Contract Documents (Plans, Specifications, and Supplemental Documents).  Reasonable inference is subject to industry best practice standards and experience.  If the Proposer is concerned with what may or may not be construed as Reasonable Inference, Contractor highly recommends issuing a Request for Information clarifying the matter.  Exclusion of this clause may be grounds for disqualification of the subcontractor’s proposal.
+
+EXISTING CONDITIONS
+
+The site is currently active and is not available to Proposers without coordination with Contractor.  Do not contact the client / end users for access to the site.  Contractor has published reference documentation on existing conditions of the proposed site at the FTP site.  These documents may include subsurface utility locating maps, ground penetrating radar maps, potholing reports, as-built documents, drone videos / images, laser scans, photos, etc.  If there is any specific information about existing conditions that is required to finalize the value of the scope of work proposal package, Contractor encourages issuing a Request for Information identifying the necessary data.
+
+If information that is needed to finalize the proposal value is unavailable at the deadline for proposals, include the value as an Allowance, clearly identified in the Voluntary Alternates section of the Proposal (“Bid”) Form.
+
+CONSTRUCTION DOCUMENTS
+
+The Construction Documents to be used in developing pricing for this proposal package can be found here:
+
+BuildingConnected,
+If you need access, please contact CORE’S Team member
+
+Documents included are as follows: Plans, Specifications, Geotechnical Report(s), Asbestos Report(s), Contractor’s Notice of Request for Proposals, Preliminary Construction Schedule, Sample Subcontract Agreement, Insurance Requirements, Textura Information, General Trade Partner Requirements, Scopes of Work Proposal Packages, Subcontractor Proposal (“Bid”) Form, Affidavit(s), Addenda and Clarifications (if issued), Supplemental (Reference) Documents.
+
+SCOPE OF WORK
+
+Subcontractors shall include in their Base (“Bid”) Proposals the cost of providing all labor, material, equipment, supervision, services, taxes, insurances, license, fees, overhead, and profit, etc. necessary or incidentally required to complete the Work identified in this package.  Items not clearly shown on the drawings or indicated in other contract documents but reasonably inferable from the contract documents or necessary to the integrity and proper functioning of the Subcontractor’s Work are to be included in the Base (“Bid”) Proposal value.
+
+Complete all Electrical & Low Voltage Systems Work in accordance with the plans and specifications in conformity with the contract, and other documents listed in the RFP and this Scope of Work Proposal Package.
+
+Primary Specifications
+Division 26 – Electrical
+Division 27 – Communications
+Division 28 – Electronic Safety and Security
+
+Related Specifications
+Division 00 – Procurement and Contracting Requirements
+Division 01 – General Requirements
+Section 07 84 00 – Firestopping
+Section 07 92 00 – Joint Sealants
+Section 08 31 00 – Access Doors and Panels
+Section 08 71 00 – Door Hardware
+Division 22 – Plumbing
+Division 23 – HVAC
+Division 31 – Earthwork
+
+Scope of Work – Site Electrical & Low Voltage Systems – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Safe-off and disconnect existing electrical & low voltage equipment (for removal by others) scheduled for Demolition, including concessions building systems and equipment, electrical panel at pressbox, field lighting, and scoreboard, and associated circuiting, prior to Demolition activities.
+Safe-off, disconnect, and Salvage equipment as indicated, prior to start of Demolition activities, including:
+Sports field loudspeakers.
+Sports field PA system cabinet and related equipment.
+Wireless transmitter and announcement speakers, and associated cabling.
+Microphones, and associated mounts, chargers, cabling, and freestanding speakers.
+Coordinate with Contractor for removal, protection, and storage / turnover as required.
+Provide and install all neew electrical equipment as required, including new transformer and lighting controller and associated weatherproof enclosures.
+Coordinate with Scoreboard Subcontractor for transformer mounting requirements.
+Supply and install conduit, pull boxes, hand holes, vaults, pull string, wiring, cabling, and stub-outs for site Electrical & Low Voltage systems, including concrete collars around pull boxes as required.
+Includes power and data to Sports Field Lighting.
+Includes power and data to Scoreboard.
+Includes power and data to Pressbox.
+Includes power and data to Irrigation controls, as required.
+Supply and install Low Voltage pathway, including all conduit, pull boxes, vaults, pull string, and cabling from existing field in-ground boxes back to High School IT Rooms as indicated and required, including exterior wall mounted NEMA boxes, and patch cables, as specified.
+Work at High School building shall be performed to minimize impact to existing facility wherever possible. Provide all sawcutting, selective demolition, and patch back repairs as required to complete this scope of work. Patch backs shall match existing finishes.
+Coordinate with Contractor and Owner as required for work at existing High School building.
+Lay-out and verify all equipment pads, equipment supports, sleeves, and block outs in concrete and masonry retaining wall and footing systems, including sizes and locations.
+Coordinate layout and installation of all materials to be placed in masonry and concrete with respective trades.
+Supply and install all sleeves and flashings for this scope of work and any coring, if not sleeved. Provide coordination drawings showing locations and sizes for all sleeved penetrations prior to starting this phase of work.
+Supply and install all required site electrical & low voltage identification including but not limited to color coding & labeling of all equipment, and mechanically attached tags as required.
+Provide all cabling, testing, and terminations as required for a complete scope of work.
+
+Scope of Work – Trenching and Backfill – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Request Call Before You Dig onsite prior to any excavation activities to obtain dig permit. Locate/mark-out known private utilities in the vicinity of excavation activities prior to commencement.
+Provide all excavation, trenching, shoring, backfill, and compaction and for this scope of work as required and in compliance with OSHA standards and Contractor requirements.
+Includes trenching for Landscape Irrigation control power.
+Provide all excavation support and hazard protection, including shop drawings and engineering, as required (only if shoring is required).
+Provide haul-off and legal disposal of all spoils created due to this scope of work.
+Perform all hard digging required for this scope of work, including Caliche excavation, haul and disposal, as indicated per the Geotechnical Report.
+Excavate, form, reinforce, place, finish, and backfill all concrete structures for electrical work, including slurry as required.  Comply with the requirements of the Drawings and Section 03 30 00 – Cast-in-Place Concrete.  Provide all excavation, concrete, reinforcing, sacking, and drypack for light pole sports field light pole bases.
+At the completion of trenching and backfilling, subgrade elevations shall match adjacent subgrade elevations.
+Coordinate with Contractor and the Concrete Subcontractor for location and depths of all underground piping to minimize sleeving or stepped footings.
+Coordinate layout of site utility work with Wet Utilities and Landscape & Irrigation Subcontractors to eliminate conflicts.
+Provide dust control for all operations related to this scope of work per Nye County Air Quality requirements.
+Clean and maintain trucking access routes for all equipment, including street sweeping as required for this scope of work only.
+
+Scope of Work – Sports Field Lighting – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply and install Sports Field Lighting system including poles, luminaires, conduit, pathway, wiring, and any parts or accessories required to provide complete and operational system.
+Provide all design as required, including footing design.
+Include light study showing footcandle coverage across field and track.
+Supply and install full Lighting Control System, including conduit, pathway, wiring, programming, and commissioning of lighting system.
+Excavate and pour light pole bases.
+Supply and install all anchor bolts, nuts, and templates for light poles.
+
+Scope of Work – Building Electrical – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply and install all components including electrical equipment, panels, starters, meters, conduit, raceways, conductors, grounding, wiring, fittings, boxes, receptacles, switches, anchors, supports, cabling, backing for electrical support, back boxes, fire-treated plywood back boards, unistrut, hangers, interior and exterior lights and lighting controls, lamps, and any parts or accessories required to provide complete and operational electrical system.
+MC Cable is permitted only as specified. However, MC Cable shall not be bundled due to the potential for overheating the cable assembly. Maintain separation from adjacent cables per UL Listing for this cable.
+Supply and install exterior emergency light fixtures, whether or not indicated on plans.
+Supply and install all electrical switchgear as indicated and required.
+Provide temporary electrical service and distribution system for construction operations and temporary lighting for construction operations, including temporary power to CORE trailer, trade partner trailers, and both onsite buildings until permanent lighting is operational. Comply with the requirements of Nye County, the Drawings, and Specifications. Electrical power and lighting levels shall be maintained for the duration of the project to meet or exceed OSHA requirements.
+Provide every room with a light.
+Confirm availability of power supply from AHJ, and provide the following temporary power to the jobsite:
+200A at trailer yard.
+200A at new building.
+Lay-out and verify all equipment pads, equipment supports, sleeves, floor boxes, openings, and block outs in structural roof systems, masonry, and concrete, including sizes and locations.
+Coordinate layout and installation of all materials to be placed in masonry and concrete with respective trades.
+Coordinate layout and installation of lighting and ceiling mounted fixtures with HVAC subcontractor and Acoustical Ceiling Subcontractor as required to avoid conflicts. Center all ceiling mounted fixtures in center of acoustical ceiling tile.
+Supply and install all required electrical identification including but not limited to color coding & labeling of all equipment and panels, and mechanically attached tags as required.
+Provide boxes, raceways, and conductors for power and controls, and all final electrical connections for equipment installed by others to include the following:
+Food service equipment.
+Includes power and controls for all Owner Furnished, Owner Installed (OFOI) equipment.
+Provide conduit and wire for power and data, and all final electrical connections for equipment installed by others as indicated, including Mechanical equipment, Plumbing equipment, and smoke detectors.
+Supply and install mechanically attached electrical placards for Electrical Disconnects and Main Electrical Rooms.
+Include 120v power circuit for controls at all equipment controllers, whether or not shown on drawings.
+Supply and install emergency light fixtures, including 90-minute battery backup.
+Includes all lighting mounting clips and hardware required for a complete installation.
+
+Scope of Work – Communications System – Provide all materials, labor, equipment, and supervision for a complete Communications System scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Provide complete Communications system including conduit, boxes, anchors, supports, Unistrut, hangers, wiring including LAN and VOIP systems, Wiremold, conductors, devices, and equipment including fittings, horizontal cabling and ER and IT Rooms’ construction including fittings and equipment backbone cabling.
+Includes all wiring, equipment, etc. for Concessions Building, Press Box, and Ticketing Booth, as indicated and required.
+Subcontractor shall provide all required equipment, devices, and appurtenances, to ensure systems are fully operational.
+Provide all cabling, devices, terminations and testing for LAN and VOIP systems
+Telephone backboards in the ER’s and TR’s as indicated and required.
+Provide / install all equipment racks and active equipment as indicated.
+Provide grounding at all TR equipment and racks.
+Coordinate installation of OFCI and OFOI equipment.
+Install all OFCI Low Voltage equipment, including installation of salvaged equipment, as indicated.
+Lay-out and verify all equipment pads, equipment supports, sleeves, floor boxes, openings, and block outs in structural roof and floor systems, masonry, and concrete, including sizes and locations.
+Coordinate layout and installation of all materials to be placed in masonry and concrete with respective trades.
+Supply and install all required low voltage identification including but not limited to color coding & labeling of all equipment and panels, and mechanically attached tags as required.
+Supply and install cabling and controls, and all final low voltage connections for equipment installed by others.
+Include firestop putty pads at all junction boxes in rated walls.
+Include pathway for fire alarm, data, and power.
+
+Scope of Work – Audio-Visual System – Provide all materials, labor, equipment, and supervision for a complete Audio-Visual System scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Provide complete Audio-Visual system including conduit, boxes, anchors, supports, unistrut, hangers, wiring, wiremold, conductors, devices, and equipment including fittings, as indicated and required for a complete scope of work.
+Subcontractor shall provide all required equipment, devices, mounting hardware, poles, and appurtenances, to ensure systems are fully operational.
+Conduit and pull string for the audio-visual system. Also include wiring, devices, terminations, and testing.
+Install salvaged equipment as indicated.
+Includes all final connections. Coordinate with Press Box manufacturer as required.
+
+Scope of Work – Security Systems – Provide all materials, labor, equipment, and supervision for a complete Security Systems scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Provide common work results, conductors and cables, grounding and boxes, conduits and back boxes, power supplies, patch panels, plugs, cords, and identification for electronic safety and security systems, including mechanically attached tags as required.
+Subcontractor shall provide all required equipment, devices, and appurtenances, to ensure systems are fully operational.
+CCTV – Provide CCTV system for building and site, including devices, VMS and video storage solution and work stations. Install Owner provided cameras & mounts.
+
+Scope of Work – Fire Detection and Alarm System – Provide all materials, labor, equipment, and supervision for a complete Fire Detection and Alarm System scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Provide complete and operational fire detection and alarm system including all conduit, fittings, boxes, anchors, supports, Unistrut, hangers, wiring, devices, and equipment for digital addressable fire alarm system with voice evacuation function as indicated and required.
+MC Cable is not permitted for Power-Limited Fire Alarm circuits.
+Subcontractor shall provide all required equipment, devices, and appurtenances to ensure system is fully operational and Code compliant.
+Provide smoke detectors and strobes in all Restrooms.
+Supply and monitor smoke detectors.
+Obtain permit for fire alarm system from the AHJ. Provide fire alarm system drawings to governing authorities for review and approval including all associated costs for printing, engineering, and permitting.
+Provide and connect duct detectors as required, including test switches (installation of duct detectors by HVAC Subcontractor).
+Include all final connections for fire alarm system.
+
+Scope of Work – General Scope Requirements – The following requirements shall apply to all Work under this Scope of Work package:
+Provide all tests and certifications required for complete and operational systems.
+Perform any testing and inspections, including mandrel inspections, required for agency approval of dry utility systems. Provide third party electrical testing as required.
+Provide final utility adjustments prior to site concrete work.
+Provide a qualified representative onsite for all tests and inspections as required.
+Subcontractor is responsible for scheduling testing and walking with inspectors to get systems signed off for final approval.
+Subcontractor responsible for scope coordination, including but not limited to:
+Coordinate with Contractor and the Masonry and Concrete Subcontractors for location and depths of all underground piping to minimize sleeving or stepped footings.
+Coordinate with Architectural and Structural drawings for required clearances.
+Coordinate roof penetration requirements with Roofing Subcontractor to maintain roofing system integrity and warranty.
+All roof penetrations to be at least 12-inches apart.
+Coordinate with Plumbing Subcontractor for all system interfaces and final terminations.
+Coordinate Electrical Testing Requirements with Owner’s consultant.
+Coordinate Electrical Commissioning Requirements with Owner’s consultant.
+Coordinate with HVAC & Building Controls Subcontractor for interface with Building Control Systems as required.
+Coordination of start-up of all Electrical systems, provide certifications, and include any required training. Coordinate and participate with Commissioning and Contractor’s testing and balancing programs and Agencies/Subcontractors.
+Supply and install engineered seismic design, bracing, restraints, and supports for all equipment related to this scope of work including support light fixtures as required and in accordance with the requirements of the project documents and the governing authorities.
+Comply with the requirements of the Geotechnical Report and Contract Documents for seismic requirements. In the event of a conflict in requirements between the documents, the most stringent requirement shall prevail.
+All supports and hangers shall be coordinated with the architectural and structural requirements, and shall be attached to structural steel framing members. Piping and hangers shall not hang from decking.
+Supply and install all sleeves and flashings for this scope of work. Provide coordination drawings showing locations and sizes for all sleeved penetrations prior to starting work.
+Seal all through-wall penetrations related to this scope of work as indicated and, if rated construction, provide approved firestopping system in compliance with Contract Document requirements and the requirements of the governing authorities. Provide acoustical sealants for non-rated penetrations.
+Supply and install acoustical sealant pads and fire rated pads at electrical boxes as specified and required.
+Supply only all access doors and panels (required to be keyed a like), rated and non-rated as required, for access to electrical work concealed by wall and/or ceiling construction.  Access doors and panels are required to be keyed alike and will be installed by others. Coordinate layout of backing, supports, access doors and panels with Framing Subcontractor. Coordinate type of access doors required with Architectural plans and specifications.
+All materials stored inside the building shall be on wheels.
+Some overhead raceways and equipment may be architecturally exposed.  Where exposed, installation shall be performed in a manner that is architecturally aesthetic.  All routing, support systems, and sealants for exposed work shall be coordinated and mocked-up as necessary prior to installation. Coordinate with onsite Superintendent for mock-up size and requirements.
+Start-up all systems and include any required training, commissioning, testing and balancing programs, and final adjustments as required.
+Provide all disconnects, raceways, boxes, conductors, and final connections to plumbing equipment.  Comply with the requirements of the Drawings and DIVISION 22 Sections.
+Provide all disconnects, raceways, boxes, conductors, and final connections to HVAC equipment. Coordinate with HVAC Subcontractor for all power requirements for HVAC equipment.  Comply with the requirements of the Drawings and DIVISION 23 Sections.
+Comply with warranty requirements as specified, including coordination and compliance with requirements of any specified insurance requirements set forth in the contract documents.
+Include multiple mobilizations, import/export, and haul/disposal activities as may be required per the Preliminary Construction Schedule and Logistics Plan.
+Subcontractor shall provide competent foreman who shall participate in daily huddle and weekly workplan meetings.
+Unless otherwise stated or noted on drawings and specifications, all overhead systems must be labeled per ASME 13.1 for all State of Nevada projects.
+Provide submittals and shop drawings as specified and required for all Electrical and Low Voltage systems.
+
+RFI’s must be submitted via the message function in Building Connected.
+
+ALTERNATES
+
+The following alternates are identified in the Contract Documents or are Specifically Requested by Contractor through this Scope of Work Proposal Package.
+
+Alternate 103.01 – (ADD) – Electrical Demo at Abandoned Elementary School Campus
+State the amount to be added to Subcontractor's Proposal to demolish electrical equipment at abandoned elementary school campus (Idaho Circle), as indicated and required, including:
+
+Safe-off and disconnect Electrical and Low Volage systems at buildings scheduled for demolition.
+Includes Fire Alarm systems.
+Includes feeders as indicated and required.
+
+TRADE PARTNER VOLUNTARY ALTERNATES
+
+The Proposer may choose to include any number of voluntary additive and/or deductive alternates to the Base (“Bid”) Proposal Value submitted and the Alternates identified above.  These Voluntary Alternates can be utilized for the purposes of, but not limited to, value engineering, product substitution, scope of work clarification/deviation, identifying Allowances for unknown criteria, etc.  All Voluntary Alternates should be supported by applicable documentation, substantiating the basis of the scope/value/product/etc., at the time of bid, or should be noted to follow within 24 hours.
+
+DISCLAIMER
+
+The client and CORE Construction reserve the right to accept or reject any or all proposals and to waive irregularities in the proposal process and to accept any proposal which is determined by the client and CORE Construction to be in their best interests.
+
+END OF SCOPE OF WORK

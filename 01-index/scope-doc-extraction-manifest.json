@@ -1,0 +1,857 @@
+{
+  "_generated": "2026-07-31",
+  "_why": "The initial package-index.json stored scope_of_work_doc as a filename only; the narratives were never read. PM review found this caused resolvable scope questions to be flagged as unresolvable. These extractions are the input for the re-index.",
+  "documents": [
+    {
+      "source": "02-trade-scopes-bidform/Invitation to Bid (Non-1%).docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Invitation to Bid (Non-1%).txt",
+      "chars": 11521,
+      "articles_found": []
+    },
+    {
+      "source": "02-trade-scopes-bidform/Notice of Request for Proposals (1%).docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Notice of Request for Proposals (1%).txt",
+      "chars": 12461,
+      "articles_found": []
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 002 Abatement & Building Wrecking.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 002 Abatement & Building Wrecking.txt",
+      "chars": 11801,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 57
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 514
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1187
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 8709
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 007 Surveying & Staking.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 007 Surveying & Staking.txt",
+      "chars": 8895,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 56
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 513
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1186
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.txt",
+      "chars": 22919,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 100
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 557
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1230
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 18628
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 016 Landscaping & Irrigation.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 016 Landscaping & Irrigation.txt",
+      "chars": 10405,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 61
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 518
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1191
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 8231
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 018 Site Furnishings.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 018 Site Furnishings.txt",
+      "chars": 7035,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 53
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 510
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1183
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 5764
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 019 Track & Field Athletic Equipment.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 019 Track & Field Athletic Equipment.txt",
+      "chars": 8382,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 69
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 526
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1199
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 6910
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 021 Running Track Surfacing.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 021 Running Track Surfacing.txt",
+      "chars": 8980,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 60
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 517
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1190
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 7665
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 022 Synthetic Turf Sports Field.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 022 Synthetic Turf Sports Field.txt",
+      "chars": 8281,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 64
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 521
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1194
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 6729
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 023 Fencing & Gates.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 023 Fencing & Gates.txt",
+      "chars": 9332,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 52
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 509
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1182
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 6696
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 030 Concrete.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 030 Concrete.txt",
+      "chars": 14225,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 45
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 502
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1175
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 12942
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 031 Masonry.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 031 Masonry.txt",
+      "chars": 9626,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 44
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 501
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1174
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 033 Structural Steel & Ornamental Metals.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 033 Structural Steel & Ornamental Metals.txt",
+      "chars": 11696,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 73
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 530
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1203
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 10160
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 040 Moisture Protection & Sealants.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 040 Moisture Protection & Sealants.txt",
+      "chars": 8492,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 67
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 524
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1197
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 044 Insulation.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 044 Insulation.txt",
+      "chars": 7430,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 47
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 504
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1177
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 6124
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.txt",
+      "chars": 9956,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 74
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 531
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1204
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 054 Special Doors.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 054 Special Doors.txt",
+      "chars": 7189,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 50
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 507
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1180
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 056 Doors, Frames & Hardware.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 056 Doors, Frames & Hardware.txt",
+      "chars": 9098,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 61
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 518
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1191
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.txt",
+      "chars": 14138,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 75
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 532
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1205
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 12247
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 062 Acoustical Ceilings Treatments.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 062 Acoustical Ceilings Treatments.txt",
+      "chars": 7735,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 67
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 524
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1197
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 066 Fluid-Applied Floors.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 066 Fluid-Applied Floors.txt",
+      "chars": 8407,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 60
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 517
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1190
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 7107
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 067 Concrete Finishing.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 067 Concrete Finishing.txt",
+      "chars": 6587,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 56
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 513
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1186
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 071 Visual Display Boards & Menu Display Case.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 071 Visual Display Boards & Menu Display Case.txt",
+      "chars": 7028,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 78
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 535
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1208
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 072 Building Signage.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 072 Building Signage.txt",
+      "chars": 7313,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 53
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 510
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1183
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 5986
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 074 Building & Fire Protection Specialties.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 074 Building & Fire Protection Specialties.txt",
+      "chars": 10046,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 75
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 532
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1205
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 8779
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 077 Lockers.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 077 Lockers.txt",
+      "chars": 6950,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 44
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 501
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1174
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 078 Flagpoles.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 078 Flagpoles.txt",
+      "chars": 6653,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 46
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 503
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1176
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 085 Warming Kitchen Food Service Equipment.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 085 Warming Kitchen Food Service Equipment.txt",
+      "chars": 8813,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 75
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 532
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1205
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 7486
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 089 Scoreboards.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 089 Scoreboards.txt",
+      "chars": 7791,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 48
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 505
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1178
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 094 Bleachers & Press Box.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 094 Bleachers & Press Box.txt",
+      "chars": 11112,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 58
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 515
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1188
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 9560
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 098 Plumbing Systems.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 098 Plumbing Systems.txt",
+      "chars": 13053,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 53
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 510
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1183
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 10791
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 099 HVAC & Building Controls Systems.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 099 HVAC & Building Controls Systems.txt",
+      "chars": 15631,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 69
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 526
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1199
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 13655
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 103 Electrical & Low Voltage Systems.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 103 Electrical & Low Voltage Systems.txt",
+      "chars": 25248,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 69
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 526
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1199
+        },
+        {
+          "article": "ALTERNATES",
+          "char_offset": 23724
+        }
+      ]
+    },
+    {
+      "source": "02-trade-scopes-bidform/Scope of Work - 109 Prefabricated Ticket Booth.docx",
+      "extracted_to": "02-trade-scopes-bidform/_extracted/Scope of Work - 109 Prefabricated Ticket Booth.txt",
+      "chars": 8147,
+      "articles_found": [
+        {
+          "article": "SCOPE OF WORK",
+          "char_offset": 0
+        },
+        {
+          "article": "PRECEDENCE",
+          "char_offset": 63
+        },
+        {
+          "article": "SCHEDULE",
+          "char_offset": 520
+        },
+        {
+          "article": "REASONABLE INFERENCE",
+          "char_offset": 1193
+        }
+      ]
+    }
+  ]
+}

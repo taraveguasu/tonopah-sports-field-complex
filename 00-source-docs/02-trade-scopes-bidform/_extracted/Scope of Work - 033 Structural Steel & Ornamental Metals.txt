@@ -1,0 +1,108 @@
+SCOPE OF WORK
+PROPOSAL PACKAGE #033 Structural Steel & Ornamental Metals
+
+PRECEDENCE
+
+The trade partner Proposer submitting on this Scope of Work Proposal Package acknowledges receipt and review of this document, understands the Work and Expectations set forth under this agreement, and agrees to the terms and conditions thereof.  This document is intended to compliment the Contract Documents, however, in the event of any inconsistency, the Contract Documents (Plans, Specifications, and Supplemental Documents), shall govern.
+
+SCHEDULE
+
+Refer to the published schedule with the Notice of Request for Proposals (RFP) for pertinent start, end, and critical milestone dates for work associated with this proposal package.  It is expected that the Proposer shall provide all necessary labor, material, and equipment to meet the published schedule durations as part of the Base (“Bid”) Proposal Value.  Should the Proposer feel that this published duration is not optimal and believe that a more cost-efficient duration option is available, CORE Construction (“Contractor”) encourages the Proposer to include this information and cost savings value as a Voluntary Alternate on the Proposal (“Bid”) Form.
+
+REASONABLE INFERENCE / GURANTEED MAXIMUM PRICE PROPOSAL
+
+This delivery method requires a Guaranteed Maximum Price (GMP).  No change orders will be issued for work that is clearly identified, or can be reasonably inferred from the Contract Documents (Plans, Specifications, and Supplemental Documents).  Reasonable inference is subject to industry best practice standards and experience.  If the Proposer is concerned with what may or may not be construed as Reasonable Inference, Contractor highly recommends issuing a Request for Information clarifying the matter.  Exclusion of this clause may be grounds for disqualification of the subcontractor’s proposal.
+
+EXISTING CONDITIONS
+
+The site is currently active and is not available to Proposers without coordination with Contractor.  Do not contact the client / end users for access to the site.  Contractor has published reference documentation on existing conditions of the proposed site at the FTP site.  These documents may include subsurface utility locating maps, ground penetrating radar maps, potholing reports, as-built documents, drone videos / images, laser scans, photos, etc.  If there is any specific information about existing conditions that is required to finalize the value of the scope of work proposal package, Contractor encourages issuing a Request for Information identifying the necessary data.
+
+If information that is needed to finalize the proposal value is unavailable at the deadline for proposals, include the value as an Allowance, clearly identified in the Voluntary Alternates section of the Proposal (“Bid”) Form.
+
+CONSTRUCTION DOCUMENTS
+
+The Construction Documents to be used in developing pricing for this proposal package can be found here:
+
+BuildingConnected,
+If you need access, please contact CORE’S Team member
+
+Documents included are as follows: Plans, Specifications, Geotechnical Report(s), Asbestos Report(s), Contractor’s Notice of Request for Proposals, Preliminary Construction Schedule, Sample Subcontract Agreement, Insurance Requirements, Textura Information, General Trade Partner Requirements, Scopes of Work Proposal Packages, Subcontractor Proposal (“Bid”) Form, Affidavit(s), Addenda and Clarifications (if issued), Supplemental (Reference) Documents.
+
+SCOPE OF WORK
+
+Subcontractors shall include in their Base (“Bid”) Proposals the cost of providing all labor, material, equipment, supervision, services, taxes, insurances, license, fees, overhead, and profit, etc. necessary or incidentally required to complete the Work identified in this package.  Items not clearly shown on the drawings or indicated in other contract documents but reasonably inferable from the contract documents or necessary to the integrity and proper functioning of the Subcontractor’s Work are to be included in the Base (“Bid”) Proposal value.
+
+Complete all Structural Steel & Ornamental Metals Work in accordance with the plans and specifications in conformity with the contract, and other documents listed in the RFP and this Scope of Work Proposal Package.
+
+Primary Specifications
+Section 05 12 23 – Structural Steel
+Section 05 50 00 – Metal Fabrications
+Section 05 31 12 – Steel Roof Decking
+
+Related Specifications
+Division 00 – Procurement and Contracting Requirements
+Division 01 – General Requirements
+Division 03 – Concrete
+Division 04 – Masonry
+
+Scope of Work – Structural Steel – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply and install all angles, ledger angles, CMU wall beam bearing plates, and all related structural steel components as required for a complete scope of work.
+Provide and install support framing for Scoreboard.
+Provide layout shop drawings for and supply only, F.O.B. jobsite, all structural steel embeds, masonry wall embeds, and anchor bolts for columns assembled with templates. Coordinate delivery and layout of embeds with Masonry and Concrete Subcontractors.
+Shop prime and galvanize materials as indicated per plans and specifications.
+
+Scope of Work – Steel Bar Joists – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply and install all steel bar steel joists including bridging, bracing, drag struts, closures, welding, and alignment.
+Provide joist fabrication welder certifications as specified.
+
+Scope of Work – Steel Decking – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply and install all roof decking including bracing, closures, welding, and alignment. Reinforce openings in decking as required. Coordinate with Contractor and trade subcontractors.
+Exposed roof deck shall be attached to supports with shot pins unless otherwise indicated.
+Include touch-up galvanizing of steel deck welds if welding is utilized.
+
+Scope of Work – Ornamental & Fabricated Metals – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply only, F.O.B. jobsite, all steel pipe bollards as indicated.
+Supply only, F.O.B. jobsite, all steel countertop supports. Coordinate with Finish Carpentry Subcontractor.
+Shop prime and galvanize materials as indicated per plans and specifications.
+Supply all trim, clips, anchors, fasteners, sealants, and finishes as specified for a complete system as indicated and detailed.
+
+Scope of Work – General Scope Requirements – The following requirements shall apply to all Work under this Scope of Work package:
+Provide all tests and certifications required for complete and operational systems.
+Provide a qualified representative onsite for all tests and inspections as required.
+Subcontractor is responsible for scheduling testing and walking with inspectors to get systems signed off for final approval.
+Comply with the requirements of the Geotechnical Report and Contract Documents for seismic requirements. In the event of a conflict in requirements between the documents, the most stringent requirement shall prevail.
+The Project has a Class D Seismic Design Category; Seismic Importance Factor: 1.0.
+Comply with all AHJ and regulatory agency requirements as applicable, including FAA regulations as applies to crane activities in applicable zones.
+Provide all layout and temporary bracing and protections required for this scope of work.
+Provide layout for steel scope of work. (Contractor to provide surveyed building corners, finished floor elevation, and intermediate grid lines for subcontractor’s reference; all other layout to be provided by Steel Subcontractor.) One anchor bolt at each template to be set to elevation.
+Provide all hoisting and shoring for structural steel and any related materials. Provide lift plan for approval four (4) weeks prior to steel erection activities.
+Provide fall protection for Steel Subcontractor’s employees.
+Provide all welding, priming and finishing of structural metals.
+Provide field welding per AISC standards, including grinding and priming as required per plans and specifications. Provide welder certifications prior to start of erection.  Pay for all offsite or plant third party inspections. Provide equipment to generate welder power.
+All steel materials shall receive shop coat primer compatible with finish coatings, if applicable. For all steel materials that are to be exposed, steel shall be prepared appropriately prior to primer application to ensure that primer fully adheres to raw steel and steel is ready to accept finish painting.  Primer that is flaking or easily removed with a flat blade shall be removed, re-prepared, and re-primed by Subcontractor. Subcontractor shall be responsible for protecting material until erection is complete and accepted by Owner and Contractor’s Superintendent, any damage after acceptance to be repaired by party responsible for damage.
+Clean and field prime all field welds after completing installation, including any welds at roof decking materials.
+Subcontractor is responsible for all shipping and receiving requirements for this scope of work, including all offloading and hoisting of materials.
+Provide for all shipping requirements, including traffic controls/flaggers, as necessary.
+Provide delivery tickets with each delivery, mill test reports, and mill certificates for Owner’s testing agency.
+Provide protection against damage to all roofing, wall, and flooring surfaces.
+Include multiple mobilizations as may be required per the Preliminary Construction Schedule and Logistics Plan.
+Subcontractor shall provide competent foreman who shall participate in daily huddle and weekly workplan meetings.
+
+RFI’s must be submitted via the message function in Building Connected.
+
+ALTERNATES
+
+The following alternates are identified in the Contract Documents or are Specifically Requested by Contractor through this Scope of Work Proposal Package.
+
+Alternate 033.01 – (ADD) – Canopies at Abandoned Elementary School Campus
+State the amount to be added to Subcontractor's Proposal to reinstall salvage steel canopy columns at Building 5 at abandoned elementary school campus (Idaho Circle), as indicated and required, including supply and installation of steel channels, plates, anchor bolts, and all incidental items as required for a complete scope of work. See details 4/AD1.15 and 4A/AD1.15.
+
+TRADE PARTNER VOLUNTARY ALTERNATES
+
+The Proposer may choose to include any number of voluntary additive and/or deductive alternates to the Base (“Bid”) Proposal Value submitted and the Alternates identified above.  These Voluntary Alternates can be utilized for the purposes of, but not limited to, value engineering, product substitution, scope of work clarification/deviation, identifying Allowances for unknown criteria, etc.  All Voluntary Alternates should be supported by applicable documentation, substantiating the basis of the scope/value/product/etc., at the time of bid, or should be noted to follow within 24 hours.
+
+DISCLAIMER
+
+The client and CORE Construction reserve the right to accept or reject any or all proposals and to waive irregularities in the proposal process and to accept any proposal which is determined by the client and CORE Construction to be in their best interests.
+
+END OF SCOPE OF WORK

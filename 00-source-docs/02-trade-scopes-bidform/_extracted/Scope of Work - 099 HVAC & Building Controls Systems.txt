@@ -1,0 +1,131 @@
+SCOPE OF WORK
+PROPOSAL PACKAGE #100 HVAC & Building Controls Systems
+
+PRECEDENCE
+
+The trade partner Proposer submitting on this Scope of Work Proposal Package acknowledges receipt and review of this document, understands the Work and Expectations set forth under this agreement, and agrees to the terms and conditions thereof.  This document is intended to compliment the Contract Documents, however, in the event of any inconsistency, the Contract Documents (Plans, Specifications, and Supplemental Documents), shall govern.
+
+SCHEDULE
+
+Refer to the published schedule with the Notice of Request for Proposals (RFP) for pertinent start, end, and critical milestone dates for work associated with this proposal package.  It is expected that the Proposer shall provide all necessary labor, material, and equipment to meet the published schedule durations as part of the Base (“Bid”) Proposal Value.  Should the Proposer feel that this published duration is not optimal and believe that a more cost-efficient duration option is available, CORE Construction (“Contractor”) encourages the Proposer to include this information and cost savings value as a Voluntary Alternate on the Proposal (“Bid”) Form.
+
+REASONABLE INFERENCE / GURANTEED MAXIMUM PRICE PROPOSAL
+
+This delivery method requires a Guaranteed Maximum Price (GMP).  No change orders will be issued for work that is clearly identified, or can be reasonably inferred from the Contract Documents (Plans, Specifications, and Supplemental Documents).  Reasonable inference is subject to industry best practice standards and experience.  If the Proposer is concerned with what may or may not be construed as Reasonable Inference, Contractor highly recommends issuing a Request for Information clarifying the matter.  Exclusion of this clause may be grounds for disqualification of the subcontractor’s proposal.
+
+EXISTING CONDITIONS
+
+The site is currently active and is not available to Proposers without coordination with Contractor.  Do not contact the client / end users for access to the site.  Contractor has published reference documentation on existing conditions of the proposed site at the FTP site.  These documents may include subsurface utility locating maps, ground penetrating radar maps, potholing reports, as-built documents, drone videos / images, laser scans, photos, etc.  If there is any specific information about existing conditions that is required to finalize the value of the scope of work proposal package, Contractor encourages issuing a Request for Information identifying the necessary data.
+
+If information that is needed to finalize the proposal value is unavailable at the deadline for proposals, include the value as an Allowance, clearly identified in the Voluntary Alternates section of the Proposal (“Bid”) Form.
+
+CONSTRUCTION DOCUMENTS
+
+The Construction Documents to be used in developing pricing for this proposal package can be found here:
+
+BuildingConnected,
+If you need access, please contact CORE’S Team member
+
+Documents included are as follows: Plans, Specifications, Geotechnical Report(s), Asbestos Report(s), Contractor’s Notice of Request for Proposals, Preliminary Construction Schedule, Sample Subcontract Agreement, Insurance Requirements, Textura Information, General Trade Partner Requirements, Scopes of Work Proposal Packages, Subcontractor Proposal (“Bid”) Form, Affidavit(s), Addenda and Clarifications (if issued), Supplemental (Reference) Documents.
+
+SCOPE OF WORK
+
+Subcontractors shall include in their Base (“Bid”) Proposals the cost of providing all labor, material, equipment, supervision, services, taxes, insurances, license, fees, overhead, and profit, etc. necessary or incidentally required to complete the Work identified in this package.  Items not clearly shown on the drawings or indicated in other contract documents but reasonably inferable from the contract documents or necessary to the integrity and proper functioning of the Subcontractor’s Work are to be included in the Base (“Bid”) Proposal value.
+
+Complete all HVAC & Building Controls Systems Work in accordance with the plans and specifications in conformity with the contract, and other documents listed in the RFP and this Scope of Work Proposal Package.
+
+Primary Specifications
+Division 23 – Heating, Ventilating, and Air Conditioning (HVAC)
+
+Related Specifications
+Division 00 – Procurement and Contracting Requirements
+Division 01 – General Requirements
+Section 07 92 00 – Joint Sealants
+Section 08 31 00 – Access Doors and Panels
+Section 31 00 00 – Earthwork
+Division 26 – Electrical (as it relates to this Work Scope)
+Division 27 – Communications (as it relates to this Work Scope)
+Division 28 – Electronic Safety and Security (as it relates to this Work Scope)
+
+Scope of Work – HVAC & Building Controls Systems – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Disconnect mechanical equipment at existing concessions building prior to start of demolition activities.
+Provide all labor, material, equipment, and components for a complete and operable HVAC system, including vibration isolation, ductwork and accessories, DX Heat pump fan coil with electric heat, condensing unit, electric duct heaters, branch selector box, filters (construction, testing, and final), duct liner, duct insulation, sound lagging, sound attenuators, mechanical identification, vibration and seismic controls, starters, exhaust fans, air inlets and outlets, gaskets, and louvers, and all components and accessories as specified and required for a complete system.
+Provide factory mounted disconnect and any other accessories as required per Mechanical Schedule.
+Include design and engineering of VRF piping, including sizing and routing.
+Supply and install all ductwork, fire dampers, smoke dampers, backdraft dampers, balancing dampers, manual volume dampers, manual bypass dampers, actuators, hangers, supports, insulation, vents, connection equipment, and related accessories.
+Install duct detectors furnished by the Fire Alarm Subcontractor.
+Supply and install programmable thermostats as indicated and specified.
+Provide all mechanical controls as indicated and specified.
+Lay-out and verify all equipment pads, equipment supports, sleeves, openings, and block outs in structural roof systems, masonry, and concrete, including sizes and locations. Subcontractor shall remove and dispose of temporary blockouts for its work.
+Cut roof deck for mechanical penetrations, and secure openings until mechanical exhaust fan is installed.
+Locate registers and diffusers in the center of ceiling tiles where possible.  Coordinate layout with Acoustical Ceiling Subcontractor.
+Supply and install all required mechanical identification including but not limited to color coding and labeling of all equipment, mechanical piping, valves, and fire dampers.
+Coordinate, furnish, and install galvanized sheet metal flashing, curbs, and boots as necessary for rooftop equipment and piping.
+Provide maintenance for this scope of work for duration of maintenance period as specified.
+
+Scope of Work – Testing, Adjusting & Balancing (TAB) – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Provide all labor, material, equipment, and components for a complete Testing, Adjusting and Balancing of HVAC systems.
+Includes all ladders, lifts, and other equipment as required for this scope of work.
+Provide duct detector testing for all duct detectors.
+Remove and reinstall ceiling tiles as required for this scope of work.
+
+Scope of Work – General Scope Requirements – The following requirements shall apply to all Work under this Scope of Work package:
+Provide all tests and certifications required for complete and operational systems.
+Subcontractor shall provide competent foreman who shall participate in daily huddle and weekly workplan meetings.
+Provide a qualified representative onsite for all tests and inspections as required.
+Subcontractor is responsible for scheduling testing and walking with inspectors to get systems signed off for final approval.
+Comply with all AHJ and regulatory agency requirements as applicable, including FAA regulations as applies to crane activities in applicable zones.
+Subcontractor responsible for scope coordination, including but not limited to:
+Coordinate with Contractor and Masonry and Concrete Subcontractors for location and depth of all underground piping as required to minimize sleeving or stepped footings.
+Coordinate with Architectural and Structural drawings for required clearances.
+Coordinate with Framing & Drywall Subcontractors for openings in decking and all rooftop equipment.
+Coordinate roof penetration requirements with Roofing Subcontractor to maintain roofing system integrity and warranty.
+Coordinate with Fire Sprinkler Subcontractor for all system interfaces, if any.
+Coordinate with Plumbing Subcontractor for all system interfaces, including sanitary vent locations with respect to HVAC equipment fresh air intakes, to ensure clearances are maintained.
+Coordinate with TAB Subcontractor.
+Coordinate with Electrical and Low Voltage Subcontractors for all power requirements for HVAC and Controls equipment and lighting interfaces.
+Coordinate with Contractor and Owner for final Testing, Adjusting, and Balancing requirements as pertains to this scope of work.
+Coordination of start-up of all systems, provide certifications, and include any required training.  Coordinate and participate with Commissioning Agent, and provide Commissioning Assistance, including attendance at meetings, as required.
+Supply and install engineered seismic design, bracing, restraints, and supports for all equipment related to this scope of work including support wires for air inlets and outlets as required and in accordance with the requirements of the project documents and the governing authorities.
+Comply with the requirements of the Geotechnical Report and Contract Documents for seismic requirements. In the event of a conflict in requirements between the documents, the most stringent requirement shall prevail.
+All supports and hangers shall be coordinated with the architectural and structural requirements.
+Furnish and install all structural supports for interior and exterior ductwork.
+All piping and hangers to be attached to structural steel deck framing members. Piping and hangers shall not hang from decking.
+Includes hangar delegated design.
+Supply and install all sleeves and flashings for this scope of work. Provide coordination drawings showing locations and sizes for all sleeved penetrations prior to starting work.
+Seal all through-wall penetrations related to this scope of work as indicated and, if rated construction, provide approved firestopping system in compliance with Contract Document requirements and the requirements of the governing authorities. Provide acoustical sealants for non-rated penetrations.
+Provide penetration firestopping and sealants where indicated and required per plan and per Code.
+Provide all sealants integral to this scope of work as required.
+Provide penetration firestopping systems at rated walls and slabs where indicated and required per plan and per code.
+Provide penetration acoustical sealants at acoustically rated walls.
+Provide penetration smoke sealants at smoke rated walls.
+Provide all related accessories including clips, anchors, and bolts as required and pertaining to this scope of work only.
+Supply only all access doors and panels (required to be keyed a like), rated and non-rated as required, for access to HVAC work concealed by wall and/or ceiling construction.  Access doors and panels are required to be keyed alike and will be installed by others. Coordinate layout of backing, supports, access doors and panels with Framing & Drywall Subcontractors. Coordinate type of access doors required with Architectural plans and specifications.
+Some overhead ductwork, raceway, and equipment may be architecturally exposed.  Where exposed, installation shall be performed in a manner that is architecturally aesthetic. All exposed wiring shall be in conduit. All routing, support systems, sealants, and insulation of exposed work shall be coordinated and mocked-up as necessary prior to installation. Coordinate with onsite Superintendent for mock-up size and requirements.
+Start-up all systems, provide certifications, perform chemical treatment, and include any required training. Coordination and cooperation with Commissioning, testing, and balancing programs.  Subcontractor shall attend Commissioning meetings.
+Maintain clearances in front of mechanical, electrical, and plumbing equipment as required by the manufacturer.
+Include multiple mobilizations as may be required per the Preliminary Construction Schedule and Phased Logistics Plan.
+The mechanical units are required to run 3 months prior to Substantial completion for building acclimatization. Provide MERV-13 construction filters during this period, and permanent MERV-13 filters at Substantial Completion.
+Ensure manufacturer warranty period starts at Substantial Completion or provide extended warranty as required to cover early start up period.
+Unless otherwise stated or noted on drawings and specifications, all overhead systems must be labeled per ASME 13.1 for all State of Nevada projects (this is for Electrical, Low Voltage, Fire Alarm, and any systems being installed).
+
+RFI’s must be submitted via the message function in Building Connected.
+
+ALTERNATES
+The following alternates are identified in the Contract Documents or are Specifically Requested by Contractor through this Scope of Work Proposal Package.
+
+Alternate 100.01 – (ADD) – Evacuate Split Systems Refrigerant at Abandoned Elementary School Campus
+State the amount to be added to Subcontractor's Proposal to disconnect mechanical equipment and evacuate refrigerant from existing split systems at building scheduled for demolition at abandoned elementary school campus (Idaho Circle).
+
+Alternate 100.02 – (DEDUCT) – COMBINE with Bid Package #098 Plumbing
+State the amount to be deducted from Subcontractor's Proposal if awarded this scope of work and Scope of Work #098 Plumbing. Subcontractor shall review Scope of Work #098 and complete the corresponding Proposal (Bid) Form under separate submittal. (NOTE: Proposals provided for both this Scope of Work #099 and for Scope of Work #098 shall reflect the full value of the respective scopes of work. This alternate is to provide a discount for being awarded multiple scopes of work.)
+
+TRADE PARTNER VOLUNTARY ALTERNATES
+
+The Proposer may choose to include any number of voluntary additive and/or deductive alternates to the Base (“Bid”) Proposal Value submitted and the Alternates identified above.  These Voluntary Alternates can be utilized for the purposes of, but not limited to, value engineering, product substitution, scope of work clarification/deviation, identifying Allowances for unknown criteria, etc.  All Voluntary Alternates should be supported by applicable documentation, substantiating the basis of the scope/value/product/etc., at the time of bid, or should be noted to follow within 24 hours.
+
+DISCLAIMER
+
+The client and CORE Construction reserve the right to accept or reject any or all proposals and to waive irregularities in the proposal process and to accept any proposal which is determined by the client and CORE Construction to be in their best interests.
+
+END OF SCOPE OF WORK

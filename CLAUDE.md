@@ -94,21 +94,45 @@ Full design doc: `Tonopah-Attachment-A-System-Master-Plan.md` (repo root). Summa
 | Files API upload script | 🗑️ Superseded — running inside Claude Code, subagents read `00-source-docs/` directly via Read/Glob, no file_id upload needed. `scripts/upload-files.py` left in place but noted as not part of this pipeline |
 | `attachment-a-generator` skill | ✅ Built — `.claude/skills/attachment-a-generator/SKILL.md` (+ `references/csi-divisions.md`) |
 | `doc-indexer` / `scope-drafter` / `scope-qa` subagent definitions | ✅ Built — `.claude/agents/{doc-indexer,scope-drafter,scope-qa}.md` |
-| `01-index/package-index.json` | ✅ Generated (07.10.26), drawings vision-verified (07.11.26) — all 33 packages (16 RFP + 17 ITB), all cited source paths verified to resolve on disk, 81 PM-review flags. See summary below. |
-| Drawing sheet indexing | ✅ Done — all 91 sheets across both Bid Plans volumes + ES Demo set cataloged from PDF bookmarks (`01-index/drawing-sheet-catalog.json`), then vision-verified sheet-by-sheet (actually opened and read, not just title-matched) via 3 background agents. Raw output in `01-index/drawing-vision-{vol1,vol2,esdemo}.json`, merged into each package's `drawing_sheets` with rationale/confidence preserved. Only ITB-008 (Surveying/Staking) still has zero drawing sheets — confirmed inherent to that scope, not a gap. |
+| `01-index/package-index.json` | ❌ **REJECTED by PM (07.31.26) — do not draft from this.** ~47% defect rate on the 17 highest-stakes rows the PM checked. Three root causes, all confirmed: the 33 Scope of Work narratives were never read (stored as filenames only); Addendum #1's 7 revised sheets were never applied as supersession, so 16 of 33 packages cite dead base-bid drawings; awarded-sub proposals were mapped but never read. Full record: `01-index/pm-review-2026-07-31.md`. |
+| Scope of Work narratives extracted | ✅ Done (07.31.26) — all 35 `.docx` (33 SOW + ITB + RFP notice) extracted to `02-trade-scopes-bidform/_extracted/*.txt`, 362,376 chars, article offsets in `01-index/scope-doc-extraction-manifest.json`. Built by `scripts/extract-scope-docs.py`. **These are the primary scope authority for the re-index** — they resolve boundaries the drawings leave ambiguous. |
+| Drawing sheet indexing | ⚠️ Partially valid — 91 base-bid sheets cataloged (`01-index/drawing-sheet-catalog.json`) and vision-read (`drawing-vision-{vol1,vol2,esdemo}.json`). Independent spot-check confirmed the readings are verbatim-accurate **for the revision they read**, but the pass consumed the base bid set only. The 7 sheets revised by Addendum #1 (G0-00, LS1-10, A1-20, A2-10, A10-30, C1, GD) were never opened. Sheet content is reusable; package assignments are not, having been made from drawings rather than from scope docs. |
 
 ## Current Pipeline Stage
 - [x] Stage 0: Repo setup complete
 - [x] Stage 1: Source docs staged, spec manual split, awarded-sub mapping built (Files API step dropped as unnecessary — see build status)
-- [x] Stage 2: Index generated (`01-index/package-index.json`)
-- [ ] Stage 3: **Index reviewed/corrected by PM — YOU ARE HERE.** Do not start Stage 4 drafting until this is done; every draft inherits whatever's wrong in the index.
+- [ ] Stage 2: **REOPENED (07.31.26).** First index was rejected at PM review. Rebuilding with scope docs as primary authority, addenda applied as supersession, and awarded-sub proposals read. **YOU ARE HERE.**
+- [x] Stage 3: Index reviewed by PM — done, and it failed. Verdicts and root causes in `01-index/pm-review-2026-07-31.md`. The re-index must clear this same review before Stage 4.
 - [ ] Stage 4: Drafts generated (`02-drafts/`)
 - [ ] Stage 5: QA leveling register generated (`03-qa/`)
 - [ ] Stage 6: Gaps/overlaps resolved by PM
 - [ ] Stage 7: Final exhibits generated (`04-output/`)
 - [ ] Stage 8: Subcontracts issued
 
-### `package-index.json` summary — needs PM review before drafting starts
+### Document authority hierarchy — governs the re-index
+Established by PM review 07.31.26. The first index inverted this, treating drawings as the
+primary authority and never opening the scope narratives.
+
+1. **Addenda & Clarifications** supersede everything they touch. Addendum #1 (05.06.26) revised
+   7 sheets — G0-00, LS1-10, A1-20, A2-10, A10-30, C1, GD — and added spec section 08 71 00.
+   Clarifications 1 & 2 carry RFI answers that override both drawings and specs. **Always index
+   the revised sheet, never the base-bid sheet.** Every citation needs a revision field.
+2. **Scope of Work narrative** (`02-trade-scopes-bidform/_extracted/*.txt`) decides *which
+   package carries a given item*. This is the trade-boundary authority — the drawings show what
+   exists, the scope doc says whose it is.
+3. **Specifications** decide how the work is executed.
+4. **Drawings** show extent and location. They are the weakest authority for assignment.
+5. **Awarded subcontractor proposal + descopes** — for 1% packages, reconcile the final scope
+   against what the sub actually bid and what was negotiated away.
+
+Known trade-boundary rules from PM review: self-adhered membrane under metal roof is RFP-045,
+not ITB-040 (ITB-040 is below-grade waterproofing only); concrete curb and slot/trench drains
+at track perimeter are RFP-030; athletic equipment footings incl. goal posts are RFP-030; the
+entire demolition scope is RFP-008.
+
+### `package-index.json` summary — ⚠️ SUPERSEDED, describes the rejected index
+Kept for provenance. Findings below that came from the vision pass are still useful as leads,
+but every package assignment must be re-derived from the hierarchy above.
 - 29/33 packages have real cited spec sections; 4 have none because **no matching CSI section exists in the spec manual** (not extraction misses — confirmed by cross-checking each scope doc's own citations): RFP-109 Prefabricated Ticket Booth, ITB-066 Fluid-Applied Flooring, ITB-077 Lockers, ITB-008 Surveying/Layout/Staking. **Update (07.11.26, drawing vision pass):** 3 of these 4 now have a drawn substitute for the missing spec section — RFP-109 and RFP-094 (Bleachers, whose own bleacher-specific spec section is also missing) each have full written spec blocks on sheet A1-40 ("PRE-MANUFACTURED TICKET BOOTH SPECS" / "PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS" / "PRE-MANUFACTURED PRESS BOX SPECS"); ITB-077's missing locker spec is matched by a drawn Basis-of-Design keynote on sheet A10-30 ("ASI Storage Solutions Single Tier Locker Competitor Collection"), consistent with the earlier RFI. Only ITB-066 (Fluid-Applied Flooring) and ITB-008 remain genuinely unresolved.
 - **Drawing sheets are now vision-verified for all 91 sheets** (all 3 drawing files) — see build status above. This surfaced real findings beyond just filling gaps:
   - **3 mislabeled citations corrected**: ITB-054's roll-up door detail was cited to the wrong sheet (A4-10 → actually A7-10/A11-10); RFP-022's L1.02 and L1.03 sheet descriptions didn't match their actual content (L1.02 is field-events equipment layout, not turf/track notes; L1.03 is track markings + turf install detail + a curb detail, not high-jump/pole-vault — those are on L1.07).
