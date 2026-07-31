@@ -136,35 +136,35 @@
       "file_tag": "vol1-field"
     },
     {
-      "sheet_number": "L1.03 L1.03",
+      "sheet_number": "L1.03",
       "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
       "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
       "page_0idx": 19,
       "file_tag": "vol1-field"
     },
     {
-      "sheet_number": "L1.04 L1.04",
+      "sheet_number": "L1.04",
       "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
       "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
       "page_0idx": 20,
       "file_tag": "vol1-field"
     },
     {
-      "sheet_number": "L1.05 L1.05",
+      "sheet_number": "L1.05",
       "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
       "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
       "page_0idx": 21,
       "file_tag": "vol1-field"
     },
     {
-      "sheet_number": "L1.06 L1.06",
+      "sheet_number": "L1.06",
       "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
       "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
       "page_0idx": 22,
       "file_tag": "vol1-field"
     },
     {
-      "sheet_number": "L1.07 L1.07",
+      "sheet_number": "L1.07",
       "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
       "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
       "page_0idx": 23,
@@ -638,6 +638,19 @@
       "source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
       "page_0idx": 5,
       "file_tag": "es-demo"
+    }
+  ],
+  "_corrections": [
+    {
+      "date": "2026-07-31",
+      "note": "Normalized 5 sheet_number values that the PDF bookmark outline emitted twice (e.g. 'L1.03 L1.03' -> 'L1.03'). package-index.json already used the clean form, so no citations were affected, but joins on the catalog's sheet_number silently missed these 5 sheets.",
+      "sheets": [
+        "L1.03 L1.03",
+        "L1.04 L1.04",
+        "L1.05 L1.05",
+        "L1.06 L1.06",
+        "L1.07 L1.07"
+      ]
     }
   ]
 }
