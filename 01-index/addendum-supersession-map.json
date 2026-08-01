@@ -67,8 +67,13 @@
             "element": "Keynote 9-07",
             "base": "(did not exist)",
             "revised": "FILLER, PAINT COLOR TO MATCH METAL LOCKERS",
-            "affects_packages": ["ITB-077", "RFP-060"],
-            "consequence": "NEW SCOPE added by addendum. Filler panels at locker bank ends. Trade boundary unresolved: filler is likely part of the locker system (ITB-077) but 'PAINT COLOR TO MATCH' may implicate RFP-060 (Painting). PM CALL REQUIRED."
+            "affects_packages": ["ITB-077"],
+            "consequence": "NEW SCOPE added by addendum. Filler panels at locker bank ends.",
+            "_RESOLVED_BY_PM_2026_07_31": {
+              "ruling": "Filler panels belong to ITB-077 Lockers. NOT RFP-060.",
+              "attachment_a_language_required": "Fillers are delivered with the lockers and cut to size in the field. Subcontractor shall FIELD-MEASURE prior to placing the order, or field-cut, to ensure a tight fit. This execution requirement must appear explicitly in ITB-077's Attachment A -- it is the kind of item a supplier-driven locker sub will otherwise treat as excluded.",
+              "paint_note": "'PAINT COLOR TO MATCH METAL LOCKERS' is a factory finish characteristic of the filler, not a field painting operation by RFP-060."
+            }
           },
           {
             "element": "Team 1 North / East / South elevations",
@@ -213,7 +218,11 @@
         "response": "BOD: ASI Storage Solutions, LLC, PRO Collection. Configuration: Security Box and Foot Locker. Width 24\", Depth 18\", Enclosed Locker Height 72\". Color Black #11. Heavy-duty formed sheet metal, edges finished smooth without burrs. Ventilation: diamond-perforated side openings. Accessories: shelf, wall hook, coat rod.",
         "affects_packages": ["ITB-077"],
         "overrides": "Base-bid A10-30 keynote 9-08",
-        "_CONFLICT": "Base A10-30 said COMPETITOR Collection at 15'W x 18\"D. This RFI says PRO Collection at 24\"W x 18\"D x 72\"H. Addendum #1 then DELETED the BOD from the sheet entirely. Net effect: RFI #3 is the ONLY surviving basis-of-design for ITB-077, since the package has no spec section either. FLAG FOR PM."
+        "_RESOLVED_BY_PM_2026_07_31": {
+          "ruling": "RFI #3 was issued with the Addendum and IS a contract document. It holds the subcontractor responsible and contains all information needed. No further clarification required -- this is NOT a gap.",
+          "consequence_for_ITB_077": "RFI #3 is the governing basis-of-design and specification for ITB-077 Lockers: ASI Storage Solutions LLC, PRO Collection, Security Box and Foot Locker configuration, 24\"W x 18\"D x 72\"H enclosed height, Color Black #11, heavy-duty formed sheet metal with edges finished smooth without burrs, diamond-perforated side ventilation, accessories shelf / wall hook / coat rod. Cite RFI #3 directly in Attachment A -- do not treat the missing spec section 10 51 13 as an open item.",
+          "supersedes_note": "The deleted base-bid keynote (COMPETITOR Collection, 15'W) is dead and must not be cited."
+        }
       },
       {
         "rfi": 4,
@@ -221,7 +230,21 @@
         "response": "Fire alarm required (LS1-01 said NO FIRE ALARM; E0-01 included it). Response confirms required.",
         "affects_packages": ["RFP-103"],
         "overrides": "Sheet LS1-01",
-        "note": "Full response text to be captured during re-index; tie-back to campus FAP needs confirmation."
+        "verbatim_response": "Fire Alarm required per code. See Sheet E3-00 for tie-in to existing FAP at existing High School",
+        "_PM_DIRECTION_2026_07_31": "PM states: There is NO fire alarm system.",
+        "_UNRECONCILED_DOCUMENT_EVIDENCE": {
+          "status": "PM direction conflicts with three contract documents. Raised for confirmation before RFP-103's Attachment A is written. Not resolved in the index either way.",
+          "documents_requiring_a_fire_alarm": [
+            "Clarification No.1 RFI #4, answered by KNIT 05/05/26: 'Fire Alarm required per code. See Sheet E3-00 for tie-in to existing FAP at existing High School.' Per PM's own 07.31.26 ruling, RFI responses issued with the Addendum ARE contract documents that hold the subcontractor responsible.",
+            "Sheet E3-00 (Overall Technology Site Plan, Vol 2 p.37) keynote 5: 'ROUTE TO LOCATION OF EXISTING FIRE ALARM PANEL IN OFFICE' -- the tie-in the RFI points to actually exists on the drawing.",
+            "Sheet E0-01 (Electrical General Notes, Vol 2 p.24) note 81: 'FIRE ALARM SYSTEM. CONTRACTOR SHALL PROVIDE DEVICES, CONDUIT, WIRES AND CABLE AS DIRECTED BY...' plus note 80 'FIRE ALARM' and conduit color-code 'E. FIRE ALARM - RED'."
+          ],
+          "documents_stating_no_fire_alarm": [
+            "Sheet LS1-10 (Code and Exiting Plan), ADDENDUM #1 revision dated 05.06.26, Code Analysis block: 'FIRE ALARM: NO'. Same block also lists 'AUTOMATIC SPRINKLER SYSTEM: NO' and 'STATE FIRE MARSHAL: SFM (NAC 477: NEVADA STATE FIRE MARSHAL)'. Occupancy Group E, Type VB, occupant load 110."
+          ],
+          "exposure": "Three-to-one against the no-fire-alarm reading, and the one supporting document is a code-analysis summary block rather than a scope drawing. If RFP-103's subcontract excludes the fire alarm and the State Fire Marshal requires it on a Group E occupancy, this becomes a change order on a life-safety system during construction.",
+          "required_action_either_way": "Whichever way this lands, the documents must be reconciled rather than left contradictory. If NO fire alarm: obtain an ASI or written clarification voiding RFI #4, E0-01 note 81 and E3-00 keynote 5, and write an explicit exclusion into RFP-103's Attachment A. If fire alarm IS required: LS1-10's code block needs correcting and RFP-103 carries the system including tie-in to the existing High School FAP."
+        }
       },
       {
         "rfi": 5,
