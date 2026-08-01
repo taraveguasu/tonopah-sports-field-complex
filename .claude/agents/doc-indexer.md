@@ -17,8 +17,17 @@ You build `01-index/package-index.json` for the attachment-a-generator skill (se
 3. If `01-index/awarded-sub-mapping.json` exists, read it — it's your source for the `awarded_sub` block
    per package. Do not try to rebuild this mapping yourself; it requires PM-level judgment calls (basis of
    award when not low bid, etc.) that were made separately and are already recorded there.
-   **Then open each awarded sub's actual proposal and descope files** and index what they included,
-   excluded, and clarified. A path in a JSON field is not an indexed document.
+   **Then open the actual proposal and descope files** — for every bidder on the package, not only
+   the awarded sub. A path in a JSON field is not an indexed document.
+
+   Proposals are **not** an authority tier and never override the contract documents. Index them
+   diagnostically:
+   - Capture the **assumptions and clarifications** a bidder wrote where the documents were ambiguous.
+     Losing bidders are often the most useful here — if a bidder felt the need to spell something out,
+     the documents were unclear and the subcontract must say it explicitly.
+   - **Ignore boilerplate general exclusions.** They are not scope decisions.
+   - Where a proposal **contradicts a contract document, record a PM flag.** Do not adopt the
+     proposal's position and do not narrow the scope to match it.
 
 3a. **MANDATORY SUPERSESSION PASS — run this before indexing any drawing or spec.**
    List `00-source-docs/06-addenda/` and open every file in it. Build an explicit supersession map:

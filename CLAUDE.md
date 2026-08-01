@@ -122,8 +122,20 @@ primary authority and never opening the scope narratives.
    exists, the scope doc says whose it is.
 3. **Specifications** decide how the work is executed.
 4. **Drawings** show extent and location. They are the weakest authority for assignment.
-5. **Awarded subcontractor proposal + descopes** — for 1% packages, reconcile the final scope
-   against what the sub actually bid and what was negotiated away.
+**Subcontractor proposals are NOT in the authority hierarchy at all.** (Corrected by PM
+07.31.26 — an earlier draft wrongly listed them as a fifth tier that "reconciles" final scope.)
+A proposal never relieves a sub of completing the scope per the contract documents; the
+contract documents overrule the proposal. Their role is diagnostic:
+
+- They **surface the assumptions** a bidder made where the documents were ambiguous.
+- They **expose scope gaps** and level the playing field between bidders.
+- Where a proposal **contradicts any contract document → FLAG for PM to clarify.** Never
+  silently adopt the proposal's position, and never quietly narrow the subcontract to match it.
+- **Ignore the general/boilerplate exclusions** on proposals. They are not scope decisions.
+- **Read every bidder's proposal for a package, not just the awarded sub's.** Losing bidders
+  routinely itemize something the drawings left ambiguous; those line items are the clearest
+  available signal of what must be spelled out explicitly in the subcontract. This is a primary
+  source of Attachment A inclusions.
 
 Known trade-boundary rules from PM review: self-adhered membrane under metal roof is RFP-045,
 not ITB-040 (ITB-040 is below-grade waterproofing only); concrete curb and slot/trench drains
