@@ -9,10 +9,16 @@
     "narrative_file": "00 91 11 - Addendum #1 (ADD 1).pdf",
 
     "_CRITICAL_DISCREPANCY": {
-      "finding": "Addendum #1's own change list (section 5.01) names only FIVE reissued sheets: C1, GD, G0-00, LS1-10, A1-20. The revised-sheet PDFs actually contain SEVEN. A2-10 and A10-30 were reissued WITHOUT being announced in the addendum narrative.",
-      "why_it_matters": "A bidder reading the addendum text would never learn that A2-10 and A10-30 changed. Both carry real scope changes (see below). This is a probable source of bid-scope variance between subcontractors and a likely future change-order argument.",
-      "pm_action": "Confirm with KNIT whether A2-10 and A10-30 were intentionally reissued. If yes, the addendum's change list is defective and bidders were not properly noticed.",
-      "detection_note": "Reading the addendum's own table of contents would have MISSED these two sheets. Only listing the folder, opening the revised-sheet PDFs, and overlaying against the base set catches them."
+      "finding": "Addendum #1's narrative change list (section 5.01) names only FIVE reissued sheets: C1, GD, G0-00, LS1-10, A1-20. Seven sheets were actually reissued -- A2-10 and A10-30 are omitted from that list.",
+      "CORRECTION_2026_07_31": "An earlier version of this entry claimed the two sheets were reissued with no announcement anywhere, and that only a folder listing plus overlay could catch them. That was wrong. The REVISED G0-00 cover sheet carries an updated INDEX OF DRAWINGS with a new column headed '2026.05.06 - ADDENDUM #1', and that column is dotted on all SEVEN reissued sheets, A2-10 and A10-30 included. The revision delta on G0-00 is that index. So the information WAS disclosed in the contract documents -- just not in the addendum's narrative.",
+      "why_it_still_matters": "The addendum narrative and the revised drawing index disagree with each other. A bidder working from the addendum text alone gets five sheets; a bidder cross-checking the revised cover sheet index gets seven. Both A2-10 and A10-30 carry real scope changes (locker re-layout, new filler keynote, restroom partition changes). That is a live source of bid-scope variance between subcontractors.",
+      "pm_action": "Confirm with KNIT that section 5.01's list is simply incomplete and that all seven sheets were intentionally reissued. Worth noting in the subcontract that the revised drawing index on G0-00 governs the list of current sheet revisions.",
+      "detection_methods_that_work": [
+        "Read the revised G0-00 INDEX OF DRAWINGS revision columns -- authoritative and complete",
+        "List the addenda folder and open every revised-sheet PDF",
+        "Overlay each revised sheet against its base counterpart",
+        "Read each sheet's own title-block revision entry"
+      ]
     },
 
     "specifications_added": [
@@ -113,7 +119,21 @@
         "title": "COVER SHEET",
         "announced_in_addendum": true,
         "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf p.1",
-        "overlay_diff": "PARTIAL -- text-compared only, not yet visually overlaid. Deferred-submittal list is unchanged from base: PRESSBOX / BLEACHERS / SCOREBOARD / GOAL POST STRUCTURAL DESIGN. Project team block, vicinity map and narrative also appear unchanged. The sheet IS listed as reissued in the addendum, so a visual overlay is still required to locate the actual delta before ITB-089/RFP-094 scope is written.",
+        "overlay_diff": [
+          {
+            "element": "INDEX OF DRAWINGS",
+            "base": "Single revision column: '2026.04.20 - BID DOCS'",
+            "revised": "Second column added: '2026.05.06 - ADDENDUM #1', dotted on all seven reissued sheets (G0-00, LS1-10, C1, GD, A1-20, A2-10, A10-30). Delta 'A' marker sits on the index itself.",
+            "affects_packages": "ALL",
+            "consequence": "THIS is the change to G0-00. The revised index is the authoritative, complete list of which sheets carry an Addendum #1 revision -- more complete than the addendum's own narrative section 5.01, which names only five. Use this index to validate every drawing citation's revision field."
+          }
+        ],
+        "unchanged_but_still_authoritative": [
+          "Deferred Submittals list unchanged: PRESSBOX / BLEACHERS / SCOREBOARD / GOAL POST STRUCTURAL DESIGN. Goal Post structural/footing design resolved to RFP-030 by PM 07.31.26.",
+          "Project narrative lists sports field improvements: field lights, scoreboard, home bleachers and pressbox, turf and track, shot put and discus, concessions and restrooms, ticket booth. Concession stand is ~2,800 SF rectangular CMU.",
+          "Owner project number PWP #NY-2022-200 -- useful for prevailing wage / public works filings.",
+          "Project team: KNIT (architect), Taney Engineering (civil), SLA Land Architects (landscape), IMEG (structural), HPA Consulting Engineers (MEP)."
+        ],
         "packages_citing_dead_revision": ["ITB-089", "RFP-094"],
         "resolved_by_pm": "Goal Post structural/footing design belongs to RFP-030 Concrete (PM ruling 07.31.26, corroborated by RFP-030's own scope doc: 'Athletic Equipment footings (including football goal posts, high jump posts, etc.)')."
       },
@@ -231,9 +251,20 @@
         "affects_packages": ["RFP-103"],
         "overrides": "Sheet LS1-01",
         "verbatim_response": "Fire Alarm required per code. See Sheet E3-00 for tie-in to existing FAP at existing High School",
-        "_PM_DIRECTION_2026_07_31": "PM states: There is NO fire alarm system.",
-        "_UNRECONCILED_DOCUMENT_EVIDENCE": {
-          "status": "PM direction conflicts with three contract documents. Raised for confirmation before RFP-103's Attachment A is written. Not resolved in the index either way.",
+        "_PM_DIRECTION_2026_07_31": {
+          "ruling": "There is NO fire alarm system.",
+          "basis": "Verbally confirmed with the design team. Formal written instrument (ASI / clarification) is FORTHCOMING and not yet in hand as of 07.31.26.",
+          "index_treatment": "Index proceeds on the basis of NO fire alarm system. RFP-103 does not carry a fire alarm system, devices, conduit, wire, cable, or tie-in to the existing High School FAP.",
+          "_OPEN_ITEM_BLOCKING_SUBCONTRACT": {
+            "risk": "The exclusion currently rests on a verbal. Three written contract documents still affirmatively require the work (RFI #4, E0-01 note 81, E3-00 keynote 5). Until the written instrument lands, RFP-103's exclusion is unsupported by the contract documents and a subcontractor could claim the scope -- or the State Fire Marshal could require it -- with no paper to stand on.",
+            "action": "Do NOT execute RFP-103's subcontract against the verbal alone. Either hold execution until the ASI is issued, or execute with the exclusion language below AND a tracked open item requiring the ASI number to be inserted by reference once issued.",
+            "attachment_a_language_required": "Fire alarm system is EXCLUDED from this package. Notwithstanding Clarification No.1 RFI #4, Sheet E0-01 General Note 81, and Sheet E3-00 Keynote 5, no fire alarm system, devices, conduit, wire, cable, or tie-in to the existing High School fire alarm panel is required under this Subcontract, per [ASI/Clarification No. ___ , date ___ ] to be inserted upon issuance.",
+            "owner": "PM",
+            "status": "AWAITING FORMALIZATION"
+          }
+        },
+        "_DOCUMENT_EVIDENCE_ON_RECORD": {
+          "status": "Retained so the forthcoming ASI can be checked against everything it must supersede. The ASI needs to void all three of the documents below, not just one.",
           "documents_requiring_a_fire_alarm": [
             "Clarification No.1 RFI #4, answered by KNIT 05/05/26: 'Fire Alarm required per code. See Sheet E3-00 for tie-in to existing FAP at existing High School.' Per PM's own 07.31.26 ruling, RFI responses issued with the Addendum ARE contract documents that hold the subcontractor responsible.",
             "Sheet E3-00 (Overall Technology Site Plan, Vol 2 p.37) keynote 5: 'ROUTE TO LOCATION OF EXISTING FIRE ALARM PANEL IN OFFICE' -- the tie-in the RFI points to actually exists on the drawing.",
