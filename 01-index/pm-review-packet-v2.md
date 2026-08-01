@@ -8,49 +8,157 @@ Generated 2026-07-31 from `01-index/package-index-v2.json` and companions. Every
 
 ## Part A — Three structural decisions (answer these first)
 
-These decide the shape of all 33 exhibits. If any is wrong, everything downstream is rework, so they're worth your time before you look at content.
+These decide the shape of all 33 exhibits. Every option below is worked out using **RFP-030 Concrete**
+so you are comparing like with like, not choosing from a description.
 
-### A1. Verbatim scope items vs. summarized
+---
 
-The index stores each scope doc's own sentences, unedited — 1,139 of them across 33 packages. Nothing is paraphrased, so nothing can drift from the contract language. The cost is bulk: RFP-103 alone carries 134 lines.
+### A1. How scope items are stored
 
-Sample, RFP-030 Concrete, exactly as stored:
+RFP-030's scope doc contains **72 items** across three sub-scopes (Site Concrete, Cast-in-Place
+Structural, General Requirements).
 
-> Supply and install concrete curbs at Synthetic Turf Sports Field and Running Track.
+#### Option 1 — Verbatim (what the index does today)
+
+Every sentence stored exactly as written, unedited. Sample of 5 of the 72:
 
 > Supply and install slot drain / trench drains and concrete curb along track perimeter and as indicated per detail D/L1.03, including all excavation, trenching, bedding, and backfill.
+>
+> Dowel all exterior sidewalks to the building slab at entrances and doorways, whether or not detailed on drawings.
+>
+> Provide and install 5/8" diameter x 18" long slick dowels at 18-inches on center (minimum) at all cold joints, whether shown or not.
+>
+> Athletic Equipment footings (including football goal posts, high jump posts, etc.) Coordinate with Track & Field Athletic Equipment Subcontractor for requirements.
+>
+> Includes sacking exposed concrete surfaces, drypack under light pole base plates, and installing anchor bolts furnished by others. Anchor bolt templates will be supplied by Electrical.
 
-> Includes all piping, radius slot drains, storm drain collector pipe, concrete encasements as required, cleanouts, and all storm water drainage structures as indicated and required for a complete slot drain storm drainage system.
+**Length:** 72 lines. **Traceability:** every line quotable back to the scope doc verbatim.
 
-**Decide:** keep verbatim, or have me condense to a shorter scope statement per package?
+#### Option 2 — Summarized
 
-- ☐ Keep verbatim  ☐ Condense  ☐ Both (verbatim retained, condensed summary added)
+Same scope, condensed to prose. This is what RFP-030's Site Concrete sub-scope would look like —
+I wrote this from the 24 verbatim items, losing nothing material:
 
-### A2. Coordination clauses as the gap-check spine
+> **Site Concrete.** Supply and place concrete and reinforcement for all site flatwork, athletic
+> equipment pads, curbs, take-off boards, turndown edges, and associated concrete items, including
+> layout. Concrete curbs at the Synthetic Turf Sports Field and Running Track. Slot/trench drains and
+> concrete curb along the track perimeter per detail D/L1.03, including excavation, trenching, bedding,
+> backfill, all piping, radius slot drains, storm drain collector pipe, concrete encasements, cleanouts,
+> and storm water drainage structures — connection to the site storm drainage system by others.
+> Equipment pads including transformer pad. Keyed, saw-cut, control and expansion joints with filler,
+> sealants, and white cap; control joint layout shop drawings for architectural approval. Dowel exterior
+> sidewalks to the building slab at all entrances and doorways whether or not detailed, and provide
+> 5/8" x 18" slick dowels at 18" o.c. minimum at all cold joints whether shown or not. Cast-in-place
+> footings for site items including overexcavation per the Geotechnical Report: scoreboard, pressbox,
+> ticket booth slab-on-grade and footings, bleacher footings and grade beams, athletic equipment
+> footings (football goal posts, high jump posts), and sports field light pole bases — coordinating
+> requirements with each respective subcontractor. Sacking of exposed surfaces, drypack under light pole
+> base plates, and installation of anchor bolts furnished by others (templates by Electrical). Install
+> steel embeds and bollards supplied by others, with footings, concrete infill and domed tops. Supply
+> Type II, prepare sub-base, place and compact.
 
-I pulled every sentence where a scope doc tells a sub to coordinate with another trade — 134 of them. These are the documented seams between packages, and my plan is to build the gap/overlap QA around them rather than around CSI divisions.
+**Length:** ~1 paragraph per sub-scope, so roughly 3 paragraphs for RFP-030 instead of 72 lines.
 
-Sample, RFP-030 (14 clauses total):
+**What you give up:** you can no longer cite one sentence and point at it in the scope doc. Merging
+sentences also blurs boundaries — note how "whether or not detailed on drawings" and "whether shown or
+not" now sit mid-paragraph, when verbatim they stand out as the deliberate catch-all provisions they are.
 
-> Scoreboard footings. Coordinate with Scoreboard Subcontractor for requirements.
+#### Option 3 — Both
 
-> Pressbox footings. Coordinate with Pressbox Subcontractor for requirements.
+Verbatim retained in the index as the source of record; condensed prose generated into the exhibit.
+Costs nothing but a generation step, and the exhibit reads cleaner while the index stays quotable.
 
-> Prefabricated Ticket Booth slab-on-grade and footings. Coordinate with Ticket Booth Subcontractor for requirements.
+**Decide:** ☐ Verbatim only  ☐ Summarized only  ☐ Both (verbatim in index, condensed in exhibit)
 
-**Decide:** are these the right seams to check gaps against?
+---
 
-- ☐ Yes, build QA on these  ☐ No, use a different basis  ☐ Use these plus something else
+### A2. What gap/overlap QA is built on
 
-### A3. Drawings as candidates, not assignments
+#### Option 1 — Coordination clauses (what I proposed)
 
-Only **6** drawing citations are treated as authoritative — the sheets a scope narrative names outright. The other **148** sheet associations from the old vision pass are carried as *candidates*, flagged as not corroborated by any scope doc, because assignment-from-drawings is what you rejected. A candidate only becomes a citation if a scope doc, spec, or your ruling backs it.
+RFP-030's scope doc names **14 coordination clauses**. Each one names a counterparty, so each becomes
+a specific checkable question:
 
-This is deliberately conservative. It may mean a package's exhibit cites fewer sheets than you'd expect.
+| RFP-030 says | Seam to check | Counterparty |
+|---|---|---|
+| "Scoreboard footings. Coordinate with Scoreboard Subcontractor" | Does ITB-089 exclude its own footings? | ITB-089 |
+| "Pressbox footings… Bleacher footings / grade beams" | Does RFP-094 exclude footings? | RFP-094 |
+| "Prefabricated Ticket Booth slab-on-grade and footings" | Does RFP-109 exclude slab and footings? | RFP-109 |
+| "Athletic Equipment footings (football goal posts, high jump posts)" | Does ITB-019 exclude footings? | ITB-019 |
+| "installing anchor bolts furnished by others… templates supplied by Electrical" | Who furnishes vs installs? | RFP-103 |
+| "Install all steel embeds (supplied by others)… all bollards (supplied by others)" | Who supplies? | RFP-033 |
+| "Coordinate required masonry laps… rebar safety caps until Masonry assumes responsibility" | Handoff point | RFP-031 |
+| "sleeves in slab-on-grade" / "layout requirements" | Sleeve and layout responsibility | RFP-098, RFP-100, RFP-103 |
 
-**Decide:** right level of caution, or should candidates be promoted where the content is obvious?
+→ **8 distinct counterparties, 8 concrete questions**, each traceable to a sentence in the contract.
 
-- ☐ Keep conservative  ☐ Promote obvious ones  ☐ Promote all, flag the doubtful
+#### Option 2 — CSI divisions
+
+RFP-030 is Division 03 Concrete. Checking overlaps by division finds packages that also claim Div 03:
+
+| Package | Div 03 relationship |
+|---|---|
+| ITB-067 Concrete Finishing | claims Division 03 |
+| RFP-031 Masonry | lists Division 03 as related |
+
+→ **2 hits.** And note what it *misses*: every footing seam above. Scoreboard, bleachers, press box,
+ticket booth and athletic equipment are Division 11/13 items — their **footings** are Division 03, but a
+division-level check never pairs RFP-030 with ITB-089 or ITB-019, because those packages aren't Div 03.
+Those footing seams are exactly where your rulings have already been needed twice this week.
+
+#### Option 3 — Both
+
+Coordination clauses as the primary spine, CSI divisions as a secondary sweep to catch packages that
+share a division but never mention each other (which is how ITB-066 vs ITB-067 sealed concrete surfaced).
+
+**Decide:** ☐ Coordination clauses  ☐ CSI divisions  ☐ Both (clauses primary, divisions as backstop)
+
+---
+
+### A3. How drawings get cited
+
+RFP-030 today: **1 authoritative citation**, **12 candidates**.
+
+#### Option 1 — Conservative (what the index does today)
+
+Only sheets the scope narrative names outright become citations.
+
+**Cited (1):** `L1.03` — the scope doc says "per detail D/L1.03".
+
+**Held as candidates (12):** L1.00, L1.01, L1.06, A1-12, A1-20 ⚠, S0-00, S0-01, S1-30, S1-40, S2-10,
+S3-00, S3-01
+
+**Risk:** RFP-030's exhibit would cite one landscape detail sheet and **none of the structural foundation
+sheets** — no S1-30 Scoreboard Foundation, no S1-40 Home Grand Stands, no S3-00/S3-01 Typical Foundation
+Sections. For a concrete package that is obviously too thin.
+
+#### Option 2 — Promote where the scope doc corroborates the content
+
+Promote a candidate when the scope doc describes that work even without naming the sheet.
+
+**Would become citations (7):**
+
+| Sheet | Scope doc language that corroborates it |
+|---|---|
+| `S1-30` Foundation Plan – Scoreboard | "Scoreboard footings" |
+| `S1-40` Foundation Plan – Home Grand Stands | "Bleacher footings / grade beams" |
+| `S2-10` Foundation & Roof Framing – Concessions | "continuous footings, slab-on-grade, turned-down edges" |
+| `S3-00`, `S3-01` Typical Foundation Sections | "cast-in-place footings", "stepped footings at utility entrances" |
+| `S0-00` General Notes | "Class D Seismic Design Category; Importance Factor 1.0" |
+| `A1-20` Site Details ⚠ | "expansion joints… control joints" (**must be re-read at ADD 1 revision**) |
+
+**Would stay candidates (5):** L1.00, L1.01, L1.06 (landscape sheets, more likely RFP-016/RFP-022
+territory), A1-12, S0-01
+
+#### Option 3 — Promote all, flag the doubtful
+
+All 12 become citations; the landscape sheets carry a "verify ownership" flag.
+
+**Risk:** RFP-030's exhibit would cite three landscape construction sheets. If those belong to RFP-016 or
+RFP-022, you've handed the concrete sub drawings for someone else's work — the exact
+assignment-from-drawings failure that got v1 rejected.
+
+**Decide:** ☐ Conservative  ☐ Promote where scope doc corroborates  ☐ Promote all, flag doubtful
 
 ---
 
