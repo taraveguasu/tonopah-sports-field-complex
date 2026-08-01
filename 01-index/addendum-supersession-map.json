@@ -255,9 +255,9 @@
           "ruling": "There is NO fire alarm system.",
           "basis": "Verbally confirmed with the design team. Formal written instrument (ASI / clarification) is FORTHCOMING and not yet in hand as of 07.31.26.",
           "index_treatment": "Index proceeds on the basis of NO fire alarm system. RFP-103 does not carry a fire alarm system, devices, conduit, wire, cable, or tie-in to the existing High School FAP.",
-          "_OPEN_ITEM_BLOCKING_SUBCONTRACT": {
-            "risk": "The exclusion currently rests on a verbal. Three written contract documents still affirmatively require the work (RFI #4, E0-01 note 81, E3-00 keynote 5). Until the written instrument lands, RFP-103's exclusion is unsupported by the contract documents and a subcontractor could claim the scope -- or the State Fire Marshal could require it -- with no paper to stand on.",
-            "action": "Do NOT execute RFP-103's subcontract against the verbal alone. Either hold execution until the ASI is issued, or execute with the exclusion language below AND a tracked open item requiring the ASI number to be inserted by reference once issued.",
+          "_OPEN_ITEM": {
+            "status": "Scope question is DECIDED -- no fire alarm. The only thing outstanding is the paperwork, which the PM has confirmed is forthcoming.",
+            "action": "Insert the ASI/Clarification number into RFP-103's Attachment A exclusion language once issued. When it arrives, confirm it supersedes all three documents listed below, not only RFI #4.",
             "attachment_a_language_required": "Fire alarm system is EXCLUDED from this package. Notwithstanding Clarification No.1 RFI #4, Sheet E0-01 General Note 81, and Sheet E3-00 Keynote 5, no fire alarm system, devices, conduit, wire, cable, or tie-in to the existing High School fire alarm panel is required under this Subcontract, per [ASI/Clarification No. ___ , date ___ ] to be inserted upon issuance.",
             "owner": "PM",
             "status": "AWAITING FORMALIZATION"
