@@ -830,12 +830,32 @@
         "filename_number": "016",
         "authority": "PRIMARY -- decides which package carries a given item"
       },
-      "primary_specifications": [],
+      "primary_specifications": [
+        {
+          "section": "32 84 00",
+          "title": "Landscape Irrigation",
+          "source": "PM ruling 2026-07-31",
+          "verified_in_spec_manual": true
+        },
+        {
+          "section": "32 91 13",
+          "title": "Track & Field Event Inorganic Material Mix",
+          "source": "PM ruling 2026-07-31",
+          "verified_in_spec_manual": true
+        },
+        {
+          "section": "32 96 50",
+          "title": "Invasive Plant Removal",
+          "source": "PM ruling 2026-07-31",
+          "verified_in_spec_manual": true
+        }
+      ],
       "primary_divisions": [
         {
           "division": "32",
           "title": "Exterior Improvements (as pertains to this scope of work)",
-          "note": "scope doc writes this as 'Section 32'; it is a division-level reference, not a CSI section number"
+          "note": "scope doc writes this as 'Section 32'; it is a division-level reference, not a CSI section number",
+          "superseded_by_pm_ruling": "Replaced by the three specific sections above. The scope doc's 'Section 32 - Exterior Improvements (as pertains to this scope of work)' is too broad to establish a boundary."
         }
       ],
       "related_specifications": [],
@@ -1027,7 +1047,14 @@
         "descope_file_hint": "Black Canyon Scope Review Meeting Agenda.docx; Black Canyon Homework Response(s) in 1% Descopes/Homework Responses/",
         "status": "awarded",
         "note": "1% Subcontractor Listing labels this trade 'Irrigation' only, not 'Landscaping & Irrigation' -- confirm whether landscaping (planting/sod) scope is included in Black Canyon's award or was descoped/moved elsewhere."
-      }
+      },
+      "_pm_rulings": [
+        {
+          "date": "2026-07-31",
+          "ruling": "RFP-016 carries primary spec sections 32 84 00, 32 91 13 and 32 96 50.",
+          "note": "32 91 13 Track & Field Event Inorganic Material Mix is the discus/shot put and jump-event material mix. NOTE FOR LEVELING: BrightView/GTI's scope review explicitly EXCLUDED 'discuss and shot put pads'. Awarded sub Black Canyon must be confirmed to carry 32 91 13."
+        }
+      ]
     },
     "ITB-018": {
       "title": "Site Furnishings",
@@ -3996,7 +4023,14 @@
         "descope_file_hint": "061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf; (R1, Descoped).pdf; (R2, Descope ALTs).pdf",
         "status": "awarded",
         "note": "Source folder/files use package number '061' -- package_id in CLAUDE.md is RFP-060. Same package, numbering drift between RFP list and file naming; doc-indexer must reconcile."
-      }
+      },
+      "_pm_rulings": [
+        {
+          "date": "2026-07-31",
+          "ruling": "INSTALLS access doors and panels (Section 08 31 00) furnished by the MEP trades (RFP-098 Plumbing, RFP-100 HVAC, RFP-103 Electrical).",
+          "attachment_a_language": "Install access doors and panels furnished by the MEP subcontractors per Section 08 31 00. Coordinate sizes and locations with each furnishing trade."
+        }
+      ]
     },
     "ITB-062": {
       "title": "Acoustical Ceilings Treatments",
@@ -5818,7 +5852,14 @@
         "descope_files_present": false,
         "status": "awarded",
         "note": "Awarded price ($383,000) is not the lowest bid (Universal Plumbing & Heating at $375,000 was lower) -- confirm basis of award before drafting. Same sub (US Mechanical) also awarded RFP-100 (HVAC) -- check for combined-scope proposal/pricing across both packages."
-      }
+      },
+      "_pm_rulings": [
+        {
+          "date": "2026-07-31",
+          "ruling": "SUPPLIES access doors and panels (Section 08 31 00). Installation is by RFP-060 (Metal Stud Framing, Drywall & Painting).",
+          "attachment_a_language": "Furnish access doors and panels per Section 08 31 00 for this trade's work. Installation by others. Coordinate sizes, locations and delivery with the framing/drywall subcontractor."
+        }
+      ]
     },
     "RFP-100": {
       "title": "HVAC & Building Controls Systems",
@@ -6143,7 +6184,14 @@
         "descope_files_present": false,
         "status": "awarded",
         "note": "Same sub (US Mechanical) also awarded RFP-098 (Plumbing) -- check for combined-scope proposal/pricing across both packages; RFP title mentions Test & Balance -- confirm US Mechanical's proposal covers T&B or whether it's a separate sub-tier."
-      }
+      },
+      "_pm_rulings": [
+        {
+          "date": "2026-07-31",
+          "ruling": "SUPPLIES access doors and panels (Section 08 31 00). Installation is by RFP-060 (Metal Stud Framing, Drywall & Painting).",
+          "attachment_a_language": "Furnish access doors and panels per Section 08 31 00 for this trade's work. Installation by others. Coordinate sizes, locations and delivery with the framing/drywall subcontractor."
+        }
+      ]
     },
     "RFP-103": {
       "title": "Electrical & Low Voltage Systems",
@@ -6647,7 +6695,14 @@
         "descope_files_present": false,
         "status": "awarded",
         "note": "RFP title includes Sports Field Lighting -- confirm Quantum's proposal explicitly carries this scope, since it's a common gap-zone item between electrical and specialty sports-lighting subs."
-      }
+      },
+      "_pm_rulings": [
+        {
+          "date": "2026-07-31",
+          "ruling": "SUPPLIES access doors and panels (Section 08 31 00). Installation is by RFP-060 (Metal Stud Framing, Drywall & Painting).",
+          "attachment_a_language": "Furnish access doors and panels per Section 08 31 00 for this trade's work. Installation by others. Coordinate sizes, locations and delivery with the framing/drywall subcontractor."
+        }
+      ]
     },
     "RFP-109": {
       "title": "Prefabricated Ticket Booth",
@@ -6818,11 +6873,12 @@
       ],
       "detail": "ITB-008 (Surveying & Staking), ITB-066 (Fluid-Applied Flooring) and RFP-109 (Prefabricated Ticket Booth) have no 'Primary Specifications' heading at all -- verified against the source text, not a parsing artifact. The other 30 docs all have one.",
       "why_it_matters": "These subs were asked to bid with no specification reference in their scope narrative. ITB-066 also has no matching CSI section in the spec manual, so it has no execution standard from any source. RFP-109's substitute is the written spec block on sheet A1-40.",
-      "pm_action": "Decide the execution standard for each before the exhibits are drafted."
+      "pm_action": "Decide the execution standard for each before the exhibits are drafted.",
+      "clarification_2026_07_31": "PM noted that package 008 does include specification sections -- confirmed, and RFP-008 was never among the flagged packages. RFP-008 already carries all four of its cited references: Section 02 41 13 Selective Site Demolition and Section 32 12 16 Asphalt Paving in primary_specifications, plus Division 31 Earthwork and Division 33 Utilities in primary_divisions. The package flagged here is ITB-008 SURVEYING & STAKING -- a different package that shares the number 008 and is filed under scope-doc number 007. This is the RFP-008 / ITB-008 collision CLAUDE.md warns about; always key by package_id."
     },
     {
       "id": "RX-02",
-      "severity": "medium",
+      "severity": "resolved",
       "title": "Section 08 31 00 Access Doors and Panels is related to three packages, primary to none",
       "packages": [
         "RFP-098",
@@ -6831,7 +6887,8 @@
       ],
       "detail": "The prior index flagged 08 31 00 as existing in the spec manual but claimed by no package. It is in fact cited as a RELATED specification by RFP-098 (Plumbing), RFP-100 (HVAC) and RFP-103 (Electrical) -- but as PRIMARY by none.",
       "why_it_matters": "Access doors in MEP work are the classic split: the MEP trade needs them, the wall or ceiling trade installs them. With three packages calling it 'related' and none owning it, supply and install responsibility is undefined.",
-      "pm_action": "Assign supply and install for access doors and panels explicitly."
+      "pm_action": "Assign supply and install for access doors and panels explicitly.",
+      "resolved_by_pm_2026_07_31": "MEP trades SUPPLY access doors and panels; the FRAMER (RFP-060) INSTALLS them. Recorded on all four package records."
     },
     {
       "id": "RX-03",
@@ -6870,14 +6927,26 @@
     },
     {
       "id": "RX-05",
-      "severity": "low",
+      "severity": "resolved",
       "title": "RFP-016's primary specification is a division-level reference written as a Section",
       "packages": [
         "RFP-016"
       ],
       "detail": "The doc reads 'Section 32 - Exterior Improvements (as pertains to this scope of work)'. That is Division 32, not a CSI section number, and 'as pertains to this scope of work' leaves the boundary to the reader.",
       "why_it_matters": "Division 32 also contains the running track (32 18 23.33, RFP-021) and other site scopes. A whole-division primary reference does not establish where landscaping ends.",
-      "pm_action": "Consider naming the specific sections RFP-016 carries."
+      "pm_action": "Consider naming the specific sections RFP-016 carries.",
+      "resolved_by_pm_2026_07_31": "RFP-016 primary specs set to 32 84 00 Landscape Irrigation, 32 91 13 Track & Field Event Inorganic Material Mix, and 32 96 50 Invasive Plant Removal. All three verified present in the spec manual (Division 32 split)."
+    },
+    {
+      "id": "RX-06",
+      "severity": "low",
+      "title": "Correction: RFP-021's cited spec section does exist",
+      "packages": [
+        "RFP-021"
+      ],
+      "detail": "An initial pattern search suggested Section 32 18 23.33 Running Track Surfacing was absent from the spec manual. It is present, at div-32-exterior-improvements.pdf pages 36-40+. The search pattern required a dash that the section header does not use.",
+      "why_it_matters": "No spec gap on RFP-021. Recorded so the earlier miss is not repeated.",
+      "pm_action": "None."
     }
   ],
   "_how_to_use": {

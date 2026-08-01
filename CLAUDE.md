@@ -142,6 +142,20 @@ not ITB-040 (ITB-040 is below-grade waterproofing only); concrete curb and slot/
 at track perimeter are RFP-030; athletic equipment footings incl. goal posts are RFP-030; the
 entire demolition scope is RFP-008.
 
+### PM rulings log (running)
+| Date | Ruling |
+|---|---|
+| 07.31.26 | Entire demolition scope is RFP-008 |
+| 07.31.26 | Goal post / athletic equipment footings are RFP-030 |
+| 07.31.26 | Concrete curb and slot/trench drains at track perimeter are RFP-030 |
+| 07.31.26 | ITB-040 is below-grade waterproofing only; self-adhered membrane under metal roof is RFP-045 |
+| 07.31.26 | RFI responses issued with the Addendum are contract documents and bind the subcontractor |
+| 07.31.26 | ITB-077 basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24"W x 18"D x 72"H) |
+| 07.31.26 | Locker filler panels are ITB-077, delivered with lockers, field-measured before order or field-cut for tight fit |
+| 07.31.26 | There is NO fire alarm system (formalizing ASI forthcoming) |
+| 07.31.26 | Access doors and panels (08 31 00): MEP trades supply, RFP-060 framer installs |
+| 07.31.26 | RFP-016 primary specs are 32 84 00, 32 91 13, 32 96 50 |
+
 ### `package-index.json` summary — ⚠️ SUPERSEDED, describes the rejected index
 Kept for provenance. Findings below that came from the vision pass are still useful as leads,
 but every package assignment must be re-derived from the hierarchy above.
