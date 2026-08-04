@@ -206,9 +206,47 @@ def main():
             "coverage": load("file-coverage-audit.json")["_totals"],
         },
     }
-    tpl = (ROOT / "scripts" / "buyout-console.template.html").read_text()
+    import sys
+    sys.path.insert(0, str(ROOT / "scripts"))
+    from render_console_body import render
+
+    shell = (ROOT / "scripts" / "buyout-console.shell.html").read_text()
+    body = render(payload)
+    # JS is enhancement only: the filter box and the Feel controls. Everything
+    # else is already in the markup and works with scripts disabled.
+    js = """
+<script>
+(function(){
+  var f=document.getElementById('filter'); if(f){ f.hidden=false;
+    f.addEventListener('input',function(){
+      var q=f.value.trim().toLowerCase();
+      document.querySelectorAll('details.pkg').forEach(function(d){
+        d.style.display = !q || d.textContent.toLowerCase().indexOf(q)>-1 ? '' : 'none';
+      });
+    });
+  }
+  var TH={density:{'Command center':{rowPad:'6px 14px',fs:'12px',kpiPad:'9px 16px',kpiNum:'20px'},
+    'Standard':{rowPad:'11px 16px',fs:'13px',kpiPad:'14px 20px',kpiNum:'26px'},
+    'Briefing':{rowPad:'17px 22px',fs:'14.5px',kpiPad:'22px 24px',kpiNum:'34px'}},
+   chrome:{'Night bar':{bar:'var(--core-black)',barFg:'#fff',barSub:'var(--core-cement)',barEdge:'var(--core-bright-green)',barAccent:'var(--core-bright-green)',sect:'var(--core-asphalt)',sectFg:'#fff',sectSub:'var(--core-cement)',page:'var(--core-concrete)'},
+     'Field green':{bar:'var(--core-deep-green)',barFg:'#fff',barSub:'#BCD8C4',barEdge:'var(--core-bright-green)',barAccent:'var(--core-bright-green)',sect:'var(--core-green)',sectFg:'#fff',sectSub:'#CFE5D4',page:'#EEF2ED'},
+     'Paper':{bar:'#fff',barFg:'var(--core-black)',barSub:'var(--core-asphalt)',barEdge:'var(--core-black)',barAccent:'var(--core-deep-green)',sect:'var(--core-concrete)',sectFg:'var(--core-black)',sectSub:'var(--core-asphalt)',page:'#F6F5F2'}},
+   risk:{'Calm':'2px','Standard':'4px','Alarm':'6px'}};
+  function apply(){
+    var r=document.documentElement.style, d=document.getElementById('density'),
+        c=document.getElementById('chrome'), k=document.getElementById('risk');
+    var a=TH.density[d.value]; for(var x in a) r.setProperty('--'+x,a[x]);
+    var b=TH.chrome[c.value];  for(var y in b) r.setProperty('--'+y,b[y]);
+    r.setProperty('--railW',TH.risk[k.value]);
+  }
+  ['density','chrome','risk'].forEach(function(id){
+    var el=document.getElementById(id); if(el) el.addEventListener('change',apply);
+  });
+  apply();
+})();
+</script>"""
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(tpl.replace("/*__DATA__*/null", json.dumps(payload, separators=(",", ":"))))
+    OUT.write_text(shell.replace("<!--__BODY__-->", body + js))
     kb = OUT.stat().st_size / 1024
     print(f"packages:      {len(pkgs)}")
     print(f"spec rows:     {len(payload['specCoverage'])}")
