@@ -99,13 +99,20 @@ def notes_from(lines):
     return out[:80]
 
 
-def tables_from(page):
+def tables_from(page, lines):
     """Real table reconstruction.
 
     Baseline grouping cannot recover a two-line cell: on M0-05 the manufacturer
     reads DAIKIN on one line and FXSA18AAVJU on the next, so the model breaks away
     from its row and FCU-5's restroom unit loses its model number. PyMuPDF's table
     finder resolves the grid properly and merges those cells.
+
+    But the table finder is not universally better. On A11-10 it places the door
+    schedule's left column boundary inside the door number, so 100 extracts as "0"
+    and 102B as "2B" -- the leading digits fall outside the detected cell. Baseline
+    grouping gets that sheet right. Neither method wins everywhere, so each table
+    carries BOTH views: the resolved grid, and the raw baseline lines spanning the
+    same vertical band. Nothing is lost to a strategy choice.
     """
     out = []
     try:
@@ -132,11 +139,17 @@ def tables_from(page):
             if m:
                 name = m.group(1).strip()
                 break
+        # Raw baseline lines spanning this table's vertical band, as a cross-check
+        # against cell-boundary errors like A11-10's clipped door numbers.
+        y0, y1 = t.bbox[1], t.bbox[3]
+        raw = [ln for y, ln in lines if y0 - 4 <= y <= y1 + 4 and ln.strip()]
+
         out.append({
             "table": name or f"table ({clean[0][0][:28] if clean[0] and clean[0][0] else 'untitled'})",
             "rows": clean[:80],
             "row_count": len(clean),
             "col_count": max(len(r) for r in clean),
+            "raw_lines": raw[:80],
         })
     return out
 
@@ -154,7 +167,7 @@ def main():
         lines = lines_from(page)
         kn = keynotes_from(page)
         notes = notes_from(lines)
-        scheds = tables_from(page)
+        scheds = tables_from(page, lines)
 
         header = (f"SHEET: {r['sheet']}\nTITLE: {r['title']}\nREVISION: {r['revision']}\n"
                   f"SOURCE: {doc} (page {r['page']})\n"
@@ -170,6 +183,7 @@ def main():
             "keynotes": kn, "keynote_count": len(kn),
             "tables": [s["table"] for s in scheds],
             "table_rows": sum(s["row_count"] for s in scheds),
+            "table_raw_lines": sum(len(s.get("raw_lines", [])) for s in scheds),
             "table_detail": scheds,
             "notes_captured": len(notes), "notes": notes,
         })
@@ -190,6 +204,7 @@ def main():
             "sheets_with_keynotes": sum(1 for r in recs if r["keynote_count"]),
             "tables": sum(len(r["tables"]) for r in recs),
             "table_rows": sum(r["table_rows"] for r in recs),
+            "table_raw_lines": sum(r["table_raw_lines"] for r in recs),
             "notes": sum(r["notes_captured"] for r in recs),
         },
         "sheets": recs,

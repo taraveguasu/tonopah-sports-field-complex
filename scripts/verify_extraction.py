@@ -61,6 +61,46 @@ PROBES = [
 ]
 
 
+# Sheet-level probes run against the structured drawing corpus, not the flat text.
+# Each was confirmed by reading the sheet directly first.
+SHEET_PROBES = [
+    ("M0-05", "table", r"FCU\s*\|?\s*5.*FXSA18AAVJU.*RESTROOMS",
+     "FCU-5 restroom unit keeps its model on the same row"),
+    ("M0-05", "table", r"DAIKIN FXSA30AAVJU", "FCU-3/4 team-room units resolve"),
+    ("A10-30", "keynote", r"FILLER, PAINT COLOR TO MATCH METAL LOCKERS",
+     "Addendum #1's new 9-07 filler keynote paired to its tag"),
+    ("A10-30", "keynote", r"METAL LOCKERS, CFCI", "9-08 paired, BOD deleted by addendum"),
+    ("A11-10", "table", r"\b106A\b", "door schedule reaches door 106A"),
+    ("A11-10", "table", r"\b113\b", "door schedule reaches the last door"),
+    ("A1-20", "table", r"DAKTRONICS|FB-2021", "Site Equipment Matrix at ADD-1 revision"),
+    ("GD", "any", r"4\"? ?TYPE II|TYPE II", "grading details carry the revised paving section"),
+    ("L1.03", "any", r"(?i)track|curb", "landscape detail sheet content present"),
+]
+
+
+def sheet_probe(sheet, kind, rx):
+    import json as _j
+    p = ROOT / "01-index" / "sheet-structured.json"
+    if not p.exists():
+        return None
+    data = {r["sheet"]: r for r in _j.loads(p.read_text())["sheets"]}
+    r = data.get(sheet)
+    if not r:
+        return False
+    hay = []
+    if kind in ("table", "any"):
+        for t in r.get("table_detail", []):
+            for row in t.get("rows", []):
+                hay.append(" | ".join(c for c in row if c))
+    if kind in ("keynote", "any"):
+        hay += [f"{k} {v}" for k, v in r.get("keynotes", {}).items()]
+    if kind == "any":
+        f = ROOT / r["layout_file"]
+        if f.exists():
+            hay.append(f.read_text(errors="ignore"))
+    return any(re.search(rx, h, re.I) for h in hay)
+
+
 def find_text(substr):
     hits = [p for p in TEXT.rglob("*.txt") if substr.lower() in str(p).lower()]
     return hits
@@ -109,7 +149,18 @@ def main():
         if not ok:
             fails += 1
 
-    print(f"\nprobe failures: {fails}/{len(PROBES)}")
+    print("\nSHEET PROBES (structured drawing corpus)")
+    sfails = 0
+    for sheet, kind, rx, label in SHEET_PROBES:
+        ok = sheet_probe(sheet, kind, rx)
+        if ok is None:
+            print("  [SKIP] sheet-structured.json not built yet"); break
+        print(("  [PASS] " if ok else "  [FAIL] ") + f"{sheet}: {label}")
+        if not ok:
+            sfails += 1
+    fails += sfails
+
+    print(f"\nprobe failures: {fails}/{len(PROBES) + len(SHEET_PROBES)}")
     t = man["_totals"]
     print(f"corpus: {t['chars']:,} chars across {t['documents']} documents, "
           f"{t['ocr_pages']} pages recovered by OCR, {t['thin']} flagged THIN")
