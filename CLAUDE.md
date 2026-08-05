@@ -97,6 +97,7 @@ Full design doc: `Tonopah-Attachment-A-System-Master-Plan.md` (repo root). Summa
 | `01-index/package-index.json` | ❌ **REJECTED by PM (07.31.26) — do not draft from this.** ~47% defect rate on the 17 highest-stakes rows the PM checked. Three root causes, all confirmed: the 33 Scope of Work narratives were never read (stored as filenames only); Addendum #1's 7 revised sheets were never applied as supersession, so 16 of 33 packages cite dead base-bid drawings; awarded-sub proposals were mapped but never read. Full record: `01-index/pm-review-2026-07-31.md`. |
 | Scope of Work narratives extracted | ✅ Done (07.31.26) — all 35 `.docx` (33 SOW + ITB + RFP notice) extracted to `02-trade-scopes-bidform/_extracted/*.txt`, 362,376 chars, article offsets in `01-index/scope-doc-extraction-manifest.json`. Built by `scripts/extract-scope-docs.py`. **These are the primary scope authority for the re-index** — they resolve boundaries the drawings leave ambiguous. |
 | Proposal / descope / homework content indexed | ✅ Done (08.05.26) — `01-index/proposal-content.json`, built by `scripts/index_proposals.py`. All 246 bidder documents read, not just filenames: 2,246 inclusions, 2,041 scope-specific exclusions, 645 clarifications, 138 priced add/deduct line items, 14 priced product groups. **All 33 packages now have at least one scope-bearing document.** Supersession chain per firm per package (latest date governs; 47 undated documents are flagged, never sequenced by guess). Bid tabulation reconciled against every bidder's own stated price. 8 proposal probes added to `scripts/verify_extraction.py`; **33/33 probes pass.** |
+| Spec sections cataloged & assigned | ✅ Done (08.05.26) — `01-index/spec-section-catalog.json` + `package-spec-citations.json`, built by `scripts/index_spec_sections.py`. 131 sections from the manual's own bookmark outline; **all 106 technical sections have a primary package** — 30 by scope-doc citation, 5 by PM ruling, 71 by trade judgment (flagged as judgment, never as citation). Division-level citations expanded to real sections: RFP-031 now has 04 05 03 / 04 20 16, RFP-098 all 11 Div-22, RFP-100 all 16 Div-23, RFP-103 all 22 Div-26/27. 3 flow-down sections separated from 5 genuine conflicts. 19 cited-but-absent sections written up individually. 14 spec probes added; **47/47 probes pass.** |
 | Drawing sheet indexing | ⚠️ Partially valid — 91 base-bid sheets cataloged (`01-index/drawing-sheet-catalog.json`) and vision-read (`drawing-vision-{vol1,vol2,esdemo}.json`). Independent spot-check confirmed the readings are verbatim-accurate **for the revision they read**, but the pass consumed the base bid set only. The 7 sheets revised by Addendum #1 (G0-00, LS1-10, A1-20, A2-10, A10-30, C1, GD) were never opened. Sheet content is reusable; package assignments are not, having been made from drawings rather than from scope docs. |
 
 ### Open items raised by the proposal index (08.05.26) — need PM decisions
@@ -138,6 +139,38 @@ All confirmed by reading the source document, not inferred from a count.
 8. **Tahoe Fence's scope-review agenda is a blank template** — subcontractor, scopes, date and
    attendees all unfilled. Either the meeting record was never completed or the wrong file was
    saved.
+
+### Spec gaps that need PM decisions (08.05.26)
+Nineteen sections are cited by a scope doc but absent from the manual. Five are near-certain
+renumberings (02 41 13→02 41 00, 05 31 12→05 31 00, 08 31 13→08 31 00, 10 21 00→10 21 13.13,
+11 68 33→? ). The rest are real. The four that bite:
+
+- **07 84 00 Firestopping** — cited by RFP-103, in the manual nowhere. Code requires it at every
+  rated penetration and **no package currently carries a firestopping specification.**
+- **03 35 00 Concrete Finishing** — ITB-067's own title section, absent. PM ruling 08.04.26 moved
+  the resinous/epoxy locations to Sealed Concrete under ITB-067, so that package is being asked
+  to deliver sealed concrete with no specification for it.
+- **07 13 00 Sheet Waterproofing** — ITB-040's primary section under the 07.31.26 ruling
+  (below-grade waterproofing only), absent. The package is left holding only 07 92 00 Joint
+  Sealants, which is not waterproofing.
+- **32 11 23 Aggregate Base Courses** — absent, and TAB's homework response prices three Type II
+  deducts against it.
+
+Also: **09 82 00 Acoustical Insulation** absent (only 07 21 00 Thermal exists — confirm whether
+ITB-044 or RFP-060 carries acoustic batt); **10 44 13 Fire Protection Cabinets** absent though
+Henri priced $6,313 of them; **07 41 13 Metal Roof Panels** absent — RFP-045 is assigned
+07 61 00 Sheet Metal Roofing as the nearest published substitute, which is a different section,
+not a renumbering.
+
+**Five genuine conflicts** (two scope docs claiming the same section): 02 41 00 (RFP-002 cites it,
+ruling gives it to RFP-008), 09 21 16 (ITB-077 vs RFP-060), 10 26 00 (ITB-074 vs RFP-060),
+12 93 00 (ITB-018 vs ITB-019 — the section's own Section Includes spans both), 32 91 13
+(ITB-019 vs the RFP-016 ruling). Separate from these, 03 30 00, 07 92 00 and 08 31 00 are
+**flow-down** sections many packages cite by design, not disputes.
+
+**Bookmark number correction:** the manual's outline lists "04 43 36C - Expanded Subcontractor
+Listing". Page 15's own section heading reads **SECTION 00 4336C**, and it is filed between
+00 43 36B and 00 45 21. It is a Division 00 procurement form, not a masonry section.
 
 ## Current Pipeline Stage
 - [x] Stage 0: Repo setup complete
