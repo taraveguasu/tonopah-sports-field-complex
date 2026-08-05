@@ -1,0 +1,114 @@
+
+===== PAGE 1 =====
+ID
+Task Name
+Duration
+Start
+Finish
+0
+NCSD - Tonopah HS Field Replacement
+314 d
+Mon 7/20/26 Tue 10/12/27
+10
+Milestones
+272 d
+Mon 7/20/26
+Fri 8/13/27
+16
+Notice to Proceed
+0 d
+Mon 7/20/26
+Mon 7/20/26
+13
+Start of 2026 Football Season
+0 d
+Fri 8/14/26
+Fri 8/14/26
+14
+End of 2026 Football Season
+0 d
+Fri 11/20/26
+Fri 11/20/26
+17
+Construction Start
+0 d
+Mon 11/23/26
+Mon 11/23/26
+15
+Start of 2027 Football Season
+0 d
+Fri 8/13/27
+Fri 8/13/27
+18
+Procurement
+150 d
+Tue 7/21/26
+Mon 2/22/27
+115
+Field Construction
+180 d
+Mon 11/23/26
+Fri 8/6/27
+152
+Concessions Building
+166 d
+Fri 1/22/27
+Tue 9/14/27
+213
+Sports Field Substantial Completion
+0 d
+Fri 8/6/27
+Fri 8/6/27
+214
+Concession Building Substantial Completion
+0 d
+Tue 9/14/27
+Tue 9/14/27
+215
+Contractual Substantial Completion
+0 d
+Tue 9/14/27
+Tue 9/14/27
+216
+Complete Punch List
+10 d
+Wed 9/15/27
+Tue 9/28/27
+217
+Contractual Close Out
+20 d
+Wed 9/15/27
+Tue 10/12/27
+218
+Project Final Completion
+0 d
+Tue 10/12/27
+Tue 10/12/27
+7/20
+8/14
+11/20
+11/23
+8/13
+8/6
+9/14
+9/14
+10/12
+Qtr 2
+Qtr 3
+Qtr 4
+Qtr 1
+Qtr 2
+Qtr 3
+Qtr 4
+2027
+Task
+Milestone
+Summary
+Project Summary
+Deadline
+Critical
+Progress
+NCSD - Tonopah HS Field Replacement
+Project Schedule 
+Printed Date: Fri 5/29/26 
+Page 1  of 1

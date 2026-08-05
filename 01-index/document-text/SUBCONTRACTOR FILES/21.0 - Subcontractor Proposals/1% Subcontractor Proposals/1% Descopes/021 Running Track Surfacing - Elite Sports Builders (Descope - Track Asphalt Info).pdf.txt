@@ -1,0 +1,650 @@
+
+===== PAGE 1 =====
+74 | Chapter 4: The Contractor and Construction Processes	
+Chapter 4
+The Contractor and  
+Construction Processes
+4.2 Overview of Construction
+4.2.1 Site Preparation, Grading, Compaction and Drainage
+Site preparation includes stripping the site of vegetation and topsoil as indicated on 
+construction documents. Topsoil may be stockpiled and reused for landscaping at the 
+completion of the pavement construction and prior to track surfacing.
+Next, depending upon the existing grade, high areas may need to be excavated or low 
+areas filled to establish an appropriate grade. Excavation and/or fill will add to the cost of 
+construction and to the time required for construction. However, it is important to provide 
+a proper grade for the track and surrounding area. The appropriate grade carries the water 
+away from the track and other critical areas while blending the track into its surroundings. 
+Grading is critical to avoiding erosion and the need for excessive ongoing maintenance. In 
+establishing the grade, the acceptable subgrade material must be compacted in accordance 
+with the geotechnical survey. Care must be taken to ensure that the subgrade is compacted 
+uniformly over the entire site.
+Proper drainage is critical to ensuring a facility’s longevity, including both the subsurface 
+and surface drainage. It is important not to cut costs or take shortcuts when it comes to 
+drainage. Subsurface drainage, if required, usually involves the construction of an interceptor 
+drain within the planned facility. Surface drainage collects and redirects surface water. Water 
+collected in both subsurface and surface drains may be retained on site or moved away from 
+the facility to an approved drainage system. Check local statutory requirements.
+For more information on site preparation, excavation and fill, drainage and subgrade 
+construction, see Chapter 2.
+4.2.2 Constructing Concrete Curbs and Perimeter Edging
+Concrete curbs provide several benefits, help maintain the integrity of the pavement edge 
+and put forth a better finished project. Concrete curbs:
+•	
+Strengthen the pavement surface
+•	
+Minimize maintenance
+•	
+Create a visual border for the track and/or a mow or maintenance strip
+•	
+Confine flexible pavement
+•	
+Improve subbase compaction
+•	
+Control dimensions and elevation grades
+For more information on curbs and perimeter edging, see Chapter 2.
+4.2.3 Asphalt Guidelines
+This guideline is intended to assist owners, contractors, design professionals, and hot 
+mix asphalt suppliers in the design and installation of hot mix asphalt concrete to meet 
+exacting sports construction standards. Because of the wide variation in climate, construction 
+methods, site conditions and materials availability, the services of a qualified and experienced 
+design professional should be obtained before use to ensure suitability for a specific project.
+
+
+===== PAGE 2 =====
+	
+ Chapter 4: The Contractor and Construction Processes | 75
+Chapter 4
+The Contractor and  
+Construction Processes
+4.2.3a Qualified Suppliers
+Hot Mix Asphalt (HMA) shall be manufactured from a state approved/certified HMA 
+manufacturing facility. Work consists of one or more courses of HMA constructed on a properly 
+prepared foundation. The low-volume (aka athletic use) asphalt concrete consists of a mixture 
+of dense (aka well) graded aggregate and specified type and grade of asphalt binder. The 
+manufacturing facility shall be capable of producing HMA in accordance with the following 
+requirements and all applicable local agency specifications on an ongoing and consistent basis.
+Ensuring uniform material is produced and selecting the vendor for these asphalt projects 
+will require timely submittal of documents and qualifications to the satisfaction of the owner. 
+Contractor/material supplier shall demonstrate the existence of the following documents:
+1.	 Approved vendor certificate for the locality (state/county/city, et. al.) where work is 
+being done,
+2.	 Quality control manual for material production oversight and testing measures being 
+performed both at the asphalt plant as well as on the job site, and
+3.	 List/organizational chart showing personnel responsible for use of equipment and 
+actions of the crew on the grade while paving and compacting asphalt.
+Calibrated equipment and qualified personnel must be always accessible during the 
+construction of the HMA. The contractor installing the HMA shall provide the necessary 
+equipment, materials, and labor to complete the job acceptable to the owner and in 
+accordance with applicable contract documents. Variations in the size and amount of 
+equipment will depend on the size of the area being paved.
+It is imperative that all documents list a “Person-in-Charge” who is responsible for the 
+oversight of the previously listed activities. This individual will be the point of contact for the 
+owner and shall work with the owner to ensure timely project completion and specification 
+compliance. This individual shall be knowledgeable in all aspects of asphalt design, 
+production, and installation and shall be an employee of the contractor installing the asphalt, 
+even if the HMA is being produced and supplied by a separate vendor.
+This individual shall be knowledgeable in all aspects of asphalt mix design, production, 
+and installation and shall be an employee of the company holding the contract with the 
+owner, even if the HMA is being produced and supplied by a separate vendor. This person 
+shall have authority to take corrective actions needed to make the athletic asphalt fit for use.
+For the asphalt installation as well as aggregate base, it is best practice for the owner and 
+or owners’ representatives to review and approve all data and reports prior to the application 
+of athletic surface materials. This includes design submittal, construction observation, and 
+quality control and assurance sampling and testing.
+4.2.3b Definitions
+1.	 Surface Course—The low volume surface/wearing course shall be installed uniformly, 
+to all finished lines and grades, smooth, durable, impervious thus protecting lower 
+layers, and stable. Workmanship of the finished surface course shall be of the highest 
+industry standards (NAPA, AI, ASBA, and NHI references) and applicable to sports 
+
+
+===== PAGE 3 =====
+76 | Chapter 4: The Contractor and Construction Processes	
+Chapter 4
+The Contractor and  
+Construction Processes
+surfaces prior to acceptance by the owner. The surface course shall be built with a 
+fine-graded, ½” maximum aggregate particle size (Nominal Maximum Aggregate 
+Size of 3⁄8”) or smaller. Surface course shall be installed to a minimum average 1-½” 
+compacted thickness; ensure that no thickness of less than 1- ¼” compacted thickness 
+is placed.
+2.	 Leveling Course—The course and location of the recreational area that requires 
+placement of a variable thickness of HMA to ‘true up’ the area prior to placement of 
+the surface course. This course has a Maximum Aggregate Size (MAS) no greater than 
+that of the surface course.
+3.	 Base Course—The lower courses of the pavement structure below the surface and 
+leveling course with a MAS of between ¾” and 1”. Base courses shall not be allowed 
+to remain without the surface course placed over an extended period and as approved 
+by the engineer. The base shall be kept clean and must be completely dry before 
+proceeding. If the minimum thicknesses shown above cannot be met, then install 
+surface mixture as base course.
+4.	 Tacking/Priming—The process of applying one coat of emulsified asphalt to all 
+horizontal and vertical surfaces of either an existing pavement for an overlay or 
+between lifts while building an improved or new structure (tacking), or upon the 
+aggregate base (priming).
+Designer Note: For other low-volume, fine-graded asphalt mixtures, if permitted by the 
+Engineer, follow the National Center for Asphalt Technology recommended guidelines shown 
+below for minimum lift thicknesses. [Commentary: Absolute minimum is typically achieved 
+by specifying ¼” greater than listed below.]
+HMA Mixture 
+NMAS
+NCAT Fine Graded HMA Compacted 
+Thickness, minimum
+3⁄8” (9.5 mm)
+(3) x 3⁄8” = 1- 1⁄8” (1-½” preferred)
+½” (12.5 mm)
+(3) x ½” = 1- ½” (2” preferred)
+¾” (19.0 mm)
+(3) x ¾” = 2- ¼” (3” preferred)
+4.2.3c Materials
+•	
+Tack Coat and Prime Coat: AASHTO M140 or M208 (Reference the Asphalt Institute 
+MS- 19 for Handling, Storage and Application criteria: typically, 0.05 gal / sy to 0.15 
+gal / sy (0.02 gal / sy to 0.05 gal / sy residual AC) depending on the existing surface 
+condition; see Surface Preparation section and current AI and NAPA publications).
+•	
+Tack Coat: SS-1, SS-1h, CSS-1 or CSS-1h diluted with an equal amount of water, or 
+agency acceptable product.
+•	
+Prime Coat: Prime Coat materials of MS-2, CMS-2, or HFMS-2s.
+•	
+Hot Mix Asphalt (Low Volume):
+•	
+Aggregates, mineral filler, and asphalt binder shall meet or exceed the 
+requirements of local specifications for asphalt pavements placed under this 
+
+
+===== PAGE 4 =====
+	
+ Chapter 4: The Contractor and Construction Processes | 77
+Chapter 4
+The Contractor and  
+Construction Processes
+contract for qualities and types. The coarse aggregate shall be sound, angular 
+crushed stone, crushed gravel, or crushed air-cooled blast furnace slag (not steel). 
+The fine aggregate shall be well graded, moderately sharp to sharp (angular) 
+sands. No aggregates known to cause rust spots or pop-outs (steel slag, iron pyrite, 
+and / or dust balls) are allowed in the asphalt. No recycled concrete is allowed in 
+any of the asphalt mixtures.
+•	
+All HMA mix designs shall be performed in accordance with the Asphalt Institute 
+Manual Series #2 (MS-2), current edition. The HMA mix designs developed 
+shall meet the requirements of one of the following for compactive effort in the 
+laboratory:
+1.	 Marshall, 50-Blow,
+2.	 Superpave, 50-Gyration, or
+3.	 Hveem, Low Volume Mix.
+4.	 Alternate Low Volume Asphalt Mix Designs may be allowed with the 
+Engineers approval prior to time of bidding.
+•	
+HMA mix designs shall be performed by qualified personnel with proven past 
+experience and successes in the mix design and quality control of asphalt production. 
+Resumes of the signing “individual-in-charge” may be required by the owner and shall 
+be supplied if requested. The design shall meet the following requirements and be less 
+than 24 months old. However, the mix design method used shall be the Contractors 
+option, as stated previously, based on various methods which currently exist around 
+the nation. A completed design shall be signed by a professional engineer and require 
+submittal of documentation as detailed within this specification. This is required 
+by the owner for the producer to demonstrate knowledge of asphalt mix design and 
+production criterion needed to supply athletic asphalt.
+•	
+Bidding documents shall include the Contractors proposed Asphalt Mixture Design 
+sheets. (Reference Mix Design Submittal Checklist in Appendix H.) Designs will be 
+for HMA to be placed for each of the uses anticipated on each project; patching, base, 
+leveling, and/or surface course. Different asphalt suppliers shall require different 
+design submittals. In addition to mix designs, submit Asphalt Placement Work Plan, 
+indicating paving pass widths, paving directions, site access, and timing/coordination 
+of athletic equipment installation (tennis net posts, vault boxes, fencing, etc.). Bid 
+document except the asphalt mix design shall be submitted within 10 days of project 
+award; asphalt mix design cover sheet which summarizes all materials and optimum 
+asphalt content is required with project bidding.
+•	
+All submitted HMA mix designs shall have a completed Mix Design Submittal 
+Checklist (reference Appendix H) and contain at a minimum the following information:
+•	
+All aggregate gradations and quality measurements
+•	
+Plot (0.45 power graph) of final aggregate blend
+•	
+Bulk (dry) specific gravity of all aggregates and final blend (Gsb) including 
+worksheets for natural (virgin) as well as reclaimed asphalt pavement (RAP)
+•	
+Statement of asphalt binder (PG) being used in asphalt mixture
+•	
+Optimum % asphalt binder (Pb)
+•	
+Mix air voids at optimum (Va)
+•	
+Bulk specific gravity of mix at optimum (Gmb)
+•	
+Theoretical maximum specific gravity at optimum (Gmm)
+
+
+===== PAGE 5 =====
+78 | Chapter 4: The Contractor and Construction Processes	
+Chapter 4
+The Contractor and  
+Construction Processes
+•	
+Voids in the mineral aggregate (VMA) and voids filled with asphalt (VFA)
+•	
+Dust to total AC ratio
+•	
+All design data and associated design curves
+Mix Design Method Requirements
+Measures
+Superpave
+Marshall
+Hveem
+Stability, lbs.
+n/a
+1,200 min.
+30 min.
+Flow, 0.01 in.
+n/a
+8 to 16
+n/a
+Swell, in.
+n/a
+n/a
+0.030 max.
+Air voids @ optimum 
+AC with 2-hr. aging 
+(cure-time)
+3.5%
+3.5%
+3.5%
+VMA based on NMAS
+  #4 (4.75 mm)
+16.0 min.
+16.0 min.
+16.0 min.
+ 
+3⁄8” (9.5 mm)
+15.0 min.
+15.0 min.
+15.0 min.
+  ½” (12.5 mm)
+14.0 min.
+14.0 min.
+14.0 min.
+  ¾” (19.0 mm)
+13.0 min.
+13.0 min.
+13.0 min.
+VFA
+73 to 80
+73 to 80
+73 to 80
+Dust to effective AC 
+(design & production)
+0.7 to 1.3
+0.7 to 1.3
+0.7 to 1.3
+Tensile strength ratio
+80% min.
+80% min.
+80% min.
+In addition, all design methods and measures listed above shall meet the following criteria 
+for design and throughout production.
+•	
+Base mixes shall have a minimum of 45% passing the #4 sieve.
+•	
+Surface and leveling mixes shall have a minimum of 45% passing the #8 sieve.
+•	
+Coarse aggregate fraction shall have a minimum of 85% / 75% crushed faces.
+•	
+Fine aggregate angularity (AASHTO T-304, Method A), shall be >= 40% with no more 
+than 20% natural sand allowed.
+•	
+Mix designs shall include a breakdown factor, increase to minus #200, introduced 
+during the design stage to mimic production values.
+•	
+VMA is based on the aggregate bulk (dry) specific gravity, Gsb, as determined by 
+AASHTO T-84 and T-85.
+•	
+Performance Graded (PG) binder shall meet typical agency specification for new 
+construction low volume roadways (reference LTPPBind, current edition; 98% 
+reliability).
+•	
+Reclaimed Asphalt Pavement (RAP):
+a.	 May be used up to 20% in the HMA binder/base and leveling courses.
+b.	 Typically, 0% for HMA surface course due to potential blemishes forming from 
+unknown or varying aggregate qualities; however, may be used up to 15% in the 
+
+
+===== PAGE 6 =====
+	
+ Chapter 4: The Contractor and Construction Processes | 79
+Chapter 4
+The Contractor and  
+Construction Processes
+HMA surface course only if approved by the architect/engineer of record.
+c.	 Requires a signed and notarized letter stating that no pyrite, steel slag, or aggregates 
+known to rust or deteriorate are within the RAP being utilized is required.
+d.	 Requires the Gsb of the RAP to be determined and used in VMA calculations, not 
+the Gse. The RAP Gsb shall be determined after running the RAP Gmm and then 
+from calculating the RAP Gse minus 0.1 for high absorptive aggregates and RAP 
+Gse minus 0.05 for low absorptive aggregates.
+e.	 Requires that all RAP shall be crushed and screened over a 5⁄8” screen deck or 
+smaller for binder/base and leveling courses and ½” screen deck for surface 
+mixtures—no exceptions.
+•	
+Reclaimed Asphalt Shingles (RAS) are not allowed in athletic facilities asphalt.
+•	
+Current quality control testing of the mixture, aggregates, and RAP proposed to 
+be used on the project shall be submitted to the owner prior to acceptance of the 
+proposed mix design.
+4.2.3d Testing
+•	
+Testing required to validate or control the mix supplied is the Paving Contractor’s 
+responsibility and will be included in the bid cost for providing these HMA items. 
+Daily maximum theoretical specific gravity (Gmm) values must be made available to 
+the Contractor’s density technician for verifying in-place density within four hours 
+of start of production. Asphalt content, gradation, and bulk specific gravity (Gmb) 
+testing shall be performed on the first day of installation for each product used, then 
+done a minimum of once every 400 tons of HMA supplied or every third day for low 
+tonnages that when added together successively do not equal 400 tons. Acceptable 
+average measures are made by use of a correlated nuclear density gauge, a correlated 
+Pavement Quality Indicator or PaveTracker (non-nuclear) or by cutting (4) cores per 
+lift, per day and testing per AASHTO T-166, Method C. Additional testing shall be 
+performed on any given day once 400 tons of asphalt is placed on that day.
+•	
+The average sub-lot (daily or 400 tons; whichever is less) in-place density measure 
+for surface course mixtures shall be 94.0% of Gmm with no value less than 92.5% of 
+Gmm. Base and leveling installation of asphalt shall meet local DOT specifications for 
+in-place density measures or average of 92.0% of Gmm, whichever is greater. Surface 
+course longitudinal joints shall be measured directly upon the joint, centered upon 
+by core or density gauge, and shall meet the mat density requirements. Base and 
+leveling course longitudinal joint density measures shall achieve between 95% - 102% 
+of maximum achievable individually, with an average of 98% on any given day.
+•	
+Process control testing shall be in accordance with state standards for frequency and 
+methods where the work being performed is done with a minimum of testing meeting 
+the above QC requirements.
+•	
+Process Control Voids and minus #200 gradation shall target mix design with no test 
+outside plus/minus 1.0% and VMA shall target the asphalt mix design value or greater, 
+with no test value less than minimum allowed minus 0.3%.
+•	
+Print outs of ingredients used shall be supplied for each run of asphalt; data logger or 
+computer screen shot. Print outs shall be supplied daily with the final load of asphalt 
+ticket.
+
+
+===== PAGE 7 =====
+80 | Chapter 4: The Contractor and Construction Processes	
+Chapter 4
+The Contractor and  
+Construction Processes
+4.2.3e Recommended Means & Methods
+Equipment
+•	
+Tack/prime coat distributor truck must have an insulated tank, heating system, and 
+a calibrated distributor capable of maintaining a uniform application of emulsified 
+asphalt under pressure throughout the area to be paved. This requires a pump in good 
+working order, full circulating spray bars, and free flowing nozzles. Small, isolated 
+areas may be tacked with a wand.
+•	
+Trucks shall have smooth, clean, and tight metal beds that do not have mixture 
+sticking to the truck bed and from which the entire quantity of HMA can be 
+discharged smoothly into the spreading equipment. Trucks shall have a tarp and 
+insulation as needed to protect the asphalt mixture from wind, rain, and cold 
+temperatures. Trucks for hauling asphalt mixture shall be in good, safe working 
+condition.
+•	
+Paving equipment must be capable of placing, spreading and finishing courses of HMA 
+to the specified thicknesses. HMA shall be free of marks, segregation and be placed to 
+the required uniform elevation with a smooth texture not showing tearing, shoving, or 
+gouging. Auger extensions are required while pavers are extended beyond the basic 
+screed width. Paving equipment shall be self-propelled and capable of maintaining 
+the line and grade shown on the plans with suitable electronic equipment. The screed 
+shall be straight and true with no bow and utilizing a vibratory screed. Hand work 
+shall be minimized to ensure the best possible finished surface. It is recommended 
+that paving equipment be equipped with sonar pods or no contact skis for sports 
+asphalt construction. Additionally, it should be equipped with automatic slope 
+control to maintain required tolerances. Finally, paving equipment should have fully 
+functional screed heaters and joint preheaters.
+•	
+Rollers shall conform to the manufacturer’s specifications for all ballasting. At least 
+one vibratory roller shall be required for each project with two rollers required 
+as a minimum. (Three rollers shall be required when tonnage is greater than 300 
+tons / day.) Rollers shall be of good condition and capable of compacting the HMA to 
+the minimum in-place density required by this specification.
+Surface Preparation
+1.	 Repair pavement failures and perform crack repair according to specification 
+requirements prior to HMA installation.
+2.	 Cold-milling and/or grinding may be necessary to ensure that the asphalt edges at 
+concrete abutments such as approaches, sidewalks, curbing, and drainage basins have 
+smooth transitions.
+3.	 After site review, detail whether wedge milling is necessary to assure positive 
+drainage and transition. Install leveling course, if required, on the project per the site 
+details and quantities shown on the plan sheets.
+4.	 Existing surfaces to receive HMA must be clean prior to the installation of any portion 
+of the work. Clean the surface on which the asphalt concrete is to be placed, and keep 
+it free of accumulations of materials that would contaminate the mixture, prevent 
+bonding, or interfere with spreading operations. Methods used may include but not 
+be limited to the use of a sweeper that can wet and vacuum the area free of dirt and 
+debris, clay, and dust, or any other foreign material.
+
+
+===== PAGE 8 =====
+	
+ Chapter 4: The Contractor and Construction Processes | 81
+Chapter 4
+The Contractor and  
+Construction Processes
+5.	 Any oil or grease spots shall be scraped and treated to prevent bleeding through the 
+tack coat. Bad oil spills may require removal with a wire brush or other suitable tool. 
+Maintain clean pavements prior to applying emulsified tack coat. When approved 
+sub- grade or pavement courses previously constructed under the Contract become 
+loosened, rutted, or otherwise defective, the Contractor must correct the deficiency 
+according to the contract item or items involved before the spreading of a subsequent 
+pavement course.
+6.	 If subsequent lifts are laid beyond 24 or 48 hours, apply tack coat at the diluted rate of 
+0.05 gal / sy (0.02 gal / sy residual AC) over newly constructed asphalt leveling or base 
+mixes, 0.10 gal / sy (0.04 gal / sy residual AC) over existing asphalt pavements and 0.15 
+gal / sy (0.05 gal / sy residual AC) over milled surfaces. The higher rate shall be used 
+on dry and brittle surfaces. All vertical edges abutting proposed asphalt surfaces shall 
+receive a tack coat. Excessive asphalt applications, drooling, or pooling shall be swept 
+with a broom to ensure proper bonding of the HMA. Install the HMA after the asphalt 
+emulsion has ‘broken’; i.e. turned from a brown to a black color, indicating water has 
+evaporated. If pick up occurs, wait until emulsion cures.
+7.	 If shown on the plans, apply prime coat at the diluted rate of 0.30 gal / sy over newly 
+placed aggregate base course prior to the installation of the base asphalt.
+8.	 Install tack / prime coat during appropriate weather conditions and protect the 
+tack / prime coat from traffic so as not to wear and track. Allow the tack / prime coat 
+to ‘break’, i.e. turn from brown to black prior to installation of the HMA.
+9.	 Perform work in appropriate weather conditions that are dry with no rain, snow, or other 
+forms of precipitation falling or imminent (anticipated during installation of the HMA).
+Pavement Placement
+1.	 Install HMA which shall generally arrive on the project between 270–300° Fahrenheit 
+(see producer recommendation) asphalt in accordance with above weather conditions 
+and with a temperature of 50° F. and rising for all asphalt lifts.
+2.	 Establish an acceptable rolling pattern with the assistance of a density technician on 
+the first day of construction. Record temperatures, equipment, rolling pattern, and in-
+place density results throughout the project.
+3.	 Surface course longitudinal joints shall be smooth and true; no deviation from level 
+and true as required of the mat will be allowed. Detail and submit to the owner a 
+paving plan on the site plan sheet prior to placement of asphalt.
+4.	 The entire athletic surface course shall be paved on the same day. The timing and 
+process should be discussed with and approved by the owner before proceeding with 
+the work. If a cold seam will occur, it must be agreed to with the owner in advance, 
+such as near or at a planned saw and seal joint or under the fence line.
+5.	 Rolling shall start as soon as the HMA can be compacted without displacement. 
+Rolling shall continue until the HMA is thoroughly compacted and all roller marks 
+have disappeared. Compact the HMA to a minimum in-place density of 94.0% of the 
+Theoretical Maximum Specific Gravity, Gmm. (Reference density pay factor table.)
+6.	 Smoothness shall meet the requirements of no greater than ¼” in 10 ft. for base and 
+leveling courses and 1⁄4” in 10 ft. for surface course.
+7.	 Thickness of the overall mat shall be within ¼” (surface course, no minus) of the 
+specified plan thickness at all locations. However, the yield for the day and for the 
+entire site shall meet calculated theoretical based on 94% of Gmm supplied from the 
+contractor’s mix design and daily test values.
+
+
+===== PAGE 9 =====
+82 | Chapter 4: The Contractor and Construction Processes	
+Chapter 4
+The Contractor and  
+Construction Processes
+8.	 Paving joints (install/build control joints per the architectural drawings)
+•	
+Minimize construction, longitudinal, and transverse joints left open for an 
+extended period.
+•	
+Construct longitudinal joints by paving in a hot fashion with a temperature of not 
+less than 220oF to ensure maximum performance.
+•	
+Compact all joints to provide for a neat, uniform and tightly bonded joint that will 
+meet both surface tolerances and density requirements.
+•	
+Cut straight and true (vertical) construction or transverse joints if the material has 
+cooled to less than 220oF prior to the placement of the next pass to ensure the best 
+performing joint possible.
+•	
+Off-set joints a minimum of 6” between lifts of asphalt.
+9.	 Allow positive drainage off of the athletic facility and towards drainage outlets. Any 
+ponding of water is not acceptable and shall require correction or replacement at 
+the Contractor’s expense and as directed by the Engineer. Flood pavement areas as 
+directed by the owner and in the presence of the architect/engineer and surfacing 
+contractor to determine positive drainage acceptability. Review ASBA's "Water on 
+Tracks" position paper for more details.
+10.	 Protect the HMA until such time that coating can be placed upon the properly 
+compacted asphalt, particularly during other construction activities between asphalt 
+installation and athletic surface installation.
+11.	 If excessive segregation is occurring during placement operations, the Contractor 
+will investigate the cause(s) and make appropriate changes to the satisfaction of the 
+owner. (Reference AI MS-22.)
+12.	 Excessive leveling and smoothness correction required to be performed by the 
+surfacing contractor shall be the responsibility of the paving contractor.
+Work Timeliness
+HMA Full-depth pavements/overlays (a/k/a Resurfacing): The repairs, HMA overlay, and 
+coating shall be accomplished in such a manner as not to unduly delay the progress of the 
+project. Every attempt should be made to complete the surface course placement process in 
+one continuous placement with no cold joints. The timing and process should be discussed 
+with the owner before proceeding with the work.
+Site Specific Identification, contractor shall:
+•	
+Remove all waste materials from the site and dispose of according to local ordinances.
+•	
+Complete all work in compliance with the American Sports Builders Association 
+(ASBA) requirements or as modified here, whichever is more restrictive.
+•	
+Notify owner when work is complete.
+•	
+Supply owner with Notarized Certificate of Compliance for all products used on the 
+project.
+•	
+Supply owner with yield calculations for all products used on the project. (For 
+example, placement of 1,300 sq. yds. of Hot Mix Asphalt,1-¾” compacted thickness will 
+require 128 tons when the unit weight = 150 pcf.)
+
+
+===== PAGE 10 =====
+	
+ Chapter 4: The Contractor and Construction Processes | 83
+Chapter 4
+The Contractor and  
+Construction Processes
+References:
+•	
+Asphalt Institute, Lexington, KY [MS-2, Asphalt Mix Design and MS-22, Asphalt 
+Construction.] National Asphalt Pavement Association, Lantham, MD. [Athletic 
+Asphalt.]
+•	
+National Center for Asphalt Technology [HMA Materials, Mixture Design, and 
+Construction.]
+4.2.3f Asphalt Acceptance
+It is the responsibility of the asphalt contractor or the general contractor to supply 
+a base that meets the specifications of the designer and/or the rules of the sport. It is far 
+more difficult and costly to wait until the surface has been installed to identify issues with 
+slope, planarity, elevation or drainage. Additionally, unless the surfacing contractor is also 
+responsible for the paving, it is inappropriate to hold that contractor responsible for such 
+issues if the pavement has not been tested and corrected prior to surfacing. It is highly 
+recommended that track projects include testing to demonstrate adherence to specifications 
+and, if necessary, corrective work to achieve compliance at the cost of the asphalt contractor 
+or the general contractor. These tests should be completed prior to the installation of track 
+surfacing. An independent testing firm should check the dimensions, slopes and tolerances 
+of the asphalt pavement. Results confirming compliance should be submitted to the surfacing 
+contractor and owner prior to mobilization. If the initial assessment shows noncompliance, 
+the necessary corrective work should be executed and the pavement retested prior to the 
+commencement of surfacing. A few more points to consider:
+•	
+The asphalt mix design should be approved by the design professional, the surfacing 
+contractor and the asphalt contractor. Tests that verify that the mix, as installed, 
+meets the approved design should be provided.
+•	
+The surface course of asphalt shall be installed so that on a localized level, there 
+shall be no bumps or depressions beneath a 10’ straight edge exceeding 1/4 of an inch. 
+Particular attention should be paid to seams and joints in the asphalt surface. The 
+intent is to ensure the safety of the athlete and provide an even surface. Since the 
+resilient running surface to be installed over the asphalt has tolerances with respect 
+to thickness, it is important that the asphalt surface meets the tolerance described 
+above. It is important to remember that the use of extra track surfacing materials to 
+correct planarity deficiencies is not recommended.
+•	
+The installed pavement must be at the correct elevation at all curbs, channel drains 
+and other adjoining surfaces. Incorrect areas should be repaired or reinstalled to 
+correct elevations.
+•	
+All bond breakers, such as petroleum-based products like oil, hydraulic fluid and 
+gasoline, must be removed.
+•	
+The asphalt should be flooded to check for low areas and surface drainage. Out-of- 
+tolerance areas should be repaired or reinstalled.
+•	
+Prior to surfacing, the asphalt should be cured in accordance with the 
+recommendations of the specification writer and the manufacturer of the surfacing 
+system. This is typically 28 days based on depth of asphalt and oil content.
+•	
+If the track requires a certification that includes a topographic survey, the survey 
+should be performed prior to surfacing.
+
+
+===== PAGE 11 =====
+84 | Chapter 4: The Contractor and Construction Processes	
+Chapter 4
+The Contractor and  
+Construction Processes
+Corrective work should be accomplished using appropriate methods, such as:
+•	
+For high spots:
+•	
+grinding
+•	
+heating and rolling (only if approved by the surfacing contractor)
+•	
+For low spots:
+•	
+removing and replacing
+•	
+keying into existing asphalt
+•	
+hiring the surfacing contractor to apply leveling materials approved by the 
+surfacing manufacturer
+Because of the relatively rigid specifications and tolerances for asphalt pavements 
+intended for track installations, it is recommended that only asphalt paving contractors with 
+prior track building experience be considered.
+4.2.4 Concrete Guidelines
+Concrete is the product of mixing crushed stone or gravel and sand with Portland cement, 
+making it an extremely rigid pavement. As such, it is also exceptionally durable, meaning 
+low maintenance costs after initial construction, though initial cost may be somewhat higher 
+than that for asphalt due to both installation and additional preparation involved with 
+applying surface materials to concrete. If problems occur, concrete is more difficult to repair 
+than asphalt.
+Because of its durability, concrete may be useful on a site with poor soil or in a geographic 
+region with extreme freeze-thaw cycles. Concrete pavement will be resistant to settling, 
+heaving and vegetation encroachment; however, some cracking can be expected.
+Depending on site conditions, various kinds of concrete pavement may be suitable for 
+running tracks: nonreinforced concrete, reinforced concrete and post-tensioned concrete.
+4.2.4a Materials
+Concrete should comply with the standards of industry sources such as ASTM 
+International or the American Concrete Institute. These standards address blending, mix 
+percentages and similar issues. Depending on the size and the complexity of the facility 
+under construction, the construction documents may detail the characteristics of the concrete 
+to be used. The aggregate used in the concrete mix should be clean, hard, durable and graded 
+within specified limits.
+4.2.4b Reinforcement
+Reinforcement materials are commonly incorporated in concrete construction to provide 
+additional stabilization and crack resistance. Proper reinforcement will extend the life 

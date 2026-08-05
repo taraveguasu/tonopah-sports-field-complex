@@ -1,0 +1,20 @@
+=== SHEET: cover sheet ===
+			Attachment A Review Log
+			Project Name
+			Project #
+	Approved By	Approval Stamp		Reviewed By	Reviewed Stamp
+	Project Director			Project Manager
+	General Superintendent			Superintendent
+	Tim Roley or       Matt Wade                    (if over $5M)			Assistant PM (if applicable)
+	Final Session; add Invitees: Anne Tall, Erin Hicks, Kathleen Hamilton, Liz Pippett,  Inger Pippett
+	Subcontractor:
+	Anticipated Material Procurement Date:		44927.0
+	Anticipated Start Date:		45047.0
+	*Phase Code	02-1000-10000		Dollar Amount	50000.0
+	    *Only one Phase Code Per Subcontractor/Vendor per Tim Roley
+	TOTAL (should equal contract total)			50000.0
+=== SHEET: list ===
+	Roger Baum
+	Merv Giles
+	Matt Buckhannon
+	Jim Jacobs

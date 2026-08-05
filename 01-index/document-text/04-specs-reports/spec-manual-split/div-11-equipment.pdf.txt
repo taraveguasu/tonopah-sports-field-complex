@@ -1,0 +1,482 @@
+
+===== PAGE 1 =====
+Nye County School District
+Bid Documents
+11 3013
+Tonopah HS Field Replacement
+Residential Appliances
+April 20, 2026
+Page 1 of 1
+SECTION 11 3013
+RESIDENTIAL APPLIANCES
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Kitchen appliances.
+1.02 REFERENCE STANDARDS
+A.
+UL (DIR) - Online Certifications Directory; Current Edition.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Manufacturer's data indicating dimensions, capacity, and operating features of
+each piece of residential equipment specified.
+C.
+Copies of Warranties: Submit manufacturer warranty and ensure that forms have been
+completed in Owner's name and registered with manufacturer.
+1.04 QUALITY ASSURANCE
+A.
+Electric Appliances: Listed and labeled by UL (DIR) and complying with NEMA Standards
+(National Electrical Manufacturers Association).
+1.05 WARRANTY
+A.
+See Section 01 7800 - Closeout Submittals, for additional warranty requirements.
+B.
+Provide ten (10) year manufacturer warranty on magnetron tube of microwave ovens.
+PART 2 PRODUCTS
+2.01 KITCHEN APPLIANCES
+A.
+Provide Equipment Eligible for Energy Star Rating: Energy Star Rated.
+B.
+Microwave, Type ____: Countertop.
+1.
+Capacity: 0.7 cubic ft (0.019 cu m).
+2.
+Power: 700 watts.
+3.
+Features: Include turntable and 2-speed exhaust fan.
+4.
+Exterior Finish: Black.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify utility rough-ins are provided and correctly located.
+3.02 INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+3.03 ADJUSTING
+A.
+Adjust equipment to provide efficient operation.
+3.04 CLEANING
+A.
+Remove packing materials from equipment and properly discard.
+B.
+Wash and clean equipment.
+END OF SECTION
+
+
+===== PAGE 2 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 3 =====
+Nye County School District
+Bid Documents
+11 4000
+Tonopah HS Field Replacement
+Foodservice Equipment
+April 20, 2026
+Page 1 of 2
+SECTION 11 4000
+FOODSERVICE EQUIPMENT
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Foodservice equipment.
+B.
+Connections to utilities.
+1.02 REFERENCE STANDARDS
+A.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+B.
+ASTM A666/A666M - Standard Specification for Annealed or Cold-Worked Austenitic Stainless
+Steel Sheet, Strip, Plate, and Flat Bar; 2024.
+C.
+ASTM C1036 - Standard Specification for Flat Glass; 2021.
+D.
+UL (DIR) - Online Certifications Directory; Current Edition.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide data on appliances; indicate configuration, sizes, materials, finishes,
+locations, and utility service connection locations, service characteristics, and wiring diagrams.
+C.
+Operation Data: Provide operating data for the specified equipment​.
+D.
+Maintenance Data: Provide lubrication and periodic maintenance requirement schedules​.
+E.
+Warranty: Submit manufacturer warranty and ensure forms have been completed in Owner's
+name and registered with manufacturer.
+1.04 DELIVERY, STORAGE, AND HANDLING
+A.
+Store products clear of floor in a manner to prevent damage.
+B.
+Coordinate size of access and route to place of installation.
+1.05 WARRANTY
+A.
+See Section 01 7800 - Closeout Submittals, for additional warranty requirements.
+B.
+Correct defective work of this section within a five year period after Date of Substantial
+Completion.
+C.
+Provide five year manufacturer warranty for replacement or repair of scheduled equipment,
+refrigerant and compressors, including disconnection and removal of defective unit, and
+connection of replacement unit.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Foodservice Equipment:
+1.
+Hobart Corp; ____: www.hobartcorp.com/#sle.
+2.
+Vulcan Hart Corp; ____: www.vulcanhart.com/#sle.
+3.
+​Advance Tabco; https://advancetabco.com/​.
+4.
+True Manufacturing: https://www.truemfg.com/
+5.
+Substitutions: See Section 01 6000 - Product Requirements.
+2.02 REGULATORY REQUIREMENTS
+A.
+Comply with applicable codes for utility requirements.
+2.03 EQUIPMENT
+A.
+Equipment Schedule: Refer to drawings.
+1.
+Equipment Eligible for Energy Star Rating: Provide Energy Star Rated equipment
+
+
+===== PAGE 4 =====
+Nye County School District
+Bid Documents
+11 4000
+Tonopah HS Field Replacement
+Foodservice Equipment
+April 20, 2026
+Page 2 of 2
+2.
+Cooler and Freezer Units: Listed by UL (DIR).
+3.
+Electrical Wiring and Components and Self-Contained Refrigeration Systems: Comply
+with UL (DIR) listed product standards.
+B.
+Installation Accessories: Provide rough-in hardware, supports and connections, attachment
+devices, closure trim, and accessories as required for complete installation.
+2.04 MATERIALS
+A.
+Sheet Steel: Hot-dipped galvanized steel sheet, ASTM A653/A653M, with G90/Z275 coating.
+B.
+Stainless Steel Sheet: ASTM A666/A666M Type 304 commercial grade, No. 4 finish.
+C.
+Glass: ASTM C1036 annealed, and laminated, 4 mm thick; exposed edges ground; cut or
+drilled to receive hardware.
+D.
+Finish Hardware: Manufacturer's standard.
+E.
+Service Outlet Covers and Escutcheons: Stainless Steel.
+2.05 FINISHES
+A.
+Components: Shop finish.
+B.
+Stainless Steel: No. 4 finish.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify ventilation outlets, service connections, and supports are correct and in required location.
+B.
+Verify that electric power is available and of the correct characteristics.
+3.02 INSTALLATION
+A.
+Install items in accordance with manufacturers' instructions.
+B.
+Insulate to prevent electrolysis between dissimilar metals.
+3.03 CLOSEOUT ACTIVITIES
+A.
+At completion of work, provide qualified and trained personnel to demonstrate operation of
+each item of equipment and instruct Owner in operating procedures and maintenance.
+1.
+Test equipment prior to demonstration.
+3.04 PROTECTION
+A.
+Remove protective coverings from prefinished work.
+B.
+Protect finished work from damage.
+END OF SECTION
+
+
+===== PAGE 5 =====
+Nye County School District
+Bid Documents
+11 6843
+Tonopah HS Field Replacement
+Football/Track Scoreboard
+April 20, 2026
+Page 1 of 3
+SECTION 11 6843
+FOOTBALL/TRACK SCOREBOARD
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Single-sided LED football/track scoreboard
+1.02 REFERENCES
+A.
+Standard for Electric Signs, UL 48
+B.
+Standard for CSA C22.2 #207
+C.
+Federal Communications Commission Regulation Part 15
+D.
+National Electric Code
+1.03 SUBMITTALS
+A.
+Product data: Submit manufacturer’s product illustrations, data and literature that fully describe
+the scoreboards and accessories proposed for installation.
+B.
+Shop drawings: Submit mechanical and electrical drawings.
+C.
+Maintenance data: Submit manufacturer’s installation, operation, and maintenance manuals.
+1.04 DELIVERY, STORAGE, AND HANDLING
+A.
+Product delivered on site
+B.
+Scoreboard and equipment to be housed in a clean, dry environment
+1.05 PROJECT CONDITIONS
+A.
+Environmental limitations: Do not install scoreboard equipment until mounting structure is
+secure and concrete has ample time to cure.
+B.
+Field measurements: Verify position and elevation of structure and its layout for scoreboard
+equipment. Verify dimensions by field measurements.
+C.
+Verify mounting structure is capable of supporting the scoreboard's weight and windload in
+addition to the auxiliary equipment.
+D.
+Installation may proceed within acceptable weather conditions.
+1.06 QUALITY ASSURANCE
+A.
+For outdoor use
+B.
+Source Limitations: Obtain each type of scoring or related equipment through one source from
+a single manufacturer.
+C.
+ETL listed to UL 48
+D.
+NEC compliant
+E.
+FCC compliant
+F.
+ETLC listed to CSA 22.2 #207
+1.07 WARRANTY
+A.
+Provide 5 years of no cost parts exchange including standard shipping on electronics parts and
+radios due to manufacturing defects
+B.
+Provide toll-free service coordination
+C.
+Provide technical online and phone support during Daktronics business hours
+PART 2 PRODUCTS
+2.01 MANUFACTURER
+A.
+Daktronics, Inc., 201 Daktronics Drive, P.O. Box 5128, Brookings, SD 57006-5128
+
+
+===== PAGE 6 =====
+Nye County School District
+Bid Documents
+11 6843
+Tonopah HS Field Replacement
+Football/Track Scoreboard
+April 20, 2026
+Page 2 of 3
+B.
+________________________________________________________________________
+C.
+________________________________________________________________________
+2.02 PRODUCT
+A.
+Daktronics FB-2022 single-sided football/track scoreboard displays period time to 99:59, HOME
+and GUEST scores to 99, and DOWN/TO GO/BALL ON/QTR (quarter) information. Track
+running time, lead split and finish times display to 99:59.9. T.O.L. (time outs left) to nine are
+optional. Arrows indicate possession. Scoreboard comes standard with track captions on
+changeable panels. During the last minute of the period, the clock displays time to 1/10 of a
+second.
+2.03 SCOREBOARD
+A.
+General information
+1.
+Dimensions: 8'-0" (2.67 yard (2.44 meter)) high, 25'-0" (8.33 yard (7.62 meter)) wide, 0'-8"
+(7.99 inch (203 mm)) deep
+2.
+Base weight: 820 lb (372 kg) with vinyl captions – options may increase weight
+3.
+Base power requirement: 320 W (red/amber digits), 670 W (white digits) with vinyl
+captions – options may increase wattage
+4.
+Color: provide over 150 colors to choose from
+B.
+Construction
+1.
+Alcoa aluminum alloy 5052 for excellent corrosion resistance
+2.
+Scoreboard back, face, and perimeter: 0.063" (0.06 inch (1.6 mm)) thick
+3.
+Scoreboard top and bottom: 0.125" (0.13 inch (3.18 mm)) thick
+C.
+Digits & Indicators
+1.
+LED color:
+2.
+Red
+3.
+Clock digits: 30" (30 inch (762 mm)) high
+4.
+HOME, GUEST, DOWN, TO GO, BALL ON, and QTR digits: 24" (24.02 inch (610 mm))
+high
+5.
+Seven bar segments per digit
+6.
+PanaView® LED digit technology
+7.
+All digits and indicators are sealed front and back with weather-tight silicone gel
+D.
+Captions
+1.
+Vinyl applied directly to scoreboard face; track captions are on changeable panels
+2.
+HOME and GUEST captions: 15" (15 inch (381 mm)) high
+3.
+DOWN, TO GO, BALL ON, QTR, and track captions: 12" (12.01 inch (305 mm)) high
+4.
+Color: standard white or others available upon request
+E.
+Accessory Equipment
+1.
+​Vinyl striping applied around the clock and scoreboard face​
+2.
+​Custom team name caption in place of HOME​
+3.
+​Electronic Captions – add 160 lbs (73 kg) and 180 W (360 for white)​
+4.
+​Two 42" ( 31.73 inch (806 mm) ) high, 31.75" ( 1.17 yard (1.07 meter) ) wide vinyl
+logo/sponsor areas on lower corners of display face​
+5.
+​Soccer captions on changeable panels​
+6.
+​Lacrosse/field hockey captions on changeable panels​
+7.
+​Baseball captions on changeable panels​
+8.
+​LED Colon & Decimal​
+9.
+​Standalone Time of Day (scoreboard acts as a clock when control console is
+unplugged/off)​
+10.
+​Horn​
+11.
+​Individual digit protective screens​
+
+
+===== PAGE 7 =====
+Nye County School District
+Bid Documents
+11 6843
+Tonopah HS Field Replacement
+Football/Track Scoreboard
+April 20, 2026
+Page 3 of 3
+2.04 SCORING CONSOLE
+A.
+Console is an All Sport® 5000 controller
+B.
+Scores multiple sports using changeable keyboard inserts
+C.
+Controls multiple scoreboards and displays, including other All Sport 5000 controlled displays
+currently owned by customer
+D.
+Recalls clock, score, and period information if power is lost
+E.
+Console capable of automatically calculating and displaying DOWN & TO GO for each play
+F.
+Runs Time of Day and Segment Timer modes
+G.
+Console includes:
+1.
+Rugged aluminum enclosure to house electronics
+2.
+Sealed membrane water-resistant keyboard
+3.
+32-character LCD to verify entries and recall information currently displayed
+4.
+Power cord that plugs into a standard grounded outlet; 6 watts max
+5.
+Control cable to connect to the control receptacle junction box (wired system only)
+6.
+Hand-held switch for main clock start/stop and horn
+7.
+Soft-sided carrying case
+H.
+Accessory Equipment
+1.
+​2.4 GHz spread spectrum radio system with frequency hopping technology and 64 non-
+interfering channels; system includes a transmitter installed inside the console and a
+receiver installed inside the scoreboard(s)​
+2.
+​Hard carrying case​
+3.
+​Battery pack​
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that mounting structure is ready to receive scoreboard. Verify that placement of conduit
+and junction boxes are as specified and indicated in plans and shop drawings. Verify concrete
+has cured adequately according to specifications.
+3.02 INSTALLATION
+A.
+All power and control cables to scoreboards and displays will be routed in conduit. Power to the
+scoreboards/displays as well as raceways shown on electrical plans by the Electrical
+Contractor. Scoreboard control wiring including conduit will be the responsibility of the
+contractor assigned the scoreboard equipment.
+B.
+Install scoreboards and exterior displays to beams in location detailed and in accordance with
+manufacturer's instructions. Verify unit is plumb and level.
+3.03 INSTALLATION—CONTROL CENTER
+A.
+Provide boxes, cover plates and jacks in locations per plans.
+B.
+Test connect control unit to all jacks and check for proper operation of control unit, scoreboard
+and all features. Leave control unit in carrying case and other loose accessories with owner's
+designated representative.
+C.
+Verify earth ground does not exceed 15 ohms.
+END OF SECTION
+
+
+===== PAGE 8 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank

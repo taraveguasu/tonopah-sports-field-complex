@@ -1,0 +1,1033 @@
+
+===== PAGE 1 =====
+ID
+Task Name
+Duration
+Start
+Finish
+0
+NCSD - Tonopah HS Field Replacement
+378 d Tue 4/21/26 Tue 10/12/27
+1
+RFP/GMP
+62 d
+Tue 4/21/26
+Thu 7/16/26
+2
+Issue RFP
+0 d
+Tue 4/21/26
+Tue 4/21/26
+3
+RFP Period
+16 d
+Tue 4/21/26
+Tue 5/12/26
+4
+Bid Opening
+0 d
+Tue 5/12/26
+Tue 5/12/26
+5
+Prepare & Submit GMP
+15 d
+Wed 5/13/26
+Wed 6/3/26
+6
+GMP Submitted to NCSD
+0 d
+Wed 6/3/26
+Wed 6/3/26
+7
+NCSD Review & Approve GMP
+19 d
+Thu 6/4/26
+Tue 6/30/26
+8
+Submit to Board for Approval
+0 d
+Tue 6/30/26
+Tue 6/30/26
+9
+NCSD Board Meeting
+0 d
+Thu 7/16/26
+Thu 7/16/26
+10
+Milestones
+272 d
+Mon 7/20/26
+Fri 8/13/27
+16
+Notice to Proceed
+0 d
+Mon 7/20/26
+Mon 7/20/26
+13
+Start of 2026 Football Season
+0 d
+Fri 8/14/26
+Fri 8/14/26
+14
+End of 2026 Football Season
+0 d
+Fri 11/20/26
+Fri 11/20/26
+17
+Construction Start
+0 d Mon 11/23/26 Mon 11/23/26
+15
+Start of 2027 Football Season
+0 d
+Fri 8/13/27
+Fri 8/13/27
+18
+Procurement
+200 d
+Tue 7/21/26
+Mon 5/3/27
+19
+Procure Subcontractor Contracts 
+5 d
+Tue 7/21/26
+Mon 7/27/26
+20
+Procure Submittals
+40 d
+Tue 7/28/26
+Tue 9/22/26
+31
+Submit Musco Light Fixture Submittals
+10 d
+Tue 7/28/26
+Mon 8/10/26
+22
+Submit Footing Rebar Shop Drawings
+15 d
+Tue 7/28/26
+Mon 8/17/26
+23
+Submit Masonry Rebar Shop Drawings
+15 d
+Tue 7/28/26
+Mon 8/17/26
+25
+Submit Anchor Bolt Shop Drawings
+15 d
+Tue 7/28/26
+Mon 8/17/26
+27
+Submit Mechanical Rough In Material Subm
+15 d
+Tue 7/28/26
+Mon 8/17/26
+29
+Submit Electrical Rough In Material Submit
+15 d
+Tue 7/28/26
+Mon 8/17/26
+32
+Submit Plumbing Rough In Material Submit
+15 d
+Tue 7/28/26
+Mon 8/17/26
+34
+Submit Underground Utility Submittals
+15 d
+Tue 7/28/26
+Mon 8/17/26
+36
+Submit CMU Submittals
+15 d
+Tue 7/28/26
+Mon 8/17/26
+21
+Submit Hollow Metal Frame Submittals
+20 d
+Tue 7/28/26
+Mon 8/24/26
+37
+Submit Roof Submittals
+20 d
+Tue 7/28/26
+Mon 8/24/26
+39
+Submit Sports Field Product Data
+20 d
+Tue 7/28/26
+Mon 8/24/26
+35
+Submit Metal Panels
+30 d
+Tue 7/28/26
+Tue 9/8/26
+24
+Submit Structural Steel Shop Drawings
+40 d
+Tue 7/28/26
+Tue 9/22/26
+26
+Submit Door & Hardware Shop Drawings &
+40 d
+Tue 7/28/26
+Tue 9/22/26
+28
+Submit Mechanical Equipment Submittals
+40 d
+Tue 7/28/26
+Tue 9/22/26
+4/21
+5/12
+6/3
+6/30
+7/16
+7/20
+8/14
+11/20
+11/23
+8/13
+M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E
+pril
+May
+June
+July
+August Septem Octobe Novem DecembJanuary Februa March
+April
+May
+June
+July
+August Septem Octob
+Task
+Milestone
+Summary
+Project Summary
+Deadline
+Critical
+Progress
+NCSD - Tonopah HS Field Replacement 
+VIEW 00 - OAC 
+Status Date: NA      Printed Date: Tue 4/21/26 
+1  of 6
+PRELIMINARY SCHEDULE
+
+
+===== PAGE 2 =====
+ID
+Task Name
+Duration
+Start
+Finish
+30
+Submit Electrical Lighting Package Submitta
+40 d
+Tue 7/28/26
+Tue 9/22/26
+33
+Submit Plumbing Equipment & Fixture Sub
+40 d
+Tue 7/28/26
+Tue 9/22/26
+38
+Submit Bleacher Submittals
+40 d
+Tue 7/28/26
+Tue 9/22/26
+40
+Submittal Procurement Complete
+0 d
+Tue 9/22/26
+Tue 9/22/26
+41
+Procure Deferred Submittals
+40 d
+Tue 7/28/26
+Tue 9/22/26
+42
+Submit Joist & Deck Drawings
+40 d
+Tue 7/28/26
+Tue 9/22/26
+43
+Submit Fire Sprinkler Drawings
+40 d
+Tue 7/28/26
+Tue 9/22/26
+44
+Submit Fire Alarm Drawings
+40 d
+Tue 7/28/26
+Tue 9/22/26
+45
+Deferred Submittal Procurement Complete
+0 d
+Tue 9/22/26
+Tue 9/22/26
+46
+Submittal Review
+60 d
+Tue 8/11/26
+Tue 11/3/26
+47
+Review of Musco Light Fixture Submittals
+15 d
+Tue 8/11/26
+Mon 8/31/26
+48
+Review Anchor Bolt Shop Drawings
+15 d
+Tue 8/18/26
+Tue 9/8/26
+49
+Review Footing Rebar Shop Drawings
+15 d
+Tue 8/18/26
+Tue 9/8/26
+50
+Review Masonry Rebar Shop Drawings
+15 d
+Tue 8/18/26
+Tue 9/8/26
+51
+Submit Mechanical Rough In Material Subm
+15 d
+Tue 8/18/26
+Tue 9/8/26
+52
+Review Electrical Rough In Material Submit
+15 d
+Tue 8/18/26
+Tue 9/8/26
+53
+Review Plumbing Rough In Material Submit
+15 d
+Tue 8/18/26
+Tue 9/8/26
+54
+Review Underground Utility Submittals
+15 d
+Tue 8/18/26
+Tue 9/8/26
+55
+Review CMU Submittals
+15 d
+Tue 8/18/26
+Tue 9/8/26
+56
+Review Hollow Metal Frame Submittals
+15 d
+Tue 8/25/26
+Tue 9/15/26
+57
+Review Roof Submittals
+15 d
+Tue 8/25/26
+Tue 9/15/26
+58
+Review Metal Panels
+15 d
+Wed 9/9/26
+Tue 9/29/26
+59
+Review of Bleacher Submittals
+15 d
+Wed 9/23/26
+Tue 10/13/26
+62
+Review of Mechanical Equipment Submitta
+15 d
+Wed 9/23/26
+Tue 10/13/26
+63
+Review Electrical Lighting Package Submitt
+15 d
+Wed 9/23/26
+Tue 10/13/26
+64
+Review of Plumbing equipment & Fixture S
+15 d
+Wed 9/23/26
+Tue 10/13/26
+61
+Review of Door & Hardware Shop Drawing
+20 d
+Wed 9/23/26
+Tue 10/20/26
+60
+Review of Structural Steel Shop Drawings
+30 d
+Wed 9/23/26
+Tue 11/3/26
+65
+Submittal Review Complete
+0 d
+Tue 11/3/26
+Tue 11/3/26
+66
+Procure Materials
+170 d
+Tue 9/1/26
+Mon 5/3/27
+67
+Procure Musco Light Fixtures
+50 d
+Tue 9/1/26
+Tue 11/10/26
+68
+Procure Footing Rebar
+15 d
+Wed 9/9/26
+Tue 9/29/26
+69
+Procure Masonry Rebar 
+15 d
+Wed 9/9/26
+Tue 9/29/26
+70
+Procure Electrical Rough In Material 
+15 d
+Wed 9/9/26
+Tue 9/29/26
+71
+Procure Underground Utility Materials
+15 d
+Wed 9/9/26
+Tue 9/29/26
+9/22
+9/22
+11/3
+M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E
+pril
+May
+June
+July
+August Septem Octobe Novem DecembJanuary Februa March
+April
+May
+June
+July
+August Septem Octob
+Task
+Milestone
+Summary
+Project Summary
+Deadline
+Critical
+Progress
+NCSD - Tonopah HS Field Replacement 
+VIEW 00 - OAC 
+Status Date: NA      Printed Date: Tue 4/21/26 
+2  of 6
+PRELIMINARY SCHEDULE
+
+
+===== PAGE 3 =====
+ID
+Task Name
+Duration
+Start
+Finish
+73
+Procure Anchor Bolts
+15 d
+Wed 9/9/26
+Tue 9/29/26
+74
+Procure Mechanical Rough In material
+15 d
+Wed 9/9/26
+Tue 9/29/26
+75
+Procure Plumbing Rough In Material 
+15 d
+Wed 9/9/26
+Tue 9/29/26
+72
+Procure CMU 
+40 d
+Wed 9/9/26
+Tue 11/3/26
+77
+Procure Hollow Metal Frames
+50 d
+Wed 9/16/26
+Tue 11/24/26
+76
+Procure Roof Materials
+100 d
+Wed 9/16/26
+Mon 2/8/27
+78
+Procure Metal Panels
+100 d
+Wed 9/30/26
+Mon 2/22/27
+80
+Procure Fire Sprinkler Material
+20 d Wed 10/14/26
+Tue 11/10/26
+79
+Procure Bleacher Materials
+40 d Wed 10/14/26
+Thu 12/10/26
+85
+Procure Plumbing Equipment & Fixtures
+60 d Wed 10/14/26
+Mon 1/11/27
+82
+Procure Fire Alarm Material
+80 d Wed 10/14/26
+Mon 2/8/27
+83
+Procure Mechanical Equipment
+80 d Wed 10/14/26
+Mon 2/8/27
+81
+Procure Joist & Deck
+100 d Wed 10/14/26
+Mon 3/8/27
+84
+Procure Electrical Lighting Package 
+140 d Wed 10/14/26
+Mon 5/3/27
+86
+Procure Doors & Hardware
+100 d Wed 10/21/26
+Mon 3/15/27
+87
+Procure Structural Steel
+80 d
+Wed 11/4/26
+Mon 3/1/27
+88
+Material Procurement Complete
+0 d
+Mon 5/3/27
+Mon 5/3/27
+89
+Review Deferred Submittals
+15 d
+Wed 9/23/26 Tue 10/13/26
+90
+Review Joist & Deck Submittals
+15 d
+Wed 9/23/26
+Tue 10/13/26
+91
+Review Fire Sprinkler Drawings
+15 d
+Wed 9/23/26
+Tue 10/13/26
+92
+Review Fire Alarm Drawings
+15 d
+Wed 9/23/26
+Tue 10/13/26
+93
+Deferred Submittal Review Complete
+0 d
+Tue 10/13/26
+Tue 10/13/26
+94
+Field Construction
+170 d Tue 11/24/26
+Mon 7/26/27
+95
+Temp Fence & Mobilize
+5 d
+Tue 11/24/26
+Wed 12/2/26
+96
+Demo
+15 d
+Thu 12/3/26 Wed 12/23/26
+97
+Overex & Subgrade
+30 d
+Thu 12/24/26
+Fri 2/5/27
+99
+Storm Drain
+20 d
+Mon 2/8/27
+Fri 3/5/27
+100
+UG Electrical & Musco Bases
+20 d
+Mon 2/8/27
+Fri 3/5/27
+98
+Retaining Walls
+30 d
+Mon 2/8/27
+Fri 3/19/27
+102
+Fence Posts
+20 d
+Mon 3/8/27
+Fri 4/2/27
+104
+Install Musco Light Poles
+20 d
+Mon 3/8/27
+Fri 4/2/27
+101
+Concrete Curbing
+25 d
+Mon 3/8/27
+Fri 4/9/27
+103
+Bleacher Footings
+30 d
+Mon 3/8/27
+Fri 4/16/27
+105
+Set Drainage Grates
+20 d
+Mon 4/5/27
+Fri 4/30/27
+106
+Bleacher Installation
+30 d
+Mon 4/19/27
+Fri 5/28/27
+5/3
+10/13
+M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E
+pril
+May
+June
+July
+August Septem Octobe Novem DecembJanuary Februa March
+April
+May
+June
+July
+August Septem Octob
+Task
+Milestone
+Summary
+Project Summary
+Deadline
+Critical
+Progress
+NCSD - Tonopah HS Field Replacement 
+VIEW 00 - OAC 
+Status Date: NA      Printed Date: Tue 4/21/26 
+3  of 6
+PRELIMINARY SCHEDULE
+
+
+===== PAGE 4 =====
+ID
+Task Name
+Duration
+Start
+Finish
+107
+Sports Equipment Sleeves
+5 d
+Mon 4/26/27
+Fri 4/30/27
+108
+Sports Field Base
+20 d
+Mon 5/3/27
+Fri 5/28/27
+109
+Site Prep & Paving
+15 d
+Mon 5/24/27
+Mon 6/14/27
+111
+Running Track Base
+10 d
+Tue 6/1/27
+Mon 6/14/27
+112
+Press Box Installation
+15 d
+Tue 6/1/27
+Mon 6/21/27
+110
+Install Sports Field Turf
+30 d
+Tue 6/1/27
+Mon 7/12/27
+113
+Sports Field Equipment Install
+5 d
+Tue 7/13/27
+Mon 7/19/27
+114
+Track Surfacing
+10 d
+Tue 7/13/27
+Mon 7/26/27
+115
+Concessions Building
+155 d
+Mon 2/8/27
+Tue 9/14/27
+116
+Structure
+75 d
+Mon 2/8/27
+Fri 5/21/27
+117
+Build Building Pad
+5 d
+Mon 2/8/27
+Fri 2/12/27
+118
+Building Pad Complete
+0 d
+Fri 2/12/27
+Fri 2/12/27
+119
+Foundations
+10 d
+Mon 2/15/27
+Fri 2/26/27
+120
+Foundations Complete
+0 d
+Fri 2/26/27
+Fri 2/26/27
+121
+Rough-in Underground Plumbing
+10 d
+Mon 3/1/27
+Fri 3/12/27
+122
+Rough-in Underground Electric
+10 d
+Mon 3/8/27
+Fri 3/19/27
+123
+Stem Walls
+5 d
+Mon 3/22/27
+Fri 3/26/27
+124
+Slab On Grade
+5 d
+Mon 3/29/27
+Fri 4/2/27
+125
+Slab on Grade Complete
+0 d
+Fri 4/2/27
+Fri 4/2/27
+126
+Erect CMU
+20 d
+Mon 4/5/27
+Fri 4/30/27
+127
+CMU Complete
+0 d
+Fri 4/30/27
+Fri 4/30/27
+128
+Steel, Joists, & Deck Erection
+15 d
+Mon 5/3/27
+Fri 5/21/27
+129
+Structural Top Out
+0 d
+Fri 5/21/27
+Fri 5/21/27
+130
+Enclosure
+40 d
+Mon 5/24/27
+Mon 7/19/27
+131
+Exterior Framing & Sheathing
+10 d
+Mon 5/24/27
+Mon 6/7/27
+133
+Exterior Painting
+5 d
+Tue 6/8/27
+Mon 6/14/27
+132
+Roof, Fascia, Soffit Panels
+20 d
+Tue 6/8/27
+Mon 7/5/27
+134
+Windows & Coiling Doors
+10 d
+Tue 6/15/27
+Mon 6/28/27
+135
+Building Dry In Complete
+0 d
+Mon 6/28/27
+Mon 6/28/27
+136
+Roof Dry In Complete
+0 d
+Mon 7/5/27
+Mon 7/5/27
+137
+Exterior MEP Trim
+10 d
+Tue 7/6/27
+Mon 7/19/27
+138
+Exterior Finishes Complete
+0 d
+Mon 7/19/27
+Mon 7/19/27
+139
+Interior
+80 d
+Mon 5/24/27
+Tue 9/14/27
+140
+MEP Overhead Rough
+10 d
+Mon 5/24/27
+Mon 6/7/27
+141
+Framing
+5 d
+Tue 6/1/27
+Mon 6/7/27
+2/12
+2/26
+4/2
+4/30
+5/21
+6/28
+7/5
+7/19
+M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E
+pril
+May
+June
+July
+August Septem Octobe Novem DecembJanuary Februa March
+April
+May
+June
+July
+August Septem Octob
+Task
+Milestone
+Summary
+Project Summary
+Deadline
+Critical
+Progress
+NCSD - Tonopah HS Field Replacement 
+VIEW 00 - OAC 
+Status Date: NA      Printed Date: Tue 4/21/26 
+4  of 6
+PRELIMINARY SCHEDULE
+
+
+===== PAGE 5 =====
+ID
+Task Name
+Duration
+Start
+Finish
+142
+Framing Complete
+0 d
+Mon 6/7/27
+Mon 6/7/27
+143
+MEP Rough In Walls
+10 d
+Tue 6/8/27
+Mon 6/21/27
+144
+MEP Rough-Ins Complete
+0 d
+Mon 6/21/27
+Mon 6/21/27
+145
+Insulation
+5 d
+Tue 6/22/27
+Mon 6/28/27
+146
+Drywall
+5 d
+Tue 6/22/27
+Mon 6/28/27
+147
+Tape & Texture
+10 d
+Fri 6/25/27
+Thu 7/8/27
+148
+Drywall Complete
+0 d
+Mon 6/28/27
+Mon 6/28/27
+149
+Paint
+5 d
+Tue 7/6/27
+Mon 7/12/27
+150
+Interior Paint Complete
+0 d
+Mon 7/12/27
+Mon 7/12/27
+151
+Casework
+5 d
+Tue 7/13/27
+Mon 7/19/27
+152
+MEP Trim
+10 d
+Tue 7/20/27
+Mon 8/2/27
+153
+Flooring
+10 d
+Tue 8/3/27
+Mon 8/16/27
+154
+Flooring Complete
+0 d
+Mon 8/16/27
+Mon 8/16/27
+155
+Doors & Hardware
+5 d
+Tue 8/17/27
+Mon 8/23/27
+156
+Construction Clean
+2 d
+Tue 8/24/27
+Wed 8/25/27
+157
+Pre-Punch
+10 d
+Thu 8/26/27
+Thu 9/9/27
+158
+Final Clean
+2 d
+Fri 9/10/27
+Mon 9/13/27
+159
+Create Punch List
+1 d
+Tue 9/14/27
+Tue 9/14/27
+160
+Building Systems
+45 d
+Tue 7/6/27
+Tue 9/7/27
+161
+Set Electrical Equipment
+5 d
+Tue 7/6/27
+Mon 7/12/27
+162
+Set Mechanical Equipment
+5 d
+Tue 7/13/27
+Mon 7/19/27
+163
+Electric Single Line
+10 d
+Tue 7/13/27
+Mon 7/26/27
+164
+Permanent Power Complete
+0 d
+Mon 7/26/27
+Mon 7/26/27
+165
+HVAC Start Up
+10 d
+Tue 7/27/27
+Mon 8/9/27
+166
+Building Climatized
+0 d
+Mon 8/9/27
+Mon 8/9/27
+167
+Test and Balance
+10 d
+Tue 8/24/27
+Tue 9/7/27
+168
+Sports Field Substantial Completion
+0 d
+Mon 7/26/27
+Mon 7/26/27
+169
+Concession Building Substantial Completion
+0 d
+Tue 9/14/27
+Tue 9/14/27
+170
+Contractual Substantial Completion
+0 d
+Tue 9/14/27
+Tue 9/14/27
+171
+Complete Punch List
+10 d
+Wed 9/15/27
+Tue 9/28/27
+172
+Contractual Close Out
+20 d
+Wed 9/15/27
+Tue 10/12/27
+173
+Project Final Completion
+0 d
+Tue 10/12/27
+Tue 10/12/27
+6/7
+6/21
+6/28
+7/12
+8/16
+7/26
+8/9
+7/26
+9/14
+9/14
+1
+M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E B M E
+pril
+May
+June
+July
+August Septem Octobe Novem DecembJanuary Februa March
+April
+May
+June
+July
+August Septem Octob
+Task
+Milestone
+Summary
+Project Summary
+Deadline
+Critical
+Progress
+NCSD - Tonopah HS Field Replacement 
+VIEW 00 - OAC 
+Status Date: NA      Printed Date: Tue 4/21/26 
+5  of 6
+PRELIMINARY SCHEDULE

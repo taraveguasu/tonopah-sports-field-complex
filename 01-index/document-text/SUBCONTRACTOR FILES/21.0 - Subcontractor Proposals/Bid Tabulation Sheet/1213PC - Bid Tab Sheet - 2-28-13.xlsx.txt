@@ -1,0 +1,78 @@
+=== SHEET: Bid Tab ===
+	BID TABULATION SHEET
+	GARSIDE POOL FACILITY
+	2013-02-28 00:00:00
+	Trade Description	Name of Subcontractor	Contact	Phone 	Email	Qualified per NRS	Attend Pre-Proposal Conference	Bid Bond	Addendum #1	Clar. #x	Proposal Price
+	Demolition	VT Construction	Dan Gilbert	(702) 658-7195	dan@vtconstruction.org	YES	YES	N/A
+		Walker Specialty Construction	Brett Unbedacht	(702) 243-2500	brettu@wsclasvegas.net	YES	YES	N/A
+		Baldwin Development	Morgan Baldwin	(702) 469-8874	morgan@baldwinlv.com	YES	YES	N/A
+	Grading & Paving	VT Construction	Dan Gilbert	(702) 658-7195	dan@vtconstruction.org	YES	YES	N/A
+		TAND Inc.	Don Meyers	(702) 889-4676	dmyers@tandinc.com	YES	YES	N/A
+		Urban Jungle Contractors Ltd.	Mike Bird	(702) 293-1427	mbbird@embarqmail.com	YES	YES	N/A
+		Buchele, Inc.	Tom Buchele	(702) 656-5383	tom@bucheleinclv.com	YES	YES	N/A
+		CG & B Enterprises	Mike McComb	(702) 565-6564	mmccomb@hendersonmasonry.com	YES	YES	N/A
+		Maddog Heavy Equipment	John	(702) 270-8225	maddoglv.john@gmail.com	YES	YES	N/A
+	Utilities	JBM Underground	Jerrad Martin	(702) 696-1362	jmartin@jbmunderground.com	YES	YES	N/A
+		TAND Inc.	Don Meyers	(702) 889-4676	dmyers@tandinc.com	YES	YES	N/A
+		Urban Jungle Contractors Ltd.	Mike Bird	(702) 293-1427	mbbird@embarqmail.com	YES	YES	N/A
+	Landscaping	Amazon Masonry DBA AMI Landscape	Chad Norton	(702) 253-1105	cnorton@amazonconstruction.com	YES	YES	N/A
+		TAND, Inc.	Mike Barney	(702) 889-4676	mbarney@tandinc.com	YES	YES	N/A
+		T.M. Barth Landscape Construction	Tom Barth	(702) 876-2577	Tom@tmbarthlandscape.com	YES	YES	N/A
+		Southwest Lawn Shaping	Nick Crockett	(702) 515-7514	nick@southwestlawnshaping.com	YES	YES	N/A
+		Instant Jungle / Jungle Fever	Launa Spendlove	(702) 367-9453	Instantjunglelv@aol.com	YES	YES	N/A
+	Concrete	Design Concrete of NV	Don Dawley	(702) 655-1019	don@dcinevada.com	YES	YES	N/A
+		Frazier Masonry Corporation	Chad Stepanek	(702) 432-2902	ChadS@Fraziermasonry.com 	YES	YES	N/A
+		WGDL	Warren Hafen	(702) 361-9734	warren-wgdl@earthlink.net	YES	YES	N/A
+		JPM Construction LLC	John Malony	(702) 367-6117	jpm.johnmalony@gmail.com	YES	YES	N/A
+	Masonry	Amazon Masonry DBA AMI Landscape	Jim Altwegg	(702) 248-4866	jaltwegg@amilv.com	YES	YES	N/A
+		Frazier Masonry Corporation	Chad Stepanek	(702) 432-2902	ChadS@Fraziermasonry.com	YES	YES	N/A
+		Hirschi Masonry	John Musser	(702) 399-2211	jmusser@hirschimasonry.com	YES	YES	N/A
+		Marnell Masonry	Chad Wallace/Greg Jorgensen	(702) 739-6701	marnell@marnellmasonry.com	YES	YES	N/A
+		Scott Zemp Masonry	Al Krshul	(702) 876-6750	scottzempmasonry@embarqmail.com	YES	YES	N/A
+		Henderson Masonry	Mike McComb	(702) 567-1536	mmccomb@hendersonmasonry.com	YES	YES	N/A
+		David Masonry	Charlie David	(702) 641-6883	masonrydavid@yahoo.com	YES	YES	N/A
+	Steel	Adams & Smith, Inc.	Porter Rockwell	(801) 785-6900	porter@adamsandsmith.com	YES	YES	N/A
+		Richardson Construction, Inc.	Lou Richardson	(702) 647-2200	lou@rclv.net	YES	YES	N/A
+		MDI Steel	Angelo Infante	(702) 450-2221	aei58@cox.net	YES	YES	N/A
+		Tandem Industries	Kevin Schaper	(702) 303-5410	kschaper@tandemlv.com	YES	YES	N/A
+	Metal Panels & Louvers	Commercial Roofers	Dennis Perry	(702) 876-1777	dperry1@me.com	YES	YES	N/A
+		Noorda Sheet Metal Company	Lamar Noorda/Chad Shirley	(702) 651-1955	chad.shirley@noordametals.com	YES	YES	N/A
+		The Original Roofing Company	Larry Heilman/Toni Lumpkin	(702) 798-6757	toni@trclv.com	YES	YES	N/A
+	Swimming Pool & Water Feature	Shasta Industries, Inc.	Mike Klein	(480) 776-0155	mike@hydrocon.com	YES	YES	N/A
+		Water FX LLC	Rick McKee	(702) 233-3200	rick@waterfx.net	YES	YES	N/A
+		California Commercial Pools	Brett Smith	(909) 394-1280	bsmith@calcommpools.com	YES	YES	N/A
+		Recreation Development Company LLC	Glen	(702) 399-7955	glen@rdcnv.com	YES	YES	N/A
+	Plumbing	Big Town Mechanical LLC (HVAC also)	Carrie Burgess	(702) 382-3520	cburgess@bigtownmechanical.com	YES	YES	N/A
+		O'Rourke Plumbing	Pauline Dabbs	(702) 870-1053	estimating@ugincorporated.com	YES	YES	N/A
+		MMC Contractors West, Inc. (HVAC also)	Paul Salisbury	(702) 889-6800	estimatinglv@mmccontractors.com	YES	YES	N/A
+		Ryan Mechanical (HVAC also)	Kris Pool	(702) 631-7777	krispool@ryan-mechanical.com	YES	YES	N/A
+		US Mechanical - L.V. Office	Justun Bylund	(702) 870-9609	jbylund@usmechanicalllc.com	YES	YES	N/A
+		Universal Plumbing & Heating Co.	Brian Kerzetski	(702) 914-8100	bkerzetski@universalplumbing.net	YES	YES	N/A
+		Gallagher Plumbing	Tim Gallagher	(702) 597-9777	tim@gallagherplumbinglv.com	YES	YES	N/A
+	Electrical	American SW Elec	Jim Thomson	(702) 643-2900	asenec@aol.com	YES	YES	N/A
+		GSL Electric	Nathan Cartwright	(702) 364-5313	lvestimating@gslelectric.com	YES	YES	N/A
+		Helix Electric	Darren Vanderford	(702) 732-1188	dvanderford@helixElectric.com	YES	YES	N/A
+		Robco Electric	Chris Hybarger	(702) 614-4900	chris@robcoelectriclv.com	YES	YES	N/A
+		Brundage Electric Inc	James Brundage	(702) 568-9669	wired4excellence@aol.com	YES	YES	N/A
+		Robertson Bright Industries	Greg Crader	(702) 914-2290	gregc@rbigroup.net	YES	YES	N/A
+	Owner Representative:
+		Name (Print)
+		Signature
+		2013-02-28 00:00:00
+		Date
+	Architect Representative:
+		Name (Print)
+		Signature
+		2013-02-28 00:00:00
+		Date
+	CMAR Representative:
+		Name (Print)
+		Signature
+		2013-02-28 00:00:00
+		Date
+	Other Attendee:
+		Signature
+	Other Attendee:
+		Signature
+	Other Attendee:
+		Signature

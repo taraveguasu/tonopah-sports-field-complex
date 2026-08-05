@@ -1,0 +1,302 @@
+The Basis of Proposal is a written explanation clarifying the scope, assumptions and exclusions used in establishing the Guaranteed Maximum Price Proposal dated July 1, 2026. The Proposal is presented in a ten group, systems format best utilized for analyzing and comparing project costs during design and preconstruction. This Proposal is based on CORE’s incorporation of the scope shown on Documents listed in the Enumeration of Documents Exhibit the scope clarifications below.
+Assumptions, Clarifications, & Exclusions
+Schedule
+This Proposal is based upon the performance of the work per the attached Construction Schedule, which is an integral part of this GMP Proposal.
+The Owner will have all necessary leasing or ownership agreements for the property in place, and building permits procured and in hand, prior to CORE Construction mobilizing on site.  CORE shall be granted an extension of time for delays resulting and potential adjustment of the GMP via change order if accelerating the schedule is required resulting from the Owner not ensuring building permit or any other Owner-Furnished, Owner-Installed (OFOI), or Owner-provided items are realized by the dates set forth in the construction schedule.
+All concrete pours are assumed to be early morning pours. If the authorities having jurisdiction do not allow early morning pours, the concrete pour sequence would be extended which would negatively affect the critical path of the Project Schedule.
+All items to be salvaged will be removed and relocated by Owner prior to commencement of the Project.
+
+Weather
+The following table represents a mutual understanding of the number of reasonable days of adverse weather per month where no construction activities may occur due to unworkable field conditions.  CORE has assumed the risk to make up for lost days per month in accordance with this table.
+
+CORE shall be granted an extension of time for delays resulting from additional lost days per calendar month beyond what is illustrated in this table.  The lost days illustrated in this schedule are per calendar month and shall not accrue from month to month.
+
+Month
+	Assumed Days of Weather
+	Average Rainfall(in)
+	Average Snowfall(in)
+
+January
+	2
+	0.49
+	4
+
+February
+	1
+	0.52
+	3
+
+March
+	1
+	0.57
+	3
+
+April
+	0
+	0.42
+	1
+
+May
+	1
+	0.53
+	0
+
+June
+	0
+	0.28
+	0
+
+July
+	0
+	0.45
+	0
+
+August
+	1
+	0.51
+	0
+
+September
+	0
+	0.38
+	0
+
+October
+	0
+	0.34
+	0
+
+November
+	0
+	0.44
+	2
+
+December
+	1
+	0.31
+	3
+
+Construction Process
+Normal shrinkage cracking of all cementitious material, such as slabs, concrete walls, fully grouted CMU walls, etc. is expected and shall not be cause for removal or replacement of structurally sound slabs.
+
+General Cost Clarifications
+This Proposal is based on current 2025-2026 Southern Nevada Rural Region Prevailing Wage Rates and includes Nevada State Sales Tax.
+This cost proposal is considered lump sum, not line itemed. Scope values are provided for transparency and as a contract schedule of values.
+CORE’s proposal is for construction costs only, unless otherwise specified.
+Any and all savings or any approved value engineering and/or cost reduction savings during construction will be added to the CMAR Construction Contingency.
+Any savings / remaining CMAR Construction Contingency at the end of the project will be returned to the owner per the terms of the contract.
+
+Economic Impacts
+The parties acknowledge that some of the materials and products to be incorporated into the construction of the Project may become unavailable, delayed in shipment and/or subject to price increases due to circumstances beyond the control of the Contractor. These circumstances include, but are not limited to, the impact of tariffs and inflation. If a specified product is unavailable or shipment is delayed, Contractor shall provide written notice and shall be afforded additional time and substitute products may be considered. If there is an increase in price of materials, equipment or products between the date of the Contract and the time when the job is ready for the installation of the affected material, the value of the Contract will be increased to reflect the additional cost to obtain the materials, provided that the Contractor gives the Owner written notice and documentation of the increased costs.
+Contingency
+CMAR Construction Contingency – CMAR Construction Contingency is included in this proposal and is intended to be used at CORE’s discretion to cover costs that have not been completely identified as trade specific scope on the GMP setting documents may require further clarification or coordination.  These costs include, but not limited to, scope gaps, coordination issues between trades, and missed scope during the bidding process.  The CMAR Construction Contingency is not intended to account for design revisions or additional scope requests by the design team / owner during construction.
+
+Owner Project Contingency – NOT INCLUDED – CORE Construction is not carrying an Owner Contingency within the construction costs of this project.  CORE recommends the Owner carry an appropriate contingency based upon its evaluation of risk.  This contingency is intended to be used at the Owner’s discretion to cover unforeseen conditions, design revisions and/or additional scope requests made by the Owner and/or design team.
+
+Allowances
+Allowance #1 – Propane Work at Existing Elementary School
+This allowance is intended to cover costs associated with providing and installing new propane tank, meter, slab, fence enclosure, underground and elevated lines to tie into existing elementary school buildings to remain.
+
+Hourly Rates
+The following agreed to hourly rates will be used to determine and define “Actual Costs”.  The Actual Costs for each of the agreed-to rates includes all normal and customary payroll paid by the Contractor plus all fringe benefits, taxes and insurances.
+
+	Standard Rate
+	Overtime Rate
+
+Project Director
+	189
+	-
+
+Sr. Project Manager
+	174
+	-
+
+Project Manager
+	137
+	-
+
+Asst. Project Manager
+	116
+	-
+
+MEP Manager
+	131
+	-
+
+BIM Manager
+	115
+	-
+
+Project Coordinator
+	95
+	-
+
+Project Accountant
+	95
+	-
+
+Contracts Administrator
+	95
+	-
+
+Assistant Contracts Administrator
+	75
+	-
+
+General Superintendent
+	189
+
+Sr. Superintendent
+	174
+	-
+
+Superintendent
+	137
+	-
+
+Asst. Superintendent
+	116
+	-
+
+Intern
+	65
+	-
+
+Scope Specific Assumptions and Clarifications
+CORE Construction’s Proposal is based upon plans and specifications as itemized in attached Enumeration of Documents, with the following Scope-Specific Assumptions and Clarifications.
+002 | ABATEMENT & BUILDING WRECKING
+Only includes abatement of existing elementary school buildings to be demolished.
+
+008 | SITE DEMOLITION, EARTHWORK, ASPHALT PAVING & WET UTILITIES
+Assumes all spoils generated for all scopes can be stockpiled at existing location North of High School.
+RCP flared end for field storm drain discharge. (Owner Accepted Alternate, replaces CIP concrete headwall detail)
+Existing main access road to remain as-is.  (Owner Accepted Alternate, removes grading scope at access road leading to existing parking area)
+
+016 | IRRIGATION
+Includes raking areas with no groundcover to 5’ outside fence line. Dust pallative or soil stabilization is excluded.
+
+021 | RUNNING TRACK SURFACING
+Standard font lettering included for track surfacing.
+Includes 24 month warranty for track surface striping.
+
+022 | SYNTHETIC TURF SPORTS FIELD
+Matrix Helix 46 oz turf.
+Elia Renufill and Realfill infill.
+Includes standard lettering.
+SOTERIA 20mm pad.
+
+023 | FENCING & GATES
+Includes fencing at abandoned Elementary School Building 4 per detail AD1.13.
+Fencing provided at underside of bleachers, only.
+
+030 | CONCRETE
+Does not include concrete pad under existing visitors bleachers in area shown below in red:
+
+Includes bleacher footings based on manufacturer provided foundation design. (Owner Accepted Alternate, replaces bleacher foundation design shown on drawings)
+
+033 | STRUCTURAL STEEL & ORNAMENTAL METALS
+Includes. new canopy posts at abandoned Elementary School canopy ILO salvaged post reinstallation.
+Structural loads assumed for concessions building roof framing included:
+366 TL/251 live load
+43.7 PSF snow load
+17.3 PSF dead load
+
+045 | METAL ROOF, FASCIA & SOFFIT PANELS
+Includes standard color Berridge C-Lock metal roof system.
+Includes standard brake metal for fascia and soffits.
+
+054 | SPECIAL DOORS
+Includes manual, galvanized finish OH Doors. (Owner Accepted Alternate, ILO motorized aluminum OH Doors specified)
+
+060 | FRAMING, DRYWALL & PAINTING
+Included R10 2” rigid insulation at exterior walls of concessions building.
+Included R38 insulation at underside of roof deck.
+
+067 | CONCRETE FINISHING
+Sealed Concrete. (Owner Accepted Alternate, at locations shown as Epoxy/Resinous Flooring)
+
+074 | BUILDING & FIRE PROTECTION ACCESSORIES
+Includes corner guards at 4 feet AFF.
+
+077 | LOCKERS
+ASI Pro Collection per Addendum 1 Interior Elevations (image, only, provided, no revised callout).
+
+078 | FLAGPOLES
+Furnish and Install (1) Flagpole. (Owner Accepted Alternate, delete two of three flagpoles shown)
+
+089 | SCOREBOARD
+Includes wireless controller.
+
+094 | BLEACHER & PRESS BOX (SUPPLY)
+Low voltage junction boxes, only (Low Voltage systems by 103 Electrical & Low Voltage Systems.
+26 gauge sheet metal siding over steel framing.
+Gypsum wall board at interior face of walls, vinyl faced, with R-13 insulation.
+R-19 insulation at floor & roof.
+Roof to be 1/8” thick steel plate, fully welded, with elastomeric coating, flashing and sealants as required around perimeter where meets vertical siding system.
+100A breaker panel.
+
+103 | ELECTRICAL & LOW VOLTAGE SYSTEMS
+Includes surface mounted conduit, boxes, devices, and light fixtures for electrical and low voltage systems located in press box and ticket booth.
+
+109 | PREFABRICATED TICKET BOOTH
+DURASTEEL PC Building, Model PC64 (6' x 4' Nominal), by Porta-King Building Systems.
+Includes (2) duplex receptacles and (1) exterior flood light.
+Sliding ticket window.
+
+Exclusions
+Typical Project “Soft Costs” unless otherwise specified.  These include, but are not limited to: design professional costs, permits and fees, utility connection charges, land acquisition, legal fees, equipment and furnishings, etc.
+Testing, special inspections, and any associated overtime or staff and resource costs for additional inspections not required by Code, permit, or the contract documents requirements or determined by the Design Team (i.e. abatement, geotechnical, concrete, reinforcing steel, deep foundations, shoring, masonry, structural steel, welding, fireproofing, water testing, etc.).
+CORE does not warrant or guarantee that the Contract Documents comply with Authorities Having Jurisdiction (AHJ), or local regulations or requirements.  This is the responsibility of the Architect, and CORE assumes all requirements have been incorporated into the Contract Documents.
+Any changes that result in cost and/or schedule implications due to AHJ comments, rulings and/deviations from the bid set are excluded and shall be funded from Owner’s Contingency,
+outside of the GMP.
+Cost- and/or schedule-related impacts from other projects in the adjacent streets, roadways, alleyways, and neighboring buildings unless covered elsewhere in the Proposal. If other Projects are concurrent with CORE’s work, Owner shall strive to advise CORE within 10 calendar days in an effort to mitigate cost- and schedule-related impacts.
+Hazardous material remediation / encapsulation (lead, asbestos, mold, etc.) in addition to the quantities specifically identified in the Pre-Demolition Asbestos Survey prepared by Environmental Inspection & Control Services (EICS), dated October 3, 2023, issued by Nye County School District.
+“Loose” furniture, fixtures and equipment (FF&E).
+Power company / communication companies (telephone / internet) / gas company costs other than trenching, backfill, conduits and coordination.
+Salvaging and relocation of any existing equipment or furnishings, unless otherwise specified.
+Active Network Equipment (Servers, Switches, etc...).
+Scope/items identified as alternates, unless otherwise indicated in this proposal.
+Existing ES - Abatement of buildings to remain.
+Existing ES - Demo or abatement of existing underground utilities
+Existing ES – Salvaging of owner items
+Existing ES - Demo Alternate shown on sheet AD1.16
+Off-Site improvements
+Rip rap
+Demolition of existing underground utilities, except within building footprint, unless specified on Utility plans
+Fencing under press box
+Faced batt insulation, except at underside of roof deck.
+Soccer goals.
+Exterior building murals
+Fire sprinkler systems
+Fire alarm systems
+Trash receptacles at Restrooms or elsewhere in buildings
+Panic hardware at Door 106 per Door Schedule Remark 2. Hardware provided per specification section 08711 Door Hardware, Hardware Set 01
+Heat or cooling of Vestibule 112, which contains drinking fountains (none indicated)
+Show lighting at Field
+Ground cover, dust palliative, or stabilization of disturbed soils
+Offsite haul-off of spoils generated by the work
+Wired communication connection to scoreboard
+BMS controls system and related work
+Lights for flagpole (none indicated)
+Resinous/Epoxy Flooring
+END BASIS OF PROPOSAL
+
+
+
+CORE ConstructionBasis of Proposal Page  PAGE  \* Arabic  \* MERGEFORMAT 1 of  NUMPAGES  \* Arabic  \* MERGEFORMAT 12
+
+
+
+-914400402590NSCB B 0006144A |  A 0077142
+00NSCB B 0006144A |  A 0077142
+2628900402590ARIZONA  •  FLORIDA  •  ILLINOIS  •  INDIANA  •  LOUISIANA  •  NEVADA  •  TEXAS
+00ARIZONA  •  FLORIDA  •  ILLINOIS  •  INDIANA  •  LOUISIANA  •  NEVADA  •  TEXAS
+5422 Longley Lane, Suite B I  Reno, NV 89511  I  PH:  775.525.5757  I  FAX:  775.853.8075  I  www.COREconstruction.com
+
+
+489966024511000Basis of Proposal
+Tonopah High School Sports Field Replacement
+Nye County School District
+July 1, 2026
+
+Tonopah, Nevada

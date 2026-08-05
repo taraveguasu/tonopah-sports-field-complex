@@ -1,0 +1,4391 @@
+
+===== PAGE 1 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 1 of 12 
+SECTION 22 01 00
+BASIC PLUMBING REQUIREMENTS
+PART 1 GENERAL
+1.1
+RELATED DOCUMENTS
+A.
+Drawings and general provisions of the Contract, including General and Supplementary
+Conditions and Division 01 Specification Sections, apply to this Section.
+B.
+Where contradiction occurs between this section and Division 1, the more stringent of the
+two shall apply.
+1.2
+WORK INCLUDED
+A.
+Work includes:
+1.
+Provision of labor, material, equipment and transportation required to complete
+the Work as shown on the drawings, specified herein and/or implied thereby.
+2.
+Applicable provisions of General Conditions, Supplementary Conditions and all
+sections in Division No. 1 “General Requirements” govern work under this
+section.
+1.3
+DEFINITIONS
+A.
+“Provide” means furnish and install referenced item with all appurtenances.
+B.
+“Shall” indicates a mandatory requirement.
+C.
+“Or Approved Equal” is defined as approved as equal by the Owner’s Authorized
+Representative.
+1.4
+DELIVERY AND STORAGE OF MATERIALS
+A.
+Provide for the safety and good condition of all materials and equipment until final
+acceptance by the Owner. Protect all materials and equipment from damage from any
+cause whatever, and provide adequate and proper storage facilities during the progress of
+the work. Replace all damaged and defective work, material or equipment prior to filing
+application for final acceptance.
+B.
+Cap or plug openings in equipment, piping, ducts and other systems to exclude entrance
+of dirt and other foreign material during construction.
+C.
+Material storage shall be the contractor’s responsibility. Coordinate the storage of
+materials on site prior to purchasing of materials. Storage shall comply with Owner’s
+Authorized Representative’s requirements.
+1.5
+CODES AND STANDARDS
+A.
+All work and materials shall be in full accordance with the latest adopted rules and
+regulations of the Nevada State Fire Marshal Division; the National Electrical Code
+(NEC); the Uniform Plumbing Code, 2024 edition; the Uniform Mechanical Code, 2024
+edition; International Building Code, 2024 edition; and other applicable codes, laws or
+regulations of bodies lawfully empowered and having jurisdiction over this project.
+ Nothing in the plans or specifications is to be construed to permit work not conforming
+to these codes. When codes conflict with one another, provide larger, higher or more
+restrictive standards without additional costs
+
+
+===== PAGE 2 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 2 of 12 
+1.6
+PERMITS
+A.
+Obtain all permits, patent rights, and licenses that are required for the performing of this
+work by all laws, ordinances, rules and regulations, or orders of any officer and/or body.
+ Provide all notices necessary in connection therewith, and pay all fees relating thereto
+and all costs and expenses incurred on account thereof. No work shall be covered before
+inspection by the jurisdictional authorities and observation by the Architect.
+1.7
+EXPLANATION AND PRECEDENCE OF DRAWINGS
+A.
+Drawings and specifications are intended to be read together so that any work mentioned
+in one and not the other shall be executed the same as if mentioned in both.
+B.
+For purposes of clearness and legibility, drawings are essentially diagrammatic, and,
+although size and location of equipment are drawn to scale where possible, Contractor
+shall make use of all data in all the contract documents and shall verify this information
+at building site. At various locations, systems are drawn distorted for clarity.
+C.
+Where the contract specifications and/or drawings are in conflict, obtain clarification of
+such during bidding. Clarification will only be given in written addendum form. Where
+addenda for clarification of such is not timely, base the bid on the higher standards or
+more restrictive requirements; prior to submission of product submittals, preparation of
+shop drawings and fabrication, obtain written clarification.
+D.
+The drawings indicate required size and points of termination of piping and ductwork,
+and suggest proper routes to conform to structure avoid obstructions and preserve
+clearances. However, it is not intended that drawings indicate all necessary offsets, and it
+shall be the work of the Contractor to make the installation in such a manner as to
+conform to the structure, avoid obstructions, preserve headroom and keep openings and
+passageways clear, without further instructions or cost to the Owner.
+E.
+It is intended that all plumbing devices, piping, etc. be located symmetrically with all
+architectural elements. Refer to architectural, structural, electrical, mechanical plans and
+details in completing the required coordination. All system offsets, unless noted on
+drawings, shall be rectilinear. Offsets and transitions shall comply with best practices
+and applicable standards.
+F.
+The Contractor shall fully inform himself regarding any and all peculiarities and
+limitations of the spaces available for the installation of all work and materials furnished
+and installed under the Contract. He shall exercise due and particular caution to
+determine that all parts of his work are made quickly and easily accessible.
+G.
+Submittal of bid shall indicate the Contractor has examined the site, drawings and
+specifications and has included all required allowances in his bid. No allowances shall be
+made for any error resulting from Contractor’s failure to visit job site and to review
+drawings and specifications.
+1.8
+COORDINATION DRAWINGS
+A.
+Prepare coordination drawings at a scale not less than 1/8” per foot for all areas of work.
+ Submit and receive approval prior to commencing fabrication and/or installation. Major
+discrepancies from design documents shall be clearly identified.
+
+
+===== PAGE 3 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 3 of 12 
+B.
+These drawings shall be mutually prepared by all contractors. The sheet metal contractor
+shall initiate the drawing production. Each additional trade shall add their systems as
+required to complete full coordination. Each trade shall date and sign composite
+drawing.
+C.
+If locations arise during construction where multiple disciplinary systems cannot fit in the
+space allocated as a result of one non-coordinate disciplinary system installation. The
+general contractor or the subcontractor who fails to coordinate shall be responsible for the
+system modifications required to make them fit.
+D.
+Where conflicts arise during the completion of the coordination drawings, the general
+contractor shall determine resolution.
+1.9
+RECORD DRAWINGS
+A.
+Provide and maintain on the job one complete set of blueline prints of the drawings for
+the plumbing work. Carefully record on this set of prints, all work including ductwork,
+piping, valves, etc., which is installed differently from that indicated on the drawings;
+locate dimensionally from fixed points all buried piping including depths relative to
+finish floor elevations. Mark all changes of location of piping, ducts, and equipment in
+accordance with Division 1.
+B.
+These drawings shall be continuously kept up-to-date, and shall be available for
+inspection at all times. Major discrepancies from approved shop drawings shall be
+clearly identified and resubmitted.
+C.
+At completion of work, provide a neat and legible reproducible set of these up-to-date
+drawings which shall be individually signed and dated by the Contractor and the job
+inspector as to their accuracy.
+D.
+Such drawings shall be submitted for acceptance and approval to the Owner’s Authorized
+Representative before final certificate of acceptance will be issued.
+1.10
+CUTTING AND PATCHING
+A.
+Perform all cutting and fitting required for work of this section in rough construction of
+the building.
+B.
+All patching of finished construction of building shall be performed under the sections of
+specifications covering these materials by the trades at no additional cost to the Owner.
+C.
+All patching of surfaces shall match adjacent material and finish.
+1.11
+DAMAGE BY LEAKS
+A.
+Contractor shall be responsible for damage to the grounds, walks, roads, buildings, piping
+systems, electrical systems and their equipment and contents, caused by leaks in the
+piping system being installed or having been installed herein. He shall repair at his
+expense all damage so caused. All repair work shall be done as directed by the Owner’s
+Authorized Representative.
+1.12
+EMERGENCY REPAIRS
+A.
+The Owner reserves the right to make emergency repairs as required to keep equipment
+in operation without voiding the Contractor’s guarantee bond nor relieving the Contractor
+of his responsibilities.
+
+
+===== PAGE 4 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 4 of 12 
+1.13
+COORDINATION
+A.
+The Contractor shall fully inform himself regarding any and all peculiarities and
+limitations of the spaces available for the installation of all work and materials furnished
+and installed under the contract. Coordinate with all other trades in advance of the work,
+requirements for openings, recesses and chases in the walls, partitions, equipment
+housekeeping pads, framing or openings and routing of piping, ductwork, conduit, etc.
+relative to each trade to alleviate conflicts. Should furnishing, requesting and
+coordinating this information be neglected, delayed or incorrect and additional work is
+found to be required, the cost of same shall be borne by the responsible Contractor.
+B.
+This contractor shall coordinate at minimum the following:
+1.
+All conduit and pipe openings with general contractor.
+2.
+All equipment support locations (hung or floor mounted) with general contractor.
+3.
+All powered equipment locations with the electrical contractor.
+1.14
+SUBSTITUTIONS
+A.
+If substitutions of controls or equipment requires any changes in the structural design
+and/or electrical work from that shown on the drawings, the extra cost of the equipment,
+added structural and/or electrical work shall be the responsibility of the Contractor
+requesting the substitution.
+B.
+If the Contractor proposes substitutions of any equipment specified herein or on the
+drawings, it shall be the Contractor’s responsibility to obtain approval for such equipment
+as well as approval for anchorage of such equipment from governing approval agencies.
+ All costs required for such approval shall be the responsibility of the Contractor
+requesting the substitution.
+C.
+The Contractor shall coordinate the installation of an approved substitution, make such
+changes as may be required for the work to be completed and be made compatible with
+other systems in all respects.
+1.15
+ELECTRICAL REQUIREMENTS
+A.
+When electrical work is specified in subsequent sections to be furnished and installed by
+the Plumbing Contractor, it shall be installed in strict and full accordance with the
+requirements of Division 26.
+B.
+The power wiring, safety switches, combination controllers, (indicated on the electrical
+drawings), circuit breakers, motor-control equipment forming part of motor control
+centers or switchgear assemblies, and the electrical connections of the plumbing
+equipment to the electrical power source shall be provided under Division 26 (unless
+noted otherwise).
+C.
+The electrical components of plumbing equipment including, but not limited to, motor
+controllers (starters), control or push-button stations, float/pressure switches, solenoid
+valves, junction boxes and other devices functioning to control plumbing equipment shall
+be provided under Division 22. Interconnecting wiring for packaged equipment shall be
+provided as an integral part of the equipment.
+
+
+===== PAGE 5 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 5 of 12 
+D.
+Control Wiring: Line voltage wiring and conduit controlling plumbing equipment not
+shown on electrical drawings shall be provided under Division 22. All low voltage
+wiring required for controlling plumbing equipment shall be provide under Division 22
+(unless otherwise shown on Electrical Drawings). Installation of these items shall
+comply with Division 26.
+1.16
+SEISMIC RESTRAINT
+A.
+This contractor shall submit stamped and signed documents by a professional structural
+engineer registered in the same state as the project certifying that all the associated
+systems meet the seismic requirements set forth in all the applicable codes associated
+with the project. This shall apply to all plumbing systems.
+1.17
+USE OF ENGINEERS DRAWINGS
+A.
+Plumbing Auto CADD drawings will be furnished by the Architect/Engineering Firm at
+contractor’s request via contracting officer. Prior to furnishing such files. Contractor
+shall provide and sign a disclaimer noting the following:
+1.
+The Architect/Engineering Firm is not responsible for any use by the contractor
+of such drawings.
+2.
+The contractor shall not use such drawings for any purposes other than the
+associated project.
+1.18
+COMMISSIONING
+A.
+Commissioning is a comprehensive and systematic process to verify that the building’s
+energy related systems are installed, calibrated and perform according to the owner’s
+project requirements, basis of design, and construction documents.
+B.
+Commissioning is a part of this project and all contractors performing work governed by
+this division of the specification shall refer to Division 1 Specification for complete
+commissioning requirements that apply to the work within this division. Coordinate
+commissioning activities with contractor performing work of other sections as applicable.
+PART 2 PRODUCTS
+2.1
+GENERAL
+A.
+Products and materials shall be described in the pertinent section for Division 22 –
+Plumbing.
+B.
+Products and materials not specified within the specifications but specified on the
+drawings shall be as described on the drawings.
+C.
+Materials and equipment: Wherever possible, all materials and/or equipment used for
+similar service shall be of the same manufacturer.
+2.2
+MATERIALS
+A.
+All labor shall be carefully skilled for this kind of work and under the direction of a
+competent foreman (plumbing work).
+B.
+All materials shall be new and in perfect condition.
+C.
+Equipment shall bear the manufacturer’s label showing performance characteristics.
+ Identifying size number shall be given only when it is not practicable or customary to
+show performance characteristics.
+
+
+===== PAGE 6 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 6 of 12 
+D.
+Equipment shall bear the label of a nationally recognized listing agency and shall be
+installed in accordance with the manufacturer’s installation requirements to maintain the
+listing.
+E.
+All valves, pipe, fitting, etc., shall bear the manufacturer’s name or trademark.
+F.
+Unless otherwise specified herein, all equipment and fixtures shall be installed in
+accordance with the manufacturer’s recommendations, including recommended service
+and removal or clearances.
+PART 3 EXECUTION
+3.1
+TESTS
+A.
+Contractor shall make all tests required by all legally constituted authorities and as
+follows:
+1.
+All tests shall be made in the presence of the Owner’s Authorized Representative
+and a duly Authorized inspector. The Owner’s Authorized Representative shall
+be notified in writing five (5) working days before test are made.
+2.
+Concealed work and insulated work shall remain uncovered until required testing
+has been performed and approved by the Owner’s Authorized Representative. If
+work required to be tested is covered before the approval of the Owner’s
+Authorized Representative has been obtained, it shall be uncovered for testing at
+the Contractor’s expense.
+3.
+Obtain all required documents of certification indicating approval, acceptance
+and compliance with the requirements of all administrative authorities having
+jurisdiction over the work. No final payment shall be made until all such
+certificates are delivered to the Owner’s Authorized Representative.
+4.
+Furnish labor, materials, instruments and bear other costs in connection with all
+test.
+5.
+All piping, equipment and appurtenances shall be capable of operating within the
+given pressure and temperature characteristics of the project conditions.
+6.
+Before making test, remove or valve off from the system, gauges, traps, and other
+apparatus or equipment which may be damaged by test pressure.
+7.
+Install a calibrated test pressure gauge in the system to observe any loss in
+pressure. Maintain the required test pressure for a sufficient length of time to
+enable an inspection to be made of all joints and connections. Perform tests after
+installation and prior to acceptance.
+8.
+Final pressures at the end of the test period shall be no more or less than that
+caused by expansion or contraction of the test medium due to temperature
+changes.
+9.
+After tests have been made and leaks repaired, clean and flush systems as
+hereinafter specified. Water piping shall be left under supply main pressure for
+the balance of the construction period.
+
+
+===== PAGE 7 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 7 of 12 
+3.2
+PROTECTION AND CLEAN-UP
+A.
+Protection: Provide for the safety and good condition of all materials and equipment until
+final acceptance of the Owner’s Authorized Representative. Protect all materials and
+equipment from damage from any cause whatever, and provide adequate and proper
+storage facilities during the progress of the work and replace all damaged and defective
+material, equipment or work prior to filing application for final acceptance. Equipment
+and piping shall be stored at least six inches off the ground on blocking and kept clean.
+ During construction properly cap all ducts, pipes and equipment and appurtenances to
+prevent the entrance of sand and dirt.
+B.
+Cleaning
+1.
+Thoroughly clean all piping and all parts of the fixtures, apparatus and
+equipment. Clean all piping apparatus and equipment that are to be insulated
+prior to installation of insulation. All parts shall be thoroughly cleaned of sand,
+dirt, cement, plaster, rust, and other materials, and all grease and oil spots
+removed. Such surfaces shall be carefully wiped and all cracks and corners
+scraped out. All code stamps and nameplates shall be protected from damage
+and must be clean and legible before final inspection.
+2.
+Exposed rough metal work shall be carefully brushed down with steel brushes to
+remove rust and other spots and left in clean condition to receive painter’s finish.
+ Where factory prime coat has been damaged, this Contractor shall be responsible
+for restoration of same.
+3.
+All piping shall be flushed out or blown out after pressure testing is complete and
+before being put into use. All strainer screens shall be removed and cleaned.
+ After start-up and testing, strainer screens shall again be removed and cleaned.
+3.3
+STRUCTURAL STEEL
+A.
+Provide all materials, equipment, supplies and labor necessary to construct all structural
+steel required for supporting piping and equipment and miscellaneous steel work shown
+on the Drawings; as herein specified, or as may be required for installation of the
+plumbing system.
+B.
+All miscellaneous structural steel for support of plumbing work is not shown on the
+Drawings. Whether structural steel is shown or not shown on the drawings, it shall be
+provided. The Contractor shall confirm all structural steel sized components which are
+shown on the drawings.
+C.
+Structural steel shall be provided in the following locations
+1.
+For all piping mounted below a roof with metal deck construction.
+2.
+For all pipe supports for piping 8” in diameter and larger.
+3.
+At the bottom of all pipe risers 6” in diameter and larger.
+4.
+For all pipe anchors and pipe guides.
+5.
+For all pipe racks.
+6.
+For all pipe hangers which are not listed or shown in reputable pipe hanger
+manufacturer catalogues or shown in the latest issue of MSS SP69.
+
+
+===== PAGE 8 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 8 of 12 
+7.
+All structural steel shall be designed to attach to the main building
+structure in such a manner as to not over stress this structure.
+8.
+Structural design shall be provided through the Contractor by a Civil or
+Structural Engineer who is registered in the State of California.
+9.
+Details of all structural steel shall be provided in shop drawing format. All
+structural steel shop drawings shall be stamped by the Contractor’s design
+Engineer prior to submittal. All attachments to building structure shall be
+approved by the project structural engineer prior to fabrication or installation.
+10.
+The design, materials, fabrication and erection shall conform to “Specifications
+for the Design, Fabrication and Erection of Structural Steel for Buildings” of the
+American Institute of Steel Construction, “Code of Standard Practice for Steel
+Buildings and Bridges”, of the American Institute of Steel Construction, and also,
+when applicable, shall conform to the “Code for Welding Building Construction”
+of the American Welding Society.
+11.
+The Contractor shall be responsible for cutting and patching fireproofing, as
+required, when connecting new miscellaneous steel to the building structure.
+3.4
+COMMISSIONING AND PRELIMINARY OPERATIONAL TEST
+A.
+Prior to inspection to determine substantial completion, the Contractor shall put all
+plumbing systems into service and check that work required for that purpose has been
+done, including but not limited to the following condensed check list
+1.
+Correct rotation of motors and ratings of overload heaters are verified.
+2.
+Specified clean filters are installed and spares are on hand when specified.
+3.
+All equipment has been started, checked, lubricated and adjusted in accordance
+with the manufacturer’s recommendations.
+4.
+All manufacturers certificates of start-up specified have been delivered to the
+Owners Authorized Representative.
+5.
+All equipment has been cleaned, and damaged painted finishes touched-up.
+6.
+Flushing and chemical treatment of piping systems has been done and water
+treatment equipment, where specified, is in operation.
+7.
+Equipment labels, pipe marker labels, ceiling markers and valve tags are
+installed.
+8.
+Valve tag schedules, correct control diagrams, sequence of operation lists and
+start-stop instructions have been posted.
+9.
+Test and balance work is complete.
+10.
+Maintenance manuals have been delivered and instructions to the Owners
+operating personnel have been made.
+11.
+Provide all instruments, equipment, labor and materials to complete the tests.
+ These tests may be required at any time between the installation of the work and
+the end of the warranty period. Should these tests expose any defective
+materials, poor workmanship or variance with requirements, make any changes
+necessary and remedy any defects at no cost to the Owner.
+
+
+===== PAGE 9 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 9 of 12 
+12.
+Prior to the inspection to determine substantial completion, the Contractor shall
+operate all plumbing systems as required to demonstrate that the installation and
+performance of these systems conform to the requirements of the Contract
+Documents.
+13.
+Before handing over the system to Owner, replace temporary filters with
+complete new set of filters.
+3.5
+REVIEW OF CONTRACTOR’S TEST
+A.
+All tests made by the Contractor or manufacturer’s representatives are subject to
+observation and review by the Owner’s Authorized Representative and Commissioning
+agent; the Contractor shall provide written notice five (5) days prior to testing. Testing
+shall be grouped and sequential as practical.
+3.6
+TEST LOGS
+A.
+The contract shall maintain test logs listing the tests on all HVAC systems showing dates,
+items tested, inspector’s names, remarks on success or failure of the tests.
+3.7
+CLEANING UP AND REMOVAL OR SCRAP
+A.
+For work under all plumbing sections, trash and scrap shall be cleaned up and removed
+from the site as the work progresses.
+3.8
+DAMAGE RESPONSIBILITY
+A.
+The contractor shall be responsible for damage to the grounds, buildings or equipment,
+and the loss of refrigerants, fuels or gases, caused by leaks or breaks in pipes for
+equipment furnished or installed under this Division.
+3.9
+PRELIMINARY OPERATION
+A.
+The Owner reserves the right to operate portions of the plumbing system on a preliminary
+basis without voiding the guarantee.
+3.10
+OPERATIONAL TEST
+A.
+Before operational tests are performed, demonstrate that all systems and components are
+complete and fully charged with operating fluid and lubricants.
+B.
+Systems shall be operable and capable of maintaining continuous uninterrupted operation
+during the operating and demonstration period. After all systems have been completely
+installed, connections made, and tests completed, operate the systems continuously for a
+period of five (5) working days during the hours of a normal working day.
+C.
+Control systems shall be completely operable with settings properly calibrated and
+adjusted.
+D.
+Rotating equipment shall be in dynamic balance and alignment.
+E.
+If the system fails to operate continuously during the test period, the deficiencies shall be
+corrected and the entire test repeated.
+3.11
+MAINTENANCE AND OPERATION INSTRUCTIONS, ETC.
+A.
+General: Thoroughly instruct the Owner’s operators in every detail of operation of the
+system. Provide the Owner with a list of all equipment, giving the manufacturer’s name,
+model number, serial number, parts list and complete internal wiring diagrams. All
+directions for operation furnished by the manufacturer shall be carefully saved and turned
+
+
+===== PAGE 10 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 10 of 12 
+over to the Owner, together with written sequence of operation, operating and
+maintenance instructions for each system and its equipment. Coordinate scheduling of
+instruction times with Owner’s operators.
+B.
+Specific Data: Provide complete sets of documentation in accordance with Division 1
+requirements. Where quantities are not clearly defined in Division 1, submit four (4)
+complete sets. The following data shall be submitted to the Owner for approval prior to
+acceptance of the installation, complete and at one time; (partial or separate data will not
+be accepted) data shall consist of the following:
+1.
+Valve Directory: Indicating valve number, location, function and normal
+operating position for each.
+2.
+Piping identification schedule.
+3.
+Equipment: List of nameplates, including nameplate data.
+4.
+Manufacturer’s Literature: Copies of manufacturer’s instructions for operation
+and maintenance of all mechanical equipment, including replacement parts lists
+and drawings. Mark or highlight brochure literature indicating the models, sizes,
+capacities, curve operating points, etc., in a manner to clearly indicate the
+equipment in-stalled. Remove all pages or sheets from the bulletin and catalogs
+that do not pertain to equipment installed on the project.
+5.
+Written Instructions: Typewritten instructions for operation and maintenance of
+the system composed or OPERATING INSTRUCTIONS, MAINTENANCE
+INSTRUCTIONS and a MAINTENANCE SCHEDULE.
+a.
+OPERATING INSTRUCTIONS shall contain a brief description of the
+system. Adjustments requiring the technical knowledge of the service
+agency personnel shall not be included in the operating instructions. The
+fact such adjustments are required, however, shall be noted.
+b.
+MAINTENANCE INSTRUCTIONS shall list each item of equipment
+requiring inspection, lubrication or service and describe the performance
+of such maintenance.
+c.
+MAINTENANCE SCHEDULE shall list each item of equipment
+requiring maintenance, shall show the exact type of bearing on every
+component of each item of equipment, and shall show when each item of
+equipment should be inspected or serviced.
+d.
+Instructions: Operating personnel shall be instructed in the operation of
+the system in accordance with typewritten, approved instructions.
+e.
+Letters of certification as required under other sections.
+f.
+A CD or similar electronic storage media including original PDF files for
+each of the above shall be included with each copy. Furnish a dedicated
+index of the electronic media contents identifying the file name
+associated with each document.
+
+
+===== PAGE 11 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 11 of 12 
+6.
+Binders: Assemble sets of the above data in loose-leaf ring-type binders with
+permanent covers, with identification on front and on spine. Provide appropriate
+sleeve for electronic media.
+7.
+The above shall in no way preclude the requirements of other sections of these
+specifications – and is to be supplemental to other paragraphs on this subject
+found in this section and other sections.
+3.12
+SPECIAL REQUIREMENTS
+A.
+During the guarantee period and as directed by the Owner, make any additional tests,
+adjustment, etc., that may be required and correct any defects or deficiencies arising from
+operation of the systems. Operational tests shall be made during both heating and
+cooling seasons and on all systems.
+B.
+Guards: Furnish and install removable guards around all moving parts of all equipment
+and/or apparatus. Guards shall be securely anchored to floor or equipment, and shall
+provide protection at ends and sides to prevent contract with sheaves, belts, couplings,
+etc. Holes in suitable locations shall be provided for measuring speeds.
+C.
+Completion:
+1.
+When the installation is complete and adjustments specified herein have been
+made, the system shall be operated for a period of one week, during which time it
+shall be demonstrated to the Owner’s Authorized Representative as being
+completed and operating in conformance with these specifications. The
+Contractor shall schedule all work so that this time period, which is to confirm a
+“bug-free” system, will occur be-fore the total project is accepted for substantial
+completion by Owner.
+2.
+The work hereunder shall not be reviewed for final acceptance until operating
+and maintenance data, manufacturer’s literature, valve directories, piping
+identification code directory, and nameplates specified herein have been
+approved and properly posted in the building.
+3.13
+GUARANTEE/WARRANTY
+A.
+Guarantees and warranties shall be as defined in Division 1 Sections.
+B.
+All materials, apparatus and equipment furnished and installed under the plumbing
+division of these specifications, shall be new and fee from any defects. Should any
+problems develop within one year from date of acceptance of the work, due to inferior or
+faulty materials and/or workmanship, the problems shall be corrected by this Contractor
+without expense to the Owner. Any defective materials or inferior workmanship noticed
+at the time of installation or during the guarantee period shall be corrected immediately to
+the entire satisfaction of the Owner.
+C.
+The work shall be installed of such materials and in such a manner that:
+1.
+All apparatus or equipment shall operate in accordance with detailed
+specifications covering each item.
+
+
+===== PAGE 12 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 01 00
+BASIC PLUMBING
+REQUIREMENTS
+Page 12 of 12 
+2.
+Contractor shall guarantee that his installation of all materials and equipment will
+meet the performance requirements of these specifications and that all equipment
+will deliver the specified or required capacities.
+3.
+The Owner reserves the right to make temporary or emergency repairs as
+necessary to keep equipment in operating condition without voiding the
+guarantee contained herein nor relieving the Contractor of his responsibilities
+during the guarantee period.
+4.
+Contractor shall be responsible for all damage to any part of the premises caused
+by leaks or break in pipe lines, fixtures or equipment furnished and installed
+under his contract for a period of one year after date of acceptance of the project
+by Owner. He shall replace in kind, at his own expense, any and all items so
+damaged to the complete satisfaction of the Owner.
+5.
+The above shall be supplemental to and in no way preclude the requirements of
+other sections of these specifications.
+6.
+After operation of any liquid system and if any piping, coils or other components
+be-come air bound, this contractor shall make all necessary system modifications
+including but not limited to repiping (as approved), installation or air vents or
+fittings at no extra cost to the Owner.
+END OF SECTION
+
+
+===== PAGE 13 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 1 of 12 
+SECTION 22 05 00
+COMMON WORK RESULTS FOR PLUMBING
+PART 1 GENERAL
+1.1
+RELATED DOCUMENTS
+A.
+Drawings and general provisions of the Contract, including General and Supplementary
+Conditions and Division 01 Specification Sections, apply to this Section.
+1.2
+SUMMARY
+A.
+This Section includes the following:
+1.
+Piping materials and installation instructions common to most piping systems.
+2.
+Transition fittings.
+3.
+Dielectric fittings.
+4.
+Mechanical sleeve seals.
+5.
+Sleeves.
+6.
+Escutcheons.
+7.
+Grout.
+8.
+Equipment installation requirements common to equipment sections.
+9.
+Painting and finishing.
+10.
+Concrete bases.
+11.
+Supports and anchorages.
+1.3
+DEFINITIONS
+A.
+Finished Spaces: Spaces other than mechanical and electrical equipment rooms, furred
+spaces, pipe chases, unheated spaces immediately below roof, spaces above ceilings,
+unexcavated spaces, crawlspaces, and tunnels.
+B.
+Exposed, Interior Installations: Exposed to view indoors. Examples include finished
+occupied spaces and mechanical equipment rooms.
+C.
+Exposed, Exterior Installations: Exposed to view outdoors or subject to outdoor ambient
+temperatures and weather conditions. Examples include rooftop locations.
+D.
+Concealed, Interior Installations: Concealed from view and protected from physical
+contact by building occupants. Examples include above ceilings and in chases.
+E.
+Concealed, Exterior Installations: Concealed from view and protected from weather
+conditions and physical contact by building occupants but subject to outdoor ambient
+temperatures. Examples include installations within unheated shelters.
+F.
+The following are industry abbreviations for plastic materials:
+1.
+ABS: Acrylonitrile-butadiene-styrene plastic.
+2.
+CPVC: Chlorinated polyvinyl chloride plastic.
+3.
+PE: Polyethylene plastic.
+4.
+PVC: Polyvinyl chloride plastic.
+G.
+The following are industry abbreviations for rubber materials:
+1.
+EPDM: Ethylene-propylene-diene terpolymer rubber.
+2.
+NBR: Acrylonitrile-butadiene rubber.
+
+
+===== PAGE 14 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 2 of 12 
+1.4
+QUALITY ASSURANCE
+A.
+Steel Support Welding: Qualify processes and operators according to AWS D1.1,
+"Structural Welding Code--Steel."
+B.
+Steel Pipe Welding: Qualify processes and operators according to ASME Boiler and
+Pressure Vessel Code: Section IX, "Welding and Brazing Qualifications."
+1.
+Comply with provisions in ASME B31 Series, "Code for Pressure Piping."
+2.
+Certify that each welder has passed AWS qualification tests for welding
+processes involved and that certification is current.
+C.
+Electrical Characteristics for Plumbing Equipment: Equipment of higher electrical
+characteristics may be furnished provided such proposed equipment is approved in
+writing and connecting electrical services, circuit breakers, and conduit sizes are
+appropriately modified. If minimum energy ratings or efficiencies are specified,
+equipment shall comply with requirements.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Deliver pipes and tubes with factory-applied end caps. Maintain end caps through
+shipping, storage, and handling to prevent pipe end damage and to prevent entrance of
+dirt, debris, and moisture.
+B.
+Store plastic pipes protected from direct sunlight. Support to prevent sagging and
+bending.
+1.6
+COORDINATION
+A.
+Arrange for pipe spaces, chases, slots, and openings in building structure during progress
+of construction, to allow for plumbing installations.
+B.
+Coordinate installation of required supporting devices and set sleeves in poured-in-place
+concrete and other structural components as they are constructed.
+C.
+Coordinate requirements for access panels and doors for plumbing items requiring access
+that are concealed behind finished surfaces. Access panels and doors are specified in
+Division 08 Section "Access Doors and Frames."
+PART 2 PRODUCTS
+2.1
+MANUFACTURERS
+A.
+In other Part 2 articles where subparagraph titles below introduce lists, the following
+requirements apply for product selection:
+1.
+Manufacturers: Subject to compliance with requirements, provide products by
+the manufacturers specified.
+2.2
+PIPE, TUBE, AND FITTINGS
+A.
+Refer to individual Division 22 piping Sections for pipe, tube, and fitting materials and
+joining methods.
+B.
+Pipe Threads: ASME B1.20.1 for factory-threaded pipe and pipe fittings.
+2.3
+JOINING MATERIALS
+A.
+Refer to individual Division 22 piping Sections for special joining materials not listed
+below.
+
+
+===== PAGE 15 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 3 of 12 
+B.
+Pipe-Flange Gasket Materials: Suitable for chemical and thermal conditions of piping
+system contents.
+1.
+ASME B16.21, nonmetallic, flat, asbestos-free, 1/8-inch (3.2-mm) maximum
+thickness unless thickness or specific material is indicated.
+2.
+Full-Face Type: For flat-face, Class 125, cast-iron and cast-bronze flanges.
+3.
+Narrow-Face Type: For raised-face, Class 250, cast-iron and steel flanges.
+4.
+AWWA C110, rubber, flat face, 1/8 inch (3.2 mm) thick, unless otherwise
+indicated; and full-face or ring type, unless otherwise indicated.
+C.
+Flange Bolts and Nuts: ASME B18.2.1, carbon steel, unless otherwise indicated.
+D.
+Plastic, Pipe-Flange Gasket, Bolts, and Nuts: Type and material recommended by piping
+system manufacturer, unless otherwise indicated.
+E.
+Solder Filler Metals: ASTM B 32, lead-free alloys. Include water-flushable flux
+according to ASTM B 813.
+F.
+Brazing Filler Metals: AWS A5.8, BCuP Series, copper-phosphorus alloys for general-
+duty brazing, unless otherwise indicated; and AWS A5.8, BAg1, silver alloy for
+refrigerant piping, unless otherwise indicated.
+G.
+Welding Filler Metals: Comply with AWS D10.12 for welding materials appropriate for
+wall thickness and chemical analysis of steel pipe being welded.
+H.
+Solvent Cements for Joining Plastic Piping:
+1.
+ABS Piping: ASTM D 2235.
+2.
+CPVC Piping: ASTM F 493.
+3.
+PVC Piping: ASTM D 2564. Include primer according to ASTM F 656.
+4.
+PVC to ABS Piping Transition: ASTM D 3138.
+I.
+Fiberglass Pipe Adhesive: As furnished or recommended by pipe manufacturer.
+2.4
+TRANSITION FITTINGS
+A.
+AWWA Transition Couplings: Same size as, and with pressure rating at least equal to
+and with ends compatible with, piping to be joined.
+1.
+Manufacturers:
+a.
+Cascade Waterworks Mfg. Co.
+b.
+Dresser Industries, Inc.; DMD Div.
+c.
+Ford Meter Box Company, Incorporated (The); Pipe Products Div.
+d.
+JCM Industries.
+e.
+Smith-Blair, Inc.
+f.
+Viking Johnson.
+2.
+Underground Piping NPS 1-1/2 and Smaller: Manufactured fitting or coupling.
+3.
+Underground Piping NPS 2 and Larger: AWWA C219, metal sleeve-type
+coupling.
+4.
+Aboveground Pressure Piping: Pipe fitting.
+B.
+Plastic-to-Metal Transition Fittings: CPVC and PVC one-piece fitting with
+manufacturer's Schedule 80 equivalent dimensions; one end with threaded brass insert,
+and one solvent-cement-joint end.
+
+
+===== PAGE 16 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 4 of 12 
+1.
+Manufacturers:
+a.
+Eslon Thermoplastics.
+C.
+Plastic-to-Metal Transition Adaptors: One-piece fitting with manufacturer's SDR 11
+equivalent dimensions; one end with threaded brass insert, and one solvent-cement-joint
+end.
+1.
+Manufacturers:
+a.
+Thompson Plastics, Inc.
+D.
+Plastic-to-Metal Transition Unions: MSS SP-107, CPVC and PVC four-part union.
+ Include brass end, solvent-cement-joint end, rubber O-ring, and union nut.
+1.
+Manufacturers:
+a.
+NIBCO INC.
+b.
+NIBCO, Inc.; Chemtrol Div.
+E.
+Flexible Transition Couplings for Underground Nonpressure Drainage Piping:
+ ASTM C 1173 with elastomeric sleeve, ends same size as piping to be joined, and
+corrosion-resistant metal band on each end.
+1.
+Manufacturers:
+a.
+Cascade Waterworks Mfg. Co.
+b.
+Fernco, Inc.
+c.
+Mission Rubber Company.
+d.
+Plastic Oddities, Inc.
+2.5
+DIELECTRIC FITTINGS
+A.
+Description: Combination fitting of copper alloy and ferrous materials with threaded,
+solder-joint, plain, or weld-neck end connections that match piping system materials.
+B.
+Insulating Material: Suitable for system fluid, pressure, and temperature.
+C.
+Dielectric Unions: Factory-fabricated, union assembly, for 250-psig (1725-kPa)
+minimum working pressure at 180 deg F (82 deg C).
+1.
+Manufacturers:
+a.
+Capitol Manufacturing Co.
+b.
+Central Plastics Company.
+c.
+Eclipse, Inc.
+d.
+Epco Sales, Inc.
+e.
+Hart Industries, International, Inc.
+f.
+Watts Industries, Inc.; Water Products Div.
+g.
+Zurn Industries, Inc.; Wilkins Div.
+D.
+Dielectric Flanges: Factory-fabricated, companion-flange assembly, for 150- or 300-psig
+(1035- or 2070-kPa) minimum working pressure as required to suit system pressures.
+1.
+Manufacturers:
+a.
+Capitol Manufacturing Co.
+b.
+Central Plastics Company.
+c.
+Epco Sales, Inc.
+d.
+Watts Industries, Inc.; Water Products Div.
+
+
+===== PAGE 17 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 5 of 12 
+E.
+Dielectric-Flange Kits: Companion-flange assembly for field assembly. Include flanges,
+full-face- or ring-type neoprene or phenolic gasket, phenolic or polyethylene bolt sleeves,
+phenolic washers, and steel backing washers.
+1.
+Manufacturers:
+a.
+Advance Products & Systems, Inc.
+b.
+Calpico, Inc.
+c.
+Central Plastics Company.
+d.
+Pipeline Seal and Insulator, Inc.
+2.
+Separate companion flanges and steel bolts and nuts shall have 150- or 300-psig
+(1035- or 2070-kPa) minimum working pressure where required to suit system
+pressures.
+F.
+Dielectric Couplings: Galvanized-steel coupling with inert and noncorrosive,
+thermoplastic lining; threaded ends; and 300-psig (2070-kPa) minimum working pressure
+at 225 deg F (107 deg C).
+1.
+Manufacturers:
+a.
+Calpico, Inc.
+b.
+Lochinvar Corp.
+G.
+Dielectric Nipples: Electroplated steel nipple with inert and noncorrosive, thermoplastic
+lining; plain, threaded, or grooved ends; and 300-psig (2070-kPa) minimum working
+pressure at 225 deg F (107 deg C).
+1.
+Manufacturers:
+a.
+Perfection Corp.
+b.
+Precision Plumbing Products, Inc.
+c.
+Sioux Chief Manufacturing Co., Inc.
+d.
+Victaulic Co. of America.
+2.6
+MECHANICAL SLEEVE SEALS
+A.
+Description: Modular sealing element unit, designed for field assembly, to fill annular
+space between pipe and sleeve.
+1.
+Manufacturers:
+a.
+Advance Products & Systems, Inc.
+b.
+Calpico, Inc.
+c.
+Metraflex Co.
+d.
+Pipeline Seal and Insulator, Inc.
+2.
+Sealing Elements: EPDM interlocking links shaped to fit surface of pipe.
+ Include type and number required for pipe material and size of pipe.
+3.
+Pressure Plates: Plastic. Include two for each sealing element.
+4.
+Connecting Bolts and Nuts: Carbon steel with corrosion-resistant coating of
+length required to secure pressure plates to sealing elements. Include one for
+each sealing element.
+
+
+===== PAGE 18 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 6 of 12 
+2.7
+SLEEVES
+A.
+Galvanized-Steel Sheet: 0.0239-inch minimum thickness; round tube closed with welded
+longitudinal joint.
+B.
+Steel Pipe: ASTM A 53, Type E, Grade B, Schedule 40, galvanized, plain ends.
+C.
+Cast Iron: Cast or fabricated "wall pipe" equivalent to ductile-iron pressure pipe, with
+plain ends and integral waterstop, unless otherwise indicated.
+D.
+Stack Sleeve Fittings: Manufactured, cast-iron sleeve with integral clamping flange.
+ Include clamping ring and bolts and nuts for membrane flashing.
+E.
+Underdeck Clamp: Clamping ring with set screws.
+F.
+Molded PVC: Permanent, with nailing flange for attaching to wooden forms.
+G.
+PVC Pipe: ASTM D 1785, Schedule 40.
+H.
+Molded PE: Reusable, PE, tapered-cup shaped, and smooth-outer surface with nailing
+flange for attaching to wooden forms.
+2.8
+ESCUTCHEONS
+A.
+Description: Manufactured wall and ceiling escutcheons and floor plates, with an ID to
+closely fit around pipe, tube, and insulation of insulated piping and an OD that
+completely covers opening.
+B.
+One-Piece, Deep-Pattern Type: Deep-drawn, box-shaped brass with polished chrome-
+plated finish.
+C.
+One-Piece, Cast-Brass Type: With set screw.
+1.
+Finish: Polished chrome-plated and rough brass.
+D.
+Split-Casting, Cast-Brass Type: With concealed hinge and set screw.
+1.
+Finish: Polished chrome-plated and rough brass.
+E.
+One-Piece, Stamped-Steel Type: With set screw or spring clips and chrome-plated finish.
+F.
+Split-Plate, Stamped-Steel Type: With concealed hinge, set screw or spring clips, and
+chrome-plated finish.
+G.
+One-Piece, Floor-Plate Type: Cast-iron floor plate.
+H.
+Split-Casting, Floor-Plate Type: Cast brass with concealed hinge and set screw.
+2.9
+GROUT
+A.
+Description: ASTM C 1107, Grade B, nonshrink and nonmetallic, dry hydraulic-cement
+grout.
+1.
+Characteristics: Post-hardening, volume-adjusting, nonstaining, noncorrosive,
+nongaseous, and recommended for interior and exterior applications.
+2.
+Design Mix: 5000-psi, 28-day compressive strength.
+3.
+Packaging: Premixed and factory packaged.
+PART 3 EXECUTION
+3.1
+PIPING SYSTEMS - COMMON REQUIREMENTS
+A.
+Install piping according to the following requirements and Division 22 Sections
+specifying piping systems.
+B.
+Drawing plans, schematics, and diagrams indicate general location and arrangement of
+piping systems. Indicated locations and arrangements were used to size pipe and
+
+
+===== PAGE 19 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 7 of 12 
+calculate friction loss, expansion, pump sizing, and other design considerations. Install
+piping as indicated unless deviations to layout are approved on Coordination Drawings.
+C.
+Install piping in concealed locations, unless otherwise indicated and except in equipment
+rooms and service areas.
+D.
+Install piping indicated to be exposed and piping in equipment rooms and service areas at
+right angles or parallel to building walls. Diagonal runs are prohibited unless specifically
+indicated otherwise.
+E.
+Install piping above accessible ceilings to allow sufficient space for ceiling panel
+removal.
+F.
+Install piping to permit valve servicing.
+G.
+Install piping at indicated slopes.
+H.
+Install piping free of sags and bends.
+I.
+Install fittings for changes in direction and branch connections.
+J.
+Install piping to allow application of insulation.
+K.
+Select system components with pressure rating equal to or greater than system operating
+pressure.
+L.
+Install escutcheons for penetrations of walls, ceilings, and floors according to the
+following:
+1.
+New Piping:
+a.
+Piping with Fitting or Sleeve Protruding from Wall: One-piece, deep-
+pattern type.
+b.
+Chrome-Plated Piping: One-piece, cast-brass type with polished
+chrome-plated finish.
+c.
+Insulated Piping: One-piece, stamped-steel type with spring clips.
+d.
+Bare Piping at Wall and Floor Penetrations in Finished Spaces: One-
+piece, cast-brass type with polished chrome-plated finish.
+e.
+Bare Piping at Wall and Floor Penetrations in Finished Spaces: One-
+piece, stamped-steel type.
+f.
+Bare Piping at Ceiling Penetrations in Finished Spaces: One-piece, cast-
+brass type with polished chrome-plated finish.
+g.
+Bare Piping in Unfinished Service Spaces: One-piece, stamped-steel
+type with concealed or exposed-rivet hinge and set screw set screw or
+spring clips.
+h.
+Bare Piping in Equipment Rooms: One-piece, stamped-steel type with
+set screw.
+i.
+Bare Piping at Floor Penetrations in Equipment Rooms: One-piece,
+floor-plate type.
+j.
+Sleeves are not required for core-drilled holes.
+k.
+Permanent sleeves are not required for holes formed by removable PE
+sleeves.
+
+
+===== PAGE 20 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 8 of 12 
+l.
+Install sleeves for pipes passing through concrete and masonry walls and
+concrete floor and roof slabs.
+m.
+Install sleeves for pipes passing through concrete and masonry walls,
+gypsum-board partitions, and concrete floor and roof slabs.
+1)
+Cut sleeves to length for mounting flush with both surfaces.
+(a)
+Exception: Extend sleeves installed in floors of
+mechanical equipment areas or other wet areas 2 inches
+above finished floor level. Extend cast-iron sleeve
+fittings below floor slab as required to secure clamping
+ring if ring is specified.
+2)
+Install sleeves in new walls and slabs as new walls and slabs are
+constructed.
+3)
+Install sleeves that are large enough to provide 1/4-inch annular
+clear space between sleeve and pipe or pipe insulation. Use the
+following sleeve materials:
+(a)
+Steel Pipe Sleeves: For pipes smaller than NPS 6.
+(b)
+Steel Sheet Sleeves: For pipes NPS 6 and larger,
+penetrating gypsum-board partitions.
+(c)
+Stack Sleeve Fittings: For pipes penetrating floors with
+membrane waterproofing. Secure flashing between
+clamping flanges. Install section of cast-iron soil pipe to
+extend sleeve to 2 inches above finished floor level.
+ Refer to Division 07 Section "Sheet Metal Flashing and
+Trim" for flashing.
+(d)
+Seal space outside of sleeve fittings with grout.
+4)
+Except for underground wall penetrations, seal annular space
+between sleeve and pipe or pipe insulation, using joint sealants
+appropriate for size, depth, and location of joint. Refer to
+Division 07 Section "Joint Sealants" for materials and
+installation.
+n.
+Aboveground, Exterior-Wall Pipe Penetrations: Seal penetrations using
+sleeves and mechanical sleeve seals. Select sleeve size to allow for 1-
+inch annular clear space between pipe and sleeve for installing
+mechanical sleeve seals.
+1)
+Install steel pipe for sleeves smaller than 6 inches in diameter.
+2)
+Install cast-iron "wall pipes" for sleeves 6 inches and larger in
+diameter.
+3)
+Mechanical Sleeve Seal Installation: Select type and number of
+sealing elements required for pipe material and size. Position
+pipe in center of sleeve. Assemble mechanical sleeve seals and
+install in annular space between pipe and sleeve. Tighten bolts
+
+
+===== PAGE 21 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 9 of 12 
+against pressure plates that cause sealing elements to expand and
+make watertight seal.
+o.
+Underground, Exterior-Wall Pipe Penetrations: Install cast-iron "wall
+pipes" for sleeves. Seal pipe penetrations using mechanical sleeve seals.
+ Select sleeve size to allow for 1-inch annular clear space between pipe
+and sleeve for installing mechanical sleeve seals.
+1)
+Mechanical Sleeve Seal Installation: Select type and number of
+sealing elements required for pipe material and size. Position
+pipe in center of sleeve. Assemble mechanical sleeve seals and
+install in annular space between pipe and sleeve. Tighten bolts
+against pressure plates that cause sealing elements to expand and
+make watertight seal.
+p.
+Fire-Barrier Penetrations: Maintain indicated fire rating of walls,
+partitions, ceilings, and floors at pipe penetrations. Seal pipe
+penetrations with firestop materials. Refer to Division 07 Section
+"Penetration Firestopping" for materials.
+q.
+Verify final equipment locations for roughing-in.
+r.
+Refer to equipment specifications in other Sections of these
+Specifications for roughing-in requirements.
+3.2
+PIPING JOINT CONSTRUCTION
+A.
+Join pipe and fittings according to the following requirements and Division 22 Sections
+specifying piping systems.
+B.
+Ream ends of pipes and tubes and remove burrs. Bevel plain ends of steel pipe.
+C.
+Remove scale, slag, dirt, and debris from inside and outside of pipe and fittings before
+assembly.
+D.
+Soldered Joints: Apply ASTM B 813, water-flushable flux, unless otherwise indicated,
+to tube end. Construct joints according to ASTM B 828 or CDA's "Copper Tube
+Handbook," using lead-free solder alloy complying with ASTM B 32.
+E.
+Brazed Joints: Construct joints according to AWS's "Brazing Handbook," "Pipe and
+Tube" Chapter, using copper-phosphorus brazing filler metal complying with AWS A5.8.
+F.
+Threaded Joints: Thread pipe with tapered pipe threads according to ASME B1.20.1.
+ Cut threads full and clean using sharp dies. Ream threaded pipe ends to remove burrs
+and restore full ID. Join pipe fittings and valves as follows:
+1.
+Apply appropriate tape or thread compound to external pipe threads unless dry
+seal threading is specified.
+2.
+Damaged Threads: Do not use pipe or pipe fittings with threads that are corroded
+or damaged. Do not use pipe sections that have cracked or open welds.
+G.
+Welded Joints: Construct joints according to AWS D10.12, using qualified processes and
+welding operators according to Part 1 "Quality Assurance" Article.
+
+
+===== PAGE 22 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 10 of 12 
+H.
+Flanged Joints: Select appropriate gasket material, size, type, and thickness for service
+application. Install gasket concentrically positioned. Use suitable lubricants on bolt
+threads.
+I.
+Plastic Piping Solvent-Cement Joints: Clean and dry joining surfaces. Join pipe and
+fittings according to the following:
+1.
+Comply with ASTM F 402 for safe-handling practice of cleaners, primers, and
+solvent cements.
+2.
+ABS Piping: Join according to ASTM D 2235 and ASTM D 2661 Appendixes.
+3.
+CPVC Piping: Join according to ASTM D 2846/D 2846M Appendix.
+4.
+PVC Pressure Piping: Join schedule number ASTM D 1785, PVC pipe and PVC
+socket fittings according to ASTM D 2672. Join other-than-schedule-number
+PVC pipe and socket fittings according to ASTM D 2855.
+5.
+PVC Nonpressure Piping: Join according to ASTM D 2855.
+6.
+PVC to ABS Nonpressure Transition Fittings: Join according to ASTM D 3138
+Appendix.
+J.
+Plastic Pressure Piping Gasketed Joints: Join according to ASTM D 3139.
+K.
+Plastic Nonpressure Piping Gasketed Joints: Join according to ASTM D 3212.
+L.
+PE Piping Heat-Fusion Joints: Clean and dry joining surfaces by wiping with clean cloth
+or paper towels. Join according to ASTM D 2657.
+1.
+Plain-End Pipe and Fittings: Use butt fusion.
+2.
+Plain-End Pipe and Socket Fittings: Use socket fusion.
+M.
+Fiberglass Bonded Joints: Prepare pipe ends and fittings, apply adhesive, and join
+according to pipe manufacturer's written instructions.
+3.3
+PIPING CONNECTIONS
+A.
+Make connections according to the following, unless otherwise indicated:
+1.
+Install unions, in piping NPS 2 and smaller, adjacent to each valve and at final
+connection to each piece of equipment.
+2.
+Install flanges, in piping NPS 2-1/2 and larger, adjacent to flanged valves and at
+final connection to each piece of equipment.
+3.
+Dry Piping Systems: Install dielectric unions and flanges to connect piping
+materials of dissimilar metals.
+4.
+Wet Piping Systems: Install dielectric coupling and nipple fittings to connect
+piping materials of dissimilar metals.
+3.4
+EQUIPMENT INSTALLATION - COMMON REQUIREMENTS
+A.
+Install equipment to allow maximum possible headroom unless specific mounting heights
+are not indicated.
+B.
+Install equipment level and plumb, parallel and perpendicular to other building systems
+and components in exposed interior spaces, unless otherwise indicated.
+C.
+Install plumbing equipment to facilitate service, maintenance, and repair or replacement
+of components. Connect equipment for ease of disconnecting, with minimum
+interference to other installations. Extend grease fittings to accessible locations.
+
+
+===== PAGE 23 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 11 of 12 
+D.
+Install equipment to allow right of way for piping installed at required slope.
+3.5
+PAINTING
+A.
+Painting of plumbing systems, equipment, and components is specified in Division 09
+Sections "Interior Painting" and "Exterior Painting."
+B.
+Damage and Touchup: Repair marred and damaged factory-painted finishes with
+materials and procedures to match original factory finish.
+3.6
+CONCRETE BASES
+A.
+Concrete Bases: Anchor equipment to concrete base according to equipment
+manufacturer's written instructions and according to seismic codes at Project.
+1.
+Construct concrete bases of dimensions indicated, but not less than 4 inches
+larger in both directions than supported unit.
+2.
+Install dowel rods to connect concrete base to concrete floor. Unless otherwise
+indicated, install dowel rods on 18-inch centers around the full perimeter of the
+base.
+3.
+Install epoxy-coated anchor bolts for supported equipment that extend through
+concrete base, and anchor into structural concrete floor.
+4.
+Place and secure anchorage devices. Use supported equipment manufacturer's
+setting drawings, templates, diagrams, instructions, and directions furnished with
+items to be embedded.
+5.
+Install anchor bolts to elevations required for proper attachment to supported
+equipment.
+6.
+Install anchor bolts according to anchor-bolt manufacturer's written instructions.
+7.
+Use 3000-psi, 28-day compressive-strength concrete and reinforcement as
+specified in Division 03 Sections.
+3.7
+ERECTION OF METAL SUPPORTS AND ANCHORAGES
+A.
+Refer to Division 05 Section "Metal Fabrications" for structural steel.
+B.
+Cut, fit, and place miscellaneous metal supports accurately in location, alignment, and
+elevation to support and anchor plumbing materials and equipment.
+C.
+Field Welding: Comply with AWS D1.1.
+3.8
+ERECTION OF WOOD SUPPORTS AND ANCHORAGES
+A.
+Cut, fit, and place wood grounds, nailers, blocking, and anchorages to support, and
+anchor plumbing materials and equipment.
+B.
+Select fastener sizes that will not penetrate members if opposite side will be exposed to
+view or will receive finish materials. Tighten connections between members. Install
+fasteners without splitting wood members.
+C.
+Attach to substrates as required to support applied loads.
+3.9
+GROUTING
+A.
+Mix and install grout for plumbing equipment base bearing surfaces, pump and other
+equipment base plates, and anchors.
+B.
+Clean surfaces that will come into contact with grout.
+C.
+Provide forms as required for placement of grout.
+
+
+===== PAGE 24 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 00
+COMMON WORK RESULTS FOR
+PLUMBING
+Page 12 of 12 
+D.
+Avoid air entrapment during placement of grout.
+E.
+Place grout, completely filling equipment bases.
+F.
+Place grout on concrete bases and provide smooth bearing surface for equipment.
+G.
+Place grout around anchors.
+H.
+Cure placed grout.
+END OF SECTION
+
+
+===== PAGE 25 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 19
+Meters and Gauges for Plumbing
+Piping
+Page 1 of 2 
+SECTION 22 05 19
+METERS AND GAUGES FOR PLUMBING PIPING
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Pressure Gauges:
+1.
+Bourdon tube for liquids and gases.
+B.
+Thermometers.
+1.2
+REFERENCE STANDARDS
+A.
+ASME B40.100 - Pressure Gauges and Gauge Attachments; 2013.
+B.
+ASTM E1 - Standard Specification for ASTM Liquid-in-Glass Thermometers; 2014
+(Reapproved 2020).
+C.
+ASTM E77 - Standard Test Method for Inspection and Verification of Thermometers;
+2014 (Reapproved 2021).
+1.3
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide red-marked product data sheets for each furnished item with
+associated components and accessories.
+C.
+Project Record Documents: Record actual locations of components and instrumentation.
+D.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 60 00 - Product Requirements. for additional provisions.
+2.
+Extra Pressure Gauges: One of each type and size.
+PART 2 PRODUCTS
+2.1
+PRESSURE GAUGES
+A.
+Manufacturers:
+1.
+Dwyer Instruments, Inc: www.dwyer-inst.com/#sle.
+2.
+Weksler Glass Thermometer Corp: www.wekslerglass.com/#sle.
+B.
+Bourdon Tube for Liquids and Gases:
+1.
+Dial Size and Cover: 4-1/2 inch (115 mm) diameter scale with polycarbonate
+window.
+2.
+Dial Text and Markings: Black color on white background with scaled kPa and
+psi units.
+3.
+Accuracy: ASME B40.100, adjustable commercial grade (D) with 5 percent of
+span.
+4.
+Process Connection: Lower-back, 1/4 inch (6.35 mm) NPT male except where
+noted.
+2.2
+THERMOMETERS
+A.
+Manufacturers:
+1.
+Dwyer Instruments, Inc: www.dwyer-inst.com/#sle.
+2.
+Weksler Glass Thermometer Corp: www.wekslerglass.com/#sle.
+B.
+General:
+1.
+Product Compliance: ASTM E1.
+
+
+===== PAGE 26 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 19
+Meters and Gauges for Plumbing
+Piping
+Page 2 of 2 
+2.
+Lens: Clear glass, except where stated.
+3.
+Accuracy: One percent, when tested in accordance with ASTM E77, except
+where stated.
+4.
+Scale: Black markings depicting single scale in degrees F where expected
+process value falls half-span of standard temperature range.
+C.
+Thermometers - Adjustable Angle: 7 inch (177.8 mm) v-shape aluminum case with clear
+glass window scale, 6 inch (152.4 mm) NPT stem, red or blue organic non-toxic liquid
+filled glass tube, and adjustable joint with positive locking device allowing 360 degrees
+in horizontal plane or 180 degrees in vertical plane adjustments.
+PART 3 EXECUTION
+3.1
+EXAMINATION
+A.
+Do not install instrumentation when areas are under construction, except for required
+rough-in, taps, supports, and test plugs.
+3.2
+INSTALLATION
+A.
+Install pressure gauges as follows:
+1.
+At Pumps: Place single gauge before strainer, suction side and discharge side.
+2.
+At differential pressure sensor associated with booster pump control.
+B.
+Install thermometers as follows:
+1.
+Hot Water Heaters: Place upstream and downstream of heater. Add one on the
+inlet end when using steam as the water heating medium.
+END OF SECTION
+
+
+===== PAGE 27 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 23
+General-Duty Valves for Plumbing
+Piping
+Page 1 of 6 
+SECTION 22 05 23
+GENERAL-DUTY VALVES FOR PLUMBING PIPING
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Ball valves.
+B.
+Check valves.
+C.
+Flow limiting valves.
+D.
+Chainwheels.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 22 05 53 - Identification for Plumbing Piping and Equipment.
+B.
+Section 22 07 19 - Plumbing Piping Insulation.
+C.
+Section 22 10 05 - Plumbing Piping.
+1.3
+ABBREVIATIONS AND ACRONYMS
+A.
+CWP: Cold working pressure.
+B.
+EPDM: Ethylene propylene copolymer rubber.
+C.
+NBR: Acrylonitrile-butadiene, Buna-N, or nitrile rubber.
+D.
+NRS: Non-rising stem.
+E.
+OS&Y: Outside screw and yoke.
+F.
+PTFE: Polytetrafluoroethylene.
+G.
+RS: Rising stem.
+H.
+TFE: Tetrafluoroethylene.
+I.
+WOG: Water, oil, and gas.
+1.4
+REFERENCE STANDARDS
+A.
+ASME B1.20.1 - Pipe Threads, General Purpose, Inch; 2013 (Reaffirmed 2018).
+B.
+ASME B16.1 - Gray Iron Pipe Flanges and Flanged Fittings: Classes 25, 125, and 250;
+2020.
+C.
+ASME B16.34 - Valves — Flanged, Threaded, and Welding End; 2020.
+D.
+ASTM A126 - Standard Specification for Gray Iron Castings for Valves, Flanges, and
+Pipe Fittings; 2004 (Reapproved 2019).
+E.
+ASTM A536 - Standard Specification for Ductile Iron Castings; 1984, with Editorial
+Revision (2019).
+F.
+ASTM B62 - Standard Specification for Composition Bronze or Ounce Metal Castings;
+2017.
+G.
+MSS SP-67 - Butterfly Valves; 2017, with Errata.
+H.
+MSS SP-72 - Ball Valves with Flanged or Butt-Welding Ends for General Service;
+2010a.
+I.
+MSS SP-80 - Bronze Gate, Globe, Angle, and Check Valves; 2019.
+J.
+MSS SP-110 - Ball Valves Threaded, Socket-Welding, Solder Joint, Grooved and Flared
+Ends; 2010, with Errata .
+K.
+NSF 61 - Drinking Water System Components - Health Effects; 2020.
+L.
+NSF 372 - Drinking Water System Components - Lead Content; 2020.
+
+
+===== PAGE 28 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 23
+General-Duty Valves for Plumbing
+Piping
+Page 2 of 6 
+1.5
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide data on valves including manufacturers catalog information.
+ Submit performance ratings, rough-in details, weights, support requirements, and piping
+connections.
+C.
+Operation and Maintenance Data: Include manufacturer's descriptive literature, operating
+instructions, maintenance and repair data, and parts listings.
+1.6
+QUALITY ASSURANCE
+A.
+Manufacturer:
+1.
+Obtain valves for each valve type from single manufacturer.
+1.7
+DELIVERY, STORAGE, AND HANDLING
+A.
+Use the following precautions during storage:
+1.
+Maintain valve end protection and protect flanges and specialties from dirt.
+a.
+Provide temporary inlet and outlet caps.
+b.
+Maintain caps in place until installation.
+2.
+Store valves in shipping containers and maintain in place until installation.
+a.
+Store valves indoors in dry environment.
+b.
+Store valves off the ground in watertight enclosures when indoor storage
+is not an option.
+1.8
+EXERCISE THE FOLLOWING PRECAUTIONS FOR HANDLING:
+A.
+Handle large valves with sling, modified to avoid damage to exposed parts.
+B.
+Avoid the use of operating handles or stems as rigging or lifting points.
+PART 2 PRODUCTS
+2.1
+APPLICATIONS
+A.
+See drawings for specific valve locations.
+B.
+Listed pipe sizes shown using nominal pipe sizes (NPS) and nominal diameter (DN).
+C.
+Provide the following valves for the applications if not indicated on drawings:
+1.
+Shutoff: Ball, butterfly, gate.
+2.
+Throttling: Provide ball.
+3.
+Swing Check (Pump Outlet):
+a.
+2 inch (50 mm, DN) and Smaller: Bronze swing check valves with
+bronze or nonmetallic disc.
+D.
+Substitutions of valves with higher CWP classes or WSP ratings for same valve types are
+permitted when specified CWP ratings or WSP classes are not available.
+E.
+Required Valve End Connections for Non-Wafer Types:
+1.
+Copper Tube:
+a.
+2 inch (50 mm, DN) and Smaller: Threaded ends except where solder-
+joint valve-end option is indicated in valve schedules below.
+b.
+2-1/2 inch (65 mm, DN) to 4 inch (100 mm, DN): Grooved or flanged
+ends except where threaded valve-end option is indicated in valve
+schedules below.
+
+
+===== PAGE 29 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 23
+General-Duty Valves for Plumbing
+Piping
+Page 3 of 6 
+F.
+Domestic, Hot and Cold Water Valves:
+1.
+2 inch (50 mm, DN) and Smaller:
+a.
+Bronze: Provide with threaded ends.
+b.
+Ball: Two piece, full port, bronze with stainless-steel trim.
+c.
+Bronze Swing Check: Class 125, bronze disc.
+2.
+2-1/2 inch (65 mm, DN) and Larger:
+a.
+Iron, 2-1/2 inch (65 mm, DN) to 4 inch (100 mm, DN): Provide with
+flanged ends.
+b.
+Iron Ball: Class 150.
+c.
+Iron Single-Flange Butterfly: 200 CWP, EPDM seat, aluminum-bronze
+disc.
+d.
+Iron Grooved-End Butterfly: 175 CWP.
+2.2
+GENERAL REQUIREMENTS
+A.
+Valve Pressure and Temperature Ratings: No less than rating indicated; as required for
+system pressures and temperatures.
+B.
+Valve Sizes: Match upstream piping unless otherwise indicated.
+C.
+Valve Actuator Types:
+D.
+Insulated Piping Valves: With 2 inch (50 mm, DN) stem extensions and the following
+features:
+1.
+Ball Valves: Extended operating handle of non-thermal-conductive material, and
+protective sleeve that allows operation of valve without breaking the vapor seal
+or disturbing insulation.
+2.
+Butterfly Valves: Extended neck.
+3.
+Memory Stops: Fully adjustable after insulation is installed.
+E.
+Valve-End Connections:
+1.
+Threaded End Valves: ASME B1.20.1.
+2.
+Flanges on Iron Valves: ASME B16.1 for flanges on iron valves.
+F.
+General ASME Compliance:
+2.3
+BRONZE, BALL VALVES
+A.
+General:
+1.
+Fabricate from dezincification resistant material.
+2.
+Copper alloys containing more than 15 percent zinc are not permitted.
+B.
+Two Piece, Full Port with Stainless Steel Trim:
+1.
+Comply with MSS SP-110.
+2.
+WSP Rating: 150 psi (1,035 kPa).
+3.
+WOG Rating: 600 psi (4,140 kPa).
+4.
+Body: Forged bronze or dezincified-brass alloy.
+5.
+Ends Connections: Pipe thread or solder.
+6.
+Seats: PTFE.
+7.
+Stem: Stainless steel, blowout proof.
+8.
+Ball: Stainless steel vented.
+
+
+===== PAGE 30 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 23
+General-Duty Valves for Plumbing
+Piping
+Page 4 of 6 
+9.
+Manufacturers:
+a.
+Apollo Valves; ______: www.apollovalves.com/#sle.
+b.
+Viega LLC; _____: www.viega.us/#sle.
+2.4
+IRON, BALL VALVES
+A.
+Class 125, Full Port, Stainless Steel Trim:
+1.
+Comply with MSS SP-72.
+2.
+CWP Rating: 200 psi (1,380 kPa).
+3.
+Body: ASTM A536 Grade 65-45-12, ductile iron.
+4.
+End Connections: Flanged.
+5.
+Seats: PTFE.
+6.
+Stem: Stainless steel.
+7.
+Ball: Stainless steel.
+8.
+Operator: Lever with locking handle.
+9.
+Manufacturers:
+a.
+Apollo Valves; ______: www.apollovalves.com/#sle.
+2.5
+IRON, SINGLE FLANGE BUTTERFLY VALVES
+A.
+Lug Style; Bi-directional dead-end service without use of downstream flange:
+1.
+Class 125 or Class 150 flanges.
+2.
+Comply with MSS SP-67, Type I.
+3.
+Lug Style, Service Pressure Ratings:
+a.
+100 psi (689.5 kPa) for sizes 14 to 24 inch (350 to 600 mm, DN).
+b.
+150 psi (1,034 kPa) for sizes 2 to 12 inch (50 to 300 mm, DN).
+c.
+Vacuum down to 29.9 in-Hg (101.2 kPa).
+4.
+Body Material: ASTM A126, cast iron or ASTM A536, ductile iron.
+5.
+Stem: One or two-piece stainless steel.
+6.
+Seat: EPDM.
+7.
+Disc: Stainless steel.
+8.
+Finish: Epoxy coated.
+9.
+Operator: Gear operator with handwheel over direct-mount actuator base.
+10.
+Manufacturers:
+a.
+Apollo Valves; ______: www.apollovalves.com/#sle.
+2.6
+IRON, GROOVED-END BUTTERFLY VALVES
+A.
+CWP Rating: 175 psi (1,200 kPa).
+1.
+Comply with MSS SP-67, Type I.
+2.
+Body: Coated ductile iron.
+3.
+Stem: Two-piece stainless steel.
+4.
+Disc: Coated ductile iron.
+5.
+Disc Seal: EPDM.
+2.7
+BRONZE, SWING CHECK VALVES
+A.
+General:
+1.
+Fabricate from dezincification resistant material.
+
+
+===== PAGE 31 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 23
+General-Duty Valves for Plumbing
+Piping
+Page 5 of 6 
+2.
+Copper alloys containing more than 15 percent zinc are not permitted.
+B.
+Class 125:
+1.
+Pressure and Temperature Rating: MSS SP-80, Type 3.
+2.
+Design: Y-pattern, horizontal or vertical flow.
+3.
+WOG Rating: 200 psi (1,380 kPa).
+4.
+Body: Bronze, ASTM B62.
+5.
+End Connections: Threaded.
+6.
+Disc: Bronze.
+7.
+Manufacturers:
+a.
+Apollo Valves; ______: www.apollovalves.com/#sle.
+2.8
+FLOW LIMITING VALVES
+A.
+Size: As indicated on drawings, female threaded.
+B.
+Flow Setting: As indicated on drawings.
+C.
+Flow Accuracy: Plus or minus 5 percent.
+D.
+Body and Cap: Lead-free brass.
+E.
+Cap and Plug: Lead-free brass.
+F.
+Cartridge: Stainless steel with replaceable EPDM seal.
+G.
+Maximum Service Pressure: 600 psi (4,137 kPa), WOG.
+H.
+Maximum Service Temperature: 250 degrees F (121.1 degrees C).
+2.9
+CHAINWHEELS
+A.
+Description: Valve actuation assembly with sprocket rim, brackets, and chain.
+1.
+Brackets: Type, number, size, and fasteners required to mount actuator on valve.
+2.
+Attachment: For connection to ball and butterfly valve stems.
+3.
+Sprocket Rim with Chain Guides: Ductile iron. Include zinc coating.
+4.
+Chain: Hot-dip galvanized steel. Sized to fit sprocket rim.
+PART 3 EXECUTION
+3.1
+EXAMINATION
+A.
+Discard all packing materials and verify that valve interior, including threads and flanges
+are completely clean without signs of damage or degradation that could result in leakage.
+B.
+Verify valve parts to be fully operational in all positions from closed to fully open.
+C.
+Confirm gasket material to be suitable for the service, to be of correct size, and without
+defects that could compromise effectiveness.
+D.
+Should valve is determined to be defective, replace with new valve.
+3.2
+INSTALLATION
+A.
+Provide unions or flanges with valves to facilitate equipment removal and maintenance
+while maintaining system operation and full accessibility for servicing.
+B.
+Provide separate valve support as required and locate valve with stem at or above center
+of piping, maintaining unimpeded stem movement.
+C.
+Install check valves where necessary to maintain direction of flow as follows:
+1.
+Lift Check: Install with stem plumb and vertical.
+2.
+Swing Check: Install horizontal maintaining hinge pin level.
+
+
+===== PAGE 32 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 23
+General-Duty Valves for Plumbing
+Piping
+Page 6 of 6 
+D.
+Provide chainwheels on operators for valves 4 inch (100 mm, DN) and larger where
+located 96 inch (2,400 mm, DN) or more above finished floor, terminating 60 inch (1,520
+mm, DN) above finished floor.
+END OF SECTION
+
+
+===== PAGE 33 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 29
+Hangers and Supports for Plumbing
+Piping and Equipment
+Page 1 of 5 
+SECTION 22 05 29
+HANGERS AND SUPPORTS FOR PLUMBING PIPING AND EQUIPMENT
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Beam clamps.
+B.
+Pipe hangers.
+C.
+Pipe rollers and roller supports.
+D.
+Pipe supports, guides, shields, and saddles.
+E.
+Seismic bracing hardware.
+F.
+Anchors and fasteners.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 03 30 00 - Cast-in-Place Concrete: Concrete equipment pads.
+B.
+Section 05 50 00 - Metal Fabrications.
+1.3
+REFERENCE STANDARDS
+A.
+ASTM A36/A36M - Standard Specification for Carbon Structural Steel; 2019.
+B.
+ASTM A47/A47M - Standard Specification for Ferritic Malleable Iron Castings; 1999,
+with Editorial Revision (2018).
+A.
+ASTM A123/A123M - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings
+on Iron and Steel Products; 2017.
+B.
+ASTM A153/A153M - Standard Specification for Zinc Coating (Hot-Dip) on Iron and
+Steel Hardware; 2016a.
+C.
+ASTM A181/A181M - Standard Specification for Carbon Steel Forgings, for General -
+Purpose Piping; 2014 (Reapproved 2020).
+D.
+ASTM A283/A283M - Standard Specification for Low and Intermediate Tensile Strength
+Carbon Steel Plates; 2018.
+E.
+ASTM A395/A395M - Standard Specification for Ferritic Ductile Iron Pressure-
+Retaining Castings for Use at Elevated Temperatures; 1999 (Reapproved 2018).
+F.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized)
+or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2020.
+G.
+ASTM A1011/A1011M - Standard Specification for Steel, Sheet and Strip, Hot-Rolled,
+Carbon, Structural, High-Strength Low-Alloy, High-Strength Low-Alloy with Improved
+Formability, and Ultra-High Strength; 2018a.
+H.
+ASTM B633 - Standard Specification for Electrodeposited Coatings of Zinc on Iron and
+Steel; 2019.
+I.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building
+Materials; 2021a.
+J.
+ASTM E96/E96M - Standard Test Methods for Gravimetric Determination of Water
+Vapor Transmission Rate of Materials; 2021.
+K.
+FM (AG) - FM Approval Guide; current edition.
+L.
+MSS SP-58 - Pipe Hangers and Supports - Materials, Design, Manufacture, Selection,
+Application, and Installation; 2018, with Amendment (2019).
+
+
+===== PAGE 34 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 29
+Hangers and Supports for Plumbing
+Piping and Equipment
+Page 2 of 5 
+M.
+UL (DIR) - Online Certifications Directory; Current Edition.
+N.
+UL 723 - Standard for Test for Surface Burning Characteristics of Building Materials;
+Current Edition, Including All Revisions.
+1.4
+ADMINISTRATIVE REQUIREMENTS
+A.
+Coordination:
+1.
+Coordinate sizes and arrangement of supports and bases with the actual
+equipment and components to be installed.
+2.
+Coordinate the work with other trades to provide additional framing and
+materials required for installation.
+3.
+Coordinate compatibility of support and attachment components with mounting
+surfaces at the installed locations.
+4.
+Coordinate the arrangement of supports with ductwork, piping, equipment and
+other potential conflicts installed under other sections or by others.
+5.
+Notify Architect of any conflicts with or deviations from Contract Documents.
+Obtain direction before proceeding with work.
+B.
+Sequencing:
+1.
+Do not install products on or provide attachment to concrete surfaces until
+concrete has fully cured in accordance with Section 03 30 00.
+1.5
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide manufacturer's standard catalog pages and data sheets for metal
+channel (strut) framing systems, nonpenetrating rooftop supports, post-installed concrete
+and masonry anchors, and thermal insulated pipe supports.
+C.
+Shop Drawings: Include details for fabricated hangers and supports where materials or
+methods other than those indicated are proposed for substitution.
+D.
+Manufacturer's Instructions: Indicate application conditions and limitations of use
+stipulated by product testing agency. Include instructions for storage, handling,
+protection, examination, preparation, and installation of product.
+1.6
+QUALITY ASSURANCE
+A.
+Comply with applicable building code.
+PART 2 PRODUCTS
+2.1
+GENERAL REQUIREMENTS
+A.
+Provide required hardware to hang or support piping, equipment, or fixtures with related
+accessories as necessary to complete installation of plumbing work.
+B.
+Provide hardware products listed, classified, and labeled as suitable for intended purpose.
+C.
+Where support and attachment component types and sizes are not indicated, select in
+accordance with manufacturer's application criteria as required for the load to be
+supported with a minimum safety factor of _____. Include consideration for vibration,
+equipment operation, and shock loads where applicable.
+D.
+Do not use wire, chain, perforated pipe strap, or wood for permanent supports unless
+specifically indicated or permitted.
+
+
+===== PAGE 35 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 29
+Hangers and Supports for Plumbing
+Piping and Equipment
+Page 3 of 5 
+E.
+Materials for Metal Fabricated Supports: Comply with Section 05 50 00.
+1.
+Zinc-Plated Steel: Electroplated in accordance with ASTM B633 unless stated
+otherwise.
+2.
+Galvanized Steel: Hot-dip galvanized in accordance with ASTM A123/A123M
+or ASTM A153/A153M unless stated otherwise.
+F.
+Corrosion Resistance: Use corrosion-resistant metal-based materials fully compatible
+with exposed piping materials and suitable for the environment where installed.
+2.2
+BEAM CLAMPS
+A.
+Provide clamps with hardened steel cup-point set screws and lock-nuts for anchoring in
+place.
+B.
+Material: ASTM A395/A395M ductile iron, ASTM A36/A36M carbon steel, ASTM
+A47/A47M malleable iron, ASTM A181/A181M forged steel, or ASTM A283/A283M
+steel.
+2.3
+PIPE HANGERS
+A.
+Band Hangers, Adjustable:
+1.
+MSS SP-58 type 7 or 9, zinc-plated ASTM A1011/A1011M steel or ASTM
+A653/A653M carbon steel.
+B.
+J-Hangers, Adjustable:
+1.
+MSS SP-58 type 5, zinc-plated ASTM A1011/A1011M steel or ASTM
+A653/A653M carbon steel.
+C.
+Swivel Ring Hangers, Adjustable:
+1.
+MSS SP-58 type 10, epoxy-painted, zinc-colored.
+2.
+Material: ASTM A395/A395M ductile iron, ASTM A36/A36M carbon steel,
+ASTM A47/A47M malleable iron, ASTM A181/A181M forged steel, or ASTM
+A283/A283M steel.
+3.
+FM (AG) and UL (DIR) listed for specific pipe size runs and loads.
+D.
+Clevis Hangers, Adjustable:
+1.
+Copper Tube: MSS SP-58 type 1, epoxy-plated copper.
+2.
+Light-Duty: MSS SP-58 type 1, zinc-colored, epoxy plated.
+3.
+Standard-Duty: MSS SP-58 type 1, zinc-colored, epoxy plated.
+2.4
+PIPE CLAMPS
+A.
+Riser Clamps:
+1.
+For insulated pipe runs, provide two bolt-type clamps designed for installation
+under insulation.
+2.
+MSS SP-58 type 1 or 8, carbon steel or steel with epoxy plated, plain, stainless
+steel, or zinc plated finish.
+3.
+UL (DIR) listed: Pipe sizes 1/2 to 8 inch (15 to 200 mm, DN).
+B.
+Strut Clamps:
+1.
+Pipe Clamp: Two-piece rigid, universal, or outer diameter type, carbon steel
+with epoxy copper or zinc finish.
+
+
+===== PAGE 36 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 29
+Hangers and Supports for Plumbing
+Piping and Equipment
+Page 4 of 5 
+2.5
+PIPE ROLLERS AND ROLLER SUPPORTS
+A.
+MSS SP-58 type 43 based on required load, nonconductive and corrosion resistant.
+B.
+Material: Zinc plated ASTM A36/A36M carbon steel or ASTM A47/A47M malleable
+iron.
+2.6
+PIPE SUPPORTS, GUIDES, SHIELDS, AND SADDLES
+A.
+Dielectric Barriers: Provide between metallic supports and metallic piping and
+associated items of dissimilar type; acceptable dielectric barriers include rubber or plastic
+sheets or coatings attached securely to pipe or item.
+B.
+Pipe Supports:
+1.
+Material: ASTM A395/A395M ductile iron, ASTM A36/A36M carbon steel,
+ASTM A47/A47M malleable iron, ASTM A181/A181M forged steel, or ASTM
+A283/A283M steel.
+2.
+Liquid Temperatures Up to 122 degrees F (50 degrees C):
+a.
+Overhead Support: MSS SP-58 types 1, 3 through 12 clamps.
+b.
+Support From Below: MSS SP-58 types 35 through 38.
+C.
+Pipe Supports, Thermal Insulated:
+1.
+General Requirements:
+a.
+Insulated pipe supports to be provided at hanger, support, and guide
+locations on pipe requiring insulation or additional support.
+b.
+Surface Burning Characteristics: Flame spread index/smoke developed
+index of 5/30, maximum, when tested in accordance with ASTM E84 or
+UL 723.
+c.
+Provide pipe supports for 1/2 to 30 inch (15 to 750 mm, DN) iron pipes.
+d.
+Insulation inserts to consist of rigid phenolic foam insulation surrounded
+by 360 degree, PVC jacketing.
+2.
+PVC Jacket:
+a.
+Pipe insulation protection shields to be provided with ball bearing hinge
+and locking seam.
+b.
+Moisture Vapor Transmission: 0.0071 perm inch (0.0092 ng/Pa s m),
+when tested in accordance with ASTM E96/E96M.
+c.
+Minimum Thickness: 60 mil, 0.06 inch (1.524 mm).
+2.7
+ANCHORS AND FASTENERS
+A.
+Unless otherwise indicated and where not otherwise restricted, use the anchor and
+fastener types indicated for the specified applications.
+B.
+Concrete: Use preset concrete inserts, expansion anchors, or screw anchors.
+C.
+Solid or Grout-Filled Masonry: Use expansion anchors or screw anchors.
+D.
+Preset Concrete Inserts: Continuous metal strut channel and spot inserts specifically
+designed to be cast in concrete ceilings, walls, and floors.
+1.
+Channel Material: Use galvanized steel.
+2.
+Manufacturer: Same as manufacturer of metal strut channel framing system.
+
+
+===== PAGE 37 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 29
+Hangers and Supports for Plumbing
+Piping and Equipment
+Page 5 of 5 
+PART 3 EXECUTION
+3.1
+INSTALLATION
+A.
+Install products in accordance with manufacturer's instructions.
+B.
+Provide independent support from building structure. Do not provide support from
+piping, ductwork, conduit, or other systems.
+C.
+Unless specifically indicated or approved by Architect, do not provide support from
+suspended ceiling support system or ceiling grid.
+D.
+Unless specifically indicated or approved by Architect, do not provide support from roof
+deck.
+E.
+Do not penetrate or otherwise notch or cut structural members without approval of
+Structural Engineer.
+F.
+Provide thermal insulated pipe supports complete with hangers and accessories. Install
+thermal insulated pipe supports during the installation of the piping system.
+G.
+Equipment Support and Attachment:
+1.
+Use metal fabricated supports or supports assembled from metal channel (strut)
+to support equipment as required.
+2.
+Use metal channel (strut) secured to studs to support equipment surface-mounted
+on hollow stud walls when wall strength is not sufficient to resist pull-out.
+3.
+Use metal channel (strut) to support surface-mounted equipment in wet or damp
+locations to provide space between equipment and mounting surface.
+4.
+Unless otherwise indicated, mount floor-mounted equipment on properly sized 4
+inch (100 mm) high concrete pad constructed in accordance with Section 03 30
+00.
+5.
+Securely fasten floor-mounted equipment. Do not install equipment such that it
+relies on its own weight for support.
+H.
+Preset Concrete Inserts: Use manufacturer-provided closure strips to inhibit concrete
+seepage during concrete pour.
+I.
+Secure fasteners according to manufacturer's recommended torque settings.
+J.
+Remove temporary supports.
+3.2
+FIELD QUALITY CONTROL
+A.
+See Section 01 40 00 - Quality Requirements for additional requirements.
+B.
+Inspect support and attachment components for damage and defects.
+C.
+Repair cuts and abrasions in galvanized finishes using zinc-rich paint recommended by
+manufacturer. Replace components that exhibit signs of corrosion.
+D.
+Correct deficiencies and replace damaged or defective support and attachment
+components.
+END OF SECTION
+
+
+===== PAGE 38 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 53
+Identification for Plumbing Piping
+and Equipment
+Page 1 of 3 
+SECTION 22 05 53
+IDENTIFICATION FOR PLUMBING PIPING AND EQUIPMENT
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Nameplates.
+B.
+Tags.
+C.
+Pipe markers.
+D.
+Ceiling tacks.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 09 91 23 - Interior Painting: Identification painting.
+1.3
+REFERENCE STANDARDS
+A.
+ASME A13.1 - Scheme for the Identification of Piping Systems; 2020.
+B.
+ASTM D709 - Standard Specification for Laminated Thermosetting Materials; 2017.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Schedules:
+1.
+Submit plumbing component identification schedule listing equipment, piping,
+and valves.
+2.
+Detail proposed component identification data in terms of of wording, symbols,
+letter size, and color coding to be applied to corresponding product.
+3.
+Valve Data Format: Include id-number, location, function, and model number.
+C.
+Product Data: Provide manufacturers catalog literature for each product required.
+D.
+Manufacturer's Installation Instructions: Indicate special procedures, and installation.
+E.
+Project Record Documents: Record actual locations of tagged valves.
+PART 2 PRODUCTS
+2.1
+PLUMBING COMPONENT IDENTIFICATION GUIDELINE
+A.
+Nameplates:
+1.
+Water heaters, and other heat transfer products.
+2.
+Control panels, transducers, and other related control equipment products.
+3.
+Pumps, tanks, and other plumbing equipment products.
+B.
+Tags:
+1.
+Piping: 3/4 inch (20 mm) diameter and smaller.
+2.
+Valves.
+3.
+Ceiling tacks placed on lay-in ceiling surface to reference plumbing components.
+C.
+Pipe Markers: 3/4 inch (20 mm) diameter and higher.
+2.2
+NAMEPLATES
+A.
+Manufacturers:
+1.
+Brimar Industries, Inc: www.pipemarker.com/#sle.
+2.
+Kolbi Pipe Marker Co: www.kolbipipemarkers.com/#sle.
+3.
+Seton Identification Products: www.seton.com/#sle.
+B.
+Description: Laminated piece with up to three lines of text.
+
+
+===== PAGE 39 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 53
+Identification for Plumbing Piping
+and Equipment
+Page 2 of 3 
+1.
+Letter Color: White.
+2.
+Letter Height: 1/4 inch (6 mm).
+3.
+Background Color: Black.
+4.
+Nameplate Height: 3/4 inch (19 mm).
+5.
+Nameplate Material:
+a.
+Flexible: Plastic with center-side holes for screw fastening per ASTM
+D709.
+2.3
+TAGS
+A.
+Manufacturers:
+1.
+Brimar Industries, Inc: www.pipemarker.com/#sle.
+2.
+Kolbi Pipe Marker Co: www.kolbipipemarkers.com/#sle.
+3.
+Seton Identification Products: www.seton.com/#sle.
+B.
+Metal: Brass, 19 gauge 1-1/2 inch (40 mm) in diameter with smooth edges, stamped,
+smooth edges, and corrosion-resistant ball chain. Up to three lines of text.
+C.
+Valve Tag Chart: Typewritten 12-point letter size list in anodized aluminum frame.
+D.
+Piping: 3/4 inch (20 mm) diameter and smaller. Include corrosion resistant chain.
+ Identify service, flow direction, and pressure.
+2.4
+PIPE MARKERS
+A.
+Manufacturers:
+1.
+Brimar Industries, Inc: www.pipemarker.com/#sle.
+2.
+Kolbi Pipe Marker Co: www.kolbipipemarkers.com/#sle.
+3.
+Seton Identification Products: www.seton.com/#sle.
+B.
+Comply with ASME A13.1.
+C.
+Flexible Marker: Factory fabricated, semi-rigid, preformed to fit around pipe or pipe
+covering; minimum information indicating flow direction arrow and identification of
+fluid conveyed.
+D.
+Flexible Tape Marker: Flexible, vinyl film tape with pressure-sensitive adhesive backing
+and printed markings.
+E.
+Identification Scheme, ASME A13.1:
+1.
+Primary: External Pipe Diameter, Uninsulated or Insulated.
+a.
+3/4 to 1-1/4 inches (19 to 32 mm): Use 8 inch (203 mm) field-length
+with 1/2 inch (13 mm) text height.
+b.
+1-1/2 to 2 inches (38 to 51 mm): Use 8 inch (203 mm) field-length with
+3/4 inch (19 mm) text height.
+c.
+2-1/2 to 6 inches (64 to 152 mm): Use 12 inch (305 mm) field-length
+with 1-1/4 inch (32 mm) text height.
+2.
+Secondary: Color scheme per fluid service.
+a.
+Water; Potable, Cooling, Boiler Feed, and Other: White text on green
+background.
+3.
+Tertiary: Other Details.
+a.
+Directional flow arrow.
+
+
+===== PAGE 40 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 05 53
+Identification for Plumbing Piping
+and Equipment
+Page 3 of 3 
+2.5
+CEILING TACKS
+A.
+Description: Steel with 3/4 inch (20 mm) diameter color coded head.
+B.
+Color code as follows:
+1.
+Plumbing Equipment: Yellow.
+2.
+Plumbing Valves: Green.
+PART 3 EXECUTION
+3.1
+PREPARATION
+A.
+Degrease and clean surfaces to receive identification products.
+3.2
+INSTALLATION
+A.
+Install tags in clear view and align with axis of piping
+B.
+Install plastic pipe markers in accordance with manufacturer's instructions.
+C.
+Install plastic tape pipe marker around pipe in accordance with manufacturer's
+instructions.
+D.
+Apply ASME A13.1 Pipe Marking Rules:
+1.
+Place pipe marker adjacent to changes in direction.
+2.
+Place pipe marker adjacent each valve port and flange end.
+3.
+Place pipe marker at both sides of floor and wall penetrations.
+4.
+Place pipe marker every 25 to 50 feet (7.6 to 15.2 m) interval of straight run.
+E.
+Locate ceiling tacks to locate valves or dampers above lay-in panel ceilings. Locate in
+corner of panel closest to equipment.
+END OF SECTION
+
+
+===== PAGE 41 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 07 19
+Plumbing Piping Insulation
+Page 1 of 3 
+SECTION 22 07 19
+PLUMBING PIPING INSULATION
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Glass fiber insulation.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 07 84 00 - Firestopping.
+B.
+Section 22 10 05 - Plumbing Piping: Placement of hangers and hanger inserts.
+1.3
+REFERENCE STANDARDS
+A.
+ASTM C177 - Standard Test Method for Steady-State Heat Flux Measurements and
+Thermal Transmission Properties by Means of the Guarded-Hot-Plate Apparatus; 2019.
+B.
+ASTM C547 - Standard Specification for Mineral Fiber Pipe Insulation; 2019.
+C.
+ASTM C795 - Standard Specification for Thermal Insulation for Use in Contact with
+Austenitic Stainless Steel; 2008 (Reapproved 2018).
+D.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building
+Materials; 2021a.
+E.
+ASTM E96/E96M - Standard Test Methods for Gravimetric Determination of Water
+Vapor Transmission Rate of Materials; 2021.
+F.
+UL 723 - Standard for Test for Surface Burning Characteristics of Building Materials;
+Current Edition, Including All Revisions.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide product description, thermal characteristics, list of materials and
+thickness for each service, and locations.
+C.
+Manufacturer's Instructions: Indicate installation procedures that ensure acceptable
+workmanship and installation standards will be achieved.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Accept materials on site, labeled with manufacturer's identification, product density, and
+thickness.
+PART 2 PRODUCTS
+2.1
+REGULATORY REQUIREMENTS
+A.
+Surface Burning Characteristics: Flame spread index/Smoke developed index of 25/50,
+maximum, when tested in accordance with ASTM E84 or UL 723.
+2.2
+GLASS FIBER INSULATION
+A.
+Manufacturers:
+1.
+CertainTeed Corporation: www.certainteed.com/#sle.
+2.
+Johns Manville Corporation: www.jm.com/#sle.
+3.
+Knauf Insulation: www.knaufinsulation.com/#sle.
+B.
+Insulation: ASTM C547 and ASTM C795; rigid molded, noncombustible.
+1.
+K (Ksi) Value: ASTM C177, 0.24 at 75 degrees F (0.035 at 24 degrees C).
+2.
+Maximum Service Temperature: 850 degrees F (454 degrees C).
+3.
+Maximum Moisture Absorption: 0.2 percent by volume.
+
+
+===== PAGE 42 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 07 19
+Plumbing Piping Insulation
+Page 2 of 3 
+C.
+Vapor Barrier Jacket: White Kraft paper with glass fiber yarn, bonded to aluminized
+film; moisture vapor transmission when tested in accordance with ASTM E96/E96M of
+0.02 perm (0.029 ng/(Pa s m)).
+D.
+Vapor Barrier Lap Adhesive: Compatible with insulation.
+PART 3 EXECUTION
+3.1
+EXAMINATION
+A.
+Verify that piping has been tested before applying insulation materials.
+B.
+Verify that surfaces are clean and dry, with foreign material removed.
+3.2
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Exposed Piping: Locate insulation and cover seams in least visible locations.
+C.
+Insulated pipes conveying fluids below ambient temperature: Insulate entire system
+including fittings, valves, unions, flanges, strainers, flexible connections, pump bodies,
+and expansion joints.
+D.
+For hot piping conveying fluids at140 degrees F (60 degrees C), insulate flanges and
+unions at equipment.
+E.
+Glass fiber insulated pipes conveying fluids above ambient temperature:
+1.
+Provide standard jackets, with or without vapor barrier, factory-applied or field-
+applied. Secure with self-sealing longitudinal laps and butt strips with pressure-
+sensitive adhesive. Secure with outward clinch expanding staples.
+2.
+Insulate fittings, joints, and valves with insulation of like material and thickness
+as adjoining pipe. Finish with glass cloth and adhesive or PVC fitting covers.
+F.
+Inserts and Shields:
+1.
+Application: Piping 1-1/2 inches (40 mm) diameter or larger.
+2.
+Shields: Galvanized steel between pipe hangers or pipe hanger rolls and inserts.
+3.
+Insert Location: Between support shield and piping and under the finish jacket.
+4.
+Insert Configuration: Minimum 6 inches (150 mm) long, of same thickness and
+contour as adjoining insulation; may be factory fabricated.
+5.
+Insert Material: Hydrous calcium silicate insulation or other heavy density
+insulating material suitable for the planned temperature range.
+G.
+Continue insulation through walls, sleeves, pipe hangers, and other pipe penetrations.
+ Finish at supports, protrusions, and interruptions. At fire separations, see Section 07 84
+00.
+H.
+Pipe Exposed in Mechanical Equipment Rooms or Finished Spaces (less than 10 feet (3
+meters) above finished floor): Finish with PVC jacket and fitting covers.
+3.3
+SCHEDULES
+A.
+Plumbing Systems:
+1.
+Domestic Water:
+a.
+Glass Fiber Insulation:
+1)
+Pipe Size Range: less than and including 1-1/2 inch (40 mm).
+2)
+Thickness: 1 inch (25 mm).
+b.
+Glass Fiber Insulation:
+
+
+===== PAGE 43 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 07 19
+Plumbing Piping Insulation
+Page 3 of 3 
+1)
+Pipe Size Range: above 1-1/2 inch.
+2)
+Thickness: 1-1/2 inch.
+END OF SECTION
+
+
+===== PAGE 44 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 05
+Plumbing Piping
+Page 1 of 7 
+SECTION 22 10 05
+PLUMBING PIPING
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Sanitary waste piping, buried within 5 feet (1500 mm) of building.
+B.
+Sanitary waste piping, above grade.
+C.
+Domestic water piping, buried within 5 feet (1500 mm) of building.
+D.
+Domestic water piping, above grade.
+E.
+Storm drainage piping, buried within 5 feet (1500 mm) of building.
+F.
+Storm drainage piping, above grade.
+G.
+Natural gas piping, above grade.
+H.
+Pipe flanges, unions, and couplings.
+I.
+Pipe hangers and supports.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 08 31 00 - Access Doors and Panels.
+B.
+Section 22 05 16 - Expansion Fittings and Loops for Plumbing Piping.
+C.
+Section 22 05 29 - Hangers and Supports for Plumbing Piping and Equipment.
+D.
+Section 22 05 53 - Identification for Plumbing Piping and Equipment.
+E.
+Section 22 07 19 - Plumbing Piping Insulation.
+F.
+Section 31 23 16 - Excavation.
+G.
+Section 31 23 16.13 - Trenching.
+1.3
+REFERENCE STANDARDS
+A.
+ASME B16.3 - Malleable Iron Threaded Fittings: Classes 150 and 300; 2021.
+B.
+ASME B16.18 - Cast Copper Alloy Solder Joint Pressure Fittings; 2021.
+C.
+ASME B16.22 - Wrought Copper and Copper Alloy Solder-Joint Pressure Fittings; 2021.
+D.
+ASME B31.1 - Power Piping; 2020.
+E.
+ASME BPVC-IX - Boiler and Pressure Vessel Code, Section IX - Qualification Standard
+for Welding, Brazing, and Fusing Procedures; Welders; Brazers; and Welding, Brazing,
+and Fusing Operators; 2021.
+F.
+ASTM A47/A47M - Standard Specification for Ferritic Malleable Iron Castings; 1999,
+with Editorial Revision (2018).
+G.
+ASTM A53/A53M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-
+Coated, Welded and Seamless; 2020.
+H.
+ASTM A234/A234M - Standard Specification for Piping Fittings of Wrought Carbon
+Steel and Alloy Steel for Moderate and High Temperature Service; 2019.
+I.
+ASTM B32 - Standard Specification for Solder Metal; 2020.
+J.
+ASTM B42 - Standard Specification for Seamless Copper Pipe, Standard Sizes; 2020.
+K.
+ASTM B88 - Standard Specification for Seamless Copper Water Tube; 2020.
+L.
+ASTM B88M - Standard Specification for Seamless Copper Water Tube (Metric); 2020.
+M.
+ASTM B813 - Standard Specification for Liquid and Paste Fluxes for Soldering of
+Copper and Copper Alloy Tube; 2016.
+
+
+===== PAGE 45 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 05
+Plumbing Piping
+Page 2 of 7 
+N.
+ASTM B828 - Standard Practice for Making Capillary Joints by Soldering of Copper and
+Copper Alloy Tube and Fittings; 2016.
+O.
+ASTM C564 - Standard Specification for Rubber Gaskets for Cast Iron Soil Pipe and
+Fittings; 2020a.
+P.
+ASTM C1277 - Standard Specification for Shielded Couplings Joining Hubless Cast Iron
+Soil Pipe and Fittings; 2020.
+Q.
+ASTM D2564 - Standard Specification for Solvent Cements for Poly(Vinyl Chloride)
+(PVC) Plastic Piping Systems; 2020.
+R.
+ASTM D2665 - Standard Specification for Poly(Vinyl Chloride) (PVC) Plastic Drain,
+Waste, and Vent Pipe and Fittings; 2020.
+S.
+ASTM D2855 - Standard Practice for the Two-Step (Primer and Solvent Cement)
+Method of Joining Poly (Vinyl Chloride) (PVC) or Chlorinated Poly (Vinyl Chloride)
+(CPVC) Pipe and Piping Components with Tapered Sockets; 2020.
+T.
+ASTM D3034 - Standard Specification for Type PSM Poly(Vinyl Chloride) (PVC)
+Sewer Pipe and Fittings; 2021.
+U.
+AWWA C606 - Grooved and Shouldered Joints; 2015.
+V.
+AWWA C651 - Disinfecting Water Mains; 2014, with Addendum (2020).
+W.
+CISPI 301 - Standard Specification for Hubless Cast Iron Soil Pipe and Fittings for
+Sanitary and Storm Drain, Waste, and Vent Piping Applications; 2018.
+X.
+CISPI 310 - Specification for Coupling for Use in Connection with Hubless Cast Iron
+Soil Pipe and Fittings for Sanitary and Storm Drain, Waste, and Vent Piping
+Applications; 2018.
+Y.
+MSS SP-58 - Pipe Hangers and Supports - Materials, Design, Manufacture, Selection,
+Application, and Installation; 2018, with Amendment (2019).
+Z.
+NSF 61 - Drinking Water System Components - Health Effects; 2020.
+AA.
+NSF 372 - Drinking Water System Components - Lead Content; 2020.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide data on pipe materials, pipe fittings, valves, and accessories.
+ Provide manufacturers catalog information. Indicate valve data and ratings.
+C.
+Welders' Certificates: Submit certification of welders' compliance with ASME BPVC-
+IX.
+D.
+Project Record Documents: Record actual locations of valves.
+E.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 60 00 - Product Requirements for additional provisions.
+2.
+Valve Repacking Kits: One for each type and size of valve.
+1.5
+QUALITY ASSURANCE
+A.
+Valves: Manufacturer's name and pressure rating marked on valve body.
+B.
+Welder Qualifications: Certified in accordance with ASME BPVC-IX.
+C.
+Identify pipe with marking including size, ASTM material classification, ASTM
+specification, potable water certification, water pressure rating.
+
+
+===== PAGE 46 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 05
+Plumbing Piping
+Page 3 of 7 
+1.6
+DELIVERY, STORAGE, AND HANDLING
+A.
+Accept valves on site in shipping containers with labeling in place. Inspect for damage.
+B.
+Provide temporary protective coating on cast iron and steel valves.
+C.
+Provide temporary end caps and closures on piping and fittings. Maintain in place until
+installation.
+D.
+Protect piping systems from entry of foreign materials by temporary covers, completing
+sections of the work, and isolating parts of completed system.
+1.7
+FIELD CONDITIONS
+A.
+Do not install underground piping when bedding is wet or frozen.
+PART 2 PRODUCTS
+2.1
+GENERAL REQUIREMENTS
+A.
+Potable Water Supply Systems: Provide piping, pipe fittings, and solder and flux (if
+used), that comply with NSF 61 and NSF 372 for maximum lead content; label pipe and
+fittings.
+2.2
+SANITARY WASTE PIPING, BURIED WITHIN 5 FEET (1500 MM) OF BUILDING
+A.
+PVC Pipe: ASTM D2665 or ASTM D3034.
+1.
+Fittings: PVC.
+2.
+Joints: Solvent welded, with ASTM D2564 solvent cement.
+2.3
+SANITARY WASTE PIPING, ABOVE GRADE
+A.
+Cast Iron Pipe: CISPI 301, hubless, service weight.
+1.
+Fittings: Cast iron.
+2.
+Joints: CISPI 310, neoprene gaskets and stainless steel clamp-and-shield
+assemblies.
+2.4
+DOMESTIC WATER PIPING, BURIED WITHIN 5 FEET (1500 MM) OF BUILDING
+A.
+Copper Pipe: ASTM B42, hard drawn.
+1.
+Fittings: ASME B16.18, cast copper alloy or ASME B16.22 wrought copper and
+bronze.
+2.
+Joints: ASTM B32, alloy Sn95 solder.
+2.5
+DOMESTIC WATER PIPING, ABOVE GRADE
+A.
+Copper Tube: ASTM B88 (ASTM B88M), Type L (B), Drawn (H).
+1.
+Fittings: ASME B16.18, cast copper alloy or ASME B16.22, wrought copper
+and bronze.
+2.
+Joints: ASTM B32, alloy Sn95 solder.
+3.
+Mechanical Press Sealed Fittings: Double-pressed type, NSF 61 and NSF 372
+approved or certified, utilizing EPDM, nontoxic, synthetic rubber sealing
+elements.
+2.6
+STORM DRAINAGE PIPING, BURIED WITHIN 5 FEET (1500 MM) OF BUILDING
+A.
+PVC Pipe: ASTM D2665 or ASTM D3034.
+1.
+Fittings: PVC.
+2.
+Joints: Solvent welded, with ASTM D2564 solvent cement.
+2.7
+STORM DRAINAGE PIPING, ABOVE GRADE
+A.
+Cast Iron Pipe: CISPI 301, hubless, service weight.
+
+
+===== PAGE 47 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 05
+Plumbing Piping
+Page 4 of 7 
+1.
+Fittings: Cast iron.
+2.
+Joints: Neoprene gaskets and stainless steel clamp-and-shield assemblies.
+2.8
+NATURAL GAS PIPING, ABOVE GRADE
+A.
+Steel Pipe: ASTM A53/A53M Schedule 40 black.
+1.
+Fittings: ASME B16.3, malleable iron, or ASTM A234/A234M, wrought steel
+welding type.
+2.
+Joints: Threaded or welded to ASME B31.1.
+2.9
+PIPE FLANGES, UNIONS, AND COUPLINGS
+A.
+Unions for Pipe Sizes 3 inch (80 mm, DN) and Under:
+1.
+Copper Tube and Pipe: Class 150 bronze unions with soldered joints.
+B.
+Flanges for Pipe Sizes Over 1 inch (25 mm, DN):
+1.
+Copper Tube and Pipe: Class 150 slip-on bronze flanges; preformed neoprene
+gaskets.
+C.
+Mechanical Couplings for Grooved and Shouldered Joints: Two or more curved housing
+segments with continuous key to engage pipe groove, circular C-profile gasket, and bolts
+to secure and compress gasket.
+1.
+Dimensions and Testing: In accordance with AWWA C606.
+2.
+Housing Material: Provide ASTM A47/A47M malleable iron or ductile iron,
+galvanized.
+3.
+Gasket Material: EPDM suitable for operating temperature range from minus 30
+degrees F (minus 34 degrees C) to 230 degrees F (110 degrees C).
+4.
+Bolts and Nuts: Hot dipped galvanized or zinc-electroplated steel.
+5.
+When pipe is field grooved, provide coupling manufacturer's grooving tools.
+D.
+No-Hub Couplings:
+1.
+Testing: In accordance with ASTM C1277 and CISPI 310.
+2.
+Gasket Material: Neoprene complying with ASTM C564.
+3.
+Band Material: Stainless steel.
+4.
+Eyelet Material: Stainless steel.
+2.10
+PIPE HANGERS AND SUPPORTS
+A.
+Provide hangers and supports that comply with MSS SP-58.
+1.
+If type of hanger or support for a particular situation is not indicated, select
+appropriate type using MSS SP-58 recommendations.
+2.
+Overhead Supports: Individual steel rod hangers attached to structure or to
+trapeze hangers.
+3.
+Trapeze Hangers: Welded steel channel frames attached to structure.
+4.
+Vertical Pipe Support: Steel riser clamp.
+B.
+Plumbing Piping - Drain, Waste, and Vent:
+1.
+Hangers for Pipe Sizes 1/2 to 1-1/2 inch (15 to 40 mm, DN): Malleable iron,
+adjustable swivel, split ring.
+2.
+Hangers for Pipe Sizes 2 inch (50 mm, DN) and Over: Carbon steel, adjustable,
+clevis.
+
+
+===== PAGE 48 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 05
+Plumbing Piping
+Page 5 of 7 
+3.
+Floor Support: Cast iron adjustable pipe saddle, lock nut, nipple, floor flange,
+and concrete pier or steel support.
+C.
+Plumbing Piping - Water:
+1.
+Hangers for Pipe Sizes 1/2 to 1-1/2 inch (15 to 40 mm, DN): Malleable iron,
+adjustable swivel, split ring.
+2.
+Hangers for Cold Pipe Sizes 2 inch (50 mm, DN) and Over: Carbon steel,
+adjustable, clevis.
+3.
+Hangers for Hot Pipe Sizes 2 to 4 inch (50 to 100 mm, DN): Carbon steel,
+adjustable, clevis.
+4.
+Copper Pipe Support: Carbon steel ring, adjustable, copper plated.
+PART 3 EXECUTION
+3.1
+EXAMINATION
+A.
+Verify that excavations are to required grade, dry, and not over-excavated.
+3.2
+PREPARATION
+A.
+Ream pipe and tube ends. Remove burrs. Bevel plain end ferrous pipe.
+B.
+Remove scale and dirt, on inside and outside, before assembly.
+C.
+Prepare piping connections to equipment with flanges or unions.
+3.3
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Provide non-conducting dielectric connections wherever jointing dissimilar metals.
+C.
+Route piping in orderly manner and maintain gradient. Route parallel and perpendicular
+to walls.
+D.
+Install piping to maintain headroom, conserve space, and not interfere with use of space.
+E.
+Group piping whenever practical at common elevations.
+F.
+Install piping to allow for expansion and contraction without stressing pipe, joints, or
+connected equipment. See Section 22 05 16.
+G.
+Provide clearance in hangers and from structure and other equipment for installation of
+insulation and access to valves and fittings.
+H.
+Provide access where valves and fittings are not exposed.
+1.
+Coordinate size and location of access doors with Section 08 31 00.
+I.
+Establish elevations of buried piping outside the building to ensure not less than 2 ft
+(_____ m) of cover.
+J.
+Excavate in accordance with Section 31 23 16.
+K.
+Backfill in accordance with Section 31 23 16.13.
+L.
+Install valves with stems upright or horizontal, not inverted. See Section 22 05 23.
+M.
+Copper Pipe and Tube: Make soldered joints in accordance with ASTM B828, using
+specified solder, and flux meeting ASTM B813; in potable water systems use flux also
+complying with NSF 61 and NSF 372.
+N.
+PVC Pipe: Make solvent-welded joints in accordance with ASTM D2855.
+3.4
+APPLICATION
+A.
+Use grooved mechanical couplings and fasteners only in accessible locations.
+B.
+Install unions downstream of valves and at equipment or apparatus connections.
+
+
+===== PAGE 49 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 05
+Plumbing Piping
+Page 6 of 7 
+C.
+Install brass male adapters each side of valves in copper piped system. Solder adapters to
+pipe.
+D.
+Install ball or butterfly valves for shut-off and to isolate equipment, part of systems, or
+vertical risers.
+E.
+Provide spring-loaded check valves on discharge of water pumps.
+F.
+Provide flow controls in water recirculating systems where indicated.
+3.5
+TOLERANCES
+A.
+Drainage Piping: Establish invert elevations within 1/2 inch (10 mm) vertically of
+location indicated and slope to drain at minimum of 1/4 inch per foot (1:50) slope for
+piping 3" and smaller and 1/8 inch per foot slope for piping 4" and larger.
+3.6
+FIELD TESTS AND INSPECTIONS
+A.
+Verify and inspect systems according to requirements by the Authority Having
+Jurisdiction. In the absence of specific test and inspection procedures proceed as
+indicated below.
+B.
+Domestic Water Systems:
+1.
+Perform hydrostatic testing for leakage prior to system disinfection.
+2.
+Test Preparation: Close each fixture valve or disconnect and cap each connected
+fixture.
+3.
+General:
+a.
+Fill the system with water and raise static head to 10 psi (345 kPa) above
+service pressure. Minimum static head of 50 to 150 psi (345 to 1,034
+kPa). As an exception, certain codes allow a maximum static pressure of
+80 psi (551.6 kPa).
+C.
+Gas Distribution Systems:
+1.
+Test Preparation: Close each appliance valve or disconnect and cap each
+connected appliance.
+2.
+General Systems:
+a.
+Inject a minimum of 10 psi (68.9 kPa) of compressed air into the piping
+system for a duration of 15 minutes and verify with a gauge that no
+perceptible pressure drop is measured.
+b.
+Ensure test pressure gauge has a range of twice the specific pressure rate
+selected with an accuracy of 1/10 of 1 pound (0.45 kg).
+D.
+Test Results: Document and certify successful results, otherwise repair, document, and
+retest.
+3.7
+DISINFECTION OF DOMESTIC WATER PIPING SYSTEM
+A.
+Prior to starting work, verify system is complete, flushed, and clean.
+B.
+Ensure acidity (pH) of water to be treated is between 7.4 and 7.6 by adding alkali (caustic
+soda or soda ash) or acid (hydrochloric).
+C.
+Inject disinfectant, free chlorine in liquid, powder, tablet, or gas form throughout system
+to obtain 50 to 80 mg/L residual.
+D.
+Bleed water from outlets to ensure distribution and test for disinfectant residual at
+minimum 15 percent of outlets.
+
+
+===== PAGE 50 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 05
+Plumbing Piping
+Page 7 of 7 
+E.
+Maintain disinfectant in system for 24 hours.
+F.
+If final disinfectant residual tests less than 25 mg/L, repeat treatment.
+G.
+Flush disinfectant from system until residual equal to that of incoming water or 1.0 mg/L.
+H.
+Take samples no sooner than 24 hours after flushing, from 10 percent of outlets and from
+water entry, and analyze in accordance with AWWA C651.
+3.8
+SCHEDULES
+A.
+Pipe Hanger Spacing:
+1.
+Metal Piping:
+a.
+Pipe Size: 1/2 inch (15 mm, DN) to 1-1/4 inch (32 mm, DN):
+1)
+Maximum Hanger Spacing: 6.5 ft (2 m).
+2)
+Hanger Rod Diameter: 3/8 inches (9 mm).
+b.
+Pipe Size: 1-1/2 inch (40 mm, DN) to 2 inch (50 mm, DN):
+1)
+Maximum Hanger Spacing: 10 ft (3 m).
+2)
+Hanger Rod Diameter: 3/8 inch (9 mm).
+c.
+Pipe Size: 2-1/2 inch (65 mm, DN) to 3 inch (80 mm, DN):
+1)
+Maximum Hanger Spacing: 10 ft (3 m).
+2)
+Hanger Rod Diameter: 1/2 inch (13 mm).
+d.
+Pipe Size: 4 inch (100 mm, DN) to 6 inch (150 mm, DN):
+1)
+Maximum Hanger Spacing: 10 ft (3 m).
+2)
+Hanger Rod Diameter: 5/8 inch (15 mm).
+END OF SECTION
+
+
+===== PAGE 51 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 06
+Plumbing Piping Specialties
+Page 1 of 3 
+SECTION 22 10 06
+PLUMBING PIPING SPECIALTIES
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Drains.
+B.
+Cleanouts.
+C.
+Hydrants.
+D.
+Water hammer arrestors.
+E.
+Mixing valves.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 22 10 05 - Plumbing Piping.
+B.
+Section 22 30 00 - Plumbing Equipment.
+C.
+Section 22 40 00 - Plumbing Fixtures.
+1.3
+REFERENCE STANDARDS
+A.
+ASME A112.6.3 - Floor and Trench Drains; 2019.
+B.
+ASSE 1019 - Performance Requirements for Wall Hydrant with Backflow Protection and
+Freeze Resistance; 2011 (Reaffirmed 2016).
+C.
+NSF 61 - Drinking Water System Components - Health Effects; 2020.
+D.
+NSF 372 - Drinking Water System Components - Lead Content; 2020.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide component sizes, rough-in requirements, service sizes, and
+finishes.
+C.
+Manufacturer's Instructions: Indicate Manufacturer's Installation Instructions: Indicate
+assembly and support requirements.
+D.
+Operation Data: Indicate frequency of treatment required for interceptors.
+E.
+Maintenance Data: Include installation instructions, spare parts lists, exploded assembly
+views.
+F.
+Project Record Documents: Record actual locations of equipment, cleanouts, backflow
+preventers, and water hammer arrestors.
+G.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 60 00 - Product Requirements for additional provisions.
+2.
+Extra Loose Keys for Outside Hose Bibbs: One.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Accept specialties on site in original factory packaging. Inspect for damage.
+PART 2 PRODUCTS
+2.1
+GENERAL REQUIREMENTS
+A.
+Specialties in Potable Water Supply Systems: Provide products that comply with NSF 61
+and NSF 372 for maximum lead content.
+2.2
+DRAINS
+A.
+Manufacturers:
+1.
+Jay R. Smith Manufacturing Company​: www.jrsmith.com/#sle.
+
+
+===== PAGE 52 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 06
+Plumbing Piping Specialties
+Page 2 of 3 
+2.
+Josam Company​: www.josam.com/#sle.
+3.
+MIFAB, Inc​: www.mifab.com/#sle.
+4.
+Zurn Industries, LLC​: www.zurn.com/#sle.
+B.
+Floor Drain:
+1.
+ASME A112.6.3; lacquered cast iron or stainless steel, two piece body with
+double drainage flange, weep holes, reversible clamping collar, and round,
+adjustable nickel-bronze strainer.
+C.
+Floor Sink:
+1.
+​Square​ lacquered cast iron body with integral seepage pan, epoxy coated interior,
+​aluminum​ dome strainer, ​nickel bronze frame,​ ​half grate​.
+2.3
+CLEANOUTS
+A.
+Manufacturers:
+1.
+Jay R. Smith Manufacturing Company: www.jrsmith.com/#sle.
+2.
+Josam Company: www.josam.com/#sle.
+3.
+MIFAB, Inc: www.mifab.com/#sle.
+4.
+Zurn Industries, LLC: www.zurn.com/#sle.
+B.
+Cleanouts at Exterior Surfaced Areas:
+1.
+Round cast nickel bronze access frame and non-skid cover.
+C.
+Cleanouts at Exterior Unsurfaced Areas:
+1.
+Line type with lacquered cast iron body and round epoxy coated gasketed cover.
+D.
+Cleanouts at Interior Finished Floor Areas:
+1.
+Lacquered cast iron body with anchor flange, reversible clamping collar,
+threaded top assembly, and round gasketed scored cover in service areas and
+round gasketed depressed cover to accept floor finish in finished floor areas.
+E.
+Cleanouts at Interior Finished Wall Areas:
+1.
+Line type with lacquered cast iron body and round epoxy coated gasketed cover,
+and round stainless steel access cover secured with machine screw.
+2.4
+HYDRANTS
+A.
+Manufacturers:
+1.
+Jay R. Smith Manufacturing Company; _____: www.jrsmith.com/#sle.
+2.
+Zurn Industries, LLC; _____: www.zurn.com/#sle.
+B.
+Wall Hydrants:
+1.
+ASSE 1019, freeze resistant, self-draining, hose thread spout, and integral
+vacuum breaker.
+2.5
+WATER HAMMER ARRESTORS
+A.
+Manufacturers:
+1.
+Jay R. Smith Manufacturing Company; ______: www.jrsmith.com/#sle.
+2.
+Watts Regulator Company, a part of Watts Water Technologies; ______:
+ www.wattsregulator.com/#sle.
+3.
+Zurn Industries, LLC; ______: www.zurn.com/#sle.
+B.
+Water Hammer Arrestors:
+
+
+===== PAGE 53 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 10 06
+Plumbing Piping Specialties
+Page 3 of 3 
+2.6
+MIXING VALVES
+A.
+Thermostatic Mixing Valves:
+1.
+Manufacturers:
+a.
+Leonard Valve Company; ______: www.leonardvalve.com/#sle.
+b.
+Symmons: [_____]: www.symmons.com
+2.
+Valve: Chrome-plated cast brass body, stainless steel or copper alloy bellows,
+integral temperature adjustment.
+3.
+Accessories:
+a.
+Check valve on inlets.
+B.
+Thermostatic Master Mixing Valves:
+1.
+Manufacturers:
+a.
+Leonard [_____]: www.leonardvalve.com
+b.
+Watts [_____]: www.watts.com
+2.
+Valve: Chrome-plated cast brass body, stainless steel or copper alloy bellows,
+integral temperature adjustment.
+3.
+Accessories:
+a.
+Check valve on inlets.
+b.
+Stem thermometer on outlet.
+4.
+Cabinet: 16 gauge, 0.0598 inch (1.52 mm) prime-coated steel, for surface
+mounting with keyed lock.
+PART 3 EXECUTION
+3.1
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Extend cleanouts to finished floor or wall surface. Lubricate threaded cleanout plugs
+with mixture of graphite and linseed oil. Ensure clearance at cleanout for rodding of
+drainage system.
+C.
+Encase exterior cleanouts in concrete flush with grade.
+D.
+Install floor cleanouts at elevation to accommodate finished floor.
+E.
+Install water hammer arrestors on hot and cold water supply piping to as indicated on
+drawings..
+END OF SECTION
+
+
+===== PAGE 54 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 30 00
+Plumbing Equipment
+Page 1 of 4 
+SECTION 22 30 00
+PLUMBING EQUIPMENT
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Commercial electric water heaters.
+B.
+Diaphragm-type compression tanks.
+C.
+In-line circulator pumps.
+D.
+Pressure booster systems.
+E.
+Submersible sump pumps.
+1.2
+REFERENCE STANDARDS
+A.
+ASHRAE Std 90.1 I-P - Energy Standard for Buildings Except Low-Rise Residential
+Buildings; Most Recent Edition Adopted by Authority Having Jurisdiction, Including All
+Applicable Amendments and Supplements.
+B.
+ASME BPVC-VIII-1 - Boiler and Pressure Vessel Code, Section VIII, Division 1: Rules
+for Construction of Pressure Vessels; 2021.
+C.
+NEMA EN 10250 - Enclosures for Electrical Equipment (1000 Volts Maximum); 2024.
+1.3
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittals procedures.
+B.
+Product Data:
+1.
+Product Data: Provide manufacturer's literature and data sheets for each product.
+Include information on materials of fabrication, assembly of components,
+dimensions, weights, capabilities, performance, electrical characteristics, location
+and sizes of connections, service and access locations, and manufacturer-
+provided and field-installed accessories.
+2.
+Provide dimension drawings of water heaters indicating components and
+connections to other equipment and piping.
+3.
+Indicate pump type, capacity, power requirements.
+4.
+Provide certified pump curves showing pump performance characteristics with
+pump and system operating point plotted. Include NPSH curve when applicable.
+5.
+Provide electrical characteristics and connection requirements.
+C.
+Project Record Documents: Record actual locations of components.
+D.
+Operation and Maintenance Data: Include operation, maintenance, and inspection data,
+replacement part numbers and availability, and service depot location and telephone
+number.
+E.
+Warranty Documentation: Submit manufacturer warranty and ensure that forms have
+been completed in Owner's name and registered with manufacturer.
+F.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 60 00 - Product Requirements for additional provisions.
+2.
+Extra Pump Seals: One of each type and size.
+1.4
+QUALITY ASSURANCE
+A.
+Identification: Provide pumps with manufacturer's name, model number, and
+rating/capacity identified by permanently attached label.
+
+
+===== PAGE 55 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 30 00
+Plumbing Equipment
+Page 2 of 4 
+B.
+Performance: Ensure pumps operate at specified system fluid temperatures without
+vapor binding and cavitation, are non-overloading in parallel or individual operation,
+operate within 25 percent of midpoint of published maximum efficiency curve.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Provide temporary inlet and outlet caps. Maintain caps in place until installation.
+1.6
+WARRANTY
+A.
+See Section 01 78 00 - Closeout Submittals for additional warranty requirements.
+B.
+Provide five year manufacturer warranty for domestic water heaters.
+PART 2 PRODUCTS
+2.1
+WATER HEATERS
+A.
+Manufacturers:
+1.
+A.O. Smith Water Products Co: www.hotwater.com/#sle.
+2.
+Rheem Manufacturing Company: www.rheem.com/#sle.
+3.
+Lochinvar: www.lochinvar.com__________.
+4.
+Substitutions: See Section 01 60 00 - Product Requirements.
+B.
+Commercial Electric Water Heaters:
+1.
+Type: Factory-assembled and wired, electric, vertical storage.
+2.
+Minimum Efficiency Required: ASHRAE Std 90.1 I-P.
+3.
+Performance:Refer to plans.
+4.
+Electrical Characteristics: Refer to plans.
+5.
+Tank: Glass lined welded steel; 4 inch (100 mm) diameter inspection port,
+thermally insulated with minimum 2 inches (50 mm) glass fiber encased in
+corrosion-resistant steel jacket; baked-on enamel finish.
+6.
+Controls: Automatic immersion water thermostat; externally adjustable
+temperature range from 60 to 180 degrees F (16 to 82 degrees C), flanged or
+screw-in nichrome elements, high temperature limit thermostat.
+7.
+Accessories:
+a.
+Water Connections: Brass.
+b.
+Dip Tube: Brass.
+c.
+Drain valve.
+d.
+Anode: Magnesium.
+8.
+Heating Elements: Flange-mounted immersion elements; individual elements
+sheathed with Incoloy corrosion-resistant metal alloy, rated less than 75 W/sq in
+(11.6 W/sq m).
+2.2
+DIAPHRAGM-TYPE COMPRESSION TANKS
+A.
+Manufacturers:
+1.
+Amtrol Inc: www.amtrol.com/#sle.
+2.
+Bell & Gossett, a brand of Xylem, Inc: www.bellgossett.com/#sle.
+3.
+Taco, Inc: www.taco-hvac.com/#sle.
+4.
+Substitutions: See Section 01 60 00 - Product Requirements.
+
+
+===== PAGE 56 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 30 00
+Plumbing Equipment
+Page 3 of 4 
+B.
+Construction: Welded steel, tested and stamped in accordance with ASME BPVC-VIII-
+1; supplied with National Board Form U-1, rated for working pressure of 125 psig (860
+kPa), with flexible EPDM diaphragm sealed into tank, and steel legs or saddles.
+C.
+Accessories: Pressure gauge and air-charging fitting, tank drain; precharge to 12 psig (80
+kPa).
+2.3
+IN-LINE CIRCULATOR PUMPS
+A.
+Manufacturers:
+1.
+Armstrong Fluid Technology: www.armstrongfluidtechnology.com/#sle.
+2.
+Bell & Gossett, a brand of Xylem, Inc: www.bellgossett.com/#sle.
+3.
+Taco, Inc[<>]: www.taco-hvac.com/#sle.
+4.
+Substitutions: See Section 01 60 00 - Product Requirements.
+B.
+Casing: Bronze, rated for 125 psig (860 kPa) working pressure, with stainless steel rotor
+assembly.
+C.
+Impeller: Bronze.
+D.
+Shaft: Alloy steel with integral thrust collar and two oil lubricated bronze sleeve
+bearings.
+E.
+Seal: Carbon rotating against a stationary ceramic seat.
+F.
+Drive: Flexible coupling.
+2.4
+ELECTRICAL WORK
+A.
+Provide electrical motor driven equipment specified complete with motors, motor
+starters, controls, and wiring.
+B.
+Electrical characteristics to be as specified or indicated.
+C.
+Furnish motor starters complete with thermal overload protection and other
+appurtenances necessary for the motor control specified.
+D.
+Supply manual or automatic control and protective or signal devices required for the
+operation specified, and any control wiring required for controls and devices not shown.
+PART 3 EXECUTION
+3.1
+INSTALLATION
+A.
+Install plumbing equipment in accordance with manufacturer's instructions, as required
+by code, and complying with conditions of certification, if any.
+B.
+Coordinate with plumbing piping and related ​electrical​ work to achieve operating system.
+C.
+Domestic Water Storage Tanks:
+1.
+Provide steel pipe support, independent of building structural framing members.
+2.
+Clean and flush after installation. Seal until pipe connections are made.
+D.
+Pumps:
+1.
+Decrease from line size with long radius reducing elbows or reducers. Support
+piping adjacent to pump such that no weight is carried on pump casings. Provide
+supports under elbows on pump suction and discharge line sizes 4 inches (100
+mm) and over.
+
+
+===== PAGE 57 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 30 00
+Plumbing Equipment
+Page 4 of 4 
+2.
+Ensure pumps operate at specified system fluid temperatures without vapor
+binding and cavitation, are non-overloading in parallel or individual operation,
+and operate within 25 percent of midpoint of published maximum efficiency
+curve.
+END OF SECTION
+
+
+===== PAGE 58 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 40 00
+Plumbing Fixtures
+Page 1 of 5 
+SECTION 22 40 00
+PLUMBING FIXTURES
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Flush valve water closets.
+B.
+Wall hung urinals.
+C.
+Lavatories.
+D.
+Under-lavatory pipe supply covers.
+E.
+Bottle filling drinking fountains.
+F.
+Service sinks.
+1.2
+REFERENCE STANDARDS
+A.
+ADA Standards - Americans with Disabilities Act (ADA) Standards for Accessible
+Design; 2010.
+B.
+ASME A112.6.1M - Floor-Affixed Supports for Off-the-Floor Plumbing Fixtures for
+Public Use; 1997 (Reaffirmed 2017).
+C.
+ASME A112.18.1 - Plumbing Supply Fittings; 2018, with Errata.
+D.
+ASME A112.18.9 - Protectors/Insulators for Exposed Waste and Supplies on Accessible
+Fixtures; 2011 (Reaffirmed 2017).
+E.
+ASME A112.19.2 - Ceramic Plumbing Fixtures; 2018, with Errata.
+F.
+ASME A112.19.5 - Flush Valves and Spuds for Water Closets, Urinals, and Tanks; 2017.
+G.
+ASSE 1070 - Performance Requirements for Water Temperature Limiting Devices; 2020.
+H.
+ICC A117.1 - Accessible and Usable Buildings and Facilities; 2017.
+I.
+NSF 372 - Drinking Water System Components - Lead Content; 2020.
+1.3
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide catalog illustrations of fixtures, sizes, rough-in dimensions, utility
+sizes, trim, and finishes.
+C.
+Manufacturer's Instructions: Indicate installation methods and procedures.
+D.
+Maintenance Data: Include fixture trim exploded view and replacement parts lists.
+E.
+Warranty: Submit manufacturer warranty and ensure forms have been completed in
+Owner's name and registered with manufacturer.
+F.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 60 00 - Product Requirements for additional provisions.
+2.
+Extra Lavatory Supply Fittings: One set of each type and size.
+3.
+Extra Shower Heads: One of each type and size.
+4.
+Flush Valve Service Kits: One for each type and size.
+1.4
+DELIVERY, STORAGE, AND HANDLING
+A.
+Accept fixtures on site in factory packaging. Inspect for damage.
+B.
+Protect installed fixtures from damage by securing areas and by leaving factory
+packaging in place to protect fixtures and prevent use.
+1.5
+WARRANTY
+A.
+See Section 01 78 00 - Closeout Submittals for additional warranty requirements.
+
+
+===== PAGE 59 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 40 00
+Plumbing Fixtures
+Page 2 of 5 
+B.
+Provide five year manufacturer warranty for electric water cooler.
+PART 2 PRODUCTS
+2.1
+GENERAL REQUIREMENTS
+A.
+Potable Water Systems: Provide plumbing fittings and faucets that comply with NSF 61
+and NSF 372 for maximum lead content; label pipe and fittings.
+B.
+ADA: Where indicated to be ADA-compliant, provide fixtures complying with ADA
+Standards and ICC A117.1.
+C.
+Maximum Fixture or Faucet Supply Pressure: 80 psi (_____ bar) unless stated otherwise.
+2.2
+REGULATORY REQUIREMENTS
+A.
+Comply with applicable codes for installation of plumbing systems.
+B.
+Perform work in accordance with local health department regulations.
+2.3
+FLUSH VALVE WATER CLOSETS
+A.
+Water Closets:
+1.
+Vitreous china, ASME A112.19.2, wall-mounted / floor-mounted (refer to plans),
+siphon jet flush action, china bolt caps.
+2.
+Bown: Elongated rim.
+3.
+Flush Valve: Exposed (top spud).
+4.
+Flush Operation: Manual, oscillating handle.
+5.
+Handle Height: 44 inches (1117 mm) or less.
+6.
+Inlet Size: 1-1/2 inches (38 mm).
+7.
+Trapway Outlet: 4 inch (100 mm, DN).
+8.
+Color: White.
+9.
+Manufacturers (WC-1 - Wall-Mounted):
+a.
+American Standard, Inc: Model 3351.101 (www.americanstandard-
+us.com).
+b.
+Kohler Company: Model K-4325 (www.kohler.com).
+c.
+Toto: Model CT708E (www.totousa.com).
+10.
+Manufacturers (WC-2 - Floor-Mounted):
+a.
+American Standard, Inc: Model 2854 (www.americanstandard-us.com)
+b.
+Kohler Company: Model K-25076 (www.kohler.com)
+c.
+Toto: Model CT705EN (www.totousa.com)
+11.
+Manufacturers (WC-3 - Primary):
+a.
+American Standard, Inc: Model 2282(www.americanstandard-us.com)
+b.
+Kohler Company: Model K-96064 (www.kohler.com)
+B.
+Flush Valves:
+1.
+Valve Supply Size: 1-1/2 inches (40 mm, DN).
+2.
+Manufacturers:
+a.
+Sloan Valve Company; Royal Model 111: www.sloanvalve.com/#sle.
+b.
+Zurn Industries, LLC; Aquaflush Model Z6000-WS1:
+ www.zurn.com/#sle.
+3.
+Manual Operated:
+
+
+===== PAGE 60 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 40 00
+Plumbing Fixtures
+Page 3 of 5 
+a.
+Type: ASME A112.18.1 or ASME A112.19.5; diaphragm type complete
+with vacuum breaker stops, and accessories.
+b.
+Supplied Volume Capacity: 1.28 gal (____ L) per flush.
+4.
+Exposed Type: Chrome-plated, escutcheon, integral screwdriver stop.
+C.
+Toilet Seats:
+1.
+Manufacturers:
+a.
+American Standard, Inc: www.americanstandard-us.com/#sle.
+b.
+Bemis Manufacturing Company: www.bemismfg.com/#sle.
+c.
+Church Seat Company: www.churchseats.com/#sle.
+d.
+Olsonite: www.olsonite.com/#sle.
+2.
+Plastic: Solid, white finish, enlongated shape, open front, extended back
+complete with self-sustaining hinges, and brass bolts with covers.
+D.
+Water Closet Carriers:
+1.
+Manufacturers:
+a.
+Jay R. Smith Manufacturing Company: www.jrsmith.com/#sle.
+b.
+JOSAM Company: www.josam.com/#sle.
+c.
+Zurn Industries, LLC: www.zurn.com/#sle.
+2.
+ASME A112.6.1M; adjustable cast iron frame, integral drain hub and vent,
+adjustable spud, lugs for floor and wall attachment, threaded fixture studs with
+nuts and washers.
+2.4
+WALL HUNG URINALS
+A.
+Manufacturers:
+1.
+American Standard, Inc; Model Washbrook Model 6501:
+ www.americanstandard-us.com/#sle.
+2.
+Kohler Company; Model Bardon K-4991-ET: www.kohler.com/#sle.
+3.
+Toto: Model UT477EX: www.toto-usa.com
+B.
+Vitreous china, ASME A112.19.2, wall hung with side shields and concealed carrier.
+1.
+Consumption Volume: 0.5 gal (1.9 L) per flush, maximum.
+2.
+Flush Style: Washout.
+3.
+Flush Valve: Exposed (top spud).
+4.
+Flush Operation: Manual, oscillating handle.
+5.
+Trapway Outlet: Integral.
+6.
+Removable stainless steel strainer.
+7.
+Supply Size: 3/4 inch (19 mm).
+8.
+Outlet Size and Location: 2 inches (50 mm), bottom side.
+C.
+Flush Valves:
+1.
+Manufacturers:
+a.
+Sloan Valve Company; Royal 180-0.5: www.sloanvalve.com/#sle.
+b.
+Zurn Industries, LLC; Aquaflush Z6003-WS1: www.zurn.com/#sle.
+2.
+Manual Operated:
+a.
+Type: ASME A112.18.1 or ASME A112.19.5; diaphragm type,
+complete with vacuum breaker stops, and accessories.
+
+
+===== PAGE 61 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 40 00
+Plumbing Fixtures
+Page 4 of 5 
+b.
+Supplied Volume Capacity: 1.5 gal (5.7 L) per flush.
+3.
+Exposed Type: Chrome-plated, escutcheon, integral screwdriver stop.
+D.
+Urinal Carriers:
+1.
+Manufacturers:
+a.
+Jay R. Smith Manufacturing Company: www.jrsmith.com/#sle.
+b.
+JOSAM Company: www.josam.com/#sle.
+c.
+Zurn Industries, LLC: www.zurn.com/#sle.
+2.
+ASME A112.6.1M; cast iron and steel frame with tubular legs, lugs for floor and
+wall attachment, threaded fixture studs for fixture hanger, bearing studs.
+2.5
+LAVATORIES
+A.
+Wall-Hung Basin:
+1.
+Carrier:
+a.
+ASME A112.6.1M; cast iron and steel frame with tubular legs, lugs for
+floor and wall attachment, threaded studs for fixture hanger, bearing
+plate and studs.
+b.
+Manufacturers:
+1)
+Jay R. Smith MFG. Co: www.jrsmith.com/#sle.
+2)
+JOSAM Company: www.josam.com/#sle.
+3)
+Zurn Industries, LLC: www.zurn.com/#sle.
+B.
+Thermostatic Mixing Valve:
+1.
+ASSE 1070 listed with combination stop, strainer, and check valves, and flexible
+stainless steel connectors.
+2.
+Slip-joint P-trap.
+3.
+Braided hot and cold water supply lines.
+4.
+Chrome plated 17 gauge, 0.0538 inch (1.37 mm) brass P-trap with clean-out plug
+and arm with escutcheon.
+2.6
+UNDER-LAVATORY PIPE SUPPLY COVERS
+A.
+General:
+1.
+Insulate exposed drainage piping including hot, cold and tempered water supplies
+under lavatories or sinks per ADA Standards.
+2.
+Construction: 1/8 inch (3.2 mm) PVC with antimicrobial, antifungal and UV
+resistant properties.
+a.
+Comply with ASME A112.18.9 for covers on accessible lavatory piping.
+b.
+Comply with ICC A117.1.
+PART 3 EXECUTION
+3.1
+EXAMINATION
+A.
+Verify that walls and floor finishes are prepared and ready for installation of fixtures.
+B.
+Verify rough-ins for field connections match sizes and locations shown on drawings.
+C.
+Verify that electric power is available and of the correct characteristics.
+D.
+Confirm that millwork is constructed with adequate provision for the installation of
+counter top lavatories and sinks.
+
+
+===== PAGE 62 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+22 40 00
+Plumbing Fixtures
+Page 5 of 5 
+3.2
+PREPARATION
+A.
+Rough-in fixture piping connections in accordance with minimum sizes indicated in
+fixture rough-in schedule for particular fixtures.
+3.3
+INSTALLATION
+A.
+Install products in accordance with manufacturer's instructions.
+B.
+Install each fixture with trap, easily removable for servicing and cleaning.
+C.
+Provide chrome-plated rigid or flexible supplies to fixtures with loose key stops,
+reducers, and escutcheons.
+D.
+Install components level and plumb.
+E.
+Secure fixtures in place.
+F.
+Install rigid or flexible supplies to fixtures. Provide supply stops, reducers, and
+escutcheons.
+G.
+Install and secure fixtures in place with wall supports and bolts.
+H.
+Solidly attach water closets to floor with lag screws. Lead flashing is not intended hold
+fixture in place.
+3.4
+ADJUSTING
+A.
+Adjust stops or valves for intended water flow rate to fixtures without splashing, noise, or
+overflow.
+3.5
+CLEANING
+A.
+See Section 01 70 00 - Execution and Closeout Requirements for additional
+requirements.
+B.
+Clean plumbing fixtures to remove dirt, fingerprints, paint, or other foreign material and
+restore finishes to match original factory finish.
+C.
+Clean plumbing fixtures and equipment.
+3.6
+PROTECTION
+A.
+Protect installed products from damage due to subsequent construction operations.
+B.
+Do not permit use of fixtures by construction personnel.
+C.
+Repair or replace damaged products before Date of Substantial Completion.
+END OF SECTION

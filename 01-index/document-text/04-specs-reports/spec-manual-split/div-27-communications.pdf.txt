@@ -1,0 +1,441 @@
+
+===== PAGE 1 =====
+Nye County School District                                   Bid Documents
+Tonopah HS Field Replacement                                 
+                                                                               April 20, 2026
+27 00 00
+Communications - General 
+Page 1 of 7
+SECTION 27 00 00
+COMMUNICATIONS - GENERAL
+PART  1  GENERAL
+1.1 
+OVERVIEW
+A. 
+Contractor is expected to furnish and install a complete and operational network cabling 
+infrastructure (cable and connectivity) for Technology-related systems.  Connectivity 
+includes jacks, modular plugs, copper and fiber patch panels, fiber optic connectors, pre-
+terminated copper and fiber optic patch cords, and fiber optic insert panels (couplers for 
+panels), and faceplates. Cable would include the fiber optic cable used for backbone runs to 
+HS and Copper Category cable used for cameras, IP speakers, and Wireless Access Points.
+1. 
+This also includes furnishing and installing networking equipment (network switches) 
+and associated UPS (uninterruptible power supplies) to support the equipment 
+plugged into the switches (IP Clock/Intercom Speakers, Wireless Access Points, 
+computer workstations or VoIP phones, and surveillance cameras). 
+a. 
+Due to exact loads not being known, contractor shall use the wattage of the 
+power supply for a given switch when calculating run time.
+2. 
+The Video Surveillance System cameras are required to be installed on a parallel 
+network with separate fiber optic strands in the backbone connecting to a different 
+switch in the ER at the HS.  Coordinate with Owner for configuration information, IP 
+address schemes and ranges, VLANS, and which switch and switch port(s) to use 
+back at the HS.  Contractor shall not patch cameras into same switch being used for 
+the IP speakers, wireless access points, or workstation/VoIP ports.
+B. 
+Contractor shall furnish and install all fiber optic patch cords and copper patch cords of the 
+appropriate length, and match the performance of the patch panels and horizontal copper or 
+backbone fiber optic cable and connector type being interconnected.
+1.2 
+RELATED SECTIONS
+A. 
+Division 26 - Electrical.
+1.3 
+REFERENCES
+A. 
+Institute of Electrical and Electronics Engineers (IEEE):
+1. 
+802.3 Ethernet Standards.
+B. 
+TIA-569
+C. 
+TIA-607
+D. 
+TIA-758
+E. 
+TIA-606
+F. 
+TIA-568
+1.4 
+SUBMITTALS
+
+
+===== PAGE 2 =====
+Nye County School District                                   Bid Documents
+Tonopah HS Field Replacement                                 
+                                                                               April 20, 2026
+27 00 00
+Communications - General 
+Page 2 of 7
+A. 
+Shop Drawings: Include details of construction, interface of equipment, and relationship with 
+adjacent construction.
+B. 
+Product Submittal: Include Compliance letter along with detailed specifications of each 
+product.  
+1. 
+Submit a front sheet index of part numbers and descriptions for easy review and cross 
+reference during submittal review.  Supporting specifications for each item should be 
+presented in the same order within the submittal documents.
+1.5 
+DELIVERY, STORAGE, AND HANDLING
+A. 
+Deliver and store products in manufacturer's unopened packaging bearing the brand name 
+and manufacturer's identification until ready for installation.
+B. 
+Handling: Handle materials to avoid damage.
+1.6 
+PROJECT CONDITIONS
+A. 
+Maintain environmental conditions (temperature, humidity, and ventilation) within limits 
+recommended by manufacturer for optimum results. Do not install products under 
+environmental conditions outside manufacturer's recommended limits.
+1.7 
+SEQUENCING
+A. 
+Ensure that products of this section are supplied to affected trades in time to prevent 
+interruption of construction progress.
+1.8 
+WARRANTY
+A. 
+Provide all manufacturer warranties for performance after installation.
+PART  2  PRODUCTS
+2.1 
+J-HOOKS
+A. 
+Contractor shall use metallic J-Hooks manufactured by Erico Caddy (nVent).  
+1. 
+J-hooks shall be installed no farther than 5’-0” apart from each other to properly 
+support the cabling.
+2. 
+Install to building structure, not ceiling grid stringers, lighting support wires, or other 
+pathways.
+2.2 
+CONDUIT
+A. 
+Use conduit for cabling pathway over hard lid spaces or rooms where there is no ceiling and 
+it is open to structure above.
+B. 
+Conduit installation shall be compliant with TIA-569.
+C. 
+Underground conduit installation and maximum distances shall be compliant with TIA-758.
+2.3 
+INNERDUCT
+A. 
+Innerduct shall be installed for the purpose of providing a continuous, protected cable route 
+for fiber optic cable whenever fiber optic cable exits the conduit sleeve in a room.  Minimum 
+
+
+===== PAGE 3 =====
+Nye County School District                                   Bid Documents
+Tonopah HS Field Replacement                                 
+                                                                               April 20, 2026
+27 00 00
+Communications - General 
+Page 3 of 7
+innerduct sizing shall be one (1”) inch.  Innerduct shall not be considered a substitute for 
+conduit or conduit sleeves when required by specification, drawings or code.  
+2.4 
+FIBER OPTIC CABLE
+A. 
+Approved multimode fiber optic cables meet the Laser Optimized Multimode Fiber 
+specifications in ANSI/TIA 492AAAF (OM4).
+2.5 
+CATEGORY 6A CABLE
+1. 
+Cable shall be Category 6A ANSI/TIA-568.2-D compliant cable.
+2.6 
+PLYWOOD BACKBOARD
+1. 
+Provide and vertically install wall-mounted, fireproofed, ACX, 4’x8’ sheets of plywood 
+backboard (Treated Plywood Terminal Board) on the walls of the IT Room as shown 
+in the drawings.  Contractor shall install backboard with the bottom edge of the 
+backboard at +12” A.F.F. See electrical detail drawings for additional information 
+regarding the total quantity of plywood backboard to be installed.  
+2.7 
+FACEPLATES
+A. 
+Use single gang plastic faceplates with integrated label windows for Category 6A jack 
+locations.
+2.8 
+JACKS
+A. 
+Use Category 6A jacks in faceplates as shown in the drawings. 
+PART  3  EXECUTION
+3.1 
+INSTALLATION
+A. 
+Category 6A Cabling.
+1. 
+Cabling shall be installed above ceilings in conduit or j-hooks.  Conduit pathways shall 
+be required in rooms which have exposed structure above, or when cable has to pass 
+over hard lid ceilings.
+2. 
+Cabling in plenum spaces shall be rated appropriately.
+B. 
+Backbone Underground
+1. 
+Cabling shall be rated appropriately for OSP installation.
+2. 
+Use factory conduit sweeps, with a minimum radius 6x the diameter of the conduit.
+3. 
+Installation shall be compliant with TIA-758.
+C. 
+Fiber Optic Cabling
+1. 
+Terminate all multimode fiber optic cables as required with an LC connector. Land the 
+LC connectors in the fiber interconnect center LC adapter plate.
+2. 
+All fiber optic LC connectors shall be capable of achieving an insertion loss of .30 dB 
+or less which is guaranteed under the warranty.
+3. 
+Utilize outside plant rated cable whenever cable runs are routed through conduit 
+under grade or outside the building envelope.
+4. 
+Secure all cables at termination points to provide strain relief.  Care shall be taken 
+never to bend, crush, or kink cables.  Support all fiber optic cables by their outer 
+jacket.  Never allow the fiber to be bent, hung, or supported in such a manner as to 
+
+
+===== PAGE 4 =====
+Nye County School District                                   Bid Documents
+Tonopah HS Field Replacement                                 
+                                                                               April 20, 2026
+27 00 00
+Communications - General 
+Page 4 of 7
+provide the opportunity for breakage, microbends, or macrobends. Always maintain 
+the highest quality wire management for all cable.
+5. 
+Cable routed underground shall be rated appropriately for OSP installation.
+D. 
+Surveillance Cameras
+1. 
+Install cameras and camera mounts provided by Owner. 
+2. 
+Install cable and cable pathway to each camera.  Terminate end of cable at camera 
+with an 8-pin, 8-position modular plug.
+E. 
+Clock/Intercom IP PoE speakers
+1. 
+Install cable and pathway to each speaker. Terminate end of cable at speaker with an 
+8-pin, 8-position modular plug.
+3.2 
+COORDINATION
+A. 
+Regardless of progress of overall installation, the network switches shall not be installed until 
+the following is completed in the new IT room:
+1. 
+Power – finished, tested, no further planned outages, and all outlets operational.
+2. 
+Climate controlled – HVAC for room commissioned and functioning properly 24/7 with 
+no further planned outages.  Temperature in room shall be maintained at a constant 
+level required by Owner.
+3. 
+Cabling is installed and tested with passing results.
+4. 
+All labeling has been completed.
+5. 
+All cabinets, power supplies, PDUs, and UPS has all been installed.
+6. 
+Permanent lighting for the room is installed and functioning correctly.
+7. 
+Room can be secured and can be considered protected/secured.  Doors to room must 
+be installed.
+8. 
+Room is sealed – wall penetrations, open ceiling tiles, underground conduit sleeve 
+openings have been sealed to prevent ingress of vermin.
+9. 
+All wall and floor finishing has been completed.
+10. 
+Room has been thoroughly cleaned, with no equipment obstructing access to front 
+and rear of racks.  All wall mounted equipment and brackets shall be wiped clean of 
+any dust or debris.
+B. 
+Provide estimated dates equipment will be required so Owner can purchase cameras and 
+wireless access points and schedule resources far enough in advance to avoid any conflicts 
+or delays.  Coordination should not begin until after shop drawings have been approved.
+C. 
+For any existing equipment being relocated/reused, dates of outage as equipment is moved 
+from old location to new location must be coordinated in conjunction with Architect and 
+Owner.
+1. 
+Be aware of when operation of Public Address loudspeakers are expected by the 
+school.
+2. 
+Attempt to make relocation occur over school holidays, provided it will be operational 
+when staff and students return.
+a. 
+All testing and adjusting must also be complete.
+3.3 
+LABELING
+A. 
+All cable terminations shall be clearly and permanently labeled with appropriate cable 
+numbering.  Labeling of outlet jacks shall be provided on clear labels.  Labeling of 
+
+
+===== PAGE 5 =====
+Nye County School District                                   Bid Documents
+Tonopah HS Field Replacement                                 
+                                                                               April 20, 2026
+27 00 00
+Communications - General 
+Page 5 of 7
+termination system shall be provided on white labels.  All labeling shall be black typed 
+lettering.  Handwritten labels shall not be permitted.
+1. 
+Contractor required to label at every location, using a printed label with adhesive 
+intended to secure to the surface being used.
+2. 
+Label all bonding and grounding conductors and busbars, indicating the bonding point 
+on the other end of the cable.
+3. 
+Label all faceplates and patch panels.
+4. 
+Label all cables 6 inches (6”) from the connector/termination end and at the patch 
+panel or equipment termination.  Do not use “flag” labels, but instead adhere along the 
+length of the cable.
+B. 
+Labeling shall comply with TIA-606. 
+C. 
+Cable Labeling shall identify the room number on the opposite end of the cable.
+D. 
+Labels shall be machine generated/printed.  No written labels shall be permitted.  The 
+Contractor shall be responsible for providing labels which have the appropriate adhesive, 
+based on the surface being used.
+3.4 
+TESTING
+A. 
+GENERAL
+1. 
+The Contractor shall resolve all tests that result in a FAIL prior to submitting to Owner 
+for acceptance.  Troubleshoot and resolve any failures.  Most failures attributed to 
+construction are going to occur at excessive bending points or at the connector.
+2. 
+Submit test reports with summary report in pdf format, including all labels from each 
+test.
+3. 
+Submit full test report for each in pdf format.
+4. 
+Native file test reports shall be retained and provided to the A/E upon request if there 
+are discrepancies or anomalies discovered in the test reports.
+5. 
+Testing shall conform to ANSI/TIA-568.0-E standard.
+6. 
+The structure for commercial building cabling is based on the generic cabling system 
+structure specified in TIA-568-0.
+7. 
+Performance and technical criteria for balanced twisted-pair cabling systems are 
+specified in TIA-568.2.
+8. 
+All testing shall be performed using the Fluke Versiv Family of Cabling Testing 
+products. (DSX 8000/5000 for Copper and CFP/OFP Quad for fiber or above).
+9. 
+A factory calibration report shall show calibration performed within twelve months of 
+the test report date and shall be included with the cable testing report package.
+10. 
+Provide UTP Category 6A and Optical Fiber OTDR Test Reports.
+11. 
+Provide Optical Fiber Power Loss Test Reports.
+12. 
+Test results which report a PASS*, FAIL*, or FAIL result for any of the parameters 
+shall not be accepted.  It is incumbent upon the Contractor to determine the cause of 
+the issue, perform corrective action, and retest prior to submittal of test reports to the 
+owner.  The Contractor shall coordinate directly with the manufacturer if they are 
+unable to resolve the issue in the field.
+B. 
+CATEGORY 6A CABLE
+1. 
+Upon completion of installation/termination of all cabling, the Contractor shall perform 
+a ‘Permanent Link’ Certification test on each Cat6A cable to full ANSI/TIA 568-C 
+compliance requirements.
+2. 
+Test results with incorrect NVP configured will be rejected and the Contractor will 
+have to retest all cables.  Verify correct NVP before testing.  Remember that CMP, 
+
+
+===== PAGE 6 =====
+Nye County School District                                   Bid Documents
+Tonopah HS Field Replacement                                 
+                                                                               April 20, 2026
+27 00 00
+Communications - General 
+Page 6 of 7
+CMR, and OSP cables each typically have a different NVP.
+3. 
+For cables where a modular plug is being used on the end for a device, such as 
+camera or speaker, Contractor shall perform a Modular Plug Terminated Link (MTPL) 
+test, compliant with TIA-568.2-D.
+4. 
+Each Test Report shall have the following information (verify it is correct prior to 
+testing and submittal to Owner):
+a. 
+Cable ID (Label number)
+b. 
+Cable type being tested (use exact cable being used, select from manufacturer 
+selection menu preconfigured in tester). If manufacturer is not listed within the 
+database for the tester, use “generic” testing parameters with correct NVP and 
+manually type in the cable type and part number. Verify with manufacturer and 
+update tester for all current manufacturers before attempting a “generic” test. 
+Also contact cable manufacturer to verify if part number may be identified under 
+a previous company name/part number.
+c. 
+Testing of outlets shall only occur after the jacks are permanently 
+installed/seated in their corresponding faceplate, junction box, or raceway. 
+Contractor shall notify the Architect in writing of any locations which can’t be 
+permanently installed until the time of network integration or demolition of 
+existing systems due to an obstruction. Testing prior to permanent installation 
+on new construction projects is never permitted. Cables can be pinched, 
+snagged, or compressed on the back of jacks during final placement of outlets 
+into j-boxes, thereby causing pairs to be pulled free of termination points and 
+create unwarranted delays on the project.
+5. 
+Provide three (3’) feet service loops for each cable, coiled and properly supported per 
+ANSI/TIA 568.0 requirements above the ceiling at each individual drop location.
+6. 
+Bend radius of all 4-pair copper wiring shall be no more than four (4) times the outside 
+diameter of the cable under load and no-load conditions.
+7. 
+Cable pairs shall not be untwisted more than one quarter inch (¼“) from the point of 
+termination on all UTP four pair cables.
+8. 
+Cable sheath shall not be removed more than three quarters of an inch (¾”) from the 
+point of termination on all UTP four pair cables.
+C. 
+FIBER OPTIC OM4 MULTIMODE CABLE
+1. 
+Tests of multimode fiber optic cable shall be conducted utilizing an OTDR (Optical 
+Time Domain Reflectometer with an integrated optical light source and optical power 
+meter) at 850nm and 1300nm with the end-to-end attenuation in db/km recorded for 
+each fiber.
+2. 
+Contractor shall perform Tier I and Tier II testing of fiber optic cable using the Fluke 
+CertiFiber Pro OLTS (Optical Loss Test Set) for length and loss, and the OptiFiber Pro 
+OTDR (Optical Time Domain Reflectometer) to show reflection of any imperfections or 
+major “events” which contribute to loss. Maximum allowable fiber optic LC connector 
+insertion loss (mated pair of connectors) shall be .30dB.
+a. 
+Test wavelengths in both directions, using one-cord reference method per 
+ANSI/TIA-526-14-C-2015. This testing procedure is also referred to as the one-
+jumper reference method.
+b. 
+Contractor shall use reference grade patch cords from manufacturer of the 
+cable being used or those recommended by the manufacturer of the tester.
+c. 
+Contractor shall only use the encircled flux test jumpers.  Do not use mandrels 
+to set reference for multimode testing.
+d. 
+The encircled flux launch controller from Fluke is preferred in order to 
+guarantee the mandrel procedure is not inadvertently skipped by technicians in 
+
+
+===== PAGE 7 =====
+Nye County School District                                   Bid Documents
+Tonopah HS Field Replacement                                 
+                                                                               April 20, 2026
+27 00 00
+Communications - General 
+Page 7 of 7
+the field and to ensure accuracy and consistency.
+END OF SECTION

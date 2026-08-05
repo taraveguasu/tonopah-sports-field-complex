@@ -1,0 +1,3108 @@
+{
+  "_generated": "2026-08-04",
+  "_purpose": "Full text of every source document. Downstream indexing reads these, not the source paths.",
+  "_min_chars_per_page": 120,
+  "_totals": {
+    "documents": 343,
+    "by_method": {
+      "pdf-text": 217,
+      "docx": 68,
+      "pdf-ocr": 47,
+      "skip": 1,
+      "xlsx": 9,
+      "xls": 1
+    },
+    "chars": 9058767,
+    "ocr_pages": 631,
+    "thin": 2
+  },
+  "documents": [
+    {
+      "file": "01-rfp-itb/01.1 - Notice of Request for Proposals (1%).pdf",
+      "method": "pdf-text",
+      "pages": 6,
+      "chars": 13302,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/01-rfp-itb/01.1 - Notice of Request for Proposals (1%).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "01-rfp-itb/01.2 - Invitation to Bid (Non-1%).pdf",
+      "method": "pdf-text",
+      "pages": 6,
+      "chars": 12262,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/01-rfp-itb/01.2 - Invitation to Bid (Non-1%).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/02.0 - Subcontractor Proposal (Bid) Form (1%).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 12020,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/02.0 - Subcontractor Proposal (Bid) Form (1%).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Invitation to Bid (Non-1%).docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 12321,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Invitation to Bid (Non-1%).docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Notice of Request for Proposals (1%).docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 13272,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Notice of Request for Proposals (1%).docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 002 Abatement & Building Wrecking.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 11885,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 002 Abatement & Building Wrecking.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 007 Surveying & Staking.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8980,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 007 Surveying & Staking.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 23004,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 016 Landscaping & Irrigation.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 10489,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 016 Landscaping & Irrigation.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 018 Site Furnishings.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7119,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 018 Site Furnishings.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 019 Track & Field Athletic Equipment.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8466,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 019 Track & Field Athletic Equipment.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 021 Running Track Surfacing.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 9065,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 021 Running Track Surfacing.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 022 Synthetic Turf Sports Field.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8366,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 022 Synthetic Turf Sports Field.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 023 Fencing & Gates.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 9416,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 023 Fencing & Gates.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 030 Concrete.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 14309,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 030 Concrete.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 031 Masonry.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 9710,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 031 Masonry.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 033 Structural Steel & Ornamental Metals.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 11780,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 033 Structural Steel & Ornamental Metals.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 040 Moisture Protection & Sealants.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8576,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 040 Moisture Protection & Sealants.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 044 Insulation.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7520,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 044 Insulation.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 10040,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 054 Special Doors.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7274,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 054 Special Doors.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 056 Doors, Frames & Hardware.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 9182,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 056 Doors, Frames & Hardware.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 14222,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 062 Acoustical Ceilings Treatments.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7819,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 062 Acoustical Ceilings Treatments.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 066 Fluid-Applied Floors.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8491,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 066 Fluid-Applied Floors.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 067 Concrete Finishing.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 6671,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 067 Concrete Finishing.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 071 Visual Display Boards & Menu Display Case.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7104,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 071 Visual Display Boards & Menu Display Case.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 072 Building Signage.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7397,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 072 Building Signage.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 074 Building & Fire Protection Specialties.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 10130,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 074 Building & Fire Protection Specialties.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 077 Lockers.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7035,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 077 Lockers.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 078 Flagpoles.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 6737,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 078 Flagpoles.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 085 Warming Kitchen Food Service Equipment.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8898,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 085 Warming Kitchen Food Service Equipment.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 089 Scoreboards.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 7875,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 089 Scoreboards.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 094 Bleachers & Press Box.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 11196,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 094 Bleachers & Press Box.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 098 Plumbing Systems.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 13137,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 098 Plumbing Systems.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 099 HVAC & Building Controls Systems.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 15715,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 099 HVAC & Building Controls Systems.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 103 Electrical & Low Voltage Systems.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 25332,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 103 Electrical & Low Voltage Systems.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 109 Prefabricated Ticket Booth.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8231,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Scope of Work - 109 Prefabricated Ticket Booth.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Subcontractor Proposal (Bid) Form (1%).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 12020,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/02-trade-scopes-bidform/Subcontractor Proposal (Bid) Form (1%).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "method": "pdf-text",
+      "pages": 45,
+      "chars": 228468,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "method": "pdf-text",
+      "pages": 40,
+      "chars": 205039,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "method": "pdf-text",
+      "pages": 6,
+      "chars": 16951,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/04.01 - Bid Specification Manual 042026.pdf",
+      "method": "pdf-ocr",
+      "pages": 624,
+      "chars": 1451134,
+      "ocr_pages": 39,
+      "extracted_to": "01-index/document-text/04-specs-reports/04.01 - Bid Specification Manual 042026.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/04.02 - Geotech Report 012125.pdf",
+      "method": "pdf-text",
+      "pages": 52,
+      "chars": 77943,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/04.02 - Geotech Report 012125.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/04.03 - Asbestos Survey_EICS 100323.pdf",
+      "method": "pdf-ocr",
+      "pages": 72,
+      "chars": 92133,
+      "ocr_pages": 18,
+      "extracted_to": "01-index/document-text/04-specs-reports/04.03 - Asbestos Survey_EICS 100323.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/04.04 - Asbestos Mgmt Plan & Inspection Reports_EISC 010422.pdf",
+      "method": "pdf-ocr",
+      "pages": 380,
+      "chars": 592967,
+      "ocr_pages": 375,
+      "extracted_to": "01-index/document-text/04-specs-reports/04.04 - Asbestos Mgmt Plan & Inspection Reports_EISC 010422.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/_manifest.json",
+      "method": "skip",
+      "pages": 0,
+      "chars": 0,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/_manifest.json.txt",
+      "quality": "THIN"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-00-conditions.pdf",
+      "method": "pdf-ocr",
+      "pages": 44,
+      "chars": 186557,
+      "ocr_pages": 39,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-00-conditions.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-00-procurement-contracting.pdf",
+      "method": "pdf-text",
+      "pages": 29,
+      "chars": 37184,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-00-procurement-contracting.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-01-general-requirements.pdf",
+      "method": "pdf-text",
+      "pages": 42,
+      "chars": 87615,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-01-general-requirements.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-02-existing-conditions.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 9236,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-02-existing-conditions.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-03-concrete.pdf",
+      "method": "pdf-text",
+      "pages": 25,
+      "chars": 81929,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-03-concrete.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-04-masonry.pdf",
+      "method": "pdf-text",
+      "pages": 8,
+      "chars": 16978,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-04-masonry.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-05-metals.pdf",
+      "method": "pdf-text",
+      "pages": 27,
+      "chars": 67244,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-05-metals.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-06-wood-plastics-composites.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3969,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-06-wood-plastics-composites.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
+      "method": "pdf-text",
+      "pages": 18,
+      "chars": 34527,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-08-openings.pdf",
+      "method": "pdf-text",
+      "pages": 14,
+      "chars": 23558,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-08-openings.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+      "method": "pdf-text",
+      "pages": 34,
+      "chars": 74100,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-09-finishes.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-10-specialties.pdf",
+      "method": "pdf-text",
+      "pages": 14,
+      "chars": 25779,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-10-specialties.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-11-equipment.pdf",
+      "method": "pdf-text",
+      "pages": 8,
+      "chars": 13262,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-11-equipment.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-12-furnishings.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 5971,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-12-furnishings.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-13-special-construction.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3046,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-13-special-construction.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+      "method": "pdf-text",
+      "pages": 62,
+      "chars": 134864,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-22-plumbing.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+      "method": "pdf-text",
+      "pages": 81,
+      "chars": 181647,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-23-hvac.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+      "method": "pdf-text",
+      "pages": 97,
+      "chars": 225841,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-26-electrical.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-27-communications.pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 17867,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-27-communications.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-31-earthwork.pdf",
+      "method": "pdf-text",
+      "pages": 14,
+      "chars": 24956,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-31-earthwork.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+      "method": "pdf-text",
+      "pages": 65,
+      "chars": 149519,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-33-utilities.pdf",
+      "method": "pdf-text",
+      "pages": 24,
+      "chars": 44779,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/04-specs-reports/spec-manual-split/div-33-utilities.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/05.1 - CORE Subcontract Agreement Template (10.20.25).pdf",
+      "method": "pdf-text",
+      "pages": 23,
+      "chars": 92001,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/05-supplemental/05.1 - CORE Subcontract Agreement Template (10.20.25).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/05.2 - Insurance Requirements (01.29.26).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 15141,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/05-supplemental/05.2 - Insurance Requirements (01.29.26).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/05.3 - Billing Procedures (02.04.25).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2964,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/05-supplemental/05.3 - Billing Procedures (02.04.25).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/05.4 - Textura Enrollment Information (01.19.23).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 3382,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/05-supplemental/05.4 - Textura Enrollment Information (01.19.23).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/05.5 - Non-Collusive Affidavit.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2172,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/05-supplemental/05.5 - Non-Collusive Affidavit.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/05.6 - Affidavit of Compliance (09.21.16).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2449,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/05-supplemental/05.6 - Affidavit of Compliance (09.21.16).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/05.7 - Preliminary Construction Schedule (04.21.26).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 12279,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/05-supplemental/05.7 - Preliminary Construction Schedule (04.21.26).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "05-supplemental/Logistics Plan Template.pdf",
+      "method": "pdf-ocr",
+      "pages": 2,
+      "chars": 279,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/05-supplemental/Logistics Plan Template.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/00 01 10 - Table of Contents (ADD 1).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 6495,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Addendum #1 (05.06.26)/00 01 10 - Table of Contents (ADD 1).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/00 91 11 - Addendum #1 (ADD 1).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 889,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Addendum #1 (05.06.26)/00 91 11 - Addendum #1 (ADD 1).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/08 71 00 - Door Hardware (ADD 1).pdf",
+      "method": "pdf-text",
+      "pages": 14,
+      "chars": 31071,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Addendum #1 (05.06.26)/08 71 00 - Door Hardware (ADD 1).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 26709,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/Revised Civil Sheets (ADD 1).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 11136,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Addendum #1 (05.06.26)/Revised Civil Sheets (ADD 1).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Clarification No. 1 (050626).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 11224,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Clarification No. 1 (050626).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Clarification No. 2 (050726).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1999,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Clarification No. 2 (050726).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Contour_Map_South_EastHampton.pdf",
+      "method": "pdf-ocr",
+      "pages": 1,
+      "chars": 4753,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/06-addenda/Contour_Map_South_EastHampton.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "06-addenda/Responses to RFIs (CLAR 1).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 10257,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/06-addenda/Responses to RFIs (CLAR 1).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GC's.xlsx",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 7358,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GC's.xlsx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GR's.xlsx",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 15556,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GR's.xlsx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/1% Subcontractor Listing.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1721,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/1% Subcontractor Listing.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/25-10-003 - NCSD - Tonopah HS Sports Field Ph's Replacement GMP_EOD.pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 17217,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/25-10-003 - NCSD - Tonopah HS Sports Field Ph's Replacement GMP_EOD.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/Basis of Proposal 07.01.26 Rev2.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 13883,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/Basis of Proposal 07.01.26 Rev2.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/Copy of NCSD THS Field - GMP - DRAFT_JC_5.26.2026.xlsm",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 836885,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/Copy of NCSD THS Field - GMP - DRAFT_JC_5.26.2026.xlsm.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/NCSD THS Field - GMP R2 - 070126.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2478,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/NCSD THS Field - GMP R2 - 070126.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/NCSD THS Field - GMP R2 - 070126.xlsm",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 952663,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/NCSD THS Field - GMP R2 - 070126.xlsm.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/NCSD Tonopah High School Field Replacement - GMP-R2_070126.pdf",
+      "method": "pdf-ocr",
+      "pages": 23,
+      "chars": 46912,
+      "ocr_pages": 6,
+      "extracted_to": "01-index/document-text/GMP/NCSD Tonopah High School Field Replacement - GMP-R2_070126.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/THS_BidLeveling_JC_2026-05-13.xlsx",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 40981,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/THS_BidLeveling_JC_2026-05-13.xlsx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "GMP/Tonopah Field Replacement - GMP Schedule.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1235,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/GMP/Tonopah Field Replacement - GMP Schedule.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/001_Attach A_PA DS Template_04-03-25.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 6511,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/001_Attach A_PA DS Template_04-03-25.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/002_ Attach A_ Subcontract DS Template_05-09-25.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 8821,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/002_ Attach A_ Subcontract DS Template_05-09-25.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/NV_Attach A Review Log Cover Bluebeam Template_11-14-25.xls",
+      "method": "xls",
+      "pages": 1,
+      "chars": 743,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/NV_Attach A Review Log Cover Bluebeam Template_11-14-25.xls.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/PrePreparatory Phase Checklist.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 1537,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/PrePreparatory Phase Checklist.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Consultant DS Template  07-11-16.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 240,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Consultant DS Template  07-11-16.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Subcontract Gen Prov DS TEMPLATE_01.28.23.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 6444,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Subcontract Gen Prov DS TEMPLATE_01.28.23.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - GGG Demolition (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 10,
+      "chars": 20931,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - GGG Demolition (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - Northstar (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 11,
+      "chars": 26754,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - Northstar (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Action Solutions (backup, no Form).pdf",
+      "method": "pdf-ocr",
+      "pages": 3,
+      "chars": 7383,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Action Solutions (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Alliance (backup, no Form) (LATE - not submitted to BC).pdf",
+      "method": "pdf-text",
+      "pages": 10,
+      "chars": 30921,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Alliance (backup, no Form) (LATE - not submitted to BC).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Earth Resource Group (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 7,
+      "chars": 14964,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Earth Resource Group (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Environmental Protection Services (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 9902,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Environmental Protection Services (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - Monument Co (Form).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 13250,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - Monument Co (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NDX (Form).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 14940,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NDX (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 8,
+      "chars": 13547,
+      "ocr_pages": 6,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving - NDX (backup).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3155,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving - NDX (backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Wet Utilities - NDX (backup).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2958,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Wet Utilities - NDX (backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Black Canyon (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 8,
+      "chars": 17392,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Black Canyon (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - BrightView (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 8,
+      "chars": 21487,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - BrightView (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 16050,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf",
+      "method": "pdf-ocr",
+      "pages": 4,
+      "chars": 18132,
+      "ocr_pages": 3,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Monument Co (Form).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 13216,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Monument Co (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - AstroTurf Corp (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 12,
+      "chars": 26686,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - AstroTurf Corp (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - BrightView (LATE - DO NOT USE).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 8368,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - BrightView (LATE - DO NOT USE).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - CG & B Enterprises (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 7,
+      "chars": 14865,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - CG & B Enterprises (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Green Living Services (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 7,
+      "chars": 19985,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Green Living Services (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Monument Co (Form).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 13287,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Monument Co (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Sprinturf (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 24,
+      "chars": 52310,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Sprinturf (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Tand (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 16276,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Tand (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Al 5s (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 17500,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Al 5s (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Fencing Specialists (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 24128,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Fencing Specialists (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Golden Bay Fence (backup, no Form).pdf",
+      "method": "pdf-ocr",
+      "pages": 9,
+      "chars": 13442,
+      "ocr_pages": 3,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Golden Bay Fence (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Red Star (Form).pdf",
+      "method": "pdf-ocr",
+      "pages": 7,
+      "chars": 13678,
+      "ocr_pages": 6,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Red Star (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tahoe Fence Co (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 7,
+      "chars": 14367,
+      "ocr_pages": 6,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tahoe Fence Co (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tiberti (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 12604,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tiberti (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Cheek Construction (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 18,
+      "chars": 28772,
+      "ocr_pages": 8,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Cheek Construction (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Monument Co (Form).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 13304,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Monument Co (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 15,
+      "chars": 43924,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - XL Concrete Masonry (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 9,
+      "chars": 22122,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - XL Concrete Masonry (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Henderson (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3220,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Henderson (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - John Jackson (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3464,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - John Jackson (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Kemper (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 6,
+      "chars": 14970,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Kemper (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Marnell (LATE - EMAILED 2 days after bid opening - DO NOT USE, reference only).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 8845,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Marnell (LATE - EMAILED 2 days after bid opening - DO NOT USE, reference only).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Monument Construction (LATE).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 12492,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Monument Construction (LATE).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - XL Concrete Masonry (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 9,
+      "chars": 21918,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - XL Concrete Masonry (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Adams & Smith (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 11655,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Adams & Smith (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Corona Steel (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 11,
+      "chars": 32717,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Corona Steel (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Canyon State (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 5880,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Canyon State (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1314,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Division 09 (no backup or Form).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 2798,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Division 09 (no backup or Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Jetstream (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 7,
+      "chars": 11046,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Jetstream (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - M & H (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 9,
+      "chars": 20252,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - M & H (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (Images+Video).pdf",
+      "method": "pdf-ocr",
+      "pages": 2,
+      "chars": 912,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (Images+Video).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (backup, no Form) (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 5786,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (backup, no Form) (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 9,
+      "chars": 21755,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - JW McClenahan Co (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 8,
+      "chars": 14224,
+      "ocr_pages": 7,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - JW McClenahan Co (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - US Mechanical (Form).pdf",
+      "method": "pdf-ocr",
+      "pages": 5,
+      "chars": 9316,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - US Mechanical (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Universal Plumbing & Heating (Form).pdf",
+      "method": "pdf-ocr",
+      "pages": 6,
+      "chars": 16629,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Universal Plumbing & Heating (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/016, 022 Irrigation + Synthetic Turf Sports Field - Sprinturf (Descope Qs).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 3047,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/016, 022 Irrigation + Synthetic Turf Sports Field - Sprinturf (Descope Qs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope - Track Asphalt Info).pdf",
+      "method": "pdf-text",
+      "pages": 11,
+      "chars": 33790,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope - Track Asphalt Info).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 3583,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (R1, Descoped).pdf",
+      "method": "pdf-ocr",
+      "pages": 14,
+      "chars": 32740,
+      "ocr_pages": 8,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (R1, Descoped).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/023 Fencing & Gates - Red Star (R1, Descoped).pdf",
+      "method": "pdf-ocr",
+      "pages": 6,
+      "chars": 12943,
+      "ocr_pages": 6,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/023 Fencing & Gates - Red Star (R1, Descoped).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/030 Concrete - Cheek (descope).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 10149,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/030 Concrete - Cheek (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 1946,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R1, Descoped).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 7794,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R1, Descoped).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R2, Descope ALTs).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 7935,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R2, Descope ALTs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/094 Bleachers & Press  Box - California Bleachers NATA (Descope Qs).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 3553,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/094 Bleachers & Press  Box - California Bleachers NATA (Descope Qs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Black Canyon Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2610,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Black Canyon Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 4559,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/CG&B Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2702,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/CG&B Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cali. Bleachers Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3008,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cali. Bleachers Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cheeck Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3924,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cheeck Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Corona Steel Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2620,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Corona Steel Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/ACO Sport - System 3000 Slot Channel Trench Drain System Spec Sheet.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 5319,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/ACO Sport - System 3000 Slot Channel Trench Drain System Spec Sheet.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/DCHS-35BN Discuss Cage.pdf",
+      "method": "pdf-text",
+      "pages": 13,
+      "chars": 17670,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/DCHS-35BN Discuss Cage.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/Pole Vault.pdf",
+      "method": "pdf-ocr",
+      "pages": 4,
+      "chars": 4486,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/Pole Vault.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf",
+      "method": "pdf-ocr",
+      "pages": 1,
+      "chars": 2096,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Elite Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3043,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Elite Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Foursquare Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2925,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Foursquare Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2528,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Henderson Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2323,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Henderson Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 2.pdf",
+      "method": "pdf-text",
+      "pages": 6,
+      "chars": 10584,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 2.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 3.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3022,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 3.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1608,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1177,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT 2).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 3613,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT 2).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 5502,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 5502,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cali. Bleachers Homeowork Response.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2570,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cali. Bleachers Homeowork Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cheek (descope).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 10149,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cheek (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response (Bollards).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2918,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response (Bollards).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6622,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports - Track Asphalt Info.pdf",
+      "method": "pdf-text",
+      "pages": 11,
+      "chars": 33790,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports - Track Asphalt Info.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf",
+      "method": "pdf-ocr",
+      "pages": 15,
+      "chars": 33531,
+      "ocr_pages": 8,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Foursquare Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 946,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Foursquare Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/GTI Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 9034,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/GTI Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Henderson ALT block Pricing.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 1916,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Henderson ALT block Pricing.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R2, Descope ALTs).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 7935,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R2, Descope ALTs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R3, Descope ALTs).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 8063,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R3, Descope ALTs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R4, Descope ALTs).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 8205,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R4, Descope ALTs).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream Homeowork Response.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 7870,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream Homeowork Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/M&H Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6988,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/M&H Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3559,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6612,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Northstar Homework Response.pdf",
+      "method": "pdf-ocr",
+      "pages": 25,
+      "chars": 59013,
+      "ocr_pages": 18,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Northstar Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric - OH Door 106A Power.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1857,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric - OH Door 106A Power.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse R3.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 4153,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse R3.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse.pdf",
+      "method": "pdf-text",
+      "pages": 6,
+      "chars": 16521,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Response R4 (Delete LV Pathway to HS).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 4572,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Response R4 (Delete LV Pathway to HS).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Red Star Fence Homework Response.pdf",
+      "method": "pdf-ocr",
+      "pages": 6,
+      "chars": 12943,
+      "ocr_pages": 6,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Red Star Fence Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response R2.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 815,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response R2.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 205,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf",
+      "method": "pdf-ocr",
+      "pages": 4,
+      "chars": 6186,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf",
+      "method": "pdf-ocr",
+      "pages": 2,
+      "chars": 2250,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tahoe Fence (descope Adds).pdf",
+      "method": "pdf-ocr",
+      "pages": 2,
+      "chars": 7374,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tahoe Fence (descope Adds).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3341,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tonopah HS Field - Homework Tracker.xlsx",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 2247,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tonopah HS Field - Homework Tracker.xlsx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2090,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf",
+      "method": "pdf-ocr",
+      "pages": 3,
+      "chars": 4006,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Wheelers Eletric Homework Response.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 4136,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Wheelers Eletric Homework Response.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/JW Electric Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3152,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/JW Electric Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Jet Stream Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3084,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Jet Stream Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2738,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 4438,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3272,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Utilities Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2375,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Utilities Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda R1.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3427,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda R1.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3287,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Quantum Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3125,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Quantum Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Red Star  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2402,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Red Star  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sahara  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2608,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sahara  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sprinturf  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2536,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sprinturf  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sunrise Air  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3004,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sunrise Air  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3342,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tahoe Fence Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 1824,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tahoe Fence Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2287,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 4420,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Universal Mech.  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 2934,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Universal Mech.  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Wheelers  Scope Review Meeting Agenda.docx",
+      "method": "docx",
+      "pages": 1,
+      "chars": 3034,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Wheelers  Scope Review Meeting Agenda.docx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 9,
+      "chars": 19795,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 6075,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - US Mechanical (Form).pdf",
+      "method": "pdf-ocr",
+      "pages": 5,
+      "chars": 9263,
+      "ocr_pages": 4,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - US Mechanical (Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Conti (value only).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 677,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Conti (value only).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - JW Electric (backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 1807,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - JW Electric (backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Kill A Watt (no backup, no Form).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 1431,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Kill A Watt (no backup, no Form).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Quantum (w backup).pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 17057,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Quantum (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf",
+      "method": "pdf-ocr",
+      "pages": 6,
+      "chars": 10971,
+      "ocr_pages": 5,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 SPORTS LIGHTING - Musco (Footing info).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 4450,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 SPORTS LIGHTING - Musco (Footing info).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf",
+      "method": "pdf-ocr",
+      "pages": 16,
+      "chars": 42050,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_6x8.pdf",
+      "method": "pdf-ocr",
+      "pages": 17,
+      "chars": 43356,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_6x8.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Par-Kut International (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6180,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Par-Kut International (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Port-a-King (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 9570,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Port-a-King (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/NCSD THS Field + TES Demo_RFI Log_Bidding 051226 - RESPONSES 050626.xlsx",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 10976,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/NCSD THS Field + TES Demo_RFI Log_Bidding 051226 - RESPONSES 050626.xlsx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/RFI #1-2 Asphalt (NDX).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 895,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/RFI #1-2 Asphalt (NDX).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/1213PC - Bid Tab Sheet - 2-28-13.xlsx",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 5315,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/1213PC - Bid Tab Sheet - 2-28-13.xlsx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Commitments (NCSD THS Field & ES Demo)__as of 04-30-26.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2560,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Commitments (NCSD THS Field & ES Demo)__as of 04-30-26.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Summary (NCSD THS Field & ES Demo)__05-12-26.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2620,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Summary (NCSD THS Field & ES Demo)__05-12-26.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 3221,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).xlsx",
+      "method": "xlsx",
+      "pages": 1,
+      "chars": 10738,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).xlsx.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Prewitt.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 6915,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Prewitt.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Rosevear.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 7384,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Rosevear.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY) (descope).pdf",
+      "method": "pdf-text",
+      "pages": 9,
+      "chars": 17077,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY) (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 32,
+      "chars": 53129,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations (descope).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6650,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 5170,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Monument Construction.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 12495,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Monument Construction.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Exerplay (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 32,
+      "chars": 53129,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Exerplay (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Great Western (INSTALL).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6650,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Great Western (INSTALL).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Monument Construction.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 774,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Monument Construction.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 7690,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY, R1, descoped (soccer)).pdf",
+      "method": "pdf-ocr",
+      "pages": 6,
+      "chars": 15492,
+      "ocr_pages": 3,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY, R1, descoped (soccer)).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy (descope).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 5659,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy.pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 17472,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - Western Sealants.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1624,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - Western Sealants.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Moisture Protection & Sealants - Gleeson Powers.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 5276,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Moisture Protection & Sealants - Gleeson Powers.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Waterproofing & Joint Sealants - Western Sealants (descope).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1830,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Waterproofing & Joint Sealants - Western Sealants (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040, 044 Sealants + Insulation - Gleeson Powers (descope).pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 4701,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040, 044 Sealants + Insulation - Gleeson Powers (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09 (descope).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2946,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09 (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2161,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R (descope).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2558,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2458,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gale.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 6064,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gale.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gleeson Powers.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 4825,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gleeson Powers.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gold Star.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6413,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gold Star.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock (descope).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 6032,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 6412,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (ALT finish).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2142,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (ALT finish).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (Door 106A Manual ALT).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2209,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (Door 106A Manual ALT).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (descope).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1979,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 12436,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Frontier.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 12719,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Frontier.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (CD Substitution Comparison).pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 13005,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (CD Substitution Comparison).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (OHD Substitution Comparison).pdf",
+      "method": "pdf-ocr",
+      "pages": 21,
+      "chars": 25951,
+      "ocr_pages": 2,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (OHD Substitution Comparison).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 12082,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon (descope).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 9140,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 9170,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - ADI.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 7197,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - ADI.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - All 5s.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 1577,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - All 5s.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09 (descope).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2946,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09 (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2161,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Hallgren (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 12199,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Hallgren (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - SNV Specialties (INSTALL).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2477,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - SNV Specialties (INSTALL).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09 (descope).pdf",
+      "method": "pdf-text",
+      "pages": 11,
+      "chars": 11490,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09 (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2161,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Grani.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2753,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Grani.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Red Cap.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 1494,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Red Cap.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/065 Sealed Concrete - SI Legacy (descope).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 5659,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/065 Sealed Concrete - SI Legacy (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - NRC (ALT).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 21619,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - NRC (ALT).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - Ryerson (ALT).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 5607,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - Ryerson (ALT).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy (ALT).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 5210,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy (ALT).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy.pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 17472,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 8140,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC (descope).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 2637,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC.pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 22799,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2017,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 6424,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy (descope).pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 5659,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy.pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 17459,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 2433,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2108,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1883,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 1682,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/071 Marker Boards - ADP Lemco.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1590,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/071 Marker Boards - ADP Lemco.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Image360.pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 10490,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Image360.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Y C Signs.pdf",
+      "method": "pdf-text",
+      "pages": 3,
+      "chars": 3477,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Y C Signs.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO (descope).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 4697,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 4530,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Image360 (descope).pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 10782,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Image360 (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Y C Signs (descope).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 1565,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Y C Signs (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri (descope).pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 2742,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri.pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 15184,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/077 Lockers - IISI.pdf",
+      "method": "pdf-ocr",
+      "pages": 2,
+      "chars": 2952,
+      "ocr_pages": 1,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/077 Lockers - IISI.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Exerplay (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 32,
+      "chars": 53129,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Exerplay (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Monument Construction.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 12531,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Monument Construction.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - YESCO.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 4589,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - YESCO.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpoles - Pole Tech (SUPPLY).pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3354,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpoles - Pole Tech (SUPPLY).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - Culinary Depot.pdf",
+      "method": "pdf-text",
+      "pages": 6,
+      "chars": 12768,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - Culinary Depot.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - RESCO.pdf",
+      "method": "pdf-text",
+      "pages": 5,
+      "chars": 8354,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - RESCO.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - Monument Construction.pdf",
+      "method": "pdf-text",
+      "pages": 4,
+      "chars": 12528,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - Monument Construction.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO (descope).pdf",
+      "method": "pdf-text",
+      "pages": 8,
+      "chars": 4772,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO (descope).pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 4530,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - American Air Balance.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 5211,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - American Air Balance.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Integra.pdf",
+      "method": "pdf-text",
+      "pages": 2,
+      "chars": 3580,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Integra.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Raglen.pdf",
+      "method": "pdf-text",
+      "pages": 7,
+      "chars": 21179,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Raglen.pdf.txt",
+      "quality": "ok"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Tabitt.pdf",
+      "method": "pdf-text",
+      "pages": 1,
+      "chars": 4528,
+      "ocr_pages": 0,
+      "extracted_to": "01-index/document-text/SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Tabitt.pdf.txt",
+      "quality": "ok"
+    }
+  ]
+}

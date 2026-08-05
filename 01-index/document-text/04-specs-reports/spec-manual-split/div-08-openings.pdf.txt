@@ -1,0 +1,796 @@
+
+===== PAGE 1 =====
+Nye County School District
+Bid Documents
+08 1113
+Tonopah HS Field Replacement
+Hollow Metal Doors and Frames
+April 20, 2026
+Page 1 of 3
+SECTION 08 1113
+HOLLOW METAL DOORS AND FRAMES
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Non-fire-rated hollow metal doors and frames.
+1.02 RELATED REQUIREMENTS
+A.
+Section 08 7100 - Door Hardware.
+B.
+Section 09 9123 -  INTERIOR PAINTING: Field painting.
+1.03 REFERENCE STANDARDS
+A.
+ADA Standards - 2010 ADA Standards for Accessible Design; 2010.
+B.
+ANSI/SDI A250.4 - Test Procedure and Acceptance Criteria for Physical Endurance for Steel
+Doors, Frames and Frame Anchors; 2022.
+C.
+ANSI/SDI A250.8 - Specifications for Standard Steel Doors and Frames (SDI-100); 2023.
+D.
+ANSI/SDI A250.10 - Test Procedure and Acceptance Criteria for Prime Painted Steel Surfaces
+for Steel Doors and Frames; 2020.
+E.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+F.
+ASTM A1008/A1008M - Standard Specification for Steel, Sheet, Cold-Rolled, Carbon,
+Structural, High-Strength Low-Alloy, High-Strength Low-Alloy with Improved Formability,
+Required Hardness, Solution Hardened, and Bake Hardenable; 2021a.
+G.
+ASTM A1011/A1011M - Standard Specification for Steel, Sheet and Strip, Hot-Rolled, Carbon,
+Structural, High-Strength Low-Alloy, High-Strength Low-Alloy with Improved Formability, and
+Ultra-High Strength; 2023.
+H.
+BHMA A156.115 - Hardware Preparation in Steel Doors and Frames; 2016.
+I.
+ICC A117.1 - Accessible and Usable Buildings and Facilities; 2017.
+J.
+NAAMM HMMA 805 - Recommended Selection and Usage Guide for Hollow Metal Doors and
+Frames; 2012.
+K.
+NAAMM HMMA 830 - Hardware Selection for Hollow Metal Doors and Frames; 2002.
+L.
+NAAMM HMMA 831 - Hardware Locations for Hollow Metal Doors and Frames; 2011.
+M.
+NAAMM HMMA 840 - Guide Specifications For Receipt, Storage and Installation of Hollow
+Metal Doors and Frames; 2017.
+N.
+NAAMM HMMA 860 - Guide Specifications for Hollow Metal Doors and Frames; 2018.
+O.
+NAAMM HMMA 861 - Guide Specifications for Commercial Hollow Metal Doors and Frames;
+2014.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Materials and details of design and construction, hardware locations,
+reinforcement type and locations, anchorage and fastening methods, and finishes.
+C.
+Shop Drawings: Details of each opening, showing elevations, glazing, frame profiles, and any
+indicated finish requirements.
+D.
+Manufacturer's Certificate: Certification that products meet or exceed specified requirements.
+1.05 QUALITY ASSURANCE
+A.
+Manufacturer Qualifications: Provide hollow metal doors and frames from SDI Certified
+manufacturer: https://steeldoor.org/sdi-certified/#sle.
+
+
+===== PAGE 2 =====
+Nye County School District
+Bid Documents
+08 1113
+Tonopah HS Field Replacement
+Hollow Metal Doors and Frames
+April 20, 2026
+Page 2 of 3
+B.
+Maintain at project site copies of reference standards relating to installation of products
+specified.
+1.06 DELIVERY, STORAGE, AND HANDLING
+A.
+Comply with NAAMM HMMA 840 or ANSI/SDI A250.8 (SDI-100) in accordance with specified
+requirements.
+B.
+Protect with resilient packaging; avoid humidity build-up under coverings; prevent corrosion and
+adverse effects on factory applied painted finish.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Hollow Metal Doors and Frames:
+1.
+Ceco Door, an Assa Abloy Group company; _____: www.assaabloydss.com/#sle.
+2.
+Premier Steel Doors and Frames; F Series Commercial Frames:
+ www.trustpremier.com/#sle.
+3.
+Steelcraft, an Allegion brand: www.allegion.com/us.
+4.
+Substitutions: See Section 01 6000 - Product Requirements.
+2.02 PERFORMANCE REQUIREMENTS
+A.
+Requirements for Hollow Metal Doors and Frames:
+1.
+Steel Sheet: Comply with one or more of the following requirements; galvannealed steel
+complying with ASTM A653/A653M, cold-rolled steel complying with ASTM
+A1008/A1008M, or hot-rolled pickled and oiled (HRPO) steel complying with ASTM
+A1011/A1011M, commercial steel (CS) Type B, for each.
+2.
+Accessibility: Comply with ICC A117.1 and ADA Standards.
+3.
+Exterior Door Top Closures: Flush end closure channel, with top and door faces aligned.
+4.
+Typical Door Face Sheets: Flush.
+5.
+Glazed Lights: Non-removable stops on non-secure side; sizes and configurations as
+indicated on drawings. Style: Manufacturer's standard.
+6.
+Hardware Preparations, Selections and Locations: Comply with NAAMM HMMA 830 and
+NAAMM HMMA 831 or BHMA A156.115 and ANSI/SDI A250.8 (SDI-100) in accordance
+with specified requirements.
+7.
+Zinc Coating for Typical Interior and/or Exterior Locations: Provide metal components
+zinc-coated (galvanized) and/or zinc-iron alloy-coated (galvannealed) by the hot-dip
+process in accordance with ASTM A653/A653M, with manufacturer's standard coating
+thickness, unless noted otherwise for specific hollow metal doors and frames.
+a.
+Based on NAAMM HMMA Custom Guidelines: Provide at least A25/ZF75
+(galvannealed) for interior applications, and at least A60/ZF180 (galvannealed) or
+G60/Z180 (galvanized) for corrosive locations.
+B.
+Combined Requirements: If a particular door and frame unit is indicated to comply with more
+than one type of requirement, comply with the specified requirements for each type; for
+instance, an exterior door that is also indicated as being sound-rated must comply with the
+requirements specified for exterior doors and for sound-rated doors; where two requirements
+conflict, comply with the most stringent.
+2.03 HOLLOW METAL DOORS
+A.
+Door Finish: Factory primed and field finished.
+B.
+Exterior Doors: Thermally insulated.
+1.
+Based on NAAMM HMMA Custom Guidelines:
+a.
+Comply with guidelines of {\rs\#1} for Hollow Metal Doors and Frames.
+b.
+Performance Level ​3 - Heavy Duty​, in accordance with NAAMM HMMA 805.
+c.
+Physical Performance ​Level A, 1,000,000 cycles​; in accordance with ANSI/SDI
+A250.4.
+d.
+Door Face Metal Thickness: ​16 gage, 0.053 inch (1.3 mm)​, minimum.
+
+
+===== PAGE 3 =====
+Nye County School District
+Bid Documents
+08 1113
+Tonopah HS Field Replacement
+Hollow Metal Doors and Frames
+April 20, 2026
+Page 3 of 3
+e.
+Zinc Coating: A60/ZF180 (galvannealed) or G60/Z180 (galvanized).; ASTM
+A653/A653M.
+2.
+Door Thermal Resistance: R-Value of 6.0 minimum, for installed thickness of polystyrene.
+3.
+Door Thickness: 1-3/4 inches (44.5 mm), nominal.
+4.
+Door Finish: Factory primed and field finished.
+C.
+Interior Doors, Non-Fire Rated:
+1.
+Based on NAAMM HMMA Custom Guidelines:
+a.
+Comply with guidelines of ​{\rs\#1} for Commercial Hollow Metal Doors and Frames​.
+b.
+Performance Level ​3 - Heavy Duty​, in accordance with NAAMM HMMA 805.
+c.
+Physical Performance ​Level A, 1,000,000 cycles​; in accordance with ANSI/SDI
+A250.4.
+d.
+Door Face Metal Thickness: ​16 gage, 0.053 inch (1.3 mm)​, minimum.
+2.
+Door Core Material: Manufacturers standard core material/construction and in compliance
+with requirements.
+3.
+Door Thickness: 1-3/4 inches (44.5 mm), nominal.
+4.
+Door Finish: Factory primed and field finished.
+2.04 HOLLOW METAL FRAMES
+A.
+Comply with standards and/or custom guidelines as indicated for corresponding door in
+accordance with applicable door frame requirements.
+B.
+Frame Finish: Factory primed and field finished.
+C.
+Exterior Door Frames: Full profile/continuously welded type.
+1.
+Weatherstripping: Separate, see Section 08 7100.
+D.
+Interior Door Frames, Non-Fire Rated: ​Face welded type​.
+2.05 FINISHES
+A.
+Primer: Rust-inhibiting, complying with ANSI/SDI A250.10, door manufacturer's standard.
+2.06 ACCESSORIES
+A.
+Silencers: Resilient rubber, fitted into drilled hole; provide three on strike side of single door,
+three on center mullion of pairs, and two on head of pairs without center mullions.
+B.
+Temporary Frame Spreaders: Provide for factory- or shop-assembled frames.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify existing conditions before starting work.
+B.
+Verify that opening sizes and tolerances are acceptable.
+C.
+Verify that finished walls are in plane to ensure proper door alignment.
+3.02 INSTALLATION
+A.
+Install doors and frames in accordance with manufacturer's instructions and related
+requirements of specified door and frame standards or custom guidelines indicated.
+B.
+Coordinate frame anchor placement with wall construction.
+C.
+Install door hardware as specified in Section 08 7100.
+3.03 ADJUSTING
+A.
+Adjust for smooth and balanced door movement.
+3.04 SCHEDULE
+A.
+Refer to Door and Frame Schedule on the drawings.
+END OF SECTION
+
+
+===== PAGE 4 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 5 =====
+Nye County School District
+Bid Documents
+08 3100
+Tonopah HS Field Replacement
+Access Doors and Panels
+April 20, 2026
+Page 1 of 2
+SECTION 08 3100
+ACCESS DOORS AND PANELS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Wall- and ceiling-mounted access units.
+1.02 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide sizes, types, finishes, hardware, scheduled locations, and details of
+adjoining work.
+C.
+Project Record Documents: Record actual locations of each access unit.
+1.03 QUALITY ASSURANCE
+A.
+Manufacturer Qualifications: Company specializing in manufacturing the products specified in
+this section with minimum three years documented experience.
+PART 2 PRODUCTS
+2.01 ACCESS DOORS AND PANELS ASSEMBLIES
+A.
+Typical Units, unless noted or specified otherwise:
+1.
+Location: ​Where indicated on drawings and required access to concealed devices​.
+2.
+Panel Material: Aluminum extrusions with gypsum board inlay.
+3.
+Steel Finish: Powder Coat.
+4.
+Size: 12 inch by 12 inch (305 mm by 305 mm), unless otherwise required.
+5.
+Gypsum Board Mounting Criteria: Provide drywall bead frame with door surface flush with
+wall surface.
+B.
+Recessed Units, to receive gypsum wall board or plaster:
+1.
+Material: Steel.
+2.
+Steel Finish: Powder Coat.
+3.
+Size: 12 x 12 inches (300 x 300 mm), unless otherwise required.
+4.
+In Gypsum Board: Drywall bead frame with door surface recessed for infill with wall finish.
+5.
+In Plaster: Plaster bead frame with door surface recessed for infill with plaster.
+C.
+Units in public (visible) areas to recieve tiles:
+1.
+Material: Stainless steel, Type 304.
+2.
+Finish: 4 satin polish finish.
+3.
+Size: 12 x 12 inches (300 x 300 mm), unless otherwise indicated.
+D.
+Units in Wet Areas exposed to view:
+1.
+Location: ​Where required.​.
+2.
+Material: Steel, hot-dipped zinc or zinc-aluminum-alloy coated.
+3.
+Finish: Powder Coat.
+4.
+Gypsum Board Mounting Criteria: Provide drywall bead frame with door surface flush with
+wall surface.
+2.02 WALL- AND CEILING-MOUNTED ACCESS UNITS
+A.
+Manufacturers:
+1.
+ACUDOR Products Inc: www.acudor.com/#sle.
+2.
+Babcock-Davis: www.babcockdavis.com/sle.
+3.
+Cendrex, Inc: www.cendrex.com/#sle.
+4.
+Karp Associates, Inc: www.karpinc.com.
+5.
+Nystrom, Inc: www.nystrom.com/sle.
+6.
+J. L. Industries, Inc., a division of Activar Construction Products Group:
+ www.activarcpg.com.
+
+
+===== PAGE 6 =====
+Nye County School District
+Bid Documents
+08 3100
+Tonopah HS Field Replacement
+Access Doors and Panels
+April 20, 2026
+Page 2 of 2
+B.
+Wall- and Ceiling-Mounted Units: Factory-fabricated door and frame, fully assembled units with
+corner joints welded, filled and ground flush; square and without rack or warp; coordinate
+requirements with type of installation assembly being used for each unit.
+1.
+Door Style: Single thickness with rolled or turned in edges.
+2.
+Frames: 16-gauge, 0.0598-inch (1.52 mm) minimum thickness.
+3.
+Heavy-Duty Single Steel Sheet Door Panels: 14-gauge, 0.0747-inch (1.89 mm) minimum
+thickness.
+4.
+Hardware:
+a.
+Hinges for Non-Fire-Rated Units: Continuous piano hinge.
+b.
+Lock(s) for non-public areas: Screw driver slot for quarter turn cam lock.
+c.
+Latch/Lock for public areas: Tamperproof tool-operated cam latch, non-screwdriver
+operated.
+d.
+Lock(s) for secure areas: Cylinder lock with latch, two keys for each unit.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that rough openings are correctly sized and located.
+3.02 INSTALLATION
+A.
+Install units in accordance with manufacturer's instructions.
+B.
+Install frames plumb and level in openings, and secure units rigidly in place.
+C.
+Position units to provide convenient access to concealed equipment when necessary.
+END OF SECTION
+
+
+===== PAGE 7 =====
+Nye County School District
+Bid Documents
+08 3313
+Tonopah HS Field Replacement
+Coiling Counter Doors
+April 20, 2026
+Page 1 of 3
+SECTION 08 3313
+COILING COUNTER DOORS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Non-fire-rated coiling counter doors and operating hardware.
+1.02 RELATED REQUIREMENTS
+A.
+Section 07 9200 - Joint Sealants: Sealing joints between frames and adjacent construction.
+1.03 REFERENCE STANDARDS
+A.
+ASTM A36/A36M - Standard Specification for Carbon Structural Steel; 2019.
+B.
+ASTM A123/A123M - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron
+and Steel Products; 2017.
+C.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+D.
+ASTM B221M - Standard Specification for Aluminum and Aluminum-Alloy Extruded Bars, Rods,
+Wire, Profiles, and Tubes (Metric); 2021.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Submit manufacturer's standard literature showing materials and details of
+construction and finish.
+C.
+Shop Drawings: Indicate rough and actual opening dimensions, anchorage methods, hardware
+locations, and installation details.
+D.
+Operation and Maintenance Data: Indicate modes of operation, lubrication requirements and
+frequency, and periodic adjustments required.
+1.05 QUALITY ASSURANCE
+A.
+Manufacturer Qualifications: Company specializing in manufacturing the products specified in
+this section with minimum three years of documented experience.
+1.06 WARRANTY
+A.
+See Section 01 7800 - Closeout Submittals for additional warranty requirements.
+B.
+Manufacturer Warranty: Provide 2-year manufacturer warranty for counterbalance shaft
+assembly. Complete forms in Owner's name and register with manufacturer.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Coiling Counter Doors:
+1.
+Cornell Iron Works, Inc: www.cornelliron.com.
+2.
+The Cookson Company: www.cooksondoor.com.
+3.
+Overhead Door Corp.: www.overheaddoor.com.
+4.
+McKeon Rolling Steel Door Company, Inc.: www.mckeondoor.com.
+5.
+Raynor; Product DuraCoil Standard: www.raynor.com.
+6.
+Substitutions: See Section 01 6000 - Product Requirements.
+2.02 COILING COUNTER DOORS
+A.
+Coiling Counter Metal Doors, Non-Fire-Rated: ​factory primed, painted steel​ slat curtain.
+1.
+Basis of Design: Overhead Door Corporation; Model 652.
+2.
+Mounting: Interior face mounted.
+3.
+Nominal Slat Size: 1-1/4 inches (32 mm) wide.
+4.
+Slat Profile: ​Flat​.
+
+
+===== PAGE 8 =====
+Nye County School District
+Bid Documents
+08 3313
+Tonopah HS Field Replacement
+Coiling Counter Doors
+April 20, 2026
+Page 2 of 3
+5.
+Finish, Steel: Factory primed.
+6.
+Color: As selected by Architect from manufacturer's full range.
+7.
+Guides: Formed track; same material and finish unless otherwise indicated.
+8.
+Hood Enclosure: ​Manufacturer's standard​; aluminum​.
+9.
+Manual hand chain lift operation.
+10.
+Locking Devices: Slide bolt on inside.
+2.03 COMPONENTS
+A.
+Metal Curtain Construction: Interlocking, single-thickness slats.
+1.
+Slat Ends: Each slat fitted with end locks to act as wearing surface in guides and to
+prevent lateral movement.
+2.
+Curtain Bottom: Fitted with angles to provide reinforcement and positive contact in closed
+position.
+3.
+Steel Slats: ASTM A653/A653M galvanized steel sheet, with minimum G90/Z275 coating;
+minimum thickness 16 gauge, 0.06 inch (1.5 mm).
+B.
+Guide Construction: Continuous, of profile to retain door in place, with mounting brackets of
+same metal.
+1.
+Guides for Galvanized Curtains: ASTM A36/A36M steel angles, size as indicated, hot-dip
+galvanized per ASTM A123/A123M.
+C.
+Hood Enclosure: Internally reinforced to maintain rigidity and shape.
+D.
+Lock Hardware:
+E.
+Slide Bolt: Provide on single-jamb side, extending into slot in guides, with padlock on one side.
+F.
+Roller Shaft Counterbalance: Steel pipe and torsion steel spring system, capable of producing
+torque sufficient to ensure smooth operation of curtain from any position and capable of holding
+position at mid-travel; with adjustable spring tension; requiring 25 lb (10 kg) nominal force to
+operate.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that adjacent construction is suitable for door installation.
+B.
+Verify that electrical services have been installed and are accessible.
+C.
+Verify that door opening is plumb, header is level, and dimensions are correct.
+D.
+Notify Architect of any unacceptable conditions or varying dimensions.
+E.
+Commencement of installation indicates acceptance of substrate and door opening conditions.
+3.02 INSTALLATION
+A.
+Install units in accordance with manufacturer's instructions.
+B.
+Use anchorage devices to securely fasten assembly to wall construction and building framing
+without distortion or stress.
+C.
+Securely and rigidly brace components suspended from structure. 
+D.
+Fit and align assembly including hardware; level and plumb, to provide smooth operation.
+3.03 TOLERANCES
+A.
+Maintain dimensional tolerances and alignment with adjacent work.
+B.
+Maximum Variation From Plumb: 1/16 inch (1.5 mm).
+C.
+Maximum Variation From Level: 1/16 inch (1.5 mm).
+D.
+Longitudinal or Diagonal Warp: Plus or minus 1/8 inch per 10 ft (3 mm per 3 m) straight edge.
+3.04 ADJUSTING
+A.
+Adjust operating assemblies for smooth and noiseless operation.
+
+
+===== PAGE 9 =====
+Nye County School District
+Bid Documents
+08 3313
+Tonopah HS Field Replacement
+Coiling Counter Doors
+April 20, 2026
+Page 3 of 3
+3.05 CLEANING
+A.
+Clean installed components.
+B.
+Remove labels and visible markings.
+END OF SECTION
+
+
+===== PAGE 10 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 11 =====
+Nye County School District
+Bid Documents
+08 3323
+Tonopah HS Field Replacement
+Overhead Coiling Doors
+April 20, 2026
+Page 1 of 3
+SECTION 08 3323
+OVERHEAD COILING DOORS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Exterior coiling doors.
+1.02 RELATED REQUIREMENTS
+A.
+Section 07 9200 - Joint Sealants: Sealing joints between frames and adjacent construction.
+B.
+Section 08 7100 - Door Hardware: Cylinder cores and keys.
+C.
+Section 09 9113 -  EXTERIOR PAINTING: Field paint finish.
+D.
+Section 09 9123 -  INTERIOR PAINTING: Field paint finish.
+1.03 REFERENCE STANDARDS
+A.
+ASTM A36/A36M - Standard Specification for Carbon Structural Steel; 2019.
+B.
+ASTM A123/A123M - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron
+and Steel Products; 2017.
+C.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide ​for each type and size of overhead coiling door and accessory​.
+C.
+Shop Drawings: Indicate pertinent dimensioning, anchorage methods, hardware locations, and
+installation details.
+D.
+Maintenance Data: Indicate lubrication requirements and frequency and periodic adjustments
+required.
+E.
+Warranty: Submit manufacturer warranty and ensure forms have been completed in Owner's
+name and registered with manufacturer.
+1.05 WARRANTY
+A.
+See Section 01 7800 - Closeout Submittals for warranty requirements.
+B.
+Correct defective Work within a five year period after Date of Substantial Completion.
+C.
+Provide five year manufacturer warranty for electric operating equipment.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Overhead Coiling Doors:
+1.
+Alpine Overhead Doors, Inc: www.alpinedoors.com.
+2.
+Clopay Building Products; Model CERD20: www.clopaydoor.com/#sle.
+3.
+Cornell Iron Works, Inc: www.cornelliron.com.
+4.
+The Cookson Company; ____: www.cooksondoor.com/#sle.
+5.
+Wayne-Dalton, a Division of Overhead Door Corporation: www.wayne-dalton.com/#sle.
+6.
+Overhead Door Corp.: www.overheaddoor.com.
+7.
+McKeon Rolling Steel Door Company, Inc.: www.mckeondoor.com.
+8.
+______.
+2.02 COILING DOORS
+A.
+Exterior Coiling Doors​ Type flat​: ​Steel​ slat curtain.
+1.
+Basis of Design: Overhead Door Corporation; Model 653.
+
+
+===== PAGE 12 =====
+Nye County School District
+Bid Documents
+08 3323
+Tonopah HS Field Replacement
+Overhead Coiling Doors
+April 20, 2026
+Page 2 of 3
+2.
+Capable of withstanding positive and negative wind loads of 20 psf (940 Pa) without
+undue deflection or damage to components.
+3.
+Sandwich slat construction with insulated core of ​foamed-in-place polyurethane​ insulation;
+minimum ​R-value of R-29​.
+4.
+Nominal Slat Size: 2 inches (50 mm) wide by required length.
+5.
+Finish: ​Factory finish.​.
+6.
+Guide, Angles: ​Galvanized steel​.
+7.
+Hood Enclosure: Manufacturer's standard; primed steel.
+8.
+Manual hand chain lift operation.
+9.
+Mounting: Within framed opening.
+10.
+Padlockable slide bolt on coil side of bottom bar at each jamb extending into slots in
+guides.
+2.03 MATERIALS AND COMPONENTS
+A.
+Metal Curtain Construction: Interlocking slats.
+1.
+Slat Ends: Each slat fitted with end locks to act as wearing surface in guides and to
+prevent lateral movement.
+2.
+Curtain Bottom for Slat Curtains: Fitted with angles to provide reinforcement and positive
+contact in closed position.
+3.
+Weatherstripping for Exterior Doors: Moisture and rot proof, resilient type, located at jamb
+edges, bottom of curtain, and where curtain enters hood enclosure of exterior doors.
+4.
+Steel Slats: Minimum thickness, ​20 gauge, 1-7/8 inch (___ mm)​; ASTM A653/A653M
+galvanized steel sheet.
+B.
+Guide Construction: Continuous, of profile to retain door in place, mounting brackets of same
+metal.
+C.
+Guides - Angle: ASTM A36/A36M metal angles, size as indicated.
+1.
+Hot-dip galvanized in compliance with ASTM A123/A123M.
+D.
+Hood Enclosure and Trim: Internally reinforced to maintain rigidity and shape.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that adjacent construction is suitable for door installation.
+B.
+Verify that electrical services have been installed and are accessible.
+C.
+Verify that door opening is plumb, header is level, and dimensions are correct.
+D.
+Notify Architect of any unacceptable conditions or varying dimensions.
+E.
+Commencement of installation indicates acceptance of substrate and door opening conditions.
+3.02 INSTALLATION
+A.
+Install units in accordance with manufacturer's instructions.
+B.
+Use anchorage devices to securely fasten assembly to wall construction and building framing
+without distortion or stress.
+C.
+Securely and rigidly brace components suspended from structure. Secure guides to structural
+members only.
+D.
+Fit and align assembly including hardware; level and plumb, to provide smooth operation.
+E.
+Install enclosure and perimeter trim.
+3.03 TOLERANCES
+A.
+Maintain dimensional tolerances and alignment with adjacent work.
+B.
+Maximum Variation From Plumb: 1/16 inch (1.6 mm).
+C.
+Maximum Variation From Level: 1/16 inch (1.6 mm).
+
+
+===== PAGE 13 =====
+Nye County School District
+Bid Documents
+08 3323
+Tonopah HS Field Replacement
+Overhead Coiling Doors
+April 20, 2026
+Page 3 of 3
+D.
+Longitudinal or Diagonal Warp: Plus or minus 1/8 inch per 10 feet (3.2 mm per 3 m) straight
+edge.
+3.04 ADJUSTING
+A.
+Adjust operating assemblies for smooth and noiseless operation.
+3.05 CLEANING
+A.
+Clean installed components.
+B.
+Remove labels and visible markings.
+END OF SECTION
+
+
+===== PAGE 14 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank

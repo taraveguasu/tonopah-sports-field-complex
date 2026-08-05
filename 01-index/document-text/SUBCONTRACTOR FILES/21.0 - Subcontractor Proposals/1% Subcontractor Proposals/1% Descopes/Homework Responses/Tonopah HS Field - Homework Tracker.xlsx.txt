@@ -1,0 +1,29 @@
+=== SHEET: Sheet1 ===
+Company Name	Scope	Descope Date	Homework Returned	Notes
+Black Canyon Construction	Landscaping & Irrigation	2026-05-14 00:00:00	Yes, 5/21/26	Sent reminder 5/20/26
+Bombard Mechanical	Plumbing Systems, HVAC	2026-05-18 00:00:00	Yes, 5/21/26
+Brightview Landscape (GTI 1)	Landscaping & Irrigation	2026-05-15 00:00:00	Yes
+California Bleachers (Nata Construction)	Bleachers & Pressbox	2026-05-19 00:00:00		Sent reminder 5/19/26
+CG&B Enterprises	Synthetic Turf Sports Field	2026-05-20 00:00:00		Sent reminder 5/20/26
+Cheek Construction	Concrete	2026-05-20 00:00:00	Yes
+Corona Steel	Structural Steel & Ornamental Metals	2026-05-19 00:00:00	Yes, 5/20/2026
+Elite Sports Builders	Running Track Surfacing	2026-05-14 00:00:00	Yes, 5/14/26
+Foursquare Roofs & Walls	Metal Roofing, Fascia & Soffit Panels	2026-05-19 00:00:00	Yes, 5/19/26
+Henderson Masonry	Masonry	2026-05-21 00:00:00	N/A	No homework given
+Jetstream	Framing, Drywall & Painting	2026-05-19 00:00:00	Yes
+JW Electric	Electrical & Low Voltage Systems	2026-05-19 00:00:00		Sent reminder 5/19/26
+M&H Building Specialties	Framing, Drywall & Painting	2026-05-19 00:00:00	Yes
+NDX	Site Demo/Clearing, Salvage, Earthwork, Asphalt Pavement, & Wet Utilities	2026-05-14 00:00:00	Yes, 5/19/26
+New-Com (TAB Contractors)	Site Demo/Clearing, Salvage, Earthwork, Asphalt Pavement, & Wet Utilities	2026-05-19 00:00:00	Yes
+Northstar Contracting Group	Abatement & Building Wrecking	2026-05-14 00:00:00	Yes, 5/19/26
+Quantum Electric	Electrical & Low Voltage Systems	2026-05-20 00:00:00	Yes, 5/21/26	Sent reminder 5/20/26
+Red Star Fence	Fencing	2026-05-14 00:00:00	Yes
+Sahara Concrete	Concrete	2026-05-15 00:00:00	Yes, 5/20/2026
+Sprinturf	Landscaping & Irrigation	2026-05-15 00:00:00	N/A	No homework given
+Sunrise Air Systems	HVAC	2026-05-18 00:00:00
+Tahoe Fence Co.	Fencing		N/A
+Tand	Landscaping & Irrigation,	2026-05-15 00:00:00	Yes, 5/20/2026
+The Monument Company	Site Demo/Clearing, Salvage, Earthwork, Asphalt Pavement, & Wet Utilities, Running Track Surfacing	2026-05-14 00:00:00	Yes, 5/15/26
+Universal Plumbing & Heating	Plumbing Systems	2026-05-18 00:00:00
+US Mechanical	Plumbing Systems, HVAC	2026-05-18 00:00:00	Yes
+Wheeler's Electric	Electrical & Low Voltage Systems	2026-05-18 00:00:00	Yes

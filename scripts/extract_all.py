@@ -101,7 +101,19 @@ def extract(p: Path, census_only=False):
     if ext in (".xlsx", ".xlsm"):
         return ("xlsx", "" if census_only else xlsx_text(p), 1, 0)
     if ext == ".xls":
-        return ("xls-unsupported", "", 1, 0)
+        # Legacy BIFF format. xlrd reads it directly; LibreOffice is not needed.
+        import xlrd
+        if census_only:
+            return ("xls", "", 1, 0)
+        wb = xlrd.open_workbook(p)
+        out = []
+        for sh in wb.sheets():
+            out.append(f"=== SHEET: {sh.name} ===")
+            for r in range(sh.nrows):
+                row = [str(sh.cell_value(r, c)) for c in range(sh.ncols)]
+                if any(x.strip() for x in row):
+                    out.append("\t".join(row).rstrip())
+        return ("xls", "\n".join(out), 1, 0)
     if ext != ".pdf":
         return ("skip", "", 0, 0)
 

@@ -1,0 +1,4449 @@
+
+===== PAGE 1 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 1 of 8 
+ 
+SECTION 32 12 16 
+ASPHALT PAVING 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A. 
+Section Includes: 
+1. 
+Cold milling of existing hot-mix asphalt pavement. 
+2. 
+Hot-mix asphalt patching. 
+3. 
+Hot-mix asphalt paving. 
+4. 
+Hot-mix asphalt paving overlay. 
+5. 
+Pavement-marking paint. 
+B. 
+Related Sections: 
+1. 
+Division 31 Section "Earth Moving" for aggregate subbase and base courses and for 
+aggregate pavement shoulders. 
+2. 
+Division 32 Section "Concrete Paving Joint Sealants" for joint sealants and fillers at 
+paving terminations. 
+1.2 
+SUBMITTALS 
+A. 
+Product Data:  For each type of product indicated.  Include technical data and tested physical 
+and performance properties. 
+1. 
+Job-Mix Designs:  Certification, by authorities having jurisdiction, of approval of each 
+job mix proposed for the Work. 
+2. 
+Job-Mix Designs:  For each job mix proposed for the Work. 
+B. 
+Material Certificates:  For each paving material, from manufacturer. 
+1.3 
+QUALITY ASSURANCE 
+A. 
+Manufacturer Qualifications:  A paving-mix manufacturer registered with and approved by 
+authorities having jurisdiction or the DOT of state in which Project is located. 
+B. 
+Regulatory Requirements:  Comply with materials, workmanship, and other applicable 
+requirements of Nye County Public Works and/or Nevada Department of Transportation for 
+asphalt paving work. 
+1. 
+Measurement and payment provisions and safety program submittals included in standard 
+specifications do not apply to this Section. 
+C. 
+Preinstallation Conference:  Conduct conference at Tonopah Elementary School. 
+
+
+===== PAGE 2 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 2 of 8 
+ 
+1.4 
+PROJECT CONDITIONS 
+A. 
+Environmental Limitations:  Do not apply asphalt materials if subgrade is wet or excessively 
+damp, if rain is imminent or expected before time required for adequate cure, or if the following 
+conditions are not met: 
+1. 
+Tack Coat:  Minimum surface temperature of 60 deg F. 
+2. 
+Asphalt Base Course:  Minimum surface temperature of 40 deg F and rising at time of 
+placement. 
+3. 
+Asphalt Surface Course:  Minimum surface temperature of 60 deg F at time of placement. 
+B. 
+Pavement-Marking Paint:  Proceed with pavement marking only on clean, dry surfaces and at a 
+minimum ambient or surface temperature of 40 deg F for oil-based materials, 55 deg F water-
+based materials, and not exceeding 95 deg F. 
+PART 2 - PRODUCTS 
+2.1 
+AGGREGATES 
+A. 
+Coarse Aggregate:  ASTM D 692, sound; angular crushed stone, crushed gravel, or cured, 
+crushed blast-furnace slag. 
+B. 
+Fine Aggregate:  ASTM D 1073 or AASHTO M 29, sharp-edged natural sand or sand prepared 
+from stone, gravel, cured blast-furnace slag, or combinations thereof. 
+C. 
+Mineral Filler:  ASTM D 242 or AASHTO M 17, rock or slag dust, hydraulic cement, or other 
+inert material. 
+2.2 
+ASPHALT MATERIALS 
+A. 
+Asphalt Binder:  AASHTO M 320 or AASHTO MP 1a, PG 64-22 or PG 76-22. 
+B. 
+Tack Coat:  ASTM D 977 or AASHTO M 140 emulsified asphalt, or ASTM D 2397 or 
+AASHTO M 208 cationic emulsified asphalt, slow setting, diluted in water, of suitable grade 
+and consistency for application. 
+2.3 
+AUXILIARY MATERIALS 
+A. 
+Herbicide:  Commercial chemical for weed control, registered by the EPA.  Provide in granular, 
+liquid, or wettable powder form. 
+B. 
+Pavement-Marking Paint:  MPI #32 Alkyd Traffic Marking Paint. 
+1. 
+Color:  As indicated on the plans. 
+C. 
+Pavement-Marking Paint:  MPI #97 Latex Traffic Marking Paint. 
+1. 
+Color:  As indicated on the plans. 
+
+
+===== PAGE 3 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 3 of 8 
+ 
+D. 
+Glass Beads:  AASHTO M 247, Type 1. 
+E. 
+Wheel Stops:  Precast, air-entrained concrete, 2500-psi minimum compressive strength, 4-1/2 
+inches high by 9 inches wide by 72 inches long.  Provide chamfered corners, drainage slots on 
+underside, and holes for anchoring to substrate. 
+1. 
+Dowels:  Galvanized steel, 3/4-inch diameter, 10-inch minimum length. 
+F. 
+Wheel Stops:  Solid, integrally colored, 96 percent recycled HDPE or commingled 
+postconsumer and postindustrial recycled plastic; UV stabilized; 4 inches high by 6 inches wide 
+by 72 inches long.  Provide chamfered corners, drainage slots on underside, and holes for 
+anchoring to substrate. 
+1. 
+Dowels:  Galvanized steel, 3/4-inch diameter, 10-inch minimum length. 
+2. 
+Adhesive:  As recommended by wheel-stop manufacturer for application to asphalt 
+pavement. 
+2.4 
+MIXES 
+A. 
+Hot-Mix Asphalt:  Dense, hot-laid, hot-mix asphalt plant mixes approved by authorities having 
+jurisdiction; designed according to procedures in AI MS-2, "Mix Design Methods for Asphalt 
+Concrete and Other Hot-Mix Types"; and complying with the following requirements: 
+1. 
+Provide mixes with a history of satisfactory performance in geographical area where 
+Project is located. 
+2. 
+Base Course:  As indicated on the plans. 
+3. 
+Surface Course:  As indicated on the plans. 
+PART 3 - EXECUTION 
+3.1 
+EXAMINATION 
+A. 
+Proof-roll subgrade below pavements with heavy pneumatic-tired equipment to identify soft 
+pockets and areas of excess yielding.  Do not proof-roll wet or saturated subgrades. 
+B. 
+Proceed with paving only after unsatisfactory conditions have been corrected. 
+3.2 
+COLD MILLING 
+A. 
+Clean existing pavement surface of loose and deleterious material immediately before cold 
+milling.  Remove existing asphalt pavement by cold milling to grades and cross sections 
+indicated. 
+1. 
+Mill to a depth of 2 inches. 
+
+
+===== PAGE 4 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 4 of 8 
+ 
+3.3 
+PATCHING 
+A. 
+Hot-Mix Asphalt Pavement:  Saw cut perimeter of patch and excavate existing pavement 
+section to sound base.  Excavate rectangular or trapezoidal patches, extending 12 inches into 
+adjacent sound pavement, unless otherwise indicated.  Cut excavation faces vertically.  Remove 
+excavated material.  Recompact existing unbound-aggregate base course to form new subgrade. 
+B. 
+Portland Cement Concrete Pavement:  Break cracked slabs and roll as required to reseat 
+concrete pieces firmly. 
+1. 
+Remove disintegrated or badly cracked pavement.  Excavate rectangular or trapezoidal 
+patches, extending into adjacent sound pavement, unless otherwise indicated.  Cut 
+excavation faces vertically.  Recompact existing unbound-aggregate base course to form 
+new subgrade. 
+C. 
+Tack Coat:  Apply uniformly to vertical surfaces abutting or projecting into new, hot-mix 
+asphalt paving at a rate of 0.05 to 0.15 gal./sq. yd. 
+1. 
+Allow tack coat to cure undisturbed before applying hot-mix asphalt paving. 
+2. 
+Avoid smearing or staining adjoining surfaces, appurtenances, and surroundings.  
+Remove spillages and clean affected surfaces. 
+D. 
+Patching:  Fill excavated pavements with hot-mix asphalt base mix for full thickness of patch 
+and, while still hot, compact flush with adjacent surface. 
+3.4 
+SURFACE PREPARATION 
+A. 
+General:  Immediately before placing asphalt materials, remove loose and deleterious material 
+from substrate surfaces.  Ensure that prepared subgrade is ready to receive paving. 
+B. 
+Herbicide Treatment:  Apply herbicide according to manufacturer's recommended rates and 
+written application instructions.  Apply to dry, prepared subgrade or surface of compacted-
+aggregate base before applying paving materials. 
+C. 
+Tack Coat:  Apply uniformly to surfaces of existing pavement at a rate of 0.05 to 0.15 gal./sq. 
+yd. 
+1. 
+Allow tack coat to cure undisturbed before applying hot-mix asphalt paving. 
+2. 
+Avoid smearing or staining adjoining surfaces, appurtenances, and surroundings.  
+Remove spillages and clean affected surfaces. 
+3.5 
+HOT-MIX ASPHALT PLACING 
+A. 
+Machine place hot-mix asphalt on prepared surface, spread uniformly, and strike off.  Place 
+asphalt mix by hand to areas inaccessible to equipment in a manner that prevents segregation of 
+mix.  Place each course to required grade, cross section, and thickness when compacted. 
+1. 
+Spread mix at minimum temperature of 250 deg F. 
+2. 
+Regulate paver machine speed to obtain smooth, continuous surface free of pulls and 
+tears in asphalt-paving mat. 
+
+
+===== PAGE 5 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 5 of 8 
+ 
+B. 
+Place paving in consecutive strips not less than 10 feet wide unless infill edge strips of a lesser 
+width are required. 
+C. 
+Promptly correct surface irregularities in paving course behind paver.  Use suitable hand tools 
+to remove excess material forming high spots.  Fill depressions with hot-mix asphalt to prevent 
+segregation of mix; use suitable hand tools to smooth surface. 
+3.6 
+JOINTS 
+A. 
+Construct joints to ensure a continuous bond between adjoining paving sections.  Construct 
+joints free of depressions, with same texture and smoothness as other sections of hot-mix 
+asphalt course. 
+1. 
+Clean contact surfaces and apply tack coat to joints. 
+2. 
+Offset longitudinal joints, in successive courses, a minimum of 6 inches. 
+3. 
+Offset transverse joints, in successive courses, a minimum of 24 inches. 
+4. 
+Construct transverse joints at each point where paver ends a day's work and resumes 
+work at a subsequent time.  Construct these joints using either "bulkhead" or "papered" 
+method according to AI MS-22, for both "Ending a Lane" and "Resumption of Paving 
+Operations." 
+3.7 
+COMPACTION 
+A. 
+General:  Begin compaction as soon as placed hot-mix paving will bear roller weight without 
+excessive displacement.  Compact hot-mix paving with hot, hand tampers or with vibratory-
+plate compactors in areas inaccessible to rollers. 
+1. 
+Complete compaction before mix temperature cools to 185 deg F. 
+B. 
+Breakdown Rolling:  Complete breakdown or initial rolling immediately after rolling joints and 
+outside edge.  Examine surface immediately after breakdown rolling for indicated crown, grade, 
+and smoothness.  Correct laydown and rolling operations to comply with requirements. 
+C. 
+Intermediate Rolling:  Begin intermediate rolling immediately after breakdown rolling while 
+hot-mix asphalt is still hot enough to achieve specified density.  Continue rolling until hot-mix 
+asphalt course has been uniformly compacted to the following density: 
+1. 
+Average Density:  92 percent of reference maximum theoretical density according to 
+ASTM D 2041, but not less than 90 percent nor greater than 96 percent. 
+D. 
+Finish Rolling:  Finish roll paved surfaces to remove roller marks while hot-mix asphalt is still 
+warm. 
+E. 
+Edge Shaping:  While surface is being compacted and finished, trim edges of pavement to 
+proper alignment.  Bevel edges while asphalt is still hot; compact thoroughly. 
+F. 
+Protection:  After final rolling, do not permit vehicular traffic on pavement until it has cooled 
+and hardened. 
+
+
+===== PAGE 6 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 6 of 8 
+ 
+G. 
+Erect barricades to protect paving from traffic until mixture has cooled enough not to become 
+marked. 
+3.8 
+ASPHALT CURBS 
+A. 
+Construct hot-mix asphalt curbs over compacted pavement surfaces.  Apply a light tack coat 
+unless pavement surface is still tacky and free from dust.  Spread mix at minimum temperature 
+of 250 deg F. 
+1. 
+Asphalt Mix:  Same as pavement surface-course mix. 
+B. 
+Place hot-mix asphalt to curb cross section indicated or, if not indicated, to local standard 
+shapes, by machine or by hand in wood or metal forms.  Tamp hand-placed materials and screed 
+to smooth finish.  Remove forms after hot-mix asphalt has cooled. 
+3.9 
+INSTALLATION TOLERANCES 
+A. 
+Pavement Thickness:  Compact each course to produce the thickness indicated within the 
+following tolerances: 
+1. 
+Base Course:  Plus or minus 1/2 inch. 
+2. 
+Surface Course:  Plus 1/4 inch, no minus. 
+B. 
+Pavement Surface Smoothness:  Compact each course to produce a surface smoothness within 
+the following tolerances as determined by using a 10-foot straightedge applied transversely or 
+longitudinally to paved areas: 
+1. 
+Base Course:  1/4 inch. 
+2. 
+Surface Course:  1/8 inch. 
+3. 
+Crowned Surfaces:  Test with crowned template centered and at right angle to crown.  
+Maximum allowable variance from template is 1/4 inch. 
+3.10 
+PAVEMENT MARKING 
+A. 
+Do not apply pavement-marking paint until layout, colors, and placement have been verified 
+with Architect. 
+B. 
+Allow paving to age for 30 days before starting pavement marking. 
+C. 
+Sweep and clean surface to eliminate loose material and dust. 
+D. 
+Apply paint with mechanical equipment to produce pavement markings, of dimensions 
+indicated, with uniform, straight edges.  Apply at manufacturer's recommended rates to provide 
+a minimum wet film thickness of 15 mils. 
+1. 
+Broadcast glass beads uniformly into wet pavement markings at a rate of 6 lb/gal. 
+
+
+===== PAGE 7 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 7 of 8 
+ 
+3.11 
+WHEEL STOPS 
+A. 
+Install wheel stops in bed of adhesive as recommended by manufacturer. 
+B. 
+Securely attach wheel stops to pavement with not less than two galvanized-steel dowels 
+embedded at one-quarter to one-third points.  Securely install dowels into pavement and bond to 
+wheel stop.  Recess head of dowel beneath top of wheel stop. 
+3.12 
+FIELD QUALITY CONTROL 
+A. 
+Testing Agency:  Owner will engage a qualified testing agency to perform tests and inspections. 
+B. 
+Replace and compact hot-mix asphalt where core tests were taken. 
+C. 
+Remove and replace or install additional hot-mix asphalt where test results or measurements 
+indicate that it does not comply with specified requirements. 
+3.13 
+DISPOSAL 
+A. 
+Except for material indicated to be recycled, remove excavated materials from Project site and 
+legally dispose of them in an EPA-approved landfill. 
+END OF SECTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 8 =====
+Nye County School District 
+Design Development 
+32 12 16 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Asphalt Paving 
+ 
+ 
+Page 8 of 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page left intentionally blank 
+
+
+===== PAGE 9 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 1 of 8 
+SECTION 32 13 13 
+CONCRETE PAVING 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A. 
+Section Includes: 
+1. 
+Driveways. 
+2. 
+Roadways. 
+3. 
+Parking lots. 
+4. 
+Curbs and gutters. 
+5. 
+Walks. 
+1.2 
+SUBMITTALS 
+A. 
+Product Data:  For each type of product indicated. 
+B. 
+Samples:  For each exposed product and for each color and texture specified. 
+C. 
+Other Action Submittals: 
+1. 
+Design Mixtures:  For each concrete paving mixture.  Include alternate design mixtures 
+when characteristics of materials, Project conditions, weather, test results, or other 
+circumstances warrant adjustments. 
+1.3 
+QUALITY ASSURANCE 
+A. 
+Ready-Mix-Concrete Manufacturer Qualifications:  A firm experienced in manufacturing ready-
+mixed concrete products and that complies with ASTM C 94/C 94M requirements for 
+production facilities and equipment. 
+B. 
+ACI Publications:  Comply with ACI 301 unless otherwise indicated. 
+PART 2 - PRODUCTS 
+2.1 
+STEEL REINFORCEMENT 
+A. 
+Recycled Content:  Provide steel reinforcement with an average recycled content of steel so 
+postconsumer recycled content plus one-half of preconsumer recycled content is not less than 
+25 percent. 
+
+
+===== PAGE 10 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 2 of 8 
+B. 
+Plain-Steel Welded Wire Reinforcement:  ASTM A 185/A 185M, fabricated from as-drawn 
+steel wire into flat sheets. 
+C. 
+Deformed-Steel Welded Wire Reinforcement:  ASTM A 497/A 497M, flat sheet. 
+D. 
+Reinforcing Bars:  ASTM A 615/A 615M, Grade 60; deformed. 
+E. 
+Plain-Steel Wire:  ASTM A 82/A 82M, as drawn. 
+F. 
+Deformed-Steel Wire:  ASTM A 496/A 496M. 
+G. 
+Dowel Bars:  ASTM A 615/A 615M, Grade 60 plain-steel bars; zinc coated (galvanized) after 
+fabrication according to ASTM A 767/A 767M, Class I coating.  Cut bars true to length with 
+ends square and free of burrs. 
+H. 
+Bar Supports:  Bolsters, chairs, spacers, and other devices for spacing, supporting, and fastening 
+reinforcing bars, welded wire reinforcement, and dowels in place.  Manufacture bar supports 
+according to CRSI's "Manual of Standard Practice" from steel wire, plastic, or precast concrete 
+of greater compressive strength than concrete specified. 
+2.2 
+CONCRETE MATERIALS 
+A. 
+Cementitious Material:  Use the following cementitious materials, of same type, brand, and 
+source throughout Project: 
+1. 
+Portland Cement:  ASTM C 150, gray or white portland cement Type I, Type II, 
+Type I/II, or Type V.  Supplement with the following: 
+a. 
+Fly Ash:  ASTM C 618, Class F. 
+b. 
+Ground Granulated Blast-Furnace Slag:  ASTM C 989, Grade 100 or 120. 
+2. 
+Blended Hydraulic Cement:  ASTM C 595, Type IP, portland-pozzolan cement. 
+B. 
+Normal-Weight Aggregates:  ASTM C 33, Class 4S, Class 4M, or Class 1N, uniformly graded.  
+Provide aggregates from a single source. 
+C. 
+Water:  Potable and complying with ASTM C 94/C 94M. 
+D. 
+Air-Entraining Admixture:  ASTM C 260. 
+E. 
+Chemical Admixtures:  Admixtures certified by manufacturer to be compatible with other 
+admixtures and to contain no more than 0.1 percent water-soluble chloride ions by mass of 
+cementitious material. 
+F. 
+Color Pigment:  ASTM C 979, synthetic mineral-oxide pigments or colored water-reducing 
+admixtures; color stable, free of carbon black, nonfading, and resistant to lime and other alkalis. 
+1. 
+Color:  As selected by Architect from manufacturer's full range. 
+
+
+===== PAGE 11 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 3 of 8 
+2.3 
+FIBER REINFORCEMENT 
+A. 
+Synthetic Fiber:  Monofilament or fibrillated polypropylene fibers engineered and designed for 
+use in concrete paving, complying with ASTM C 1116/C 1116M, Type III, 1/2 to 1-1/2 inches 
+long. 
+2.4 
+CURING MATERIALS 
+A. 
+Absorptive Cover:  AASHTO M 182, Class 3, burlap cloth made from jute or kenaf, weighing 
+approximately 9 oz./sq. yd. dry or cotton mats. 
+B. 
+Moisture-Retaining Cover:  ASTM C 171, polyethylene film or white burlap-polyethylene 
+sheet. 
+C. 
+Water:  Potable. 
+D. 
+Evaporation Retarder:  Waterborne, monomolecular, film forming, manufactured for application 
+to fresh concrete. 
+E. 
+Clear, Waterborne, Membrane-Forming Curing Compound:  ASTM C 309, Type 1, Class B, 
+dissipating. 
+F. 
+White, Waterborne, Membrane-Forming Curing Compound:  ASTM C 309, Type 2, Class B, 
+dissipating. 
+2.5 
+RELATED MATERIALS 
+A. 
+Joint Fillers:  ASTM D 1751, asphalt-saturated cellulosic fiber or ASTM D 1752, cork or self-
+expanding cork in preformed strips. 
+B. 
+Slip-Resistive Aggregate Finish:  Factory-graded, packaged, rustproof, nonglazing, abrasive 
+aggregate of fused aluminum-oxide granules or crushed emery aggregate containing not less 
+than 50 percent aluminum oxide and not less than 20 percent ferric oxide; unaffected by 
+freezing, moisture, and cleaning materials. 
+2.6 
+PAVEMENT MARKINGS 
+A. 
+Pavement-Marking Paint:  Latex, waterborne emulsion, lead and chromate free, ready mixed, 
+complying with FS TT-P-1952, Type II, with drying time of less than 45 minutes. 
+1. 
+Color:  As indicated on plans. 
+B. 
+Pavement-Marking Paint:  MPI #97 Latex Traffic Marking Paint. 
+1. 
+Color:  As indicated on plans. 
+
+
+===== PAGE 12 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 4 of 8 
+2.7 
+WHEEL STOPS 
+A. 
+Wheel Stops:  Precast, air-entrained concrete or Solid, integrally colored, 96 percent recycled 
+HDPE, or commingled postconsumer and postindustrial recycled rubber or plastic; UV 
+stabilized. 
+1. 
+Color:  As indicated on plans. 
+2. 
+Dowels:  Galvanized steel, 3/4 inch in diameter, 10-inch minimum length. 
+3. 
+Adhesive:  As recommended by wheel stop manufacturer for application to concrete 
+pavement. 
+2.8 
+CONCRETE MIXTURES 
+A. 
+Prepare design mixtures, proportioned according to ACI 301, with the following properties: 
+1. 
+Compressive Strength (28 Days):  As indicated on plans. 
+2. 
+Maximum Water-Cementitious Materials Ratio at Point of Placement: 0.45. 
+3. 
+Slump Limit:  4 inches to 8 inches, plus or minus 1 inch. 
+4. 
+Air Content:  4-1/2 to 6 percent plus or minus 1.5 percent. 
+B. 
+Chemical Admixtures:  Use admixtures according to manufacturer's written instructions. 
+C. 
+Synthetic Fiber:  Uniformly disperse in concrete mixture at manufacturer's recommended rate, 
+but not less than 1.0 lb/cu. yd.  
+D. 
+Color Pigment:  Add color pigment to concrete mixture according to manufacturer's written 
+instructions. 
+2.9 
+CONCRETE MIXING 
+A. 
+Ready-Mixed Concrete:  Measure, batch, and mix concrete materials and concrete according to 
+ASTM C 94/C 94M and ASTM C 1116/C 1116M.  Furnish batch certificates for each batch 
+discharged and used in the Work. 
+PART 3 - EXECUTION 
+3.1 
+EXAMINATION AND PREPARATION 
+A. 
+Proof-roll prepared subbase surface below concrete paving to identify soft pockets and areas of 
+excess yielding. 
+B. 
+Remove loose material from compacted subbase surface immediately before placing concrete. 
+
+
+===== PAGE 13 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 5 of 8 
+3.2 
+EDGE FORMS AND SCREED CONSTRUCTION 
+A. 
+Set, brace, and secure edge forms, bulkheads, and intermediate screed guides to required lines, 
+grades, and elevations.  Install forms to allow continuous progress of work and so forms can 
+remain in place at least 24 hours after concrete placement. 
+B. 
+Clean forms after each use and coat with form-release agent to ensure separation from concrete 
+without damage. 
+3.3 
+STEEL REINFORCEMENT 
+A. 
+General:  Comply with CRSI's "Manual of Standard Practice" for fabricating, placing, and 
+supporting reinforcement. 
+3.4 
+JOINTS 
+A. 
+General:  Form construction, isolation, and contraction joints and tool edges true to line, with 
+faces perpendicular to surface plane of concrete.  Construct transverse joints at right angles to 
+centerline unless otherwise indicated. 
+B. 
+Construction Joints:  Set construction joints at side and end terminations of paving and at 
+locations where paving operations are stopped for more than one-half hour unless paving 
+terminates at isolation joints. 
+C. 
+Isolation Joints:  Form isolation joints of preformed joint-filler strips abutting concrete curbs, 
+catch basins, manholes, inlets, structures, other fixed objects, and where indicated. 
+D. 
+Contraction Joints:  Form weakened-plane contraction joints, sectioning concrete into areas as 
+indicated.  Construct contraction joints for a depth equal to at least one-fourth of the concrete 
+thickness or to match jointing of existing adjacent concrete paving. 
+E. 
+Edging:  After initial floating, tool edges of paving, gutters, curbs, and joints in concrete with an 
+edging tool to a 1/4-inch radius.  Repeat tooling of edges after applying surface finishes. 
+Eliminate edging-tool marks on concrete surfaces. 
+3.5 
+CONCRETE PLACEMENT 
+A. 
+Moisten subbase to provide a uniform dampened condition at time concrete is placed. 
+B. 
+Comply with ACI 301 requirements for measuring, mixing, transporting, placing, and 
+consolidating concrete. 
+C. 
+Deposit and spread concrete in a continuous operation between transverse joints.  Do not push 
+or drag concrete into place or use vibrators to move concrete into place. 
+D. 
+Screed paving surface with a straightedge and strike off. 
+
+
+===== PAGE 14 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 6 of 8 
+E. 
+Commence initial floating using bull floats or darbies to impart an open-textured and uniform 
+surface plane before excess moisture or bleed water appears on the surface.  Do not further 
+disturb concrete surfaces before beginning finishing operations or spreading surface treatments. 
+3.6 
+FLOAT FINISHING 
+A. 
+General:  Do not add water to concrete surfaces during finishing operations. 
+B. 
+Float Finish:  Begin the second floating operation when bleed-water sheen has disappeared and 
+concrete surface has stiffened sufficiently to permit operations.  Float surface with power-driven 
+floats or by hand floating if area is small or inaccessible to power units.  Finish surfaces to true 
+planes.  Cut down high spots and fill low spots.  Refloat surface immediately to uniform 
+granular texture. 
+1. 
+Burlap Finish:  Drag a seamless strip of damp burlap across float-finished concrete, 
+perpendicular to line of traffic, to provide a uniform, gritty texture. 
+2. 
+Medium-to-Fine-Textured Broom Finish:  Draw a soft-bristle broom across float-finished 
+concrete surface perpendicular to line of traffic to provide a uniform, fine-line texture. 
+3. 
+Medium-to-Coarse-Textured Broom Finish:  Provide a coarse finish by striating float-
+finished concrete surface 1/16 to 1/8 inch deep with a stiff-bristled broom, perpendicular 
+to line of traffic. 
+C. 
+Slip-Resistive Aggregate Finish:  Before final floating, spread slip-resistive aggregate finish on 
+paving surface according to manufacturer's written instructions. 
+1. 
+Cure concrete with curing compound recommended by slip-resistive aggregate 
+manufacturer.  Apply curing compound immediately after final finishing. 
+2. 
+After curing, lightly work surface with a steel wire brush or abrasive stone and water to 
+expose nonslip aggregate. 
+3.7 
+CONCRETE PROTECTION AND CURING 
+A. 
+General:  Protect freshly placed concrete from premature drying and excessive cold or hot 
+temperatures. 
+B. 
+Comply with ACI 306.1 for cold-weather protection. 
+C. 
+Evaporation Retarder:  Apply evaporation retarder to concrete surfaces if hot, dry, or windy 
+conditions cause moisture loss approaching 0.2 lb/sq. ft. x h before and during finishing 
+operations.  Apply according to manufacturer's written instructions after placing, screeding, and 
+bull floating or darbying concrete but before float finishing. 
+D. 
+Begin curing after finishing concrete but not before free water has disappeared from concrete 
+surface. 
+E. 
+Curing Methods:  Cure concrete by moisture curing, moisture-retaining-cover curing or curing 
+compound or a combination of these. 
+
+
+===== PAGE 15 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 7 of 8 
+3.8 
+PAVING TOLERANCES 
+A. 
+Comply with tolerances in ACI 117 and as follows: 
+1. 
+Elevation:  3/4 inch. 
+2. 
+Thickness:  Plus 3/8 inch, minus 1/4 inch. 
+3. 
+Surface:  Gap below 10-foot-long, unleveled straightedge not to exceed 1/2 inch. 
+4. 
+Joint Spacing:  3 inches. 
+5. 
+Contraction Joint Depth:  Plus 1/4 inch, no minus. 
+6. 
+Joint Width:  Plus 1/8 inch, no minus. 
+3.9 
+PAVEMENT MARKING 
+A. 
+Allow concrete paving to cure for a minimum of 28 days and be dry before starting pavement 
+marking. 
+B. 
+Sweep and clean surface to eliminate loose material and dust. 
+C. 
+Apply paint with mechanical equipment to produce markings of dimensions indicated with 
+uniform, straight edges.  Apply at manufacturer's recommended rates to provide a minimum wet 
+film thickness of 15 mils. 
+3.10 
+WHEEL STOPS 
+A. 
+Install wheel stops in bed of adhesive applied as recommended by manufacturer. 
+B. 
+Securely attach wheel stops to paving with not less than two steel dowels located at one-quarter 
+to one-third points.  Install dowels in drilled holes in the paving and bond dowels to wheel stop.  
+Recess head of dowel beneath top of wheel stop. 
+3.11 
+REPAIRS AND PROTECTION 
+A. 
+Remove and replace concrete paving that is broken, damaged, or defective or that does not 
+comply with requirements in this Section.  Remove work in complete sections from joint to 
+joint unless otherwise approved by Architect. 
+B. 
+Protect concrete paving from damage.  Exclude traffic from paving for at least 14 days after 
+placement.  When construction traffic is permitted, maintain paving as clean as possible by 
+removing surface stains and spillage of materials as they occur. 
+C. 
+Maintain concrete paving free of stains, discoloration, dirt, and other foreign material.  Sweep 
+paving not more than two days before date scheduled for Substantial Completion inspections. 
+END OF SECTION 
+ 
+
+
+===== PAGE 16 =====
+Nye County School District 
+Design Development 
+32 13 13 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving 
+ 
+ 
+Page 8 of 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page left intentionally blank 
+
+
+===== PAGE 17 =====
+Nye County School District 
+Design Development 
+32 13 73 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving Joint Sealants 
+ 
+ 
+Page 1 of 6 
+SECTION 32 13 73 
+CONCRETE PAVING JOINT SEALANTS 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A. 
+Section Includes: 
+1. 
+Cold-applied joint sealants. 
+2. 
+Cold-applied, jet-fuel-resistant joint sealants. 
+3. 
+Hot-applied joint sealants. 
+4. 
+Hot-applied, jet-fuel-resistant joint sealants. 
+1.2 
+PRECONSTRUCTION TESTING 
+A. 
+Preconstruction Compatibility and Adhesion Testing:  Submit to joint-sealant manufacturers, 
+eight Samples of materials that will contact or affect joint sealants.  Use ASTM C 1087 to 
+determine whether priming and other specific joint-preparation techniques are required to obtain 
+rapid, optimum adhesion of joint sealants to joint substrates. 
+1.3 
+SUBMITTALS 
+A. 
+Product Data:  For each joint-sealant product indicated. 
+B. 
+Samples:  For each kind and color of joint sealant required. 
+C. 
+Pavement-Joint-Sealant Schedule:  Include the following information: 
+1. 
+Joint-sealant application, joint location, and designation. 
+2. 
+Joint-sealant manufacturer and product name. 
+3. 
+Joint-sealant formulation. 
+4. 
+Joint-sealant color. 
+D. 
+Product certificates. 
+E. 
+Product test reports. 
+F. 
+Preconstruction compatibility and adhesion test reports. 
+1.4 
+QUALITY ASSURANCE 
+A. 
+Testing Agency Qualifications:  An independent testing agency qualified according to 
+ASTM C 1021. 
+
+
+===== PAGE 18 =====
+Nye County School District 
+Design Development 
+32 13 73 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving Joint Sealants 
+ 
+ 
+Page 2 of 6 
+B. 
+Preinstallation Conference:  Conduct conference at Tonopah Elementary School. 
+PART 2 - PRODUCTS 
+2.1 
+MATERIALS 
+A. 
+Compatibility:  Provide joint sealants, backing materials, and other related materials that are 
+compatible with one another and with joint substrates under conditions of service and 
+application, as demonstrated by joint-sealant manufacturer based on testing and field 
+experience. 
+B. 
+Colors of Exposed Joint Sealants: As selected by Architect from manufacturer's full range. 
+2.2 
+COLD-APPLIED JOINT SEALANTS 
+A. 
+Single-Component, Nonsag, Silicone Joint Sealant for Concrete:  ASTM D 5893, Type NS. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Crafco Inc., an ERGON company; RoadSaver Silicone. 
+b. 
+Dow Corning Corporation; 888. 
+c. 
+Pecora Corporation; 301 NS. 
+B. 
+Single-Component, Self-Leveling, Silicone Joint Sealant for Concrete:  ASTM D 5893, 
+Type SL. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Crafco Inc., an ERGON company; RoadSaver Silicone SL. 
+b. 
+Dow Corning Corporation; 890-SL. 
+c. 
+Pecora Corporation; 300 SL. 
+C. 
+Multicomponent, Pourable, Traffic-Grade, Urethane Joint Sealant for Concrete:  ASTM C 920, 
+Type M, Grade P, Class 25, for Use T. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Pecora Corporation; Urexpan NR-200. 
+2.3 
+COLD-APPLIED, JET-FUEL-RESISTANT JOINT SEALANTS 
+A. 
+Jet-Fuel-Resistant, Single-Component, Pourable, Traffic-Grade, Modified-Urethane Joint 
+Sealant for Concrete:  ASTM C 920, Type S, Grade P, Class 25, for Use T. 
+
+
+===== PAGE 19 =====
+Nye County School District 
+Design Development 
+32 13 73 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving Joint Sealants 
+ 
+ 
+Page 3 of 6 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+BASF Building Systems; Sonomeric 1. 
+B. 
+Jet-Fuel-Resistant, Multicomponent, Pourable, Traffic-Grade, Modified-Urethane Joint Sealant 
+for Concrete:  ASTM C 920, Type M, Grade P, Class 12-1/2, for Use T. 
+1. 
+Products:  Subject to compliance with requirements, products that may be incorporated 
+into the Work include, but are not limited to, the following: 
+a. 
+Pecora Corporation; Urexpan NR-300. 
+C. 
+Jet-Fuel-Resistant, Multicomponent, Pourable, Traffic-Grade, Modified-Urethane Joint Sealant 
+for Concrete:  ASTM C 920, Type M, Grade P, Class 25, for Use T. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Meadows, W. R., Inc.; Sealtight Gardox. 
+2.4 
+HOT-APPLIED JOINT SEALANTS 
+A. 
+Hot-Applied, Single-Component Joint Sealant for Concrete:  ASTM D 3406. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Crafco Inc., an ERGON company; Superseal 444/777. 
+B. 
+Hot-Applied, Single-Component Joint Sealant for Concrete and Asphalt:  ASTM D 6690, 
+Types I, II, and III. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Meadows, W. R., Inc.; Sealtight Hi-Spec or Sealtight 3405. 
+b. 
+Right Pointe; D-3405 Hot Applied Sealant. 
+2.5 
+HOT-APPLIED, JET-FUEL-RESISTANT JOINT SEALANTS 
+A. 
+Hot-Applied, Jet-Fuel-Resistant, Single-Component Joint Sealant for Concrete:  ASTM D 7116, 
+Type I. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Crafco Inc., an ERGON company; Superseal 444/777. 
+
+
+===== PAGE 20 =====
+Nye County School District 
+Design Development 
+32 13 73 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving Joint Sealants 
+ 
+ 
+Page 4 of 6 
+B. 
+Hot-Applied, Jet-Fuel-Resistant, Single-Component Joint Sealant for Concrete and Tar 
+Concrete:  Single-component formulation complying with ASTM D 3581. 
+1. 
+Products:  Subject to compliance with requirements, available products that may be 
+incorporated into the Work include, but are not limited to, the following: 
+a. 
+Crafco Inc., an ERGON company; Superseal 1614A. 
+2.6 
+JOINT-SEALANT BACKER MATERIALS 
+A. 
+Round Backer Rods for Cold- and Hot-Applied Joint Sealants:  ASTM D 5249, Type 1, of 
+diameter and density required to control sealant depth and prevent bottom-side adhesion of 
+sealant. 
+B. 
+Round Backer Rods for Cold-Applied Joint Sealants:  ASTM D 5249, Type 3, of diameter and 
+density required to control joint-sealant depth and prevent bottom-side adhesion of sealant. 
+C. 
+Backer Strips for Cold- and Hot-Applied Joint Sealants:  ASTM D 5249; Type 2; of thickness 
+and width required to control joint-sealant depth, prevent bottom-side adhesion of sealant, and 
+fill remainder of joint opening under sealant. 
+2.7 
+PRIMERS 
+A. 
+Primers:  Product recommended by joint-sealant manufacturer where required for adhesion of 
+sealant to joint substrates indicated, as determined from preconstruction joint-sealant-substrate 
+tests and field tests. 
+PART 3 - EXECUTION 
+3.1 
+INSTALLATION 
+A. 
+General:  Comply with joint-sealant manufacturer's written installation instructions for products 
+and applications indicated unless more stringent requirements apply. 
+B. 
+Cleaning of Joints:  Clean out joints immediately before installing joint sealants. 
+C. 
+Joint-Sealant Installation Standard:  Comply with recommendations in ASTM C 1193 for use of 
+joint sealants as applicable to materials, applications, and conditions indicated. 
+D. 
+Install joint-sealant backings of kind indicated to support joint sealants during application and at 
+position required to produce cross-sectional shapes and depths of installed sealants relative to 
+joint widths that allow optimum sealant movement capability. 
+1. 
+Do not leave gaps between ends of joint-sealant backings. 
+2. 
+Do not stretch, twist, puncture, or tear joint-sealant backings. 
+3. 
+Remove absorbent joint-sealant backings that have become wet before sealant application 
+and replace them with dry materials. 
+
+
+===== PAGE 21 =====
+Nye County School District 
+Design Development 
+32 13 73 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving Joint Sealants 
+ 
+ 
+Page 5 of 6 
+E. 
+Install joint sealants using proven techniques that comply with the following and at the same 
+time backings are installed: 
+1. 
+Place joint sealants so they directly contact and fully wet joint substrates. 
+2. 
+Completely fill recesses in each joint configuration. 
+3. 
+Produce uniform, cross-sectional shapes and depths relative to joint widths that allow 
+optimum sealant movement capability. 
+F. 
+Tooling of Nonsag Joint Sealants:  Immediately after joint-sealant application and before 
+skinning or curing begins, tool sealants according to the following requirements to form 
+smooth, uniform beads of configuration indicated; to eliminate air pockets; and to ensure 
+contact and adhesion of sealant with sides of joint: 
+1. 
+Remove excess joint sealant from surfaces adjacent to joints. 
+2. 
+Use tooling agents that are approved in writing by joint-sealant manufacturer and that do 
+not discolor sealants or adjacent surfaces. 
+G. 
+Provide joint configuration to comply with joint-sealant manufacturer's written instructions 
+unless otherwise indicated. 
+H. 
+Clean off excess joint sealant or sealant smears adjacent to joints as the Work progresses, by 
+methods and with cleaning materials approved in writing by manufacturers of joint sealants and 
+of products in which joints occur. 
+END OF SECTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 22 =====
+Nye County School District 
+Design Development 
+32 13 73 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Concrete Paving Joint Sealants 
+ 
+ 
+Page 6 of 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page left intentionally blank 
+
+
+===== PAGE 23 =====
+Nye County School District
+Bid Documents
+32 1623
+Tonopah HS Field Replacement
+Sidewalks
+April 20, 2026
+Page 1 of 2
+SECTION 32 1623
+SIDEWALKS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Concrete sidewalks.
+B.
+Concrete wheelchair ramps.
+1.02 RELATED REQUIREMENTS
+A.
+Section 32 1123 - Aggregate Base Courses.
+B.
+Section 32 1313 - Concrete Paving.
+1.03 REFERENCE STANDARDS
+A.
+ACI PRC-211.1 - Selecting Proportions for Normal-Density and High Density-Concrete - Guide;
+2022.
+B.
+ACI PRC-305 - Guide to Hot Weather Concreting; 2020.
+C.
+ACI PRC-306 - Guide to Cold Weather Concreting; 2016.
+D.
+ADA Standards - 2010 ADA Standards for Accessible Design; 2010.
+E.
+ASTM C33/C33M - Standard Specification for Concrete Aggregates; 2023.
+F.
+ASTM C94/C94M - Standard Specification for Ready-Mixed Concrete; 2023.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+1.05 FIELD CONDITIONS
+A.
+Follow recommendations of ACI PRC-305 and ACI PRC-306 when concreting during hot and
+cold weather, respectively.
+PART 2 PRODUCTS
+2.01 CONCRETE SIDEWALKS AND WHEELCHAIR RAMPS
+A.
+Concrete Forms: Wood.
+B.
+Concrete Materials: Comply with ASTM C94/C94M.
+C.
+Aggregate: Pit Run, washed, 3/8 inch (1 cm) stone; free of shale, clay, friable material and
+debris.
+D.
+Joint Filler: Preformed expansion, with a thickness of 1/2 inch (13 mm).
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify gradients and elevations of the subgrade are correct as shown on drawings. Where poor
+subgrade material is encountered, remove and replace with suitable material.
+B.
+Verify compacted subgrade is acceptable, ready to support imposed loads and paving, and
+ready to receive work.
+3.02 SUBBASE PREPARATION
+A.
+Maintain subgrade in a smooth, compacted condition with required section and established
+grade until concrete is placed.
+B.
+See Section 32 1123 for aggregate subbase.
+3.03 CONCRETE SIDEWALK AND WHEELCHAIR RAMP INSTALLATION
+A.
+Forming:
+1.
+Assemble formwork to permit easy stripping and dismantling without damaging concrete.
+
+
+===== PAGE 24 =====
+Nye County School District
+Bid Documents
+32 1623
+Tonopah HS Field Replacement
+Sidewalks
+April 20, 2026
+Page 2 of 2
+2.
+Sidewalk Forms: Place and secure forms to location, dimension, profile, and gradient
+shown on drawings. Height equal to the full depth of the finished sidewalk.
+3.
+Wheelchair Ramps: Place and secure forms to location, dimension, profile, and gradient
+shown on drawings. Comply with ADA Standards.
+B.
+Placement:
+1.
+Place concrete in a single lift.
+2.
+Consolidate concrete by tamping and spading.
+C.
+Joints:
+1.
+Spacing: Provide scored joints every 10 feet (3 m).
+2.
+Layout: See site plan drawing for proposed joint locations.
+3.
+Filler height equal to the full depth of the finished concrete.
+D.
+Finishing:
+1.
+Sidewalk Paving: Light broom, texture perpendicular to direction of travel with troweled
+and radiused edge, 1/4 inch radius (6 mm radius).
+2.
+Wheelchair Ramps: Broomed perpendicular to slope.
+3.04 TOLERANCES
+A.
+Surface Flatness: 1/4 inch (6 mm), maximum, measured with 10 foot (3 m) straight edge.
+END OF SECTION
+
+
+===== PAGE 25 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 1 
+ 
+ 
+SECTION 32 18 13 
+ 
+SYNTHETIC TURF 
+ 
+PART 1 GENERAL 
+1.1 
+WORK INCLUDED 
+ 
+A. Furnish all labor, materials, tools, equipment, and shop drawings and calculations necessary 
+to install all synthetic turf as indicated on the plans and as specified herein. The installation of 
+all new materials shall be performed in strict accordance with the manufacturer’s installation 
+instructions and in accordance with all approved shop drawings. 
+ 
+B. Perimeter edge details required for the synthetic turf system and drainage details (as 
+necessary) shall be as detailed and recommended by the Manufacturer and shall be 
+approved by the A/E and Owner’s Representative.   
+ 
+C. Work shall include all components and accessories required for a complete installation. 
+including but not limited to 
+1. Acceptance of prepared sub-base.  
+2. Coordination with related trades to ensure a complete, integrated, and timely installation: 
+Aggregate base course, sub-base material (tested for permeability), grading and 
+compacting, piping and drain components (when required); as provided under its 
+respective trade section. 
+1.2 
+RELATED SECTIONS 
+ 
+A. Section 31 1100 – Clearing and Grubbing 
+ 
+B. Section 31 2300 – Excavation and Fill. 
+ 
+C. Section 32 84 00 – Landscape Irrigation 
+1.3 
+REFERENCES 
+A. 
+FM P7825 - Approval Guide; Factory Mutual Research Corporation; current edition 
+ 
+B. 
+ASTM Standard Test Methods: 
+D1577  Standard Test Method for Linear Density of Textile Fiber 
+D5848  Standard Test Method for Mass Per Unit Area of Pile Yarn Floor Covering 
+D418  Standard Test Method for Testing Pile Yarn Floor Covering Construction 
+D1335  Standard Test Method for Tuft Bind of Pile Yarn Floor Coverings 
+D1682  Standard Method of Test for Breaking Load and Elongation of Textile Fabrics 
+D5034  Standard Test Method of Breaking Strength and Elongation of Textile Fabrics (Grab 
+Test) 
+F1015  Standard Test Method for Relative Abrasiveness of Synthetic Turf Playing Surfaces 
+F2117  Standard Test Method for Vertical Rebound Characteristics of Sports surface/Ball 
+Systems. 
+F1551  Standard Test Methods for Comprehensive Characterization of Synthetic Turf Playing 
+Surfaces and Materials 
+D4491  Standard Test Methods for Water Permeability of Geotextiles by Permittivity 
+D2859  Standard Test Method for Ignition Characteristics of Finished Textile Floor Covering 
+Materials. 
+F355  Standard Test Method for Shock-Absorbing Properties of Playing Surfaces. 
+
+
+===== PAGE 26 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 2 
+ 
+F1936  Standard Test Method for Shock-Absorbing Properties of North American Football 
+Field Playing Systems as Measured in the Field. 
+D1557 Test Method for Laboratory Compaction Characteristics of Soil Using Modified Effort. 
+E-11 
+Standard Specification for Woven Wire Test Sieve Cloth and Test Sieves 
+E-648 Flooring Critical Radiant Panel Test (Flame Spread)  
+ 
+1.4 
+SUBMITTALS 
+A. 
+Product data:  the Contractor shall submit complete material submittals, including 
+manufacturer’s name and address, specific trade names, catalog and model numbers, samples, 
+warranty information, illustrations and descriptive material, clearly marked as to proposed items 
+for approval by the A/E and/or Owner’s Representative.  
+B. 
+Comply with section 01 33 00, Submittals Procedures. Submit product data for approval prior to 
+fabrication. 
+C. 
+The following list of submittals is a requirement of this specification and must be provided for 
+review before any approval will be given.    
+1. 
+Shop Drawings. Complete and detailed shop drawings including layout of all components, 
+parts, and materials necessary for a complete synthetic turf system.  Shop drawings shall 
+show proposed locations of all seams in fabric surfacing. 
+2. 
+Submit a complete scale and dimensioned drawing(s) of inlaid or tufted-in field lining and 
+marking boundaries. 
+3. 
+Submit two samples, 12”x12” in size, illustrating of actual turf surface; provide 1 sample of 
+turf surface material with infill in standard sample container. 
+4. 
+One sample each, 12” long sample of 4” white line and other colored lines, without infill. 
+5. 
+Provide one 12”x12” sample of the specified seaming method. 
+6. 
+Provide one 12”X12” sample of the specified pad system. 
+7. 
+Minimum 1/2 pound of the proposed infill mix. 
+8. 
+A letter and specification sheet certifying that the products of this section meet or exceed 
+specified requirements and that the turf system products meet or exceed the testing 
+standards below. 
+a. Certified copies of independent (third-party) laboratory reports on ASTM tests as follows: 
+1) 
+ASTM F1015-03 
+ 
+Relative abrasive index 
+2) 
+ASTM F2117-01 
+ 
+Average ball rebound height (Entire System: turf, infill & 
+pad) 
+3) 
+ASTM F1551-03 
+ 
+Coefficient of restitution (CR) 
+4) 
+ASTM F1551-03 
+ 
+Average ball bounce (Entire System: turf, infill & pad) 
+5) 
+ASTM F1551-03 
+ 
+Permeability of Turf 
+6) 
+ASTM F1551-03 
+Soccer shoe traction WET and DRY (Entire System: turf, 
+infill & pad) 
+7) 
+ASTM F1551-03 
+ 
+Football shoe traction WET and DRY (Entire System: 
+turf, infill & pad) 
+8) 
+ASTM D5848-05 
+ 
+Total Weight 
+9) 
+ASTM D5848-05 
+ 
+Pile Weight 
+10) ASTM D5848-05 
+ 
+Primary Backing Weight 
+11) ASTM D5848-05 
+ 
+Secondary Backing 
+12) ASTM D5823-05a Pile Height 
+13) ASTM D1335-05 
+ 
+Tuft bind strength 
+14) ASTM D5034-95R01 
+Grab tear strength 
+15) ASTM D5793-05 
+ 
+Stitches per 3 inches 
+16) ASTM D5793-05 
+ 
+Machine gauge 
+17) ASTM D2859-04 
+ 
+Flammability – Pill burn 
+18) ASTM F1951-99 
+ 
+Wheelchair accessibility 
+19) BS7044-Method 4 Infiltration Rate 
+20) ASTM D1907-07 
+ 
+Fiber denier 
+21) ASTM D3218-07 
+ 
+Fiber thickness 
+
+
+===== PAGE 27 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 3 
+ 
+22) ASTM D3218-07 
+ 
+Fiber width 
+23) ASTM D789-07  
+Fiber melting point 
+24) ASTM D0792-00 
+ 
+Fiber & infill specific gravity 
+25) ASTM D2256-02 
+ 
+Fiber elongation 
+26) ASTM E0648-04 
+ 
+Flooring critical radiant panel test (flame spread) 
+27) ASTM F0355-01 
+ 
+Shock absorbing properties of pad 
+ 
+b. ASTM F1936-98 
+Shock-Absorbing Properties of North American Football Field 
+Playing Systems as Measured in the Field 
+c. ASTM D3218-01 
+Average thickness and resin classification. 
+d. ASTM D4716-04 Hydraulic Transmittivity (pad tested at 0.5% slope under 2pka stress). 
+9. 
+Certified copies of independent (third-party) laboratory reports on ASTM tests for harmful 
+metals as follows: 
+a. 
+ASTM 3052@210 °Lead- Submit a lead and heavy metal letter, outlining that the 
+synthetic turf system proposed is in compliance with the proposed 2011 standard of a 
+maximum of 100 parts per million for the entire synthetic turf system including infill for 
+lead and heavy metals. No nylon fibers are allowed.  
+b. 
+RCRA 7471B 
+Mercury (HG) 
+c. 
+RCRA 6010` Metals 
+10. Lists providing specific contacts and telephone numbers of eight (8) other projects of 
+similar size and scope, using the same product. 
+11. Résumé of Installation Supervisor who will be present on-site during installation. 
+12. Prior to the A/E and/or Owner’s Representative’s approval of a specified synthetic turf 
+system, the Manufacturer shall specify in writing that their turf system does not violate any 
+other manufacturer's patents, patents allowed or patents pending. 
+D. 
+Approval of the submittals shall be the Contractor’s authorization to order the required material.  
+There will be no deviation from the approved submittals without the written authorization of the 
+A/E or Owner’s Representative. 
+E. 
+Prior to ordering of materials: 
+1. 
+The Contractor shall submit Shop Drawings indicating: 
+a. 
+Field Layout  
+b. 
+Field Marking Plan and details for the specified sports (if required) 
+c. 
+Roll/Seaming Layout  
+d. 
+Methods of attachment, field openings and perimeter conditions. 
+e. 
+Sub-base requirements including aggregate locations, sizes and depths; and liner 
+locations.  
+f. 
+Padding and under Drain System shop drawings and specifications, including layout 
+and pipe sizes. 
+2. 
+The turf Manufacturer must submit the fiber manufacturer's name, type of fiber and 
+composition of fiber. 
+F. 
+Requirements to be tested after installation of football or soccer fields: 
+1. 
+Contractor to provide independent 3rd party testing by a laboratory specializing in sports 
+surfaces field testing. 
+2. 
+Contractor to provide documentation showing turf system meets Head Injury Coefficient 
+(HIC) and G-Max values as required and listed in this specification. 
+3. 
+Required HIC Test Method  
+a. 
+The required test method for determining the various Head Injury Coefficient (HIC) 
+values as detailed within this section is ASTM F355-E – Standard Test Method for 
+Shock-Absorbing Properties of Playing Surface Systems and Materials and ASTM 
+F1936- Standard Test Method for Shock-Absorbing Properties of North American 
+Football Field Playing Systems as Measured in the Field.  
+4. 
+Required HIC Values and Limits  
+a. 
+At time of installation:  
+1) 
+The maximum HIC Value at time of installation shall not exceed 900 at 1.3 meter 
+
+
+===== PAGE 28 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 4 
+ 
+drop height.  
+2) 
+The HIC Value throughout the warranted lifecycle of the synthetic turf playing 
+surface is not to exceed 1000 at 1.3 meter drop height. 
+5. 
+Required G-Max Test Method  
+a. 
+The required test method for determining the various G-Max values as detailed within 
+this section is ASTM F355-E – Standard Test Method for Shock-Absorbing Properties 
+of Playing Surface Systems and Materials and ASTM F1936- Standard Test Method 
+for Shock-Absorbing Properties of North American Football Field Playing Systems as 
+Measured in the Field.  
+6. 
+Required G-Max Values and Limits  
+a. 
+At time of installation:  
+1) 
+The maximum G-Max Value at time of installation shall not exceed 120.  
+2) 
+The G-Max Value throughout the warranted lifecycle of the synthetic turf playing 
+surface is not to exceed 165. 
+G. 
+Prior to Final Acceptance, the Contractor shall submit to the Owner: 
+1. 
+Three (3) copies of Maintenance Manuals, which will include all necessary instructions for 
+the proper care and preventative maintenance of the  synthetic turf system, including, but 
+not limited to: 
+a. 
+General Maintenance 
+b. 
+Lines and Mark Removal – Paint 
+c. 
+Small Repair Procedures 
+d. 
+Cleaning 
+e. 
+A list of all procedures to avoid in order to prolong the life and maintain the warranty, 
+including static and dynamic load limits, snow clearing, etc.  
+2. 
+Project Record Documents: Record actual locations of seams, drains or other pertinent 
+information. 
+3. 
+Warranty: Submit Manufacturer Warranty and ensure that forms have been completed in 
+Owner's name and registered with Manufacturer. 
+4. 
+Warranty Insurance Policy Certificate. 
+H. 
+Closeout Documents, the Contractor shall submit as part of the Operation and Maintenance 
+Documents: 
+1. 
+Product Data Sheet for the proposed turf product with relative characteristics and all 
+associated details. 
+2. 
+All testing documents for the actual product, conducted by a third-party laboratory, as 
+required and listed in the specifications. 
+3. 
+Submit a copy of the Turf Manufacturers maintenance manual. 
+4. 
+Submit a copy of the Turf Manufacturer installation standards. 
+5. 
+Submit a copy of the Turf Manufacturer environmental and recycling policy. 
+6. 
+Copies of the Warranty and Guarantee requirements required and listed in this 
+specification. 
+7. 
+Copies of drawing submittals and as-builts required and listed in this specification.  
+1.5 
+QUALITY ASSURANCE 
+A. 
+Comply with section 01 33 00, Submittal Procedures 
+B. 
+Manufacturer Qualifications: Company specializing in manufacturing products specified in this 
+section.  The Turf Contractor and/or the turf Manufacturer: 
+1. 
+Must be experienced in the manufacture and installation of this specific type of synthetic 
+infill grass system with the same manufacturer, product and company they are proposing 
+for this field.  This includes the same pile fiber, the backing, the backing coating, and the 
+installation method. 
+C. 
+Installer Qualifications: Company specializing in performing the work of this section with 
+minimum 5 years of experience installing synthetic turf systems on sports fields. 
+
+
+===== PAGE 29 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 5 
+ 
+1. 
+The Turf Contractor must provide competent workmen skilled in this specific type of 
+synthetic grass installation. 
+2. 
+The designated Supervisory Personnel on the project must be certified, in writing by the 
+turf Manufacturer, as competent in the installation of this material, including sewing or 
+gluing seams and proper installation of the infill mixture. 
+3. 
+The Manufacturer shall have a Representative on site to certify the installation and 
+Warranty compliance. 
+D. 
+Prior to the beginning of installation, the Installer of the synthetic turf, the Authority Having 
+Jurisdiction, and/or the A/E shall inspect the sub-base and site work.  The installer will accept 
+the sub-base in writing when test results for compaction, planarity and permeability that are in 
+compliance with the synthetic turf manufacturer’s guidelines are provided.  The Installer shall 
+have the dimensions of the field and locations for markings measured by a registered surveyor 
+to verify conformity to the specifications and applicable standards.  A record of the finished field 
+as-built measurements shall be made. The final tolerance-to-grade of the base shall not exceed 
+¼ inch in ten feet in any direction. 
+E. 
+The Turf Contractor shall provide the necessary testing data to the Authority Having 
+Jurisdictions, and/or A/E that the finished field meets the required shock attenuation, as per 
+ASTM F1936.  The maximum acceptable HIC value at installation will be less than 800 for 
+football and soccer fields. 
+1.6 
+ONLINE PRE-INSTALLATION MEETING 
+A. 
+Convene minimum of one week before starting work of this section. 
+1.7 
+DELIVERY, STORAGE, AND PROTECTION 
+A. 
+Deliver products to project site in wrapped condition. 
+B. 
+Store products under cover and elevated above grade. 
+1.8 
+ WARRANTY 
+A. 
+See Section 01 77 00 - Closeout Procedures, for additional warranty requirements. 
+B. 
+The turf Manufacturer shall provide a Warranty to the Owner that covers defects in materials 
+and workmanship of the turf for a minimum period of eight (8) years from the date of Substantial 
+Completion.  The turf manufacturer must verify that their onsite Representative has inspected 
+the installation and that the work conforms to the manufacturer’s requirements. 
+C. 
+The Manufacturer’s Warranty shall include general wear and damage caused from UV 
+degradation.   The warranty shall specifically exclude vandalism, and acts of God beyond the 
+control of the Owner or the manufacturer.   
+D. 
+The turf Manufacturer's Warranty must be supported by an insurance policy with an A rated 
+insurance company for the full eight (8) year period.  The policy cannot be a re-insurance or 
+offshore policy. Coverage and exclusions must be detailed as part of the Bid Submittal process, 
+including the following as a minimum: 
+1. 
+Length of policy 
+2. 
+Name of the carrier 
+3. 
+Method for payment of the policy (must be paid up front and policy must be non-
+cancelable) 
+4. 
+Limit for single claims 
+5. 
+Limit for aggregate claims 
+6. 
+Additional policy features of importance 
+
+
+===== PAGE 30 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 6 
+ 
+E. 
+The Turf Contractor shall provide a Warranty to the Owner that covers defects in the installation 
+workmanship, and further warrant that the installation was done in accordance with both the 
+Manufacturer’s recommendations and any written directives of the Manufacturer’s onsite 
+Representative. 
+F. 
+The pad Manufacturer shall provide a Warranty to the Owner that covers defects in materials 
+and workmanship of the pad for a minimum period of twenty (20) years from the date of 
+Substantial Completion.  The pad manufacturer must verify that their onsite Representative has 
+inspected the installation and that the work conforms to the manufacturer’s requirements. 
+G. 
+The synthetic turf system must maintain an ASTM 355 HIC less than 1000 for the life of the turf 
+Warranty. 
+ 
+1.9 
+PROJECT RECORD DOCUMENTS 
+ 
+A. 
+Record actual locations of seams, drains and other pertinent information in accordance with 
+Division 1 Specifications Series, General Requirements. 
+1.10 
+MAINTENANCE SERVICE 
+A. 
+The Turf Contractor will train the Owner's facility maintenance staff and others in the use of the 
+turf Manufacturer's recommended groomer. 
+1.11 
+EXTRA MATERIALS 
+A. 
+Upon completion of work Contractor shall provide the following extra materials to the Owner: 
+1. 
+All fields: 
+a. 
+150 square feet of synthetic turf material for each color and height combination, for 
+the soccer and football field. 
+b. 
+150 square feet of pad material for each type of pad used. 
+c. 
+500 pounds of turf infill material. 
+PART 2 PRODUCTS 
+2.1 
+Synthetic Turf System Products. See drawings for type, configuration, and colors of synthetic 
+turf to be provided and installed. If all of the parameters, specifications and design intent of the 
+drawings are met, the following list of manufacturers with an approved product would be 
+acceptable for use upon approval: “approved equal” substitutions may be acceptable but must 
+be submitted under the provisions of Section 01 25 00. 
+ 
+Astro Turf 
+706-277-8873 
+ 
+Hellas 
+512-250-2910 
+ 
+Shaw Sports Turf 
+657-557-5571 
+ 
+SporTurf 
+800-798-1056 
+ 
+Valley Precision Grading 
+916-638-8800 
+ 
+SprinTurf  
+530-249-0581 
+ 
+ACT Global 
+512-733-5300 
+ 
+
+
+===== PAGE 31 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 7 
+ 
+FieldTurf 
+303-775-6773 
+ 
+SportsGrass by Forever Lawn 
+702-375-7539 
+2.2 
+MATERIALS FOR FOOTBALL & SOCCER FIELDS 
+A. 
+The component materials of the synthetic turf system consist of: 
+1. 
+Fabric Surface: Made of parallel slit film or monofilament polyethylene fibers, helix or 
+straight shaped, or approved fiber. Fibers shall be tufted to a woven polypropylene primary 
+backing then coated with a secondary polyurethane synthetic coating material.  The fiber 
+shall be non-abrasive, proven athletic caliber, designed specifically for outdoor use and 
+treated with UV inhibitor and stabilizers to resist the effects of ultraviolet degradation, heat, 
+foot traffic, water and airborne pollutants. The fiber shall contain no toxic substances or 
+heavy metals. The entire system shall be resistant to weather, insects, rot, mildew and 
+fungus growth and will be non-allergic and non-toxic. 
+a. 
+Pile Height Football/Soccer Turf- Minimum 1.625” pile height. (Pile height to 
+accommodate selected infill material.) 
+b. 
+Fiber Thickness- 100 Microns minimum. 
+c. 
+Linear Density (Denier)- 9,000 minimum. 
+d. 
+Average Pile Yarn Weight- 46 oz/square yard minimum. 
+e. 
+Primary Backing Weight- 7.5 oz/square yard minimum. 
+f. 
+Secondary Backing Weight- 20 oz/square yard minimum. 
+g. 
+Turf Bind Strength- 8.0 lbs/force minimum. 
+h. 
+Fiber Elongation- 45% minimum. 
+i. 
+Fiber Specific Gravity- 0.90 minimum. 
+j. 
+Fiber Melting Point- 220 degrees Fahrenheit/104 Celcius. 
+k. 
+Permeability- ten (10) inches per hour minimum. 
+l. 
+Roll Width- 15’. 
+m. Despite the inlaid lines and logos, the pile surface shall be suitable for both temporary 
+and permanent line markings using acrylic paint, as per the manufacturer’s 
+specifications. 
+n. 
+All adhesives used in bonding the seams and inlaid markings to the supplemental 
+backing material shall be resistant to moisture, bacterial and fungal attacks and 
+resistant to UV radiation. 
+o. 
+The pile surface shall be nominally uniform in length. 
+p. 
+Synthetic turf must have been tested for a minimum of 20,000 cycles in the Lisport 
+Test machine. Report to be supplied by Contractor. 
+2. 
+Infill Material:  
+a. 
+No natural, recycled, SBR, or EPDM rubber materials. 
+b. 
+An infill installed per manufacturer’s specifications and instructions consisting of one 
+of the following: 
+1) 
+Engineered wood particle (BrockFill by Brock International) at 1.17 lbs per square 
+foot over raw round sand at 4.5 lbs per square foot. 
+2) 
+Ecotherm (by Polygreen) at 2 lbs per square foot over RealFill (by Hellas) at 3 lbs 
+per square foot. 
+3) 
+Acrylic coated round sand infused with anti-microbial technology at 6 lbs per 
+square foot minimum. 
+4) 
+Walnut shells (Safeshell by US Greentech) at 1.5 lbs per square foot over raw, 
+round sand at 4.5 lbs per square foot. 
+5) 
+Coconut husks and fibers combined with rounded walnut shells (Natural Play by 
+Shaw Sports Turf). 
+6) 
+Coconut fiber (Natural Cool by Greenplay). 
+7) 
+Olive pits (Elia Renufill by Safeplay, LLC). 
+8) 
+Mix of Olive Pits and Ecotherm (Thermoblend by Hellas). 
+9) 
+Or Approved Equal. 
+
+
+===== PAGE 32 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 8 
+ 
+c. 
+Infill material not to exceed 75% of fiber height, Adjust infill ratios per fiber height of 
+turf product being used while meeting required testing requirements. 
+3. 
+Pad System:  Impact attenuation layer. The pad system shall be installed per 
+manufacturer’s specifications and instructions consisting of one of the following. Pad 
+system shall be reusable through a minimum of two turf lifecycles.  Turf shall be replaced 
+with minimal damage to the pad system.  
+a. 
+No natural, recycled, or EPDM rubber materials. No poured in place systems. 
+b. 
+An interlocking tile or rolled pad system installed per manufacturer’s specifications 
+and instructions consisting of one of the following: 
+1) 
+Thermal bonded, closed cell cross-linked polyethylene foam (Schmitz ProPlay- 
+20, minimum 20mm). 
+2) 
+Expanded polypropylene composite (Brock SP17 Shock Pad, Brock YSR Shock 
+Pad. 
+3) 
+Expanded polypropylene (Safeplay Soteria Max). 
+4) 
+Polyolefin composite (En Plast ShockDrain KBA 780). 
+c. 
+Thickness to provide the required performance requirements (15mm minimum). 
+d. 
+Or Approved Equal 
+4. 
+The total system (fabric, infill & pad) will meet the minimum performance requirement and 
+characteristics: 
+a. 
+Head Injury Criterion (HIC): 800 HIC / 1.3-meter drop height at install and less than 
+1000 HIC at end of turf warranty period. 
+b. 
+The G-Max Value throughout the warranted lifecycle of the synthetic turf playing 
+surface is not to exceed 165 / 61 cm drop height. 
+c. 
+Relative Abrasive Index Minimum:  10 +/- 2; Maximum 20 +/- 2 
+d. 
+Average Ball Rebound Height Minimum:  20”; Maximum 30” 
+e. 
+Coefficient of Restitution (CR) Minimum:  0.35 (CR); Maximum:  0.45 (CR) 
+f. 
+Average Ball Bounce Minimum:  30”; Maximum:  40” 
+g. 
+Soccer Shoe Traction Minimum - Dry:  Static COF 1.30 – Dynamic COF 0.85; 
+Maximum - Dry:  Static COF 1.60 – Dynamic COF 1.15 
+h. 
+Soccer Shoe Traction Minimum - Wet:  Static COF 1.30 – Dynamic COF 0.85; 
+Maximum - Wet:  Static COF 1.60 – Dynamic COF 1.15 
+i. 
+Football Shoe Traction Minimum - Dry:  Static COF 1.30 – Dynamic COF 0.85; 
+Maximum - Dry:  Static COF 1.60 – Dynamic COF 1.15 
+j. 
+Football Shoe Traction Minimum - Wet:  Static COF 1.30 – Dynamic COF 0.85; 
+Maximum - Wet:  Static COF 1.60 – Dynamic COF 1.15 
+5. 
+Glue, thread, paint, seaming fabric and other materials used to install the synthetic turf 
+system per the turf manufacturer.   Ultrabond Turf PU 1K or equal. 
+6. 
+Line Markings, Numbers and Logos: All markings should be tufted in-place, inlaid or glued.  
+a. 
+Inlay gaps should be uniform. The gap between the fibers should not exceed the 
+gauge of the tufting.  
+b. 
+Lines and markings must conform to the appropriate association/organization 
+guidelines for the intended level of use. 
+7. 
+Base Layer: Minimum 3” layer of ¼” to ¾” crushed rock compacted to 90% proctor density.  
+Base layer must drain.  Use finer material as a top dressing between larger rock and pad. 
+8. 
+Drainage system (if required), including pipe, trenching fill and other materials.   
+B. 
+The installed synthetic turf shall meet all mandatory testing requirements. All testing to be 
+conducted by independent third-party testing laboratory. Contractor must submit required 
+testing. See Paragraph 1.4. 
+C. 
+The carpet shall consist of fibers tufted into a primary backing with a secondary backing. 
+1. 
+The fibers/carpet shall be furnished in 15’ wide rolls. Rolls shall be long enough to go 
+from sideline to sideline without splicing. Head seams, other than at sidelines, will not be 
+acceptable  
+2. 
+The fiber tufts shall be fanned or unfolded prior to installation, rolling or spiraling is not 
+acceptable.   
+
+
+===== PAGE 33 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 9 
+ 
+D. 
+Thread for sewing seams of turf shall be as recommended by the synthetic turf Manufacturer.  
+The method and adhesives used for inlaid markings shall be as recommended by the synthetic 
+turf manufacturer. 
+2.3 
+FIELD GROOMER 
+A. 
+Supply a field groomer as recommended by the turf manufacturer to Owner.  Include a towing 
+mechanism compatible with a field utility vehicle and instructions. 
+B. 
+Acceptable Groomers: 
+1. 
+Geo-Groomer 
+2. 
+Greens Groomer 920SDE 
+3. 
+TurfKing SMG TK1205 
+4. 
+TurfCare TCA2000 
+PART 3 EXECUTION 
+3.1 
+GENERAL 
+A. 
+The installation shall be performed in full compliance with approved Shop Drawings. 
+B. 
+Only trained technicians, skilled in the installation of athletic caliber synthetic turf systems 
+working under the direct supervision of the approved installer supervisors, shall undertake any 
+cutting, sewing, gluing, shearing, topdressing or brushing operations.  
+C. 
+The designated Supervisory personnel on the project must be certified, in writing by the turf 
+Manufacturer, as competent in the installation of this material, including sewing or gluing 
+seams and proper installation of the Infill mixture.  
+D. 
+All designs, markings, layouts, and materials shall conform to all currently applicable National 
+Collegiate Athletic Association rules and other standards that may apply to this type of 
+synthetic grass installation. 
+3.2 
+EXAMINATION 
+A. 
+Verify that all sub-base, drainage and leveling is complete prior to installation. 
+B. 
+The surface to receive the synthetic turf shall be inspected by the Installer prior to beginning 
+installation. The Installer shall make any adjustments to the sub-base needed to meet the 
+compaction, planarity and permeability requirements of the synthetic turf manufacturer written 
+guidelines. The surface must be perfectly clean as installation commences and shall be 
+maintained in that condition throughout the process. 
+C. 
+The compaction of the aggregate base shall be 90%, according to the Modified Proctor 
+procedure (ASTM D1557), and the surface tolerance-to-grade shall not exceed 0-1/4 inch over 
+10 feet and 0-½" from design grade. 
+D. 
+Correct conditions detrimental to timely and proper completion of Work.  
+E. 
+Do not proceed until unsatisfactory conditions are corrected. 
+F. 
+Beginning of installation means acceptance of existing conditions. 
+ 
+3.3 
+PREPARATION 
+ 
+A. Prior to the beginning of installation, inspect the sub-base for tolerance to grade. 
+
+
+===== PAGE 34 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 10 
+ 
+   
+B. Sub-base acceptance shall be subject to receipt of test results (by others) for compaction and 
+planarity that sub-base is in compliance with manufacturer’s specifications and 
+recommendations.   
+ 
+C. Dimensions of the field and locations for markings shall be measured by a registered 
+surveyor to verify conformity to the specifications and applicable standards.  A record of the 
+finished field as-built measurements shall be made. 
+ 
+D. When requested by Architect, installed sub-base shall be tested for porosity prior to the 
+installation of the slit-film turf. A subbase that drains poorly is an unacceptable substrate. 
+3.4 
+INSTALLATION 
+A. 
+Install in accordance with Manufacturer's instructions.  Infill materials shall be approved by the 
+Manufacturer and installed in accordance with the Manufacturer’s standard procedures. 
+B. 
+The full width rolls shall be laid out across the field. Turf shall be of sufficient length to permit full 
+cross-field installation from sideline to sideline. No head or cross seams will be allowed in the 
+main playing area between the sidelines. Utilizing standard state of the art sewing or gluing 
+procedures each roll shall be attached to the next.   
+C. 
+Glued seams shall have glue continuous throughout the length and width of the seam overlap 
+(per the manufacturer’s standard procedures). Seams shall be flat, tight, and permanent with no 
+separation or fraying. 
+D. 
+Sewn seams shall use a double thread/stitch method (per the manufacturer’s standard 
+procedures). Seams shall be flat, tight, and permanent with no separation or fraying. 
+E. 
+Infill materials shall be applied in numerous thin lifts. The turf shall be brushed as the mixture is 
+applied. The infill material shall be installed to a depth determined by the Manufacturer. 
+F. 
+The Infill materials shall be installed to fill the voids between the fibers and allow the fibers to 
+remain vertical and non-directional.   
+G. 
+Prior to the application of any line painting the turf shall be fibrillated by means of a nylon rotary 
+brush to provide the look, feel, and safety of optimally maintained natural grass, including subtle 
+undulations normally associated with natural grass athletic fields. 
+H. 
+Non-tufted or inlaid lines and markings shall be painted according to the recommendations of 
+the turf Manufacturer and of the paint manufacturer. Several applications may be required. 
+I. 
+Synthetic turf shall be attached to the perimeter edge detail in accordance with the 
+Manufacturer’s standard procedures.  
+J. 
+Treat completed turf system with fabric softener per manufacturer’s recommendations to 
+remove static electricity. 
+3.5 
+CLEANING 
+A. 
+Protect installed synthetic turf from subsequent construction operations. 
+B. 
+Do not permit traffic over unprotected surface. 
+C. 
+Contractor shall provide the labor, supplies, and equipment as necessary for final cleaning of 
+surfaces and installed items. 
+
+
+===== PAGE 35 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 13 
+Synthetic Turf 
+Page 11 
+ 
+D. 
+All usable remnants of new material shall become the property of the Owner. 
+E. 
+The Contractor shall keep the area clean throughout the project and clear of debris. 
+F. 
+Surfaces, recesses, enclosures, etc., shall be cleaned as necessary to leave the work area in a 
+clean, immaculate condition ready for immediate occupancy and use by the Owner. 
+ 
+END OF SECTION 
+
+
+===== PAGE 36 =====
+Nye County School District 
+Tonopah HS Field Replacement 
+ 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 23.33 
+Running Track Surfacing 
+Page 1 
+ 
+SECTION 32 18 23.33 
+ 
+RUNNING TRACK SURFACING 
+ 
+ 
+PART 1 GENERAL 
+ 
+1.1 
+SECTION INCLUDES 
+ 
+A. 
+Construction and surfacing of outdoor running track. Work of this section includes. 
+1. 
+Track survey and layout 
+2. 
+Rough and finish grading 
+3. 
+Concrete curb and drainage system 
+4. 
+Application of synthetic track surface including event lines and marks. 
+ 
+1.2 
+RELATED SECTIONS 
+ 
+A. 
+Section 01 45 00 – Quality Control 
+ 
+B. 
+Section 31 22 13 – Grading 
+ 
+C. 
+Section 31 23 23.13 – Backfilling 
+D. 
+Section 03 30 00 – Cast-In-Place Concrete 
+ 
+1.3 
+REFERENCES 
+ 
+A. 
+Uniform Standard Specifications for Public Works’ Construction, Offsite improvements, Clark 
+County Area, Nevada (Latest Edition) herein referred to as Uniform Standard Specifications. 
+B. 
+American Sports Builders Association Track Construction Manual. 
+ 
+1.4 
+SUBMITTALS 
+ 
+A. 
+Submit under provisions of Section 01 31 00. 
+B. 
+Successful Track Oval Measurements Compliance Testing. 
+C. 
+Shop drawings: Provide layout drawings including all lane and event markings, dimensions, 
+radiuses, event distances and details of all edge and joint treatment. 
+ 
+D. 
+Product Data: Provide manufacturer’s data on complete surfacing system and its major 
+components. 
+ 
+E. 
+Samples: Submit actual color samples of track material and line marking paint for color selection 
+by Owner. 
+ 
+F. 
+Samples: Provide four (4) 12” x 12” samples of selected color material with lane marking paint 
+applied. 
+ 
+G. 
+Manufacturer’s Instructions: Provide manufacturer’s installation instructions indicating required 
+preparation work, sub-base procedures, installation procedures and environmental limitations. 
+Provide manufacturer’s maintenance instructions. 
+ 
+H. 
+Certificates: Provide manufacturer’s certificates of compliance indicating conformance with 
+specified requirements. 
+ 
+ 
+
+
+===== PAGE 37 =====
+Nye County School District 
+Tonopah HS Field Replacement 
+ 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 23.33 
+Running Track Surfacing 
+Page 2 
+ 
+I. 
+Surfacing Mix Design: Provide the job mix formula, by weight and volume, of the rubber/ urethane 
+mix and weight of the cured material per square yard. 
+ 
+J. 
+Paint source and technical data on the paint. 
+ 
+1.5 
+QUALITY ASSURANCE 
+ 
+A. 
+All Work of this section shall be supervised by a American Sports Builders Association member 
+with appropriate experience with the specified track surface system. 
+ 
+B. 
+Contractor for the track surfacing shall be a member of the American Sports Builders Association. 
+Athletic surfacing shall be installed under the direct, full-time supervision of manufacturer’s 
+authorized representative. 
+ 
+C. 
+The placement of the asphalt surface course shall be under the direct supervision of track builder, 
+who is recognized be the American Sports Builders Association. 
+D. 
+Track Oval Measurements Compliance Testing- Provide the owner Certification that the track 
+markings meet National Federation of State High School Associations (NFHS) and Nevada 
+Interscholastic Athletic Association current standards. The certification shall be completed, 
+stamped, and signed by an independent licensed surveyor or engineer and the surveyor or 
+engineer shall have provided similar work for at least 5 running tracks in the last 5 years. 
+ 
+1.6 
+QUALIFICATIONS 
+A. 
+Manufacturer: Manufacturer of surfacing system to be an established firm experienced in the 
+manufacture of outdoor sport surface system with a minimum of five (5) years experienced in the 
+southwestern U.S. All materials of the system shall be the product of one manufacturer. 
+ 
+B. 
+Installer: 
+1. 
+Installer to be a firm experienced in the installation of outdoor sport surface systems over 
+recommended base materials. Installer shall have a minimum of five (5) years 
+documented experience in running track construction. 
+2. 
+Installer to be recognized and approved by the outdoor sport surface system 
+manufacturer. 
+3. 
+The owner reserves the right to approve or disapprove the contractor’s qualification and 
+ability to perform the work of this Section. 
+4. 
+Membership in the American Sports Builders Association is required. It is preferable for 
+the Contactor to have a Certified Track Builder on staff for this project and furnish proof at 
+the pre-bid conference. 
+ 
+1.7 
+PRE-INSTALLATION CONFERENCE 
+A. 
+Convene two weeks prior to the scheduled finish grading work, i.e., placement and compaction of 
+the Type II base construction and placement of any curbing. Provide two weeks’ written notice of 
+time and date to Owner and Architect. 
+ 
+B. 
+General Contractor to coordinate this conference and inform the following persons, in writing, of 
+the requirements for their attendance. 
+1. 
+Architect/Representative and Civil Engineer 
+2. 
+Paving Subcontractor 
+3. 
+Surfacing system manufacturer’s technical representative 
+4. 
+Installer’s technical representative. 
+5. 
+General Contractor’s Superintendent 
+6. 
+Owner’s Construction Contract Representatives 
+7. 
+Project testing laboratory of record 
+ 
+
+
+===== PAGE 38 =====
+Nye County School District 
+Tonopah HS Field Replacement 
+ 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 23.33 
+Running Track Surfacing 
+Page 3 
+ 
+C. 
+Contractor to provide proof of experience of manufacturer and installer at the conference. 
+Contractor shall provide copies of accepted submittals including mix design, product data, shop 
+drawings and manufacturer’s installation instructions. 
+D. 
+Attendees shall review all pertinent details, specifications, the geotechnical report (if appropriate) 
+and referenced standards. Discussion shall include scheduling of work of this section in 
+coordination with other grading and paving work on the project, paving and surfacing installation 
+procedures as proposed by the synthetic surface subcontractor, source and delivery of specified 
+bituminous materials and surfacing materials, review of previously approved submittals for these 
+materials and the guaranteed requirements of this section. 
+ 
+E. 
+The Architect or Owner’s Construction Representative will take minutes of this meeting and any 
+required subsequent meetings, noting all discussion items and resolution/conclusions. Draft 
+copies of the minutes will be furnished to all attendees for their review and input prior to issuance 
+of finalized meeting minutes. 
+ 
+1.8 
+DELIVERY, STORAGE, AND HANDLING 
+A. 
+Comply with provisions of Section 01 60 00. 
+B. 
+Deliver packaged materials and store in original containers with seals unbroken and labels intact 
+until time of use, in accordance with manufacturer’s instructions. 
+ 
+C. 
+Area where materials are to be stored to be maintained at a minimum of 55ºF and under 50% 
+relative humidity. 
+ 
+D. 
+Protect work during and after installation, until acceptance by the Owner, and in accordance with 
+the outdoor sport surface system manufacturer’s printed instructions. 
+ 
+E. 
+Handle, store, mix and apply proprietary materials in compliance with manufacturer’s instructions. 
+Provide materials obtained from one source. 
+ 
+1.9 
+WARRANTY 
+ 
+A. 
+The general contractor shall complete the attached form and submit per provisions of Section 
+01 70 00 of the project closeout documentation. 
+ 
+B. 
+Upon project completion and prior to the release of final payment, the contractor shall execute a 
+five (5) year warranty for materials and workmanship. 
+PART 2 PRODUCTS 
+ 
+2.1 
+RUNNING TRACK SURFACING SYSTEM: 
+ 
+A. 
+Manufacturers – Urethane Base Mat 
+1. 
+Beynon 200 
+2. 
+Hellas Construction Sport Track 200 Track Surfacing System. 
+3. 
+APT- Rekortan BS 
+4. 
+Stockmeier Urethanes – Stobitan SC 
+6. 
+Substitutions: Under provisions of Section 01 25 00. 
+ 
+B. 
+Urethane Base Mat: 
+1. 
+Polyurethane bonded rubberized tack surface shall be equal to the basic, black one-half 
+(1/2) inch minimum thickness, single layer, permeable EPDM, sports surface for all track 
+and field events. 
+2. 
+Polyurethane materials for the project shall be “MDI” (Mercury) free. 
+3. 
+`Polyurethane shall be a two-part, single component urethane. 
+ 
+
+
+===== PAGE 39 =====
+Nye County School District 
+Tonopah HS Field Replacement 
+ 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 23.33 
+Running Track Surfacing 
+Page 4 
+ 
+4. 
+Polyurethane to be delivered in unopened containers. EPDM granules shall be clean and 
+dry and shall be from 1.5 mm to 3 mm in size. 
+5. 
+Mixing shall be done in a consistent and uniform manner and approved by NCSD. 
+C. 
+Structural Spray: 
+1. 
+Contractor shall provide for approval, a job mix formula of the rubber/urethane structural 
+spray mix. 
+2. 
+Minimum for the rubber shall be 1.8 pounds per square yard, per coat. 
+3. 
+Mix ration shall be 40 percent rubber and 60 percent urethane. 
+4. 
+Rubber: EPDM granules shall be clean and dry and shall be from .5mm to 1.5 mm in 
+size, color red. 
+5. 
+Polyurethane: Red-pigmented 2 part, single component urethane equal to Qualipur 5050 
+by Advanced Polymer Technology Corp. 
+ 
+D. 
+Polyurethane bonded rubber surface shall completely cover all asphaltic paving as indicated on 
+the plan. 
+E. 
+Prime coat for urethane surface shall be in accordance with manufacturer’s specifications. 
+ 
+ 
+PART 3 EXECUTION 
+ 
+3.1 
+PREPARATION 
+ 
+A. 
+Track and events layout and dimensions shown on the drawings are for track and event locations 
+in general. Final layout and dimensions shall be in accordance with American Sports Builders 
+Association Track Construction Manual. 
+ 
+B. 
+Grading of track areas shall be in accordance with Section 31 22 13 – Grading 
+ 
+C. 
+Contractor shall ensure the curb and drainage system installed around the interior perimeter of 
+the track is installed horizontally and vertically correct before proceeding with subgrade 
+preparation. Contractor to have the curb surveyed by third party to ensure it is correctly 
+installed. Contractor will correct the curb as necessary. 
+ 
+D. 
+Subgrade preparation and base course shall be competed in accordance with Section 31 23 
+23.13 – Backfilling. 
+ 
+3.2 
+FINAL SURFACE INSPECTION 
+ 
+A. 
+Prior to application of a synthetic surface system, the running track and field events shall be 
+flooded with water and allowed to drain; then, if remaining water covers a five (5) cent piece in 
+any area, that area shall be patched and leveled in accordance with recommendations of the 
+manufacturer of the synthetic surface system specified. Note: If the standing water does not cover 
+a five (5) cent piece after 45 minutes, it is considered within tolerance. Reflooding and patching 
+may be necessary until “bird baths” are minimized. 
+ 
+B. 
+Contractor to have track surveyed by third party prior to the placement of the synthetic surface 
+system to ensure longitudinal and lateral surface slope requirements are met. Areas that do 
+not meet these requirements will be corrected to the owner’s satisfaction by the contractor at 
+no cost to NCSD. 
+ 
+3.3 
+SURFACING 
+ 
+A. 
+Applicator for the track surfacing shall review, approve and accept the final asphalt surfacing. 
+ 
+B. 
+All work shall be performed within the temperature ranges required by the manufacturer. 
+C. 
+All areas to be surfaced shall be cleaned using brooms, blowers and/or pressure washers, to the 
+satisfaction of NCSD or their consultant. 
+
+
+===== PAGE 40 =====
+Nye County School District 
+Tonopah HS Field Replacement 
+ 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 23.33 
+Running Track Surfacing 
+Page 5 
+ 
+ 
+D. 
+The final compacted surface of the asphalt shall meet the top of the curb on the inside of the track 
+and meet the top of the asphalt on the outside of the track. The concrete curb and the outer 
+perimeter of track shall be taped. The urethane surface shall be tapered to the tape. The taper 
+shall be one inch wide. 
+ 
+E. 
+Entire surface area shall be primed with a compatible polyurethane primer as recommended by 
+the manufacture. 
+ 
+F. 
+Apply a prime coat followed by two coats of the structural coating to the entire track and field 
+events areas. 
+3.4 
+STRIPING 
+A. 
+Track shall be striped for a 400 meter, 8-lane track with 42 inch lanes. Paint running lines for all 
+events in metric. All line painting and event location will be in accordance with the National 
+Federation of State High School Associations and Nevada Interscholastic Athletic 
+Association requirements to include the following and as noted on the drawings: 
+1. 
+Hurdle markings (for 100 &110 meters) shall be marked in both directions in contrasting 
+colors. 
+2. 
+1-turn stagger box alley mini waterfall starts 2 lanes per alley. 
+3. 
+1-turn, 2-turn, 3-turn and 4-turn staggers. 
+4. 
+Waterfall start for 1500 meter and 3000 meter. 
+5. 
+The inside lane line of Lane 1 only shall be yellow. 
+6. 
+Lane numbers, shall be marked in two locations. 
+ 
+B. 
+The paint shall be two component metallic latex by Sherwin Williams. 
+ 
+C. 
+The track layout shall have a minimum of 24 inches of synthetic surface beyond the painted lane 
+along the interior and a minimum of 6 inches of synthetic surface beyond the painted line along 
+the exterior. 
+   
+D. 
+The Contractor shall furnish the Owner with a scaled as-built plan depicting the layout and 
+measurements. The Contractor shall also furnish a manual of the track marking calculations. 
+ 
+E. 
+The Contractor shall make provisions for the painting of the school name/logo on the running 
+track surface in two locations. 
+ 
+3.5 
+CLEANING 
+ 
+A. 
+Upon completion of work herein, clean all finish outdoor sport surfaces so they are free of foreign 
+matter. 
+ 
+B. 
+Remove all excess and waste material from the area of work. 
+ 
+C. 
+Protect the finish work until approval for release by the installer and acceptance by the Owner. 
+ 
+3.6 
+DEMONSTRATION 
+A. 
+Once the school is occupied, the track surfacing contractor shall schedule an in-service training 
+session for selected members of the school staff pertaining to the operation and maintenance of 
+the running track. 
+ 
+B. 
+Items to be covered in this session include, but are not limited to, cleaning the track, warranty 
+repair work, what not to do to the track surface, treatment of graffiti, periodic inspection and 
+maintenance and sources of damage and how to minimize them. 
+ 
+END OF SECTION 
+
+
+===== PAGE 41 =====
+Nye County School District 
+Tonopah HS Field Replacement 
+ 
+         Bid Documents 
+ 
+April 20, 2026 
+Section 32 18 23.33 
+Running Track Surfacing 
+Page 6 
+ 
+RUNNING TRACK CONSTRUCTION 
+ 
+GUARANTEE 
+The Contractor, the installer and the Synthetic Surface System Manufacturer hereby jointly and severally 
+guarantee the color system to be free from manufacturing and installation defects, guarantee adhesion of the 
+surface to the underlying asphalt, and guarantee adhesion of the system for a period of five (5) years from the 
+date of substantial completion of the project. Exclude from this guarantee is normal wear which will take place in 
+the area. 
+ 
+We the undersigned will, at our expense, make or cause to be made such permanent repairs to or replace of such 
+synthetic surface system having such fault or defect in any of the material or workmanship applied by or through 
+the undersigned as many as may be necessary to restore or replace such running track without defect. 
+Location of Project: 
+ 
+ 
+Date of Substantial Completion  
+ 
+Date Guarantee Expires 
+ 
+IN WITNESS THEREOF, this instrument has been duly executed by: 
+ 
+GENERAL CONTRACTOR 
+SYNTHETIC SURFACE MANUFACTURER 
+By:  
+ 
+By:  
+ 
+ 
+Signature of Authorized Officer 
+ 
+Signature of Authorized Officer 
+ 
+TITLE:  
+ 
+TITLE:  
+ 
+FIRM:  
+ 
+FIRM:  
+ 
+DATE:  
+ 
+DATE:  
+ 
+ 
+SEAL 
+SEAL 
+ 
+SYNTHETIC SURFACE SYSTEM INSTALLER 
+By:   
+ 
+Signature of Authorized Officer 
+ 
+TITLE: 
+ 
+ 
+FIRM:  
+ 
+ 
+DATE:  
+ 
+SEAL 
+
+
+===== PAGE 42 =====
+Nye County School District
+Bid Documents
+32 3113
+Tonopah HS Field Replacement
+Chain Link Fences and Gates
+April 20, 2026
+Page 1 of 3
+SECTION 32 3113
+CHAIN LINK FENCES AND GATES
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Posts, rails, and frames.
+B.
+Wire fabric.
+C.
+Manual gates with related hardware.
+D.
+Accessories.
+1.02 RELATED REQUIREMENTS
+A.
+Section 03 3000 - Cast-in-Place Concrete: Concrete anchorage for posts.
+B.
+Section 08 7100 - Door Hardware: Gate locking device.
+1.03 REFERENCE STANDARDS
+A.
+ASTM A153/A153M - Standard Specification for Zinc Coating (Hot-Dip) on Iron and Steel
+Hardware; 2023.
+B.
+ASTM A392 - Standard Specification for Zinc-Coated Steel Chain-Link Fence Fabric; 2011a
+(Reapproved 2022).
+C.
+ASTM F567 - Standard Practice for Installation of Chain-Link Fence; 2023.
+D.
+CLFMI CLF-SFR0111 - Security Fencing Recommendations; 2014.
+E.
+FS RR-F-191/1D - Fencing, Wire and Post Metal (Chain-Link Fence Fabric); 1990.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide data on fabric, posts, accessories, fittings and hardware.
+C.
+Shop Drawings: Indicate plan layout, spacing of components, post foundation dimensions,
+hardware anchorage, and schedule of components. See CLFMI CLF-SFR0111 for planning
+and design recommendations.
+1.05 QUALITY ASSURANCE
+A.
+Manufacturer Qualifications: Company specializing in manufacturing products specified in this
+section, with not less than three years of documented experience.
+B.
+Installer: Company specializing in installation of the products specified in this section with
+minimum three (3) years experience.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Chain Link Fences and Gates:
+1.
+Anchor Fence Co.
+2.
+American Fence Corp.
+3.
+United States Steel Corp.
+4.
+Allied Tube & Conduit, SS-40 Chain Link Fence Pipe.
+5.
+American Tube Company Inc.
+2.02 COMPONENTS
+A.
+Line Posts: 1.9 inch (48 mm) diameter.
+B.
+Corner and Terminal Posts: 2.38 inch (60 mm) diameter.
+C.
+Gate Posts: ​4 inch (101.6 mm)​ diameter.
+D.
+Top and Brace Rail: 1.66 inch (42 mm) diameter, plain end, sleeve coupled.
+
+
+===== PAGE 43 =====
+Nye County School District
+Bid Documents
+32 3113
+Tonopah HS Field Replacement
+Chain Link Fences and Gates
+April 20, 2026
+Page 2 of 3
+E.
+Gate Frame: ​1.88 inch (47.8 mm)​ diameter for ​welded​ fabrication.
+F.
+Fabric: 2 inch (51 mm) diamond mesh interwoven wire, 6 gauge, 0.1920 inch (4.9 mm) thick,
+top selvage knuckle end closed, bottom selvage twisted tight.
+G.
+Tension Wire: 6 gauge, 0.1920 inch (4.9 mm) thick steel, single strand.
+H.
+Tie Wire: Aluminum alloy steel wire.
+2.03 MATERIALS
+A.
+Line Posts: Type I round in accordance with FS RR-F-191/1D.
+B.
+Terminal, Corner, Rail, Brace, and Gate Posts: Type I round in accordance with FS RR-F-
+191/1D.
+C.
+Wire Fabric: ASTM A392 zinc coated steel chain link fabric, Class ll.
+D.
+Concrete: Type specified in Section 03 3000 Type 5, 3000 psi.
+2.04 MANUAL GATES AND RELATED HARDWARE
+A.
+Hardware for Single Swinging Gates: 180 degree hinges, 2 for gates up to 60 inches (1,525
+mm) high, 3 for taller gates; fork latch with gravity drop and padlock hasp; keeper to hold gate
+in fully open position.
+B.
+Hardware for Double Swinging Gates: 180 degree hinges, 2 for gates up to 60 inches (1,525
+mm) high, 3 for taller gates; drop bolt on inactive leaf engaging socket stop set in concrete,
+active leaf latched to inactive leaf preventing raising of drop bolt, padlock hasp; keepers to hold
+gate in fully open position.
+2.05 ACCESSORIES
+A.
+Caps: Cast steel galvanized; sized to post diameter, set screw retainer.
+B.
+Fittings: Sleeves, bands, clips, rail ends, tension bars, fasteners and fittings; steel.
+C.
+Extension Arms: Cast steel galvanized, to accommodate 3 strands of barbed wire, single arm,
+vertical.
+2.06 FINISHES
+A.
+Components and Fabric: Vinyl coated over coating of 1.8 ounces per square foot galvanizing
+(over coating of 550 g/sq m galvanizing).
+1.
+Hardware: Hot-dip galvanized to weight required by ASTM A153/A153M.
+2.
+Accessories: Same finish as framing.
+B.
+Color(s): To be selected by Architect from manufacturer's standard range.
+PART 3 EXECUTION
+3.01 INSTALLATION
+A.
+Install framework, fabric, accessories and gates in accordance with ASTM F567.
+B.
+Place fabric on outside of posts and rails.
+C.
+Set intermediate posts plumb , in concrete footings with top of footing 2 inches above finish
+grade. Slope top of concrete for water runoff.
+D.
+Line Post Footing Depth Below Finish Grade: ASTM F567.
+E.
+Corner, Gate and Terminal Post Footing Depth Below Finish Grade: ASTM F567.
+F.
+Brace each gate and corner post to adjacent line post with horizontal center brace rail ______.
+ Install brace rail one bay from end and gate posts.
+G.
+Provide top rail through line post tops and splice with 6 inch (150 mm) long rail sleeves.
+H.
+Install center brace rail on corner gate leaves.
+I.
+Do not stretch fabric until concrete foundation has cured 28 days.
+
+
+===== PAGE 44 =====
+Nye County School District
+Bid Documents
+32 3113
+Tonopah HS Field Replacement
+Chain Link Fences and Gates
+April 20, 2026
+Page 3 of 3
+J.
+Stretch fabric between terminal posts or at intervals of 100 feet (30 m) maximum, whichever is
+less.
+K.
+Position bottom of fabric 2 inches (50 mm) above finished grade.
+L.
+Fasten fabric to top rail, line posts, braces, and bottom tension wire with tie wire at maximum 15
+inches (380 mm) on centers.
+M.
+Attach fabric to end, corner, and gate posts with tension bars and tension bar clips.
+N.
+Install bottom tension wire stretched taut between terminal posts.
+O.
+Do not attach the hinged side of gate to building wall; provide gate posts.
+P.
+Install hardware and gate with fabric to match fence.
+Q.
+Provide concrete center drop to footing depth and drop rod retainers at center of double gate
+openings.
+R.
+Ground fence in accordance with Division 33.
+S.
+Install gate locking device specified in Section 08 7100.
+3.02 TOLERANCES
+A.
+Maximum Variation From Plumb: 1/4 inch (6 mm).
+B.
+Maximum Offset From True Position: 1 inch (25 mm).
+C.
+Do not infringe on adjacent property lines.
+END OF SECTION
+
+
+===== PAGE 45 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 46 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 1 
+ 
+SECTION 32 84 00 
+LANDSCAPE IRRIGATION  
+ 
+PART 1 GENERAL 
+1.1 
+SECTION INCLUDES 
+A. 
+Pipe and fittings, valves, and accessories. 
+B. 
+Connection to utilities. 
+C. 
+Control system.  
+1.2 
+RELATED SECTIONS 
+A. 
+Section 32 18 13 – Synthetic Turf 
+1.3 
+REFERENCES 
+A. 
+American Society for Testing and Materials (ASTM), D1785 Standard Specifications for Poly (Vinyl 
+Chloride) (PVC) Plastic Pipe, Schedules 40, 80, and 120.  
+B. 
+American Society for Testing and Materials (ASTM). D 2241 Polyvinyl Chloride (PVC) Plastic Pipe 
+(SDR-PR). 
+C. 
+American National Standards Institute / American Society for testing and Materials (ANSI / ASTM). 
+D 2564 Solvent Cement for Polyvinyl Chloride (PVC) Plastic Pipe and Fittings. 
+D. 
+American National Standards Institute / American Society for testing and Materials (ANSI / ASTM). 
+D 2672 Standard Specification for Joints for IPS PVC Pipe Using Solvent Cement. 
+E. 
+American Society for Testing and Materials (ASTM). D 2855 Standard Practice for Making Solvent-
+Cemented Joints with Poly Vinyl Chloride (PVC) Pipe and Fittings. 
+F. 
+American National Standards Institute / American Society for testing and Materials (ANSI / ASTM). 
+F 656 Standard Specification for Primers for Use in Solvent Cement Joints of Poly (Vinyl Chloride) 
+(PVC) Plastic Pipe and fittings. 
+G. 
+American Society for Testing and Materials (ASTM), F 1498 Standard Specifications for Taper Pipe 
+Threads 60º for Thermoplastic Pipe and Fittings.  
+H. 
+American Water Works Association (AWWA). C-900 and C909 Ring Tight Pipe and Fittings. 
+I. 
+Federal Specifications O-F-506 Flux, Soldering; Paste and Liquid. 
+J. 
+Federal Specifications A-A-58092 Tape, Antiseize, Polytetrafluorethylene. 
+K. 
+National Electric Manufacturer’s Association (NEMA). 
+
+
+===== PAGE 47 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 2 
+ 
+1.4 
+QUALITY ASSURANCE 
+A. 
+Attend a pre-construction meeting with the Owner’s Representative and General Contractor prior to 
+any work in this section. 
+B. 
+Regulatory Requirements, Codes, and Standards: 
+1. 
+Provide certificate of compliance from authority having jurisdiction indicating approval of 
+products in system. 
+2. 
+Comply with requirements of utility supplying water for prevention of backflow and back 
+siphonage. 
+C. 
+Installer Qualifications: Installer having minimum 5 years documented experience in irrigation 
+systems similar in material, design, and extent to work indicated and having a successful record of 
+service performance. Licensed in the state of Nevada with a C-10 license.  
+D. 
+Listing/Approval Stamp, Label, or Other Marking: On equipment, specialties, and accessories made 
+to specified standards. 
+E. 
+Listing and Labeling: Equipment, specialties, and accessories listed and labeled in National 
+Electrical Code, Article 100. 
+1. 
+Listing and Labeling Agency Qualifications: A Nationally Recognized Testing Laboratory 
+(NRTL) as defined in OSHA Regulation 1910.7. 
+F. 
+Product Options: Irrigation system piping, specialties, and accessories are based on specific types, 
+manufacturers, and models indicated. Components with equal performance characteristics 
+produced by other manufacturers may be considered, provided deviations in dimensions, operation 
+and other characteristics do not change design concept or intended performance as judged by the 
+Owner. The burden of proof of product equality is on the Contractor.  
+1. 
+All piping, fittings, components, and accessories to be of domestic manufacture. 
+1.5 
+SUBMITTALS  
+A. 
+Submit under provisions of Division 1. 
+B. 
+Contractor shall submit irrigation components to be used on project, including pipe and valves. 
+C. 
+ Manufacturer's Installation Instructions. 
+1.6 
+PROJECT RECORD DOCUMENTS 
+A. 
+Submit under provisions of Division 1. 
+B. 
+Project Record Drawings: 
+1. 
+At the onset of the irrigation, the installation Contractor shall provide at least one full-size set 
+of original irrigation plans.  Make copies of the plans as necessary to maintain clean, legible 
+As-Built plans for the Project.  At the end of every day in which work is done on the irrigation 
+installation, revise the as-built plans to include the Work accomplished that day in red ink.  A 
+copy of these Record Drawings, with red ink information, shall be available for review by 
+Owner at Project Site at all times. Dimension from two permanent points of reference 
+(building corners, sidewalk, road intersections or permanent structures), location of following 
+items: 
+a. 
+Connection to existing water lines. 
+b. 
+Pressurized Mainline (dimension every 50 feet along routing).  
+c. 
+All Sleeves (both ends). 
+
+
+===== PAGE 48 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 3 
+ 
+d. 
+Irrigation valves: including control valves, gate valves and quick coupling valves. 
+e. 
+Control wire routing. 
+f. 
+All wire splices. 
+g. 
+Other related equipment as directed by Owner’s Representative. 
+2. 
+Owner can choose not to certify any pay request submitted by the Contractor if the Record 
+Drawings are not current at the end of each week, and processing of pay request can be 
+withheld until records are updated. 
+3. 
+At the end of Project, before substantial completion is issued, all Record Drawings shall be 
+submitted to Owner.  
+1.7 
+OPERATION AND MAINTENANCE DATA 
+A. 
+Submit under provisions of Division 1. 
+B. 
+Provide instructions for operation and maintenance of system and controls and manufacturer's parts 
+catalog. 
+1. 
+Valves, including Isolation Valves and Quick Coupling Valves 
+1.8 
+REGULATORY REQUIREMENTS 
+A. 
+Conform to applicable code for piping and component requirements. 
+1.9 
+FIELD MEASUREMENTS AND VERIFICATIONS 
+A. 
+Performance of The Work at each site shall not proceed until the Owner and Contractor have 
+walked the site and agree on the exact scope of work. 
+B. 
+Contractor shall verify all existing conditions before preparation of Shop Drawings. It is the 
+Contractor’s responsibility to verify and include requirements for any extensive work prior to 
+preparation of Shop Drawings. 
+C. 
+Current water pressure is to be checked at the point of connection for the irrigation system. Verify 
+that a sufficient PSI is available for proper function of quick coupling valves and of any hose 
+attachments to be used. Bring inadequacies to the Owner prior to the start of work. 
+1.10 
+DELIVER, STORAGE, and HANDLING 
+A. 
+Deliver, unload, store, and handle materials, packaging, bundling, and products, in dry, 
+weatherproof condition to prevent damage, breakage, deterioration, intrusion, ignition, and 
+vandalism. Deliver in original unopened packaging containers prominently displaying manufacturer 
+name, volume, quantity, contents, instructions, and conformance to local, state, and federal law. 
+Remove and replace cracked, broken, or contaminated items or elements prematurely exposed to 
+moisture, inclement weather, snow, ice, temperature extremes, fire, or jobsite damage. 
+B. 
+Handling of PVC Pipe: Exercise care in handling, loading and storing of PVC pipe. All PVC pipe 
+shall be transported in a vehicle that allows length of pipe to lie flat so as not to subject it to undue 
+bending of concentrated external loads. All sections of pipe that have been dropped, dented, or 
+damaged shall be discarded, and if installed, shall be removed and replaced with new piping. 
+1.11 
+PROJECT CONDITIONS 
+A. 
+Perform site survey, obtain NCSD Record Drawings, research public utility records, and verify 
+existing utility locations. Verify irrigation system piping may be installed in compliance with 
+referenced standards. 
+
+
+===== PAGE 49 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 4 
+ 
+B. 
+Contractor shall measure the pressure of the existing irrigation.  
+C. 
+Contractor shall verify the functionality of the existing irrigation system. 
+D. 
+Protection of Property: 
+1. 
+Preserve and protect all trees, monuments, structures, and paved areas from damage due to 
+Work of this Section, In the event damage does occur, all damage to inanimate items shall 
+be completely repaired or replaced to satisfaction of Owner. All injury to trees, shrubs, and 
+ground covers shall be repaired by Contractor, and all costs of such repairs shall be charged 
+to and paid by Contractor. 
+2. 
+Protect buildings, walks, walls, landscaping, irrigation system, and other property from 
+damage. Flare and barricade open ditches. Damage caused to asphalt, concrete, 
+landscaping, irrigation system, or other building materials surfaces shall be repaired or 
+replaced at no cost to Owner. Restore disturbed areas to original condition. 
+E. 
+Existing Trees 
+1. 
+All trenching or other Work under limb spread of any and all evergreens or low branching 
+deciduous material shall be done by hand or by other methods so as to prevent damage to 
+limbs or branches. 
+2. 
+Where it is necessary to excavate adjacent to existing trees, use all possible care to avoid 
+injury to trees and tree roots. Excavation, in areas where 2-inch and larger roots occur, shall 
+be done by hand. Roots 2-inches or larger in diameter, except directly in the path of pipe of 
+conduit, shall be tunneled under and shall be heavily wrapped with burlap to prevent scarring 
+or excessive drying. Where a trenching machine is operated close to trees having roots 
+smaller than 2-inches in diameter, a wall or trench adjacent to tree shall be hand trimmed, 
+making clean cuts through roots. Roots 1-inch and larger in diameter shall be painted with 
+two coats of “Tree Seal”. Trenches adjacent to trees shall be closed within 24 hours, and 
+when this is not possible, side of trench adjacent to tree shall be kept shaded with moistened 
+burlap or canvas. 
+F. 
+Protection and Repair of Underground Lines: 
+1. 
+Request proper utility company to stake exact location (including depth) of all underground 
+water, electric, gas, or telephone lines. Take whatever precautions are necessary to protect 
+these underground lines from damage. In the event damage does occur, all damage shall be 
+repaired by Contractor, and all costs of such repairs shall be paid by Contractor unless other 
+arrangements have been made. 
+G. 
+Replacement of Paving and Curbs: Where trenches and lines cross existing roadways, paths, 
+asphalt, concrete, curbing, and other surfaces - damage to these shall be kept to a minimum and 
+shall be restored to original condition, using cuts parallel and perpendicular to existing surfaces and 
+adjacencies. Repairs and installations shall be approved by Owner.  
+1. 
+Repair to damages to the existing track surfacing shall be coordinated with Owner. Direction 
+for repair must be approved by Owner’s Representative in  writing. 
+H. 
+Cleaning: Maintain continuous cleaning operation throughout duration of Work. Dispose of all trash 
+or debris generated by installation of irrigation system off-site at no additional cost to Owner. 
+1.12 
+SEQUENCING AND SCHEDULING 
+A. 
+Maintain uninterrupted water service to building during normal working hours. Arrange for temporary 
+water shutoff with Owner as necessary. 
+
+
+===== PAGE 50 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 5 
+ 
+B. 
+If irrigation to existing campus must be turned off, temporary irrigation or hand watering may be 
+necessary. Coordinate with Owner’s Representative. Temporary irrigation methods and watering 
+schedules must be approved by Owner’s Representative. 
+C. 
+Coordinate work with other trades. 
+1.13 
+EXTRA MATERIALS 
+A. 
+Provide the following extra components under provisions of Section 01 78 43. 
+1. 
+Two (2) matching quick coupler keys with swivels. 
+2. 
+Provide one (1) tool to open valve boxes. 
+3. 
+Provide one (1) key for each size of gate valve nut, if gate valves are installed. Provide 
+proper length to access valve, gate valve handle is to extend three (3) feet above finish 
+grade. 
+PART 2 PRODUCTS 
+2.1 
+MANUFACTURERS 
+A. 
+Products: valves, quick couplers, etc.. The Owner’s Representative must approve any substitutions 
+to the products. 
+B. 
+Hunter or Rain Bird: Quick coupling valve 
+C. 
+Nibco, Hammon, or Milwaukee: All brass gate valve, to match pipe size. 
+D. 
+Napac, Clow, or Nibco: All iron gate valve, to match pipe size. 
+2.2 
+MATERIALS 
+A. 
+General Piping:  
+1. 
+psi Supply Line to pump (from point of connection through backflow prevention unit). AWWA 
+Standard C-900 or C-909, Class 150, 150 psi minimum, DR-18 pressure rating pipe, ASTM 
+Standard D1784. Provide 2 feet 0 inches (minimum) of Class 51 Ductile Iron, 150 psi 
+operating pressure rating, 250 psi surge pressure rating, before and after the piping has 
+gone into the ground at the booster pump. Verify point of connection distance from booster 
+pump enclosure and provide piping as needed between the two points. 
+2. 
+Pressure Supply Lines (downstream of backflow prevention units)  
+a. 
+Schedule 40 PVC (1” – 3”) rigid, unplasticized polyvinyl chloride (PVC) 1120, 1220 
+National Sanitation Foundation (NSF) approved pipe extruded from material meeting 
+the requirements of Cell Classification D12454-A or 12454-B, ASTM Standard D1784 
+and D1785, with an integral belled end. 
+b. 
+AWWA Standard C-900 or C-909, Class 150, 150 psi minimum, DR-18 pressure rating 
+pipe, ASTM Standard D1784, with an integral belled end, for 4 inch and larger sizes. 
+The joint design shall meet ASTM D3139 Joint qualification performance testing 
+requirements, with the elastomeric seals Gaskets) manufactured in compliance with 
+ASTM F477. 
+3. 
+Lateral Piping:  
+a. 
+Schedule 40 PVC rigid, unplasticized polyvinyl chloride (PVC) 1120, 1220 National 
+Sanitation Foundation (NSF) approved pipe extruded from material meeting the 
+requirements of Cell Classification D12454-A or 12454-B, ASTM Standard D1784 and 
+D1785, with an integral belled end. 
+4. 
+Sleeving: 
+
+
+===== PAGE 51 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 6 
+ 
+a. 
+Schedule 40 PVC (6” and smaller) rigid, unplasticized polyvinyl chloride (PVC) 1120, 
+1220 National Sanitation Foundation (NSF) approved pipe extruded from material 
+meeting the requirements of Cell Classification D12454-A or 12454-B, ASTM Standard 
+D1784 and D1785, with an integral belled end. 
+b. 
+SDR 26, Class 200 PVC (8” and larger) rated at 160 PSI, rigid, unplasticized polyvinyl 
+chloride (PVC) 1120, 1220 National Sanitation Foundation (NSF) approved pipe 
+extruded from material meeting the requirements of Cell Classification D12454-A or 
+12454-B, ASTM Standard D1784 and D1785, with an integral belled end.  
+c. 
+Install separate sleeve beneath paved areas to route each run of irrigation pipe or 
+wiring bundle. 
+d. 
+Sleeving diameter: two sizes larger than the piping inside, equal to twice that of the 
+wiring bundle. 
+B. 
+Copper Pipe and Fittings: 
+1. 
+Copper Pipe - Type K, hard tempered, in accordance with ASTM B4284. 
+2. 
+Joints - Soldered with solder, 45% silver, 15% copper, 16% zinc, and 24% cadmium and 
+solidus at 1125oF and liquids at 1145oF. 
+3. 
+Copper tube fittings: ASME B16.22, wrought copper or cast-brass, solder joint, pressure 
+type. 
+4. 
+Copper Unions: ASME B16.18, cast-copper-alloy body, hexagonal stock, with ball- and-
+socket joint, metal-to-metal seating surfaces, and solder-joint, threaded or solder-joint, and 
+threaded ends. 
+a. 
+Threaded Ends:  Threads conforming to ASME B1.20.1. 
+5. 
+Cast-Bronze Flanges:  ASME B16.24, Class 150, raised ground face, bolt holes  
+ 
+         
+spot faced.   
+C. 
+Bronze Pipe and Fittings: 
+1. 
+All brass pipe shall be rated Schedule 40 or greater in accordance with ASTM B-43. Brass 
+pipe nipples will be in accordance with ASTM B-687. 
+2. 
+Treaded fittings for bronze pipe will be Schedule 40 in accordance with ASTM B-62-90. 
+D. 
+Plastic Pipe and Fittings: 
+1. 
+Identification Markings: 
+a. 
+Identify all pipe with following indelible markings: 
+1) 
+Manufacturer's name. 
+2) 
+Nominal pipe size. 
+3) 
+Schedule of class. 
+4) 
+Pressure rating. 
+5) 
+NSF (National Sanitation Foundation) seal of approval. 
+6) 
+Date of extrusion. 
+2. 
+Solvent Weld Pipe - Manufactured from virgin poly vinyl chloride (PVC) compound in 
+accordance with ASTM D2241 and STM D1784; cell classification 12454-B, Type 1, Grade 1.   
+a. 
+Fittings - Standard weight, Schedule 40, injection molded PVC; complying with ASTM 
+D1784 and D2466, cell classification 12454-B. 
+b. 
+Threads - injection molded type (where required). 
+c. 
+Tees and Ells - Side gated. 
+d. 
+Fittings - Schedule 80, injection molded PVC; complying with ASTM D1785 and 
+D2467, cell classification 12454-B. 
+e. 
+Threaded Nipples - ASTM D2464, Schedule 80 with molded threads. 
+f. 
+Joint Cement and Primer - (ANSI/ASTM D2564). 
+3. 
+Ring tight PVC Pipe Fittings: Epoxy Coated Ductile Iron Grade 65-45-12, gasketed, deep bell 
+with joint restraints for change of direction in mainline on 4 inch and larger pressure pipe 
+only. Do not use for connection of valves to mainline. Reducers and plugs to be provided 
+with bolt-on links. All fittings to have four lugs to accommodate joint restraints in any 
+
+
+===== PAGE 52 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 7 
+ 
+orientation. EBAA, Napac,Tyler, Sigma, Waterous or equal. Provide joint restraints on fittings 
+4 inches and larger as per manufactures recommendations. 
+4. 
+Dielectric Fittings: Assembly or fitting with insulating material isolating joined dissimilar 
+metals to prevent galvanic action and stop corrosion.  These devices are a combination of 
+copper alloy and ferrous metal threaded-end solder-end types, matching piping system 
+materials. 
+a. 
+Dielectric Unions: Factory-fabricated, union assembly, designed for 250-psig (1725 
+kPa) minimum working pressure at 180 degrees F (82 degrees C).  Include insulating 
+material isolating dissimilar metals and ends with inside threads according to ASME 
+B1.20.1. 
+b. 
+Dielectric Flanges: Factory-fabricated, companion-flange assembly for 150 psig (1035 
+kPa) or 300 psig (2070 kPa) minimum pressure to suit system pressures. 
+c. 
+Transition Fittings: Manufactured assembly or fitting, with pressure rating at least equal 
+to that of system and with ends compatible to piping where fitting is to be installed. 
+5. 
+Joining Materials. 
+a. 
+Refer to Basic Mechanical Materials and Methods for joining materials not included in 
+this section. 
+b. 
+Primer, IPS P-70 (ASTM 656) Provide for all solvent cemented connections 
+c. 
+Solvent Cement, IPS 705 or 721 (ASTM 2564) clear medium bond for rigid PVC pipe 
+under 3 inches.  
+d. 
+Solvent Cement, IPS 711 (ASTM 2564) gray medium bond for main line or sleeving 
+PVC pipe 3 inches or more. 
+e. 
+Solvent Cement, IPS 795 (ASTM 2564) for all flexible PVC pipe such as the GPH 
+Irrigation pipe. 
+f. 
+Solder: ASTM B 32, Alloys Sn95 and E. 
+g. 
+Gaskets and fasteners for metal and metal-to-plastic flanged joints: ASME B16.21, 
+nonmetallic, asbestos-free, flat, 1/8-inch (3-mm) thickness gaskets and ASME B18.2.1, 
+carbon steel bolts, butts and washers. 
+h. 
+Gaskets for plastic flanged joints: Materials recommended by plastic pipe and fittings 
+manufacturer. 
+i. 
+PTFE sealing tape (Teflon® Tape) shall have a minimum thickness of 3.5 mil, 
+minimum of 1.2 density, and meet with FED. MIL SPEC A-A58092. 
+6. 
+Gasketed End Pipe - Manufactured from virgin poly vinyl chloride compound In accordance 
+with ASTM D2241 and ASTM D1874; cell classification 1254-B, Type 1, Grade 1. 
+a. 
+Fittings – Ductile iron, AWWA C153, with push-on joints or mechanical joint. 
+Connections from main line to control valves or any 2-inch and smaller pipe outlet, a 
+bronze saddle with double stainless steel straps shall be used. 
+b. 
+Gaskets - Factory installed in pipe and fittings, having a metal or plastic support within 
+gasket or a plastic retainer ring for gasket. 
+c. 
+Lubricant - As recommended by manufacturer of pipe fittings. 
+7. 
+Saddles on C900 or C909 irrigation main lines to have a wide stainless steel band, brass 
+saddle with double bolts on each side. Ford Style 202BS Double Band Saddles for C900 
+PVC pipe, A.Y. McDonald Model 3846 Service Saddles with Wide Stainless Steel Band for 
+C900 PVC pipe, or approved equal. 
+8. 
+Detectable Marking Tape 3-inches in width shall be installed 12 above all irrigation main 
+lines. 
+a. 
+Tape shall consist of a minimum 5.0 mil overall thickness; 100% virgin polyethylene; 
+acid, alkaline and corrosion resistant. 
+b. 
+Elongation properties shall be in accordance with ASTM D882-80A and shall be: 80% 
+MD and 135%TD. 
+c. 
+Tape shall have a minimum 20-gauge solid aluminum foil core, adhered to a 2.55 mil 
+polyethylene backing. 
+d. 
+Tape color shall be blue and the legend shall read “Caution Irrigation Line Buried 
+Below”. 
+
+
+===== PAGE 53 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 8 
+ 
+e. 
+Tape tensile strength shall be in accordance with ASTM D882-80A and be not less 
+than 7,800 PSI. 
+f. 
+Tape shall remain flexible as measured by ASTM D671-76 pliable hand value. 
+2.3 
+VALVES 
+A. 
+Gate Valves: 
+1. 
+Gate Valve for 3/4 inch through 1-1/2 inch Pipe - Brass construction; solid wedge, IPS 
+threads, and non-rising stem with brass butterfly operating handle. Nibco or equal. 
+2. 
+Nonrising Stem Gate Valves 2 inches and larger: AWWA C509, resilient seated; bronze 
+stem, cast iron, or ductile iron body and bonnet, stem nut, 200 psi working pressure; and 
+ends that fit NPS dimensions, PVC pipe. Include elastomeric gaskets. Napac, Nibco, Clow, 
+or equal. Gate Valves 2 inches or larger shall have a minimum of a ten (10) year warranty.  
+3. 
+Valves under 2 inch shall be threaded, valves 2 ½ inch to 3 inch shall be flanged with 
+stainless steel bolts and nuts, valves 4 inch and larger shall be flanged with stainless steel 
+bolts and nuts for above grade applications and push-on right tight with joint restraints for 
+below grade applications. 
+B. 
+Valve Box and Cover for valves other than the rotor assembly: Carson, Dura Plastics, or Ametek 
+rectangular high-density box, with locking equipment provided, use extension when depths are 
+greater than the box and the valve being covered. Use green colored valve boxes in grass areas 
+and sand colored valve boxes in shrub areas. 
+C. 
+Quick Coupling Valves: Factory fabricated, two-piece assembly, with non-potable purple cap. 
+Include coupler water seal valve with ASME B1.20.7, 3/4-11.5NH threads for garden hose on outlet; 
+and operating key.  
+ 
+PART 3 EXCEUTION 
+3.1 
+INSTALLERS 
+A. 
+Nevada licensed irrigation contractor shall have C-10 license. See Section 1.4, C. 
+B. 
+The contractor shall have a Certified Irrigation individual on the site during the installation. See 
+Section 1.4, C.  
+C. 
+The Contractor shall have readily available a copy of related specifications and plans on site at all 
+times. 
+3.2 
+EXAMINATION 
+A. 
+Verify that field conditions are acceptable and are ready to receive work. 
+B. 
+Verify location of existing utilities and existing irrigation components. 
+C. 
+Verify that required utilities and services are available, in proper location and ready for use. If 
+discrepancies exist bring them to the Owner’s Representative immediately. 
+D. 
+Obtain all necessary permits. 
+E. 
+Prior to irrigation installation all landscape grades are to be established and approved by the 
+Owner’s Representative. 
+
+
+===== PAGE 54 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 9 
+ 
+F. 
+Beginning of installation means installer accepts existing conditions. 
+G. 
+Verify existing irrigation water pressure and submit verification to the Owner. 
+3.3 
+PREPARATION 
+A. 
+Irrigation Shop Drawings. All materials, equipment, etc. are to be located in landscape areas. Any 
+discrepancies between site conditions and approved Shop Drawings are to be brought to the 
+attention of the Owner.  
+B. 
+Route piping to avoid plants and structures. 
+C. 
+Prior to the installation of sleeves, review layout requirements with other affected Work. Coordinate 
+locations of sleeves under paving to accommodate system. Separate sleeves must be installed for 
+the mainline, each lateral and all control wiring. Sleeves should be Schedule 40 (6 inch and smaller) 
+or Class 200 PVC (larger than 6 inch), and sized minimum two sizes larger than the size of the 
+irrigation pipe. Wire sleeves shall be a minimum of 2-inch Schedule 40 PVC. Compact backfill 
+around sleeves to 95% Standard proctor Density within 2% of optimum moisture content in 
+accordance with ASTM D1557. Extend sleeves 12-inches into all planting areas – past hardscape 
+surfaces.  
+D. 
+Set stakes to identify proposed rotor assembly locations for approval by Owner prior to installation. 
+Obtain Owner’s Representative approval before excavation. 
+3.4 
+TRENCHING 
+A. 
+Trenching: Trench excavation shall follow, as much as possible, the Shop Drawings and shall be 
+located outside the limit of play if possible.. Dig trenches straight and support pipe continuously on 
+bottom of trench. Trench bottom shall be clean and smooth with all rock and organic debris 
+removed. Pressure supply line trenches shall be over-excavated as required to allow for bedding 
+material. Trench depth shall be uniform as required to meet minimum depth requirement for type of 
+piping. 
+1. 
+Clearances: 
+a. 
+Piping 3-Inches and Larger- Make trenches of sufficient width (14-inches minimum) to 
+properly assemble and position pipe in trench. Minimum clearance of piping 3-inches 
+or larger shall be 5-inches horizontally on both sides of the trench. 
+b. 
+Piping Smaller than 3-Inches – Trenches shall have a minimum width of 10-inches. 
+c. 
+Line Clearance – Provide not less than 6-inches of clearance between each line, and 
+not less than 12-inches of clearance between lines of other trades. 
+d. 
+Trench to accommodate grade changes. 
+2. 
+Pipe and Wire Depth: 
+a. 
+Pressure Supply Piping – 24-inches to 30-inches deep to top of pipe. 
+b. 
+Non-pressure Piping (rotor and pop-up) – 15-inches to 18-inches deep to top of the 
+pipe.  
+c. 
+Control wiring – 24-inches to 30-inches deep to top of the wire. 
+d. 
+Communications Cable – 24-inches to 30-inches deep to top of the cable. 
+B. 
+Trench to accommodate grade changes. 
+C. 
+All piping is to be installed in an individual trench; no other piping is to be placed in this trench. 
+Wiring can be in the same trench and should run on the side. 
+D. 
+Mainline piping is to be installed in an individual trench; no other piping is to be placed in this trench. 
+Wiring can be in the mainline trench and should run on the side of the pipe only. 
+
+
+===== PAGE 55 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 10 
+ 
+E. 
+Do not stack piping in same trench, piping to have a 12 inches minimum separation when side-by-
+side. Where pipes cross above or below another pipe, provide a minimum separation of 6 inches.  
+F. 
+Backfilling: Do not begin backfilling operations until required system tests have been completed. 
+Backfill shall not be done in freezing weather except with prior approval by Owner’s Representative. 
+Trenches shall be finished graded prior to walk-through of system by Owner’s Representative. 
+1. 
+All pressure supply lines shall be bedded with construction grade sand 4-inches below invert 
+of pipe, to 6-inches above top of pipe and width of trench. 
+a. 
+Detectable Marking Tape 3-inches in width shall be installed 12 above all irrigation 
+main lines. 
+2. 
+Materials – Excavated material is generally considered satisfactory for backfill purposes after 
+completing bedding requirements. Backfill material shall be free of rubbish, vegetative 
+matter, frozen materials, and stones larger than ⅛-inches in maximum dimensions. Do not 
+mix subsoil with topsoil. Material not suitable for backfill shall be hauled away. Contractor 
+shall be responsible for providing suitable backfill if excavated material is unacceptable or not 
+sufficient to meet backfill, compaction, and final grade requirements. 
+3. 
+Open excavations shall be protected in accordance with OSHA regulations. 
+4. 
+Compact backfill to 90% maximum density in 6-inch lifts, determined in accordance with 
+ASTM D1557 utilizing the following methods: 
+a. 
+Mechanical tamping. 
+G. 
+Piping Under Paving or Hard Surface areas: 
+1. 
+Provide for a minimum cover of 30-inches for all pressure piping and 24-inches for all non-
+pressure piping between the top of the pipe and the bottom of the aggregate base for piping 
+installed under asphaltic concrete or concrete paving. 
+2. 
+Piping shall be bedded with construction grade sand or squeegee – 6-inches below pipe to 6-
+inches above pipe and width of excavation. 
+3. 
+Compact backfill material in 6-inch lifts at 95% maximum density determined in accordance 
+with ASTM D1557 using manual or mechanical tamping devices. 
+4. 
+Set in place, cap, and pressure test all piping under paving, in presence of Owner’s 
+representative Approved Representative or Owner’s representative prior to backfilling and 
+paving operations. 
+5. 
+Piping under existing walks or concrete pavement shall be done by jacking, boring, or 
+hydraulic driving, but where cutting or breaking of walks and/or concrete is necessary, it shall 
+be done and replaced at no cost to Owner’s representative. Obtain permission and prior 
+approval to cut or break walks and/or concrete from Owner’s representative. 
+H. 
+Do not backfill trenches until inspected by Owner’s Representative. 
+3.5 
+INSTALLATION 
+A. 
+Install pipe, valves, controls, and outlets in accordance with manufacturer's instructions and all 
+applicable codes. 
+B. 
+Water Supply and Point of Connection: Water supply shall be extended as shown from water supply 
+lines. 
+C. 
+Provide separation between water lines and other utilities as required per local and applicable 
+codes. 
+D. 
+Provide for thermal movement of components in system. 
+E. 
+After piping is installed open valves and flush system with full head of water. 
+
+
+===== PAGE 56 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 11 
+ 
+F. 
+PVC Piping: 
+1. 
+Snake pipe in trench as much as possible to allow for expansion and contraction, do not 
+place mainline and lateral line in same trench. Place each line in a separate trench. 
+2. 
+When pipe laying is not in progress, or at end of each day, close pipe ends with tight plug or 
+cap. 
+3. 
+Coordinate pressure supply line installation with required bedding operations. 
+4. 
+Stake all above grade PVC piping per details. 
+5. 
+Use 45º ells when making perpendicular crossing of above grade PVC piping, to depress 
+bottom pipe. 
+6. 
+Lay pipe and make all plastic-to-plastic joints in accordance with manufacturer’s 
+recommendations. 
+7. 
+Install detectable marking tape 12-inches above all irrigation main lines. 
+G. 
+Solvent Welding: 
+1. 
+PVC piping 4 inches and smaller, use IPS 705 or 721 cement 
+2. 
+Main line or sleeving PVC piping 3 inches and larger, use IPS 711 cement 
+3. 
+IPS flexible PVC piping (GPH Irrigation), use IPS-795 cement 
+4. 
+All PVC piping, including IPS flexible PVC pipe, use IPS P-70 primmer  
+5. 
+All solvent welding shall be done in accordance to ASTM-2855 
+6. 
+NCSD retains the right to have the contractor remove up to five (5) different fittings for testing 
+of proper solvent welding techniques at the contractors cost. 
+H. 
+Threaded Fittings: 
+1. 
+All threaded fittings will use an approved threaded joint sealant.  
+a. 
+PTFE sealing tape shall meet FED.MIL SPEC A-A58092 and installed per 
+manufacturers’ specifications and American Society for Testing and Materials (ASTM), 
+F 1498. 
+b. 
+Paste-type tread sealants must be compatible with the particular plastic used. Install 
+per manufacturers’ specifications and American Society for Testing and Materials 
+(ASTM), F 1498.  Spears 75TM thread sealant or NCSD approved equal. 
+I. 
+Gasketed End Pipes: 
+1. 
+Lay pipe and make pipe to fitting or pipe to pipe joint, following 0R70 recommendations 
+(Johns-Manville Guide for Installation of Ring-Tite Pipe), or pipe manufacturer's 
+recommendations. 
+2. 
+All ductile iron fittings, flanges (PVC or Ductile Iron), joint restrains, valves, etc. to be installed 
+underground shall be wrapped with a minimum 8 mil polyethylene clear sheeting and then 
+secured with a 2 inch black, 10 mil polyvinyl chloride (PVC) tape with a high-tack adhesive 
+provides a corrosion- and impact-resistant seal for all-weather protection, UV resistance and 
+has a temperature rating of 176°F (80°C).  
+J. 
+Joint Restraints: 
+1. 
+Joint restraints shall be installed on rubber gasketed pipe 4-inch diameter and larger at all 
+bends 11 degrees and over, reducers, valves, and caps in accordance with pipe 
+manufacturer’s recommendations. Contact Owner’s Representative and/or NCSD Civil and 
+Landscape Quality Assurance Construction Inspector/Manager to visually inspect all joint 
+restraints.  Pressure test pressure supply line with joint restraints installed and exposed to 
+view.  
+2. 
+Joint Restrain Harness: 
+a. 
+Use a joint restraint harness, per manufacture’s specifications, wherever joints are not 
+positively restrained by flanged fittings, and/or threaded fitting. 
+b. 
+Use a joint restraint harness with transition fittings between metal and PVC pipe or 
+where extra support is required to retain a fitting or joint. 
+
+
+===== PAGE 57 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 12 
+ 
+c. 
+Use bolts, nuts, retaining clamps, all-thread, or other joint restraint harness materials, 
+which are zinc plated or galvanized. 
+3. 
+Use joint restraints based on the following table: 
+ 
+Table of Joint Restraint Lengths for Slip Joint Pipe 
+(150 psi working + 50% surge = 225 psi) 
+Size 
+Minimum Restrained Length (Feet) 
+11º 
+22º 
+45º 
+90º 
+1D 
+2D 
+DE 
+4” 
+2 
+3 
+7 
+16 
+11 
+16 
+36 
+6” 
+2 
+5 
+10 
+23 
+24 
+32 
+50 
+8” 
+3 
+6 
+12 
+30 
+26 
+44 
+66 
+10” 
+4 
+7 
+15 
+36 
+26 
+45 
+80 
+12” 
+4 
+8 
+17 
+42 
+36 
+45 
+94 
+ 
+K. 
+Valve Boxes 
+1. 
+Install one valve box for each type of valve installed. Install Terra Bond Fabric around the 
+outside of the valve box by taping.  Extend fabric 12 inches beyond base of valve box, then 
+backfill around the valve box and compact.  Install gravel sump after compaction of all 
+trenches. Place final portion of gravel inside valve box after valve box is backfilled and 
+compacted. Valve boxes shall have locking equipment provided, be green in color when 
+installed in turf areas, and tan in areas other than turf, use extension when depths are 
+greater than the box and the valve being covered. 
+2. 
+Top of valve boxes in synthetic turf areas shall have synthetic turf on valve box top that 
+matches turf type and color and shall be flush with the adjacent synthetic turf.  
+3. 
+Brand all valve box lids. Letter and number size shall be no smaller than 1-inch and no 
+greater in size than 1 ½-inches. Depth of branding shall be no more than 3/8-inches into 
+valve box lid as follows: 
+a. 
+Wire splices – Brand all wire splice box lids with letters “WS”. 
+b. 
+Isolation Gate Valves – Brand all isolation gate valve box lids with letters “GV”. 
+4. 
+Standard 12 inches deep rectangular valve boxes with extension, when required, are to be 
+used for electric solenoid valves and wire splices. 
+5. 
+10-inch round valve box is required for all gate valves, isolation valves, and drip flushing 
+valves.  
+6. 
+Valve boxes installed near any hard surface shall be parallel to the hard surface. 
+7. 
+Valve boxes shall have Epic plastics valve box stabilizers or bricks under each corner of a 
+rectangular valve box and minimum of three (3) under round valve boxes. 
+L. 
+Control Wiring (as needed for repairs or as directed by Owner): 
+1. 
+Low Voltage Wiring: 
+a. 
+Bury control wiring between controller and electric valves in pressure supply line 
+trenches, with wires consistently located below and to one side of pipe, on top of initial 
+pipe bedding. Separate wire trenches will not be allowed unless approved by Owner’s 
+Representative prior to installation. 
+b. 
+Bundle all 24 volt wires at 10-foot intervals with electrical or duct tape. 
+c. 
+Provide an expansion loop at pressure supply line angle fittings, every electric control 
+valve location (in valve box), and at minimum 500 feet intervals. Form expansion loop 
+by wrapping wire at least 8 times around a ¾-inch pipe and with drawing pipe. 
+d. 
+Make splices and electric control valve Connections using 3M direct bury splice DBY or 
+DBR; or similar dry splice method provide 8-inch expansions loops. 
+e. 
+Install control wire splices not occurring at control valve in a separate splice valve box. 
+f. 
+Run all wire for future control valves to point coordinated with Owner. Coil a minimum 
+of ten (10) feet at termination and install in 10: round valve box. Label all wires at 
+termination. 
+
+
+===== PAGE 58 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 13 
+ 
+M. 
+Ductile iron or stainless steel piping to be provided 2 feet - 0 inches minimum beyond the discharge 
+side of booster pump. Ductile iron or stainless steel piping to be provided 2 feet - 0 inches minimum 
+beyond the inlet side of booster pump including “Y” strainer and gate valve. Connection from water 
+utilities to point of connection shall be C900 PVC piping (See Section 328400, Part 2, Pipe 
+Materials). Extend from the backflow device with ductile iron a minimum distance of 2 feet - 0 inches 
+horizontally once it has entered the ground. 
+3.6 
+FIELD QUALITY CONTROL 
+A. 
+Flush the new irrigation system in the football field. Flush the mainline and lateral lines after piping, 
+risers, quick couplers, and valves are in place and connected, but prior to installation of sprinkler 
+heads, thoroughly flush piping system under full head of water pressure until totally clean (15 
+minutes). Additional flushing will be required if piping is damaged or changes have occurred to the 
+mainline system.  
+B. 
+Testing - Conduct tests in presence of Owner’s Representative.  Arrange for presence of Owner’s 
+Representative 48 hours in advance of testing.  Pressure test is to be conducted prior to backfilling 
+trench. Supply force pump and all other test equipment. 
+1. 
+After backfilling at key locations for stabilization of the mainline; all valves, quick couplers 
+and other devices subject to constant line pressure; and fill pressure supply line with water. 
+The main line is to be under designated static pressure for seven (7) continuous days before 
+pressure test. Expose all couplings, fittings, and valves. 
+2. 
+Pressurize the new mainline in the football field to 40 PSI over the designated static pressure 
+or 120 PSI, for a period of 2 hours. 
+3. 
+Leakage, Pressure Loss - Test is acceptable if no leakage or loss of pressure is evident 
+during test period. 
+4. 
+Leaks - Detect and repair leaks. 
+5. 
+Retest system until test pressure can be maintained for duration of tests. 
+6. 
+Before final acceptance, pressure supply line shall remain under pressure for a period of 48 
+hours. 
+7. 
+Subsections of pressure piping may be tested independently to allow backfilling of trench, 
+subject to review of Construction Inspector/Manager. However, a final pressure test must be 
+conducted when the entire system is in place. 
+8. 
+After the main line pressure test is passed, if any comprise in the irrigation main line, the 
+contractor will then have to re-test any section(s) that was comprised.  
+9. 
+NCSD reserves the right to require re-testing of the irrigation main line before the end of the 
+warranty/maintenance period. 
+3.7 
+ADJUSTING 
+A. 
+ADJUSTING - Upon completion of installation, "fine-tune" entire system by performing the following: 
+1. 
+System is to be flushed one week prior to NCSD acceptance.   
+B. 
+Areas that do not conform to designated operation requirements due to unauthorized changes or 
+poor installation practices shall be immediately corrected at no additional cost to the Owner. Verify 
+all grass areas dimension prior to installation.  
+3.8 
+DEMONSTRATION 
+A. 
+Demonstrate to the Owner’s Representative that the system meets coverage requirements, the 
+controls function properly, operation of equipment, and accessories Review operating and 
+maintenance information. Provide 7 days written notice in advance of demonstration. 
+
+
+===== PAGE 59 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+          Bid Documents 
+ 
+April 20, 2026 
+Section 32 84 00 
+Landscape Irrigation 
+Page 14 
+ 
+3.9 
+WARRANTY 
+A. 
+Provide prime quality materials matching the originally installed equipment.  
+B. 
+Warrant irrigation materials, equipment, and workmanship against defects for a period of one (1) 
+year from date of substantial completion.  
+1. 
+Fill and repair depressions. 
+2. 
+Restore landscape, hardscape or structural features damaged by settlement of irrigation 
+trenches or excavations. 
+3. 
+Repair damage to premises caused by defective components. 
+4. 
+Make repairs within 24 hours of notification from Owner’s Representative. If no response is 
+made to the requested repair, the contractor(s) will be back-charged for costs that occur.   
+5. 
+Any work performed on the irrigation system during the warranty period is to be documented 
+and extended with a full year warranty. 
+C. 
+The Contract Documents govern replacement materials, labor, and workmanship identically as with 
+new work. Make replacements at no additional cost to Owner. 
+1. 
+The warranty applies to originally installed materials and equipment and replacements made 
+during the warranty period. 
+2. 
+Expensed due to vandalism, before substantial completion and during maintenance period, 
+shall be borne by Contractor. 
+3. 
+“Act of God” may become an acceptable reason for a warranty to be void.  However, the 
+contractor must make every reasonable attempt to prevent potential damage. “Act of God” 
+damage will include unseasonable freeze, winds above 60 M.P.H., and flooding from 
+excessive rain. 
+D. 
+Contractor shall accommodate operation on irrigation system as to not conflict with school hours 
+and use of turf areas or other areas accessed by school. 
+ 
+ 
+END OF SECTION 
+
+
+===== PAGE 60 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+Bid Documents 
+ 
+April 20, 2026 
+Section 32 91 13 
+Shot Put and Discus Mix 
+Page 1 
+ 
+SECTION 32 91 13 
+ 
+TRACK & FIELD EVENT INORGANIC MATERIAL MIX  
+ 
+PART 1 -  GENERAL 
+1.1 
+SCOPE 
+ 
+A. Furnish labor, material, and equipment necessary for the excavation, grading, and construction of the 
+shot put and discus, and long jump and triple jump sand catchers as shown on the drawings and 
+specified herein. 
+ 
+RELATED SECTIONS: 
+ 
+A. Section 31 22 13 – Rough Grading 
+B. Section 32 13 23.33 – Running Track Surfacing 
+C. Section 32 23 16 - Excavation 
+D. Section 32 84 00 – Landscape Irrigation 
+ 
+1.2 
+SUBMITTALS 
+ 
+A. Submit under provisions of Section 01 33 00. 
+B. Shot put and discus mix: The Contractor shall submit Shot put and Discus mix product information, 
+including binder manufacturer and binder amount to be used with runway mix product(s). Submit 1 
+gallon sample of mix without binder. Mock-up with binder product data is required for review and 
+approval. Mock-up is required for approval. 
+ 
+C. A/E and Owner’s Representative reserves the right to approve or reject materials, suppliers and 
+subcontractors. 
+D. Submit a labeled 5-pound sample of Long / Triple Jump Sand. 
+E. Submit instructions to the A/E for continuing maintenance as part of the Operations and Maintenance 
+Manual. 
+F. Submit warranties, Paragraph 1.4 
+ 
+1.3 
+QUALITY ASSURANCE 
+ 
+A. Provide 10’x10’ mockup-up at approved location of the discus and shot put runway mix installation for 
+review and approval. Mockup shall have the discus / shot put edging on at least one side of the mock 
+up.  
+1.4 
+WARRANTY 
+A. Warranty all non-organic material and equipment for a period of one year from date of 
+substantial completion. 
+
+
+===== PAGE 61 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+Bid Documents 
+ 
+April 20, 2026 
+Section 32 91 13 
+Shot Put and Discus Mix 
+Page 2 
+ 
+1.5 
+EXTRA MATERIAL 
+A. Surface material  
+1. 50 lb. of the shot put / runway mix blended with proper amount of stabilizing binder 
+additive, in protective bags. 
+PART 2 -  MATERIALS 
+ 
+2.1 
+SHOT PUT AND DISCUS MIX 
+ 
+A. Discus and shot put runway shall be a mix of the following: 
+1. 70% - 80% 2mm to 3mm screened fines. Color: gold, tan or red. 
+2. 20% -30% cinder sand. Color: gold, tan or red. 
+3. Organic binder. Natracil, Stabilizer or approved equal. 
+ 
+B. Gradation for shot put & discuss: 
+PERCENT PASSING U.S STANDARD SIEVE 
+Sieve Size        
+ 
+#10           #40    #200  
+Percent Finer by weight    
+70-80      50-70     <30 
+ 
+C. Manufacturers  
+1. Mix per Contractor, approved through submittals and mock-up. 
+2. Pro Gold Shot Put Mix available through Gail Materials (951-667-6106). 
+3. Or approved equal. 
+ 
+2.2 
+LONG /TRIPLE JUMP SAND 
+ 
+A.  Appearance: Sand shall be washed, white pigmented, fluffy, non-crusting sand containing no organic 
+material. 
+ 
+B. Particle Characteristics: Sand must not be abrasive or stain. 
+ 
+
+
+===== PAGE 62 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+Bid Documents 
+ 
+April 20, 2026 
+Section 32 91 13 
+Shot Put and Discus Mix 
+Page 3 
+ 
+ 
+C. Particle Size shall meet the following sieve: 
+ 
+Particle 
+Diameter 
+Sieve 
+% Retained by Weight 
+Gravel 
+>2mm 
+No. 10 
+≤ 2% 
+Very Coarse Sand 
+1.0 – 2.0 mm 
+No. 18 
+≤ 15% 
+Coarse Sand 
+0.5 – 1.0 mm 
+No. 35 
+78 – 100% 
+Medium Sand 
+0.25 – 0.5 mm 
+No. 18 
+78 – 100% 
+Fine Sand 
+0.1 – 0.25 mm 
+No. 140 
+78 – 100% 
+Very Fine Sand 
+0.05 – 0.10 mm 
+No. 270 
+≤ 5% Max. 
+Silt + Clay 
+< 0.05 mm 
+Pan 
+≤ 3% Max. 
+D. No particles larger than 2mm. 
+PART 3 - EXECUTION 
+ 
+3.1 
+SHOT PUT AND DISCUS MIX INSTALLATION  
+A. Discus and shot put runway shall be a mix shall per plans and specifications. 
+B. Organic binder. Use 8 to 10 pounds per ton of screened fines and cinder sand combination, or 
+amount recommended by binder manufacturer for shot put and discus use. Material shall have a 
+minimum swell volume of 35 ml/gm.  
+C. Materials shall be mixed together into a homogenous mixture very rapidly with a pug mill or similar 
+mixing machine, as recommended by binder manufacturer and installed in lifts. Apply water to wet 
+entire lift of material, and compact each lift. 
+D. Depth of mix: minimum 4” depth, maximum 5” depth, compacted. 
+E. Install pre-emergent herbicide to areas prior to installation of the runway mix. 
+ 
+3.2 
+CLEANUP 
+ 
+A. Keep areas of work clean, neat and free of litter or deleterious materials.  Remove waste materials, 
+tools and equipment and leave site in an orderly manner for other site operations. 
+ 
+3.3 
+MAINTENANCE 
+ 
+A. Keep the shot put and discus level and weed free from invasive weeds. Keep this zone free from the 
+Bermuda rhizome encroachment.  
+1. Apply herbicide along the perimeter edge when rhizome encroachment takes place.  
+2. Apply two additional applications of pre-emergent across the interior infields during the 
+maintenance period. 
+ 
+END OF SECTION 
+
+
+===== PAGE 63 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+Bid Documents 
+ 
+April 20, 2026 
+Section 32 96 50 
+Invasive Plant Removal 
+Page 1 
+ 
+SECTION 32 96 50 
+INVASIVE PLANT REMOVAL 
+ 
+ 
+PART 1 - GENERAL 
+ 
+1.1 
+SUMMARY 
+ 
+A. Includes But Not Limited To: 
+1. Killing and removing invasive plant material existing on site including, including but not limited to, 
+Bermuda Grass. 
+ 
+1.2 
+RELATED SECTIONS 
+ 
+A. Section 32 84 00 – Landscape Irrigation 
+ 
+B. Section 32 93 00 – Landscape Plants 
+ 
+C. Section 32 98 01 – Landscape Maintenance 
+ 
+ 
+1.3 
+DEFINITIONS 
+ 
+A. Invasive Plants:  Plant noted on the plans as not desirable and to be killed and removed. 
+ 
+B. Landscape areas:  All areas scheduled for turf, tree and shrub planting.  
+ 
+C. Planters:  All landscape areas not scheduled for turf. 
+ 
+1.4 
+QUALITY ASSURANCE 
+ 
+A. Subcontractor license requirements are as noted in Section 32 9300, 1.7 Quality Assurance, under 
+Installer. 
+ 
+1.5 
+SUBMITTALS 
+ 
+A. Submit all MSDS sheets for herbicides, pre-emergent & post-emergent products that are used for this 
+project.  
+ 
+B. Submit a “Right to Know” form to the Owner and Principal (14) days before the application of 
+herbicides, pre-emergent & post-emergent products, etc. 
+ 
+1.6 
+REGULATORY REQUIREMENTS 
+ 
+A. Comply with regulatory requirements for herbicide composition. 
+ 
+B. The types of herbicides to be used and the methods of application shall confirm with the 
+Environmental Protection Agency Policies.    
+ 
+PART 2 - PRODUCTS  
+ 
+ 
+2.1 
+MANUFACTURES 
+ 
+
+
+===== PAGE 64 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+Bid Documents 
+ 
+April 20, 2026 
+Section 32 96 50 
+Invasive Plant Removal 
+Page 2 
+ 
+A. Post-Emergent products.  Application rates as per manufacture recommendations. 
+ 
+B. Post-Emergent, Round Up 
+ 
+C. Post-Emergent, Fusilade 
+ 
+D. Post-Emergent, Poast 
+ 
+E. Post-Emergent, Diquat 
+ 
+PART 3 - EXECUTION 
+ 
+3.1 
+PERFORMANCE 
+ 
+A. General 
+1. Kill and then remove all Bermuda Grass in areas shown on the plans.  
+2. Protect in place all existing plant material that is to remain.  Damaged plant material that is to 
+remain is to be replaced with a plant of the same genus, species, size and form as the damaged 
+plant at the contractor’s cost. 
+ 
+B. All herbicide is to have a trace die coloring agent added for visual verification of application and 
+coverage. 
+ 
+3.2 
+BERMUDA GRASS REMOVAL 
+ 
+A. Bermuda grass removal during the dormant season when nighttime temperatures are consistently 
+below 65 degrees Fahrenheit will consist of excavation only. 
+ 
+B. Turf and Soil Removal 
+1. Remove the turf base, roots and approximately 6”-7” of soil below the turf base depending on the 
+thickness of the turf base for a total of 8” of material removed from the site. 
+2. All removed Bermuda grass and soil is to be disposed of in a legal manner off site. 
+3. Clean up all spillage, debris, roots, grass and other deleterious materials from the immediate 
+working area and the surrounding site. 
+ 
+C. Protection 
+1. All trenching, digging, scraping or other work under limb spread of any and all evergreens or low 
+branching deciduous material shall be done by hand or by other methods so as to prevent 
+damage to limbs or branches. 
+2. Where it is necessary to excavate adjacent to existing trees, use all possible care to avoid injury to 
+trees and tree roots.  Excavation, in areas where 2-inch and larger roots occur, shall be done by 
+hand.  Roots 2-inches or larger in diameter, except directly in the path of pipe or conduit, shall be 
+tunneled under and shall be heavily wrapped with burlap to prevent scarring or excessive drying.  
+Where a trenching machine is operated close to trees having roots smaller than 2-inches in 
+diameter, a wall or trench adjacent to tree shall be hand trimmed, making clean cuts through roots.  
+Roots 1-inch and larger in diameter shall be painted with two coats of “Tree Seal”.  Trenches 
+adjacent to trees shall be closed within 24 hours, and when this is not possible, side of trench 
+adjacent to tree shall be kept shaded with moistened burlap or canvas. Protect existing irrigation 
+lines, wires, valves and other appurtenances that are to remain. Repair, replace or adjust any 
+damaged irrigation equipment which is scheduled to remain in place.  Make all repairs, 
+replacements or adjustments immediately. 
+3. Maintain continuous operation of existing irrigation system that is scheduled to remain during the 
+entire duration of the scope of work.  Immediately notify the A/E and NCSD Representative of any 
+temporary water shut down or accidental damage. 
+
+
+===== PAGE 65 =====
+ 
+Nye County School District 
+Tonopah HS Field Replacement 
+Bid Documents 
+ 
+April 20, 2026 
+Section 32 96 50 
+Invasive Plant Removal 
+Page 3 
+ 
+ 
+D. Post Removal Herbicide Application  
+1. After removal of Bermuda grass and continuing through the maintenance period, the contractor 
+will apply herbicide to any Bermuda grass that begins to grow in the areas where the Bermuda 
+grass was excavated and removed. 
+2. Apply application of herbicide per manufacturer’s written instructions. 
+a. Protect existing trees, shrubs and other plant material scheduled to remain from damage 
+caused by the use of the herbicide on the Bermuda grass. 
+b. Use heaviest recommended application rate. 
+c. Thoroughly cover all green leaf blade surfaces of the Bermuda grass. 
+a. Apply herbicide to Bermuda grass that begins to grow at no more than two week intervals 
+through the maintenance period. 
+ 
+3.3 
+FIELD QUALITY CONTROL 
+ 
+A. General 
+1. The A/E will inspect Invasive Plant Removal work regularly during the removal period. 
+2. Notify the A/E a minimum of 48 hours prior to each phase of work in this section. 
+ 
+END OF SECTION 
+ 
