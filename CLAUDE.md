@@ -96,7 +96,48 @@ Full design doc: `Tonopah-Attachment-A-System-Master-Plan.md` (repo root). Summa
 | `doc-indexer` / `scope-drafter` / `scope-qa` subagent definitions | ✅ Built — `.claude/agents/{doc-indexer,scope-drafter,scope-qa}.md` |
 | `01-index/package-index.json` | ❌ **REJECTED by PM (07.31.26) — do not draft from this.** ~47% defect rate on the 17 highest-stakes rows the PM checked. Three root causes, all confirmed: the 33 Scope of Work narratives were never read (stored as filenames only); Addendum #1's 7 revised sheets were never applied as supersession, so 16 of 33 packages cite dead base-bid drawings; awarded-sub proposals were mapped but never read. Full record: `01-index/pm-review-2026-07-31.md`. |
 | Scope of Work narratives extracted | ✅ Done (07.31.26) — all 35 `.docx` (33 SOW + ITB + RFP notice) extracted to `02-trade-scopes-bidform/_extracted/*.txt`, 362,376 chars, article offsets in `01-index/scope-doc-extraction-manifest.json`. Built by `scripts/extract-scope-docs.py`. **These are the primary scope authority for the re-index** — they resolve boundaries the drawings leave ambiguous. |
+| Proposal / descope / homework content indexed | ✅ Done (08.05.26) — `01-index/proposal-content.json`, built by `scripts/index_proposals.py`. All 246 bidder documents read, not just filenames: 2,246 inclusions, 2,041 scope-specific exclusions, 645 clarifications, 138 priced add/deduct line items, 14 priced product groups. **All 33 packages now have at least one scope-bearing document.** Supersession chain per firm per package (latest date governs; 47 undated documents are flagged, never sequenced by guess). Bid tabulation reconciled against every bidder's own stated price. 8 proposal probes added to `scripts/verify_extraction.py`; **33/33 probes pass.** |
 | Drawing sheet indexing | ⚠️ Partially valid — 91 base-bid sheets cataloged (`01-index/drawing-sheet-catalog.json`) and vision-read (`drawing-vision-{vol1,vol2,esdemo}.json`). Independent spot-check confirmed the readings are verbatim-accurate **for the revision they read**, but the pass consumed the base bid set only. The 7 sheets revised by Addendum #1 (G0-00, LS1-10, A1-20, A2-10, A10-30, C1, GD) were never opened. Sheet content is reusable; package assignments are not, having been made from drawings rather than from scope docs. |
+
+### Open items raised by the proposal index (08.05.26) — need PM decisions
+All confirmed by reading the source document, not inferred from a count.
+
+1. **RFP-008 bid tab is reversed — CORRECTED.** The 05.12.26 tabulation records NDX at
+   $1,924,851 and New-Com (TAB) at $3,152,033. Both bidders' own Proposal Forms state the
+   opposite: TAB's BuildingConnected header and letter both read **$1,924,851**, NDX's reads
+   **$3,152,032.69**. TAB is therefore the **low** bidder (TAB $1.92M < Monument $2.30M < NDX
+   $3.15M), not the high one. `awarded-sub-mapping.json` has been corrected and the "awarded sub
+   was not the low bidder" flag on RFP-008 withdrawn. **The tab is a transcription, not a source
+   — treat any price taken from it as unverified.** Reconciliation of all 16 tabulated packages
+   now runs automatically; RFP-008 is the only reversal.
+2. **Sprinturf's bid does not split (RFP-016 / RFP-022).** One combined $1,022,155 number for
+   Landscaping + Irrigation + Synthetic Turf. Their Proposal Form is headed "Bid Proposal:
+   Landscaping & Irrigation"; their descope file is named "016, 022". The tab enters it once,
+   under 016 only — so RFP-022's row omits them entirely and RFP-016's row compares a combined
+   bid against landscaping-only bids (BrightView $131,300, Black Canyon $111,275).
+3. **Nine firms submitted bundled multi-package scope**, where each package's document also
+   describes the others: Tand (016/022), XL Concrete Masonry (030/031), Division 09
+   (044/056/062/060), Bombard (098/100), Exerplay (018/019/078), SI Legacy (040/066/067),
+   NRC (066/067), Ryerson (066/067), YESCO (072/078/089). Neither price nor scope splits by
+   package without a descope.
+4. **Trade 070 "Final Cleaning" has four proposals and no bid package** (CSI, Lady Lux, Nevada
+   Angels + a Nevada Angels descope). Confirm whether it is CORE self-perform, folded into
+   another subcontract, or needs its own package.
+5. **Northstar's price moves after bid (RFP-002):** proposal 05.12.26 states $718,623; homework
+   response 05.15.26 states $718,263 — a digit transposition $360 apart. The later document
+   governs by date; confirm which figure is intended.
+6. **TAB's 05.22.26 homework response is a re-priced proposal**, ten days after bid opening. Same
+   $1,924,851 base, but it carries scope-shifting deducts that bear on other packages: *Delete
+   trench drain −$125,000*, *Delete Type II and geofabric from turf field −$150,000*, *Delete
+   Type II from building pad and concrete paving −$46,000*, *ADD D-10 dozer for hard dig
+   +$70,000*. The trench-drain deduct interacts with the 07.31.26 ruling that trench drains at
+   the track perimeter are RFP-030.
+7. **ITB-074 / ITB-077 locker overlap:** Henri's ITB-074 quote prices *METAL LOCKERS — ASI
+   Storage, 20 frames / 20 openings — furnished and installed — $22,519* inside the Building
+   Specialties package. ITB-077 is the lockers package. Decide which subcontract carries them.
+8. **Tahoe Fence's scope-review agenda is a blank template** — subcontractor, scopes, date and
+   attendees all unfilled. Either the meeting record was never completed or the wrong file was
+   saved.
 
 ## Current Pipeline Stage
 - [x] Stage 0: Repo setup complete
