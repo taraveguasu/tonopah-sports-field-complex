@@ -1,0 +1,1430 @@
+{
+  "_generated": "2026-08-04",
+  "_purpose": "One text file per drawing sheet at its current revision. Downstream queries read these, not the source PDFs.",
+  "_revision_policy": "Sheets reissued by Addendum #1 are taken from the revised PDF. The base version is kept as <SHEET>.SUPERSEDED.txt for diffing.",
+  "_totals": {
+    "sheets": 91,
+    "at_addendum_revision": 7,
+    "chars": 448876,
+    "needing_vision": 7,
+    "missing": 0
+  },
+  "sheets": [
+    {
+      "sheet": "G0-00",
+      "title": "COVER SHEET",
+      "revision": "ADDENDUM #1 (05.06.26)",
+      "source": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf",
+      "page": 1,
+      "chars": 5777,
+      "file": "01-index/sheets/G0-00.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "legend",
+        "revision_block"
+      ],
+      "needs_vision": false,
+      "superseded_file": "01-index/sheets/G0-00.SUPERSEDED.txt"
+    },
+    {
+      "sheet": "G0-11",
+      "title": "TYPICAL SIGNAGE & ACCESSBILITY REQUIREMENTS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 2,
+      "chars": 4536,
+      "file": "01-index/sheets/G0-11.txt",
+      "signals": [
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "LS1-10",
+      "title": "CODE AND EXITING PLAN",
+      "revision": "ADDENDUM #1 (05.06.26)",
+      "source": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf",
+      "page": 2,
+      "chars": 5838,
+      "file": "01-index/sheets/LS1-10.txt",
+      "signals": [
+        "general_notes",
+        "legend",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false,
+      "superseded_file": "01-index/sheets/LS1-10.SUPERSEDED.txt"
+    },
+    {
+      "sheet": "LS1-11",
+      "title": "ENVELOPE COMPLIANCE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 4,
+      "chars": 954,
+      "file": "01-index/sheets/LS1-11.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "C1",
+      "title": "COVER",
+      "revision": "ADDENDUM #1 (05.06.26)",
+      "source": "06-addenda/Addendum #1 (05.06.26)/Revised Civil Sheets (ADD 1).pdf",
+      "page": 1,
+      "chars": 6251,
+      "file": "01-index/sheets/C1.txt",
+      "signals": [
+        "general_notes",
+        "legend",
+        "revision_block",
+        "equipment_tags"
+      ],
+      "needs_vision": false,
+      "superseded_file": "01-index/sheets/C1.SUPERSEDED.txt"
+    },
+    {
+      "sheet": "C2",
+      "title": "GENERAL NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 6,
+      "chars": 26684,
+      "file": "01-index/sheets/C2.txt",
+      "signals": [
+        "general_notes",
+        "detail_callouts",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "C3",
+      "title": "GENERAL NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 7,
+      "chars": 2480,
+      "file": "01-index/sheets/C3.txt",
+      "signals": [
+        "general_notes",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "MG",
+      "title": "MASTER GRADING",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 8,
+      "chars": 1560,
+      "file": "01-index/sheets/MG.txt",
+      "signals": [
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "G1",
+      "title": "GRADING PLAN 1",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 9,
+      "chars": 5014,
+      "file": "01-index/sheets/G1.txt",
+      "signals": [
+        "detail_callouts",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "G2",
+      "title": "GRADING PLAN 2",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 10,
+      "chars": 4624,
+      "file": "01-index/sheets/G2.txt",
+      "signals": [
+        "detail_callouts",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "GD",
+      "title": "GRADING DETAILS",
+      "revision": "ADDENDUM #1 (05.06.26)",
+      "source": "06-addenda/Addendum #1 (05.06.26)/Revised Civil Sheets (ADD 1).pdf",
+      "page": 2,
+      "chars": 4842,
+      "file": "01-index/sheets/GD.txt",
+      "signals": [
+        "detail_callouts",
+        "revision_block",
+        "equipment_tags"
+      ],
+      "needs_vision": false,
+      "superseded_file": "01-index/sheets/GD.SUPERSEDED.txt"
+    },
+    {
+      "sheet": "UT1",
+      "title": "UTILITY PLAN 1",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 12,
+      "chars": 3773,
+      "file": "01-index/sheets/UT1.txt",
+      "signals": [
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "UT2",
+      "title": "UTILITY PLAN 2",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 13,
+      "chars": 3686,
+      "file": "01-index/sheets/UT2.txt",
+      "signals": [
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L0.00",
+      "title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 14,
+      "chars": 9624,
+      "file": "01-index/sheets/L0.00.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "legend",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L0.01",
+      "title": "LANDSCAPE DEMOLITION PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 15,
+      "chars": 2105,
+      "file": "01-index/sheets/L0.01.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block"
+      ],
+      "needs_vision": true
+    },
+    {
+      "sheet": "L0.02",
+      "title": "LANDSCAPE DEMOLITION PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 16,
+      "chars": 911,
+      "file": "01-index/sheets/L0.02.txt",
+      "signals": [
+        "general_notes",
+        "detail_callouts",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.00",
+      "title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 17,
+      "chars": 12071,
+      "file": "01-index/sheets/L1.00.txt",
+      "signals": [
+        "legend",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.01",
+      "title": "LANDSCAPE CONSTRUCTION PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 18,
+      "chars": 7680,
+      "file": "01-index/sheets/L1.01.txt",
+      "signals": [
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.02",
+      "title": "LANDSCAPE CONSTRUCTION PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 19,
+      "chars": 7010,
+      "file": "01-index/sheets/L1.02.txt",
+      "signals": [
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.03",
+      "title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 20,
+      "chars": 5067,
+      "file": "01-index/sheets/L1.03.txt",
+      "signals": [
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.04",
+      "title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 21,
+      "chars": 1926,
+      "file": "01-index/sheets/L1.04.txt",
+      "signals": [
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.05",
+      "title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 22,
+      "chars": 2367,
+      "file": "01-index/sheets/L1.05.txt",
+      "signals": [
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.06",
+      "title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 23,
+      "chars": 3497,
+      "file": "01-index/sheets/L1.06.txt",
+      "signals": [
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L1.07",
+      "title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 24,
+      "chars": 2254,
+      "file": "01-index/sheets/L1.07.txt",
+      "signals": [
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L2.01",
+      "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 25,
+      "chars": 6699,
+      "file": "01-index/sheets/L2.01.txt",
+      "signals": [
+        "schedule",
+        "legend",
+        "detail_callouts",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L2.02",
+      "title": "IRRIGATION PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 26,
+      "chars": 6825,
+      "file": "01-index/sheets/L2.02.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "L2.03",
+      "title": "IRRIGATION DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 27,
+      "chars": 4910,
+      "file": "01-index/sheets/L2.03.txt",
+      "signals": [
+        "schedule",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "AD1-10",
+      "title": "SITE DEMO PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 28,
+      "chars": 5698,
+      "file": "01-index/sheets/AD1-10.txt",
+      "signals": [
+        "keynotes",
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A1-10",
+      "title": "SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 29,
+      "chars": 2268,
+      "file": "01-index/sheets/A1-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A1-12",
+      "title": "ENLARGED SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 30,
+      "chars": 2875,
+      "file": "01-index/sheets/A1-12.txt",
+      "signals": [
+        "schedule",
+        "keynotes",
+        "general_notes",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A1-13",
+      "title": "ENLARGED SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 31,
+      "chars": 2533,
+      "file": "01-index/sheets/A1-13.txt",
+      "signals": [
+        "schedule",
+        "keynotes",
+        "general_notes",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A1-20",
+      "title": "SITE DETAILS",
+      "revision": "ADDENDUM #1 (05.06.26)",
+      "source": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf",
+      "page": 3,
+      "chars": 7481,
+      "file": "01-index/sheets/A1-20.txt",
+      "signals": [
+        "schedule",
+        "detail_callouts",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false,
+      "superseded_file": "01-index/sheets/A1-20.SUPERSEDED.txt"
+    },
+    {
+      "sheet": "A1-40",
+      "title": "BLEACHERS AND PRESS BOX",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 33,
+      "chars": 1442,
+      "file": "01-index/sheets/A1-40.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A2-10",
+      "title": "FLOOR PLAN AND RCP",
+      "revision": "ADDENDUM #1 (05.06.26)",
+      "source": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf",
+      "page": 4,
+      "chars": 4257,
+      "file": "01-index/sheets/A2-10.txt",
+      "signals": [
+        "schedule",
+        "keynotes",
+        "general_notes",
+        "legend",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false,
+      "superseded_file": "01-index/sheets/A2-10.SUPERSEDED.txt"
+    },
+    {
+      "sheet": "A2-40",
+      "title": "PARTITION SCHEDULE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 35,
+      "chars": 4271,
+      "file": "01-index/sheets/A2-40.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A4-10",
+      "title": "ROOF PLAN AND BUILDING SECTIONS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 36,
+      "chars": 2982,
+      "file": "01-index/sheets/A4-10.txt",
+      "signals": [
+        "keynotes",
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A4-20",
+      "title": "ROOF DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 37,
+      "chars": 6261,
+      "file": "01-index/sheets/A4-20.txt",
+      "signals": [
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A5-10",
+      "title": "EXTERIOR ELEVATIONS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 38,
+      "chars": 2501,
+      "file": "01-index/sheets/A5-10.txt",
+      "signals": [
+        "schedule",
+        "keynotes",
+        "general_notes",
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A7-10",
+      "title": "WALL SECTIONS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 39,
+      "chars": 2116,
+      "file": "01-index/sheets/A7-10.txt",
+      "signals": [
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A9-10",
+      "title": "ENLARGED PLANS - RESTROOMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 40,
+      "chars": 6290,
+      "file": "01-index/sheets/A9-10.txt",
+      "signals": [
+        "schedule",
+        "keynotes",
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A9-11",
+      "title": "ENLARGED PLANS - RESTROOMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 41,
+      "chars": 5419,
+      "file": "01-index/sheets/A9-11.txt",
+      "signals": [
+        "schedule",
+        "keynotes",
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A9-20",
+      "title": "ENLARGED PLANS - CONCESSIONS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 42,
+      "chars": 3999,
+      "file": "01-index/sheets/A9-20.txt",
+      "signals": [
+        "schedule",
+        "keynotes",
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A10-10",
+      "title": "ROOM FINISH SCHEDULE AND FINISH PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 43,
+      "chars": 5931,
+      "file": "01-index/sheets/A10-10.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "legend",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "A10-30",
+      "title": "INTERIOR ELEVATIONS",
+      "revision": "ADDENDUM #1 (05.06.26)",
+      "source": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf",
+      "page": 5,
+      "chars": 3247,
+      "file": "01-index/sheets/A10-30.txt",
+      "signals": [
+        "keynotes",
+        "general_notes",
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false,
+      "superseded_file": "01-index/sheets/A10-30.SUPERSEDED.txt"
+    },
+    {
+      "sheet": "A11-10",
+      "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page": 45,
+      "chars": 9391,
+      "file": "01-index/sheets/A11-10.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S0-00",
+      "title": "GENERAL NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 1,
+      "chars": 35055,
+      "file": "01-index/sheets/S0-00.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "detail_callouts",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S0-01",
+      "title": "GENERAL NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 2,
+      "chars": 5849,
+      "file": "01-index/sheets/S0-01.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S1-30",
+      "title": "FOUNDATION PLAN -SCOREBOARD",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 3,
+      "chars": 1471,
+      "file": "01-index/sheets/S1-30.txt",
+      "signals": [
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S1-40",
+      "title": "FOUNDATION PLAN -HOME GRAND STANDS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 4,
+      "chars": 1410,
+      "file": "01-index/sheets/S1-40.txt",
+      "signals": [
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S2-10",
+      "title": "FOUNDATION AND ROOF FRAMING PLAN -CONCESSIONS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 5,
+      "chars": 6353,
+      "file": "01-index/sheets/S2-10.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S3-00",
+      "title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 6,
+      "chars": 8789,
+      "file": "01-index/sheets/S3-00.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S3-01",
+      "title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 7,
+      "chars": 1914,
+      "file": "01-index/sheets/S3-01.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S4-00",
+      "title": "TYPICAL MASONRY SECTIONS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 8,
+      "chars": 6158,
+      "file": "01-index/sheets/S4-00.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "S4-01",
+      "title": "FRAMING DETAILS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 9,
+      "chars": 4452,
+      "file": "01-index/sheets/S4-01.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "M0-00",
+      "title": "MECHANICAL COVER SHEET",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 10,
+      "chars": 4205,
+      "file": "01-index/sheets/M0-00.txt",
+      "signals": [
+        "legend",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "M0-05",
+      "title": "MECHANICAL SCHEDULES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 11,
+      "chars": 5962,
+      "file": "01-index/sheets/M0-05.txt",
+      "signals": [
+        "schedule",
+        "revision_block",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "M0-10",
+      "title": "MECHANICAL DIAGRAMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 12,
+      "chars": 2723,
+      "file": "01-index/sheets/M0-10.txt",
+      "signals": [
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "M0-15",
+      "title": "MECHANICAL ENERGY CODE COMPLIANCE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 13,
+      "chars": 412,
+      "file": "01-index/sheets/M0-15.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": true
+    },
+    {
+      "sheet": "M2-10",
+      "title": "MECHANICAL PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 14,
+      "chars": 2698,
+      "file": "01-index/sheets/M2-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "M4-10",
+      "title": "MECHANICAL ROOF PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 15,
+      "chars": 1143,
+      "file": "01-index/sheets/M4-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "P0-00",
+      "title": "PLUMBING COVER SHEET",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 16,
+      "chars": 3574,
+      "file": "01-index/sheets/P0-00.txt",
+      "signals": [
+        "legend",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "P0-05",
+      "title": "PLUMBING SCHEDULES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 17,
+      "chars": 5515,
+      "file": "01-index/sheets/P0-05.txt",
+      "signals": [
+        "schedule",
+        "revision_block",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "P0-10",
+      "title": "PLUMBING DIAGRAMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 18,
+      "chars": 3309,
+      "file": "01-index/sheets/P0-10.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "P0-15",
+      "title": "PLUMBING ENERGY CODE COMPLIANCE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 19,
+      "chars": 408,
+      "file": "01-index/sheets/P0-15.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": true
+    },
+    {
+      "sheet": "P1-10",
+      "title": "PLUMBING SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 20,
+      "chars": 1252,
+      "file": "01-index/sheets/P1-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "P2-10",
+      "title": "PLUMBING PLANS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 21,
+      "chars": 5578,
+      "file": "01-index/sheets/P2-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "P4-10",
+      "title": "PLUMBING ROOF PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 22,
+      "chars": 1594,
+      "file": "01-index/sheets/P4-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-00",
+      "title": "ELECTRICAL COVER SHEET",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 23,
+      "chars": 8422,
+      "file": "01-index/sheets/E0-00.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "legend",
+        "revision_block",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-01",
+      "title": "ELECTRICAL GENERAL NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 24,
+      "chars": 21805,
+      "file": "01-index/sheets/E0-01.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-02",
+      "title": "LIGHTING FIXTURE SCHEDULE & IECC COMPLIANCE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 25,
+      "chars": 7494,
+      "file": "01-index/sheets/E0-02.txt",
+      "signals": [
+        "schedule",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-03",
+      "title": "SINGLE LINE DIAGRAM, PANEL SCHEDULE, AND LIGHTING FIXTURE SCHEDULE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 26,
+      "chars": 9828,
+      "file": "01-index/sheets/E0-03.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "revision_block",
+        "equipment_tags"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-04",
+      "title": "FIELD LIGHTING DIAGRAMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 27,
+      "chars": 370,
+      "file": "01-index/sheets/E0-04.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": true
+    },
+    {
+      "sheet": "E0-05",
+      "title": "FIELD LIGHTING DIAGRAMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 28,
+      "chars": 2270,
+      "file": "01-index/sheets/E0-05.txt",
+      "signals": [
+        "schedule",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": true
+    },
+    {
+      "sheet": "E0-10",
+      "title": "TECHNOLOGY GENERAL NOTES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 29,
+      "chars": 13968,
+      "file": "01-index/sheets/E0-10.txt",
+      "signals": [
+        "schedule",
+        "general_notes",
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-11",
+      "title": "TECHNOLOGY DIAGRAMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 30,
+      "chars": 3049,
+      "file": "01-index/sheets/E0-11.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-12",
+      "title": "TECHNOLOGY DIAGRAMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 31,
+      "chars": 1395,
+      "file": "01-index/sheets/E0-12.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E0-13",
+      "title": "GROUNDING AND BONDING INSTALLATION DIAGRAMS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 32,
+      "chars": 1204,
+      "file": "01-index/sheets/E0-13.txt",
+      "signals": [
+        "revision_block"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "ED1-10",
+      "title": "DEMOLITION ELECTRICAL SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 33,
+      "chars": 3025,
+      "file": "01-index/sheets/ED1-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "ED3-10",
+      "title": "DEMOLITION TECHNOLOGY AND AUDIO VISUAL SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 34,
+      "chars": 2219,
+      "file": "01-index/sheets/ED3-10.txt",
+      "signals": [
+        "general_notes",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E1-10",
+      "title": "ELECTRICAL SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 35,
+      "chars": 3960,
+      "file": "01-index/sheets/E1-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E2-10",
+      "title": "ELECTRICAL AND LIGHTING PLANS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 36,
+      "chars": 2963,
+      "file": "01-index/sheets/E2-10.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E3-00",
+      "title": "OVERALL TECHNOLOGY SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 37,
+      "chars": 3119,
+      "file": "01-index/sheets/E3-00.txt",
+      "signals": [
+        "general_notes",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E3-10",
+      "title": "TECHNOLOGY SITE PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 38,
+      "chars": 4455,
+      "file": "01-index/sheets/E3-10.txt",
+      "signals": [
+        "general_notes",
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E3-20",
+      "title": "TECHNOLOGY PLANS",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 39,
+      "chars": 4286,
+      "file": "01-index/sheets/E3-20.txt",
+      "signals": [
+        "general_notes",
+        "legend",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "E4-10",
+      "title": "ELECTRICAL ROOF PLAN",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page": 40,
+      "chars": 473,
+      "file": "01-index/sheets/E4-10.txt",
+      "signals": [
+        "revision_block",
+        "equipment_tags",
+        "dimensions"
+      ],
+      "needs_vision": true
+    },
+    {
+      "sheet": "AD1.11",
+      "title": "DEMOLITION PLAN - ES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page": 1,
+      "chars": 5874,
+      "file": "01-index/sheets/AD1.11.txt",
+      "signals": [
+        "keynotes",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "AD1.12",
+      "title": "POST-DEMOLITION PLAN - ES",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page": 2,
+      "chars": 2080,
+      "file": "01-index/sheets/AD1.12.txt",
+      "signals": [
+        "keynotes",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": true
+    },
+    {
+      "sheet": "AD1.13",
+      "title": "ENLARGED DEMO PLAN BLDG 4",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page": 3,
+      "chars": 2104,
+      "file": "01-index/sheets/AD1.13.txt",
+      "signals": [
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "AD1.14",
+      "title": "ENLARGED DEMO PLAN BLDG 5&6",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page": 4,
+      "chars": 2390,
+      "file": "01-index/sheets/AD1.14.txt",
+      "signals": [
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "AD1.15",
+      "title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page": 5,
+      "chars": 2728,
+      "file": "01-index/sheets/AD1.15.txt",
+      "signals": [
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    },
+    {
+      "sheet": "AD1.16",
+      "title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+      "revision": "BID DOCS (04.20.26)",
+      "source": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page": 6,
+      "chars": 1644,
+      "file": "01-index/sheets/AD1.16.txt",
+      "signals": [
+        "legend",
+        "detail_callouts",
+        "revision_block",
+        "dimensions"
+      ],
+      "needs_vision": false
+    }
+  ],
+  "_missing": []
+}

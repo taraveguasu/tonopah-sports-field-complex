@@ -1,0 +1,51 @@
+SHEET: E4-10
+TITLE: ELECTRICAL ROOF PLAN
+REVISION: BID DOCS (04.20.26)
+SOURCE: 03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf (page 40)
+LAYOUT-PRESERVED EXTRACTION — baselines grouped, columns tab-separated
+==========================================================================
+6280 South Valley View Blvd, Suite #416
+Las Vegas, NV 89118
+Phone: (702) 685-0136
+Fax: (702) 685-8890
+Web: www.hpace-lv.com
+L24087
+7
+04/15/2026
+CB-60
+WP
+S
+EF
+5
+ISSUE DATE: 04.20.2026
+REV DATE	COMMENT
+BID DOCUMENTS
+ELECTRICAL ROOF PLAN
+1/4" = 1'-0"
+GRAPHIC SCALE: 1/4" = 1'-0"
+NORTH
+0'	1' 2'	3'	6'	9'	12'
+REPLACEMENT
+DISTRICT
+FIELD
+PLAN
+89049
+NV	SCHOOL
+ROOF
+SPORTS
+TONOPAH,
+LN,
+COUNTY
+THS
+TENANT
+ELECTRICAL
+RAY
+NCSD
+E
+NYE
+170
+TITLE
+CLIENT
+PROJECT
+JOB NO: 240041
+E4-10
