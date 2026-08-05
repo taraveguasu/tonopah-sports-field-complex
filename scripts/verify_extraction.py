@@ -120,6 +120,17 @@ SPEC_PROBES = [
     ("no_section", "ITB-066", "", "fluid-applied flooring correctly holds none after the ruling"),
     ("gap", "07 84 00", "RFP-103", "firestopping cited but absent from the manual"),
     ("gap", "03 35 00", "ITB-067", "concrete finishing's own section is absent"),
+    # PM rulings 08.05.26 closing four gaps. Each must show as closed AND put the
+    # replacement section into the package's list -- a ruling that does not reach
+    # the package's sections has had no effect.
+    ("closed", "03 35 00", "03 30 00", "ITB-067 references cast-in-place concrete instead"),
+    ("closed", "07 13 00", "07 25 00", "ITB-040 uses weather barriers"),
+    ("closed", "32 11 23", "31 20 00", "aggregate base is covered by earth moving"),
+    ("closed", "07 84 00", "", "firestopping needs no action -- no rated assemblies"),
+    ("has_section", "ITB-067", "03 30 00", "the ruling reached ITB-067's section list"),
+    ("has_section", "ITB-040", "07 25 00", "the ruling reached ITB-040's section list"),
+    ("has_section", "RFP-030", "31 20 00", "the ruling reached RFP-030's section list"),
+    ("no_rated_walls", "", "", "the partition schedule publishes no rated assembly"),
     ("correction", "04 43 36C", "00 43 36C", "the mis-numbered procurement form is corrected"),
     ("unassigned", "", "0", "no technical section is left without an owner"),
 ]
@@ -143,6 +154,29 @@ def spec_probe(kind, a, b):
     if kind == "correction":
         c = d["number_corrections"].get(a)
         return bool(c and c["corrected_to"] == b)
+    if kind == "closed":
+        g = d["cited_but_absent_from_manual"].get(a)
+        if not (g and g["status"] == "CLOSED BY PM RULING"):
+            return False
+        return (g["pm_resolution"]["resolved_to"] or "") == b
+    if kind == "has_section":
+        return b in d["sections_by_package"].get(a, [])
+    if kind == "no_rated_walls":
+        # Read the partition schedule itself rather than trusting the catalog.
+        # The mark's third character is the fire-rating code; 0 is NO RATING.
+        sp = ROOT / "01-index" / "sheet-structured.json"
+        if not sp.exists():
+            return False
+        r = {x["sheet"]: x for x in json.loads(sp.read_text())["sheets"]}.get("A2-40")
+        if not r:
+            return False
+        body = (ROOT / r["layout_file"]).read_text(errors="ignore")
+        # Match the mark's own shape rather than the label above it: title-block
+        # text on this sheet is drawn twice for weight, so the extraction reads
+        # "PARTITION PARTITION TYPE TYPE - - 3F0 3F0" and an anchored pattern misses.
+        # Mark = core-type digit, height letter, fire-rating digit.
+        marks = set(re.findall(r"\b([1-9][BCFL][0-4])\b", body))
+        return bool(marks) and all(m[2] == "0" for m in marks)
     if kind == "unassigned":
         return sum(1 for s in d["sections"] if s.get("primary_package") is None
                    and s.get("basis") != "not_a_technical_section") == int(b)

@@ -140,27 +140,37 @@ All confirmed by reading the source document, not inferred from a count.
    attendees all unfilled. Either the meeting record was never completed or the wrong file was
    saved.
 
-### Spec gaps that need PM decisions (08.05.26)
+### Spec gaps (08.05.26) — 4 closed by ruling, 15 open
 Nineteen sections are cited by a scope doc but absent from the manual. Five are near-certain
 renumberings (02 41 13→02 41 00, 05 31 12→05 31 00, 08 31 13→08 31 00, 10 21 00→10 21 13.13,
-11 68 33→? ). The rest are real. The four that bite:
+11 68 33→? ).
 
-- **07 84 00 Firestopping** — cited by RFP-103, in the manual nowhere. Code requires it at every
-  rated penetration and **no package currently carries a firestopping specification.**
-- **03 35 00 Concrete Finishing** — ITB-067's own title section, absent. PM ruling 08.04.26 moved
-  the resinous/epoxy locations to Sealed Concrete under ITB-067, so that package is being asked
-  to deliver sealed concrete with no specification for it.
-- **07 13 00 Sheet Waterproofing** — ITB-040's primary section under the 07.31.26 ruling
-  (below-grade waterproofing only), absent. The package is left holding only 07 92 00 Joint
-  Sealants, which is not waterproofing.
-- **32 11 23 Aggregate Base Courses** — absent, and TAB's homework response prices three Type II
-  deducts against it.
+**Closed by PM ruling 08.05.26** — the replacement section is now in each package's list:
 
-Also: **09 82 00 Acoustical Insulation** absent (only 07 21 00 Thermal exists — confirm whether
-ITB-044 or RFP-060 carries acoustic batt); **10 44 13 Fire Protection Cabinets** absent though
-Henri priced $6,313 of them; **07 41 13 Metal Roof Panels** absent — RFP-045 is assigned
-07 61 00 Sheet Metal Roofing as the nearest published substitute, which is a different section,
-not a renumbering.
+| Absent | Ruling | Now references |
+|---|---|---|
+| 03 35 00 Concrete Finishing | ITB-067 references 03 30 00, not 03 35 00 | **ITB-067 → 03 30 00** (Part 3 carries the finishing requirements; RFP-030 still places the concrete) |
+| 07 13 00 Sheet Waterproofing | Use 07 25 00 for package 040 | **ITB-040 → 07 25 00** Weather Barriers, shared with RFP-045 along the 07.31.26 boundary (RFP-045 = membrane under metal roof, ITB-040 = below-grade) |
+| 32 11 23 Aggregate Base Courses | Covered in 31 20 00 Earth Moving | **RFP-030 → 31 20 00**; RFP-008 remains primary, consistent with TAB pricing the Type II deducts |
+| 07 84 00 Firestopping | No action required | **No rated assemblies on this project** — see below |
+
+**There are no fire-rated assemblies anywhere on this job.** Verified against four sources:
+partition schedule A2-40 publishes only marks `3F0`, `5F0`, `3B0`, whose third character is the
+fire-rating code and is `0` (NO RATING) in all three, with UL LISTING **(none)**; LS1-10 at its
+Addendum #1 revision shows **0 HR** for every IBC 601 element and 0 HR exterior walls at >30 ft
+fire separation distance on all four sides, opening protection NOT REQUIRED, area separation
+0 HR, no sprinklers, no fire alarm, Type VB; the superseded base-bid LS1-10 carries the same
+0 HR values, so the addendum did not change them; and no door in A11-10's 22-row schedule carries
+a rating, with no UL design number anywhere in the 91-sheet set. IBC 714 penetration firestopping
+applies only to rated assemblies, so 07 84 00 is a documentation gap, not a construction risk.
+(The FRP panels' "CLASS A/C FIRE-RATED" in the finish schedule is ASTM E84 surface burning, not an
+assembly rating.)
+
+**Still open, and worth a decision:** **09 82 00 Acoustical Insulation** absent (only 07 21 00
+Thermal exists — confirm whether ITB-044 or RFP-060 carries acoustic batt); **10 44 13 Fire
+Protection Cabinets** absent though Henri priced $6,313 of them; **07 41 13 Metal Roof Panels**
+absent — RFP-045 is assigned 07 61 00 Sheet Metal Roofing as the nearest published substitute,
+which is a different section, not a renumbering.
 
 **Five genuine conflicts** (two scope docs claiming the same section): 02 41 00 (RFP-002 cites it,
 ruling gives it to RFP-008), 09 21 16 (ITB-077 vs RFP-060), 10 26 00 (ITB-074 vs RFP-060),
@@ -236,6 +246,10 @@ entire demolition scope is RFP-008.
 | 08.04.26 | Resinous/Epoxy Flooring excluded; those locations become Sealed Concrete under ITB-067 (Owner Accepted Alternate) — ITB-066 has no remaining scope |
 | 08.04.26 | RFP-109 ticket booth is Porta-King DURASTEEL PC Building Model PC64 (6'x4') |
 | 08.04.26 | RFP-022 turf is Matrix Helix 46 oz, Elia Renufill/Realfill infill, SOTERIA 20mm pad |
+| 08.05.26 | **ITB-067 references 03 30 00 Cast-In-Place Concrete, not 03 35 00** (absent from the manual) |
+| 08.05.26 | **ITB-040 uses 07 25 00 Weather Barriers** in place of the absent 07 13 00 Sheet Waterproofing |
+| 08.05.26 | **Aggregate base courses are covered in 31 20 00 Earth Moving** — closes the absent 32 11 23 |
+| 08.05.26 | **07 84 00 Firestopping needs no action — there are no fire-rated assemblies on this project** (all three partition types rate 0; LS1-10 shows 0 HR throughout) |
 
 ### `package-index.json` summary — ⚠️ SUPERSEDED, describes the rejected index
 Kept for provenance. Findings below that came from the vision pass are still useful as leads,

@@ -477,9 +477,10 @@ GAP_NOTES = {
     "07 71 23": "Manufactured Gutters and Downspouts. Absent. 07 62 00 Sheet Metal Flashing and "
                 "Trim is assigned to RFP-045 and is the nearest published coverage; confirm it "
                 "carries the gutters, or the roof drainage has no specification.",
-    "07 84 00": "Firestopping. Absent from the manual entirely, though cited by RFP-103 and "
-                "required by code at every rated penetration. No package currently carries a "
-                "firestopping specification -- REAL GAP, needs a PM decision on who does.",
+    "07 84 00": "Firestopping. Absent from the manual, cited by RFP-103. CLOSED BY PM RULING "
+                "08.05.26 -- there are no fire-rated assemblies on this project, so IBC 714 "
+                "penetration firestopping has nothing to apply to. See pm_resolution for the "
+                "four sources checked. Documentation gap, not a construction risk.",
     "09 82 00": "Acoustical Insulation. Absent. The manual publishes only 07 21 00 Thermal "
                 "Insulation, which is assigned to ITB-044. Acoustic batt in partitions has no "
                 "specification -- confirm whether ITB-044 or RFP-060 carries it.",
@@ -491,16 +492,16 @@ GAP_NOTES = {
                 "Collection, 24 in. W x 18 in. D x 72 in. H) per PM ruling 07.31.26, reinforced "
                 "by the keynote on revised sheet A10-30. Note Henri also prices metal lockers "
                 "inside ITB-074 at $22,519 -- decide which subcontract carries them.",
-    "03 35 00": "Concrete Finishing -- ITB-067's own title section, and it is absent. With PM "
-                "ruling 08.04.26 moving the resinous/epoxy locations to Sealed Concrete under "
-                "this package, ITB-067 is being asked to deliver sealed concrete with no "
-                "specification for it. REAL GAP.",
-    "07 13 00": "Sheet Waterproofing -- ITB-040's primary section under PM ruling 07.31.26 "
-                "(ITB-040 is below-grade waterproofing only), and it is absent. The package is "
-                "left holding 07 92 00 Joint Sealants, which is not waterproofing. REAL GAP.",
-    "32 11 23": "Aggregate Base Courses. Absent, and material: TAB's homework response prices "
-                "deducts for deleting Type II from the turf field, the building pad and the "
-                "concrete paving. The base course those deducts act on has no specification.",
+    "03 35 00": "Concrete Finishing -- ITB-067's own title section, absent from the manual. "
+                "CLOSED BY PM RULING 08.05.26: ITB-067 references 03 30 00 Cast-In-Place "
+                "Concrete instead, whose Part 3 carries the finishing requirements.",
+    "07 13 00": "Sheet Waterproofing -- absent. CLOSED BY PM RULING 08.05.26: ITB-040 uses "
+                "07 25 00 Weather Barriers. The package no longer holds only a joint-sealants "
+                "section; 07 25 00 is shared with RFP-045 along the 07.31.26 boundary.",
+    "32 11 23": "Aggregate Base Courses. Absent. CLOSED BY PM RULING 08.05.26: aggregate base "
+                "courses are covered in 31 20 00 Earth Moving, which is RFP-008's section -- "
+                "consistent with TAB pricing the Type II deducts under the turf field, building "
+                "pad and concrete paving. RFP-030 references it for base under its flatwork.",
     "32 19 19": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages "
                 "most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving "
                 "is assigned to RFP-008 and is the nearest coverage.",
@@ -519,6 +520,63 @@ GAP_NOTES = {
                 "Near-certain renumbering.",
     "10 21 00": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet "
                 "Compartments, a child of the cited number. Cite the published number.",
+}
+
+
+# ---------------------------------------------------------------------------
+# PM rulings closing spec gaps (08.05.26). Each names the published section that
+# answers an absent citation, so the gap is recorded as CLOSED BY RULING rather
+# than silently disappearing from the register.
+# ---------------------------------------------------------------------------
+GAP_RESOLUTIONS = {
+    "03 35 00": {
+        "resolved_to": "03 30 00", "packages": ["ITB-067"], "ruling_date": "2026-08-05",
+        "ruling": "ITB-067 references 03 30 00 Cast-In-Place Concrete, not 03 35 00.",
+        "effect": "ITB-067's concrete-finishing and sealed-concrete work is governed by "
+                  "03 30 00, whose Part 3 carries the finishing requirements. RFP-030 remains "
+                  "the primary for placing the concrete; ITB-067 finishes and seals it.",
+    },
+    "07 13 00": {
+        "resolved_to": "07 25 00", "packages": ["ITB-040"], "ruling_date": "2026-08-05",
+        "ruling": "Use 07 25 00 Weather Barriers for package 040.",
+        "effect": "ITB-040 no longer holds only a joint-sealants section. 07 25 00 is shared "
+                  "with RFP-045 under the 07.31.26 boundary: RFP-045 carries the self-adhered "
+                  "membrane under the metal roof, ITB-040 carries below-grade waterproofing. "
+                  "RFP-045 stays primary because its scope doc cites the section; ITB-040 is "
+                  "added alongside. CONFIRM if the intent was to move it instead of share it.",
+    },
+    "32 11 23": {
+        "resolved_to": "31 20 00", "packages": ["RFP-030", "RFP-008"], "ruling_date": "2026-08-05",
+        "ruling": "Aggregate base courses are covered in Section 31 20 00 Earth Moving.",
+        "effect": "Closes the base-course gap that TAB's three Type II deducts price against. "
+                  "31 20 00 is RFP-008's section, consistent with TAB carrying the Type II "
+                  "under the turf field, building pad and concrete paving. RFP-030 references "
+                  "it for the base under its flatwork.",
+    },
+    "07 84 00": {
+        "resolved_to": None, "packages": ["RFP-103"], "ruling_date": "2026-08-05",
+        "ruling": "No action required -- there are no fire-rated assemblies on this project.",
+        "effect": "DOWNGRADED from REAL GAP. Verified against four sources: partition schedule "
+                  "A2-40 publishes only 3F0, 5F0 and 3B0, whose third character is the rating "
+                  "code and is 0 (NO RATING) in all three, with UL LISTING '(none)'; LS1-10 at "
+                  "Addendum #1 revision shows 0 HR for every IBC 601 element and 0 HR exterior "
+                  "walls at >30 ft fire separation distance on all four sides, with opening "
+                  "protection NOT REQUIRED and area separation 0 HR; the superseded base-bid "
+                  "LS1-10 carries the same 0 HR values, so the addendum did not change them; "
+                  "and no door in A11-10's 22-row schedule carries a rating, with no UL design "
+                  "number anywhere in the 91-sheet set. IBC 714 penetration firestopping "
+                  "applies only to rated assemblies, so the missing section is a documentation "
+                  "gap, not a construction risk. The FRP panels' 'CLASS A/C FIRE-RATED' in the "
+                  "finish schedule is ASTM E84 surface burning, not an assembly rating.",
+    },
+}
+
+# Packages given a section by ruling that their own scope doc did not cite.
+# Kept separate from PRIMARY so the primary trade is never quietly reassigned.
+PM_SECTION_ADDITIONS = {
+    "03 30 00": ["ITB-067"],
+    "07 25 00": ["ITB-040"],
+    "31 20 00": ["RFP-030"],
 }
 
 
@@ -574,11 +632,13 @@ def main():
 
         pkg, basis, why = PRIMARY[s]
         others = sorted((explicit[s] | division[s]) - {pkg})
+        added = PM_SECTION_ADDITIONS.get(s, [])
         rec.update({
             "primary_package": pkg,
             "basis": basis,
             "rationale": why,
-            "referencing_packages": others,
+            "also_assigned_by_pm_ruling": added,
+            "referencing_packages": sorted(set(others) - set(added)),
             "cited_explicitly_by": sorted(explicit[s]),
             "reached_by_division_citation_from": sorted(division[s]),
         })
@@ -600,6 +660,10 @@ def main():
     for r in sections:
         if r.get("primary_package") and r["primary_package"] != "ALL PACKAGES":
             by_pkg[r["primary_package"]].append(r["section"])
+        # A section added by ruling belongs in that package's list too, or the
+        # package still reads as holding nothing and the ruling has no effect.
+        for extra in r.get("also_assigned_by_pm_ruling", []):
+            by_pkg[extra].append(r["section"])
 
     known = {e["section"] for e in entries}
     gaps, gap_titles = defaultdict(list), {}
@@ -642,6 +706,8 @@ def main():
             "flow_down_sections": len(FLOW_DOWN),
             "packages_with_no_primary_section": len(no_section),
             "cited_but_absent_from_manual": len(gaps),
+            "gaps_closed_by_pm_ruling": len(GAP_RESOLUTIONS),
+            "gaps_still_open": len([g for g in gaps if g not in GAP_RESOLUTIONS]),
         },
         "sections": sections,
         "sections_by_package": {k: sorted(v) for k, v in sorted(by_pkg.items())},
@@ -651,6 +717,8 @@ def main():
             s: {"title_per_scope_doc": gap_titles.get(s),
                 "cited_by": sorted(ps),
                 "candidate_sections_in_manual": near_matches(s, known),
+                "status": "CLOSED BY PM RULING" if s in GAP_RESOLUTIONS else "OPEN",
+                "pm_resolution": GAP_RESOLUTIONS.get(s),
                 "note": GAP_NOTES.get(s, "No section with this number is in the manual.")}
             for s, ps in sorted(gaps.items())
         },
