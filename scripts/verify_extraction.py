@@ -78,6 +78,63 @@ SHEET_PROBES = [
 ]
 
 
+# Proposal-corpus probes. Each fact below was read off the source document by hand
+# before being written here. They guard the two things filename-based indexing got
+# wrong: that a document is matched to the right package, and that the scope text
+# harvested is the bidder's own rather than CORE's blank form.
+PROPOSAL_PROBES = [
+    ("Sahara", "RFP-030", "exclusions_scope_specific", r"(?i)over ?excavation",
+     "Sahara's own exclusion survives, not CORE form boilerplate"),
+    ("Sahara", "RFP-030", "exclusions_scope_specific", r"(?i)caliche|hard rock",
+     "Sahara excludes caliche/hard rock — contradicts the RFP-030 scope doc"),
+    ("NewCom TAB", "RFP-008", "price", r"^1924851$",
+     "TAB's price is their own $1,924,851, not the tab's transposed $3,152,033"),
+    ("TAB Homework Response.pdf", "RFP-008", "date", r"^2026-05-22$",
+     "TAB homework response dated ten days after bid opening"),
+    ("TAB Homework Response.pdf", "RFP-008", "any", r"(?i)delete trench drain",
+     "TAB's deduct for deleting the trench drain — bears on the RFP-030 ruling"),
+    ("Elite Sports - Track Asphalt", "RFP-021", "matched", r".",
+     "a homework file whose name says neither 'homework' nor its package still lands"),
+    ("Henderson ALT block Pricing", "RFP-031", "matched", r".",
+     "Henderson's alternate block pricing matched by firm, not filename"),
+    ("Tahoe Fence Scope Review", "RFP-023", "matched", r".",
+     "an unfilled agenda template still matches its package"),
+]
+
+
+def proposal_probe(file_frag, pkg, field, rx):
+    p = ROOT / "01-index" / "proposal-content.json"
+    if not p.exists():
+        return None
+    data = json.loads(p.read_text())
+    docs = [d for d in data["documents"] if file_frag.lower() in d["file"].lower()]
+    if not docs:
+        return False
+    for d in docs:
+        pkgs = set(d["packages"]) | set(d.get("packages_by_firm_match", []))
+        if pkg not in pkgs:
+            continue
+        if field == "matched":
+            return True
+        if field == "price":
+            if d["price"] and re.search(rx, str(d["price"])):
+                return True
+            continue
+        if field == "date":
+            if d["date"] and re.search(rx, d["date"]):
+                return True
+            continue
+        if field == "any":
+            hay = "\n".join(d["inclusions"] + d["exclusions_all"] +
+                            d["clarifications"] + d["alternates"] + d["notes"] +
+                            d.get("priced_line_items", []))
+        else:
+            hay = "\n".join(d.get(field, []))
+        if re.search(rx, hay):
+            return True
+    return False
+
+
 def sheet_probe(sheet, kind, rx):
     import json as _j
     p = ROOT / "01-index" / "sheet-structured.json"
@@ -163,7 +220,17 @@ def main():
             sfails += 1
     fails += sfails
 
-    print(f"\nprobe failures: {fails}/{len(PROBES) + len(SHEET_PROBES)}")
+    print("\nPROPOSAL PROBES (bidder documents, matched and read)")
+    for frag, pkg, field, rx, label in PROPOSAL_PROBES:
+        ok = proposal_probe(frag, pkg, field, rx)
+        if ok is None:
+            print("  [SKIP] proposal-content.json not built yet"); break
+        print(("  [PASS] " if ok else "  [FAIL] ") + f"{pkg} {frag}: {label}")
+        if not ok:
+            fails += 1
+
+    total = len(PROBES) + len(SHEET_PROBES) + len(PROPOSAL_PROBES)
+    print(f"\nprobe failures: {fails}/{total}")
     t = man["_totals"]
     print(f"corpus: {t['chars']:,} chars across {t['documents']} documents, "
           f"{t['ocr_pages']} pages recovered by OCR, {t['thin']} flagged THIN")

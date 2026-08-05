@@ -24,12 +24,19 @@
       "title": "Site Demolition, Salvage, Earthwork, Asphalt Paving, Wet Utilities, & Site Signage & Striping",
       "awarded_sub": "TAB Contractors (New-Com)",
       "license_no": "0021801",
-      "proposal_price": 3152033.00,
+      "proposal_price": 1924851.00,
+      "proposal_price_superseded": 3152033.00,
       "proposal_file": "008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf",
       "other_bidders": ["NDX", "The Monument Company"],
-      "descope_files_present": false,
+      "descope_files_present": true,
+      "descope_files": [
+        "1% Descopes/TAB Scope Review Meeting Agenda.docx",
+        "1% Descopes/Homework Responses/TAB Homework Response.pdf",
+        "1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf"
+      ],
       "status": "awarded",
-      "note": "Awarded price ($3,152,033) is the HIGHEST of the three bids, not lowest -- confirm basis of award (qualifications, schedule, or scope completeness) before finalizing Attachment A; may indicate a broader/adjusted scope than the other two bids."
+      "note": "CORRECTED 08.05.26. The 05.12.26 bid tabulation reverses this package's two low rows: it records NDX at $1,924,851 and New-Com (TAB) at $3,152,033, but each bidder's own submitted Proposal Form states the opposite -- TAB's BuildingConnected header and letter both read $1,924,851, NDX's read $3,152,032.69. The proposal governs the tabulation. TAB is therefore the LOW bidder ($1,924,851 < Monument $2,296,000 < NDX $3,152,033), not the high one, and the earlier 'awarded sub was not the low bidder' flag on this package is withdrawn. TAB's 05.22.26 homework response restates the same $1,924,851 base bid, so the price is stable across their chain.",
+      "verification": "Both bidders' Proposal Forms read by hand; see 01-index/proposal-content.json > _bid_tab_reconciliation."
     },
     "RFP-016": {
       "title": "Landscaping & Irrigation",
@@ -188,7 +195,11 @@
   },
   "not_yet_awarded_summary": ["RFP-094 (Bleachers & Press Box)", "RFP-109 (Prefabricated Ticket Booth)"],
   "flags_for_pm_review": [
-    "RFP-008, RFP-022, RFP-023, RFP-030, RFP-098: awarded sub was NOT the low bidder -- confirm basis of award (qualifications/schedule/scope) so Attachment A isn't drafted against a stale low-bid assumption",
+    "RFP-022, RFP-023, RFP-030, RFP-098: awarded sub was NOT the low bidder -- confirm basis of award (qualifications/schedule/scope) so Attachment A isn't drafted against a stale low-bid assumption. RFP-008 WITHDRAWN from this list 08.05.26: it was an artifact of a reversed row pair in the bid tabulation, not a real award anomaly -- TAB is the low bidder. See the RFP-008 note.",
+    "BID TABULATION IS UNRELIABLE AS A PRICE SOURCE (08.05.26): the 05.12.26 tab reverses NDX and TAB on RFP-008. Every price in this file that was taken from the tab rather than from the bidder's own Proposal Form should be treated as unverified until reconciled. Automated reconciliation of all 16 tabulated packages against the bidders' own stated prices now runs in scripts/index_proposals.py; RFP-008 is the only reversal it finds.",
+    "RFP-016 / RFP-022 LEVELING DEFECT: Sprinturf submitted a single combined Landscaping+Irrigation+Synthetic Turf price of $1,022,155 (their Proposal Form is headed 'Bid Proposal: Landscaping & Irrigation'; their descope file is named '016, 022 Irrigation + Synthetic Turf'). The tab enters that combined number once, under Landscaping & Irrigation only. Consequence: the RFP-022 row omits Sprinturf entirely, and the RFP-016 row compares a combined 016+022 bid against landscaping-only bids (BrightView $131,300, Black Canyon $111,275). Neither row levels correctly -- split or annotate before using either for award justification.",
+    "RFP-002 PRICE MOVEMENT: Northstar's 05.15.26 homework response states $718,263 where their 05.12.26 proposal states $718,623 -- a digit transposition, $360 apart. The later document governs by date, but confirm with Northstar which figure is intended before the subcontract value is set.",
+    "070 FINAL CLEANING HAS NO BID PACKAGE: four proposals were solicited and received (CSI, Lady Lux, Nevada Angels, plus a Nevada Angels descope) under trade number 070, which maps to none of the 33 packages. Confirm whether final cleaning is CORE self-perform, folded into another subcontract, or needs its own package -- as it stands the scope is bid but has no Attachment A to land in.",
     "RFP-031: awarded sub (Henderson) has no signed Bid Form on file, only backup",
     "RFP-045: awarded sub (Foursquare) proposal on file is flagged LATE / not submitted through BuildingConnected",
     "RFP-098 / RFP-100: same awarded sub (US Mechanical) for both plumbing and HVAC -- check for combined pricing/scope",
