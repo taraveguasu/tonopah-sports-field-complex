@@ -102,6 +102,53 @@ PROPOSAL_PROBES = [
 ]
 
 
+# Spec-catalog probes. Each was confirmed against the manual or a scope doc first.
+# They guard the assignment layer: that every technical section has an owner, that
+# the owner is the right trade, and that a missing spec is reported as missing
+# rather than fuzzy-matched onto a neighbour.
+SPEC_PROBES = [
+    ("assigned", "04 05 03", "RFP-031",
+     "the mason has the masonry mortar/grout section, which his scope doc never cited"),
+    ("assigned", "04 20 16", "RFP-031", "and reinforced unit masonry"),
+    ("assigned", "26 56 00", "RFP-103", "exterior/sports-field lighting sits with electrical"),
+    ("assigned", "23 05 93", "RFP-100", "test & balance stays in the HVAC package per its title"),
+    ("assigned", "08 31 00", "RFP-060", "access panels install with the framer per PM ruling"),
+    ("assigned", "32 18 23.33", "RFP-021", "running track surfacing"),
+    ("assigned", "02 41 00", "RFP-008", "demolition, per ruling, against RFP-002's own citation"),
+    ("count", "RFP-103", "21", "all twenty-one Division 26 sections plus Division 27"),
+    ("count", "RFP-098", "11", "all eleven Division 22 sections"),
+    ("no_section", "ITB-066", "", "fluid-applied flooring correctly holds none after the ruling"),
+    ("gap", "07 84 00", "RFP-103", "firestopping cited but absent from the manual"),
+    ("gap", "03 35 00", "ITB-067", "concrete finishing's own section is absent"),
+    ("correction", "04 43 36C", "00 43 36C", "the mis-numbered procurement form is corrected"),
+    ("unassigned", "", "0", "no technical section is left without an owner"),
+]
+
+
+def spec_probe(kind, a, b):
+    p = ROOT / "01-index" / "spec-section-catalog.json"
+    if not p.exists():
+        return None
+    d = json.loads(p.read_text())
+    if kind == "assigned":
+        return any(s["section"] == a and s.get("primary_package") == b for s in d["sections"])
+    if kind == "count":
+        return len(d["sections_by_package"].get(a, [])) >= int(b)
+    if kind == "no_section":
+        return a in d["packages_with_no_primary_section"]
+    if kind == "gap":
+        g = d["cited_but_absent_from_manual"].get(a)
+        return bool(g and b in g["cited_by"] and g["note"]
+                    and not g["note"].startswith("No section with"))
+    if kind == "correction":
+        c = d["number_corrections"].get(a)
+        return bool(c and c["corrected_to"] == b)
+    if kind == "unassigned":
+        return sum(1 for s in d["sections"] if s.get("primary_package") is None
+                   and s.get("basis") != "not_a_technical_section") == int(b)
+    return False
+
+
 def proposal_probe(file_frag, pkg, field, rx):
     p = ROOT / "01-index" / "proposal-content.json"
     if not p.exists():
@@ -229,7 +276,16 @@ def main():
         if not ok:
             fails += 1
 
-    total = len(PROBES) + len(SHEET_PROBES) + len(PROPOSAL_PROBES)
+    print("\nSPEC-CATALOG PROBES (section assignment and gap reporting)")
+    for kind, a, b, label in SPEC_PROBES:
+        ok = spec_probe(kind, a, b)
+        if ok is None:
+            print("  [SKIP] spec-section-catalog.json not built yet"); break
+        print(("  [PASS] " if ok else "  [FAIL] ") + f"{a or kind}: {label}")
+        if not ok:
+            fails += 1
+
+    total = (len(PROBES) + len(SHEET_PROBES) + len(PROPOSAL_PROBES) + len(SPEC_PROBES))
     print(f"\nprobe failures: {fails}/{total}")
     t = man["_totals"]
     print(f"corpus: {t['chars']:,} chars across {t['documents']} documents, "

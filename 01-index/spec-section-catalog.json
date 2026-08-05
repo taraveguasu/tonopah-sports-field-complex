@@ -1,0 +1,3153 @@
+{
+  "_generated": "2026-08-05",
+  "_source": "Bookmark outline of 04-specs-reports/04.01 - Bid Specification Manual 042026.pdf",
+  "_method": "Section numbers and page ranges come from the manual's own bookmark outline, not from parsing body text. Primary responsibility is assigned per section with an explicit basis: scope_doc, pm_ruling, or trade_judgment. trade_judgment is MY assignment as PM and is not a citation.",
+  "_totals": {
+    "sections_in_manual": 131,
+    "technical_sections": 106,
+    "assigned_by_scope_doc": 30,
+    "assigned_by_pm_ruling": 5,
+    "assigned_by_trade_judgment": 71,
+    "conflicts": 5,
+    "flow_down_sections": 3,
+    "packages_with_no_primary_section": 6,
+    "cited_but_absent_from_manual": 19
+  },
+  "sections": [
+    {
+      "section": "00 01 01",
+      "title": "Project Title Page",
+      "division": "00",
+      "page_start": 2,
+      "page_end": 2,
+      "pages": 1,
+      "bookmark_raw": "000101 - Project Title Page",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 01 10",
+      "title": "Table of Contents",
+      "division": "00",
+      "page_start": 3,
+      "page_end": 8,
+      "pages": 6,
+      "bookmark_raw": "00 01 10 - Table of Contents",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 20 08",
+      "title": "Form of Non-Collusive Affidavit",
+      "division": "00",
+      "page_start": 9,
+      "page_end": 10,
+      "pages": 2,
+      "bookmark_raw": "00 2008 - Form of Non-Collusive Affidavit",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 31 00",
+      "title": "AvailableProjectInformation",
+      "division": "00",
+      "page_start": 11,
+      "page_end": 12,
+      "pages": 2,
+      "bookmark_raw": "003100 - AvailableProjectInformation",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 43 36A",
+      "title": "Subcontractors Exceeding 1% Listing",
+      "division": "00",
+      "page_start": 13,
+      "page_end": 13,
+      "pages": 1,
+      "bookmark_raw": "00 43 36A  - Subcontractors Exceeding 1% Listing",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 43 36B",
+      "title": "Subcontractors Exceeding 5% Listing",
+      "division": "00",
+      "page_start": 14,
+      "page_end": 14,
+      "pages": 1,
+      "bookmark_raw": "00 43 36B  - Subcontractors Exceeding 5% Listing",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "04 43 36C",
+      "title": "Expanded Subcontractor Listing",
+      "division": "04",
+      "page_start": 15,
+      "page_end": 23,
+      "pages": 9,
+      "bookmark_raw": "04 43 36C - Expanded Subcontractor Listing",
+      "number_correction": {
+        "corrected_to": "00 43 36C",
+        "evidence": "Page 15 header reads '04 43 36C'; the section heading on the same page reads 'SECTION 00 4336C'. Filed between 00 43 36B (p14) and 00 45 21 (p24).",
+        "effect": "Procurement form, not a technical section. Excluded from trade assignment."
+      },
+      "primary_package": null,
+      "basis": "not_a_technical_section"
+    },
+    {
+      "section": "00 45 21",
+      "title": "Poject Workforce Checklist",
+      "division": "00",
+      "page_start": 24,
+      "page_end": 25,
+      "pages": 2,
+      "bookmark_raw": "00 45 21 - Poject Workforce Checklist",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 45 22",
+      "title": "Request for Waiver",
+      "division": "00",
+      "page_start": 26,
+      "page_end": 26,
+      "pages": 1,
+      "bookmark_raw": "00 45 22 - Request for Waiver",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 61 13",
+      "title": "Sample Payment and Perf Bonds",
+      "division": "00",
+      "page_start": 27,
+      "page_end": 29,
+      "pages": 3,
+      "bookmark_raw": "00 61 13 - Sample Payment and Perf Bonds",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 72 00",
+      "title": "General Conditions",
+      "division": "00",
+      "page_start": 30,
+      "page_end": 31,
+      "pages": 2,
+      "bookmark_raw": "00 72 00 - General Conditions",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 73 00",
+      "title": "SupplementaryConditions",
+      "division": "00",
+      "page_start": 71,
+      "page_end": 72,
+      "pages": 2,
+      "bookmark_raw": "007300 - SupplementaryConditions",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "00 73 43",
+      "title": "Prevailing Wage Rates",
+      "division": "00",
+      "page_start": 73,
+      "page_end": 73,
+      "pages": 1,
+      "bookmark_raw": "00 73 43 - Prevailing Wage Rates",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 10 00",
+      "title": "Summary",
+      "division": "01",
+      "page_start": 74,
+      "page_end": 75,
+      "pages": 2,
+      "bookmark_raw": "011000 - Summary",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 25 00",
+      "title": "Substitution Procedures",
+      "division": "01",
+      "page_start": 76,
+      "page_end": 77,
+      "pages": 2,
+      "bookmark_raw": "012500 - Substitution Procedures",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 30 00",
+      "title": "Administrative Requirements",
+      "division": "01",
+      "page_start": 78,
+      "page_end": 85,
+      "pages": 8,
+      "bookmark_raw": "013000 - Administrative Requirements",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 31 17",
+      "title": "Contractor Request For Interpretation Procedures",
+      "division": "01",
+      "page_start": 86,
+      "page_end": 87,
+      "pages": 2,
+      "bookmark_raw": "013117 - Contractor Request For Interpretation Procedures",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 32 16",
+      "title": "Construction Progress Schedule",
+      "division": "01",
+      "page_start": 88,
+      "page_end": 91,
+      "pages": 4,
+      "bookmark_raw": "013216 - Construction Progress Schedule",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 40 00",
+      "title": "Quality Requirements",
+      "division": "01",
+      "page_start": 92,
+      "page_end": 95,
+      "pages": 4,
+      "bookmark_raw": "014000 - Quality Requirements",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 50 00",
+      "title": "Temporary Facilities and Controls",
+      "division": "01",
+      "page_start": 96,
+      "page_end": 97,
+      "pages": 2,
+      "bookmark_raw": "015000 - Temporary Facilities and Controls",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 60 00",
+      "title": "Product Requirements",
+      "division": "01",
+      "page_start": 98,
+      "page_end": 101,
+      "pages": 4,
+      "bookmark_raw": "016000 - Product Requirements",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 61 16",
+      "title": "VOC Content Restrictions",
+      "division": "01",
+      "page_start": 102,
+      "page_end": 103,
+      "pages": 2,
+      "bookmark_raw": "016116 - VOC Content Restrictions",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 61 16.01",
+      "title": "Accessory Material VOC Content Cert Form",
+      "division": "01",
+      "page_start": 104,
+      "page_end": 105,
+      "pages": 2,
+      "bookmark_raw": "016116.01 - Accessory Material VOC Content Cert Form",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 70 00",
+      "title": "Execution and Closeout Requirements",
+      "division": "01",
+      "page_start": 106,
+      "page_end": 111,
+      "pages": 6,
+      "bookmark_raw": "017000 - Execution and Closeout Requirements",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "01 78 00",
+      "title": "Closeout Submittals",
+      "division": "01",
+      "page_start": 112,
+      "page_end": 115,
+      "pages": 4,
+      "bookmark_raw": "017800 - Closeout Submittals",
+      "primary_package": "ALL PACKAGES",
+      "basis": "general_conditions",
+      "rationale": "Division 00/01 binds every subcontract and flows down to all 33 packages; it is not assigned to a trade."
+    },
+    {
+      "section": "02 41 00",
+      "title": "Demolition",
+      "division": "02",
+      "page_start": 116,
+      "page_end": 119,
+      "pages": 4,
+      "bookmark_raw": "024100 - Demolition",
+      "primary_package": "RFP-008",
+      "basis": "pm_ruling",
+      "rationale": "PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below.",
+      "referencing_packages": [
+        "RFP-002"
+      ],
+      "cited_explicitly_by": [
+        "RFP-002"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008"
+      ],
+      "conflict": true
+    },
+    {
+      "section": "03 10 00",
+      "title": "Concrete Formwork",
+      "division": "03",
+      "page_start": 120,
+      "page_end": 125,
+      "pages": 6,
+      "bookmark_raw": "03 1000 - Concrete Formwork",
+      "primary_package": "RFP-030",
+      "basis": "trade_judgment",
+      "rationale": "Formwork is the concrete package's means and methods.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-031",
+        "RFP-033"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-030",
+        "RFP-031",
+        "RFP-033"
+      ]
+    },
+    {
+      "section": "03 20 00",
+      "title": "Concrete Reinforcement",
+      "division": "03",
+      "page_start": 126,
+      "page_end": 129,
+      "pages": 4,
+      "bookmark_raw": "03 2000 - Concrete Reinforcement",
+      "primary_package": "RFP-030",
+      "basis": "trade_judgment",
+      "rationale": "Reinforcement is placed by the concrete package.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-031",
+        "RFP-033"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-030",
+        "RFP-031",
+        "RFP-033"
+      ]
+    },
+    {
+      "section": "03 30 00",
+      "title": "Cast-In-Place Concrete",
+      "division": "03",
+      "page_start": 130,
+      "page_end": 144,
+      "pages": 15,
+      "bookmark_raw": "03 3000 - Cast-In-Place Concrete",
+      "primary_package": "RFP-030",
+      "basis": "trade_judgment",
+      "rationale": "Cast-in-place concrete is RFP-030. Eleven packages cite this section because each has equipment set on a concrete footing; those are cross-references to RFP-030's work, not claims on it. PM rulings 07.31.26 confirm the direction: athletic equipment and goal post footings, and concrete curb and slot/trench drains at the track perimeter, are all RFP-030.",
+      "referencing_packages": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-066",
+        "ITB-067",
+        "ITB-072",
+        "ITB-078",
+        "ITB-089",
+        "RFP-008",
+        "RFP-023",
+        "RFP-031",
+        "RFP-033",
+        "RFP-094",
+        "RFP-103",
+        "RFP-109"
+      ],
+      "cited_explicitly_by": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-066",
+        "ITB-067",
+        "ITB-072",
+        "ITB-078",
+        "ITB-089",
+        "RFP-023",
+        "RFP-094",
+        "RFP-103",
+        "RFP-109"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-030",
+        "RFP-031",
+        "RFP-033"
+      ],
+      "flow_down": "Every package with equipment on a footing cites it; RFP-030 builds them all.",
+      "flows_down_to": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-066",
+        "ITB-067",
+        "ITB-072",
+        "ITB-078",
+        "ITB-089",
+        "RFP-023",
+        "RFP-094",
+        "RFP-103",
+        "RFP-109"
+      ]
+    },
+    {
+      "section": "04 05 03",
+      "title": "Masonry Mortaring and Grouting",
+      "division": "04",
+      "page_start": 145,
+      "page_end": 147,
+      "pages": 3,
+      "bookmark_raw": "04 0503 - Masonry Mortaring and Grouting",
+      "primary_package": "RFP-031",
+      "basis": "trade_judgment",
+      "rationale": "Mortar and grout are the mason's. RFP-031's scope doc cites no section at all and reaches Division 04 only at division level -- this is exactly the gap the PM flagged: the mason must have the masonry specification in his subcontract.",
+      "referencing_packages": [
+        "RFP-030",
+        "RFP-033"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-030",
+        "RFP-031",
+        "RFP-033"
+      ]
+    },
+    {
+      "section": "04 20 16",
+      "title": "Reinforced Unit Masonry",
+      "division": "04",
+      "page_start": 148,
+      "page_end": 152,
+      "pages": 5,
+      "bookmark_raw": "04 2016 - Reinforced Unit Masonry",
+      "primary_package": "RFP-031",
+      "basis": "trade_judgment",
+      "rationale": "Reinforced unit masonry is the mason's primary section. Same gap as 04 05 03. Note this section cross-references 07 19 00 Water Repellents twice; 07 19 00 does not exist in this manual, while 09 96 50 requires a water repellent as a precondition -- open item, see the CMU water-repellent finding.",
+      "referencing_packages": [
+        "RFP-030",
+        "RFP-033"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-030",
+        "RFP-031",
+        "RFP-033"
+      ]
+    },
+    {
+      "section": "05 12 23",
+      "title": "Structural Steel",
+      "division": "05",
+      "page_start": 153,
+      "page_end": 159,
+      "pages": 7,
+      "bookmark_raw": "05 1223 - Structural Steel",
+      "primary_package": "RFP-033",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-033.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "RFP-033"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "05 21 00",
+      "title": "Steel Joists",
+      "division": "05",
+      "page_start": 160,
+      "page_end": 165,
+      "pages": 6,
+      "bookmark_raw": "05 2100  - Steel Joists",
+      "primary_package": "RFP-033",
+      "basis": "trade_judgment",
+      "rationale": "Steel joists are erected by the structural steel package.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "05 31 00",
+      "title": "Steel Deck",
+      "division": "05",
+      "page_start": 166,
+      "page_end": 171,
+      "pages": 6,
+      "bookmark_raw": "05 3100  - Steel Deck",
+      "primary_package": "RFP-033",
+      "basis": "trade_judgment",
+      "rationale": "Steel deck follows the joists, same erector.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "05 40 00",
+      "title": "Cold Formed Steel Framing",
+      "division": "05",
+      "page_start": 172,
+      "page_end": 175,
+      "pages": 4,
+      "bookmark_raw": "05 4000 - Cold Formed Steel Framing",
+      "primary_package": "RFP-060",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-060 -- cold-formed framing is the framer's.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "RFP-060"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "05 50 00",
+      "title": "Metal Fabrications",
+      "division": "05",
+      "page_start": 176,
+      "page_end": 179,
+      "pages": 4,
+      "bookmark_raw": "055000 - Metal Fabrications",
+      "primary_package": "RFP-033",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-033; ornamental metals are in its title.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "RFP-033"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "06 83 16",
+      "title": "Fiberglass Reinforced Paneling",
+      "division": "06",
+      "page_start": 180,
+      "page_end": 181,
+      "pages": 2,
+      "bookmark_raw": "068316 - Fiberglass Reinforced Paneling",
+      "primary_package": "RFP-060",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-060, whose title carries FRP.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "RFP-060"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "07 21 00",
+      "title": "Thermal Insulation",
+      "division": "07",
+      "page_start": 182,
+      "page_end": 185,
+      "pages": 4,
+      "bookmark_raw": "072100 - Thermal Insulation",
+      "primary_package": "ITB-044",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-044.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "ITB-044"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "07 25 00",
+      "title": "Weather Barriers",
+      "division": "07",
+      "page_start": 186,
+      "page_end": 187,
+      "pages": 2,
+      "bookmark_raw": "072500 - Weather Barriers",
+      "primary_package": "RFP-045",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-045. Consistent with PM ruling 07.31.26: the self-adhered membrane under the metal roof is RFP-045, and ITB-040 is below-grade only.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "RFP-045"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "07 26 00",
+      "title": "Vapor Retarders",
+      "division": "07",
+      "page_start": 188,
+      "page_end": 189,
+      "pages": 2,
+      "bookmark_raw": "072600 - Vapor Retarders",
+      "primary_package": "RFP-030",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-030 -- the under-slab vapour retarder is placed with the slab.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "RFP-030"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "07 61 00",
+      "title": "Sheet Metal Roofing",
+      "division": "07",
+      "page_start": 190,
+      "page_end": 193,
+      "pages": 4,
+      "bookmark_raw": "076100 - Sheet Metal Roofing",
+      "primary_package": "RFP-045",
+      "basis": "trade_judgment",
+      "rationale": "Sheet metal roofing is the metal roofing package.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "07 62 00",
+      "title": "Sheet Metal Flashing and Trim",
+      "division": "07",
+      "page_start": 194,
+      "page_end": 195,
+      "pages": 2,
+      "bookmark_raw": "076200 - Sheet Metal Flashing and Trim",
+      "primary_package": "RFP-045",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-045.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "RFP-045"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "07 92 00",
+      "title": "Joint Sealants",
+      "division": "07",
+      "page_start": 196,
+      "page_end": 199,
+      "pages": 4,
+      "bookmark_raw": "079200 - Joint Sealants",
+      "primary_package": "ITB-040",
+      "basis": "scope_doc",
+      "rationale": "ITB-040 is the sealants package by title. Thirteen packages cite this section because each seals its own penetrations and joints; those are compliance references, not claims. Flow the section down to all of them, but ITB-040 carries the building's joint sealants.",
+      "referencing_packages": [
+        "ITB-054",
+        "ITB-062",
+        "ITB-066",
+        "ITB-067",
+        "ITB-072",
+        "ITB-077",
+        "RFP-030",
+        "RFP-031",
+        "RFP-045",
+        "RFP-060",
+        "RFP-098",
+        "RFP-100",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [
+        "ITB-040",
+        "ITB-054",
+        "ITB-062",
+        "ITB-066",
+        "ITB-067",
+        "ITB-072",
+        "ITB-077",
+        "RFP-030",
+        "RFP-045",
+        "RFP-060",
+        "RFP-098",
+        "RFP-100",
+        "RFP-103"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ],
+      "flow_down": "Every package seals its own joints and penetrations to this section.",
+      "flows_down_to": [
+        "ITB-054",
+        "ITB-062",
+        "ITB-066",
+        "ITB-067",
+        "ITB-072",
+        "ITB-077",
+        "RFP-030",
+        "RFP-045",
+        "RFP-060",
+        "RFP-098",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "08 11 13",
+      "title": "Hollow Metal Doors and Frames",
+      "division": "08",
+      "page_start": 200,
+      "page_end": 203,
+      "pages": 4,
+      "bookmark_raw": "081113 - Hollow Metal Doors and Frames",
+      "primary_package": "ITB-056",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-056.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "ITB-056"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "08 31 00",
+      "title": "Access Doors and Panels",
+      "division": "08",
+      "page_start": 204,
+      "page_end": 205,
+      "pages": 2,
+      "bookmark_raw": "083100 - Access Doors and Panels",
+      "primary_package": "RFP-060",
+      "basis": "pm_ruling",
+      "rationale": "PM ruling 07.31.26: access doors and panels are supplied by the MEP trades and installed by the RFP-060 framer. RFP-098, RFP-100 and RFP-103 each cite this section -- that is the supply obligation, and each of their subcontracts must carry it. Installation sits with RFP-060, whose scope doc cites the same work as '08 31 13 - Access Doors and Panels'; the manual publishes it as 08 31 00.",
+      "referencing_packages": [
+        "RFP-031",
+        "RFP-098",
+        "RFP-100",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [
+        "RFP-098",
+        "RFP-100",
+        "RFP-103"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ],
+      "flow_down": "A designed supply/install split, not a dispute -- MEP supply, RFP-060 installs. The section must appear in all four subcontracts with the split stated.",
+      "flows_down_to": [
+        "RFP-098",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "08 33 13",
+      "title": "Coiling Counter Doors",
+      "division": "08",
+      "page_start": 206,
+      "page_end": 209,
+      "pages": 4,
+      "bookmark_raw": "083313 - Coiling Counter Doors",
+      "primary_package": "ITB-054",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-054.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "ITB-054"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "08 33 23",
+      "title": "Overhead Coiling Doors",
+      "division": "08",
+      "page_start": 210,
+      "page_end": 213,
+      "pages": 4,
+      "bookmark_raw": "083323 - Overhead Coiling Doors",
+      "primary_package": "ITB-054",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-054.",
+      "referencing_packages": [
+        "RFP-031"
+      ],
+      "cited_explicitly_by": [
+        "ITB-054"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-031"
+      ]
+    },
+    {
+      "section": "09 21 16",
+      "title": "Gypsum Board Assemblies",
+      "division": "09",
+      "page_start": 214,
+      "page_end": 219,
+      "pages": 6,
+      "bookmark_raw": "092116 - Gypsum Board Assemblies",
+      "primary_package": "RFP-060",
+      "basis": "trade_judgment",
+      "rationale": "Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly.",
+      "referencing_packages": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074",
+        "ITB-077"
+      ],
+      "cited_explicitly_by": [
+        "ITB-077",
+        "RFP-060"
+      ],
+      "reached_by_division_citation_from": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ],
+      "conflict": true
+    },
+    {
+      "section": "09 51 00",
+      "title": "Acoustical Ceilings",
+      "division": "09",
+      "page_start": 220,
+      "page_end": 223,
+      "pages": 4,
+      "bookmark_raw": "095100 - Acoustical Ceilings",
+      "primary_package": "ITB-062",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-062.",
+      "referencing_packages": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074",
+        "RFP-060"
+      ],
+      "cited_explicitly_by": [
+        "ITB-062"
+      ],
+      "reached_by_division_citation_from": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074",
+        "RFP-060"
+      ]
+    },
+    {
+      "section": "09 65 13",
+      "title": "Resilient Base and Accessories",
+      "division": "09",
+      "page_start": 224,
+      "page_end": 227,
+      "pages": 4,
+      "bookmark_raw": "096513 - Resilient Base and Accessories",
+      "primary_package": "ITB-067",
+      "basis": "trade_judgment",
+      "rationale": "Resilient base has no explicit claimant. ITB-066 would be the natural home, but PM ruling 08.04.26 leaves ITB-066 with no remaining scope, and SI Legacy priced 'Furnish & Install 4\" Rubber Wall Base At RB-1 Areas' inside their 066/067 bundle. Assigned to ITB-067 -- CONFIRM, since ITB-067 is a concrete-finishing package and rubber base is not concrete work.",
+      "referencing_packages": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074",
+        "RFP-060"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074",
+        "RFP-060"
+      ]
+    },
+    {
+      "section": "09 91 13",
+      "title": "Exterior Painting",
+      "division": "09",
+      "page_start": 228,
+      "page_end": 235,
+      "pages": 8,
+      "bookmark_raw": "099113 - Exterior Painting",
+      "primary_package": "RFP-060",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-060.",
+      "referencing_packages": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ],
+      "cited_explicitly_by": [
+        "RFP-060"
+      ],
+      "reached_by_division_citation_from": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ]
+    },
+    {
+      "section": "09 91 23",
+      "title": "Interior Painting",
+      "division": "09",
+      "page_start": 236,
+      "page_end": 241,
+      "pages": 6,
+      "bookmark_raw": "099123 - Interior Painting",
+      "primary_package": "RFP-060",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-060.",
+      "referencing_packages": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ],
+      "cited_explicitly_by": [
+        "RFP-060"
+      ],
+      "reached_by_division_citation_from": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ]
+    },
+    {
+      "section": "09 96 50",
+      "title": "Anti-Graffiti Coatings",
+      "division": "09",
+      "page_start": 242,
+      "page_end": 245,
+      "pages": 4,
+      "bookmark_raw": "099650 - Anti-Graffiti Coatings",
+      "primary_package": "RFP-060",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-060. Its Part 3 requires a water repellent to be applied first; the referenced 07 19 00 is absent from this manual -- open item.",
+      "referencing_packages": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ],
+      "cited_explicitly_by": [
+        "RFP-060"
+      ],
+      "reached_by_division_citation_from": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ]
+    },
+    {
+      "section": "09 97 23",
+      "title": "Concrete and Masonry Coatings",
+      "division": "09",
+      "page_start": 246,
+      "page_end": 247,
+      "pages": 2,
+      "bookmark_raw": "099723 - Concrete and Masonry Coatings",
+      "primary_package": "RFP-060",
+      "basis": "trade_judgment",
+      "rationale": "Concrete and masonry coatings are applied by the painter.",
+      "referencing_packages": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-071",
+        "ITB-072",
+        "ITB-074",
+        "RFP-060"
+      ]
+    },
+    {
+      "section": "10 11 00",
+      "title": "Visual Display Units",
+      "division": "10",
+      "page_start": 248,
+      "page_end": 249,
+      "pages": 2,
+      "bookmark_raw": "101100 - Visual Display Units",
+      "primary_package": "ITB-071",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-071.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "ITB-071"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "10 14 23",
+      "title": "Panel Signage",
+      "division": "10",
+      "page_start": 250,
+      "page_end": 251,
+      "pages": 2,
+      "bookmark_raw": "101423 - Panel Signage",
+      "primary_package": "ITB-072",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-072.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "ITB-072"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "10 21 13.13",
+      "title": "Metal Toilet Compartments",
+      "division": "10",
+      "page_start": 252,
+      "page_end": 253,
+      "pages": 2,
+      "bookmark_raw": "102113.13 - Metal Toilet Compartments",
+      "primary_package": "ITB-074",
+      "basis": "scope_doc",
+      "rationale": "ITB-074's scope doc cites '10 21 00 - Toilet Compartments', the parent number of this section; the manual publishes it as 10 21 13.13 Metal Toilet Compartments. Cite the published number in Attachment A. Henri's quote prices 'TOILET PARTITIONS -- Scranton Products, 9 stalls, 2 screens -- furnished and installed -- $28,982'.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "10 26 00",
+      "title": "Wall and Door Protection",
+      "division": "10",
+      "page_start": 254,
+      "page_end": 255,
+      "pages": 2,
+      "bookmark_raw": "102600 - Wall and Door Protection",
+      "primary_package": "ITB-074",
+      "basis": "trade_judgment",
+      "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded.",
+      "referencing_packages": [
+        "RFP-060"
+      ],
+      "cited_explicitly_by": [
+        "ITB-074",
+        "RFP-060"
+      ],
+      "reached_by_division_citation_from": [],
+      "conflict": true
+    },
+    {
+      "section": "10 28 00",
+      "title": "Toilet, Bath, and Laundry Accessories",
+      "division": "10",
+      "page_start": 256,
+      "page_end": 259,
+      "pages": 4,
+      "bookmark_raw": "102800 - Toilet, Bath, and Laundry Accessories",
+      "primary_package": "ITB-074",
+      "basis": "scope_doc",
+      "rationale": "Cited by ITB-074; Henri prices toilet accessories at $12,021, some OFCI.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "ITB-074"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "10 75 00",
+      "title": "Flagpoles",
+      "division": "10",
+      "page_start": 260,
+      "page_end": 261,
+      "pages": 2,
+      "bookmark_raw": "107500 - Flagpoles",
+      "primary_package": "ITB-078",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-078.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "ITB-078"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "11 30 13",
+      "title": "Residential Appliances",
+      "division": "11",
+      "page_start": 262,
+      "page_end": 263,
+      "pages": 2,
+      "bookmark_raw": "113013 - Residential Appliances",
+      "primary_package": "ITB-085",
+      "basis": "trade_judgment",
+      "rationale": "ORPHAN -- no scope doc cites it. Residential appliances belong to the warming kitchen package, which is the only package with kitchen equipment scope.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "11 40 00",
+      "title": "Foodservice Equipment",
+      "division": "11",
+      "page_start": 264,
+      "page_end": 265,
+      "pages": 2,
+      "bookmark_raw": "114000 - Foodservice Equipment",
+      "primary_package": "ITB-085",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-085.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "ITB-085"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "11 68 43",
+      "title": "Football/TrackScoreboard",
+      "division": "11",
+      "page_start": 266,
+      "page_end": 269,
+      "pages": 4,
+      "bookmark_raw": "116843 - Football/TrackScoreboard",
+      "primary_package": "ITB-089",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by ITB-089. Note ITB-019's scope doc cites 11 68 33, which does not exist in this manual -- likely a typo for this section, but not assumed.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "ITB-089"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "12 93 00",
+      "title": "Site Furnishings",
+      "division": "12",
+      "page_start": 270,
+      "page_end": 272,
+      "pages": 3,
+      "bookmark_raw": "129300 - Site Furnishings",
+      "primary_package": "ITB-018",
+      "basis": "trade_judgment",
+      "rationale": "SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues.",
+      "referencing_packages": [
+        "ITB-019"
+      ],
+      "cited_explicitly_by": [
+        "ITB-018",
+        "ITB-019"
+      ],
+      "reached_by_division_citation_from": [],
+      "conflict": true
+    },
+    {
+      "section": "13 34 23",
+      "title": "Fabricated Shade Structures",
+      "division": "13",
+      "page_start": 273,
+      "page_end": 274,
+      "pages": 2,
+      "bookmark_raw": "133423 - Fabricated Shade Structures",
+      "primary_package": "RFP-094",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-094. This is a generic fabricated-structures section standing in for the bleacher-specific section the scope doc cites (13 12 50), which does not exist in this manual. Applies to the press box; the bleachers themselves rely on the written spec block on sheet A1-40.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [
+        "RFP-094"
+      ],
+      "reached_by_division_citation_from": []
+    },
+    {
+      "section": "22 01 00",
+      "title": "BASIC PLUMBING REQUIREMENTS (Page 1of12)",
+      "division": "22",
+      "page_start": 275,
+      "page_end": 286,
+      "pages": 12,
+      "bookmark_raw": "220100 - BASIC PLUMBING REQUIREMENTS (Page 1of12)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 05 00",
+      "title": "COMMONWORKRESULTSFOR PLUMBING (Page 1of12)",
+      "division": "22",
+      "page_start": 287,
+      "page_end": 298,
+      "pages": 12,
+      "bookmark_raw": "220500 - COMMONWORKRESULTSFOR PLUMBING (Page 1of12)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 05 19",
+      "title": "MetersandGaugesforPlumbing Piping (Page 1of2)",
+      "division": "22",
+      "page_start": 299,
+      "page_end": 300,
+      "pages": 2,
+      "bookmark_raw": "220519 - MetersandGaugesforPlumbing Piping (Page 1of2)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 05 23",
+      "title": "General-DutyValvesforPlumbing Piping (Page 1of6)",
+      "division": "22",
+      "page_start": 301,
+      "page_end": 306,
+      "pages": 6,
+      "bookmark_raw": "220523 - General-DutyValvesforPlumbing Piping (Page 1of6)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 05 29",
+      "title": "HangersandSupportsforPlumbing PipingandEquipment (Page 1of5)",
+      "division": "22",
+      "page_start": 307,
+      "page_end": 311,
+      "pages": 5,
+      "bookmark_raw": "220529 - HangersandSupportsforPlumbing PipingandEquipment (Page 1of5)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 05 53",
+      "title": "IdentificationforPlumbingPiping andEquipment (Page 1of3)",
+      "division": "22",
+      "page_start": 312,
+      "page_end": 314,
+      "pages": 3,
+      "bookmark_raw": "220553 - IdentificationforPlumbingPiping andEquipment (Page 1of3)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 07 19",
+      "title": "PlumbingPipingInsulation (Page 1of3)",
+      "division": "22",
+      "page_start": 315,
+      "page_end": 317,
+      "pages": 3,
+      "bookmark_raw": "220719 - PlumbingPipingInsulation (Page 1of3)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 10 05",
+      "title": "PlumbingPiping (Page 1of7)",
+      "division": "22",
+      "page_start": 318,
+      "page_end": 324,
+      "pages": 7,
+      "bookmark_raw": "221005 - PlumbingPiping (Page 1of7)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 10 06",
+      "title": "PlumbingPipingSpecialties (Page 1of3)",
+      "division": "22",
+      "page_start": 325,
+      "page_end": 327,
+      "pages": 3,
+      "bookmark_raw": "221006 - PlumbingPipingSpecialties (Page 1of3)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 30 00",
+      "title": "PlumbingEquipment (Page 1of4)",
+      "division": "22",
+      "page_start": 328,
+      "page_end": 331,
+      "pages": 4,
+      "bookmark_raw": "223000 - PlumbingEquipment (Page 1of4)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "22 40 00",
+      "title": "PlumbingFixtures (Page 1of5)",
+      "division": "22",
+      "page_start": 332,
+      "page_end": 336,
+      "pages": 5,
+      "bookmark_raw": "224000 - PlumbingFixtures (Page 1of5)",
+      "primary_package": "RFP-098",
+      "basis": "trade_judgment",
+      "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-098",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 01 00",
+      "title": "BASIC HVAC REQUIREMENTS (Page 1of15)",
+      "division": "23",
+      "page_start": 337,
+      "page_end": 351,
+      "pages": 15,
+      "bookmark_raw": "230100 - BASIC HVAC REQUIREMENTS (Page 1of15)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 05 00",
+      "title": "COMMONWORKRESULTSFOR HVAC (Page 1of10)",
+      "division": "23",
+      "page_start": 352,
+      "page_end": 361,
+      "pages": 10,
+      "bookmark_raw": "230500 - COMMONWORKRESULTSFOR HVAC (Page 1of10)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 05 13",
+      "title": "CommonMotorRequirementsfor HVACEquipment (Page 1of2)",
+      "division": "23",
+      "page_start": 362,
+      "page_end": 363,
+      "pages": 2,
+      "bookmark_raw": "230513 - CommonMotorRequirementsfor HVACEquipment (Page 1of2)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 05 29",
+      "title": "HangersandSupportsforHVAC PipingandEquipment (Page 1of3)",
+      "division": "23",
+      "page_start": 364,
+      "page_end": 366,
+      "pages": 3,
+      "bookmark_raw": "230529 - HangersandSupportsforHVAC PipingandEquipment (Page 1of3)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 05 53",
+      "title": "IdentificationforHVACPipingand Equipment (Page 1of2)",
+      "division": "23",
+      "page_start": 367,
+      "page_end": 368,
+      "pages": 2,
+      "bookmark_raw": "230553 - IdentificationforHVACPipingand Equipment (Page 1of2)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 05 93",
+      "title": "Testing,AdjustingandBalancingfor HVAC (Page 1of13)",
+      "division": "23",
+      "page_start": 369,
+      "page_end": 381,
+      "pages": 13,
+      "bookmark_raw": "230593 - Testing,AdjustingandBalancingfor HVAC (Page 1of13)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "Testing, adjusting and balancing. RFP-100's own title carries Test & Balance, so it stays in this subcontract rather than going to a separate TAB agency -- note four separate TAB proposals were solicited under trade 102 and tabulated into RFP-100, so confirm whether TAB is subcontracted directly or held here.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 07 13",
+      "title": "DuctInsulation (Page 1of3)",
+      "division": "23",
+      "page_start": 382,
+      "page_end": 384,
+      "pages": 3,
+      "bookmark_raw": "230713 - DuctInsulation (Page 1of3)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 07 19",
+      "title": "HVACPipingInsulation (Page 1of2)",
+      "division": "23",
+      "page_start": 385,
+      "page_end": 386,
+      "pages": 2,
+      "bookmark_raw": "230719 - HVACPipingInsulation (Page 1of2)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 23 00",
+      "title": "RefrigerantPiping (Page 1of5)",
+      "division": "23",
+      "page_start": 387,
+      "page_end": 391,
+      "pages": 5,
+      "bookmark_raw": "232300 - RefrigerantPiping (Page 1of5)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 31 00",
+      "title": "HVACDuctsandCasings (Page 1of4)",
+      "division": "23",
+      "page_start": 392,
+      "page_end": 395,
+      "pages": 4,
+      "bookmark_raw": "233100 - HVACDuctsandCasings (Page 1of4)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 33 00",
+      "title": "AirDuctAccessories (Page 1of2)",
+      "division": "23",
+      "page_start": 396,
+      "page_end": 397,
+      "pages": 2,
+      "bookmark_raw": "233300 - AirDuctAccessories (Page 1of2)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 34 16",
+      "title": "CentrifugalHVACFans (Page 1of2)",
+      "division": "23",
+      "page_start": 398,
+      "page_end": 399,
+      "pages": 2,
+      "bookmark_raw": "233416 - CentrifugalHVACFans (Page 1of2)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 36 00",
+      "title": "AirTerminalUnits (Page 1of4)",
+      "division": "23",
+      "page_start": 400,
+      "page_end": 403,
+      "pages": 4,
+      "bookmark_raw": "233600 - AirTerminalUnits (Page 1of4)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 40 00",
+      "title": "HVACAirCleaningDevices (Page 1of2)",
+      "division": "23",
+      "page_start": 404,
+      "page_end": 405,
+      "pages": 2,
+      "bookmark_raw": "234000 - HVACAirCleaningDevices (Page 1of2)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 81 26.13",
+      "title": "Small-CapacitySplit-SystemAir Conditioners (Page 1of3)",
+      "division": "23",
+      "page_start": 406,
+      "page_end": 408,
+      "pages": 3,
+      "bookmark_raw": "238126.13 - Small-CapacitySplit-SystemAir Conditioners (Page 1of3)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "23 81 29",
+      "title": "VariableRefrigerantFlowHVAC Systems (Page 1of9)",
+      "division": "23",
+      "page_start": 409,
+      "page_end": 417,
+      "pages": 9,
+      "bookmark_raw": "238129 - VariableRefrigerantFlowHVAC Systems (Page 1of9)",
+      "primary_package": "RFP-100",
+      "basis": "trade_judgment",
+      "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-103"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 00 10",
+      "title": "GENERALELECTRICAL REQUIREMENTS (Page 1of22)",
+      "division": "26",
+      "page_start": 418,
+      "page_end": 439,
+      "pages": 22,
+      "bookmark_raw": "260010 - GENERALELECTRICAL REQUIREMENTS (Page 1of22)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 00",
+      "title": "COMMONWORKRESULTSFOR ELECTRICAL (Page 1of6)",
+      "division": "26",
+      "page_start": 440,
+      "page_end": 445,
+      "pages": 6,
+      "bookmark_raw": "260500 - COMMONWORKRESULTSFOR ELECTRICAL (Page 1of6)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 05",
+      "title": "SelectiveDemolitionforElectrical (Page 1of2)",
+      "division": "26",
+      "page_start": 446,
+      "page_end": 447,
+      "pages": 2,
+      "bookmark_raw": "260505 - SelectiveDemolitionforElectrical (Page 1of2)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 19",
+      "title": "Low-VoltageElectricalPower ConductorsandCables (Page 1of6)",
+      "division": "26",
+      "page_start": 448,
+      "page_end": 453,
+      "pages": 6,
+      "bookmark_raw": "260519 - Low-VoltageElectricalPower ConductorsandCables (Page 1of6)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 26",
+      "title": "GroundingandBondingfor ElectricalSystems (Page 1of2)",
+      "division": "26",
+      "page_start": 454,
+      "page_end": 455,
+      "pages": 2,
+      "bookmark_raw": "260526 - GroundingandBondingfor ElectricalSystems (Page 1of2)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 29",
+      "title": "HangersandSupportsforElectrical Systems (Page 1of3)",
+      "division": "26",
+      "page_start": 456,
+      "page_end": 458,
+      "pages": 3,
+      "bookmark_raw": "260529 - HangersandSupportsforElectrical Systems (Page 1of3)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 33.13",
+      "title": "ConduitforElectricalSystems (Page 1of4)",
+      "division": "26",
+      "page_start": 459,
+      "page_end": 462,
+      "pages": 4,
+      "bookmark_raw": "260533.13 - ConduitforElectricalSystems (Page 1of4)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 33.16",
+      "title": "BoxesforElectricalSystems (Page 1of4)",
+      "division": "26",
+      "page_start": 463,
+      "page_end": 466,
+      "pages": 4,
+      "bookmark_raw": "260533.16 - BoxesforElectricalSystems (Page 1of4)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 53",
+      "title": "IdentificationforElectricalSystems (Page 1of3)",
+      "division": "26",
+      "page_start": 467,
+      "page_end": 469,
+      "pages": 3,
+      "bookmark_raw": "260553 - IdentificationforElectricalSystems (Page 1of3)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 05 83",
+      "title": "WiringConnections (Page 1of2)",
+      "division": "26",
+      "page_start": 470,
+      "page_end": 471,
+      "pages": 2,
+      "bookmark_raw": "260583 - WiringConnections (Page 1of2)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 08 00",
+      "title": "ElectricalTestingandCommisioning Requirements (Page 1of5)",
+      "division": "26",
+      "page_start": 472,
+      "page_end": 476,
+      "pages": 5,
+      "bookmark_raw": "260800 - ElectricalTestingandCommisioning Requirements (Page 1of5)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 09 23",
+      "title": "LightingControlDevices (Page 1of7)",
+      "division": "26",
+      "page_start": 477,
+      "page_end": 483,
+      "pages": 7,
+      "bookmark_raw": "260923 - LightingControlDevices (Page 1of7)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 22 00",
+      "title": "Low-VoltageTransformers (Page 1of5)",
+      "division": "26",
+      "page_start": 484,
+      "page_end": 488,
+      "pages": 5,
+      "bookmark_raw": "262200 - Low-VoltageTransformers (Page 1of5)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 24 16",
+      "title": "Panelboards (Page 1of4)",
+      "division": "26",
+      "page_start": 489,
+      "page_end": 492,
+      "pages": 4,
+      "bookmark_raw": "262416 - Panelboards (Page 1of4)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 27 26",
+      "title": "WiringDevices (Page 1of4)",
+      "division": "26",
+      "page_start": 493,
+      "page_end": 496,
+      "pages": 4,
+      "bookmark_raw": "262726 - WiringDevices (Page 1of4)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 28 13",
+      "title": "Fuses (Page 1of2)",
+      "division": "26",
+      "page_start": 497,
+      "page_end": 498,
+      "pages": 2,
+      "bookmark_raw": "262813 - Fuses (Page 1of2)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 28 16.16",
+      "title": "EnclosedSwitches (Page 1of3)",
+      "division": "26",
+      "page_start": 499,
+      "page_end": 501,
+      "pages": 3,
+      "bookmark_raw": "262816.16 - EnclosedSwitches (Page 1of3)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 29 13",
+      "title": "EnclosedControllers (Page 1of2)",
+      "division": "26",
+      "page_start": 502,
+      "page_end": 503,
+      "pages": 2,
+      "bookmark_raw": "262913 - EnclosedControllers (Page 1of2)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 43 00",
+      "title": "SurgeProtectiveDevices (Page 1of3)",
+      "division": "26",
+      "page_start": 504,
+      "page_end": 506,
+      "pages": 3,
+      "bookmark_raw": "264300 - SurgeProtectiveDevices (Page 1of3)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 51 00",
+      "title": "InteriorLighting (Page 1of4)",
+      "division": "26",
+      "page_start": 507,
+      "page_end": 510,
+      "pages": 4,
+      "bookmark_raw": "265100 - InteriorLighting (Page 1of4)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "26 56 00",
+      "title": "ExteriorLighting (Page 1of4)",
+      "division": "26",
+      "page_start": 511,
+      "page_end": 514,
+      "pages": 4,
+      "bookmark_raw": "265600 - ExteriorLighting (Page 1of4)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "Exterior lighting, which on this project includes the Musco sports field lighting named in RFP-103's title. Musco's footing information is filed with the proposals; the footings themselves are RFP-030 per the 07.31.26 ruling.",
+      "referencing_packages": [
+        "ITB-085",
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-085",
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "27 00 00",
+      "title": "Communications - General (Page 1 of 7)",
+      "division": "27",
+      "page_start": 515,
+      "page_end": 521,
+      "pages": 7,
+      "bookmark_raw": "27 00 00 - Communications - General (Page 1 of 7)",
+      "primary_package": "RFP-103",
+      "basis": "trade_judgment",
+      "rationale": "Low voltage is in RFP-103's title. RFP-100 also mentions Division 27, for its control wiring. NOTE: fire alarm is an express GMP Exclusion per Exhibit B (08.04.26) -- no fire alarm scope flows down with this section.",
+      "referencing_packages": [
+        "RFP-100"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-100",
+        "RFP-103"
+      ]
+    },
+    {
+      "section": "31 10 00",
+      "title": "Site Clearing",
+      "division": "31",
+      "page_start": 522,
+      "page_end": 525,
+      "pages": 4,
+      "bookmark_raw": "31 10 00 - Site Clearing",
+      "primary_package": "RFP-008",
+      "basis": "trade_judgment",
+      "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
+      "referencing_packages": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-078",
+        "ITB-089",
+        "RFP-002",
+        "RFP-016",
+        "RFP-023",
+        "RFP-030",
+        "RFP-094",
+        "RFP-098",
+        "RFP-103",
+        "RFP-109"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-078",
+        "ITB-089",
+        "RFP-002",
+        "RFP-008",
+        "RFP-016",
+        "RFP-023",
+        "RFP-030",
+        "RFP-094",
+        "RFP-098",
+        "RFP-103",
+        "RFP-109"
+      ]
+    },
+    {
+      "section": "31 20 00",
+      "title": "Earth Moving",
+      "division": "31",
+      "page_start": 526,
+      "page_end": 531,
+      "pages": 6,
+      "bookmark_raw": "31 20 00 - Earth Moving",
+      "primary_package": "RFP-008",
+      "basis": "trade_judgment",
+      "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
+      "referencing_packages": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-078",
+        "ITB-089",
+        "RFP-002",
+        "RFP-016",
+        "RFP-023",
+        "RFP-030",
+        "RFP-094",
+        "RFP-098",
+        "RFP-103",
+        "RFP-109"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-078",
+        "ITB-089",
+        "RFP-002",
+        "RFP-008",
+        "RFP-016",
+        "RFP-023",
+        "RFP-030",
+        "RFP-094",
+        "RFP-098",
+        "RFP-103",
+        "RFP-109"
+      ]
+    },
+    {
+      "section": "31 50 00",
+      "title": "Excavation Support and Protection",
+      "division": "31",
+      "page_start": 532,
+      "page_end": 535,
+      "pages": 4,
+      "bookmark_raw": "31 50 00 - Excavation Support and Protection",
+      "primary_package": "RFP-008",
+      "basis": "trade_judgment",
+      "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
+      "referencing_packages": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-078",
+        "ITB-089",
+        "RFP-002",
+        "RFP-016",
+        "RFP-023",
+        "RFP-030",
+        "RFP-094",
+        "RFP-098",
+        "RFP-103",
+        "RFP-109"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "ITB-018",
+        "ITB-019",
+        "ITB-078",
+        "ITB-089",
+        "RFP-002",
+        "RFP-008",
+        "RFP-016",
+        "RFP-023",
+        "RFP-030",
+        "RFP-094",
+        "RFP-098",
+        "RFP-103",
+        "RFP-109"
+      ]
+    },
+    {
+      "section": "32 12 16",
+      "title": "Asphalt Paving",
+      "division": "32",
+      "page_start": 536,
+      "page_end": 543,
+      "pages": 8,
+      "bookmark_raw": "32 12 16 - Asphalt Paving",
+      "primary_package": "RFP-008",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-008.",
+      "referencing_packages": [
+        "RFP-016"
+      ],
+      "cited_explicitly_by": [
+        "RFP-008"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 13 13",
+      "title": "Concrete Paving",
+      "division": "32",
+      "page_start": 544,
+      "page_end": 551,
+      "pages": 8,
+      "bookmark_raw": "32 13 13 - Concrete Paving",
+      "primary_package": "RFP-030",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-030. TAB's homework response deducts Type II from the concrete paving, confirming RFP-008 carries the subgrade and RFP-030 the slab.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-016"
+      ],
+      "cited_explicitly_by": [
+        "RFP-030"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 13 73",
+      "title": "Concrete Paving Joint Sealants",
+      "division": "32",
+      "page_start": 552,
+      "page_end": 557,
+      "pages": 6,
+      "bookmark_raw": "32 13 73 - Concrete Paving Joint Sealants",
+      "primary_package": "RFP-030",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-030.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-016"
+      ],
+      "cited_explicitly_by": [
+        "RFP-030"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 16 23",
+      "title": "Sidewalks",
+      "division": "32",
+      "page_start": 558,
+      "page_end": 559,
+      "pages": 2,
+      "bookmark_raw": "321623 - Sidewalks",
+      "primary_package": "RFP-030",
+      "basis": "trade_judgment",
+      "rationale": "Sidewalks are flatwork. RFP-008 and RFP-016 reach it only through a division-level mention of Division 32.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-016"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 18 13",
+      "title": "Synthetic Turf",
+      "division": "32",
+      "page_start": 560,
+      "page_end": 570,
+      "pages": 11,
+      "bookmark_raw": "32 18 13 - Synthetic Turf",
+      "primary_package": "RFP-022",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-022.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-016"
+      ],
+      "cited_explicitly_by": [
+        "RFP-022"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 18 23.33",
+      "title": "Running Track Surfacing",
+      "division": "32",
+      "page_start": 571,
+      "page_end": 576,
+      "pages": 6,
+      "bookmark_raw": "32 18 23.33 - Running Track Surfacing",
+      "primary_package": "RFP-021",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-021.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-016"
+      ],
+      "cited_explicitly_by": [
+        "RFP-021"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 31 13",
+      "title": "Chain Link Fences and Gates",
+      "division": "32",
+      "page_start": 577,
+      "page_end": 580,
+      "pages": 4,
+      "bookmark_raw": "323113 - Chain Link Fences and Gates",
+      "primary_package": "RFP-023",
+      "basis": "scope_doc",
+      "rationale": "Cited solely by RFP-023.",
+      "referencing_packages": [
+        "RFP-008",
+        "RFP-016"
+      ],
+      "cited_explicitly_by": [
+        "RFP-023"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 84 00",
+      "title": "Landscape Irrigation",
+      "division": "32",
+      "page_start": 581,
+      "page_end": 594,
+      "pages": 14,
+      "bookmark_raw": "32 84 00 - Landscape Irrigation",
+      "primary_package": "RFP-016",
+      "basis": "pm_ruling",
+      "rationale": "PM ruling 07.31.26: RFP-016's primary specs are 32 84 00, 32 91 13, 32 96 50.",
+      "referencing_packages": [
+        "RFP-008"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "32 91 13",
+      "title": "Shot Put and Discus Mix",
+      "division": "32",
+      "page_start": 595,
+      "page_end": 597,
+      "pages": 3,
+      "bookmark_raw": "32 91 13 - Shot Put and Discus Mix",
+      "primary_package": "RFP-016",
+      "basis": "pm_ruling",
+      "rationale": "PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping.",
+      "referencing_packages": [
+        "ITB-019",
+        "RFP-008"
+      ],
+      "cited_explicitly_by": [
+        "ITB-019"
+      ],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ],
+      "conflict": true
+    },
+    {
+      "section": "32 96 50",
+      "title": "Invasive Plant Removal",
+      "division": "32",
+      "page_start": 598,
+      "page_end": 600,
+      "pages": 3,
+      "bookmark_raw": "32 96 50 - Invasive Plant Removal",
+      "primary_package": "RFP-016",
+      "basis": "pm_ruling",
+      "rationale": "PM ruling 07.31.26.",
+      "referencing_packages": [
+        "RFP-008"
+      ],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008",
+        "RFP-016"
+      ]
+    },
+    {
+      "section": "33 05 00",
+      "title": "Common Work Results For Utilities",
+      "division": "33",
+      "page_start": 601,
+      "page_end": 612,
+      "pages": 12,
+      "bookmark_raw": "33 05 00 - Common Work Results For Utilities",
+      "primary_package": "RFP-008",
+      "basis": "trade_judgment",
+      "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008"
+      ]
+    },
+    {
+      "section": "33 10 00",
+      "title": "Water Distribution System",
+      "division": "33",
+      "page_start": 613,
+      "page_end": 616,
+      "pages": 4,
+      "bookmark_raw": "33 10 00 - Water Distribution System",
+      "primary_package": "RFP-008",
+      "basis": "trade_judgment",
+      "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008"
+      ]
+    },
+    {
+      "section": "33 12 00",
+      "title": "Water Service Connections",
+      "division": "33",
+      "page_start": 617,
+      "page_end": 620,
+      "pages": 4,
+      "bookmark_raw": "33 12 00 - Water Service Connections",
+      "primary_package": "RFP-008",
+      "basis": "trade_judgment",
+      "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008"
+      ]
+    },
+    {
+      "section": "33 30 00",
+      "title": "Sanitary Sewer System",
+      "division": "33",
+      "page_start": 621,
+      "page_end": 624,
+      "pages": 4,
+      "bookmark_raw": "33 30 00 - Sanitary Sewer System",
+      "primary_package": "RFP-008",
+      "basis": "trade_judgment",
+      "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+      "referencing_packages": [],
+      "cited_explicitly_by": [],
+      "reached_by_division_citation_from": [
+        "RFP-008"
+      ]
+    }
+  ],
+  "sections_by_package": {
+    "ITB-018": [
+      "12 93 00"
+    ],
+    "ITB-040": [
+      "07 92 00"
+    ],
+    "ITB-044": [
+      "07 21 00"
+    ],
+    "ITB-054": [
+      "08 33 13",
+      "08 33 23"
+    ],
+    "ITB-056": [
+      "08 11 13"
+    ],
+    "ITB-062": [
+      "09 51 00"
+    ],
+    "ITB-067": [
+      "09 65 13"
+    ],
+    "ITB-071": [
+      "10 11 00"
+    ],
+    "ITB-072": [
+      "10 14 23"
+    ],
+    "ITB-074": [
+      "10 21 13.13",
+      "10 26 00",
+      "10 28 00"
+    ],
+    "ITB-078": [
+      "10 75 00"
+    ],
+    "ITB-085": [
+      "11 30 13",
+      "11 40 00"
+    ],
+    "ITB-089": [
+      "11 68 43"
+    ],
+    "RFP-008": [
+      "02 41 00",
+      "31 10 00",
+      "31 20 00",
+      "31 50 00",
+      "32 12 16",
+      "33 05 00",
+      "33 10 00",
+      "33 12 00",
+      "33 30 00"
+    ],
+    "RFP-016": [
+      "32 84 00",
+      "32 91 13",
+      "32 96 50"
+    ],
+    "RFP-021": [
+      "32 18 23.33"
+    ],
+    "RFP-022": [
+      "32 18 13"
+    ],
+    "RFP-023": [
+      "32 31 13"
+    ],
+    "RFP-030": [
+      "03 10 00",
+      "03 20 00",
+      "03 30 00",
+      "07 26 00",
+      "32 13 13",
+      "32 13 73",
+      "32 16 23"
+    ],
+    "RFP-031": [
+      "04 05 03",
+      "04 20 16"
+    ],
+    "RFP-033": [
+      "05 12 23",
+      "05 21 00",
+      "05 31 00",
+      "05 50 00"
+    ],
+    "RFP-045": [
+      "07 25 00",
+      "07 61 00",
+      "07 62 00"
+    ],
+    "RFP-060": [
+      "05 40 00",
+      "06 83 16",
+      "08 31 00",
+      "09 21 16",
+      "09 91 13",
+      "09 91 23",
+      "09 96 50",
+      "09 97 23"
+    ],
+    "RFP-094": [
+      "13 34 23"
+    ],
+    "RFP-098": [
+      "22 01 00",
+      "22 05 00",
+      "22 05 19",
+      "22 05 23",
+      "22 05 29",
+      "22 05 53",
+      "22 07 19",
+      "22 10 05",
+      "22 10 06",
+      "22 30 00",
+      "22 40 00"
+    ],
+    "RFP-100": [
+      "23 01 00",
+      "23 05 00",
+      "23 05 13",
+      "23 05 29",
+      "23 05 53",
+      "23 05 93",
+      "23 07 13",
+      "23 07 19",
+      "23 23 00",
+      "23 31 00",
+      "23 33 00",
+      "23 34 16",
+      "23 36 00",
+      "23 40 00",
+      "23 81 26.13",
+      "23 81 29"
+    ],
+    "RFP-103": [
+      "26 00 10",
+      "26 05 00",
+      "26 05 05",
+      "26 05 19",
+      "26 05 26",
+      "26 05 29",
+      "26 05 33.13",
+      "26 05 33.16",
+      "26 05 53",
+      "26 05 83",
+      "26 08 00",
+      "26 09 23",
+      "26 22 00",
+      "26 24 16",
+      "26 27 26",
+      "26 28 13",
+      "26 28 16.16",
+      "26 29 13",
+      "26 43 00",
+      "26 51 00",
+      "26 56 00",
+      "27 00 00"
+    ]
+  },
+  "conflicts_needing_pm_ruling": [
+    {
+      "section": "02 41 00",
+      "title": "Demolition",
+      "assigned_to": "RFP-008",
+      "basis": "pm_ruling",
+      "also_cited_by": [
+        "RFP-002"
+      ],
+      "rationale": "PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below."
+    },
+    {
+      "section": "09 21 16",
+      "title": "Gypsum Board Assemblies",
+      "assigned_to": "RFP-060",
+      "basis": "trade_judgment",
+      "also_cited_by": [
+        "ITB-077"
+      ],
+      "rationale": "Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly."
+    },
+    {
+      "section": "10 26 00",
+      "title": "Wall and Door Protection",
+      "assigned_to": "ITB-074",
+      "basis": "trade_judgment",
+      "also_cited_by": [
+        "RFP-060"
+      ],
+      "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded."
+    },
+    {
+      "section": "12 93 00",
+      "title": "Site Furnishings",
+      "assigned_to": "ITB-018",
+      "basis": "trade_judgment",
+      "also_cited_by": [
+        "ITB-019"
+      ],
+      "rationale": "SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues."
+    },
+    {
+      "section": "32 91 13",
+      "title": "Shot Put and Discus Mix",
+      "assigned_to": "RFP-016",
+      "basis": "pm_ruling",
+      "also_cited_by": [
+        "ITB-019"
+      ],
+      "rationale": "PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping."
+    }
+  ],
+  "packages_with_no_primary_section": {
+    "ITB-008": {
+      "cited_sections_absent_from_manual": [],
+      "reason": "Surveying, Layout & Staking. No CSI section for surveying exists in this manual and the scope doc cites none. Requirements come from the scope narrative and Division 01 alone -- confirm that is acceptable before issuing."
+    },
+    "ITB-019": {
+      "cited_sections_absent_from_manual": [
+        "11 68 33"
+      ],
+      "reason": "Track & Field Athletic Equipment. Its work lives inside 12 93 00 Site Furnishings, whose own Section Includes spans both this package and ITB-018; primary is shown as ITB-018 pending a PM ruling on the split. Its cited 11 68 33 Athletic Field Equipment is absent (see candidates)."
+    },
+    "ITB-066": {
+      "cited_sections_absent_from_manual": [],
+      "reason": "Fluid-Applied Flooring. Correct to hold none -- PM ruling 08.04.26 excluded resinous/epoxy flooring and moved those locations to Sealed Concrete under ITB-067, leaving ITB-066 with no remaining scope."
+    },
+    "ITB-077": {
+      "cited_sections_absent_from_manual": [
+        "10 51 13"
+      ],
+      "reason": "Lockers. Cited 10 51 13 Metal Lockers is absent from the manual. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24\"W x 18\"D x 72\"H) per PM ruling 07.31.26, reinforced by the keynote on sheet A10-30."
+    },
+    "RFP-002": {
+      "cited_sections_absent_from_manual": [
+        "02 81 00"
+      ],
+      "reason": "Abatement & Building Wrecking. 02 41 00 Demolition went to RFP-008 by PM ruling 07.31.26, and the cited 02 81 00 Transportation and Disposal of Misc. Hazardous Materials is absent. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are not part of the spec manual."
+    },
+    "RFP-109": {
+      "cited_sections_absent_from_manual": [],
+      "reason": "Prefabricated Ticket Booth. No section exists; sheet A1-40 carries a written 'PRE-MANUFACTURED TICKET BOOTH SPECS' block, and PM ruling 08.04.26 sets the basis of design as Porta-King DURASTEEL PC Building Model PC64 (6'x4')."
+    }
+  },
+  "cited_but_absent_from_manual": {
+    "02 41 13": {
+      "title_per_scope_doc": "Selective Site Demolition",
+      "cited_by": [
+        "RFP-008"
+      ],
+      "candidate_sections_in_manual": [
+        "02 41 00"
+      ],
+      "note": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation."
+    },
+    "02 81 00": {
+      "title_per_scope_doc": "Transportation and Disposal of Misc. Hazardous Materials",
+      "cited_by": [
+        "RFP-002"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A."
+    },
+    "03 35 00": {
+      "title_per_scope_doc": "Concrete Finishing",
+      "cited_by": [
+        "ITB-067"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Concrete Finishing -- ITB-067's own title section, and it is absent. With PM ruling 08.04.26 moving the resinous/epoxy locations to Sealed Concrete under this package, ITB-067 is being asked to deliver sealed concrete with no specification for it. REAL GAP."
+    },
+    "05 31 12": {
+      "title_per_scope_doc": "Steel Roof Decking",
+      "cited_by": [
+        "RFP-033"
+      ],
+      "candidate_sections_in_manual": [
+        "05 31 00"
+      ],
+      "note": "Steel Roof Decking. 05 31 00 Steel Deck is the published section, assigned to RFP-033. Near-certain renumbering, still confirm."
+    },
+    "07 13 00": {
+      "title_per_scope_doc": "Sheet Waterproofing",
+      "cited_by": [
+        "ITB-040"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Sheet Waterproofing -- ITB-040's primary section under PM ruling 07.31.26 (ITB-040 is below-grade waterproofing only), and it is absent. The package is left holding 07 92 00 Joint Sealants, which is not waterproofing. REAL GAP."
+    },
+    "07 41 13": {
+      "title_per_scope_doc": "Metal Roof Panels",
+      "cited_by": [
+        "RFP-045"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Metal Roof Panels -- RFP-045's own primary section, and it is not in the manual. 07 61 00 Sheet Metal Roofing is the nearest published substitute and is assigned to RFP-045, but it is a different section, not a renumbering. Confirm which governs the panel system before issuing."
+    },
+    "07 71 23": {
+      "title_per_scope_doc": "Manufactured Gutters and Downspouts",
+      "cited_by": [
+        "RFP-045"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Manufactured Gutters and Downspouts. Absent. 07 62 00 Sheet Metal Flashing and Trim is assigned to RFP-045 and is the nearest published coverage; confirm it carries the gutters, or the roof drainage has no specification."
+    },
+    "07 84 00": {
+      "title_per_scope_doc": "Firestopping",
+      "cited_by": [
+        "RFP-103"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Firestopping. Absent from the manual entirely, though cited by RFP-103 and required by code at every rated penetration. No package currently carries a firestopping specification -- REAL GAP, needs a PM decision on who does."
+    },
+    "08 31 13": {
+      "title_per_scope_doc": "Access Doors and Panels",
+      "cited_by": [
+        "RFP-060"
+      ],
+      "candidate_sections_in_manual": [
+        "08 31 00"
+      ],
+      "note": "Access Doors and Panels. 08 31 00 is the published number for the same title. Near-certain renumbering."
+    },
+    "08 71 00": {
+      "title_per_scope_doc": "Door Hardware",
+      "cited_by": [
+        "ITB-056",
+        "RFP-103"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware)."
+    },
+    "09 82 00": {
+      "title_per_scope_doc": "Acoustical Insulation",
+      "cited_by": [
+        "ITB-044"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Acoustical Insulation. Absent. The manual publishes only 07 21 00 Thermal Insulation, which is assigned to ITB-044. Acoustic batt in partitions has no specification -- confirm whether ITB-044 or RFP-060 carries it."
+    },
+    "10 21 00": {
+      "title_per_scope_doc": "Toilet Compartments",
+      "cited_by": [
+        "ITB-074"
+      ],
+      "candidate_sections_in_manual": [
+        "10 21 13.13"
+      ],
+      "note": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet Compartments, a child of the cited number. Cite the published number."
+    },
+    "10 44 13": {
+      "title_per_scope_doc": "Fire Protection Cabinets",
+      "cited_by": [
+        "ITB-074"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Fire Protection Cabinets. Absent, though ITB-074's title carries fire protection specialties and Henri's quote prices 'FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES -- furnished and installed -- $6,313'. The bidders priced work that has no spec section."
+    },
+    "10 51 13": {
+      "title_per_scope_doc": "Metal Lockers",
+      "cited_by": [
+        "ITB-077"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Metal Lockers. Absent. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24 in. W x 18 in. D x 72 in. H) per PM ruling 07.31.26, reinforced by the keynote on revised sheet A10-30. Note Henri also prices metal lockers inside ITB-074 at $22,519 -- decide which subcontract carries them."
+    },
+    "11 68 33": {
+      "title_per_scope_doc": "Athletic Field Equipment",
+      "cited_by": [
+        "ITB-019"
+      ],
+      "candidate_sections_in_manual": [
+        "11 68 43"
+      ],
+      "note": "Athletic Field Equipment. Numerically near 11 68 43 Football/TrackScoreboard, but that section is the scoreboard, which is ITB-089's -- the candidate is a number match, not a scope match. Treat the athletic-equipment spec as MISSING; ITB-019's requirements rest on 12 93 00 and the drawings."
+    },
+    "13 12 50": {
+      "title_per_scope_doc": "Permanent Outdoor Bleacher",
+      "cited_by": [
+        "RFP-094"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Permanent Outdoor Bleacher. No bleacher section exists. Sheet A1-40 carries a written 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS' block that must be quoted into Attachment A in its place. 13 34 23 Fabricated Shade Structures covers the press box only."
+    },
+    "31 00 00": {
+      "title_per_scope_doc": "Earthwork",
+      "cited_by": [
+        "RFP-100"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Earthwork. A division rollup number rather than a section; Division 31 does exist in this manual with three sections, all assigned to RFP-008. Not a gap."
+    },
+    "32 11 23": {
+      "title_per_scope_doc": "Aggregate Base Courses",
+      "cited_by": [
+        "RFP-030"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Aggregate Base Courses. Absent, and material: TAB's homework response prices deducts for deleting Type II from the turf field, the building pad and the concrete paving. The base course those deducts act on has no specification."
+    },
+    "32 19 19": {
+      "title_per_scope_doc": "Landscape Grading",
+      "cited_by": [
+        "RFP-021",
+        "RFP-022"
+      ],
+      "candidate_sections_in_manual": [],
+      "note": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving is assigned to RFP-008 and is the nearest coverage."
+    }
+  },
+  "number_corrections": {
+    "04 43 36C": {
+      "corrected_to": "00 43 36C",
+      "evidence": "Page 15 header reads '04 43 36C'; the section heading on the same page reads 'SECTION 00 4336C'. Filed between 00 43 36B (p14) and 00 45 21 (p24).",
+      "effect": "Procurement form, not a technical section. Excluded from trade assignment."
+    }
+  }
+}
