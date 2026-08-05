@@ -155,6 +155,13 @@ entire demolition scope is RFP-008.
 | 07.31.26 | There is NO fire alarm system (formalizing ASI forthcoming) |
 | 07.31.26 | Access doors and panels (08 31 00): MEP trades supply, RFP-060 framer installs |
 | 07.31.26 | RFP-016 primary specs are 32 84 00, 32 91 13, 32 96 50 |
+| 08.04.26 | **Exhibit B — Basis of GMP (07.01.26) is a contract document and supersedes the base bid set**, treated as an addendum (forthcoming revision) |
+| 08.04.26 | Prevailing wage is **2025-2026 Southern Nevada Rural Region** — supersedes Clarification No.2's Clark County direction |
+| 08.04.26 | GMP includes Nevada State Sales Tax |
+| 08.04.26 | **Fire alarm systems are an express GMP Exclusion** — the written instrument the no-fire-alarm direction was awaiting |
+| 08.04.26 | Resinous/Epoxy Flooring excluded; those locations become Sealed Concrete under ITB-067 (Owner Accepted Alternate) — ITB-066 has no remaining scope |
+| 08.04.26 | RFP-109 ticket booth is Porta-King DURASTEEL PC Building Model PC64 (6'x4') |
+| 08.04.26 | RFP-022 turf is Matrix Helix 46 oz, Elia Renufill/Realfill infill, SOTERIA 20mm pad |
 
 ### `package-index.json` summary — ⚠️ SUPERSEDED, describes the rejected index
 Kept for provenance. Findings below that came from the vision pass are still useful as leads,
