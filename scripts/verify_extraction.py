@@ -90,8 +90,11 @@ def sheet_probe(sheet, kind, rx):
     hay = []
     if kind in ("table", "any"):
         for t in r.get("table_detail", []):
+            # Both views: the resolved grid, and the raw baseline lines. A fact is
+            # captured if either holds it — that is the point of storing both.
             for row in t.get("rows", []):
                 hay.append(" | ".join(c for c in row if c))
+            hay += t.get("raw_lines", [])
     if kind in ("keynote", "any"):
         hay += [f"{k} {v}" for k, v in r.get("keynotes", {}).items()]
     if kind == "any":
