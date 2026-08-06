@@ -183,6 +183,50 @@ def spec_probe(kind, a, b):
     return False
 
 
+# Sheet-assignment probes. Each fact was confirmed by opening the sheet earlier:
+# A1-20's Site Equipment Matrix lists five CFCI items, A10-30 carries the locker
+# keynote, RFP-023's scope doc names A1-20 outright, LS1-10 is life-safety.
+ASSIGN_PROBES = [
+    ("draft", "A1-20", "RFP-094", "bleachers, from the Site Equipment Matrix"),
+    ("draft", "A1-20", "RFP-109", "ticket booth, same matrix"),
+    ("draft", "A1-20", "ITB-089", "scoreboard, same matrix (DAKTRONICS FB-2021)"),
+    ("draft", "A1-20", "ITB-018", "trash receptacle, same matrix"),
+    ("cited", "A1-20", "RFP-023", "RFP-023's scope doc names A1-20 for the Gate Schedule"),
+    ("draft", "A10-30", "ITB-077", "lockers, from the 9-08 keynote"),
+    ("draft", "A2-40", "RFP-060", "partition schedule belongs to the framer"),
+    ("draft", "M0-05", "RFP-100", "mechanical schedules"),
+    ("not", "M0-05", "ITB-056", "a passing mention of doors in a mechanical schedule "
+                                "must not assign the door package"),
+    ("not", "M0-05", "ITB-062", "nor the ceilings package"),
+    ("all_pkgs", "LS1-10", "", "life-safety sheet binds every package, assigned to no trade"),
+    ("revision", "A10-30", "ADDENDUM", "reissued sheets are read at the addendum revision"),
+    ("coverage", "", "", "every sheet reaches a package and every package reaches a sheet"),
+]
+
+
+def assign_probe(kind, sheet, pkg):
+    p = ROOT / "01-index" / "sheet-package-assignments.json"
+    if not p.exists():
+        return None
+    d = json.loads(p.read_text())
+    rows = {r["sheet"]: r for r in d["sheets"]}
+    if kind == "coverage":
+        return not d["sheets_with_no_package"] and not d["packages_with_no_sheet"]
+    r = rows.get(sheet)
+    if not r:
+        return False
+    if kind == "all_pkgs":
+        return bool(r.get("applies_to_all_packages"))
+    if kind == "revision":
+        return r["revision"].startswith(pkg)
+    got = r["packages"].get(pkg)
+    if kind == "not":
+        return not got or got["confidence"] in ("weak", "discipline_only")
+    if kind == "cited":
+        return bool(got and got["confidence"] == "cited")
+    return bool(got and got["confidence"] in ("cited", "strong", "moderate"))
+
+
 def proposal_probe(file_frag, pkg, field, rx):
     p = ROOT / "01-index" / "proposal-content.json"
     if not p.exists():
@@ -319,7 +363,17 @@ def main():
         if not ok:
             fails += 1
 
-    total = (len(PROBES) + len(SHEET_PROBES) + len(PROPOSAL_PROBES) + len(SPEC_PROBES))
+    print("\nSHEET-ASSIGNMENT PROBES (packages derived from the scope docs)")
+    for kind, sheet, pkg, label in ASSIGN_PROBES:
+        ok = assign_probe(kind, sheet, pkg)
+        if ok is None:
+            print("  [SKIP] sheet-package-assignments.json not built yet"); break
+        print(("  [PASS] " if ok else "  [FAIL] ") + f"{sheet or kind} {pkg}: {label}")
+        if not ok:
+            fails += 1
+
+    total = (len(PROBES) + len(SHEET_PROBES) + len(PROPOSAL_PROBES) + len(SPEC_PROBES)
+             + len(ASSIGN_PROBES))
     print(f"\nprobe failures: {fails}/{total}")
     t = man["_totals"]
     print(f"corpus: {t['chars']:,} chars across {t['documents']} documents, "
