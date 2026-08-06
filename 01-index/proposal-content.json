@@ -23,11 +23,11 @@
     "clarifications": 645,
     "priced_line_items": 138,
     "priced_scope_groups": 14,
-    "packages_covered": 33,
-    "unmatched_documents": 18,
+    "packages_covered": 34,
+    "unmatched_documents": 14,
     "project_level_documents": 13,
     "price_movements": 1,
-    "unassigned_trade_documents": 4,
+    "unassigned_trade_documents": 0,
     "bid_tab_price_mismatches": 2,
     "bundled_multi_package_bidders": 9
   },
@@ -1043,6 +1043,51 @@
         "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf.txt",
         "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy (descope).pdf.txt",
         "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy.pdf.txt"
+      ]
+    },
+    "ITB-070": {
+      "document_count": 4,
+      "firms": [
+        "CSI",
+        "Lady Lux",
+        "Nevada Angels"
+      ],
+      "current_per_firm": {
+        "nevadaangels": {
+          "firm": "Nevada Angels",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
+          "current_date": "2026-05-20",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "ladylux": {
+          "firm": "Lady Lux",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt",
+          "current_date": "2027-08-27",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "csi": {
+          "firm": "CSI",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
+          "current_date": "2026-05-06",
+          "superseded": [],
+          "undated_not_sequenced": []
+        }
+      },
+      "documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt"
+      ],
+      "scope_language_docs": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt"
       ]
     },
     "ITB-071": {
@@ -18383,10 +18428,10 @@
     {
       "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
       "kind": "proposal",
-      "packages": [],
-      "unassigned_trades": [
-        "070 Final Cleaning"
+      "packages": [
+        "ITB-070"
       ],
+      "unassigned_trades": [],
       "firm": "CSI",
       "firm_key": "csi",
       "date": "2026-05-06",
@@ -18454,10 +18499,10 @@
     {
       "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt",
       "kind": "proposal",
-      "packages": [],
-      "unassigned_trades": [
-        "070 Final Cleaning"
+      "packages": [
+        "ITB-070"
       ],
+      "unassigned_trades": [],
       "firm": "Lady Lux",
       "firm_key": "ladylux",
       "date": "2027-08-27",
@@ -18508,10 +18553,10 @@
     {
       "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
       "kind": "descope",
-      "packages": [],
-      "unassigned_trades": [
-        "070 Final Cleaning"
+      "packages": [
+        "ITB-070"
       ],
+      "unassigned_trades": [],
       "firm": "Nevada Angels",
       "firm_key": "nevadaangels",
       "date": "2026-05-20",
@@ -18562,10 +18607,10 @@
     {
       "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt",
       "kind": "proposal",
-      "packages": [],
-      "unassigned_trades": [
-        "070 Final Cleaning"
+      "packages": [
+        "ITB-070"
       ],
+      "unassigned_trades": [],
       "firm": "Nevada Angels",
       "firm_key": "nevadaangels",
       "date": "2026-05-15",
@@ -19908,18 +19953,9 @@
     "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).xlsx.txt"
   ],
   "_unmatched": [
-    "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/RFI #1-2 Asphalt (NDX).pdf.txt",
-    "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
-    "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt",
-    "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
-    "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt"
+    "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/RFI #1-2 Asphalt (NDX).pdf.txt"
   ],
-  "_unassigned_trades": [
-    "070 Final Cleaning \u2014 CSI \u2014 SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
-    "070 Final Cleaning \u2014 Lady Lux \u2014 SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt",
-    "070 Final Cleaning \u2014 Nevada Angels \u2014 SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
-    "070 Final Cleaning \u2014 Nevada Angels \u2014 SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt"
-  ],
+  "_unassigned_trades": [],
   "_price_movements": [
     {
       "package": "RFP-002",

@@ -18,6 +18,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 016 Landscaping & Irrigation.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -34,7 +35,7 @@
         "section": "32 91 13",
         "title": "Shot Put and Discus Mix",
         "basis": "pm_ruling",
-        "rationale": "PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping.",
+        "rationale": "PM ruling 07.31.26, refined 08.06.26 (A5): RFP-016 carries it. Do NOT write exclusions into ITB-019 or RFP-030 -- both must coordinate with this scope, and an exclusion would read as no obligation to coordinate. Treat as flow-down: RFP-016 executes, the others coordinate.",
         "manual_pages": "595-597",
         "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
         "conflict": true,

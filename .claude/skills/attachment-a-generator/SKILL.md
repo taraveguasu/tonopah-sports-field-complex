@@ -103,6 +103,10 @@ Output: `02-drafts/package-{package_id}-attachment-a.md`
   FXSA18AAVJU at the restrooms"*. Name a product only where a contract document establishes it as basis of
   design — an RFI answer, an addendum, a GMP Basis assumption, a drawn BOD keynote — then cite that
   instrument and still require a complete installation around it.
+- **Never cite a specification section absent from the Project Manual.** The obligation stays in the
+  subcontract, carried by the scope verbiage using the section's *title*, never its number — "metal roof
+  panels", not "07 41 13". A number the sub cannot look up makes an obligation look documented when
+  nothing stands behind it. Draft those from the scope narrative, the drawings and the proposals.
 - **Think past what the documents happen to say.** This is a subcontract, not an RFP summary. If the manual
   has a masonry section and this is the masonry package, it belongs in the subcontract whether or not the
   scope narrative cited it — as do the ordinary obligations of a complete trade scope (layout from

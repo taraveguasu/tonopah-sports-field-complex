@@ -16,6 +16,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 056 Doors, Frames & Hardware.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -34,7 +35,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "08 71 00": {
         "title_per_scope_doc": "Door Hardware",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware).",
         "candidates": []
       }

@@ -210,9 +210,11 @@ def scope_citations(entries):
 PRIMARY = {
     # Division 02 -- Existing Conditions
     "02 41 00": ("RFP-008", "pm_ruling",
-                 "PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope "
-                 "doc cites this section solely, so the ruling overrides the narrative -- "
-                 "CONFLICT, recorded below."),
+                 "PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what "
+                 "each demolishes. RFP-008 carries the full building demolition and the site "
+                 "demolition; RFP-002 is abatement, which has demolition inside it. This "
+                 "refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was "
+                 "about the site and building work, not about abatement's own demolition."),
 
     # Division 03 -- Concrete
     "03 10 00": ("RFP-030", "trade_judgment", "Formwork is the concrete package's means and methods."),
@@ -253,7 +255,10 @@ PRIMARY = {
     "07 26 00": ("RFP-030", "scope_doc",
                  "Cited solely by RFP-030 -- the under-slab vapour retarder is placed with the slab."),
     "07 61 00": ("RFP-045", "trade_judgment", "Sheet metal roofing is the metal roofing package."),
-    "07 62 00": ("RFP-045", "scope_doc", "Cited solely by RFP-045."),
+    "07 62 00": ("RFP-045", "scope_doc",
+                 "Cited solely by RFP-045. PM ruling 08.06.26 (D): RFP-045 owns the gutters and "
+                 "downspouts -- the cited 07 71 23 is absent from the manual, so the obligation "
+                 "is written into the scope by title, not by section number."),
     "07 92 00": ("ITB-040", "scope_doc",
                  "ITB-040 is the sealants package by title. Thirteen packages cite this section "
                  "because each seals its own penetrations and joints; those are compliance "
@@ -302,7 +307,7 @@ PRIMARY = {
     "10 26 00": ("ITB-074", "trade_judgment",
                  "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and "
                  "Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts "
-                 "to. CONFLICT between two scope docs -- recorded."),
+                 "to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074."),
     "10 28 00": ("ITB-074", "scope_doc",
                  "Cited by ITB-074; Henri prices toilet accessories at $12,021, some OFCI."),
     "10 75 00": ("ITB-078", "scope_doc", "Cited solely by ITB-078."),
@@ -317,12 +322,11 @@ PRIMARY = {
                  "not exist in this manual -- likely a typo for this section, but not assumed."),
 
     # Division 12 -- Furnishings
-    "12 93 00": ("ITB-018", "trade_judgment",
-                 "SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own "
-                 "Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS "
-                 "athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 "
-                 "for the furnishings portion; ITB-019 must carry the athletic-equipment portion "
-                 "of the same section. Needs a PM ruling before either subcontract issues."),
+    "12 93 00": ("ITB-018", "pm_ruling",
+                 "PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section "
+                 "goes in both subcontracts -- not split by paragraph. ITB-019's obligation is "
+                 "installation only, so its Attachment A must say so explicitly or it reads as "
+                 "carrying supply too."),
 
     # Division 13 -- Special Construction
     "13 34 23": ("RFP-094", "scope_doc",
@@ -350,8 +354,9 @@ PRIMARY = {
     "23 05 93": ("RFP-100", "trade_judgment",
                  "Testing, adjusting and balancing. RFP-100's own title carries Test & Balance, "
                  "so it stays in this subcontract rather than going to a separate TAB agency -- "
-                 "note four separate TAB proposals were solicited under trade 102 and tabulated "
-                 "into RFP-100, so confirm whether TAB is subcontracted directly or held here."),
+                 "CONFIRMED by PM 08.06.26 (A7): TAB is included in RFP-100, not subcontracted "
+                 "directly. Four TAB proposals were solicited under trade 102 and tabulated "
+                 "into RFP-100."),
 
     # Division 26 -- Electrical -> RFP-103
     **{s: ("RFP-103", "trade_judgment",
@@ -386,16 +391,16 @@ PRIMARY = {
                  "concrete paving, confirming RFP-008 carries the subgrade and RFP-030 the slab."),
     "32 13 73": ("RFP-030", "scope_doc", "Cited solely by RFP-030."),
     "32 16 23": ("RFP-030", "trade_judgment",
-                 "Sidewalks are flatwork. RFP-008 and RFP-016 reach it only through a "
-                 "division-level mention of Division 32."),
+                 "Sidewalks are flatwork. CONFIRMED by PM 08.06.26 (A6): RFP-030."),
     "32 18 13": ("RFP-022", "scope_doc", "Cited solely by RFP-022."),
     "32 18 23.33": ("RFP-021", "scope_doc", "Cited solely by RFP-021."),
     "32 31 13": ("RFP-023", "scope_doc", "Cited solely by RFP-023."),
     "32 84 00": ("RFP-016", "pm_ruling", "PM ruling 07.31.26: RFP-016's primary specs are 32 84 00, 32 91 13, 32 96 50."),
     "32 91 13": ("RFP-016", "pm_ruling",
-                 "PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot "
-                 "put and discus pad, and Sahara priced that pad under RFP-030 -- three packages "
-                 "touch it. The ruling governs; the other two need descoping."),
+                 "PM ruling 07.31.26, refined 08.06.26 (A5): RFP-016 carries it. Do NOT write "
+                 "exclusions into ITB-019 or RFP-030 -- both must coordinate with this scope, "
+                 "and an exclusion would read as no obligation to coordinate. Treat as "
+                 "flow-down: RFP-016 executes, the others coordinate."),
     "32 96 50": ("RFP-016", "pm_ruling", "PM ruling 07.31.26."),
 
     # Division 33 -- Utilities -> RFP-008
@@ -524,6 +529,40 @@ GAP_NOTES = {
 
 
 # ---------------------------------------------------------------------------
+# GLOBAL RULE, PM 08.06.26 (D). A specification section cited by an RFP or ITB
+# package that is NOT in the Project Manual cannot be cited in Attachment A at
+# all. The obligation still exists -- it is written into the scope verbiage by
+# TITLE instead. RFP-045's exhibit says "metal roof panels", never "07 41 13".
+#
+# This closes every remaining absent-section gap as a class rather than one at a
+# time, and it changes what a gap means: not work without an owner, but work
+# whose obligation is carried by scope language rather than by a citation. The
+# exhibit is written from the scope narrative, the drawings and the
+# subcontractor's proposal.
+GAP_RULE = {
+    "ruling_date": "2026-08-06",
+    "ruling": "If the specification sections cited in the RFP & ITB packages are not included "
+              "in the Project Manual, they cannot be cited in the Attachment A. Make sure the "
+              "scope of work includes the TITLE of those specifications.",
+    "example": "RFP-045's Attachment A includes metal roof panels in the scope verbiage, not "
+               "the section number 07 41 13.",
+    "drafting": "Write the exhibit from the scope narrative, the drawings and the "
+                "subcontractor's proposal.",
+}
+
+# Ownership the PM assigned for absent sections on 08.06.26. The section number is
+# still never cited; this records who carries the work.
+GAP_OWNERSHIP = {
+    "07 71 23": ("RFP-045", "RFP-045 owns the gutters and downspouts."),
+    "10 44 13": ("ITB-074", "ITB-074 owns the fire protection cabinets."),
+    "10 51 13": ("ITB-077", "Lockers per Clarification No. 1 -- ASI Storage Solutions, Pro "
+                            "Collection, Security Box and Foot Locker, 24\" W x 18\" D x 72\" "
+                            "enclosed height, black. No spec section was issued."),
+    "13 12 50": ("RFP-094", "The only specifications available are the written blocks on sheet "
+                            "A1-40 (PRE-MANUFACTURED ALUMINUM BLEACHERS / PRESS BOX SPECS)."),
+}
+
+# ---------------------------------------------------------------------------
 # PM rulings closing spec gaps (08.05.26). Each names the published section that
 # answers an absent citation, so the gap is recorded as CLOSED BY RULING rather
 # than silently disappearing from the register.
@@ -577,6 +616,23 @@ PM_SECTION_ADDITIONS = {
     "03 30 00": ["ITB-067"],
     "07 25 00": ["ITB-040"],
     "31 20 00": ["RFP-030"],
+    # 08.06.26 rulings. Each of these puts the SAME section in two subcontracts on
+    # purpose, with the split written into the scope language rather than by giving
+    # the section to one and excluding it from the other.
+    "02 41 00": ["RFP-002"],   # A4 — RFP-008 building + site demo, RFP-002 abatement demo
+    "12 93 00": ["ITB-019"],   # A2 — ITB-018 supplies, ITB-019 installs
+}
+
+# Sections one package executes and others must coordinate with. Distinct from a
+# gap and from a conflict: writing an exclusion here would read as "no obligation
+# to coordinate", which is the opposite of the intent.
+PM_COORDINATION = {
+    "32 91 13": {
+        "executes": "RFP-016",
+        "coordinates": ["ITB-019", "RFP-030"],
+        "ruling": "PM 08.06.26 (A5): RFP-016 carries it; do not exclude it in the others, "
+                  "they need to coordinate with that scope.",
+    },
 }
 
 
@@ -633,11 +689,14 @@ def main():
         pkg, basis, why = PRIMARY[s]
         others = sorted((explicit[s] | division[s]) - {pkg})
         added = PM_SECTION_ADDITIONS.get(s, [])
+        coord = PM_COORDINATION.get(s)
         rec.update({
             "primary_package": pkg,
             "basis": basis,
             "rationale": why,
             "also_assigned_by_pm_ruling": added,
+            "coordination_required_by": (coord["coordinates"] if coord else []),
+            "coordination_ruling": (coord["ruling"] if coord else None),
             "referencing_packages": sorted(set(others) - set(added)),
             "cited_explicitly_by": sorted(explicit[s]),
             "reached_by_division_citation_from": sorted(division[s]),
@@ -707,7 +766,8 @@ def main():
             "packages_with_no_primary_section": len(no_section),
             "cited_but_absent_from_manual": len(gaps),
             "gaps_closed_by_pm_ruling": len(GAP_RESOLUTIONS),
-            "gaps_still_open": len([g for g in gaps if g not in GAP_RESOLUTIONS]),
+            "gaps_closed_by_global_rule": len([g for g in gaps if g not in GAP_RESOLUTIONS]),
+            "gaps_still_open": 0,
         },
         "sections": sections,
         "sections_by_package": {k: sorted(v) for k, v in sorted(by_pkg.items())},
@@ -717,11 +777,25 @@ def main():
             s: {"title_per_scope_doc": gap_titles.get(s),
                 "cited_by": sorted(ps),
                 "candidate_sections_in_manual": near_matches(s, known),
-                "status": "CLOSED BY PM RULING" if s in GAP_RESOLUTIONS else "OPEN",
+                "status": ("CLOSED BY PM RULING" if s in GAP_RESOLUTIONS
+                           else "CLOSED BY GLOBAL RULE — cite by title, never by number"),
                 "pm_resolution": GAP_RESOLUTIONS.get(s),
+                # Where the PM named an owner, use it. Otherwise a section cited by
+                # exactly one package is that package's obligation -- it cited it.
+                "carried_by": (None if s in GAP_RESOLUTIONS else
+                               GAP_OWNERSHIP.get(s, (None, None))[0]
+                               or (sorted(ps)[0] if len(set(ps)) == 1 else None)),
+                "ownership_ruling": (GAP_OWNERSHIP.get(s, (None, None))[1]
+                                     if s not in GAP_RESOLUTIONS else None),
+                "how_to_write_it": (None if s in GAP_RESOLUTIONS else
+                                    f"Do NOT cite {s}. Put the words "
+                                    f"\"{gap_titles.get(s) or 'the specification title'}\" into "
+                                    f"the scope verbiage, and draft the obligation from the "
+                                    f"scope narrative, the drawings and the bidders' proposals."),
                 "note": GAP_NOTES.get(s, "No section with this number is in the manual.")}
             for s, ps in sorted(gaps.items())
         },
+        "absent_section_rule": GAP_RULE,
         "number_corrections": NUMBER_CORRECTIONS,
     }
     (INDEX / "spec-section-catalog.json").write_text(json.dumps(cat, indent=2) + "\n")

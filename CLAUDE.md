@@ -251,6 +251,25 @@ entire demolition scope is RFP-008.
 | 08.05.26 | **ITB-067 references 03 30 00 Cast-In-Place Concrete, not 03 35 00** (absent from the manual) |
 | 08.05.26 | **ITB-040 uses 07 25 00 Weather Barriers** in place of the absent 07 13 00 Sheet Waterproofing |
 | 08.05.26 | **Aggregate base courses are covered in 31 20 00 Earth Moving** — closes the absent 32 11 23 |
+| 08.06.26 | **A1** — 09 65 13 Resilient Base included in ITB-067 |
+| 08.06.26 | **A2/C1** — 12 93 00 Site Furnishings: ITB-018 SUPPLIES, ITB-019 INSTALLS. Spec in both subcontracts; ITB-019's is installation only |
+| 08.06.26 | **A3** — 10 26 00 Wall & Door Protection included in ITB-074 |
+| 08.06.26 | **A4** — 02 41 00 Demolition spec in BOTH RFP-002 and RFP-008. RFP-002 is abatement, which has demo in it; RFP-008 has the full building demo and site demo |
+| 08.06.26 | **A5** — 32 91 13 is RFP-016. **Do NOT exclude it in ITB-019 or RFP-030** — they must coordinate with that scope |
+| 08.06.26 | **A6** — 32 16 23 Sidewalks are RFP-030 |
+| 08.06.26 | **A7** — Test & Balance is included in RFP-100, not subcontracted directly |
+| 08.06.26 | **A8** — Access doors confirmed: MEP supply, RFP-060 installs |
+| 08.06.26 | **B1** — The GMP governs over RFI #23; RFP-045 is the Berridge C-Lock system |
+| 08.06.26 | **B2** — Panic hardware at Door 106 is **excluded**; it was a bid alternate the Owner did not accept |
+| 08.06.26 | **C1** — ITB-077 lockers per Clarification No. 1 (ASI Pro Collection, Security Box & Foot Locker, 24"W x 18"D x 72"H, black). No spec section was issued |
+| 08.06.26 | **D — GLOBAL RULE.** A spec section cited by an RFP/ITB package that is NOT in the Project Manual **cannot be cited in Attachment A**. Put the specification's **TITLE** into the scope verbiage instead (RFP-045 says "metal roof panels", not "07 41 13"). Draft those obligations from the scope narrative, the drawings and the subcontractor's proposal |
+| 08.06.26 | **D** — RFP-045 owns the gutters and downspouts |
+| 08.06.26 | **D** — ITB-074 owns the fire protection cabinets |
+| 08.06.26 | **D** — RFP-094's only specifications are the written blocks on sheet A1-40 |
+| 08.06.26 | **D** — **RFP-060 will include ITB-044, ITB-062 and ITB-077** (see open question below) |
+| 08.06.26 | **E1** — Final Cleaning is its own package (**ITB-070**). No scope narrative was issued; draft from the four proposals and documents on hand |
+| 08.06.26 | **E2** — ITB-066 Fluid-Applied Flooring: **scope removed by the Owner in a value engineering exercise** |
+| 08.06.26 | **F1/F2/F3** — RFP-008 tab reversal, 07 25 00 shared RFP-045/ITB-040, and no firestopping obligation: all confirmed |
 | 08.05.26 | **07 84 00 Firestopping needs no action — there are no fire-rated assemblies on this project** (all three partition types rate 0; LS1-10 shows 0 HR throughout) |
 
 ### `package-index.json` summary — ⚠️ SUPERSEDED, describes the rejected index

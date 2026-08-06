@@ -43,12 +43,16 @@ NUM_TO_PACKAGE = {
     # Sealed concrete carries no bid-package number of its own. PM ruling 08.04.26
     # moved the Resinous/Epoxy locations to Sealed Concrete under ITB-067.
     "065": "ITB-067",
+    # PM ruling 08.06.26 (E1): final cleaning is its own package. Four proposals
+    # were received under trade 070 with no scope narrative ever issued, so its
+    # Attachment A is drafted from the proposals and the documents on hand.
+    "070": "ITB-070",
 }
 
 # Trade numbers that appear on proposals but match no bid package. These are real
 # bid scope with nowhere to land, not filing errors — they need a PM decision on
 # which subcontract carries them.
-UNASSIGNED_TRADES = {"070": "Final Cleaning"}
+UNASSIGNED_TRADES = {}
 
 # Section headings a subcontractor's proposal uses for scope language.
 SECTION_HEADS = [

@@ -3,10 +3,10 @@
   "_supersedes": "package-index.json rejected by PM 07.31.26, preserved as package-index.REJECTED-2026-07-31.json. Also supersedes package-index-v2.json, which predates all extraction work.",
   "_structure": "MANIFEST ONLY. Each package's drafting record is a separate file under 01-index/packages/. A drafter reads its own package's file and no other -- cross-contamination between packages is how scope migrates from one subcontract into another.",
   "_totals": {
-    "packages": 33,
-    "spec_sections_assigned": 109,
+    "packages": 34,
+    "spec_sections_assigned": 111,
     "sheets_draft_from": 483,
-    "bidders": 131,
+    "bidders": 134,
     "packages_awarded": 14,
     "open_pm_items_attached": 79
   },
@@ -39,7 +39,7 @@
       "file": "01-index/packages/ITB-019.json",
       "awarded_sub": null,
       "status": "not-yet-awarded",
-      "spec_sections": 0,
+      "spec_sections": 1,
       "sheets_draft_from": 16,
       "bidders": 7,
       "open_pm_items": 6
@@ -120,6 +120,17 @@
       "sheets_draft_from": 12,
       "bidders": 4,
       "open_pm_items": 4
+    },
+    "ITB-070": {
+      "title": "Final Cleaning",
+      "list": "Non-1% (ITB)",
+      "file": "01-index/packages/ITB-070.json",
+      "awarded_sub": null,
+      "status": "not-yet-awarded",
+      "spec_sections": 0,
+      "sheets_draft_from": 0,
+      "bidders": 3,
+      "open_pm_items": 0
     },
     "ITB-071": {
       "title": "Visual Display Boards & Menu Display Case",
@@ -204,7 +215,7 @@
       "file": "01-index/packages/RFP-002.json",
       "awarded_sub": "Northstar Contracting Group",
       "status": "awarded",
-      "spec_sections": 0,
+      "spec_sections": 1,
       "sheets_draft_from": 13,
       "bidders": 6,
       "open_pm_items": 5

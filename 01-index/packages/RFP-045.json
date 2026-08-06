@@ -16,6 +16,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -42,7 +43,7 @@
         "section": "07 62 00",
         "title": "Sheet Metal Flashing and Trim",
         "basis": "scope_doc",
-        "rationale": "Cited solely by RFP-045.",
+        "rationale": "Cited solely by RFP-045. PM ruling 08.06.26 (D): RFP-045 owns the gutters and downspouts -- the cited 07 71 23 is absent from the manual, so the obligation is written into the scope by title, not by section number.",
         "manual_pages": "194-195",
         "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
         "conflict": false,
@@ -61,13 +62,13 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "07 41 13": {
         "title_per_scope_doc": "Metal Roof Panels",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Metal Roof Panels -- RFP-045's own primary section, and it is not in the manual. 07 61 00 Sheet Metal Roofing is the nearest published substitute and is assigned to RFP-045, but it is a different section, not a renumbering. Confirm which governs the panel system before issuing.",
         "candidates": []
       },
       "07 71 23": {
         "title_per_scope_doc": "Manufactured Gutters and Downspouts",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Manufactured Gutters and Downspouts. Absent. 07 62 00 Sheet Metal Flashing and Trim is assigned to RFP-045 and is the nearest published coverage; confirm it carries the gutters, or the roof drainage has no specification.",
         "candidates": []
       }

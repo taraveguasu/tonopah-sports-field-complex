@@ -6,14 +6,15 @@
     "sections_in_manual": 131,
     "technical_sections": 106,
     "assigned_by_scope_doc": 30,
-    "assigned_by_pm_ruling": 5,
-    "assigned_by_trade_judgment": 71,
+    "assigned_by_pm_ruling": 6,
+    "assigned_by_trade_judgment": 70,
     "conflicts": 5,
     "flow_down_sections": 3,
-    "packages_with_no_primary_section": 6,
+    "packages_with_no_primary_section": 4,
     "cited_but_absent_from_manual": 19,
     "gaps_closed_by_pm_ruling": 4,
-    "gaps_still_open": 15
+    "gaps_closed_by_global_rule": 15,
+    "gaps_still_open": 0
   },
   "sections": [
     {
@@ -330,11 +331,13 @@
       "bookmark_raw": "024100 - Demolition",
       "primary_package": "RFP-008",
       "basis": "pm_ruling",
-      "rationale": "PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below.",
-      "also_assigned_by_pm_ruling": [],
-      "referencing_packages": [
+      "rationale": "PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what each demolishes. RFP-008 carries the full building demolition and the site demolition; RFP-002 is abatement, which has demolition inside it. This refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was about the site and building work, not about abatement's own demolition.",
+      "also_assigned_by_pm_ruling": [
         "RFP-002"
       ],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
+      "referencing_packages": [],
       "cited_explicitly_by": [
         "RFP-002"
       ],
@@ -355,6 +358,8 @@
       "basis": "trade_judgment",
       "rationale": "Formwork is the concrete package's means and methods.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-031",
@@ -380,6 +385,8 @@
       "basis": "trade_judgment",
       "rationale": "Reinforcement is placed by the concrete package.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-031",
@@ -407,6 +414,8 @@
       "also_assigned_by_pm_ruling": [
         "ITB-067"
       ],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-018",
         "ITB-019",
@@ -468,6 +477,8 @@
       "basis": "trade_judgment",
       "rationale": "Mortar and grout are the mason's. RFP-031's scope doc cites no section at all and reaches Division 04 only at division level -- this is exactly the gap the PM flagged: the mason must have the masonry specification in his subcontract.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-030",
         "RFP-033"
@@ -491,6 +502,8 @@
       "basis": "trade_judgment",
       "rationale": "Reinforced unit masonry is the mason's primary section. Same gap as 04 05 03. Note this section cross-references 07 19 00 Water Repellents twice; 07 19 00 does not exist in this manual, while 09 96 50 requires a water repellent as a precondition -- open item, see the CMU water-repellent finding.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-030",
         "RFP-033"
@@ -514,6 +527,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-033.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -536,6 +551,8 @@
       "basis": "trade_judgment",
       "rationale": "Steel joists are erected by the structural steel package.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -556,6 +573,8 @@
       "basis": "trade_judgment",
       "rationale": "Steel deck follows the joists, same erector.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -576,6 +595,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-060 -- cold-formed framing is the framer's.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -598,6 +619,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-033; ornamental metals are in its title.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -620,6 +643,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-060, whose title carries FRP.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "RFP-060"
@@ -638,6 +663,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-044.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -662,6 +689,8 @@
       "also_assigned_by_pm_ruling": [
         "ITB-040"
       ],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -684,6 +713,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-030 -- the under-slab vapour retarder is placed with the slab.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -706,6 +737,8 @@
       "basis": "trade_judgment",
       "rationale": "Sheet metal roofing is the metal roofing package.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -724,8 +757,10 @@
       "bookmark_raw": "076200 - Sheet Metal Flashing and Trim",
       "primary_package": "RFP-045",
       "basis": "scope_doc",
-      "rationale": "Cited solely by RFP-045.",
+      "rationale": "Cited solely by RFP-045. PM ruling 08.06.26 (D): RFP-045 owns the gutters and downspouts -- the cited 07 71 23 is absent from the manual, so the obligation is written into the scope by title, not by section number.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -748,6 +783,8 @@
       "basis": "scope_doc",
       "rationale": "ITB-040 is the sealants package by title. Thirteen packages cite this section because each seals its own penetrations and joints; those are compliance references, not claims. Flow the section down to all of them, but ITB-040 carries the building's joint sealants.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-054",
         "ITB-062",
@@ -809,6 +846,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-056.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -831,6 +870,8 @@
       "basis": "pm_ruling",
       "rationale": "PM ruling 07.31.26: access doors and panels are supplied by the MEP trades and installed by the RFP-060 framer. RFP-098, RFP-100 and RFP-103 each cite this section -- that is the supply obligation, and each of their subcontracts must carry it. Installation sits with RFP-060, whose scope doc cites the same work as '08 31 13 - Access Doors and Panels'; the manual publishes it as 08 31 00.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031",
         "RFP-098",
@@ -864,6 +905,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-054.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -886,6 +929,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-054.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-031"
       ],
@@ -908,6 +953,8 @@
       "basis": "trade_judgment",
       "rationale": "Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-071",
         "ITB-072",
@@ -937,6 +984,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-062.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-071",
         "ITB-072",
@@ -965,6 +1014,8 @@
       "basis": "trade_judgment",
       "rationale": "Resilient base has no explicit claimant. ITB-066 would be the natural home, but PM ruling 08.04.26 leaves ITB-066 with no remaining scope, and SI Legacy priced 'Furnish & Install 4\" Rubber Wall Base At RB-1 Areas' inside their 066/067 bundle. Assigned to ITB-067 -- CONFIRM, since ITB-067 is a concrete-finishing package and rubber base is not concrete work.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-071",
         "ITB-072",
@@ -991,6 +1042,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-060.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-071",
         "ITB-072",
@@ -1017,6 +1070,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-060.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-071",
         "ITB-072",
@@ -1043,6 +1098,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-060. Its Part 3 requires a water repellent to be applied first; the referenced 07 19 00 is absent from this manual -- open item.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-071",
         "ITB-072",
@@ -1069,6 +1126,8 @@
       "basis": "trade_judgment",
       "rationale": "Concrete and masonry coatings are applied by the painter.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-071",
         "ITB-072",
@@ -1094,6 +1153,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-071.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "ITB-071"
@@ -1112,6 +1173,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-072.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "ITB-072"
@@ -1130,6 +1193,8 @@
       "basis": "scope_doc",
       "rationale": "ITB-074's scope doc cites '10 21 00 - Toilet Compartments', the parent number of this section; the manual publishes it as 10 21 13.13 Metal Toilet Compartments. Cite the published number in Attachment A. Henri's quote prices 'TOILET PARTITIONS -- Scranton Products, 9 stalls, 2 screens -- furnished and installed -- $28,982'.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [],
       "reached_by_division_citation_from": []
@@ -1144,8 +1209,10 @@
       "bookmark_raw": "102600 - Wall and Door Protection",
       "primary_package": "ITB-074",
       "basis": "trade_judgment",
-      "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded.",
+      "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-060"
       ],
@@ -1168,6 +1235,8 @@
       "basis": "scope_doc",
       "rationale": "Cited by ITB-074; Henri prices toilet accessories at $12,021, some OFCI.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "ITB-074"
@@ -1186,6 +1255,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-078.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "ITB-078"
@@ -1204,6 +1275,8 @@
       "basis": "trade_judgment",
       "rationale": "ORPHAN -- no scope doc cites it. Residential appliances belong to the warming kitchen package, which is the only package with kitchen equipment scope.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [],
       "reached_by_division_citation_from": []
@@ -1220,6 +1293,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-085.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "ITB-085"
@@ -1238,6 +1313,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by ITB-089. Note ITB-019's scope doc cites 11 68 33, which does not exist in this manual -- likely a typo for this section, but not assumed.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "ITB-089"
@@ -1253,12 +1330,14 @@
       "pages": 3,
       "bookmark_raw": "129300 - Site Furnishings",
       "primary_package": "ITB-018",
-      "basis": "trade_judgment",
-      "rationale": "SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues.",
-      "also_assigned_by_pm_ruling": [],
-      "referencing_packages": [
+      "basis": "pm_ruling",
+      "rationale": "PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section goes in both subcontracts -- not split by paragraph. ITB-019's obligation is installation only, so its Attachment A must say so explicitly or it reads as carrying supply too.",
+      "also_assigned_by_pm_ruling": [
         "ITB-019"
       ],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
+      "referencing_packages": [],
       "cited_explicitly_by": [
         "ITB-018",
         "ITB-019"
@@ -1278,6 +1357,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-094. This is a generic fabricated-structures section standing in for the bleacher-specific section the scope doc cites (13 12 50), which does not exist in this manual. Applies to the press box; the bleachers themselves rely on the written spec block on sheet A1-40.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [
         "RFP-094"
@@ -1296,6 +1377,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1319,6 +1402,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1342,6 +1427,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1365,6 +1452,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1388,6 +1477,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1411,6 +1502,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1434,6 +1527,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1457,6 +1552,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1480,6 +1577,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1503,6 +1602,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1526,6 +1627,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1549,6 +1652,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1572,6 +1677,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1595,6 +1702,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1618,6 +1727,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1641,6 +1752,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1662,8 +1775,10 @@
       "bookmark_raw": "230593 - Testing,AdjustingandBalancingfor HVAC (Page 1of13)",
       "primary_package": "RFP-100",
       "basis": "trade_judgment",
-      "rationale": "Testing, adjusting and balancing. RFP-100's own title carries Test & Balance, so it stays in this subcontract rather than going to a separate TAB agency -- note four separate TAB proposals were solicited under trade 102 and tabulated into RFP-100, so confirm whether TAB is subcontracted directly or held here.",
+      "rationale": "Testing, adjusting and balancing. RFP-100's own title carries Test & Balance, so it stays in this subcontract rather than going to a separate TAB agency -- CONFIRMED by PM 08.06.26 (A7): TAB is included in RFP-100, not subcontracted directly. Four TAB proposals were solicited under trade 102 and tabulated into RFP-100.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1687,6 +1802,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1710,6 +1827,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1733,6 +1852,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1756,6 +1877,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1779,6 +1902,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1802,6 +1927,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1825,6 +1952,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1848,6 +1977,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1871,6 +2002,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1894,6 +2027,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-103"
@@ -1917,6 +2052,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -1940,6 +2077,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -1963,6 +2102,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -1986,6 +2127,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2009,6 +2152,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2032,6 +2177,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2055,6 +2202,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2078,6 +2227,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2101,6 +2252,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2124,6 +2277,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2147,6 +2302,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2170,6 +2327,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2193,6 +2352,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2216,6 +2377,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2239,6 +2402,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2262,6 +2427,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2285,6 +2452,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2308,6 +2477,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2331,6 +2502,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2354,6 +2527,8 @@
       "basis": "trade_judgment",
       "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2377,6 +2552,8 @@
       "basis": "trade_judgment",
       "rationale": "Exterior lighting, which on this project includes the Musco sports field lighting named in RFP-103's title. Musco's footing information is filed with the proposals; the footings themselves are RFP-030 per the 07.31.26 ruling.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-085",
         "RFP-100"
@@ -2400,6 +2577,8 @@
       "basis": "trade_judgment",
       "rationale": "Low voltage is in RFP-103's title. RFP-100 also mentions Division 27, for its control wiring. NOTE: fire alarm is an express GMP Exclusion per Exhibit B (08.04.26) -- no fire alarm scope flows down with this section.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-100"
       ],
@@ -2421,6 +2600,8 @@
       "basis": "trade_judgment",
       "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-018",
         "ITB-019",
@@ -2466,6 +2647,8 @@
       "also_assigned_by_pm_ruling": [
         "RFP-030"
       ],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-018",
         "ITB-019",
@@ -2508,6 +2691,8 @@
       "basis": "trade_judgment",
       "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "ITB-018",
         "ITB-019",
@@ -2551,6 +2736,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-008.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-016"
       ],
@@ -2573,6 +2760,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-030. TAB's homework response deducts Type II from the concrete paving, confirming RFP-008 carries the subgrade and RFP-030 the slab.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-016"
@@ -2597,6 +2786,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-030.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-016"
@@ -2619,8 +2810,10 @@
       "bookmark_raw": "321623 - Sidewalks",
       "primary_package": "RFP-030",
       "basis": "trade_judgment",
-      "rationale": "Sidewalks are flatwork. RFP-008 and RFP-016 reach it only through a division-level mention of Division 32.",
+      "rationale": "Sidewalks are flatwork. CONFIRMED by PM 08.06.26 (A6): RFP-030.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-016"
@@ -2643,6 +2836,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-022.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-016"
@@ -2667,6 +2862,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-021.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-016"
@@ -2691,6 +2888,8 @@
       "basis": "scope_doc",
       "rationale": "Cited solely by RFP-023.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008",
         "RFP-016"
@@ -2715,6 +2914,8 @@
       "basis": "pm_ruling",
       "rationale": "PM ruling 07.31.26: RFP-016's primary specs are 32 84 00, 32 91 13, 32 96 50.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008"
       ],
@@ -2734,8 +2935,13 @@
       "bookmark_raw": "32 91 13 - Shot Put and Discus Mix",
       "primary_package": "RFP-016",
       "basis": "pm_ruling",
-      "rationale": "PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping.",
+      "rationale": "PM ruling 07.31.26, refined 08.06.26 (A5): RFP-016 carries it. Do NOT write exclusions into ITB-019 or RFP-030 -- both must coordinate with this scope, and an exclusion would read as no obligation to coordinate. Treat as flow-down: RFP-016 executes, the others coordinate.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [
+        "ITB-019",
+        "RFP-030"
+      ],
+      "coordination_ruling": "PM 08.06.26 (A5): RFP-016 carries it; do not exclude it in the others, they need to coordinate with that scope.",
       "referencing_packages": [
         "ITB-019",
         "RFP-008"
@@ -2761,6 +2967,8 @@
       "basis": "pm_ruling",
       "rationale": "PM ruling 07.31.26.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [
         "RFP-008"
       ],
@@ -2782,6 +2990,8 @@
       "basis": "trade_judgment",
       "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [],
       "reached_by_division_citation_from": [
@@ -2800,6 +3010,8 @@
       "basis": "trade_judgment",
       "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [],
       "reached_by_division_citation_from": [
@@ -2818,6 +3030,8 @@
       "basis": "trade_judgment",
       "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [],
       "reached_by_division_citation_from": [
@@ -2836,6 +3050,8 @@
       "basis": "trade_judgment",
       "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
       "also_assigned_by_pm_ruling": [],
+      "coordination_required_by": [],
+      "coordination_ruling": null,
       "referencing_packages": [],
       "cited_explicitly_by": [],
       "reached_by_division_citation_from": [
@@ -2845,6 +3061,9 @@
   ],
   "sections_by_package": {
     "ITB-018": [
+      "12 93 00"
+    ],
+    "ITB-019": [
       "12 93 00"
     ],
     "ITB-040": [
@@ -2888,6 +3107,9 @@
     ],
     "ITB-089": [
       "11 68 43"
+    ],
+    "RFP-002": [
+      "02 41 00"
     ],
     "RFP-008": [
       "02 41 00",
@@ -3017,7 +3239,7 @@
       "also_cited_by": [
         "RFP-002"
       ],
-      "rationale": "PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below."
+      "rationale": "PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what each demolishes. RFP-008 carries the full building demolition and the site demolition; RFP-002 is abatement, which has demolition inside it. This refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was about the site and building work, not about abatement's own demolition."
     },
     {
       "section": "09 21 16",
@@ -3037,17 +3259,17 @@
       "also_cited_by": [
         "RFP-060"
       ],
-      "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded."
+      "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074."
     },
     {
       "section": "12 93 00",
       "title": "Site Furnishings",
       "assigned_to": "ITB-018",
-      "basis": "trade_judgment",
+      "basis": "pm_ruling",
       "also_cited_by": [
         "ITB-019"
       ],
-      "rationale": "SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues."
+      "rationale": "PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section goes in both subcontracts -- not split by paragraph. ITB-019's obligation is installation only, so its Attachment A must say so explicitly or it reads as carrying supply too."
     },
     {
       "section": "32 91 13",
@@ -3057,19 +3279,13 @@
       "also_cited_by": [
         "ITB-019"
       ],
-      "rationale": "PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping."
+      "rationale": "PM ruling 07.31.26, refined 08.06.26 (A5): RFP-016 carries it. Do NOT write exclusions into ITB-019 or RFP-030 -- both must coordinate with this scope, and an exclusion would read as no obligation to coordinate. Treat as flow-down: RFP-016 executes, the others coordinate."
     }
   ],
   "packages_with_no_primary_section": {
     "ITB-008": {
       "cited_sections_absent_from_manual": [],
       "reason": "Surveying, Layout & Staking. No CSI section for surveying exists in this manual and the scope doc cites none. Requirements come from the scope narrative and Division 01 alone -- confirm that is acceptable before issuing."
-    },
-    "ITB-019": {
-      "cited_sections_absent_from_manual": [
-        "11 68 33"
-      ],
-      "reason": "Track & Field Athletic Equipment. Its work lives inside 12 93 00 Site Furnishings, whose own Section Includes spans both this package and ITB-018; primary is shown as ITB-018 pending a PM ruling on the split. Its cited 11 68 33 Athletic Field Equipment is absent (see candidates)."
     },
     "ITB-066": {
       "cited_sections_absent_from_manual": [],
@@ -3080,12 +3296,6 @@
         "10 51 13"
       ],
       "reason": "Lockers. Cited 10 51 13 Metal Lockers is absent from the manual. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24\"W x 18\"D x 72\"H) per PM ruling 07.31.26, reinforced by the keynote on sheet A10-30."
-    },
-    "RFP-002": {
-      "cited_sections_absent_from_manual": [
-        "02 81 00"
-      ],
-      "reason": "Abatement & Building Wrecking. 02 41 00 Demolition went to RFP-008 by PM ruling 07.31.26, and the cited 02 81 00 Transportation and Disposal of Misc. Hazardous Materials is absent. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are not part of the spec manual."
     },
     "RFP-109": {
       "cited_sections_absent_from_manual": [],
@@ -3101,8 +3311,11 @@
       "candidate_sections_in_manual": [
         "02 41 00"
       ],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-008",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 02 41 13. Put the words \"Selective Site Demolition\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation."
     },
     "02 81 00": {
@@ -3111,8 +3324,11 @@
         "RFP-002"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-002",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 02 81 00. Put the words \"Transportation and Disposal of Misc. Hazardous Materials\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A."
     },
     "03 35 00": {
@@ -3131,6 +3347,9 @@
         "ruling": "ITB-067 references 03 30 00 Cast-In-Place Concrete, not 03 35 00.",
         "effect": "ITB-067's concrete-finishing and sealed-concrete work is governed by 03 30 00, whose Part 3 carries the finishing requirements. RFP-030 remains the primary for placing the concrete; ITB-067 finishes and seals it."
       },
+      "carried_by": null,
+      "ownership_ruling": null,
+      "how_to_write_it": null,
       "note": "Concrete Finishing -- ITB-067's own title section, absent from the manual. CLOSED BY PM RULING 08.05.26: ITB-067 references 03 30 00 Cast-In-Place Concrete instead, whose Part 3 carries the finishing requirements."
     },
     "05 31 12": {
@@ -3141,8 +3360,11 @@
       "candidate_sections_in_manual": [
         "05 31 00"
       ],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-033",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 05 31 12. Put the words \"Steel Roof Decking\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Steel Roof Decking. 05 31 00 Steel Deck is the published section, assigned to RFP-033. Near-certain renumbering, still confirm."
     },
     "07 13 00": {
@@ -3161,6 +3383,9 @@
         "ruling": "Use 07 25 00 Weather Barriers for package 040.",
         "effect": "ITB-040 no longer holds only a joint-sealants section. 07 25 00 is shared with RFP-045 under the 07.31.26 boundary: RFP-045 carries the self-adhered membrane under the metal roof, ITB-040 carries below-grade waterproofing. RFP-045 stays primary because its scope doc cites the section; ITB-040 is added alongside. CONFIRM if the intent was to move it instead of share it."
       },
+      "carried_by": null,
+      "ownership_ruling": null,
+      "how_to_write_it": null,
       "note": "Sheet Waterproofing -- absent. CLOSED BY PM RULING 08.05.26: ITB-040 uses 07 25 00 Weather Barriers. The package no longer holds only a joint-sealants section; 07 25 00 is shared with RFP-045 along the 07.31.26 boundary."
     },
     "07 41 13": {
@@ -3169,8 +3394,11 @@
         "RFP-045"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-045",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 07 41 13. Put the words \"Metal Roof Panels\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Metal Roof Panels -- RFP-045's own primary section, and it is not in the manual. 07 61 00 Sheet Metal Roofing is the nearest published substitute and is assigned to RFP-045, but it is a different section, not a renumbering. Confirm which governs the panel system before issuing."
     },
     "07 71 23": {
@@ -3179,8 +3407,11 @@
         "RFP-045"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-045",
+      "ownership_ruling": "RFP-045 owns the gutters and downspouts.",
+      "how_to_write_it": "Do NOT cite 07 71 23. Put the words \"Manufactured Gutters and Downspouts\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Manufactured Gutters and Downspouts. Absent. 07 62 00 Sheet Metal Flashing and Trim is assigned to RFP-045 and is the nearest published coverage; confirm it carries the gutters, or the roof drainage has no specification."
     },
     "07 84 00": {
@@ -3199,6 +3430,9 @@
         "ruling": "No action required -- there are no fire-rated assemblies on this project.",
         "effect": "DOWNGRADED from REAL GAP. Verified against four sources: partition schedule A2-40 publishes only 3F0, 5F0 and 3B0, whose third character is the rating code and is 0 (NO RATING) in all three, with UL LISTING '(none)'; LS1-10 at Addendum #1 revision shows 0 HR for every IBC 601 element and 0 HR exterior walls at >30 ft fire separation distance on all four sides, with opening protection NOT REQUIRED and area separation 0 HR; the superseded base-bid LS1-10 carries the same 0 HR values, so the addendum did not change them; and no door in A11-10's 22-row schedule carries a rating, with no UL design number anywhere in the 91-sheet set. IBC 714 penetration firestopping applies only to rated assemblies, so the missing section is a documentation gap, not a construction risk. The FRP panels' 'CLASS A/C FIRE-RATED' in the finish schedule is ASTM E84 surface burning, not an assembly rating."
       },
+      "carried_by": null,
+      "ownership_ruling": null,
+      "how_to_write_it": null,
       "note": "Firestopping. Absent from the manual, cited by RFP-103. CLOSED BY PM RULING 08.05.26 -- there are no fire-rated assemblies on this project, so IBC 714 penetration firestopping has nothing to apply to. See pm_resolution for the four sources checked. Documentation gap, not a construction risk."
     },
     "08 31 13": {
@@ -3209,8 +3443,11 @@
       "candidate_sections_in_manual": [
         "08 31 00"
       ],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-060",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 08 31 13. Put the words \"Access Doors and Panels\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Access Doors and Panels. 08 31 00 is the published number for the same title. Near-certain renumbering."
     },
     "08 71 00": {
@@ -3220,8 +3457,11 @@
         "RFP-103"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": null,
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 08 71 00. Put the words \"Door Hardware\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware)."
     },
     "09 82 00": {
@@ -3230,8 +3470,11 @@
         "ITB-044"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "ITB-044",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 09 82 00. Put the words \"Acoustical Insulation\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Acoustical Insulation. Absent. The manual publishes only 07 21 00 Thermal Insulation, which is assigned to ITB-044. Acoustic batt in partitions has no specification -- confirm whether ITB-044 or RFP-060 carries it."
     },
     "10 21 00": {
@@ -3242,8 +3485,11 @@
       "candidate_sections_in_manual": [
         "10 21 13.13"
       ],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "ITB-074",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 10 21 00. Put the words \"Toilet Compartments\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet Compartments, a child of the cited number. Cite the published number."
     },
     "10 44 13": {
@@ -3252,8 +3498,11 @@
         "ITB-074"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "ITB-074",
+      "ownership_ruling": "ITB-074 owns the fire protection cabinets.",
+      "how_to_write_it": "Do NOT cite 10 44 13. Put the words \"Fire Protection Cabinets\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Fire Protection Cabinets. Absent, though ITB-074's title carries fire protection specialties and Henri's quote prices 'FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES -- furnished and installed -- $6,313'. The bidders priced work that has no spec section."
     },
     "10 51 13": {
@@ -3262,8 +3511,11 @@
         "ITB-077"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "ITB-077",
+      "ownership_ruling": "Lockers per Clarification No. 1 -- ASI Storage Solutions, Pro Collection, Security Box and Foot Locker, 24\" W x 18\" D x 72\" enclosed height, black. No spec section was issued.",
+      "how_to_write_it": "Do NOT cite 10 51 13. Put the words \"Metal Lockers\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Metal Lockers. Absent. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24 in. W x 18 in. D x 72 in. H) per PM ruling 07.31.26, reinforced by the keynote on revised sheet A10-30. Note Henri also prices metal lockers inside ITB-074 at $22,519 -- decide which subcontract carries them."
     },
     "11 68 33": {
@@ -3274,8 +3526,11 @@
       "candidate_sections_in_manual": [
         "11 68 43"
       ],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "ITB-019",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 11 68 33. Put the words \"Athletic Field Equipment\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Athletic Field Equipment. Numerically near 11 68 43 Football/TrackScoreboard, but that section is the scoreboard, which is ITB-089's -- the candidate is a number match, not a scope match. Treat the athletic-equipment spec as MISSING; ITB-019's requirements rest on 12 93 00 and the drawings."
     },
     "13 12 50": {
@@ -3284,8 +3539,11 @@
         "RFP-094"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-094",
+      "ownership_ruling": "The only specifications available are the written blocks on sheet A1-40 (PRE-MANUFACTURED ALUMINUM BLEACHERS / PRESS BOX SPECS).",
+      "how_to_write_it": "Do NOT cite 13 12 50. Put the words \"Permanent Outdoor Bleacher\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Permanent Outdoor Bleacher. No bleacher section exists. Sheet A1-40 carries a written 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS' block that must be quoted into Attachment A in its place. 13 34 23 Fabricated Shade Structures covers the press box only."
     },
     "31 00 00": {
@@ -3294,8 +3552,11 @@
         "RFP-100"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": "RFP-100",
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 31 00 00. Put the words \"Earthwork\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Earthwork. A division rollup number rather than a section; Division 31 does exist in this manual with three sections, all assigned to RFP-008. Not a gap."
     },
     "32 11 23": {
@@ -3315,6 +3576,9 @@
         "ruling": "Aggregate base courses are covered in Section 31 20 00 Earth Moving.",
         "effect": "Closes the base-course gap that TAB's three Type II deducts price against. 31 20 00 is RFP-008's section, consistent with TAB carrying the Type II under the turf field, building pad and concrete paving. RFP-030 references it for the base under its flatwork."
       },
+      "carried_by": null,
+      "ownership_ruling": null,
+      "how_to_write_it": null,
       "note": "Aggregate Base Courses. Absent. CLOSED BY PM RULING 08.05.26: aggregate base courses are covered in 31 20 00 Earth Moving, which is RFP-008's section -- consistent with TAB pricing the Type II deducts under the turf field, building pad and concrete paving. RFP-030 references it for base under its flatwork."
     },
     "32 19 19": {
@@ -3324,10 +3588,19 @@
         "RFP-022"
       ],
       "candidate_sections_in_manual": [],
-      "status": "OPEN",
+      "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
       "pm_resolution": null,
+      "carried_by": null,
+      "ownership_ruling": null,
+      "how_to_write_it": "Do NOT cite 32 19 19. Put the words \"Landscape Grading\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
       "note": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving is assigned to RFP-008 and is the nearest coverage."
     }
+  },
+  "absent_section_rule": {
+    "ruling_date": "2026-08-06",
+    "ruling": "If the specification sections cited in the RFP & ITB packages are not included in the Project Manual, they cannot be cited in the Attachment A. Make sure the scope of work includes the TITLE of those specifications.",
+    "example": "RFP-045's Attachment A includes metal roof panels in the scope verbiage, not the section number 07 41 13.",
+    "drafting": "Write the exhibit from the scope narrative, the drawings and the subcontractor's proposal."
   },
   "number_corrections": {
     "04 43 36C": {

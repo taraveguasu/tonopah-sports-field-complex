@@ -16,6 +16,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 077 Lockers.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [],
@@ -30,7 +31,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "10 51 13": {
         "title_per_scope_doc": "Metal Lockers",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Metal Lockers. Absent. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24 in. W x 18 in. D x 72 in. H) per PM ruling 07.31.26, reinforced by the keynote on revised sheet A10-30. Note Henri also prices metal lockers inside ITB-074 at $22,519 -- decide which subcontract carries them.",
         "candidates": []
       }

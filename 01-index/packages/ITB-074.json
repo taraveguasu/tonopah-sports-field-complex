@@ -18,6 +18,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 074 Building & Fire Protection Specialties.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -34,7 +35,7 @@
         "section": "10 26 00",
         "title": "Wall and Door Protection",
         "basis": "trade_judgment",
-        "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded.",
+        "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074.",
         "manual_pages": "254-255",
         "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-10-specialties.pdf",
         "conflict": true,
@@ -58,7 +59,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "10 21 00": {
         "title_per_scope_doc": "Toilet Compartments",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet Compartments, a child of the cited number. Cite the published number.",
         "candidates": [
           "10 21 13.13"
@@ -66,7 +67,7 @@
       },
       "10 44 13": {
         "title_per_scope_doc": "Fire Protection Cabinets",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Fire Protection Cabinets. Absent, though ITB-074's title carries fire protection specialties and Henri's quote prices 'FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES -- furnished and installed -- $6,313'. The bidders priced work that has no spec section.",
         "candidates": []
       }

@@ -18,6 +18,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 094 Bleachers & Press Box.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -43,7 +44,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "13 12 50": {
         "title_per_scope_doc": "Permanent Outdoor Bleacher",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Permanent Outdoor Bleacher. No bleacher section exists. Sheet A1-40 carries a written 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS' block that must be quoted into Attachment A in its place. 13 34 23 Fabricated Shade Structures covers the press box only.",
         "candidates": []
       }

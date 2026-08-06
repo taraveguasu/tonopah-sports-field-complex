@@ -28,7 +28,7 @@ the point (see `.claude/skills/attachment-a-generator/SKILL.md` for why).
    and open with: `> Awarded subcontractor TBD as of [index date] — draft based on generic RFP scope.`
 7. Carry every entry in `open_pm_items` forward as a visible note. An unresolved PM decision that touches
    this package must be visible in the draft, not buried in an index.
-5. Write `02-drafts/package-{package_id}-attachment-a.md` with this structure:
+8. Write `02-drafts/package-{package_id}-attachment-a.md` with this structure:
 
 ```markdown
 # Attachment A — [Package Title] ([package_id])
@@ -75,6 +75,15 @@ trade scope carries — layout from established control, protection of adjacent 
 offloading its own material, cleanup of its own debris, warranty, coordination of its own submittals. The
 package record's `spec_sections.basis` field tells you which assignments came from a citation and which
 from trade judgment; both belong in the subcontract, but only the first should be written as a citation.
+
+**Never cite a specification section that is not in the Project Manual.** PM ruling 08.06.26. Several
+scope narratives cite sections the manual does not publish. The obligation is real and stays in the
+subcontract — but it is carried by the scope verbiage, using the specification's **title**, never its
+number. RFP-045's exhibit says *"metal roof panels"*; it does not say *"07 41 13"*. Citing a number the
+sub cannot look up is worse than not citing at all: it makes the obligation look documented when nothing
+stands behind it. Each package record marks these under `cited_but_absent_from_manual` with a
+`how_to_write_it` line. Draft those obligations from the scope narrative, the drawings and the
+subcontractor's proposal.
 
 **Reduce CORE's risk, without inventing scope.** Those two pull against each other and the resolution is
 always the same: if the contract documents support an obligation, state it plainly and cite it. If they

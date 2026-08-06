@@ -18,13 +18,14 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
         "section": "02 41 00",
         "title": "Demolition",
         "basis": "pm_ruling",
-        "rationale": "PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below.",
+        "rationale": "PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what each demolishes. RFP-008 carries the full building demolition and the site demolition; RFP-002 is abatement, which has demolition inside it. This refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was about the site and building work, not about abatement's own demolition.",
         "manual_pages": "116-119",
         "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-02-existing-conditions.pdf",
         "conflict": true,
@@ -118,7 +119,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "02 41 13": {
         "title_per_scope_doc": "Selective Site Demolition",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation.",
         "candidates": [
           "02 41 00"

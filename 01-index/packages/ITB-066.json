@@ -16,6 +16,11 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 066 Fluid-Applied Floors.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": {
+    "ruling_date": "2026-08-06",
+    "ruling": "This scope was removed by the Owner in a value engineering exercise.",
+    "consequence": "Resinous/epoxy flooring is not built. Those locations become Sealed Concrete under ITB-067 (PM ruling 08.04.26). ITB-066 has no remaining scope; its exhibit records the removal."
+  },
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [],

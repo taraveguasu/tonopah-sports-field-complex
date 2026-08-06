@@ -1,0 +1,202 @@
+{
+  "_package_id": "ITB-070",
+  "_title": "Final Cleaning",
+  "_title_variants_in_source": null,
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": null,
+    "note": "NO Scope of Work narrative was issued for this package. Draft from the bidders' proposals and the documents on hand, per PM ruling."
+  },
+  "removed_by_owner": null,
+  "spec_sections": {
+    "primary": [],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [],
+    "leads_to_verify": []
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "CSI",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf.txt",
+      "current_date": "2026-05-06",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "Clean concession building: vestibule\u2019s, restrooms, team rooms, custodian room, storage",
+        "areas, concession, utility, office, and IT room.",
+        "\u2022 Clean all elevations, stone, tile, brick, metal finishes, millwork, casework, trim, painted",
+        "finishes, wallcovering, fixed furnishings, decorative features, doors, frames,",
+        "hardware, and furniture present at time of final clean.",
+        "\u2022 Clean all floor finishes and base.",
+        "\u2022 Normal work hours.",
+        "*Acknowledge Addendum #1 & Clarification No. 1"
+      ],
+      "exclusions_scope_specific": [
+        "\u2022 Lift equipment",
+        "\u2022 Additional cleaning due to construction schedule and/or inspections",
+        "\u2022 Removal of other trades trash materials",
+        "\u2022 General construction clean-up",
+        "\u2022 Heavy paint overspray",
+        "\u2022 Weekends, Overtime and Holidays",
+        "Schedule:",
+        "Per GC"
+      ],
+      "clarifications": [
+        "a) Bid details good for 90 days.",
+        "b) All work will be performed as an MBE certified entity using labor from Union Local",
+        "#872 of which we are in good standings.",
+        "c) All products used on the site will be green seal certified, and all equipment meets or",
+        "exceeds the carpet and rug institute for indoor air quality.",
+        "d) Sales Taxes are included in the bid.",
+        "e) Cleaning Services Inc. will not be held responsible for schedule delays caused by",
+        "other trades or plan changes.",
+        "f) Additional work must be contracted for and approved in writing.",
+        "g) All agreements contingent upon strikes, accidents or delays are beyond our control.",
+        "h) All Change orders must be approved by the owner\u2019s rep. and G.C. before work can be",
+        "performed.",
+        "Payment:",
+        "Upon completion",
+        "Respectfully,",
+        "Donna Tachera Project Estimator",
+        "Signature of Acceptance"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Lady Lux",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf.txt",
+      "current_date": "2027-08-27",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "LadyLux\u2122 Cleaning Company shall provide two mobilizations for final construction cleaning",
+        "services associated with the new concessions/restroom building, press box, and ticket booth at",
+        "the NCSD Tonopah High School Sports Field Replacement project.",
+        "Construction Clean \u2013 Scheduled 8/27/27",
+        "Construction cleaning shall include detailed removal of construction dust, debris, labels,",
+        "adhesive residue, and trade-related buildup from interior surfaces throughout the concessions",
+        "building, public restrooms, press box, and ticket booth. Scope includes cleaning of doors,",
+        "frames, hardware, glazing, mirrors, counters, partitions, plumbing fixtures, restroom",
+        "accessories, lockers, wall surfaces, equipment exteriors, lighting, diffusers, and accessible",
+        "horizontal surfaces. Floors shall be vacuumed, swept, and damp mopped as appropriate to floor",
+        "finish conditions. Interior and accessible exterior glass shall be cleaned.",
+        "Final Clean \u2013 Scheduled 9/10/27",
+        "Final cleaning shall include re-cleaning and detailing of all previously cleaned areas prior to",
+        "owner turnover. Scope includes final dust removal, restroom detailing, glazing polish, touch-up",
+        "cleaning from punch activity, fixture detailing, floor detailing, and final presentation cleaning",
+        "throughout the concessions building, public restrooms, press box, and ticket booth to prepare",
+        "the facility for occupancy and use.",
+        "Prepared By:",
+        "LadyLux\u2122 Cleaning Company\u200b",
+        "Celeste Interrante, CEO\u200b",
+        "Certifications: DBE / SBE / WBE / ESB / ADBE",
+        "celeste@ladyluxcleaning.com",
+        "ladyluxcleaning.com",
+        "The wages are based on Nye County prevailing wages, The",
+        "restrooms are included with cleaning of the entire interior of the",
+        "restroom including mirrors, partitions, fixtures, walls, ceilings, etc.",
+        "- Celeste Interrante, 05/18/26"
+      ],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Nevada Angels",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf.txt",
+      "current_date": "2026-05-20",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "descope",
+      "price": null,
+      "inclusions": [
+        "AMOUNT",
+        "mrsccervantes@gmail.com",
+        "3224 Bonassola ave",
+        "Final Cleaning",
+        "PROJECT - NCSD - Tonopah High",
+        "School Sports Complex",
+        "Exterior Elevations / Finishes",
+        "Restrooms, incl. fixtures, mirrors, partitions",
+        "Interior Finishes & Furnishings, incl. counters, shelves,",
+        "lockers, etc.",
+        "Final Cleaning - Execute final cleaning of the work",
+        "and all areas affected by the work prior to the",
+        "walkthrough to determine substantial completion of",
+        "the work or any portion thereof.",
+        "-Clean interior glass surfaces exposed to view;",
+        "remove temporary labels, stains, and foreign",
+        "substances, polish       transparent and glossy",
+        "surfaces.",
+        "YOUR LOGO HERE",
+        "Nye County  Prevailing Wages",
+        "Final Cleaning",
+        "NCSD - Tonopah High School Sports Complex",
+        "Disclaimer: The prices listed in the preceding table are an estimate",
+        "for the services discussed. This summary is not a warranty of final",
+        "price. Estimates are subject to change if project specifications are",
+        "changed or costs for outsourced services change before a contract",
+        "is executed."
+      ],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf.txt",
+          "date": "2026-05-15",
+          "inclusions": [
+            "AMOUNT",
+            "mrsccervantes@gmail.com",
+            "Consessions Final Clean",
+            "3224 Bonassola ave",
+            "-Final Cleaning - Execute final cleaning of the work",
+            "and all areas affected by the work prior to the",
+            "walkthrough to determine substantial completion of",
+            "the work or any portion thereof.",
+            "YOUR LOGO HERE",
+            "AMOUNT"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": []
+}

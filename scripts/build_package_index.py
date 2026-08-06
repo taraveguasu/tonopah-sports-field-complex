@@ -77,6 +77,10 @@ SCOPE_DOC = {
     "RFP-100": "Scope of Work - 099 HVAC & Building Controls Systems.txt",
     "RFP-103": "Scope of Work - 103 Electrical & Low Voltage Systems.txt",
     "RFP-109": "Scope of Work - 109 Prefabricated Ticket Booth.txt",
+    # PM ruling 08.06.26 (E1). No Scope of Work narrative was ever issued for final
+    # cleaning -- proposals were solicited under trade 070 and four came back. Its
+    # exhibit is drafted from those proposals and the documents on hand.
+    "ITB-070": None,
 }
 
 # Canonical package titles, from CLAUDE.md's bid package list. Derived titles are
@@ -119,6 +123,19 @@ TITLES = {
     "ITB-078": "Flagpoles",
     "ITB-085": "Warming Kitchen Food Service Equipment",
     "ITB-089": "Scoreboards",
+    "ITB-070": "Final Cleaning",
+}
+
+# Packages whose scope was removed after bid. They keep a record and an exhibit so
+# the file shows the decision rather than a hole.
+REMOVED_BY_OWNER = {
+    "ITB-066": {
+        "ruling_date": "2026-08-06",
+        "ruling": "This scope was removed by the Owner in a value engineering exercise.",
+        "consequence": "Resinous/epoxy flooring is not built. Those locations become Sealed "
+                       "Concrete under ITB-067 (PM ruling 08.04.26). ITB-066 has no remaining "
+                       "scope; its exhibit records the removal.",
+    },
 }
 
 DIVISION_PDF = {
@@ -262,10 +279,15 @@ def main():
                 "what to read, not what to write."),
             "document_authority_hierarchy": AUTHORITY,
 
-            "scope_narrative": {
+            "scope_narrative": ({
                 "file": f"{SCOPE_DOC_DIR}/{scope_file}",
                 "note": "PRIMARY trade-boundary authority. Read this first and in full.",
-            },
+            } if scope_file else {
+                "file": None,
+                "note": "NO Scope of Work narrative was issued for this package. Draft from the "
+                        "bidders' proposals and the documents on hand, per PM ruling.",
+            }),
+            "removed_by_owner": REMOVED_BY_OWNER.get(pkg),
             "spec_sections": {
                 "primary": [spec_entry(s) for s in sorted(sec_owner.get(pkg, []),
                                                           key=lambda x: x["section"])],

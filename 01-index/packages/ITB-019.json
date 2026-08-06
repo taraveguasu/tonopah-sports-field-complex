@@ -16,9 +16,23 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 019 Track & Field Athletic Equipment.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [],
-    "added_by_pm_ruling": [],
+    "added_by_pm_ruling": [
+      {
+        "section": "12 93 00",
+        "title": "Site Furnishings",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section goes in both subcontracts -- not split by paragraph. ITB-019's obligation is installation only, so its Attachment A must say so explicitly or it reads as carrying supply too.",
+        "manual_pages": "270-272",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-12-furnishings.pdf",
+        "conflict": true,
+        "also_cited_by": [
+          "ITB-019"
+        ]
+      }
+    ],
     "flow_down_from_other_packages": [
       {
         "section": "03 30 00",
@@ -30,7 +44,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "11 68 33": {
         "title_per_scope_doc": "Athletic Field Equipment",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Athletic Field Equipment. Numerically near 11 68 43 Football/TrackScoreboard, but that section is the scoreboard, which is ITB-089's -- the candidate is a number match, not a scope match. Treat the athletic-equipment spec as MISSING; ITB-019's requirements rest on 12 93 00 and the drawings.",
         "candidates": [
           "11 68 43"

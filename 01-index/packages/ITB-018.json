@@ -16,13 +16,14 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 018 Site Furnishings.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
         "section": "12 93 00",
         "title": "Site Furnishings",
-        "basis": "trade_judgment",
-        "rationale": "SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues.",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section goes in both subcontracts -- not split by paragraph. ITB-019's obligation is installation only, so its Attachment A must say so explicitly or it reads as carrying supply too.",
         "manual_pages": "270-272",
         "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-12-furnishings.pdf",
         "conflict": true,

@@ -208,7 +208,8 @@ ASSIGN_PROBES = [
 # it must carry the rulings and corrections made along the way rather than
 # silently reverting to what the source documents said.
 PACKAGE_PROBES = [
-    ("count", "", "33", "every package has a drafting record"),
+    ("count", "", "34", "every package has a drafting record, including ITB-070 "
+                        "Final Cleaning added by ruling 08.06.26"),
     ("spec", "RFP-031", "04 20 16", "the mason's record carries the masonry section his "
                                     "scope doc never cited"),
     ("spec", "RFP-103", "26 56 00", "electrical carries exterior/sports-field lighting"),
@@ -223,6 +224,13 @@ PACKAGE_PROBES = [
     ("scope_file", "RFP-100", "099 HVAC", "the scope narrative path survives the number drift"),
     ("sheets", "ITB-077", "A10-30", "lockers point at the sheet carrying their keynote"),
     ("authority", "RFP-060", "", "every record states the authority hierarchy"),
+    # 08.06.26 rulings. Each must reach the record a drafter reads, or the ruling
+    # exists only in a log and has no effect on any exhibit.
+    ("spec", "RFP-002", "02 41 00", "A4 — demolition section is in BOTH RFP-002 and RFP-008"),
+    ("spec", "ITB-019", "12 93 00", "A2 — site furnishings section is in both, 019 installs"),
+    ("no_scope_doc", "ITB-070", "", "E1 — Final Cleaning is a package with no scope narrative"),
+    ("removed", "ITB-066", "", "E2 — records that the Owner removed the scope in VE"),
+    ("gap_titled", "RFP-045", "07 41 13", "D — the absent section is carried by title, not cited"),
 ]
 
 
@@ -263,6 +271,13 @@ def package_probe(kind, pkg, val):
         return val in [s["sheet"] for s in r["drawings"]["draft_from"]]
     if kind == "authority":
         return len(r.get("document_authority_hierarchy", [])) >= 4
+    if kind == "no_scope_doc":
+        return r["scope_narrative"]["file"] is None and bool(r["bidders"])
+    if kind == "removed":
+        return bool(r.get("removed_by_owner"))
+    if kind == "gap_titled":
+        g = r["spec_sections"]["cited_by_this_scope_doc_but_absent_from_manual"].get(val)
+        return bool(g and "GLOBAL RULE" in g["status"])
     return False
 
 

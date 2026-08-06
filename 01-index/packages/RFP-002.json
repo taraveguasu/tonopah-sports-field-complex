@@ -16,14 +16,28 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 002 Abatement & Building Wrecking.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [],
-    "added_by_pm_ruling": [],
+    "added_by_pm_ruling": [
+      {
+        "section": "02 41 00",
+        "title": "Demolition",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what each demolishes. RFP-008 carries the full building demolition and the site demolition; RFP-002 is abatement, which has demolition inside it. This refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was about the site and building work, not about abatement's own demolition.",
+        "manual_pages": "116-119",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-02-existing-conditions.pdf",
+        "conflict": true,
+        "also_cited_by": [
+          "RFP-002"
+        ]
+      }
+    ],
     "flow_down_from_other_packages": [],
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "02 81 00": {
         "title_per_scope_doc": "Transportation and Disposal of Misc. Hazardous Materials",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A.",
         "candidates": []
       }

@@ -16,6 +16,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 099 HVAC & Building Controls Systems.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -72,7 +73,7 @@
         "section": "23 05 93",
         "title": "Testing,AdjustingandBalancingfor HVAC (Page 1of13)",
         "basis": "trade_judgment",
-        "rationale": "Testing, adjusting and balancing. RFP-100's own title carries Test & Balance, so it stays in this subcontract rather than going to a separate TAB agency -- note four separate TAB proposals were solicited under trade 102 and tabulated into RFP-100, so confirm whether TAB is subcontracted directly or held here.",
+        "rationale": "Testing, adjusting and balancing. RFP-100's own title carries Test & Balance, so it stays in this subcontract rather than going to a separate TAB agency -- CONFIRMED by PM 08.06.26 (A7): TAB is included in RFP-100, not subcontracted directly. Four TAB proposals were solicited under trade 102 and tabulated into RFP-100.",
         "manual_pages": "369-381",
         "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
         "conflict": false,
@@ -197,7 +198,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "31 00 00": {
         "title_per_scope_doc": "Earthwork",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Earthwork. A division rollup number rather than a section; Division 31 does exist in this manual with three sections, all assigned to RFP-008. Not a gap.",
         "candidates": []
       }

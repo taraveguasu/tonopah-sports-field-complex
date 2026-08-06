@@ -16,6 +16,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 044 Insulation.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -34,7 +35,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "09 82 00": {
         "title_per_scope_doc": "Acoustical Insulation",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Acoustical Insulation. Absent. The manual publishes only 07 21 00 Thermal Insulation, which is assigned to ITB-044. Acoustic batt in partitions has no specification -- confirm whether ITB-044 or RFP-060 carries it.",
         "candidates": []
       }

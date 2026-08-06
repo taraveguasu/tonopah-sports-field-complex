@@ -16,6 +16,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 030 Concrete.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -94,7 +95,7 @@
         "section": "32 16 23",
         "title": "Sidewalks",
         "basis": "trade_judgment",
-        "rationale": "Sidewalks are flatwork. RFP-008 and RFP-016 reach it only through a division-level mention of Division 32.",
+        "rationale": "Sidewalks are flatwork. CONFIRMED by PM 08.06.26 (A6): RFP-030.",
         "manual_pages": "558-559",
         "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
         "conflict": false,

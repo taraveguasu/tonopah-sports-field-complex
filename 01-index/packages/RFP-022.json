@@ -16,6 +16,7 @@
     "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 022 Synthetic Turf Sports Field.txt",
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
+  "removed_by_owner": null,
   "spec_sections": {
     "primary": [
       {
@@ -34,7 +35,7 @@
     "cited_by_this_scope_doc_but_absent_from_manual": {
       "32 19 19": {
         "title_per_scope_doc": "Landscape Grading",
-        "status": "OPEN",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving is assigned to RFP-008 and is the nearest coverage.",
         "candidates": []
       }
