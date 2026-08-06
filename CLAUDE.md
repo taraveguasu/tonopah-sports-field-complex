@@ -37,7 +37,7 @@
 | RFP-103 | Electrical & Low Voltage Systems (incl. Sports Field Lighting) |
 | RFP-109 | Prefabricated Ticket Booth |
 
-### Non-1% List (ITB) — 17 packages
+### Non-1% List (ITB) — 18 packages
 | package_id | Title |
 |---|---|
 | ITB-008 | Surveying, Layout & Staking |
@@ -48,8 +48,9 @@
 | ITB-054 | Special Doors |
 | ITB-056 | Doors, Frames & Hardware |
 | ITB-062 | Acoustical Ceiling Treatments |
-| ITB-066 | Fluid-Applied Flooring |
+| ITB-066 | Fluid-Applied Flooring — ⛔ **scope removed by Owner (VE), 08.06.26** |
 | ITB-067 | Concrete Finishing |
+| ITB-070 | Final Cleaning — added 08.06.26; no scope narrative was issued, draft from the four proposals on hand |
 | ITB-071 | Visual Display Boards & Menu Display Case |
 | ITB-072 | Building Signage |
 | ITB-074 | Building & Fire Protection Specialties (incl. corner guards, cabinets, mirrors) |

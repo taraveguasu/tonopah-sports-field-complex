@@ -2,9 +2,9 @@
   "_generated": "2026-08-05",
   "_purpose": "Numbered register of every open PM decision, assembled from the indexes.",
   "_totals": {
-    "high": 21,
-    "medium": 26,
-    "low": 7
+    "high": 10,
+    "medium": 24,
+    "low": 2
   },
   "items": [
     {
@@ -42,17 +42,6 @@
     },
     {
       "n": 4,
-      "id": "BID-U01",
-      "severity": "high",
-      "title": "Trade 070 Final Cleaning was bid but maps to no bid package",
-      "detail": "Proposals were solicited and received under this trade number, which matches none of the 33 packages. Confirm whether it is CORE self-perform, folded into another subcontract, or needs its own package \u2014 as it stands the scope is bid with no Attachment A to land in.",
-      "packages": [
-        "UNASSIGNED"
-      ],
-      "decision": null
-    },
-    {
-      "n": 5,
       "id": "GMP-01",
       "severity": "high",
       "title": "Berridge C-Lock in the GMP reverses RFI #23",
@@ -63,7 +52,7 @@
       "decision": null
     },
     {
-      "n": 6,
+      "n": 5,
       "id": "GMP-02",
       "severity": "high",
       "title": "Door 106 panic hardware exclusion is ambiguous",
@@ -75,11 +64,11 @@
       "decision": null
     },
     {
-      "n": 7,
+      "n": 6,
       "id": "SPEC-C01",
       "severity": "high",
       "title": "02 41 00 Demolition \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below.",
+      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what each demolishes. RFP-008 carries the full building demolition and the site demolition; RFP-002 is abatement, which has demolition inside it. This refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was about the site and building work, not about abatement's own demolition.",
       "packages": [
         "RFP-002",
         "RFP-008"
@@ -87,7 +76,7 @@
       "decision": null
     },
     {
-      "n": 8,
+      "n": 7,
       "id": "SPEC-C02",
       "severity": "high",
       "title": "09 21 16 Gypsum Board Assemblies \u2014 claimed by more than one scope doc",
@@ -99,11 +88,11 @@
       "decision": null
     },
     {
-      "n": 9,
+      "n": 8,
       "id": "SPEC-C03",
       "severity": "high",
       "title": "10 26 00 Wall and Door Protection \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded.",
+      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074.",
       "packages": [
         "ITB-074",
         "RFP-060"
@@ -111,11 +100,11 @@
       "decision": null
     },
     {
-      "n": 10,
+      "n": 9,
       "id": "SPEC-C04",
       "severity": "high",
       "title": "12 93 00 Site Furnishings \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to ITB-018 (trade_judgment); also cited by ITB-019. SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues.",
+      "detail": "Assigned to ITB-018 (pm_ruling); also cited by ITB-019. PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section goes in both subcontracts -- not split by paragraph. ITB-019's obligation is installation only, so its Attachment A must say so explicitly or it reads as carrying supply too.",
       "packages": [
         "ITB-018",
         "ITB-019"
@@ -123,11 +112,11 @@
       "decision": null
     },
     {
-      "n": 11,
+      "n": 10,
       "id": "SPEC-C05",
       "severity": "high",
       "title": "32 91 13 Shot Put and Discus Mix \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to RFP-016 (pm_ruling); also cited by ITB-019. PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping.",
+      "detail": "Assigned to RFP-016 (pm_ruling); also cited by ITB-019. PM ruling 07.31.26, refined 08.06.26 (A5): RFP-016 carries it. Do NOT write exclusions into ITB-019 or RFP-030 -- both must coordinate with this scope, and an exclusion would read as no obligation to coordinate. Treat as flow-down: RFP-016 executes, the others coordinate.",
       "packages": [
         "ITB-019",
         "RFP-016"
@@ -135,119 +124,7 @@
       "decision": null
     },
     {
-      "n": 12,
-      "id": "SPEC-G02",
-      "severity": "high",
-      "title": "02 81 00 Transportation and Disposal of Misc. Hazardous Materials \u2014 cited but absent from the manual",
-      "detail": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A.  No candidate section exists; this needs a source.",
-      "packages": [
-        "RFP-002"
-      ],
-      "decision": null
-    },
-    {
-      "n": 13,
-      "id": "SPEC-G04",
-      "severity": "high",
-      "title": "07 41 13 Metal Roof Panels \u2014 cited but absent from the manual",
-      "detail": "Metal Roof Panels -- RFP-045's own primary section, and it is not in the manual. 07 61 00 Sheet Metal Roofing is the nearest published substitute and is assigned to RFP-045, but it is a different section, not a renumbering. Confirm which governs the panel system before issuing.  No candidate section exists; this needs a source.",
-      "packages": [
-        "RFP-045"
-      ],
-      "decision": null
-    },
-    {
-      "n": 14,
-      "id": "SPEC-G05",
-      "severity": "high",
-      "title": "07 71 23 Manufactured Gutters and Downspouts \u2014 cited but absent from the manual",
-      "detail": "Manufactured Gutters and Downspouts. Absent. 07 62 00 Sheet Metal Flashing and Trim is assigned to RFP-045 and is the nearest published coverage; confirm it carries the gutters, or the roof drainage has no specification.  No candidate section exists; this needs a source.",
-      "packages": [
-        "RFP-045"
-      ],
-      "decision": null
-    },
-    {
-      "n": 15,
-      "id": "SPEC-G07",
-      "severity": "high",
-      "title": "08 71 00 Door Hardware \u2014 cited but absent from the manual",
-      "detail": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware).  No candidate section exists; this needs a source.",
-      "packages": [
-        "ITB-056",
-        "RFP-103"
-      ],
-      "decision": null
-    },
-    {
-      "n": 16,
-      "id": "SPEC-G08",
-      "severity": "high",
-      "title": "09 82 00 Acoustical Insulation \u2014 cited but absent from the manual",
-      "detail": "Acoustical Insulation. Absent. The manual publishes only 07 21 00 Thermal Insulation, which is assigned to ITB-044. Acoustic batt in partitions has no specification -- confirm whether ITB-044 or RFP-060 carries it.  No candidate section exists; this needs a source.",
-      "packages": [
-        "ITB-044"
-      ],
-      "decision": null
-    },
-    {
-      "n": 17,
-      "id": "SPEC-G10",
-      "severity": "high",
-      "title": "10 44 13 Fire Protection Cabinets \u2014 cited but absent from the manual",
-      "detail": "Fire Protection Cabinets. Absent, though ITB-074's title carries fire protection specialties and Henri's quote prices 'FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES -- furnished and installed -- $6,313'. The bidders priced work that has no spec section.  No candidate section exists; this needs a source.",
-      "packages": [
-        "ITB-074"
-      ],
-      "decision": null
-    },
-    {
-      "n": 18,
-      "id": "SPEC-G11",
-      "severity": "high",
-      "title": "10 51 13 Metal Lockers \u2014 cited but absent from the manual",
-      "detail": "Metal Lockers. Absent. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24 in. W x 18 in. D x 72 in. H) per PM ruling 07.31.26, reinforced by the keynote on revised sheet A10-30. Note Henri also prices metal lockers inside ITB-074 at $22,519 -- decide which subcontract carries them.  No candidate section exists; this needs a source.",
-      "packages": [
-        "ITB-077"
-      ],
-      "decision": null
-    },
-    {
-      "n": 19,
-      "id": "SPEC-G13",
-      "severity": "high",
-      "title": "13 12 50 Permanent Outdoor Bleacher \u2014 cited but absent from the manual",
-      "detail": "Permanent Outdoor Bleacher. No bleacher section exists. Sheet A1-40 carries a written 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS' block that must be quoted into Attachment A in its place. 13 34 23 Fabricated Shade Structures covers the press box only.  No candidate section exists; this needs a source.",
-      "packages": [
-        "RFP-094"
-      ],
-      "decision": null
-    },
-    {
-      "n": 20,
-      "id": "SPEC-G14",
-      "severity": "high",
-      "title": "31 00 00 Earthwork \u2014 cited but absent from the manual",
-      "detail": "Earthwork. A division rollup number rather than a section; Division 31 does exist in this manual with three sections, all assigned to RFP-008. Not a gap.  No candidate section exists; this needs a source.",
-      "packages": [
-        "RFP-100"
-      ],
-      "decision": null
-    },
-    {
-      "n": 21,
-      "id": "SPEC-G15",
-      "severity": "high",
-      "title": "32 19 19 Landscape Grading \u2014 cited but absent from the manual",
-      "detail": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving is assigned to RFP-008 and is the nearest coverage.  No candidate section exists; this needs a source.",
-      "packages": [
-        "RFP-021",
-        "RFP-022"
-      ],
-      "decision": null
-    },
-    {
-      "n": 22,
+      "n": 11,
       "id": "AWD-06",
       "severity": "medium",
       "title": "RFP-031: awarded sub (Henderson) has no signed Bid Form on file, only backup...",
@@ -258,7 +135,7 @@
       "decision": null
     },
     {
-      "n": 23,
+      "n": 12,
       "id": "AWD-07",
       "severity": "medium",
       "title": "RFP-045: awarded sub (Foursquare) proposal on file is flagged LATE / not submitted through...",
@@ -269,7 +146,7 @@
       "decision": null
     },
     {
-      "n": 24,
+      "n": 13,
       "id": "AWD-08",
       "severity": "medium",
       "title": "RFP-098 / RFP-100: same awarded sub (US Mechanical) for both plumbing and HVAC -- check fo...",
@@ -280,7 +157,7 @@
       "decision": null
     },
     {
-      "n": 25,
+      "n": 14,
       "id": "AWD-09",
       "severity": "medium",
       "title": "RFP-094 / RFP-109: no awarded sub yet -- draft from generic RFP scope, revisit once awarde...",
@@ -291,7 +168,7 @@
       "decision": null
     },
     {
-      "n": 26,
+      "n": 15,
       "id": "BID-B01",
       "severity": "medium",
       "title": "Tand Inc. bid RFP-016, RFP-022 as one bundled scope",
@@ -303,7 +180,7 @@
       "decision": null
     },
     {
-      "n": 27,
+      "n": 16,
       "id": "BID-B02",
       "severity": "medium",
       "title": "XL Concrete Masonry LLC bid RFP-030, RFP-031 as one bundled scope",
@@ -315,7 +192,7 @@
       "decision": null
     },
     {
-      "n": 28,
+      "n": 17,
       "id": "BID-B03",
       "severity": "medium",
       "title": "Division 09 bid ITB-044, ITB-056, ITB-062, RFP-060 as one bundled scope",
@@ -329,7 +206,7 @@
       "decision": null
     },
     {
-      "n": 29,
+      "n": 18,
       "id": "BID-B04",
       "severity": "medium",
       "title": "Bombard Mechanical, LLC bid RFP-098, RFP-100 as one bundled scope",
@@ -341,7 +218,7 @@
       "decision": null
     },
     {
-      "n": 30,
+      "n": 19,
       "id": "BID-B05",
       "severity": "medium",
       "title": "Exerplay bid ITB-018, ITB-019, ITB-078 as one bundled scope",
@@ -354,7 +231,7 @@
       "decision": null
     },
     {
-      "n": 31,
+      "n": 20,
       "id": "BID-B06",
       "severity": "medium",
       "title": "SI Legacy bid ITB-040, ITB-066, ITB-067 as one bundled scope",
@@ -367,7 +244,7 @@
       "decision": null
     },
     {
-      "n": 32,
+      "n": 21,
       "id": "BID-B07",
       "severity": "medium",
       "title": "NRC bid ITB-066, ITB-067 as one bundled scope",
@@ -379,7 +256,7 @@
       "decision": null
     },
     {
-      "n": 33,
+      "n": 22,
       "id": "BID-B08",
       "severity": "medium",
       "title": "Ryerson bid ITB-066, ITB-067 as one bundled scope",
@@ -391,7 +268,7 @@
       "decision": null
     },
     {
-      "n": 34,
+      "n": 23,
       "id": "BID-B09",
       "severity": "medium",
       "title": "YESCO bid ITB-072, ITB-078, ITB-089 as one bundled scope",
@@ -404,10 +281,10 @@
       "decision": null
     },
     {
-      "n": 35,
+      "n": 24,
       "id": "BID-P01",
       "severity": "medium",
-      "title": "RFP-002 \u2014 Northstar Contracting Group's price moves between documents",
+      "title": "RFP-002 \u2014 NorthStar Contracting Group, Inc.'s price moves between documents",
       "detail": "$718,623 (2026-05-12) -> $718,263 (2026-05-15). The later document governs by date; confirm which figure is intended before the subcontract value is set.",
       "packages": [
         "RFP-002"
@@ -415,7 +292,7 @@
       "decision": null
     },
     {
-      "n": 36,
+      "n": 25,
       "id": "GMP-03",
       "severity": "medium",
       "title": "Trash receptacle exclusion vs the CFCI Site Equipment Matrix",
@@ -426,7 +303,7 @@
       "decision": null
     },
     {
-      "n": 37,
+      "n": 26,
       "id": "GMP-04",
       "severity": "medium",
       "title": "Several ITB packages are unaddressed by the Basis of GMP",
@@ -445,7 +322,7 @@
       "decision": null
     },
     {
-      "n": 38,
+      "n": 27,
       "id": "GMP-05",
       "severity": "medium",
       "title": "Final cleaning likely sits in CORE's General Conditions",
@@ -456,7 +333,7 @@
       "decision": null
     },
     {
-      "n": 39,
+      "n": 28,
       "id": "GMP-06",
       "severity": "medium",
       "title": "Owner Accepted Alternates supersede drawn details",
@@ -471,7 +348,7 @@
       "decision": null
     },
     {
-      "n": 40,
+      "n": 29,
       "id": "PROC-01",
       "severity": "medium",
       "title": "Confirm CORE job number is 25-10-003",
@@ -482,7 +359,7 @@
       "decision": null
     },
     {
-      "n": 41,
+      "n": 30,
       "id": "PROC-02",
       "severity": "medium",
       "title": "Confirm no addenda or clarifications issued after Clarification No.2",
@@ -493,7 +370,7 @@
       "decision": null
     },
     {
-      "n": 42,
+      "n": 31,
       "id": "SPEC-N01",
       "severity": "medium",
       "title": "ITB-008 holds no spec section of its own",
@@ -504,19 +381,8 @@
       "decision": null
     },
     {
-      "n": 43,
+      "n": 32,
       "id": "SPEC-N02",
-      "severity": "medium",
-      "title": "ITB-019 holds no spec section of its own",
-      "detail": "Track & Field Athletic Equipment. Its work lives inside 12 93 00 Site Furnishings, whose own Section Includes spans both this package and ITB-018; primary is shown as ITB-018 pending a PM ruling on the split. Its cited 11 68 33 Athletic Field Equipment is absent (see candidates).",
-      "packages": [
-        "ITB-019"
-      ],
-      "decision": null
-    },
-    {
-      "n": 44,
-      "id": "SPEC-N03",
       "severity": "medium",
       "title": "ITB-066 holds no spec section of its own",
       "detail": "Fluid-Applied Flooring. Correct to hold none -- PM ruling 08.04.26 excluded resinous/epoxy flooring and moved those locations to Sealed Concrete under ITB-067, leaving ITB-066 with no remaining scope.",
@@ -526,8 +392,8 @@
       "decision": null
     },
     {
-      "n": 45,
-      "id": "SPEC-N04",
+      "n": 33,
+      "id": "SPEC-N03",
       "severity": "medium",
       "title": "ITB-077 holds no spec section of its own",
       "detail": "Lockers. Cited 10 51 13 Metal Lockers is absent from the manual. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24\"W x 18\"D x 72\"H) per PM ruling 07.31.26, reinforced by the keynote on sheet A10-30.",
@@ -537,19 +403,8 @@
       "decision": null
     },
     {
-      "n": 46,
-      "id": "SPEC-N05",
-      "severity": "medium",
-      "title": "RFP-002 holds no spec section of its own",
-      "detail": "Abatement & Building Wrecking. 02 41 00 Demolition went to RFP-008 by PM ruling 07.31.26, and the cited 02 81 00 Transportation and Disposal of Misc. Hazardous Materials is absent. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are not part of the spec manual.",
-      "packages": [
-        "RFP-002"
-      ],
-      "decision": null
-    },
-    {
-      "n": 47,
-      "id": "SPEC-N06",
+      "n": 34,
+      "id": "SPEC-N04",
       "severity": "medium",
       "title": "RFP-109 holds no spec section of its own",
       "detail": "Prefabricated Ticket Booth. No section exists; sheet A1-40 carries a written 'PRE-MANUFACTURED TICKET BOOTH SPECS' block, and PM ruling 08.04.26 sets the basis of design as Porta-King DURASTEEL PC Building Model PC64 (6'x4').",
@@ -559,7 +414,7 @@
       "decision": null
     },
     {
-      "n": 48,
+      "n": 35,
       "id": "GMP-07",
       "severity": "low",
       "title": "Asbestos survey date differs from the staged file",
@@ -570,68 +425,13 @@
       "decision": null
     },
     {
-      "n": 49,
+      "n": 36,
       "id": "PROC-03",
       "severity": "low",
       "title": "Precon to Ops handoff date, for the 30-day buy-out target",
       "detail": "CLAUDE.md records the buy-out target as 30 days from handoff, with the handoff date TBD.",
       "packages": [
         "ALL"
-      ],
-      "decision": null
-    },
-    {
-      "n": 50,
-      "id": "SPEC-G01",
-      "severity": "low",
-      "title": "02 41 13 Selective Site Demolition \u2014 cited but absent from the manual",
-      "detail": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation.  CANDIDATE(S) in manual: 02 41 00 \u2014 confirm or reject.",
-      "packages": [
-        "RFP-008"
-      ],
-      "decision": null
-    },
-    {
-      "n": 51,
-      "id": "SPEC-G03",
-      "severity": "low",
-      "title": "05 31 12 Steel Roof Decking \u2014 cited but absent from the manual",
-      "detail": "Steel Roof Decking. 05 31 00 Steel Deck is the published section, assigned to RFP-033. Near-certain renumbering, still confirm.  CANDIDATE(S) in manual: 05 31 00 \u2014 confirm or reject.",
-      "packages": [
-        "RFP-033"
-      ],
-      "decision": null
-    },
-    {
-      "n": 52,
-      "id": "SPEC-G06",
-      "severity": "low",
-      "title": "08 31 13 Access Doors and Panels \u2014 cited but absent from the manual",
-      "detail": "Access Doors and Panels. 08 31 00 is the published number for the same title. Near-certain renumbering.  CANDIDATE(S) in manual: 08 31 00 \u2014 confirm or reject.",
-      "packages": [
-        "RFP-060"
-      ],
-      "decision": null
-    },
-    {
-      "n": 53,
-      "id": "SPEC-G09",
-      "severity": "low",
-      "title": "10 21 00 Toilet Compartments \u2014 cited but absent from the manual",
-      "detail": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet Compartments, a child of the cited number. Cite the published number.  CANDIDATE(S) in manual: 10 21 13.13 \u2014 confirm or reject.",
-      "packages": [
-        "ITB-074"
-      ],
-      "decision": null
-    },
-    {
-      "n": 54,
-      "id": "SPEC-G12",
-      "severity": "low",
-      "title": "11 68 33 Athletic Field Equipment \u2014 cited but absent from the manual",
-      "detail": "Athletic Field Equipment. Numerically near 11 68 43 Football/TrackScoreboard, but that section is the scoreboard, which is ITB-089's -- the candidate is a number match, not a scope match. Treat the athletic-equipment spec as MISSING; ITB-019's requirements rest on 12 93 00 and the drawings.  CANDIDATE(S) in manual: 11 68 43 \u2014 confirm or reject.",
-      "packages": [
-        "ITB-019"
       ],
       "decision": null
     }
