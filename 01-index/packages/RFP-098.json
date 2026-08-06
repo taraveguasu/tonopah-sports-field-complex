@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -600,7 +601,7 @@
   },
   "open_pm_items": [
     {
-      "n": 29,
+      "n": 18,
       "id": "BID-B04",
       "severity": "medium",
       "title": "Bombard Mechanical, LLC bid RFP-098, RFP-100 as one bundled scope",

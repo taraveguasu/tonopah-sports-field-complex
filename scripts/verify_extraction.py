@@ -231,6 +231,9 @@ PACKAGE_PROBES = [
     ("no_scope_doc", "ITB-070", "", "E1 — Final Cleaning is a package with no scope narrative"),
     ("removed", "ITB-066", "", "E2 — records that the Owner removed the scope in VE"),
     ("gap_titled", "RFP-045", "07 41 13", "D — the absent section is carried by title, not cited"),
+    ("combined", "ITB-077", "RFP-060", "lockers head into RFP-060's subcontract but keep "
+                                       "their own exhibit"),
+    ("own_scope", "ITB-044", "", "a combined member still drafts from its own scope narrative"),
 ]
 
 
@@ -275,6 +278,13 @@ def package_probe(kind, pkg, val):
         return r["scope_narrative"]["file"] is None and bool(r["bidders"])
     if kind == "removed":
         return bool(r.get("removed_by_owner"))
+    if kind == "combined":
+        c = r.get("combined_subcontract")
+        return bool(c and c["lead"] == val and pkg in c["members"])
+    if kind == "own_scope":
+        # The whole point of writing each scope independently: a member still has
+        # its own narrative and its own sections, not the lead's.
+        return bool(r["scope_narrative"]["file"]) and f"{pkg[-3:]}" in r["scope_narrative"]["file"]
     if kind == "gap_titled":
         g = r["spec_sections"]["cited_by_this_scope_doc_but_absent_from_manual"].get(val)
         return bool(g and "GLOBAL RULE" in g["status"])

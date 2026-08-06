@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -408,13 +409,5 @@
     "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
     "sales_tax": "Includes Nevada State Sales Tax."
   },
-  "open_pm_items": [
-    {
-      "n": 51,
-      "id": "SPEC-G03",
-      "severity": "low",
-      "title": "05 31 12 Steel Roof Decking \u2014 cited but absent from the manual",
-      "detail": "Steel Roof Decking. 05 31 00 Steel Deck is the published section, assigned to RFP-033. Near-certain renumbering, still confirm.  CANDIDATE(S) in manual: 05 31 00 \u2014 confirm or reject."
-    }
-  ]
+  "open_pm_items": []
 }

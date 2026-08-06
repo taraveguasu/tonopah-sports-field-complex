@@ -19,6 +19,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -310,13 +311,5 @@
     "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
     "sales_tax": "Includes Nevada State Sales Tax."
   },
-  "open_pm_items": [
-    {
-      "n": 19,
-      "id": "SPEC-G13",
-      "severity": "high",
-      "title": "13 12 50 Permanent Outdoor Bleacher \u2014 cited but absent from the manual",
-      "detail": "Permanent Outdoor Bleacher. No bleacher section exists. Sheet A1-40 carries a written 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS' block that must be quoted into Attachment A in its place. 13 34 23 Fabricated Shade Structures covers the press box only.  No candidate section exists; this needs a source."
-    }
-  ]
+  "open_pm_items": []
 }

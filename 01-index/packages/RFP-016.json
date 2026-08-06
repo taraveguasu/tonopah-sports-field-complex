@@ -19,6 +19,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -567,14 +568,14 @@
   },
   "open_pm_items": [
     {
-      "n": 11,
+      "n": 10,
       "id": "SPEC-C05",
       "severity": "high",
       "title": "32 91 13 Shot Put and Discus Mix \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to RFP-016 (pm_ruling); also cited by ITB-019. PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping."
+      "detail": "Assigned to RFP-016 (pm_ruling); also cited by ITB-019. PM ruling 07.31.26, refined 08.06.26 (A5): RFP-016 carries it. Do NOT write exclusions into ITB-019 or RFP-030 -- both must coordinate with this scope, and an exclusion would read as no obligation to coordinate. Treat as flow-down: RFP-016 executes, the others coordinate."
     },
     {
-      "n": 26,
+      "n": 15,
       "id": "BID-B01",
       "severity": "medium",
       "title": "Tand Inc. bid RFP-016, RFP-022 as one bundled scope",

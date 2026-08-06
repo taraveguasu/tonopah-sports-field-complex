@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -414,28 +415,28 @@
   },
   "open_pm_items": [
     {
-      "n": 31,
+      "n": 20,
       "id": "BID-B06",
       "severity": "medium",
       "title": "SI Legacy bid ITB-040, ITB-066, ITB-067 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 32,
+      "n": 21,
       "id": "BID-B07",
       "severity": "medium",
       "title": "NRC bid ITB-066, ITB-067 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 33,
+      "n": 22,
       "id": "BID-B08",
       "severity": "medium",
       "title": "Ryerson bid ITB-066, ITB-067 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 39,
+      "n": 28,
       "id": "GMP-06",
       "severity": "medium",
       "title": "Owner Accepted Alternates supersede drawn details",

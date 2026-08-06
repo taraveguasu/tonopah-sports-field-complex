@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -677,14 +678,7 @@
   },
   "open_pm_items": [
     {
-      "n": 20,
-      "id": "SPEC-G14",
-      "severity": "high",
-      "title": "31 00 00 Earthwork \u2014 cited but absent from the manual",
-      "detail": "Earthwork. A division rollup number rather than a section; Division 31 does exist in this manual with three sections, all assigned to RFP-008. Not a gap.  No candidate section exists; this needs a source."
-    },
-    {
-      "n": 29,
+      "n": 18,
       "id": "BID-B04",
       "severity": "medium",
       "title": "Bombard Mechanical, LLC bid RFP-098, RFP-100 as one bundled scope",

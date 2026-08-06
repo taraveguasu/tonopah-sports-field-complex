@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -277,21 +278,21 @@
   },
   "open_pm_items": [
     {
-      "n": 10,
+      "n": 9,
       "id": "SPEC-C04",
       "severity": "high",
       "title": "12 93 00 Site Furnishings \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to ITB-018 (trade_judgment); also cited by ITB-019. SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues."
+      "detail": "Assigned to ITB-018 (pm_ruling); also cited by ITB-019. PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section goes in both subcontracts -- not split by paragraph. ITB-019's obligation is installation only, so its Attachment A must say so explicitly or it reads as carrying supply too."
     },
     {
-      "n": 30,
+      "n": 19,
       "id": "BID-B05",
       "severity": "medium",
       "title": "Exerplay bid ITB-018, ITB-019, ITB-078 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 36,
+      "n": 25,
       "id": "GMP-03",
       "severity": "medium",
       "title": "Trash receptacle exclusion vs the CFCI Site Equipment Matrix",

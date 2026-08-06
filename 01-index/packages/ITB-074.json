@@ -19,6 +19,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -235,25 +236,11 @@
   },
   "open_pm_items": [
     {
-      "n": 9,
+      "n": 8,
       "id": "SPEC-C03",
       "severity": "high",
       "title": "10 26 00 Wall and Door Protection \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded."
-    },
-    {
-      "n": 17,
-      "id": "SPEC-G10",
-      "severity": "high",
-      "title": "10 44 13 Fire Protection Cabinets \u2014 cited but absent from the manual",
-      "detail": "Fire Protection Cabinets. Absent, though ITB-074's title carries fire protection specialties and Henri's quote prices 'FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES -- furnished and installed -- $6,313'. The bidders priced work that has no spec section.  No candidate section exists; this needs a source."
-    },
-    {
-      "n": 53,
-      "id": "SPEC-G09",
-      "severity": "low",
-      "title": "10 21 00 Toilet Compartments \u2014 cited but absent from the manual",
-      "detail": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet Compartments, a child of the cited number. Cite the published number.  CANDIDATE(S) in manual: 10 21 13.13 \u2014 confirm or reject."
+      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074."
     }
   ]
 }

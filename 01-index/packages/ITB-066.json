@@ -21,6 +21,7 @@
     "ruling": "This scope was removed by the Owner in a value engineering exercise.",
     "consequence": "Resinous/epoxy flooring is not built. Those locations become Sealed Concrete under ITB-067 (PM ruling 08.04.26). ITB-066 has no remaining scope; its exhibit records the removal."
   },
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [],
@@ -312,29 +313,29 @@
   },
   "open_pm_items": [
     {
-      "n": 31,
+      "n": 20,
       "id": "BID-B06",
       "severity": "medium",
       "title": "SI Legacy bid ITB-040, ITB-066, ITB-067 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 32,
+      "n": 21,
       "id": "BID-B07",
       "severity": "medium",
       "title": "NRC bid ITB-066, ITB-067 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 33,
+      "n": 22,
       "id": "BID-B08",
       "severity": "medium",
       "title": "Ryerson bid ITB-066, ITB-067 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 44,
-      "id": "SPEC-N03",
+      "n": 32,
+      "id": "SPEC-N02",
       "severity": "medium",
       "title": "ITB-066 holds no spec section of its own",
       "detail": "Fluid-Applied Flooring. Correct to hold none -- PM ruling 08.04.26 excluded resinous/epoxy flooring and moved those locations to Sealed Concrete under ITB-067, leaving ITB-066 with no remaining scope."

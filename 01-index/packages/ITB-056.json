@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -343,28 +344,21 @@
   },
   "open_pm_items": [
     {
-      "n": 6,
+      "n": 5,
       "id": "GMP-02",
       "severity": "high",
       "title": "Door 106 panic hardware exclusion is ambiguous",
       "detail": "The exclusion reads: 'Panic hardware at Door 106 per Door Schedule Remark 2. Hardware provided per specification section 08711 Door Hardware, Hardware Set 01'. It is unclear whether panic hardware is excluded outright, or whether Remark 2's hardware is excluded and Hardware Set 01 substituted. Door 106 is the concessions overhead counter shutter area and this is a life-safety item."
     },
     {
-      "n": 15,
-      "id": "SPEC-G07",
-      "severity": "high",
-      "title": "08 71 00 Door Hardware \u2014 cited but absent from the manual",
-      "detail": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware).  No candidate section exists; this needs a source."
-    },
-    {
-      "n": 28,
+      "n": 17,
       "id": "BID-B03",
       "severity": "medium",
       "title": "Division 09 bid ITB-044, ITB-056, ITB-062, RFP-060 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 37,
+      "n": 26,
       "id": "GMP-04",
       "severity": "medium",
       "title": "Several ITB packages are unaddressed by the Basis of GMP",

@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -232,21 +233,21 @@
   },
   "open_pm_items": [
     {
-      "n": 30,
+      "n": 19,
       "id": "BID-B05",
       "severity": "medium",
       "title": "Exerplay bid ITB-018, ITB-019, ITB-078 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 34,
+      "n": 23,
       "id": "BID-B09",
       "severity": "medium",
       "title": "YESCO bid ITB-072, ITB-078, ITB-089 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 39,
+      "n": 28,
       "id": "GMP-06",
       "severity": "medium",
       "title": "Owner Accepted Alternates supersede drawn details",

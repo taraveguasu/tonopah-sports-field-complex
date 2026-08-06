@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -236,14 +237,14 @@
   },
   "open_pm_items": [
     {
-      "n": 31,
+      "n": 20,
       "id": "BID-B06",
       "severity": "medium",
       "title": "SI Legacy bid ITB-040, ITB-066, ITB-067 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 37,
+      "n": 26,
       "id": "GMP-04",
       "severity": "medium",
       "title": "Several ITB packages are unaddressed by the Basis of GMP",

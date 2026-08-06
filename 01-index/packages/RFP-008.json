@@ -19,6 +19,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -777,25 +778,18 @@
       "detail": "Proposal states $1,924,851 (building_connected_header); bid tab states $3,152,033 as 'New-Com (TAB Contractors)'. The tabulation appears to have swapped these two bidders' prices \u2014 the amount on this proposal is tabulated against another firm on the same package. Correction already applied to awarded-sub-mapping.json \u2014 confirm."
     },
     {
-      "n": 7,
+      "n": 6,
       "id": "SPEC-C01",
       "severity": "high",
       "title": "02 41 00 Demolition \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below."
+      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what each demolishes. RFP-008 carries the full building demolition and the site demolition; RFP-002 is abatement, which has demolition inside it. This refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was about the site and building work, not about abatement's own demolition."
     },
     {
-      "n": 39,
+      "n": 28,
       "id": "GMP-06",
       "severity": "medium",
       "title": "Owner Accepted Alternates supersede drawn details",
       "detail": "Six Owner Accepted Alternates change scope from the bid set: RCP flared end replaces the CIP concrete headwall detail; access road grading removed; bleacher footings per manufacturer design replace the drawn foundation design; manual galvanized OH doors replace motorized aluminum; sealed concrete replaces epoxy/resinous flooring; one flagpole instead of three. Every exhibit citing the superseded detail must reflect the alternate."
-    },
-    {
-      "n": 50,
-      "id": "SPEC-G01",
-      "severity": "low",
-      "title": "02 41 13 Selective Site Demolition \u2014 cited but absent from the manual",
-      "detail": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation.  CANDIDATE(S) in manual: 02 41 00 \u2014 confirm or reject."
     }
   ]
 }

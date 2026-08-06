@@ -138,6 +138,30 @@ REMOVED_BY_OWNER = {
     },
 }
 
+# Packages the PM intends to award under ONE subcontract, each keeping its own
+# Attachment A. PM ruling 08.06.26 (D), scope confirmed 08.06.26: write each scope
+# independently.
+#
+# The exhibits stay separate on purpose. Each trade's scope remains independently
+# reviewable and independently descopeable, and if the combination does not hold at
+# award, the exhibits survive it. What the grouping does change is what counts as an
+# overlap: scope-qa must not flag RFP-060 and ITB-044 sharing a boundary as a
+# leveling defect when they are heading into the same agreement.
+COMBINED_SUBCONTRACTS = {
+    "RFP-060": {
+        "lead": "RFP-060",
+        "members": ["RFP-060", "ITB-044", "ITB-062", "ITB-077"],
+        "ruling_date": "2026-08-06",
+        "ruling": "RFP-060 will include ITB-044 Insulation, ITB-062 Acoustical Ceiling "
+                  "Treatments and ITB-077 Lockers. Each scope is written independently -- "
+                  "one Attachment A per package, all attached to the one subcontract.",
+        "drafting": "Draft this package's exhibit on its own scope only. Do not absorb the "
+                    "other members' scope into it and do not exclude their scope from it; "
+                    "they are separate exhibits under the same agreement.",
+    },
+}
+COMBINED_LOOKUP = {m: g for g in COMBINED_SUBCONTRACTS.values() for m in g["members"]}
+
 DIVISION_PDF = {
     "02": "div-02-existing-conditions", "03": "div-03-concrete", "04": "div-04-masonry",
     "05": "div-05-metals", "06": "div-06-wood-plastics-composites",
@@ -288,6 +312,7 @@ def main():
                         "bidders' proposals and the documents on hand, per PM ruling.",
             }),
             "removed_by_owner": REMOVED_BY_OWNER.get(pkg),
+            "combined_subcontract": COMBINED_LOOKUP.get(pkg),
             "spec_sections": {
                 "primary": [spec_entry(s) for s in sorted(sec_owner.get(pkg, []),
                                                           key=lambda x: x["section"])],
@@ -339,6 +364,7 @@ def main():
             "sheets_draft_from": len(rec["drawings"]["draft_from"]),
             "bidders": len(bidders),
             "open_pm_items": len(rec["open_pm_items"]),
+            "combined_with": (COMBINED_LOOKUP[pkg]["members"] if pkg in COMBINED_LOOKUP else None),
         }
 
     # Preserve the rejected first index rather than overwriting it -- the PM review

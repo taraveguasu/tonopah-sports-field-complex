@@ -8,7 +8,7 @@
     "sheets_draft_from": 483,
     "bidders": 134,
     "packages_awarded": 14,
-    "open_pm_items_attached": 79
+    "open_pm_items_attached": 60
   },
   "packages": {
     "ITB-008": {
@@ -20,7 +20,8 @@
       "spec_sections": 0,
       "sheets_draft_from": 29,
       "bidders": 2,
-      "open_pm_items": 2
+      "open_pm_items": 2,
+      "combined_with": null
     },
     "ITB-018": {
       "title": "Site Furnishings",
@@ -31,7 +32,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 17,
       "bidders": 3,
-      "open_pm_items": 3
+      "open_pm_items": 3,
+      "combined_with": null
     },
     "ITB-019": {
       "title": "Track & Field Athletic Equipment",
@@ -42,7 +44,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 16,
       "bidders": 7,
-      "open_pm_items": 6
+      "open_pm_items": 4,
+      "combined_with": null
     },
     "ITB-040": {
       "title": "Moisture Protection & Sealants (incl. Acoustical Caulking)",
@@ -53,7 +56,8 @@
       "spec_sections": 2,
       "sheets_draft_from": 3,
       "bidders": 3,
-      "open_pm_items": 2
+      "open_pm_items": 2,
+      "combined_with": null
     },
     "ITB-044": {
       "title": "Insulation",
@@ -64,7 +68,13 @@
       "spec_sections": 1,
       "sheets_draft_from": 2,
       "bidders": 6,
-      "open_pm_items": 3
+      "open_pm_items": 2,
+      "combined_with": [
+        "RFP-060",
+        "ITB-044",
+        "ITB-062",
+        "ITB-077"
+      ]
     },
     "ITB-054": {
       "title": "Special Doors",
@@ -75,7 +85,8 @@
       "spec_sections": 2,
       "sheets_draft_from": 15,
       "bidders": 4,
-      "open_pm_items": 2
+      "open_pm_items": 2,
+      "combined_with": null
     },
     "ITB-056": {
       "title": "Doors, Frames & Hardware",
@@ -86,7 +97,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 12,
       "bidders": 5,
-      "open_pm_items": 4
+      "open_pm_items": 3,
+      "combined_with": null
     },
     "ITB-062": {
       "title": "Acoustical Ceiling Treatments",
@@ -97,7 +109,13 @@
       "spec_sections": 1,
       "sheets_draft_from": 3,
       "bidders": 3,
-      "open_pm_items": 2
+      "open_pm_items": 2,
+      "combined_with": [
+        "RFP-060",
+        "ITB-044",
+        "ITB-062",
+        "ITB-077"
+      ]
     },
     "ITB-066": {
       "title": "Fluid-Applied Flooring",
@@ -108,7 +126,8 @@
       "spec_sections": 0,
       "sheets_draft_from": 11,
       "bidders": 4,
-      "open_pm_items": 4
+      "open_pm_items": 4,
+      "combined_with": null
     },
     "ITB-067": {
       "title": "Concrete Finishing",
@@ -119,7 +138,8 @@
       "spec_sections": 2,
       "sheets_draft_from": 12,
       "bidders": 4,
-      "open_pm_items": 4
+      "open_pm_items": 4,
+      "combined_with": null
     },
     "ITB-070": {
       "title": "Final Cleaning",
@@ -130,7 +150,8 @@
       "spec_sections": 0,
       "sheets_draft_from": 0,
       "bidders": 3,
-      "open_pm_items": 0
+      "open_pm_items": 0,
+      "combined_with": null
     },
     "ITB-071": {
       "title": "Visual Display Boards & Menu Display Case",
@@ -141,7 +162,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 14,
       "bidders": 1,
-      "open_pm_items": 1
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "ITB-072": {
       "title": "Building Signage",
@@ -152,7 +174,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 2,
       "bidders": 3,
-      "open_pm_items": 2
+      "open_pm_items": 2,
+      "combined_with": null
     },
     "ITB-074": {
       "title": "Building & Fire Protection Specialties (incl. corner guards, cabinets, mirrors)",
@@ -163,7 +186,8 @@
       "spec_sections": 3,
       "sheets_draft_from": 14,
       "bidders": 1,
-      "open_pm_items": 3
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "ITB-077": {
       "title": "Lockers",
@@ -174,7 +198,13 @@
       "spec_sections": 0,
       "sheets_draft_from": 1,
       "bidders": 1,
-      "open_pm_items": 3
+      "open_pm_items": 2,
+      "combined_with": [
+        "RFP-060",
+        "ITB-044",
+        "ITB-062",
+        "ITB-077"
+      ]
     },
     "ITB-078": {
       "title": "Flagpoles",
@@ -185,7 +215,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 2,
       "bidders": 4,
-      "open_pm_items": 3
+      "open_pm_items": 3,
+      "combined_with": null
     },
     "ITB-085": {
       "title": "Warming Kitchen Food Service Equipment",
@@ -196,7 +227,8 @@
       "spec_sections": 2,
       "sheets_draft_from": 2,
       "bidders": 2,
-      "open_pm_items": 1
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "ITB-089": {
       "title": "Scoreboards",
@@ -207,7 +239,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 5,
       "bidders": 4,
-      "open_pm_items": 1
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "RFP-002": {
       "title": "Abatement & Building Wrecking",
@@ -218,7 +251,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 13,
       "bidders": 6,
-      "open_pm_items": 5
+      "open_pm_items": 3,
+      "combined_with": null
     },
     "RFP-008": {
       "title": "Site Demolition, Salvage, Earthwork, Asphalt Paving, Wet Utilities, & Site Signage & Striping",
@@ -229,7 +263,8 @@
       "spec_sections": 9,
       "sheets_draft_from": 49,
       "bidders": 4,
-      "open_pm_items": 5
+      "open_pm_items": 4,
+      "combined_with": null
     },
     "RFP-016": {
       "title": "Landscaping & Irrigation",
@@ -240,7 +275,8 @@
       "spec_sections": 3,
       "sheets_draft_from": 9,
       "bidders": 4,
-      "open_pm_items": 2
+      "open_pm_items": 2,
+      "combined_with": null
     },
     "RFP-021": {
       "title": "Running Track Surfacing",
@@ -251,7 +287,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 12,
       "bidders": 3,
-      "open_pm_items": 1
+      "open_pm_items": 0,
+      "combined_with": null
     },
     "RFP-022": {
       "title": "Synthetic Turf Sports Field",
@@ -262,7 +299,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 6,
       "bidders": 7,
-      "open_pm_items": 3
+      "open_pm_items": 2,
+      "combined_with": null
     },
     "RFP-023": {
       "title": "Fencing & Gates",
@@ -273,7 +311,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 16,
       "bidders": 6,
-      "open_pm_items": 0
+      "open_pm_items": 0,
+      "combined_with": null
     },
     "RFP-030": {
       "title": "Concrete",
@@ -284,7 +323,8 @@
       "spec_sections": 8,
       "sheets_draft_from": 36,
       "bidders": 6,
-      "open_pm_items": 2
+      "open_pm_items": 2,
+      "combined_with": null
     },
     "RFP-031": {
       "title": "Masonry",
@@ -295,7 +335,8 @@
       "spec_sections": 2,
       "sheets_draft_from": 13,
       "bidders": 6,
-      "open_pm_items": 1
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "RFP-033": {
       "title": "Structural Steel & Ornamental Metals",
@@ -306,7 +347,8 @@
       "spec_sections": 4,
       "sheets_draft_from": 26,
       "bidders": 2,
-      "open_pm_items": 1
+      "open_pm_items": 0,
+      "combined_with": null
     },
     "RFP-045": {
       "title": "Metal Roofing, Fascia & Soffit Panels",
@@ -317,7 +359,8 @@
       "spec_sections": 3,
       "sheets_draft_from": 10,
       "bidders": 2,
-      "open_pm_items": 3
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "RFP-060": {
       "title": "Framing, Drywall & Painting (incl. FRP)",
@@ -328,7 +371,13 @@
       "spec_sections": 8,
       "sheets_draft_from": 26,
       "bidders": 4,
-      "open_pm_items": 4
+      "open_pm_items": 3,
+      "combined_with": [
+        "RFP-060",
+        "ITB-044",
+        "ITB-062",
+        "ITB-077"
+      ]
     },
     "RFP-094": {
       "title": "Bleachers & Press Box",
@@ -339,7 +388,8 @@
       "spec_sections": 1,
       "sheets_draft_from": 17,
       "bidders": 3,
-      "open_pm_items": 1
+      "open_pm_items": 0,
+      "combined_with": null
     },
     "RFP-098": {
       "title": "Plumbing Systems",
@@ -350,7 +400,8 @@
       "spec_sections": 11,
       "sheets_draft_from": 23,
       "bidders": 4,
-      "open_pm_items": 1
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "RFP-100": {
       "title": "HVAC & Building Control Systems (incl. Test & Balance)",
@@ -361,7 +412,8 @@
       "spec_sections": 16,
       "sheets_draft_from": 17,
       "bidders": 7,
-      "open_pm_items": 2
+      "open_pm_items": 1,
+      "combined_with": null
     },
     "RFP-103": {
       "title": "Electrical & Low Voltage Systems (incl. Sports Field Lighting)",
@@ -372,7 +424,8 @@
       "spec_sections": 22,
       "sheets_draft_from": 45,
       "bidders": 7,
-      "open_pm_items": 1
+      "open_pm_items": 0,
+      "combined_with": null
     },
     "RFP-109": {
       "title": "Prefabricated Ticket Booth",
@@ -383,7 +436,8 @@
       "spec_sections": 0,
       "sheets_draft_from": 5,
       "bidders": 3,
-      "open_pm_items": 1
+      "open_pm_items": 1,
+      "combined_with": null
     }
   }
 }

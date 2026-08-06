@@ -19,6 +19,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -266,7 +267,7 @@
   },
   "open_pm_items": [
     {
-      "n": 34,
+      "n": 23,
       "id": "BID-B09",
       "severity": "medium",
       "title": "YESCO bid ITB-072, ITB-078, ITB-089 as one bundled scope",

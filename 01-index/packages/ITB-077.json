@@ -17,6 +17,18 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": {
+    "lead": "RFP-060",
+    "members": [
+      "RFP-060",
+      "ITB-044",
+      "ITB-062",
+      "ITB-077"
+    ],
+    "ruling_date": "2026-08-06",
+    "ruling": "RFP-060 will include ITB-044 Insulation, ITB-062 Acoustical Ceiling Treatments and ITB-077 Lockers. Each scope is written independently -- one Attachment A per package, all attached to the one subcontract.",
+    "drafting": "Draft this package's exhibit on its own scope only. Do not absorb the other members' scope into it and do not exclude their scope from it; they are separate exhibits under the same agreement."
+  },
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [],
@@ -85,22 +97,15 @@
   },
   "open_pm_items": [
     {
-      "n": 8,
+      "n": 7,
       "id": "SPEC-C02",
       "severity": "high",
       "title": "09 21 16 Gypsum Board Assemblies \u2014 claimed by more than one scope doc",
       "detail": "Assigned to RFP-060 (trade_judgment); also cited by ITB-077. Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly."
     },
     {
-      "n": 18,
-      "id": "SPEC-G11",
-      "severity": "high",
-      "title": "10 51 13 Metal Lockers \u2014 cited but absent from the manual",
-      "detail": "Metal Lockers. Absent. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24 in. W x 18 in. D x 72 in. H) per PM ruling 07.31.26, reinforced by the keynote on revised sheet A10-30. Note Henri also prices metal lockers inside ITB-074 at $22,519 -- decide which subcontract carries them.  No candidate section exists; this needs a source."
-    },
-    {
-      "n": 45,
-      "id": "SPEC-N04",
+      "n": 33,
+      "id": "SPEC-N03",
       "severity": "medium",
       "title": "ITB-077 holds no spec section of its own",
       "detail": "Lockers. Cited 10 51 13 Metal Lockers is absent from the manual. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24\"W x 18\"D x 72\"H) per PM ruling 07.31.26, reinforced by the keynote on sheet A10-30."

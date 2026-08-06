@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -294,25 +295,11 @@
   },
   "open_pm_items": [
     {
-      "n": 5,
+      "n": 4,
       "id": "GMP-01",
       "severity": "high",
       "title": "Berridge C-Lock in the GMP reverses RFI #23",
       "detail": "Clarification No.1 RFI #23 answered that spec 07 61 00 (MBCI PBR panel BOD) takes precedence over the plan callout of Berridge Cee-lock. The GMP is priced on the Berridge C-Lock system. The GMP is later and the PM directs it supersedes, but this overturns a written architect's RFI answer. Confirm before RFP-045 issues."
-    },
-    {
-      "n": 13,
-      "id": "SPEC-G04",
-      "severity": "high",
-      "title": "07 41 13 Metal Roof Panels \u2014 cited but absent from the manual",
-      "detail": "Metal Roof Panels -- RFP-045's own primary section, and it is not in the manual. 07 61 00 Sheet Metal Roofing is the nearest published substitute and is assigned to RFP-045, but it is a different section, not a renumbering. Confirm which governs the panel system before issuing.  No candidate section exists; this needs a source."
-    },
-    {
-      "n": 14,
-      "id": "SPEC-G05",
-      "severity": "high",
-      "title": "07 71 23 Manufactured Gutters and Downspouts \u2014 cited but absent from the manual",
-      "detail": "Manufactured Gutters and Downspouts. Absent. 07 62 00 Sheet Metal Flashing and Trim is assigned to RFP-045 and is the nearest published coverage; confirm it carries the gutters, or the roof drainage has no specification.  No candidate section exists; this needs a source."
     }
   ]
 }

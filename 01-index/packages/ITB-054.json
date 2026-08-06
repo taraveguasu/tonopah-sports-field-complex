@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -462,14 +463,14 @@
   },
   "open_pm_items": [
     {
-      "n": 6,
+      "n": 5,
       "id": "GMP-02",
       "severity": "high",
       "title": "Door 106 panic hardware exclusion is ambiguous",
       "detail": "The exclusion reads: 'Panic hardware at Door 106 per Door Schedule Remark 2. Hardware provided per specification section 08711 Door Hardware, Hardware Set 01'. It is unclear whether panic hardware is excluded outright, or whether Remark 2's hardware is excluded and Hardware Set 01 substituted. Door 106 is the concessions overhead counter shutter area and this is a life-safety item."
     },
     {
-      "n": 39,
+      "n": 28,
       "id": "GMP-06",
       "severity": "medium",
       "title": "Owner Accepted Alternates supersede drawn details",

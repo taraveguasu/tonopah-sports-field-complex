@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -591,7 +592,7 @@
   },
   "open_pm_items": [
     {
-      "n": 27,
+      "n": 16,
       "id": "BID-B02",
       "severity": "medium",
       "title": "XL Concrete Masonry LLC bid RFP-030, RFP-031 as one bundled scope",

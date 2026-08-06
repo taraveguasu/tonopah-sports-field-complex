@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -302,13 +303,5 @@
     "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
     "sales_tax": "Includes Nevada State Sales Tax."
   },
-  "open_pm_items": [
-    {
-      "n": 21,
-      "id": "SPEC-G15",
-      "severity": "high",
-      "title": "32 19 19 Landscape Grading \u2014 cited but absent from the manual",
-      "detail": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving is assigned to RFP-008 and is the nearest coverage.  No candidate section exists; this needs a source."
-    }
-  ]
+  "open_pm_items": []
 }

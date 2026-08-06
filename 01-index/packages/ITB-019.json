@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [
@@ -340,46 +341,32 @@
   },
   "open_pm_items": [
     {
-      "n": 10,
+      "n": 9,
       "id": "SPEC-C04",
       "severity": "high",
       "title": "12 93 00 Site Furnishings \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to ITB-018 (trade_judgment); also cited by ITB-019. SPLIT SECTION -- ITB-018 and ITB-019 both cite it, and the section's own Section Includes spans both: benches and waste receptacles (ITB-018) and NFHS athletic equipment, goals, cages and pits (ITB-019). Primary shown as ITB-018 for the furnishings portion; ITB-019 must carry the athletic-equipment portion of the same section. Needs a PM ruling before either subcontract issues."
+      "detail": "Assigned to ITB-018 (pm_ruling); also cited by ITB-019. PM ruling 08.06.26 (A2/C1): ITB-018 SUPPLIES, ITB-019 INSTALLS. The section goes in both subcontracts -- not split by paragraph. ITB-019's obligation is installation only, so its Attachment A must say so explicitly or it reads as carrying supply too."
     },
     {
-      "n": 11,
+      "n": 10,
       "id": "SPEC-C05",
       "severity": "high",
       "title": "32 91 13 Shot Put and Discus Mix \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to RFP-016 (pm_ruling); also cited by ITB-019. PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping."
+      "detail": "Assigned to RFP-016 (pm_ruling); also cited by ITB-019. PM ruling 07.31.26, refined 08.06.26 (A5): RFP-016 carries it. Do NOT write exclusions into ITB-019 or RFP-030 -- both must coordinate with this scope, and an exclusion would read as no obligation to coordinate. Treat as flow-down: RFP-016 executes, the others coordinate."
     },
     {
-      "n": 30,
+      "n": 19,
       "id": "BID-B05",
       "severity": "medium",
       "title": "Exerplay bid ITB-018, ITB-019, ITB-078 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
     },
     {
-      "n": 37,
+      "n": 26,
       "id": "GMP-04",
       "severity": "medium",
       "title": "Several ITB packages are unaddressed by the Basis of GMP",
       "detail": "No scope assumption or exclusion covers ITB-008 Surveying, ITB-019 Track & Field Athletic Equipment (beyond excluding soccer goals), ITB-040, ITB-044, ITB-056, ITB-062, ITB-071, ITB-072, or ITB-085 Warming Kitchen Food Service Equipment. With 'Loose FF&E' excluded, whether the warming kitchen equipment is in or out is not established."
-    },
-    {
-      "n": 43,
-      "id": "SPEC-N02",
-      "severity": "medium",
-      "title": "ITB-019 holds no spec section of its own",
-      "detail": "Track & Field Athletic Equipment. Its work lives inside 12 93 00 Site Furnishings, whose own Section Includes spans both this package and ITB-018; primary is shown as ITB-018 pending a PM ruling on the split. Its cited 11 68 33 Athletic Field Equipment is absent (see candidates)."
-    },
-    {
-      "n": 54,
-      "id": "SPEC-G12",
-      "severity": "low",
-      "title": "11 68 33 Athletic Field Equipment \u2014 cited but absent from the manual",
-      "detail": "Athletic Field Equipment. Numerically near 11 68 43 Football/TrackScoreboard, but that section is the scoreboard, which is ITB-089's -- the candidate is a number match, not a scope match. Treat the athletic-equipment spec as MISSING; ITB-019's requirements rest on 12 93 00 and the drawings.  CANDIDATE(S) in manual: 11 68 43 \u2014 confirm or reject."
     }
   ]
 }

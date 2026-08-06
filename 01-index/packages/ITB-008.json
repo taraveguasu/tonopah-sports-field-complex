@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [],
@@ -344,14 +345,14 @@
   },
   "open_pm_items": [
     {
-      "n": 37,
+      "n": 26,
       "id": "GMP-04",
       "severity": "medium",
       "title": "Several ITB packages are unaddressed by the Basis of GMP",
       "detail": "No scope assumption or exclusion covers ITB-008 Surveying, ITB-019 Track & Field Athletic Equipment (beyond excluding soccer goals), ITB-040, ITB-044, ITB-056, ITB-062, ITB-071, ITB-072, or ITB-085 Warming Kitchen Food Service Equipment. With 'Loose FF&E' excluded, whether the warming kitchen equipment is in or out is not established."
     },
     {
-      "n": 42,
+      "n": 31,
       "id": "SPEC-N01",
       "severity": "medium",
       "title": "ITB-008 holds no spec section of its own",

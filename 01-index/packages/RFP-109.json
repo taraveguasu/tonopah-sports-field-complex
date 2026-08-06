@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [],
@@ -239,8 +240,8 @@
   },
   "open_pm_items": [
     {
-      "n": 47,
-      "id": "SPEC-N06",
+      "n": 34,
+      "id": "SPEC-N04",
       "severity": "medium",
       "title": "RFP-109 holds no spec section of its own",
       "detail": "Prefabricated Ticket Booth. No section exists; sheet A1-40 carries a written 'PRE-MANUFACTURED TICKET BOOTH SPECS' block, and PM ruling 08.04.26 sets the basis of design as Porta-King DURASTEEL PC Building Model PC64 (6'x4')."

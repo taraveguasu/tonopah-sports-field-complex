@@ -19,6 +19,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -935,13 +936,5 @@
     "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
     "sales_tax": "Includes Nevada State Sales Tax."
   },
-  "open_pm_items": [
-    {
-      "n": 15,
-      "id": "SPEC-G07",
-      "severity": "high",
-      "title": "08 71 00 Door Hardware \u2014 cited but absent from the manual",
-      "detail": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware).  No candidate section exists; this needs a source."
-    }
-  ]
+  "open_pm_items": []
 }

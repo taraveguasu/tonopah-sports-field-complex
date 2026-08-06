@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [
       {
@@ -795,14 +796,7 @@
       "detail": "This bidder's price is tabulated under a different package, so this package's row omits them and the other package's row carries a number that is not comparable to its single-scope bidders.  Tabulated instead under RFP-016 at $1,022,155."
     },
     {
-      "n": 21,
-      "id": "SPEC-G15",
-      "severity": "high",
-      "title": "32 19 19 Landscape Grading \u2014 cited but absent from the manual",
-      "detail": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving is assigned to RFP-008 and is the nearest coverage.  No candidate section exists; this needs a source."
-    },
-    {
-      "n": 26,
+      "n": 15,
       "id": "BID-B01",
       "severity": "medium",
       "title": "Tand Inc. bid RFP-016, RFP-022 as one bundled scope",

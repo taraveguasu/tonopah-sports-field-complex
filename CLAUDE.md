@@ -267,7 +267,7 @@ entire demolition scope is RFP-008.
 | 08.06.26 | **D** — RFP-045 owns the gutters and downspouts |
 | 08.06.26 | **D** — ITB-074 owns the fire protection cabinets |
 | 08.06.26 | **D** — RFP-094's only specifications are the written blocks on sheet A1-40 |
-| 08.06.26 | **D** — **RFP-060 will include ITB-044, ITB-062 and ITB-077** (see open question below) |
+| 08.06.26 | **D** — **RFP-060 will include ITB-044, ITB-062 and ITB-077** under one subcontract. **Each scope is written independently** — one Attachment A per package, all attached to the same agreement. Exhibits stay separately reviewable and separately descopeable; `scope-qa` must not read a shared boundary between these four as a leveling defect |
 | 08.06.26 | **E1** — Final Cleaning is its own package (**ITB-070**). No scope narrative was issued; draft from the four proposals and documents on hand |
 | 08.06.26 | **E2** — ITB-066 Fluid-Applied Flooring: **scope removed by the Owner in a value engineering exercise** |
 | 08.06.26 | **F1/F2/F3** — RFP-008 tab reversal, 07 25 00 shared RFP-045/ITB-040, and no firestopping obligation: all confirmed |

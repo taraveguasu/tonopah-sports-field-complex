@@ -17,6 +17,7 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": null,
   "spec_sections": {
     "primary": [],
     "added_by_pm_ruling": [
@@ -560,35 +561,21 @@
   },
   "open_pm_items": [
     {
-      "n": 7,
+      "n": 6,
       "id": "SPEC-C01",
       "severity": "high",
       "title": "02 41 00 Demolition \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below."
+      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 08.06.26 (A4): the section goes in BOTH subcontracts, split by what each demolishes. RFP-008 carries the full building demolition and the site demolition; RFP-002 is abatement, which has demolition inside it. This refines the 07.31.26 ruling -- 'the entire demolition scope is RFP-008' was about the site and building work, not about abatement's own demolition."
     },
     {
-      "n": 12,
-      "id": "SPEC-G02",
-      "severity": "high",
-      "title": "02 81 00 Transportation and Disposal of Misc. Hazardous Materials \u2014 cited but absent from the manual",
-      "detail": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A.  No candidate section exists; this needs a source."
-    },
-    {
-      "n": 35,
+      "n": 24,
       "id": "BID-P01",
       "severity": "medium",
-      "title": "RFP-002 \u2014 Northstar Contracting Group's price moves between documents",
+      "title": "RFP-002 \u2014 NorthStar Contracting Group, Inc.'s price moves between documents",
       "detail": "$718,623 (2026-05-12) -> $718,263 (2026-05-15). The later document governs by date; confirm which figure is intended before the subcontract value is set."
     },
     {
-      "n": 46,
-      "id": "SPEC-N05",
-      "severity": "medium",
-      "title": "RFP-002 holds no spec section of its own",
-      "detail": "Abatement & Building Wrecking. 02 41 00 Demolition went to RFP-008 by PM ruling 07.31.26, and the cited 02 81 00 Transportation and Disposal of Misc. Hazardous Materials is absent. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are not part of the spec manual."
-    },
-    {
-      "n": 48,
+      "n": 35,
       "id": "GMP-07",
       "severity": "low",
       "title": "Asbestos survey date differs from the staged file",

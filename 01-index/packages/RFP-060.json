@@ -19,6 +19,18 @@
     "note": "PRIMARY trade-boundary authority. Read this first and in full."
   },
   "removed_by_owner": null,
+  "combined_subcontract": {
+    "lead": "RFP-060",
+    "members": [
+      "RFP-060",
+      "ITB-044",
+      "ITB-062",
+      "ITB-077"
+    ],
+    "ruling_date": "2026-08-06",
+    "ruling": "RFP-060 will include ITB-044 Insulation, ITB-062 Acoustical Ceiling Treatments and ITB-077 Lockers. Each scope is written independently -- one Attachment A per package, all attached to the one subcontract.",
+    "drafting": "Draft this package's exhibit on its own scope only. Do not absorb the other members' scope into it and do not exclude their scope from it; they are separate exhibits under the same agreement."
+  },
   "spec_sections": {
     "primary": [
       {
@@ -685,32 +697,25 @@
   },
   "open_pm_items": [
     {
-      "n": 8,
+      "n": 7,
       "id": "SPEC-C02",
       "severity": "high",
       "title": "09 21 16 Gypsum Board Assemblies \u2014 claimed by more than one scope doc",
       "detail": "Assigned to RFP-060 (trade_judgment); also cited by ITB-077. Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly."
     },
     {
-      "n": 9,
+      "n": 8,
       "id": "SPEC-C03",
       "severity": "high",
       "title": "10 26 00 Wall and Door Protection \u2014 claimed by more than one scope doc",
-      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFLICT between two scope docs -- recorded."
+      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074."
     },
     {
-      "n": 28,
+      "n": 17,
       "id": "BID-B03",
       "severity": "medium",
       "title": "Division 09 bid ITB-044, ITB-056, ITB-062, RFP-060 as one bundled scope",
       "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
-    },
-    {
-      "n": 52,
-      "id": "SPEC-G06",
-      "severity": "low",
-      "title": "08 31 13 Access Doors and Panels \u2014 cited but absent from the manual",
-      "detail": "Access Doors and Panels. 08 31 00 is the published number for the same title. Near-certain renumbering.  CANDIDATE(S) in manual: 08 31 00 \u2014 confirm or reject."
     }
   ]
 }
