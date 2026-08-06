@@ -5,6 +5,15 @@ tools: Read, Glob, Grep, Write
 model: sonnet
 ---
 
+> **SUPERSEDED on the Tonopah project (08.06.26).** The index is now built by deterministic scripts —
+> `scripts/index_proposals.py`, `scripts/index_spec_sections.py`, `scripts/assign_sheets.py` and
+> `scripts/build_package_index.py` — writing one record per package to `01-index/packages/`. That
+> replaced an agent pass that recorded filenames without opening the documents behind them, and was
+> rejected at PM review on 07.31.26 at a ~47% defect rate on the rows checked. Scripts are re-runnable
+> when an addendum lands and can be probe-verified; an agent re-reading 343 documents is neither.
+> This definition is retained for projects that have not been scripted yet.
+
+
 You build `01-index/package-index.json` for the attachment-a-generator skill (see
 `.claude/skills/attachment-a-generator/SKILL.md` for the full pipeline and index schema — read it first).
 

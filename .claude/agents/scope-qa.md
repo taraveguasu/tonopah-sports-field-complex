@@ -1,6 +1,6 @@
 ---
 name: scope-qa
-description: Cross-checks all drafted Attachment A exhibits against each other and against the source index to catch gaps, overlaps, and awarded-sub-vs-RFP contradictions. Runs once, after every package in 02-drafts/ has been drafted. Invoke with the path to 02-drafts/, 01-index/package-index.json, and the bid form.
+description: Cross-checks all drafted Attachment A exhibits against each other and against the source index to catch gaps, overlaps, and awarded-sub-vs-RFP contradictions. Runs once, after every package in 02-drafts/ has been drafted. Invoke with the path to 02-drafts/, 01-index/packages/, and the bid form.
 tools: Read, Glob, Write, Bash
 model: opus
 ---
@@ -11,7 +11,9 @@ every other step stays narrow by design, but gap/overlap detection is inherently
 
 ## Your job
 
-1. Read every draft in `02-drafts/` and the full `01-index/package-index.json`.
+1. Read every draft in `02-drafts/`, the manifest `01-index/package-index.json`, and each
+   package's record under `01-index/packages/`. You are the only stage that sees all
+   packages at once — that is what lets you catch scope that fell between two of them.
 2. Check for **gaps**: work referenced anywhere in the source docs (spec sections, drawings, bid form line
    items) that doesn't appear as an inclusion in any package's draft. Pay specific attention to known gap
    zones: temp power, roof curbs/equipment pads, fire caulking, final grade/seed, access panels — check

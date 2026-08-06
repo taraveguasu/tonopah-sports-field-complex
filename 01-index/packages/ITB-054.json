@@ -1,0 +1,478 @@
+{
+  "_package_id": "ITB-054",
+  "_title": "Special Doors",
+  "_title_variants_in_source": null,
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 054 Special Doors.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "08 33 13",
+        "title": "Coiling Counter Doors",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by ITB-054.",
+        "manual_pages": "206-209",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-08-openings.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "08 33 23",
+        "title": "Overhead Coiling Doors",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by ITB-054.",
+        "manual_pages": "210-213",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-08-openings.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "A10-10",
+        "title": "ROOM FINISH SCHEDULE AND FINISH PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A10-10.txt"
+      },
+      {
+        "sheet": "A11-10",
+        "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A11-10.txt"
+      },
+      {
+        "sheet": "A5-10",
+        "title": "EXTERIOR ELEVATIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A5-10.txt"
+      },
+      {
+        "sheet": "A7-10",
+        "title": "WALL SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A7-10.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "G1",
+        "title": "GRADING PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G1.txt"
+      },
+      {
+        "sheet": "G2",
+        "title": "GRADING PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G2.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "UT1",
+        "title": "UTILITY PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT1.txt"
+      },
+      {
+        "sheet": "UT2",
+        "title": "UTILITY PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT2.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "AD1.11",
+      "AD1.12",
+      "E0-02",
+      "E3-10",
+      "E3-20",
+      "G0-00",
+      "G0-11",
+      "L2.01",
+      "LS1-10",
+      "M0-05",
+      "M2-10"
+    ]
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "Crawford",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (ALT finish).pdf.txt",
+      "current_date": "2026-06-02",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (Door 106A Manual ALT).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (descope).pdf.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford.pdf.txt"
+      ],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Frontier",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Frontier.pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "1- 8-0 x 4-0 Cornell Model ESC10. Counter door. 22ga Galv steel. Crank operated. powder coated. Slide locks. Hood. Door 106A",
+        "Prevailing Wage, All doors meet Spec.",
+        "Payment Terms",
+        "Acceptance Terms",
+        "Valid Thru",
+        "Total Amount",
+        "Submitted By",
+        "Phone No",
+        "Chris Smith , Outside Sales and Project Management",
+        "chris@nevadaoverhead.com",
+        "Signature"
+      ],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Lawrence Doors",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors.pdf.txt",
+      "current_date": "2026-05-08",
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (CD Substitution Comparison).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (OHD Substitution Comparison).pdf.txt"
+      ],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "Delivery and Installation",
+        "Sales Tax:",
+        "Labor Type:",
+        "(Only if payment by check or cash)",
+        "This proposal is valid for 30 days from date issued.",
+        "Corporate Office:",
+        "4525 Littlejohn St Baldwin Park CA 91706",
+        "Phone: 626-962-4163  Fax: 626-960-2063",
+        "Proposal #:",
+        "www.door911.com",
+        "Payment Terms Net 10 Days (Upon Approval of Credit App)",
+        "time 4-7 weeks (currently)",
+        "Furnish and install the following @ Doors 102B & 112: Concession Stand Building",
+        "Includes with Thumb turn on bottom bar to coil side",
+        "Furnish and install the following: @ Door 106A: Concession Stand Counter"
+      ],
+      "exclusions_scope_specific": [
+        "We exclude the following items (unless specifically included in the scope of work on this proposal):",
+        "Opening preparation, miscellaneous steel, steel tube supports, access panels; finish painting; counter tops, sills or thresholds; protection of our",
+        "products and work after installation for damage or loss resulting from other tradesmen or any other jobsite circumstance beyond our control;",
+        "mounting of control equipment (push button stations, etc.), coding of radio transmitters, field wiring of both controls and line voltage, conduit,",
+        "wire, disconnect switches or any other electrical work or material; smoke detectors or interconnection of fire doors to central alarm systems;",
+        "sawcutting of driveway or laying in and sealing of buried loop wires; welding performed by certified welders; permits and bonds; or other items",
+        "or work not specified to be included on within our Proposal scope.",
+        "Security Alarms: In the course of our work if existing security alarm connections are made to the door or gate that we are servicing we will",
+        "attempt to keep those connections undisturbed or place them back on the new door/gate in a similar fashion to how they had been placed",
+        "originally. However, should there be any issue with the alarm connections Lawrence Doors will not be responsible for the alarm operation and",
+        "the customer, at their own expense, should contact their alarm company to restore any alarm connections as needed.",
+        "Labor Provisions: Work is to be performed by installers provided by Lawrence Roll-Up Doors, Inc. at their regular rates of pay (unless",
+        "prevailing wages are indicated as included on this Proposal) during normal business hours Monday to Friday unless otherwise stated. Labor may",
+        "be subcontracted to another licensed subcontractor, which may include an owner/operator (whose compensation is in the form of draws that",
+        "meet or exceed prevailing wage rates, when applicable). Any and all references to union labor, wages, benefits, programs or other provisions",
+        "related to organized labor are excluded. Unrestricted use, free of obstructions, foot and vehicular traffic in the doorway, and a reasonable space",
+        "adjacent to the door opening must be assured to perform our work as agreed.",
+        "coverage are as set forth in the Certificate of Insurance which will be provided upon request. Participation in any owner controlled insurance",
+        "program (OCIP) or other special program, special forms of coverage, coverage in excess of standard limits, or any other special requirements are",
+        "excluded unless they are specifically noted in the scope of this proposal.",
+        "Fire Doors: One functional drop test/inspection for Authority Having Jurisdiction is included with all newly installed fire doors. Should additional",
+        "Terms and Conditions: Pricing is based upon all materials being shipped (and installed, if installation has been included) at the same time. All",
+        "work is to be performed during our normal business hours unless otherwise stated in the scope of work of this proposal. All new doors and",
+        "accessories carry a 1 year warranty for defects in materials and workmanship. Additional warranty terms apply. Unless credit terms are",
+        "established, a 50% deposit is required on all orders of custom made doors and products. The balance is due upon completion of the work",
+        "described. Pricing includes sales tax only if noted above. In the event that payment is not made within the terms above, the purchaser agrees to",
+        "pay the maximum legal rate of interest from the date the billing became due. In the event that legal actions are required to enforce the",
+        "payment terms of this agreement the purchaser agrees to pay all costs incurred relating to the collection and further acknowledges and agrees",
+        "that suit may be filed in Los Angeles County, California.",
+        "Shop Drawings/Submittals: Price includes one site visit to field check/measure finished openings (if installation has been included).",
+        "Submittals/Shop Drawings will be supplied if requested. Submittals are provided only as black and white reproductions of standard format shop",
+        "drawings on 8 \u00bd\u201dx11\u201d or 11\u201dx17\u201d plain paper. Custom scale drawings, sepia prints, architect/engineer review/stamp or other special",
+        "requirements may also be available for an additional charge.",
+        "Lead Times: Lead times offered are estimated based upon our current backlog. Lead time may vary depending on when an order is actually",
+        "placed, deposit is received, submittals are approved, and openings are available for field check/measurement.",
+        "Product Finishes: All products are \"prime coat\" painted only unless specifically noted in this proposal. Prime coat describes a paint finish that is",
+        "primed and ready for a finish paint by others. It may include field applied touch ups of the factory finish. Products that are powder coated may",
+        "be touched up in the field if needed with a field applied liquid touch up paint.",
+        "Rob Brooks",
+        "rbrooks@door911.com",
+        "Please review the exclusions, labor provisions, insurance coverage, acceptance, and terms and",
+        "conditions shown on this proposal.",
+        "Accepted By(Sign)",
+        "Contractors License Number (If Applicable):",
+        "Bid Bond:",
+        "Performance Bond:",
+        "Lawrence Doors Exclusions/Terms and Conditions",
+        "Accepted By(Print)",
+        "Submitted By:",
+        "This proposal is valid for 30 days from date issued.",
+        "Corporate Office:",
+        "4525 Littlejohn St Baldwin Park CA 91706",
+        "Phone: 626-962-4163  Fax: 626-960-2063",
+        "Proposal #:",
+        "www.door911.com",
+        "Electrical Wiring: Unless specifically noted within this proposal, any required electrical wiring will be limited to the connection or reconnection",
+        "of low voltage wiring and specifically does not include wiring, fittings, conduits, disconnect switches or other electrical fixtures that may be",
+        "required.",
+        "Please refer to http://www.dasma.com/pubtechdata.asp for a variety of industry standards and information regarding the selection of and",
+        "standards for Rolling Steel Doors. Lawrence Roll Up Doors, Inc is a member of DASMA (Door and Access Systems Manufactures Association).",
+        "All contractors are required to be licensed. \u201cInformation about the Contractors\u2019 State License Board (CSLB): CSLB is the state consumer",
+        "protection agency that licenses and regulates construction contractors. Contact CSLB for information about the licensed contractor you are",
+        "considering, including information about disclosable complaints, disciplinary actions, and civil judgments that are reported to CSLB. Use only",
+        "licensed contractors. If you file a complaint against a licensed contractor within the legal deadline (usually four years), CSLB has authority to",
+        "investigate the complaint. If you use an unlicensed contractor, CSLB may not be able to help you resolve your complaint. Your only remedy may",
+        "be in civil court, and you may be liable for damages arising out of any injuries to the unlicensed contractor or the unlicensed contractor\u2019s",
+        "employees. For more information:Visit CSLB\u2019s Internet Web site at www.cslb.ca.gov Call CSLB at 800-321-CSLB (2752)Write CSLB at P.O. Box",
+        "26000, Sacramento, CA 95826.\u201d",
+        "Mechanics Liens: Anyone who helps improve your property, but who is not paid, may record what is called a mechanics\u2019 lien on your property.",
+        "A mechanics\u2019 lien is a claim, like a mortgage or home equity loan, made against your property and recorded with the county recorder. Upon",
+        "satisfactory payment being made for any portion of the work performed, the contractor, prior to any further payment being made, shall furnish",
+        "to the person contracting for the home improvement work a full and unconditional release from any potential lien claimant claim or mechanic's",
+        "lien authorized pursuant to Section 3110 of the Civil Code for that portion of the work for which payment has been made.",
+        "Rights to cancel: California Homeowners have up to 3 days to cancel any HIC Home Improvement Contract. Notice of cancellation can be",
+        "mailed to the address shown at the top of page one of this proposal.",
+        "This proposal is valid for 30 days from date issued.",
+        "Corporate Office:",
+        "4525 Littlejohn St Baldwin Park CA 91706",
+        "Phone: 626-962-4163  Fax: 626-960-2063",
+        "Proposal #:",
+        "www.door911.com",
+        "For the Payment & Performance Bond, it\u2019s not included but I",
+        "noted 3%, which it was.",
+        "I was informed Friday told that it\u2019s no longer calculated by",
+        "percentage. Its $6.50 per thousand of the contract price, per our",
+        "contracting office.",
+        "- Rob Brooks, 05/11/26"
+      ],
+      "clarifications": [
+        "Clarifications1 & 2 and addemdum1 have been reviewed. This is an alternate to mfg. specified. Insulated",
+        "stainless steel curtain isn't available on counter doors. Deductions/ discounts are excluded for OCIP/ CCIP & bonds. Misc.",
+        "iron, sheet metal, flashing, caulking, shims, jamb supports, steel studs & steel tubes are excluded. All electrical work,",
+        "conduit, control mounting, low & high voltage wiring connects are excluded. Master keying of cylinder locks, additional keys,",
+        "padlocks, additional controls, seismic or structural calculations, field painting, ceiling work and access panels, Davis Bacon",
+        "wages, union labor and after-hours labor are excluded.",
+        "We are pleased to propose the following scope of work:",
+        "Discount for payment made by check or cash -$1,221.43",
+        "Proposed Price $36,119.43",
+        "Company:",
+        "Job Name:",
+        "Location:",
+        "Contact:",
+        "Proposal#:",
+        "Date Issued:05/08/2026",
+        "Prevailing Wage(Non-Union)",
+        "Discounted Price $34,898.00"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "McKeon",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon (descope).pdf.txt",
+      "current_date": "2026-05-21",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "descope",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "Opening preparations (Steel tubes, channels, angles, etc. unless noted)",
+        "Field finish painting/caulking",
+        "Electrical hook-ups, wire, control wiring, conduit, and disconnects)",
+        "Countertops",
+        "Demolition, disposal, and haul-away",
+        "Smoke detectors",
+        "Access controls (Loop detectors, electric eyes, etc.)",
+        "Back hood / Fascia",
+        "Pre Fire Drop Tests  (One Final Fire Inspection is included on regular hours)",
+        "Access Panels/Pocket Doors",
+        "**Proposal Continues Onto Next Page**",
+        "Furnish:",
+        "One (1) McKeon Model CS3000-M-SS Coiling Counter Shutter",
+        "Approximate Size:",
+        "(1) 8'-0\" wide x 4'-0\" high",
+        "McKeon Model CS3000-M-SS Coiling Counter Shutter includes as specified below:",
+        "Curtain of stainless steel slats",
+        "Guides of stainless steel angles and channels",
+        "Bottom bar of stainless steel angle with SE-R, slide locks and interlocks",
+        "Hood of stainless steel with lintel brush seal",
+        "NEMA 1 motor operator and surface mount push button control station",
+        "Surface mount application",
+        "All steel of gray prime paint finish",
+        "All stainless steel components of type 304, number 4 finish",
+        "Furnish:",
+        "Two (2) McKeon Model IS3020-HC-G Insulated Service Doors",
+        "Approximate Size:",
+        "(2) 8'-0\" wide x 7'-2\" high",
+        "McKeon Model IS3020-HC-G Insulated Service Doors includes as specified below:",
+        "Curtain of galvanized steel slats, 20 gauge front / 22 gauge back panels with polyurethane insulation",
+        "Guides of hot dipped galvanized roll formed steel angles (unfinished)",
+        "Bottom bar of steel angles slide locks",
+        "Hood of galvanized steel with lintel brush seal",
+        "Hand Chain operation",
+        "Perimeter weather seals as required",
+        "R value of 8.0",
+        "Surface mount application",
+        "Finish of McKeon Sterling Gray",
+        "To furnish and install Overhead Coiling Doors and Coiling Counter Shutter at said project using McKeon Door as (alternate",
+        "to the basis of design - listed in the spec) material supplier",
+        "$49,499.00 (Forty nine thousand four hundred and ninety nine dollars)",
+        "Alternate Deduct #1: For Powder Coat finish of Model CS3000 (Door #105A), in lieu of Stainless Steel finish type 304,",
+        "number 4 finish, deduct from the sum: $(2,010.00)",
+        "Alternate Add #1: For weatherseals on Model CS3000 (Door #105A), add to the sum: $147.00",
+        "Alternate Add #2: For Powder Coat finish of standard RAL 49 colors,  on all IS3020D Models provided (Doors #102B, #112),",
+        "add to the sum: $3,742.00",
+        "Authorized Signature:",
+        "Proposal By:",
+        "Brendan Randall",
+        "Nevada Office:  6671 Schuster St., Las Vegas, NV 89118   tel.702-636-9338   fax.702-636-9334",
+        "All quotations are made for prompt acceptance and are subject to change after 60 days.  Seller will impose a 5% cancellation fee once",
+        "shop drawings have been ordered and will include any fees from the manufacturer.  Seller reserves the right to withdraw this proposal at",
+        "any time, or to correct errors or make revisions.  All items to be manufactured in accordance with manufacturers standard specifications",
+        "for designated product. This proposal is subject to and is predicated on the acceptance of the McKeon Door of Nevada, Inc. \u201cTerms and",
+        "Conditions\u201d attached.",
+        "Thank you for the opportunity to bid!",
+        "NV LICENSE #0060999 \u2026UT LICENSE #7945997-5501 ...UNION \u2026.INSURED\u2026BONDABLE",
+        "Corporate Headquarters: 44 Sawgrass Drive  Bellport, NY 11713   tel.800-266-9392, 631-803-3000   fax.631-803-3030"
+      ],
+      "clarifications": [],
+      "priced_line_items": [
+        "Alternate Add #1: For weatherseals on Model CS3000 (Door #105A), add to the sum: $147.00",
+        "add to the sum: $3,742.00"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon.pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "Opening preparations (Steel tubes, channels, angles, etc. unless noted)",
+            "Field finish painting/caulking",
+            "Electrical hook-ups, wire, control wiring, conduit, and disconnects)",
+            "Countertops",
+            "NCSD - Tonopah High School Sports Complex",
+            "dawnduranleau@coreconstru",
+            "McKeon Door of Nevada, Inc. proposes:",
+            "Price to include delivery and installation of the following:"
+          ],
+          "priced_line_items": [
+            "Alternate Add #1: For weatherseals on Model CS3000 (Door #105A), add to the sum: $147.00",
+            "add to the sum: $3,742.00"
+          ]
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Includes manual, galvanized finish OH Doors. (Owner Accepted Alternate, ILO motorized aluminum OH Doors specified)"
+    ],
+    "possibly_relevant_exclusions": [
+      "Testing, special inspections, and any associated overtime or staff and resource costs for additional inspections not required by Code, permit, or the contract documents requirements or determined by the Design Team (i.e. abatement, geotechnical, concrete, reinforcing steel, deep foundations, shoring, masonry, structural steel, welding, fireproofing, water testing, etc.)."
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 6,
+      "id": "GMP-02",
+      "severity": "high",
+      "title": "Door 106 panic hardware exclusion is ambiguous",
+      "detail": "The exclusion reads: 'Panic hardware at Door 106 per Door Schedule Remark 2. Hardware provided per specification section 08711 Door Hardware, Hardware Set 01'. It is unclear whether panic hardware is excluded outright, or whether Remark 2's hardware is excluded and Hardware Set 01 substituted. Door 106 is the concessions overhead counter shutter area and this is a life-safety item."
+    },
+    {
+      "n": 39,
+      "id": "GMP-06",
+      "severity": "medium",
+      "title": "Owner Accepted Alternates supersede drawn details",
+      "detail": "Six Owner Accepted Alternates change scope from the bid set: RCP flared end replaces the CIP concrete headwall detail; access road grading removed; bleacher footings per manufacturer design replace the drawn foundation design; manual galvanized OH doors replace motorized aluminum; sealed concrete replaces epoxy/resinous flooring; one flagpole instead of three. Every exhibit citing the superseded detail must reflect the alternate."
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "_package_id": "RFP-002",
+  "_title": "Abatement & Building Wrecking",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 002 Abatement & Building Wrecking.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "02 81 00": {
+        "title_per_scope_doc": "Transportation and Disposal of Misc. Hazardous Materials",
+        "status": "OPEN",
+        "note": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "AD1.11",
+        "title": "DEMOLITION PLAN - ES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.11.txt"
+      },
+      {
+        "sheet": "AD1.12",
+        "title": "POST-DEMOLITION PLAN - ES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.12.txt"
+      },
+      {
+        "sheet": "AD1.13",
+        "title": "ENLARGED DEMO PLAN BLDG 4",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.13.txt"
+      },
+      {
+        "sheet": "AD1.14",
+        "title": "ENLARGED DEMO PLAN BLDG 5&6",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.14.txt"
+      },
+      {
+        "sheet": "AD1.15",
+        "title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.15.txt"
+      },
+      {
+        "sheet": "AD1.16",
+        "title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.16.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "L0.00",
+        "title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.00.txt"
+      },
+      {
+        "sheet": "L2.01",
+        "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.01.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "L1.03",
+      "M0-00"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Abatement & Building Wrecking",
+    "awarded_sub": "Northstar Contracting Group",
+    "license_no": "0044001",
+    "proposal_price": 718623.0,
+    "proposal_file": "002 Abatement & Building Wrecking - Northstar (w backup).pdf",
+    "other_bidders": [
+      "Action Solutions",
+      "Earth Resource Group",
+      "Environmental Protection Services",
+      "GGG Demolition"
+    ],
+    "descope_files_present": false,
+    "status": "awarded"
+  },
+  "bidders": [
+    {
+      "firm": "Action Solutions LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Action Solutions (backup, no Form).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 304455,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "Power, water, clearances, move out of contents in work area prior to start of work",
+        "All work performed shall meet or exceed all industry requirements including Federal, State and Municipal regulations.",
+        "Please note that an additional $850.00 will be added to the contract price should Action Solutions mobilize to",
+        "project site on confirmed date and the project is not ready to commence abatement.",
+        "It is understood that in order to properly perform asbestos abatement procedures, damage may occur to existing",
+        "surfaces. Action Solutions, LLC, will not be responsible for such damage unless it is specifically agreed upon by",
+        "both parties prior to the start of work.",
+        "The level of clean shall be determined by legal statute unless specified to a more stringent level prior to the start of work.",
+        "Clearance air monitoring levels currently are 0.01 fibers/cc with analysis performed via Phase Contrast Microscopy.",
+        "Action Solutions, LLC encourages the use of Transmission Electron Microscopy for clearance, but the additional costs",
+        "shall be borne by the owner.",
+        "Visual inspection by owner's representative and/or acceptable clearance levels achieved SHALL signify acceptance of",
+        "work AND release payment.",
+        "CLEARANCES, VISUAL AND/OR AIR, SHALL BE PERFORMED BY AN INDEPENDENT AIR MONITORING",
+        "SPECIALIST. ADDITIONAL COSTS ARE AT THE EXPENSE OF OWNER.",
+        "PROPOSED CONTRACT AMOUNT: Pricing expires 30 days from date of this proposal. Price based on normal work",
+        "hours, Monday-Friday. Should overtime rates apply, additional charges will incur.",
+        "PRICE: THREE HUNDRED FOUR THOUSAND FOUR HUNDRED FIFTY-FIVE DOLLARS AND NO/100---------------------77",
+        "BRT EE TO Nn nner 308 455.00 ///",
+        "* Price includes three (3) days of equipment use once Action Solutions contacts you for a clearance inspection.",
+        "Additional charges are $25.00 per machine per day beginning on the 4\"\" day.",
+        "\u201cPLEASE NOTE PAYMENT TERMS ON PAGE 2 OF THIS PROPOSAL",
+        "A\u00e9tion Initials Customer Initials"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Alliance",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Alliance (backup, no Form) (LATE - not submitted to BC).pdf.txt",
+      "current_date": "2023-10-03",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "Base bid",
+        "including but not limited to ALL generator fees from the"
+      ],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [
+        "ADD ALTERNATE COST 01.",
+        "BASE BID COST: $ 568,580.00",
+        "ALTERNATE ADDITIONAL COST:  $ 125,320.00"
+      ],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Earth Resource Group",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Earth Resource Group (w backup).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 337395,
+      "inclusions": [
+        "Construct OSHA Class I and Class II nega\u019fve air, leak-proof containments of abatement project areas in Buildings 3, 4,",
+        "5 & 6. Buildings 1 & 2 are to remain in place (no abatement or demo) and asbestos-containing materials were not",
+        "iden\u019f\ufb01ed in Building 7.",
+        "Remove and discard all asbestos-containing vinyl \ufb02oor \u019fle and \ufb02ooring mas\u019fc from throughout buildings 3, 4, 5 and",
+        "Remove and discard all asbestos-containing drywall systems and texture on CMU from throughout buildings 3, 4, 5",
+        "Perform stabiliza\u019fon of lead paint on surfaces in poor condi\u019fon that will be demolished.",
+        "Remove and discard or recycle all iden\u019f\ufb01ed hazardous materials (mercury and PCB containing \ufb01xtures and",
+        "\ufb02uorescent tube ligh\u019fng)."
+      ],
+      "exclusions_scope_specific": [
+        "Any additional work required by regulatory agencies not previously discussed.",
+        "Security, fencing, barricades, sound barriers or hazardous materials not identified at bid time.",
+        "OSHA and EPA required Third Party Abatement Clearances \u2013 (Owner/Client responsibility)"
+      ],
+      "clarifications": [
+        "We include labor, material, equipment, proper disposal, regulatory agency permits, and insurance for our work.",
+        "Proposal is limited to abatement of asbestos-containing building materials identified in the asbestos survey report at",
+        "time of bid. Any changes to scope of work after acceptance of this contract must be submitted in writing.",
+        "ERG is not responsible for any reconstruction or reinstallation of any fixtures removed during the abatement.",
+        "Proposal is based on one continuous operation using prevailing wage rates.",
+        "Proposal is based on ERG providing onsite Water and Power.",
+        "Proposal valid 30 days from date issued.",
+        "Re: Pre-Demolition Asbestos Abatement",
+        "1385 W. Idaho Circle, Tonopah NV. 89049",
+        "Earth Resource Group | 6041 Clark Street, Las Vegas, NV 89122 | (702) 749-7560 | www.ergnevada.com | Page 2 of 2",
+        "NV State Contractors License #0076577 - $4,500,000 | NV State Contractors License #007236 - $4,500,000 | Tax ID #71-0911539"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Environmental Protection Services, LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Environmental Protection Services (backup, no Form).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 40000,
+      "inclusions": [
+        "*Includes signage",
+        "*Includes gravel bags.",
+        "*Includes cloud storage fees for project duration.",
+        "Includes weekly cleaning of sediment accumulation at D.I basins & 10' each direction in gutter lines, minor maintenance of erosion control BMP's & SWPPP inspection"
+      ],
+      "exclusions_scope_specific": [
+        "Personal",
+        "Property:",
+        "Substitutions:",
+        "Completion",
+        "Risk of Loss:",
+        "Revegetation",
+        "Disclaimer:",
+        "Maintenance:",
+        "Fuel Surcharge:",
+        "Payment Terms: NET 30; Amounts past due 30 days from date of invoice are subject to a 1.5 % finance charge per month.",
+        "Acceptance of Proposal : The above prices, specifications, and conditions are satisfactory and are hereby accepted.",
+        "Dust Logs, Permit Fees, BMP Removal, Incidental Damages to BMPS, Construction Exit way, Dewatering, Water Monitoring,  Staking, Layout, Landscaping, Permit",
+        "Renewal Fees, Placement of Top Soil, Winter Weather Conditions, Snow Removal, Trash Removal, Storm Monitoring, Prevailing Wage/Overtime/Shiftwork, Retention,",
+        "Warranty, LEED.",
+        "ANY ITEM NOT SPECIFICALLY INCLUDED IN THIS PROPOSAL IS CONSIDERED EXCLUDED.",
+        "EPS is not liable for Dust Control or Surface Area Disturbances.",
+        "During the progress of the work under this Agreement, if Customer should order extra work not specified in the Agreement, Seller may require such extra work to be",
+        "considered an agreement separate and aside from this Agreement and will require payment for said extra work.",
+        "Project execution will follow the terms & conditions detailed herein.",
+        "PWP-CL-2026-100",
+        "A 6% fuel surcharge will be applied to the total invoice amount due to the significant and ongoing rise in fuel costs. This surcharge is not a base rate increase and is a",
+        "temporary measure implemented to maintain service reliability. EPS will continue to monitor market conditions and may adjust or terminate this surcharge at any time.",
+        "Limited to weekly cleaning of sediment accumulation at D.I. basins & 10' each direction in gutter lines, minor maintenance of erosion control BMP's are limited to wind",
+        "damaged BMP's under 10'. Excludes incidental damages.",
+        "Hydroseeding is influenced by a variety of environmental & soil conditions. Factors such as soil nutrients, seasonal precipitation patterns, freeze-thaw cycles & overall",
+        "climate can significantly impact results. Individual site characteristics & maintenance practices also play a critical role in the establishment/growth of the hydroseeded",
+        "areas. Temporary irrigation and soil amendments are recommended to achieve optimal results.",
+        "Risk of loss shall pass to the Customer upon delivery of materials and equipment to Customer\u2019s Property. provider shall not be responsible for any loss due to fire, theft,",
+        "vandalism, and/or malicious mischief once delivered to Customer\u2019s Property. Customer shall assume all responsibility for any such loss and Customer shall maintain",
+        "All completion dates are estimated. Every attempt will be made to complete the work on the date(s) specified.",
+        "Should Provider be unable to obtain any material(s) specified in the agreement or any Change Order, Provider shall have the right at its sole discretion to substitute",
+        "comparable materials and such substitution shall not affect the agreement price.",
+        "Provider is not responsible for damage to Customer\u2019s personal property left in or near the project area.",
+        "Provider is not responsible for payment of any county, state or federal permit fee's",
+        "Customer agrees to timely furnish all information necessary to secure permits for the work called for under this Agreement, and Customer warrants the work contracted",
+        "for to be in compliance with applicable state and federal regulations. Any costs for work not in the quote but required by lawful authorities to bring the work into",
+        "compliance with applicable code shall be the responsibility of the Customer.",
+        "Extra materials left over upon completion shall be deemed provider\u2019s property, and Provider may enter upon the Property\u2019s premises to remove excess material(s) at all",
+        "reasonable hours.",
+        "Work shall be completed within a reasonable time. Performance of this Agreement is subject to labor strikes, fires, acts of war or terrorism, acts of God, adverse weather",
+        "conditions not reasonably anticipated, unusual delays in transportation, Providers ability to obtain materials, and/or any cause beyond Provider\u2019s control.",
+        "CORE Construction",
+        "NCSD - Tonopah High School Sports Complex",
+        "7150 Cascade Valley Ct.",
+        "1 Ray Tennant Way Tonopah, NV 89049",
+        "Las Vegas, NV 89128",
+        "dawnduranleau@coreconstruction.com",
+        "*Excludes permit fees."
+      ],
+      "clarifications": [
+        "Weekly SWPPP inspection reports & BMP maintenance.",
+        "Install: Post caps.",
+        "Install: Properly embedded, EPS wire-backed silt fence anchored to",
+        "steel t-post @ 6' spacing.",
+        "Install: Above grate inlet protection covers.",
+        "Hydraulically apply: Tack & mulch soil stabilization.",
+        "Install: Properly weighted or embedded & staked",
+        "fiber-roll. *Incidentals & stockpiles."
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "GGG Demolition",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - GGG Demolition (w backup).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 1256279,
+      "inclusions": [
+        "Abatement and Demolition",
+        "Bid Documents:",
+        "Plans and Specs",
+        "Addenda:",
+        "Dear Ms. Duranleau,",
+        "Thank you for the opportunity to provide our quotation for the above referenced project. We propose to",
+        "furnish all labor, material, equipment and disposal necessary to perform the abatement and demolition",
+        "scope of work in accordance with all local, state and federal rules and regulations.",
+        "GGG Demolition, Inc. is currently performing abatement, demolition and soil remediation projects from",
+        "San Diego to Sacramento, CA.  Please visit our website at www.gggdemo.com for a listing of recently",
+        "completed projects and ongoing work.  Some of our ongoing and recently completed projects are as",
+        "follows:",
+        "Las Vegas Convention Center",
+        "Demolition",
+        "Horseshoe Las Vegas",
+        "Abatement and Demolition",
+        "Hard Rock Hotel & Casino",
+        "Demolition",
+        "Jubilee",
+        "Abatement and Demolition",
+        "Jack Murphy Stadium (Qualcomm)",
+        "Abatement and Demolition",
+        "Universal Studios Hollywood",
+        "Abatement and Demolition",
+        "GGG Demolition, Inc. will provide all labor, material and equipment to perform the following scope of",
+        "work based on Drawings by Knit dated 4.20.26, Hazardous Materials Survey by EICS dated 10/3/26; and",
+        "current site conditions:"
+      ],
+      "exclusions_scope_specific": [
+        "Excluded items must be provided by others, if required, to ensure the timely completion of our work.",
+        "2319 Western Avenue   \u2666   Las Vegas, NV 89102   \u2666   (702) 553-0713 Phone   \u2666    www.gggdemo.com",
+        "1. Utility (M/E/P/S) locating, marking, isolation, disconnect, cutting, capping and/or air gapping prior to",
+        "abatement and/or demolition work beginning.  See conditions 1, 2 and 3 above.",
+        "2. Hazardous material removal other than what is listed in this proposal.",
+        "3. Third Party monitoring for hazardous material work.",
+        "4. Clearance sampling for hazardous material work.",
+        "5. Permits and fees other than DES.",
+        "6. Any additional applications of chemical lead-based paint removal product or similar beyond the first",
+        "application.  If additional applications are required, they will need to be handled on a T&M basis.",
+        "7. DES requirements with the exception of adequate wetting and fugitive dust control training.",
+        "8. Water and power.",
+        "9. Removal of slabs & foundation.",
+        "10. Delays due to others.",
+        "11. Unforeseen conditions.",
+        "12. Marking and/or layout (i.e., saw cut lines).",
+        "13. Survey of underground utilities prior to demolition (i.e., ground penetrating radar).",
+        "14. Survey of concrete walls prior to demolition (i.e., x-ray).",
+        "15. Surface preparation for new finishes.",
+        "16. Removal of furnishings, equipment and/or debris necessary to access our work.",
+        "17. Support or protection of existing utilities prior to or during demolition.",
+        "18. Underground (UG) utility removal or relocation.",
+        "19. Removal of Crushed Miscellaneous Base (CMB) under ac paving and/or concrete.",
+        "20. Removal of Petromat if discovered under asphalt paving.",
+        "21. Removal of Underground Storage Tanks (USTs) or underground vaults, septic tanks or cesspools.",
+        "22. Installation or adjustment of fencing/protection/barricades/railings/pedestrian canopies.",
+        "23. Patch and repair of anything unless damaged by GGG.",
+        "24. Salvaging of any items and/or equipment.",
+        "25. B-Permit work including traffic control and/or encroachment permits for offsite demolition.",
+        "26. Dewatering.",
+        "27. Trenching for other trades.",
+        "28. Earthwork, import, backfill and/or re-compaction.",
+        "29. Chasing and removal of roots extending outside of root ball.",
+        "30. Installation and/or maintenance of SWPPP.",
+        "31. Protection against inclement weather.",
+        "32. Shoring and/or bracing.",
+        "33. Coring and drilling.",
+        "34. Security or guards.",
+        "35. Construction signs.",
+        "36. Parking Fees.",
+        "Please do not hesitate to contact me with any questions or concerns at 702-553-0713.",
+        "Respectfully submitted,",
+        "Omar Mendoza",
+        "2319 Western Avenue   \u2666   Las Vegas, NV 89102   \u2666   (702) 553-0713 Phone   \u2666    www.gggdemo.com",
+        "GGG Demolition, Inc.",
+        "State Contractors Lic. #0090841 A-13, A-22, A-23 Exp. 06-30-25",
+        "CA DOSH Registration No. 1100",
+        "WBENC Certification # WOSB171762 Exp. 8-31-23"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "NorthStar Contracting Group, Inc.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda R1.docx.txt",
+      "current_date": "2026-05-29",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - Northstar (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Northstar Homework Response.pdf.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda.docx.txt"
+      ],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "To include third-party monitoring",
+        "Buildings 1 and 2 will still be occupied during abatement",
+        "Assumes CMU walls for building demo",
+        "Hand demo at canopy/building",
+        "Includes the demo of the feeders of the elementary school",
+        "Assumes no lead paint, if present, no issues removing.",
+        "Includes capsul for abatement depending on the amount.",
+        "Includes saw cutting, digging, and capping 24\u201d below grade of utilities.",
+        "Northstar confirmed haul-off of all demo material is included.  \u2013 JG 5/29/26",
+        "Northstar confirm deduct of 37,178 for abatement. \u2013 JG 5/29/26",
+        "Includes a demo permit and abatement of air quality",
+        "Includes Nye County and zone rates",
+        "Includes Tectura in base bid",
+        "Includes living costs."
+      ],
+      "exclusions_scope_specific": [
+        "Gas, water, and electrical cap by others",
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope",
+        "Two abatement reports were provided, priced the one with more quantities.",
+        "Abatement on 5 buildings",
+        "Slab remains on the demo of 5 buildings",
+        "Hire trucks for dumping (from Las Vegas)",
+        "Excludes clearance sampling",
+        "Excludes salvage of copper and feeders",
+        "Excludes cost escalation for snow"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - Northstar (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "Abatement and Demolition",
+            "Bid Documents:",
+            "Plans and Specs",
+            "Addenda:",
+            "furnish all labor, material, equipment and disposal necessary to perform the abatement and demolition",
+            "NorthStar Contracting Group, Inc. will provide all labor, material, and equipment to perform the following",
+            "scope of work based on Drawings by Knit dated April 20, 2026, Hazardous Materials Survey by",
+            "Environmental Inspection & Control Services (EICS) dated September 19, 2023, and current site",
+            "conditions:"
+          ],
+          "exclusions_scope_specific": [
+            "Unless specifically included in the scope of work above, excluded items must be provided by",
+            "others, if required, to ensure the timely completion of our work.",
+            "1. Hazardous material removal unless /other than what is specifically listed in this proposal.",
+            "2. Third Party monitoring for hazardous material work if necessary.",
+            "3. Clearance sampling for hazardous material work if required.",
+            "4. Liquidated Damages, Indemnifications and/or Consequential Damages.",
+            "5. Salvage and/or storage of any items.",
+            "6. Permits, deposits and fees other than Air Quality.",
+            "Northstar Contracting Group, Inc.",
+            "7. Removal and/or disposal of any liquid or chemical wastes left behind by former tenants.",
+            "8. Delays due to others.",
+            "9. Unforeseen conditions.",
+            "10. Marking and/or layout.",
+            "11. Survey for under slab utilities.",
+            "12. Surface preparation for new finishes.",
+            "13. Damages to or removal of leveling compounds.",
+            "14. Removal of furnishings, equipment and/or debris necessary to access our work.",
+            "15. Utility (M/E/P/S) locating, marking, disconnect, cutting and/or capping prior to demolition.",
+            "16. Support or protection of existing utilities prior to or during demolition.",
+            "17. Removal of any grade beams unless specifically noted within this proposal."
+          ],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Northstar Homework Response.pdf.txt",
+          "date": "2026-05-15",
+          "inclusions": [
+            "Abatement and Demolition",
+            "Bid Documents:",
+            "Plans and Specs",
+            "Addenda:",
+            "furnish all labor, material, equipment and disposal necessary to perform the abatement and demolition",
+            "NorthStar Contracting Group, Inc. will provide all labor, material, and equipment to perform the following",
+            "scope of work based on Drawings by Knit dated April 20, 2026, Hazardous Materials Survey by",
+            "Environmental Inspection & Control Services (EICS) dated September 19, 2023, and current site",
+            "conditions:"
+          ],
+          "exclusions_scope_specific": [
+            "Unless specifically included in the scope of work above, excluded items must be provided by",
+            "others, if required, to ensure the timely completion of our work.",
+            "1. Hazardous material removal unless /other than what is specifically listed in this proposal.",
+            "2. Third Party monitoring for hazardous material work if necessary.",
+            "3. Clearance sampling for hazardous material work if required.",
+            "4. Liquidated Damages, Indemnifications and/or Consequential Damages.",
+            "5. Salvage and/or storage of any items.",
+            "6. Permits, deposits and fees other than Air Quality.",
+            "7. Removal and/or disposal of any liquid or chemical wastes left behind by former tenants.",
+            "8. Delays due to others.",
+            "9. Unforeseen conditions.",
+            "10. Marking and/or layout.",
+            "11. Survey for under slab utilities.",
+            "12. Surface preparation for new finishes.",
+            "13. Damages to or removal of leveling compounds.",
+            "14. Removal of furnishings, equipment and/or debris necessary to access our work.",
+            "15. Utility (M/E/P/S) locating, marking, disconnect, cutting and/or capping prior to demolition.",
+            "16. Support or protection of existing utilities prior to or during demolition.",
+            "17. Removal of any grade beams unless specifically noted within this proposal.",
+            "18. Removal of any secondary sub-grade slabs unless specifically noted within this proposal."
+          ],
+          "priced_line_items": []
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Only includes abatement of existing elementary school buildings to be demolished."
+    ],
+    "possibly_relevant_exclusions": [
+      "Testing, special inspections, and any associated overtime or staff and resource costs for additional inspections not required by Code, permit, or the contract documents requirements or determined by the Design Team (i.e. abatement, geotechnical, concrete, reinforcing steel, deep foundations, shoring, masonry, structural steel, welding, fireproofing, water testing, etc.).",
+      "Cost and/or schedule-related impacts from other projects in the adjacent streets, roadways, alleyways, and neighboring buildings unless covered elsewhere in the Proposal. If other Projects are concurrent with CMAR's work, Owner shall strive to advise CMAR within 10 calendar days in an effort to mitigate cost- and schedule-related impacts.",
+      "Existing ES - Abatement of buildings to remain.",
+      "Existing ES - Demo or abatement of existing underground utilities.",
+      "Demolition of existing underground utilities, except within building footprint, unless specified on Utility plans",
+      "Exterior building murals",
+      "Trash receptacles at Restrooms or elsewhere in buildings"
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 7,
+      "id": "SPEC-C01",
+      "severity": "high",
+      "title": "02 41 00 Demolition \u2014 claimed by more than one scope doc",
+      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below."
+    },
+    {
+      "n": 12,
+      "id": "SPEC-G02",
+      "severity": "high",
+      "title": "02 81 00 Transportation and Disposal of Misc. Hazardous Materials \u2014 cited but absent from the manual",
+      "detail": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A.  No candidate section exists; this needs a source."
+    },
+    {
+      "n": 35,
+      "id": "BID-P01",
+      "severity": "medium",
+      "title": "RFP-002 \u2014 Northstar Contracting Group's price moves between documents",
+      "detail": "$718,623 (2026-05-12) -> $718,263 (2026-05-15). The later document governs by date; confirm which figure is intended before the subcontract value is set."
+    },
+    {
+      "n": 46,
+      "id": "SPEC-N05",
+      "severity": "medium",
+      "title": "RFP-002 holds no spec section of its own",
+      "detail": "Abatement & Building Wrecking. 02 41 00 Demolition went to RFP-008 by PM ruling 07.31.26, and the cited 02 81 00 Transportation and Disposal of Misc. Hazardous Materials is absent. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are not part of the spec manual."
+    },
+    {
+      "n": 48,
+      "id": "GMP-07",
+      "severity": "low",
+      "title": "Asbestos survey date differs from the staged file",
+      "detail": "The exclusion cites the EICS Pre-Demolition Asbestos Survey dated October 3, 2023. The staged file is '04.03 - Asbestos Survey_EICS 100323.pdf' \u2014 10/03/23, consistent. Quantities beyond that survey are excluded, so the survey's quantities are the contractual baseline for RFP-002."
+    }
+  ]
+}

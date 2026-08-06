@@ -424,17 +424,17 @@
         "Rosevear"
       ],
       "current_per_firm": {
-        "prewitt": {
-          "firm": "Prewitt",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Prewitt.pdf.txt",
-          "current_date": "2026-05-11",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
         "rosevear": {
           "firm": "Rosevear",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Rosevear.pdf.txt",
           "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "prewitt": {
+          "firm": "Prewitt",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Prewitt.pdf.txt",
+          "current_date": "2026-05-11",
           "superseded": [],
           "undated_not_sequenced": []
         }
@@ -458,6 +458,15 @@
         "The Monument Company"
       ],
       "current_per_firm": {
+        "greatwesterninstallations": {
+          "firm": "Great Western Installations",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations (descope).pdf.txt",
+          "current_date": "2026-05-28",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations.pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
         "exerplay": {
           "firm": "Exerplay",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY) (descope).pdf.txt",
@@ -468,7 +477,7 @@
           ]
         },
         "monument": {
-          "firm": "Monument",
+          "firm": "Monument Construction",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
           "current_date": "2026-05-15",
           "superseded": [
@@ -477,15 +486,6 @@
           "undated_not_sequenced": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Monument Construction.pdf.txt"
           ]
-        },
-        "greatwesterninstallations": {
-          "firm": "Great Western Installations",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations (descope).pdf.txt",
-          "current_date": "2026-05-28",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations.pdf.txt"
-          ],
-          "undated_not_sequenced": []
         }
       },
       "documents": [
@@ -518,15 +518,6 @@
         "The Monument Company"
       ],
       "current_per_firm": {
-        "exerplay": {
-          "firm": "Exerplay",
-          "current_document": null,
-          "current_date": null,
-          "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Exerplay (SUPPLY).pdf.txt"
-          ]
-        },
         "dchs35bndiscusscage": {
           "firm": "DCHS-35BN Discuss Cage",
           "current_document": null,
@@ -543,10 +534,10 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "polevault": {
-          "firm": "Pole Vault",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/Pole Vault.pdf.txt",
-          "current_date": "2024-03-19",
+        "greatwestern": {
+          "firm": "Great Western",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Great Western (INSTALL).pdf.txt",
+          "current_date": "2026-05-28",
           "superseded": [],
           "undated_not_sequenced": []
         },
@@ -559,21 +550,30 @@
           ],
           "undated_not_sequenced": []
         },
+        "polevault": {
+          "firm": "Pole Vault",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/Pole Vault.pdf.txt",
+          "current_date": "2024-03-19",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "exerplay": {
+          "firm": "Exerplay",
+          "current_document": null,
+          "current_date": null,
+          "superseded": [],
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Exerplay (SUPPLY).pdf.txt"
+          ]
+        },
         "monument": {
-          "firm": "Monument",
+          "firm": "The Monument Company",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
           "current_date": "2026-05-15",
           "superseded": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Monument Construction.pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
           ],
-          "undated_not_sequenced": []
-        },
-        "greatwestern": {
-          "firm": "Great Western",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Great Western (INSTALL).pdf.txt",
-          "current_date": "2026-05-28",
-          "superseded": [],
           "undated_not_sequenced": []
         }
       },
@@ -606,15 +606,6 @@
         "Western Sealants"
       ],
       "current_per_firm": {
-        "silegacy": {
-          "firm": "SI Legacy",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy (descope).pdf.txt",
-          "current_date": "2026-05-26",
-          "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy.pdf.txt"
-          ]
-        },
         "westernsealants": {
           "firm": "Western Sealants",
           "current_document": null,
@@ -633,6 +624,15 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Moisture Protection & Sealants - Gleeson Powers.pdf.txt"
           ],
           "undated_not_sequenced": []
+        },
+        "silegacy": {
+          "firm": "SI Legacy",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy (descope).pdf.txt",
+          "current_date": "2026-05-26",
+          "superseded": [],
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy.pdf.txt"
+          ]
         }
       },
       "documents": [
@@ -661,6 +661,15 @@
         "Red Rock"
       ],
       "current_per_firm": {
+        "goldstarinsulationlpdbaredrockinsulation": {
+          "firm": "Gold Star Insulation LP dba Red Rock Insulation",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock.pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gold Star.pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
         "galebuildingproducts": {
           "firm": "Gale Building Products",
           "current_document": null,
@@ -669,6 +678,15 @@
           "undated_not_sequenced": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gale.pdf.txt"
           ]
+        },
+        "gleesonpowers": {
+          "firm": "Gleeson Powers, Inc.",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040, 044 Sealants + Insulation - Gleeson Powers (descope).pdf.txt",
+          "current_date": "2026-05-15",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gleeson Powers.pdf.txt"
+          ],
+          "undated_not_sequenced": []
         },
         "division09": {
           "firm": "Division 09",
@@ -679,22 +697,11 @@
           ],
           "undated_not_sequenced": []
         },
-        "gleesonpowers": {
-          "firm": "Gleeson Powers",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040, 044 Sealants + Insulation - Gleeson Powers (descope).pdf.txt",
-          "current_date": "2026-05-15",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gleeson Powers.pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "goldstarinsulationlpdbaredrockinsulation": {
-          "firm": "Gold Star Insulation LP dba Red Rock Insulation",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock.pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gold Star.pdf.txt"
-          ],
+        "redrock": {
+          "firm": "Red Rock",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock (descope).pdf.txt",
+          "current_date": "2026-05-18",
+          "superseded": [],
           "undated_not_sequenced": []
         },
         "gr": {
@@ -704,13 +711,6 @@
           "superseded": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R.pdf.txt"
           ],
-          "undated_not_sequenced": []
-        },
-        "redrock": {
-          "firm": "Red Rock",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock (descope).pdf.txt",
-          "current_date": "2026-05-18",
-          "superseded": [],
           "undated_not_sequenced": []
         }
       },
@@ -746,6 +746,16 @@
         "McKeon"
       ],
       "current_per_firm": {
+        "lawrencedoors": {
+          "firm": "Lawrence Doors",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors.pdf.txt",
+          "current_date": "2026-05-08",
+          "superseded": [],
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (CD Substitution Comparison).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (OHD Substitution Comparison).pdf.txt"
+          ]
+        },
         "crawford": {
           "firm": "Crawford",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (ALT finish).pdf.txt",
@@ -756,16 +766,6 @@
           ],
           "undated_not_sequenced": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford.pdf.txt"
-          ]
-        },
-        "lawrencedoors": {
-          "firm": "Lawrence Doors",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors.pdf.txt",
-          "current_date": "2026-05-08",
-          "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (CD Substitution Comparison).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (OHD Substitution Comparison).pdf.txt"
           ]
         },
         "frontier": {
@@ -816,16 +816,9 @@
         "SNV Specialties"
       ],
       "current_per_firm": {
-        "adi": {
-          "firm": "ADI",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - ADI.pdf.txt",
-          "current_date": "2026-04-20",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "all5s": {
-          "firm": "All 5s",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - All 5s.pdf.txt",
+        "snvspecialties": {
+          "firm": "SNV Specialties",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - SNV Specialties (INSTALL).pdf.txt",
           "current_date": "2026-05-12",
           "superseded": [],
           "undated_not_sequenced": []
@@ -846,10 +839,17 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "snvspecialties": {
-          "firm": "SNV Specialties",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - SNV Specialties (INSTALL).pdf.txt",
+        "all5s": {
+          "firm": "All 5s",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - All 5s.pdf.txt",
           "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "adi": {
+          "firm": "ADI",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - ADI.pdf.txt",
+          "current_date": "2026-04-20",
           "superseded": [],
           "undated_not_sequenced": []
         }
@@ -922,15 +922,12 @@
         "SI Legacy"
       ],
       "current_per_firm": {
-        "ryerson": {
-          "firm": "Ryerson",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf.txt",
-          "current_date": "2026-05-26",
+        "fwspecialties": {
+          "firm": "FW Specialties",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf.txt",
+          "current_date": "2026-05-12",
           "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - Ryerson (ALT).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf.txt"
-          ]
+          "undated_not_sequenced": []
         },
         "silegacy": {
           "firm": "SI Legacy",
@@ -941,12 +938,15 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy.pdf.txt"
           ]
         },
-        "fwspecialties": {
-          "firm": "FW Specialties",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf.txt",
-          "current_date": "2026-05-12",
+        "ryerson": {
+          "firm": "Ryerson",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf.txt",
+          "current_date": "2026-05-26",
           "superseded": [],
-          "undated_not_sequenced": []
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - Ryerson (ALT).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf.txt"
+          ]
         },
         "nrc": {
           "firm": "NRC",
@@ -989,14 +989,12 @@
         "SI Legacy"
       ],
       "current_per_firm": {
-        "ryerson": {
-          "firm": "Ryerson",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf.txt",
-          "current_date": "2026-05-26",
+        "fwspecialties": {
+          "firm": "FW Specialties",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf.txt",
+          "current_date": "2026-05-12",
           "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf.txt"
-          ]
+          "undated_not_sequenced": []
         },
         "silegacy": {
           "firm": "SI Legacy",
@@ -1009,12 +1007,14 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy.pdf.txt"
           ]
         },
-        "fwspecialties": {
-          "firm": "FW Specialties",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf.txt",
-          "current_date": "2026-05-12",
+        "ryerson": {
+          "firm": "Ryerson",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf.txt",
+          "current_date": "2026-05-26",
           "superseded": [],
-          "undated_not_sequenced": []
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf.txt"
+          ]
         },
         "nrc": {
           "firm": "NRC",
@@ -1085,7 +1085,7 @@
           "undated_not_sequenced": []
         },
         "ycsigns": {
-          "firm": "Y C Signs",
+          "firm": "Y C SIGNS LLC",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Y C Signs (descope).pdf.txt",
           "current_date": "2026-05-11",
           "superseded": [
@@ -1186,7 +1186,7 @@
           ]
         },
         "monument": {
-          "firm": "Monument",
+          "firm": "Monument Construction",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
           "current_date": "2026-05-15",
           "superseded": [
@@ -1233,6 +1233,13 @@
         "RESCO"
       ],
       "current_per_firm": {
+        "culinarydepot": {
+          "firm": "Culinary Depot",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - Culinary Depot.pdf.txt",
+          "current_date": "2026-04-29",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
         "resco": {
           "firm": "RESCO",
           "current_document": null,
@@ -1241,13 +1248,6 @@
           "undated_not_sequenced": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - RESCO.pdf.txt"
           ]
-        },
-        "culinarydepot": {
-          "firm": "Culinary Depot",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - Culinary Depot.pdf.txt",
-          "current_date": "2026-04-29",
-          "superseded": [],
-          "undated_not_sequenced": []
         }
       },
       "documents": [
@@ -1271,7 +1271,7 @@
       ],
       "current_per_firm": {
         "monument": {
-          "firm": "Monument",
+          "firm": "Monument Construction",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
           "current_date": "2026-05-15",
           "superseded": [
@@ -1333,8 +1333,36 @@
         "Northstar Contracting Group"
       ],
       "current_per_firm": {
+        "environmentalprotection": {
+          "firm": "Environmental Protection Services, LLC",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Environmental Protection Services (backup, no Form).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "actionsolutions": {
+          "firm": "Action Solutions LLC",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Action Solutions (backup, no Form).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "gggdemolition": {
+          "firm": "GGG Demolition",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - GGG Demolition (w backup).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "earthresource": {
+          "firm": "Earth Resource Group",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Earth Resource Group (w backup).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
         "northstar": {
-          "firm": "Northstar Contracting Group",
+          "firm": "NorthStar Contracting Group, Inc.",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda R1.docx.txt",
           "current_date": "2026-05-29",
           "superseded": [
@@ -1349,34 +1377,6 @@
           "firm": "Alliance",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Alliance (backup, no Form) (LATE - not submitted to BC).pdf.txt",
           "current_date": "2023-10-03",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "gggdemolition": {
-          "firm": "GGG Demolition",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - GGG Demolition (w backup).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "actionsolutions": {
-          "firm": "Action Solutions LLC",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Action Solutions (backup, no Form).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "earthresource": {
-          "firm": "Earth Resource Group",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Earth Resource Group (w backup).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "environmentalprotection": {
-          "firm": "Environmental Protection Services, LLC",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Environmental Protection Services (backup, no Form).pdf.txt",
-          "current_date": "2026-05-12",
           "superseded": [],
           "undated_not_sequenced": []
         }
@@ -1416,8 +1416,17 @@
         "The Monument Company"
       ],
       "current_per_firm": {
+        "newcomtabandmmc": {
+          "firm": "New-Com, Inc. (TAB Contractors and MMC, Inc.)",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
+          "current_date": "2026-05-19",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
         "monument": {
-          "firm": "Monument",
+          "firm": "The Monument Company",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
           "current_date": "2026-05-15",
           "superseded": [
@@ -1427,7 +1436,7 @@
           "undated_not_sequenced": []
         },
         "ndx": {
-          "firm": "NDX",
+          "firm": "Ndx LLC",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Utilities Scope Review Meeting Agenda.docx.txt",
           "current_date": "2026-05-14",
           "superseded": [
@@ -1437,20 +1446,6 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx.txt"
           ],
-          "undated_not_sequenced": []
-        },
-        "newcomtabandmmc": {
-          "firm": "New-Com, Inc. (TAB Contractors and MMC, Inc.)",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "newcomtab": {
-          "firm": "New-Com Inc (TAB)",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-19",
-          "superseded": [],
           "undated_not_sequenced": []
         },
         "tab": {
@@ -1506,7 +1501,7 @@
       ],
       "current_per_firm": {
         "blackcanyon": {
-          "firm": "Black Canyon",
+          "firm": "Black Canyon Construction",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 3.pdf.txt",
           "current_date": "2026-06-01",
           "superseded": [
@@ -1515,16 +1510,6 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Black Canyon Scope Review Meeting Agenda.docx.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response.pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 2.pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "tand": {
-          "firm": "Tand",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf.txt",
-          "current_date": "2026-05-20",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx.txt"
           ],
           "undated_not_sequenced": []
         },
@@ -1537,18 +1522,23 @@
           ],
           "undated_not_sequenced": []
         },
-        "gti1": {
-          "firm": "GTI 1 Inc.",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-15",
-          "superseded": [],
+        "tand": {
+          "firm": "Tand Inc.",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf.txt",
+          "current_date": "2026-05-20",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx.txt"
+          ],
           "undated_not_sequenced": []
         },
-        "gti": {
-          "firm": "GTI",
+        "gti1": {
+          "firm": "GTI 1 Inc.",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/GTI Homework Response.pdf.txt",
           "current_date": "2026-05-21",
-          "superseded": [],
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx.txt"
+          ],
           "undated_not_sequenced": []
         }
       },
@@ -1595,30 +1585,13 @@
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (R1, Descoped).pdf.txt",
           "current_date": "2026-05-20",
           "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf.txt"
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf.txt"
           ],
           "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope - Track Asphalt Info).pdf.txt"
-          ]
-        },
-        "elitesports": {
-          "firm": "Elite Sports",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf.txt",
-          "current_date": "2026-05-20",
-          "superseded": [],
-          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope - Track Asphalt Info).pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports - Track Asphalt Info.pdf.txt"
           ]
-        },
-        "monument": {
-          "firm": "Monument",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
-          "current_date": "2026-05-15",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Monument Co (Form).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
-          ],
-          "undated_not_sequenced": []
         },
         "elitesportbuilder": {
           "firm": "Elite Sport Builder",
@@ -1626,6 +1599,16 @@
           "current_date": "2026-05-14",
           "superseded": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "monument": {
+          "firm": "The Monument Company",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+          "current_date": "2026-05-15",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Monument Co (Form).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
           ],
           "undated_not_sequenced": []
         }
@@ -1669,9 +1652,9 @@
         "The Monument Company"
       ],
       "current_per_firm": {
-        "astroturf": {
-          "firm": "AstroTurf Corporation",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - AstroTurf Corp (w backup).pdf.txt",
+        "greenliving": {
+          "firm": "Green Living Services",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Green Living Services (w backup).pdf.txt",
           "current_date": "2026-05-12",
           "superseded": [],
           "undated_not_sequenced": []
@@ -1683,37 +1666,15 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "cgb": {
-          "firm": "CG&B",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT 2).pdf.txt",
-          "current_date": "2026-06-01",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - CG & B Enterprises (w backup).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/CG&B Scope Review Meeting Agenda.docx.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response.pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "greenliving": {
-          "firm": "Green Living Services",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Green Living Services (w backup).pdf.txt",
+        "astroturf": {
+          "firm": "AstroTurf Corporation",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - AstroTurf Corp (w backup).pdf.txt",
           "current_date": "2026-05-12",
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "monument": {
-          "firm": "Monument",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
-          "current_date": "2026-05-15",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Monument Co (Form).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
-          ],
-          "undated_not_sequenced": []
-        },
         "sprinturf": {
-          "firm": "Sprinturf LLC",
+          "firm": "Sprinturf, LLC",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sprinturf  Scope Review Meeting Agenda.docx.txt",
           "current_date": "2026-05-15",
           "superseded": [
@@ -1722,13 +1683,35 @@
           ],
           "undated_not_sequenced": []
         },
+        "monument": {
+          "firm": "The Monument Company",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+          "current_date": "2026-05-15",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Monument Co (Form).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
+          ],
+          "undated_not_sequenced": []
+        },
         "tand": {
-          "firm": "Tand",
+          "firm": "Tand Inc.",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf.txt",
           "current_date": "2026-05-20",
           "superseded": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Tand (w backup).pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "cgb": {
+          "firm": "CG&B Enterprises, Inc.",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT 2).pdf.txt",
+          "current_date": "2026-06-01",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - CG & B Enterprises (w backup).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/CG&B Scope Review Meeting Agenda.docx.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response.pdf.txt"
           ],
           "undated_not_sequenced": []
         }
@@ -1783,34 +1766,6 @@
         "The Tiberti Company, LLC dba Tiberti Fence Company"
       ],
       "current_per_firm": {
-        "tahoefence": {
-          "firm": "Tahoe Fence Co. Inc",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tahoe Fence Co (w backup).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tahoe Fence (descope Adds).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tahoe Fence Scope Review Meeting Agenda.docx.txt"
-          ]
-        },
-        "redstarfence": {
-          "firm": "Red Star Fence",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Red Star  Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-14",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Red Star Fence Homework Response.pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "redstar": {
-          "firm": "Red Star",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Red Star (Form).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/023 Fencing & Gates - Red Star (R1, Descoped).pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
         "goldenbayfenceplusironworks": {
           "firm": "Golden Bay Fence Plus Iron Works, Inc.",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Golden Bay Fence (backup, no Form).pdf.txt",
@@ -1818,9 +1773,9 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "all5s": {
-          "firm": "All 5's Construction",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Al 5s (w backup).pdf.txt",
+        "tibertidbatibertifence": {
+          "firm": "The Tiberti Company, LLC dba Tiberti Fence Company",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tiberti (backup, no Form).pdf.txt",
           "current_date": "2026-05-12",
           "superseded": [],
           "undated_not_sequenced": []
@@ -1832,9 +1787,30 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "tibertidbatibertifence": {
-          "firm": "The Tiberti Company, LLC dba Tiberti Fence Company",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tiberti (backup, no Form).pdf.txt",
+        "redstarfence": {
+          "firm": "Red Star Fence",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Red Star  Scope Review Meeting Agenda.docx.txt",
+          "current_date": "2026-05-14",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Red Star Fence Homework Response.pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/023 Fencing & Gates - Red Star (R1, Descoped).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Red Star (Form).pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "tahoefence": {
+          "firm": "Tahoe Fence Co. Inc",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tahoe Fence Co (w backup).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tahoe Fence (descope Adds).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tahoe Fence Scope Review Meeting Agenda.docx.txt"
+          ]
+        },
+        "all5s": {
+          "firm": "All 5's Construction",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Al 5s (w backup).pdf.txt",
           "current_date": "2026-05-12",
           "superseded": [],
           "undated_not_sequenced": []
@@ -1889,6 +1865,25 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - XL Concrete Masonry (w backup).pdf.txt"
           ]
         },
+        "sef305pgoalpost": {
+          "firm": "SEF305P Goal Post",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf.txt",
+          "current_date": "2021-05-28",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "saharaconcrete": {
+          "firm": "Sahara Concrete, Inc.",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sahara  Scope Review Meeting Agenda.docx.txt",
+          "current_date": "2026-05-15",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf.txt"
+          ],
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response.pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response R2.pdf.txt"
+          ]
+        },
         "acosport": {
           "firm": "ACO Sport",
           "current_document": null,
@@ -1898,50 +1893,24 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/ACO Sport - System 3000 Slot Channel Trench Drain System Spec Sheet.pdf.txt"
           ]
         },
-        "sahara": {
-          "firm": "Sahara",
-          "current_document": null,
-          "current_date": null,
-          "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response.pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response R2.pdf.txt"
-          ]
-        },
-        "sef305pgoalpost": {
-          "firm": "SEF305P Goal Post",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf.txt",
-          "current_date": "2021-05-28",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "saharaconcrete": {
-          "firm": "Sahara Concrete",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sahara  Scope Review Meeting Agenda.docx.txt",
+        "monument": {
+          "firm": "The Monument Company",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
           "current_date": "2026-05-15",
           "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf.txt"
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Monument Co (Form).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
           ],
           "undated_not_sequenced": []
         },
         "cheek": {
-          "firm": "Cheek",
+          "firm": "Cheek Construction, LLC.",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cheek (descope).pdf.txt",
           "current_date": "2026-05-22",
           "superseded": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Cheek Construction (w backup).pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cheeck Scope Review Meeting Agenda.docx.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/030 Concrete - Cheek (descope).pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "monument": {
-          "firm": "Monument",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
-          "current_date": "2026-05-15",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Monument Co (Form).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
           ],
           "undated_not_sequenced": []
         }
@@ -1989,36 +1958,9 @@
         "XL Concrete Masonry LLC"
       ],
       "current_per_firm": {
-        "monument": {
-          "firm": "Monument",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
-          "current_date": "2026-05-15",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
-          ],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Monument Construction (LATE).pdf.txt"
-          ]
-        },
-        "hendersonmasonry": {
-          "firm": "Henderson Masonry",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Henderson Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-21",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Henderson (backup, no Form).pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
         "johnjacksonmasonry": {
           "firm": "John Jackson Masonry",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - John Jackson (backup, no Form).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "kempermasonry": {
-          "firm": "Kemper Masonry",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Kemper (w backup).pdf.txt",
           "current_date": "2026-05-12",
           "superseded": [],
           "undated_not_sequenced": []
@@ -2030,17 +1972,38 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
+        "hendersonmasonry": {
+          "firm": "Henderson Masonry, LLC",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Henderson ALT block Pricing.pdf.txt",
+          "current_date": "2026-06-01",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Henderson (backup, no Form).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Henderson Scope Review Meeting Agenda.docx.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "kempermasonry": {
+          "firm": "Kemper Masonry",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Kemper (w backup).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "monument": {
+          "firm": "Monument Construction",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+          "current_date": "2026-05-15",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
+          ],
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Monument Construction (LATE).pdf.txt"
+          ]
+        },
         "marnell": {
           "firm": "Marnell",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Marnell (LATE - EMAILED 2 days after bid opening - DO NOT USE, reference only).pdf.txt",
           "current_date": "2026-05-13",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "henderson": {
-          "firm": "Henderson",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Henderson ALT block Pricing.pdf.txt",
-          "current_date": "2026-06-01",
           "superseded": [],
           "undated_not_sequenced": []
         }
@@ -2075,15 +2038,8 @@
         "Corona Steel, Inc."
       ],
       "current_per_firm": {
-        "adamssmith": {
-          "firm": "Adams & Smith",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Adams & Smith (backup, no Form).pdf.txt",
-          "current_date": "2026-05-11",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
         "coronasteel": {
-          "firm": "Corona Steel",
+          "firm": "Corona Steel, Inc.",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response (Bollards).pdf.txt",
           "current_date": "2026-06-01",
           "superseded": [
@@ -2091,6 +2047,13 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Corona Steel Scope Review Meeting Agenda.docx.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response.pdf.txt"
           ],
+          "undated_not_sequenced": []
+        },
+        "adamssmith": {
+          "firm": "Adams & Smith",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Adams & Smith (backup, no Form).pdf.txt",
+          "current_date": "2026-05-11",
+          "superseded": [],
           "undated_not_sequenced": []
         }
       },
@@ -2114,6 +2077,13 @@
         "Foursquare"
       ],
       "current_per_firm": {
+        "canyonstate": {
+          "firm": "Canyon State Enterprises",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Canyon State (backup, no Form).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
         "foursquare": {
           "firm": "Foursquare",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Foursquare Homework Response.pdf.txt",
@@ -2122,13 +2092,6 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Foursquare Scope Review Meeting Agenda.docx.txt"
           ],
-          "undated_not_sequenced": []
-        },
-        "canyonstate": {
-          "firm": "Canyon State Enterprises",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Canyon State (backup, no Form).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
           "undated_not_sequenced": []
         }
       },
@@ -2156,8 +2119,31 @@
         "M&H Building Speacialties"
       ],
       "current_per_firm": {
+        "mhbuildingspeacialties": {
+          "firm": "M&H Building Speacialties",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/M&H Homework Response.pdf.txt",
+          "current_date": "2026-05-22",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "mhbuildingspecialties": {
+          "firm": "M & H Building Specialties",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - M & H (w backup).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "division09": {
+          "firm": "Division 09",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Division 09 (no backup or Form).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
         "jetstream": {
-          "firm": "Jetstream",
+          "firm": "Jetstream Construction, Inc",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf.txt",
           "current_date": "2026-05-21",
           "superseded": [
@@ -2172,34 +2158,6 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R3, Descope ALTs).pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R4, Descope ALTs).pdf.txt"
           ]
-        },
-        "division09": {
-          "firm": "Division 09",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Division 09 (no backup or Form).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "mhbuildingspecialties": {
-          "firm": "M & H Building Specialties",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - M & H (w backup).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "mhbuildingspeacialties": {
-          "firm": "M&H Building Speacialties",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-19",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "mh": {
-          "firm": "M&H",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/M&H Homework Response.pdf.txt",
-          "current_date": "2026-05-22",
-          "superseded": [],
-          "undated_not_sequenced": []
         }
       },
       "documents": [
@@ -2241,15 +2199,6 @@
         "Nata Construction, Inc. DBA California Bleachers"
       ],
       "current_per_firm": {
-        "californiableachersnata": {
-          "firm": "California Bleachers NATA",
-          "current_document": null,
-          "current_date": null,
-          "superseded": [],
-          "undated_not_sequenced": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (Images+Video).pdf.txt"
-          ]
-        },
         "natadbacaliforniableachers": {
           "firm": "Nata Construction, Inc. DBA California Bleachers",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (backup, no Form) (SUPPLY).pdf.txt",
@@ -2257,14 +2206,16 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "californiableachers": {
-          "firm": "California Bleachers",
+        "californiableachersnata": {
+          "firm": "California Bleachers NATA",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cali. Bleachers Scope Review Meeting Agenda.docx.txt",
           "current_date": "2026-05-19",
           "superseded": [
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/094 Bleachers & Press  Box - California Bleachers NATA (Descope Qs).pdf.txt"
           ],
-          "undated_not_sequenced": []
+          "undated_not_sequenced": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (Images+Video).pdf.txt"
+          ]
         },
         "calibleachers": {
           "firm": "Cali. Bleachers",
@@ -2300,12 +2251,22 @@
         "Universal Plumbing & Heating, Co."
       ],
       "current_per_firm": {
-        "bombardmechanical": {
-          "firm": "Bombard Mechanical, LLC",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt",
+        "universalplumbingheating": {
+          "firm": "Universal Plumbing & Heating, Co.",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Universal Mech.  Scope Review Meeting Agenda.docx.txt",
           "current_date": "2026-05-18",
           "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf.txt"
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Universal Plumbing & Heating (Form).pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "bombardmechanical": {
+          "firm": "Bombard Mechanical, LLC",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf.txt",
+          "current_date": "2026-05-20",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt"
           ],
           "undated_not_sequenced": []
         },
@@ -2317,7 +2278,7 @@
           "undated_not_sequenced": []
         },
         "usmechanical": {
-          "firm": "US Mechanical",
+          "firm": "U.S. Mechanical",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf.txt",
           "current_date": "2026-06-01",
           "superseded": [
@@ -2325,22 +2286,6 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf.txt"
           ],
-          "undated_not_sequenced": []
-        },
-        "universalplumbingheating": {
-          "firm": "Universal Plumbing & Heating Co.",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Universal Mech.  Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-18",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Universal Plumbing & Heating (Form).pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "bombard": {
-          "firm": "Bombard",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf.txt",
-          "current_date": "2026-05-20",
-          "superseded": [],
           "undated_not_sequenced": []
         }
       },
@@ -2382,6 +2327,50 @@
         "US Mechanical"
       ],
       "current_per_firm": {
+        "americanairbalance": {
+          "firm": "American Air Balance",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - American Air Balance.pdf.txt",
+          "current_date": "2026-05-11",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "bombardmechanical": {
+          "firm": "Bombard Mechanical, LLC",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf.txt",
+          "current_date": "2026-05-20",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "usmechanical": {
+          "firm": "U.S. Mechanical",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf.txt",
+          "current_date": "2026-06-01",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - US Mechanical (Form).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "sunriseair": {
+          "firm": "Sunrise Air Systems, Inc.",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sunrise Air  Scope Review Meeting Agenda.docx.txt",
+          "current_date": "2026-05-18",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "integra": {
+          "firm": "Integra",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Integra.pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
         "raglen": {
           "firm": "Raglen",
           "current_document": null,
@@ -2393,66 +2382,10 @@
         },
         "tabitt": {
           "firm": "Tabitt",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Tabitt.pdf.txt",
-          "current_date": "2026-04-20",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "americanairbalance": {
-          "firm": "American Air Balance",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - American Air Balance.pdf.txt",
-          "current_date": "2026-05-11",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "bombardmechanical": {
-          "firm": "Bombard Mechanical, LLC",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-18",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "sunriseair": {
-          "firm": "Sunrise Air Systems Inc.",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sunrise Air  Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-18",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "usmechanical": {
-          "firm": "US Mechanical",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf.txt",
-          "current_date": "2026-06-01",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - US Mechanical (Form).pdf.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "integra": {
-          "firm": "Integra",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Integra.pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "bombard": {
-          "firm": "Bombard",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf.txt",
-          "current_date": "2026-05-20",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "tab": {
-          "firm": "TAB",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf.txt",
           "current_date": "2026-05-29",
           "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Tabitt.pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt"
           ],
           "undated_not_sequenced": []
@@ -2503,6 +2436,15 @@
         "Wheeler\u2019s Electric, Inc"
       ],
       "current_per_firm": {
+        "wheelerselectric": {
+          "firm": "Wheeler's Electric, Inc.",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Wheelers  Scope Review Meeting Agenda.docx.txt",
+          "current_date": "2026-05-18",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
         "quantumelectric": {
           "firm": "Quantum Electric",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Response R4 (Delete LV Pathway to HS).pdf.txt",
@@ -2517,6 +2459,29 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse.pdf.txt"
           ]
         },
+        "wheelerseletric": {
+          "firm": "Wheelers Eletric",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Wheelers Eletric Homework Response.pdf.txt",
+          "current_date": "2026-05-20",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
+        "jwelectrical": {
+          "firm": "JW Electrical",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/JW Electric Scope Review Meeting Agenda.docx.txt",
+          "current_date": "2026-05-19",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - JW Electric (backup, no Form).pdf.txt"
+          ],
+          "undated_not_sequenced": []
+        },
+        "killawatt": {
+          "firm": "Kill A Watt LLC",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Kill A Watt (no backup, no Form).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
+          "undated_not_sequenced": []
+        },
         "musco": {
           "firm": "Musco",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 SPORTS LIGHTING - Musco (Footing info).pdf.txt",
@@ -2528,43 +2493,6 @@
           "firm": "Conti LLC",
           "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Conti (value only).pdf.txt",
           "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "jwelectric": {
-          "firm": "JW Electric",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - JW Electric (backup, no Form).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "killawatt": {
-          "firm": "Kill A Watt LLC",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Kill A Watt (no backup, no Form).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "wheelerselectric": {
-          "firm": "Wheeler\u2019s Electric, Inc",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Wheelers  Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-18",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "jwelectrical": {
-          "firm": "JW Electrical",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/JW Electric Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-19",
-          "superseded": [],
-          "undated_not_sequenced": []
-        },
-        "wheelerseletric": {
-          "firm": "Wheelers Eletric",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Wheelers Eletric Homework Response.pdf.txt",
-          "current_date": "2026-05-20",
           "superseded": [],
           "undated_not_sequenced": []
         }
@@ -2608,13 +2536,11 @@
         "Porta - King Building Systems ( Jay Henges Enterprises)"
       ],
       "current_per_firm": {
-        "guardianbooth": {
-          "firm": "Guardian Booth LLC",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_6x8.pdf.txt",
-          "current_date": "2026-04-24",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf.txt"
-          ],
+        "portakingbuildingjayhenges": {
+          "firm": "Porta - King Building Systems ( Jay Henges Enterprises)",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Port-a-King (SUPPLY).pdf.txt",
+          "current_date": "2026-05-12",
+          "superseded": [],
           "undated_not_sequenced": []
         },
         "parkutinternational": {
@@ -2624,11 +2550,13 @@
           "superseded": [],
           "undated_not_sequenced": []
         },
-        "portakingbuildingjayhenges": {
-          "firm": "Porta - King Building Systems ( Jay Henges Enterprises)",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Port-a-King (SUPPLY).pdf.txt",
-          "current_date": "2026-05-12",
-          "superseded": [],
+        "guardianbooth": {
+          "firm": "Guardian Booth LLC",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_6x8.pdf.txt",
+          "current_date": "2026-04-24",
+          "superseded": [
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf.txt"
+          ],
           "undated_not_sequenced": []
         }
       },
@@ -19995,7 +19923,7 @@
   "_price_movements": [
     {
       "package": "RFP-002",
-      "firm": "Northstar Contracting Group",
+      "firm": "NorthStar Contracting Group, Inc.",
       "sequence": [
         {
           "date": "2026-05-12",

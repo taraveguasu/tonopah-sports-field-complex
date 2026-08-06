@@ -1,0 +1,583 @@
+{
+  "_package_id": "RFP-016",
+  "_title": "Landscaping & Irrigation",
+  "_title_variants_in_source": [
+    "Landscape & Irrigation"
+  ],
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 016 Landscaping & Irrigation.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "32 84 00",
+        "title": "Landscape Irrigation",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 07.31.26: RFP-016's primary specs are 32 84 00, 32 91 13, 32 96 50.",
+        "manual_pages": "581-594",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "32 91 13",
+        "title": "Shot Put and Discus Mix",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping.",
+        "manual_pages": "595-597",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": true,
+        "also_cited_by": [
+          "ITB-019"
+        ]
+      },
+      {
+        "section": "32 96 50",
+        "title": "Invasive Plant Removal",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 07.31.26.",
+        "manual_pages": "598-600",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-12",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-12.txt"
+      },
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "G0-00",
+        "title": "COVER SHEET",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/G0-00.txt"
+      },
+      {
+        "sheet": "L1.00",
+        "title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.00.txt"
+      },
+      {
+        "sheet": "L2.01",
+        "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.01.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "L2.03",
+        "title": "IRRIGATION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.03.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "AD1.11",
+      "E1-10",
+      "L0.00",
+      "L0.01"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Landscaping & Irrigation",
+    "awarded_sub": "Black Canyon",
+    "license_no": "0060235",
+    "proposal_price": 111275.0,
+    "proposal_file": "016 Irrigation - Black Canyon (w backup).pdf",
+    "other_bidders": [
+      "Brightview Landscape",
+      "Sprinturf",
+      "Tand"
+    ],
+    "descope_files_present": true,
+    "descope_file_hint": "Black Canyon Scope Review Meeting Agenda.docx; Black Canyon Homework Response(s) in 1% Descopes/Homework Responses/",
+    "status": "awarded",
+    "note": "1% Subcontractor Listing labels this trade 'Irrigation' only, not 'Landscaping & Irrigation' -- confirm whether landscaping (planting/sod) scope is included in Black Canyon's award or was descoped/moved elsewhere."
+  },
+  "bidders": [
+    {
+      "firm": "Black Canyon Construction",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 3.pdf.txt",
+      "current_date": "2026-06-01",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Black Canyon (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - BrightView (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Black Canyon Scope Review Meeting Agenda.docx.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 2.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Black Canyon (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "7. BCC to receive the site free of construction debris and in finish sub-grade condition +/- 1/10.  All compaction",
+            "of sub-grade to be provided by others.",
+            "8. BCC is to have access to site prior to paving, concrete etc. to allow for installation of irrigation sleeves.  If",
+            "sleeves are to be installed under existing BCC will not bear the cost of cutting, patching of asphalt and/or",
+            "concrete, nor are any boring, jacking or jetting included.",
+            "9. Any saw cutting, boring, jacking and/or drilling and/or patching of asphalt and/or concrete is excluded and to",
+            "be provided by others.",
+            "10. All rock areas to be received at depth to accommodate placement of rock.",
+            "11. Any import/export is excluded and to be provided by others.",
+            "12. All concrete, masonry, mow curb, flatwork, walkways and/or ramps is excluded and to be provided by others.",
+            "13. All fencing is excluded and to be provided by others.",
+            "14. All electrical/lighting/low voltage/telephone is excluded and to be provided by others.",
+            "15. Hazardous material is excluded.",
+            "16. On-site construction water and meter is excluded and to be provided by others.",
+            "17. BCC will be responsible for Dust Control for BCC scope of work only.",
+            "18. Survey, Potholing, Permits, Inspections, Quality Assurance/Quality Control, testing, and/or fees are excluded",
+            "and are to be provided by others.",
+            "3395 W. Cheyenne, Suite 106",
+            "North Las Vegas, Nevada 89032",
+            "Nevada License C-10   #0060235 Limit $9,500,000"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - BrightView (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "\u2756 Specification Sections:",
+            "\u2756 Specification Dates:",
+            "\u2756 Addendums:",
+            "\u2756 Soils report:",
+            "II. SCOPE OF WORK",
+            "This proposal shall be attached to the contract as an exhibit, or the Scope of Work, Qualifications & Exclusions shall",
+            "be incorporated in the contract",
+            "Unit Cost",
+            "Mobilization",
+            "Irrigation",
+            "Project Total"
+          ],
+          "exclusions_scope_specific": [
+            "1.13. Landscape maintenance is excluded",
+            "1.14. Escalation has not been included.",
+            "2.  Site Qualifications",
+            "2.1. Site Shall be received:",
+            "Clean and free of grass, weeds, debris, and deleterious material",
+            "At +/- .10 foot of finish grade.",
+            "At +/- .10 foot of subgrade at hardscape areas.",
+            "All areas to be received graded to drain.",
+            "Rough grading is excluded.",
+            "Drainage and swales are excluded.",
+            "2.2. GTI 1, Inc. generated excess soils are to be stockpiled on site, hauling off-of other trades excavated spoils",
+            "is excluded.",
+            "2.3. Hard dig, caliche and / or excavations that will not yield to standard digging equipment (75 HP rubber",
+            "tire backhoe, 40 HP chain trencher with rock teeth or 25 HP mini excavator) or requiring the use of a",
+            "hydraulic hammer are excluded. Import soil to make up for rock or caliche or other unsuitable materials",
+            "is not included.",
+            "2.4. Soils containing elements larger than 3\u201d minus (to a 24\u201d depth\u201d), may incur an upcharge for removal in",
+            "Presented to: Core",
+            "Construction",
+            "Tonopah High School"
+          ],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Black Canyon Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-14",
+          "inclusions": [
+            "Assumes 2ft of trenching for irrigation",
+            "Includes irrigation to remaining trees",
+            "Includes separate mob for sleeving",
+            "Includes quick couplers"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Safe off irrigation before demo",
+            "Excludes demo",
+            "Excludes backflow install",
+            "Excludes concrete in the shot put pad"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "GTI 1 Inc.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/GTI Homework Response.pdf.txt",
+      "current_date": "2026-05-21",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [
+        "\u2756 Specification Sections:",
+        "\u2756 Specification Dates:",
+        "\u2756 Addendums:",
+        "\u2756 Soils report:",
+        "II. SCOPE OF WORK",
+        "This proposal shall be attached to the contract as an exhibit, or the Scope of Work, Qualifications & Exclusions shall",
+        "be incorporated in the contract",
+        "Unit Cost",
+        "Mobilization",
+        "Irrigation",
+        "Project Total",
+        "Footings Included",
+        "Engineering Costs Excluded",
+        "Discus Cage #DCHS-35NET",
+        "Sleeves Supplied For Installation By Others",
+        "Pole Vault Box",
+        "Vault Box Collar",
+        "Cast Aluminum Vault Box",
+        "Cast Aluminum Vault Box Lid",
+        "Excavation Excluded",
+        "Concrete Excluded",
+        "Shot Put Rubber",
+        "Anchor",
+        "UV Top Coat",
+        "Type II Base",
+        "High Jump Equipment",
+        "High Jump Vault Package",
+        "8\u2019 High Jump Takeoff Tray",
+        "Project Total",
+        "Includes Post and Pads"
+      ],
+      "exclusions_scope_specific": [
+        "1.13. Landscape maintenance is excluded",
+        "1.14. Escalation has not been included.",
+        "2.  Site Qualifications",
+        "2.1. Site Shall be received:",
+        "Clean and free of grass, weeds, debris, and deleterious material",
+        "At +/- .10 foot of finish grade.",
+        "At +/- .10 foot of subgrade at hardscape areas.",
+        "All areas to be received graded to drain.",
+        "Rough grading is excluded.",
+        "Drainage and swales are excluded.",
+        "2.2. GTI 1, Inc. generated excess soils are to be stockpiled on site, hauling off-of other trades excavated spoils",
+        "is excluded.",
+        "2.3. Hard dig, caliche and / or excavations that will not yield to standard digging equipment (75 HP rubber",
+        "tire backhoe, 40 HP chain trencher with rock teeth or 25 HP mini excavator) or requiring the use of a",
+        "hydraulic hammer are excluded. Import soil to make up for rock or caliche or other unsuitable materials",
+        "is not included.",
+        "2.4. Soils containing elements larger than 3\u201d minus (to a 24\u201d depth\u201d), may incur an upcharge for removal in",
+        "addition to costs for import soils required for backfill if on site soil is not suitable for backfill.",
+        "2.5. Underground utilities not marked by \u2018Call Before You Dig\u2019 are the responsibility of others to identify.",
+        "2.6. Hydro-excavation and/or relocation of existing utilities is excluded",
+        "2.7. X-rays, cutting, coring, boring, potholing and / or patching of concrete or asphalt is not included and",
+        "is to be performed by others.",
+        "2.8. The jobsite shall be readily accessible to our construction equipment (backhoes, loaders, forklifts, etc.).",
+        "2.9. Existing tree protection, barricades, construction and pedestrian control fencing is excluded.",
+        "2.10. Removal, repair, or replacement of existing landscapes or irrigation that may be damaged during",
+        "construction by others is excluded.",
+        "2.11. Demolition, removal, clear & grubb are excluded.",
+        "2.12. Site and safety lighting, overhead illumination is excluded.",
+        "2.13. Unless specifically included in the scope of work all site furnishings are to be provided and installed",
+        "by others",
+        "2.14. Unless specifically included in the scope of work all hardscapes (concrete, masonry, pavers etc.) are to",
+        "be provided and installed by others",
+        "Presented to: Core",
+        "Construction",
+        "Tonopah High School",
+        "Thursday, May 21, 2026",
+        "GTI 1, Inc.",
+        "4021 West Cary Avenue, North Las Vegas, NV 89032",
+        "C-10: 0026545 Unlimited (Landscape Contracting)",
+        "C-18: 0073957 (Masonry)                                                                                                                             P a g e |  4",
+        "3. Irrigation Qualifications",
+        "3.1. Irrigation backflow is excluded.",
+        "3.2. Irrigation booster pump is excluded.",
+        "3.3. Water audit is excluded.",
+        "3.4. Water meters, hot taps, construction water, maintenance water, all utilities and fees are excluded.",
+        "3.5. Concrete valves boxes and concrete/steel valve box covers are included.",
+        "3.6. Contractor to provide time to install all sleeves prior to installation of curb, gutter and paving.",
+        "3.7. Water supply to be provided by others prior to planting. Hand watering and temporary irrigation",
+        "measures are excluded.",
+        "4. Specific Exclusions",
+        "4.1. 120/240/480 Volt electrical work.",
+        "4.2. Drainage.",
+        "4.3. Excavation for field equipment.",
+        "4.4. Any concrete work.",
+        "4.5. Track materials.",
+        "4.6. Repair of existing landscape.",
+        "4.7. Synthetic Turf.",
+        "Upon review of this document, please do not hesitate to contact us for any additional information or clarification.",
+        "Sincerely,",
+        "Accepted By:",
+        "Ryan Rich"
+      ],
+      "clarifications": [
+        "Please note these qualifications and exclusions are to be incorporated into any contract issued.",
+        "General Qualifications",
+        "1.1. This proposal is based upon Prevailing Rates",
+        "1.2. The work outlined in this proposal shall be completed by 10/2027. In the event that the work is not",
+        "completed by this date due to delays caused by scheduling issues beyond our control, the Client shall",
+        "be responsible for additional labor and material costs incurred as a result of the delay.",
+        "1.3. Tariffs",
+        "GTI has not included and reserves the right to add at a later time should they materialize, costs",
+        "attributable to tariffs levied on goods from Canada, Mexico, China, or any other country subject to",
+        "current or future tariffs.",
+        "Should any known or unknown tariffs be implemented after submission of this proposal and",
+        "before project buyout that significantly impacts the price of any goods associated with the project,",
+        "it shall be considered a change in scope.  GTI 1, Inc. will work with Core Construction to",
+        "substantiate any increase with the use of vendor quotes.",
+        "1.4. This proposal is valid for 60 days and pricing is subject to confirmation at time of award.",
+        "1.5. Bid is based as an \u201call in\u201d price with general conditions spread throughout. If portions of this proposal",
+        "are accepted, we reserve the right to adjust our general conditions, as necessary.",
+        "1.6. Overtime, night work, shift work and weekend work are all excluded.",
+        "Presented to: Core",
+        "Construction",
+        "Tonopah High School",
+        "Thursday, May 21, 2026",
+        "GTI 1, Inc.",
+        "4021 West Cary Avenue, North Las Vegas, NV 89032",
+        "C-10: 0026545 Unlimited (Landscape Contracting)",
+        "C-18: 0073957 (Masonry)                                                                                                                             P a g e |  3",
+        "1.7. Dumpsters and portable toilets to be provided by the general contractor for our use.",
+        "1.8. Changes in material availability may extend project schedule duration. Durations to be confirmed at",
+        "the time of the contract.",
+        "1.9. If the construction schedule or sequence is delayed or disrupted, through no fault of GTI 1, Inc., additional",
+        "costs will apply.",
+        "1.10. Temporary power and water during construction to be provided by others.",
+        "1.11. GTI 1, Inc. will provide flaggers for its own operations as needed but traffic control and / or street &",
+        "lane closures are to be provided and maintained by others.",
+        "1.12. Permits, design, engineering, survey, audits, third party testing, inspections and licensing fees are"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-15",
+          "inclusions": [
+            "Assume temporary irrigation to be on the surface.",
+            "Includes temporary irrigation",
+            "Includes site amenities",
+            "Includes prevailing wage"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes any tree demo",
+            "Excludes pole vault",
+            "Excludes discuss and shot put pads",
+            "Excludes trench drains",
+            "Excludes concrete pads"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Sprinturf LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sprinturf  Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-15",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/016, 022 Irrigation + Synthetic Turf Sports Field - Sprinturf (Descope Qs).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Include Brock pad product",
+        "Assume coordination with track and civil contractor",
+        "Assume hiring The Monument Co for base",
+        "Assume tolerance of \u00bc\u201d at every 10ft",
+        "Assume base compaction is met with any depth",
+        "Includes 4 different mobs due to bid package",
+        "Includes crusher fine base",
+        "Includes color match for colored turf",
+        "Includes price escalation cost"
+      ],
+      "exclusions_scope_specific": [
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Concrete package should have the nailer board",
+        "Civil package can do note 5, 6, and 3",
+        "Inclusions or assumptions to cover grey areas in the scope"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Tand Inc.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf.txt",
+      "current_date": "2026-05-20",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [
+        "- Supply & Install Temp Water",
+        "- Supply & Install Tree Protection for Trees @ South Edge of Running Track",
+        "- Provide & Install Irrigation for Trees @ South Edge of Running Track",
+        "Includes Game Markings \u2013 Lines, Center Logo & End Zone Letters"
+      ],
+      "exclusions_scope_specific": [
+        "Rough grade to be provided and field verified at +/- 0.10 ft.",
+        "Tand Inc is not responsible for damages made to existing landscape caused by others. Repairs,",
+        "replacement, temp irrigation and/or hand watering due to damages by others is excluded.",
+        "Sleeving access required prior to all hardscape.",
+        "Water for dust control, track out pad, & engineering, testing or surveying by others.",
+        "This bid excludes demolition of any kind, track surfacing, catch basins or slot drainage, hardscape, pavers",
+        "& curbing. Items not specifically listed in our proposal are excluded.",
+        "Soccer goals were not identified in the drawings & specs. This item is excluded.",
+        "Full access to work area required. Staging area required.",
+        "Field trenching under synthetic turf by others.",
+        "Proposal Package #16 - Landscape & Irrigation",
+        "Add Alternate #02 016.02 - Decorative Rock Groundcover",
+        "35 Ton Allowance \u2013 Color & Size to match existing",
+        "Proposal Package #22 - Synthetic Turf System",
+        "Proposal Package #19 - Track & Field Equipment",
+        "*All Options include P&P Bond",
+        "Mike Barney",
+        "Mike Barney",
+        "Landscape Estimator",
+        "4500 VANDENBURG DRIVE",
+        "NO RT H L AS VE GAS , NV 89081",
+        "PH O NE : 702-889-4676  FAX : 702- 889-8876"
+      ],
+      "clarifications": [],
+      "priced_line_items": [
+        "Add Alternate #02 016.02 - Decorative Rock Groundcover"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "- Supply & Install Temp Water",
+            "- Supply & Install Tree Protection for Trees @ South Edge of Running Track",
+            "- Provide & Install Irrigation for Trees @ South Edge of Running Track",
+            "Includes Game Markings \u2013 Lines, Center Logo & End Zone Letters"
+          ],
+          "exclusions_scope_specific": [
+            "Rough grade to be provided and field verified at +/- 0.10 ft.",
+            "Tand Inc is not responsible for damages made to existing landscape caused by others. Repairs,",
+            "replacement, temp irrigation and/or hand watering due to damages by others is excluded.",
+            "Sleeving access required prior to all hardscape.",
+            "This bid excludes demolition of any kind, track surfacing, hardscape, pavers, concrete curbing, site",
+            "amenities & furnishings of any kind. Item not specifically listed in our proposal are excluded.",
+            "Full access to work area required. Staging area required.",
+            "Synthetic turf is being installed over prepared base by others. Subgrade, field trenching, drainage, chat",
+            "base, nailer boards and related work is excluded. Per Clarification #1 a complete finish grade is provided.",
+            "Landcscape & Irrigation",
+            "Add Alterante #01 - Synthetic Turf System",
+            "Add Alternate #02 016.02 - Decorative Rock Groundcover",
+            "35 Ton Allowance \u2013 Color & Size to match existing",
+            "Mike Barney",
+            "Mike Barney",
+            "Landscape Estimator",
+            "4500 VANDENBURG DRIVE",
+            "NO RT H L AS VE GAS , NV 89081",
+            "PH O NE : 702-889-4676  FAX : 702- 889-8876"
+          ],
+          "priced_line_items": [
+            "Add Alternate #02 016.02 - Decorative Rock Groundcover"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-14",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Assume Shaw for turf manufacturer"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Includes raking areas with no groundcover to 5' outside fence line. Dust palliative or soil stabilization is excluded."
+    ],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 11,
+      "id": "SPEC-C05",
+      "severity": "high",
+      "title": "32 91 13 Shot Put and Discus Mix \u2014 claimed by more than one scope doc",
+      "detail": "Assigned to RFP-016 (pm_ruling); also cited by ITB-019. PM ruling 07.31.26. ITB-019's scope doc also cites this section for the shot put and discus pad, and Sahara priced that pad under RFP-030 -- three packages touch it. The ruling governs; the other two need descoping."
+    },
+    {
+      "n": 26,
+      "id": "BID-B01",
+      "severity": "medium",
+      "title": "Tand Inc. bid RFP-016, RFP-022 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    }
+  ]
+}

@@ -635,12 +635,32 @@ def main():
         chains = {}
         for d in ds_sorted:
             chains.setdefault(d["firm_key"], []).append(d)
+
+        # Merge keys that are the same firm written two ways. On RFP-031 the
+        # proposal and agenda key as "hendersonmasonry" while the ALT block pricing
+        # keys as "henderson", splitting one bidder into two chains -- so "latest
+        # date governs" runs on two half-chains and can report a stale document as
+        # current. Within a single package, one key being a prefix of another is a
+        # naming variant, not two firms.
+        merged = {}
+        for key in sorted(chains, key=len, reverse=True):
+            target = next((m for m in merged
+                           if m.startswith(key) or key.startswith(m)), None)
+            if target:
+                merged[target] += chains[key]
+            else:
+                merged[key] = list(chains[key])
+        chains = {k: sorted(v, key=lambda d: (d["date"] or "0000-00-00", d["revision"] or 0))
+                  for k, v in merged.items()}
         current = {}
         for key, chain in chains.items():
             dated = [c for c in chain if c["date"]]
             cur = dated[-1] if dated else None
             current[key] = {
-                "firm": chain[-1]["firm"],
+                # Most complete form of the name in the chain, not whichever
+                # document happened to be latest -- after merging, that would label
+                # Henderson Masonry as plain "Henderson".
+                "firm": max((c["firm"] for c in chain), key=len),
                 "current_document": cur["file"] if cur else None,
                 "current_date": cur["date"] if cur else None,
                 "superseded": [c["file"] for c in dated[:-1]],
@@ -653,7 +673,7 @@ def main():
             if len(priced) > 1 and len({c["price"] for c in priced}) > 1:
                 price_moves.append({
                     "package": p,
-                    "firm": chain[-1]["firm"],
+                    "firm": max((c["firm"] for c in chain), key=len),
                     "sequence": [{"date": c["date"], "price": c["price"],
                                   "kind": c["kind"], "file": c["file"]} for c in priced],
                     "governing_price": priced[-1]["price"],

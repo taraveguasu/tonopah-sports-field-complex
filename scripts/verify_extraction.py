@@ -204,6 +204,68 @@ ASSIGN_PROBES = [
 ]
 
 
+# Package-record probes. The drafting record is what 33 drafter runs consume, so
+# it must carry the rulings and corrections made along the way rather than
+# silently reverting to what the source documents said.
+PACKAGE_PROBES = [
+    ("count", "", "33", "every package has a drafting record"),
+    ("spec", "RFP-031", "04 20 16", "the mason's record carries the masonry section his "
+                                    "scope doc never cited"),
+    ("spec", "RFP-103", "26 56 00", "electrical carries exterior/sports-field lighting"),
+    ("spec", "ITB-067", "03 30 00", "the 08.05.26 ruling reached the record"),
+    ("spec", "ITB-040", "07 25 00", "same for weather barriers"),
+    ("price", "RFP-008", "1924851", "TAB's corrected price, not the tab's transposition"),
+    ("title", "RFP-094", "Bleachers & Press Box", "canonical title, not the mapping's "
+                                                  "'Bleacher & Press Box (SUPPLY)'"),
+    ("bidders", "RFP-031", "6", "Henderson's two name forms merged into one chain"),
+    ("all_bidders", "RFP-030", "Cheek", "losing bidders are present, not just the awarded sub"),
+    ("no_dupe_firm", "", "", "no package lists the same firm twice"),
+    ("scope_file", "RFP-100", "099 HVAC", "the scope narrative path survives the number drift"),
+    ("sheets", "ITB-077", "A10-30", "lockers point at the sheet carrying their keynote"),
+    ("authority", "RFP-060", "", "every record states the authority hierarchy"),
+]
+
+
+def package_probe(kind, pkg, val):
+    d = ROOT / "01-index" / "packages"
+    if not d.exists():
+        return None
+    if kind == "count":
+        return len(list(d.glob("*.json"))) == int(val)
+    if kind == "no_dupe_firm":
+        for f in d.glob("*.json"):
+            names = [b["firm"] for b in json.loads(f.read_text())["bidders"]]
+            norm = [re.sub(r"[^a-z0-9]", "", n.lower()) for n in names]
+            for i, a in enumerate(norm):
+                for b in norm[i + 1:]:
+                    if a and b and (a.startswith(b) or b.startswith(a)):
+                        return False
+        return True
+    f = d / f"{pkg}.json"
+    if not f.exists():
+        return False
+    r = json.loads(f.read_text())
+    if kind == "spec":
+        got = {s["section"] for s in r["spec_sections"]["primary"]} | \
+              {s["section"] for s in r["spec_sections"]["added_by_pm_ruling"]}
+        return val in got
+    if kind == "price":
+        return str(r["awarded_sub"].get("proposal_price", "")).startswith(val)
+    if kind == "title":
+        return r["_title"] == val
+    if kind == "bidders":
+        return len(r["bidders"]) == int(val)
+    if kind == "all_bidders":
+        return any(val.lower() in b["firm"].lower() for b in r["bidders"])
+    if kind == "scope_file":
+        return val in r["scope_narrative"]["file"]
+    if kind == "sheets":
+        return val in [s["sheet"] for s in r["drawings"]["draft_from"]]
+    if kind == "authority":
+        return len(r.get("document_authority_hierarchy", [])) >= 4
+    return False
+
+
 def assign_probe(kind, sheet, pkg):
     p = ROOT / "01-index" / "sheet-package-assignments.json"
     if not p.exists():
@@ -372,8 +434,17 @@ def main():
         if not ok:
             fails += 1
 
+    print("\nPACKAGE-RECORD PROBES (what the drafter actually consumes)")
+    for kind, pkg, val, label in PACKAGE_PROBES:
+        ok = package_probe(kind, pkg, val)
+        if ok is None:
+            print("  [SKIP] 01-index/packages/ not built yet"); break
+        print(("  [PASS] " if ok else "  [FAIL] ") + f"{pkg or kind}: {label}")
+        if not ok:
+            fails += 1
+
     total = (len(PROBES) + len(SHEET_PROBES) + len(PROPOSAL_PROBES) + len(SPEC_PROBES)
-             + len(ASSIGN_PROBES))
+             + len(ASSIGN_PROBES) + len(PACKAGE_PROBES))
     print(f"\nprobe failures: {fails}/{total}")
     t = man["_totals"]
     print(f"corpus: {t['chars']:,} chars across {t['documents']} documents, "

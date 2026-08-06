@@ -1,0 +1,693 @@
+{
+  "_package_id": "RFP-100",
+  "_title": "HVAC & Building Control Systems (incl. Test & Balance)",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 099 HVAC & Building Controls Systems.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "23 01 00",
+        "title": "BASIC HVAC REQUIREMENTS (Page 1of15)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "337-351",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 05 00",
+        "title": "COMMONWORKRESULTSFOR HVAC (Page 1of10)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "352-361",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 05 13",
+        "title": "CommonMotorRequirementsfor HVACEquipment (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "362-363",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 05 29",
+        "title": "HangersandSupportsforHVAC PipingandEquipment (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "364-366",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 05 53",
+        "title": "IdentificationforHVACPipingand Equipment (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "367-368",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 05 93",
+        "title": "Testing,AdjustingandBalancingfor HVAC (Page 1of13)",
+        "basis": "trade_judgment",
+        "rationale": "Testing, adjusting and balancing. RFP-100's own title carries Test & Balance, so it stays in this subcontract rather than going to a separate TAB agency -- note four separate TAB proposals were solicited under trade 102 and tabulated into RFP-100, so confirm whether TAB is subcontracted directly or held here.",
+        "manual_pages": "369-381",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 07 13",
+        "title": "DuctInsulation (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "382-384",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 07 19",
+        "title": "HVACPipingInsulation (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "385-386",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 23 00",
+        "title": "RefrigerantPiping (Page 1of5)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "387-391",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 31 00",
+        "title": "HVACDuctsandCasings (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "392-395",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 33 00",
+        "title": "AirDuctAccessories (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "396-397",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 34 16",
+        "title": "CentrifugalHVACFans (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "398-399",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 36 00",
+        "title": "AirTerminalUnits (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "400-403",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 40 00",
+        "title": "HVACAirCleaningDevices (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "404-405",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 81 26.13",
+        "title": "Small-CapacitySplit-SystemAir Conditioners (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "406-408",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "23 81 29",
+        "title": "VariableRefrigerantFlowHVAC Systems (Page 1of9)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-100's scope doc cites Division 23 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "409-417",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      },
+      {
+        "section": "08 31 00",
+        "title": "Access Doors and Panels",
+        "primary_package": "RFP-060",
+        "note": "A designed supply/install split, not a dispute -- MEP supply, RFP-060 installs. The section must appear in all four subcontracts with the split stated."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "31 00 00": {
+        "title_per_scope_doc": "Earthwork",
+        "status": "OPEN",
+        "note": "Earthwork. A division rollup number rather than a section; Division 31 does exist in this manual with three sections, all assigned to RFP-008. Not a gap.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A11-10",
+        "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A11-10.txt"
+      },
+      {
+        "sheet": "A2-10",
+        "title": "FLOOR PLAN AND RCP",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A2-10.txt"
+      },
+      {
+        "sheet": "A4-10",
+        "title": "ROOF PLAN AND BUILDING SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-10.txt"
+      },
+      {
+        "sheet": "A4-20",
+        "title": "ROOF DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-20.txt"
+      },
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "E3-10",
+        "title": "TECHNOLOGY SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-10.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "M0-05",
+        "title": "MECHANICAL SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-05.txt"
+      },
+      {
+        "sheet": "M0-10",
+        "title": "MECHANICAL DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-10.txt"
+      },
+      {
+        "sheet": "M2-10",
+        "title": "MECHANICAL PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M2-10.txt"
+      },
+      {
+        "sheet": "P0-05",
+        "title": "PLUMBING SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-05.txt"
+      },
+      {
+        "sheet": "P0-10",
+        "title": "PLUMBING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-12",
+      "G0-00",
+      "L2.03",
+      "LS1-10",
+      "M0-15"
+    ]
+  },
+  "awarded_sub": {
+    "title": "HVAC & Building Control Systems (incl. Test & Balance)",
+    "awarded_sub": "US Mechanical",
+    "license_no": "0031212A",
+    "proposal_price": 241300.0,
+    "proposal_file": "100 HVAC - US Mechanical (Form).pdf",
+    "other_bidders": [
+      "Bombard Mechanical",
+      "Sunrise Air Systems"
+    ],
+    "descope_files_present": false,
+    "status": "awarded",
+    "note": "Same sub (US Mechanical) also awarded RFP-098 (Plumbing) -- check for combined-scope proposal/pricing across both packages; RFP title mentions Test & Balance -- confirm US Mechanical's proposal covers T&B or whether it's a separate sub-tier."
+  },
+  "bidders": [
+    {
+      "firm": "American Air Balance",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - American Air Balance.pdf.txt",
+      "current_date": "2026-05-11",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [
+        "Alternate Add for Duct Detector Testing @ $125.00 each.*"
+      ],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Bombard Mechanical, LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf.txt",
+      "current_date": "2026-05-20",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "Furnish and Install (40) Linear ft. of Heat Trace",
+            "Furnish and Install (2) Exterior Hose Bibb",
+            "HVAC Systems based on Mechanical Drawings.  Includes the following:",
+            "Tonopah High School Sports Complex",
+            "KNIT Plans Dated 4/20/2026",
+            "Addendum 1, Clarification 1 & 2",
+            "Disconnect and safe off as shown on the Architectural Drawings",
+            "Sanitary Waste & Vent, CW, HW, Condensate piping as shown on the plumbing drawings",
+            "Tie-ins to existing utilities as required",
+            "Insulation of domestic water and condensate piping, Firestop",
+            "Excavation and backfill",
+            "Domestic water treatment",
+            "Seismic",
+            "Furnish (7) Access Panel (to be installed by others)",
+            "Reinstall fixtures as follows: (1) Hand Sink, (1) 3-Compartment Sink",
+            "10. Furnish and install fixtures as follows: (11) SS-1, (3) U-1, (12) WC-1, (1) DF-1",
+            "11. Furnish and install equipment as follows: (1) WH-1, (1) CP-1, (1) ET-1",
+            "12. Furnish and install specialties as follows: (6) FD-1, (3) GCO, (1) FS-2, (4) TP-1, (9) WHA, (6) WCO, (12) TMV,",
+            "(6) Balancing Valve",
+            "13. Camera all 4\" and larger lines to 5' outside the building"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-18",
+          "inclusions": [
+            "Condensate piping is included. Included insulation on condensate piping",
+            "Haul off of spoils \u2013 not included but will store at designated locations",
+            "Hard dig costs \u2013 not included. CORE requests Bombard to assume hard dig for UG plumbing work. Provide added cost.",
+            "Include UG piping, above grade to connect to existing, and a concrete pad.",
+            "Includes only one point of connection. CORE to review existing conditions more and let Bombard know if additional pricing is needed.",
+            "Duct heaters: controllers have to be added to tie into fan coil units.",
+            "CORE requested Bombard to look to see if there would be any impacts if we relocate the condensing unit over to NW corner of Team #2 room",
+            "Includes cutting of roof deck, and curb, for exhaust fan",
+            "Includes supply of access panels (7) to be installed by others",
+            "Includes sealing all penetrations",
+            "Includes access panel for unit above hard lid.",
+            "Includes all dampers shown.",
+            "Includes conduit and pathway for controls"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Integra",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Integra.pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "Final Air Balance",
+        "Project Agenda",
+        "Site Inspections",
+        "Duct Smoke Detector Testing",
+        "Verification of minimum outside air",
+        "Temperature Performance Testing",
+        "Single-Line Color CAD Drawings reflecting ductwork, air distribution and test locations",
+        "Assistance with Commissioning",
+        "90-Day Post Occupancy Visit",
+        "AABC Certified Report",
+        "See Page 2 of this Proposal for additional items and notes",
+        "Award and Acceptance",
+        "Proposal to perform the described work  described above, accepted by:",
+        "Purchase Order Number:",
+        "Total Accepted Contract Price:",
+        "Project Start Date:",
+        "Signature:"
+      ],
+      "exclusions_scope_specific": [
+        "Changes or Additions to Duct Work or Balancing Devices",
+        "Filters or Filter Installation",
+        "Sheaves & Belts"
+      ],
+      "clarifications": [
+        "All work to be performed during normal working hours prior to occupancy, unless stated otherwise, in accordance with AABC National Standards. This quote is based upon receiving all",
+        "current, accurate and approved mechanical plans, specifications and submittals necessary to complete our scope of work prior to our scheduled start date. The above scope and price are",
+        "only valid for 30 days. Projects are scheduled and manpower is allocated in the order that Purchase Orders/Contracts are received. Work will not be scheduled without a PO/contract in",
+        "place. Please contact our office if you have any questions on this quote. The prevailing party in any legal action related to an accepted proposal will be entitled to recover attorneys' fees",
+        "and costs.",
+        "Proposal",
+        "Bid Price: $7,860.00",
+        "1035 Suncast Lane, Suite 130, El Dorado Hills, CA 95762 | Phone: 916.358.5672 Fax: 916.358.5673",
+        "California License #748756 | DIR #1001005117",
+        "\u2010\u2010 Page 1 of 2 \u2010\u2010",
+        "Reply to: Integra Testing Services",
+        "Reference: 26\u201002085\u201000",
+        "Estimating CA NV UT",
+        "Proposal",
+        "Bid Price: $7,860.00",
+        "All work to be performed during normal working hours prior to occupancy, unless stated otherwise, in accordance with AABC National Standards. This quote is based upon receiving all",
+        "current, accurate and approved mechanical plans, specifications and submittals necessary to complete our scope of work prior to our scheduled start date. The above scope and price are",
+        "only valid for 30 days. Projects are scheduled and manpower is allocated in the order that Purchase Orders/Contracts are received. Work will not be scheduled without a PO/contract in",
+        "place. All projects which have Certified Payroll requirements must be confirmed and identified prior to the project start date or a 10% surcharge will be incurred. Please contact our office",
+        "if you have any questions on this quote. The prevailing party in any legal action related to an accepted proposal will be entitld to recover attorneys' fees and costs.",
+        "1035 Suncast Lane, Suite 130, El Dorado Hills, CA 95762 | Phone: 916.358.5672 Fax: 916.358.5673",
+        "California License #748756 | DIR #1001005117",
+        "\u2010\u2010 Page 2 of 2 \u2010\u2010"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Raglen",
+      "current_document": null,
+      "current_date": null,
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Raglen.pdf.txt"
+      ]
+    },
+    {
+      "firm": "Sunrise Air Systems, Inc.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sunrise Air  Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-18",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Assumes no formal Cx. Included manufacturer startup",
+        "Seismic engineering \u2013 don\u2019t believe is required. Will include stamped exemption letter",
+        "Include smoke/fire sealants for own scope of work",
+        "Access panels (supply only) in hard lids for access to own work",
+        "Add Alternate #1",
+        "Figured two techs for one day.",
+        "Included southern rural wage rates provided with RFP"
+      ],
+      "exclusions_scope_specific": [
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope"
+      ],
+      "clarifications": [],
+      "priced_line_items": [
+        "Add Alternate #1"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "Provide and install (6) VRF Fan Coils",
+            "Provide and install (2) Branch Boxes",
+            "Provide and install (1) Roof Mounted Exhaust Fan",
+            "Provide and install (4) Ceiling mounted exhaust fans",
+            "Provide and install (1) VRF Condenser",
+            "Provide and install all duct. All duct to be constructed and installed according to SMACNA standards",
+            "Provide and install (5) Duct heaters",
+            "Provide and install thermostats and perform start up",
+            "Provide and install all grills and diffusers."
+          ],
+          "exclusions_scope_specific": [
+            "Work Type",
+            "Work Element",
+            "Exclude - Anything not specified in the Include section or Scope Above. Any work typically performed by other trades, connections to any equipment supplied by"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Tabitt",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf.txt",
+      "current_date": "2026-05-29",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Tabitt.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": 1924851,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [
+        "Base Bid Proposal - $ 1,924,851.00",
+        "Alt \u2014 Site Demo at Elementary School - $ 45,000.00 |",
+        "Alt - Propane Gas System Abandon \u2014 No Bid",
+        "Alt \u2014 Caliche Unit Rate - $40 per CY",
+        "ADD \u2014 D-10 Dozer for Hard Dig \u2014 1 Month - $70,000.00",
+        "Deduct \u2014 Leave clean spoils on-site in stockpile - $30,000.00",
+        "Deduct \u2014 Delete Type II and geofabric from turf field - $150,000.00",
+        "Deduct \u2014 Delete trench drain from the bid - $125,000.00",
+        "ADD ~ Additional footage for 8\u201d perf field drain South end of field (210 LF) - $30,000.00",
+        "Deduct \u2014 Delete Type II from building pad and concrete paving ~ $46,000.00",
+        "ADD \u2014 Trench Storm Drain \u20142 Days - $18,720.00",
+        "ADD - Trench Irrigation Line ~ 5 Days - $19,000.00",
+        "ADD \u2014 Trench Field Electrical \u2014 10 Days - $40,000.00",
+        "DEDUCT \u2014 Type II_at Job Trailer - $7,500",
+        "DEDUCT \u2014 Tract-Out Pad (2 Each) - $5,000",
+        "DEDUCT \u2014 Fine Grade at Access Road - $3,600 |",
+        "DEDUCT \u2014 Delete the Headwall and Replace with a RCP Flared End Section - $10,500",
+        "Deduct \u2014 4\u201d Type J] Under Asphalt Jn Lieu of 6\u201d Type II - $15,000"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt",
+          "date": "2026-05-22",
+          "inclusions": [],
+          "exclusions_scope_specific": [],
+          "priced_line_items": [
+            "Base Bid Proposal - $ 1,924,851.00",
+            "Alt \u2014 Site Demo at Elementary School - $ 45,000.00",
+            "Alt \u2014 Propane Gas System Abandon \u2014 No Bid",
+            "Alt \u2014 Caliche Unit Rate - $40 per CY",
+            "ADD \u2014 D-10 Dozer for Hard Dig \u2014 1 Month - $70,000.00",
+            "Deduct \u2014 Leave clean spoils on-site in stockpile - $30,000.00",
+            "Deduct \u2014 Delete Type II_and geofabric from turf field - $150,000.00",
+            "Deduct \u2014 Delete trench drain for the bid - $125,000.00",
+            "ADD - Additional footage for 8\u201d perf field drain South end of field (210 LF) - $30,000.00",
+            "Deduct \u2014 Delete Type Il from building pad and concrete paving - $46,000.00"
+          ]
+        }
+      ]
+    },
+    {
+      "firm": "U.S. Mechanical",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf.txt",
+      "current_date": "2026-06-01",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - US Mechanical (Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-18",
+          "inclusions": [
+            "Joint sealant of penetrations \u2013 not include. US to double check and provide add if necessary",
+            "Seismic engineering and restraints are included",
+            "Camera of 4\u201d sewer line is included",
+            "Supply of access doors for own scope is included",
+            "Excavation spoils: need to double check haul off assumptions",
+            "Hard dig included? US to check and provide additional cost",
+            "CORE to find out if BMS monitoring will be required or not; will let US know if HW request is required",
+            "Included conduit and backboxes for t-stats up to accessible ceiling",
+            "Will include 4 sets of filters total on the project",
+            "Test and Balance is included",
+            "US to provide an add for a low-ambient kit for outside unit",
+            "Includes cutting of roof deck for exhaust fans",
+            "Includes supply of access panels for HVAC scope",
+            "Includes regulators for dampers in hard lids"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope"
+          ],
+          "priced_line_items": [
+            "Alternate #1: Included, but only cut and cap above grade. Relook at scope to include sawcut, digging, and capping 2 feet below grade per detail in drawings. Include concrete pourback.",
+            "Alternate #2: CORE requested additional price for put back of site finishes disturbed by excavation",
+            "Alternate #2: packaged deduct (plumbing and HVAC combined) : $10,000 savings"
+          ]
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 20,
+      "id": "SPEC-G14",
+      "severity": "high",
+      "title": "31 00 00 Earthwork \u2014 cited but absent from the manual",
+      "detail": "Earthwork. A division rollup number rather than a section; Division 31 does exist in this manual with three sections, all assigned to RFP-008. Not a gap.  No candidate section exists; this needs a source."
+    },
+    {
+      "n": 29,
+      "id": "BID-B04",
+      "severity": "medium",
+      "title": "Bombard Mechanical, LLC bid RFP-098, RFP-100 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    }
+  ]
+}

@@ -1,0 +1,609 @@
+{
+  "_package_id": "RFP-098",
+  "_title": "Plumbing Systems",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 098 Plumbing Systems.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "22 01 00",
+        "title": "BASIC PLUMBING REQUIREMENTS (Page 1of12)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "275-286",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 05 00",
+        "title": "COMMONWORKRESULTSFOR PLUMBING (Page 1of12)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "287-298",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 05 19",
+        "title": "MetersandGaugesforPlumbing Piping (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "299-300",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 05 23",
+        "title": "General-DutyValvesforPlumbing Piping (Page 1of6)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "301-306",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 05 29",
+        "title": "HangersandSupportsforPlumbing PipingandEquipment (Page 1of5)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "307-311",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 05 53",
+        "title": "IdentificationforPlumbingPiping andEquipment (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "312-314",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 07 19",
+        "title": "PlumbingPipingInsulation (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "315-317",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 10 05",
+        "title": "PlumbingPiping (Page 1of7)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "318-324",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 10 06",
+        "title": "PlumbingPipingSpecialties (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "325-327",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 30 00",
+        "title": "PlumbingEquipment (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "328-331",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "22 40 00",
+        "title": "PlumbingFixtures (Page 1of5)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-098's scope doc cites Division 22 at division level, which binds the sub to nothing specific. Cite this section explicitly in Attachment A. ITB-085 and RFP-103 also mention Division 22 -- for the kitchen connections and the equipment they serve, not to carry the plumbing.",
+        "manual_pages": "332-336",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      },
+      {
+        "section": "08 31 00",
+        "title": "Access Doors and Panels",
+        "primary_package": "RFP-060",
+        "note": "A designed supply/install split, not a dispute -- MEP supply, RFP-060 installs. The section must appear in all four subcontracts with the split stated."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "AD1.11",
+        "title": "DEMOLITION PLAN - ES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.11.txt"
+      },
+      {
+        "sheet": "AD1.13",
+        "title": "ENLARGED DEMO PLAN BLDG 4",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.13.txt"
+      },
+      {
+        "sheet": "AD1.14",
+        "title": "ENLARGED DEMO PLAN BLDG 5&6",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.14.txt"
+      },
+      {
+        "sheet": "AD1.15",
+        "title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.15.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "G0-00",
+        "title": "COVER SHEET",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/G0-00.txt"
+      },
+      {
+        "sheet": "L0.00",
+        "title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.00.txt"
+      },
+      {
+        "sheet": "L2.01",
+        "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.01.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "L2.03",
+        "title": "IRRIGATION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.03.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "P0-00",
+        "title": "PLUMBING COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-00.txt"
+      },
+      {
+        "sheet": "P0-05",
+        "title": "PLUMBING SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-05.txt"
+      },
+      {
+        "sheet": "P0-10",
+        "title": "PLUMBING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-10.txt"
+      },
+      {
+        "sheet": "P0-15",
+        "title": "PLUMBING ENERGY CODE COMPLIANCE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-15.txt"
+      },
+      {
+        "sheet": "P1-10",
+        "title": "PLUMBING SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P1-10.txt"
+      },
+      {
+        "sheet": "P2-10",
+        "title": "PLUMBING PLANS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P2-10.txt"
+      },
+      {
+        "sheet": "P4-10",
+        "title": "PLUMBING ROOF PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P4-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      },
+      {
+        "sheet": "UT1",
+        "title": "UTILITY PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT1.txt"
+      },
+      {
+        "sheet": "UT2",
+        "title": "UTILITY PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT2.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A2-40",
+      "AD1.12",
+      "E1-10",
+      "E2-10",
+      "ED1-10",
+      "LS1-10",
+      "S2-10"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Plumbing Systems",
+    "awarded_sub": "US Mechanical",
+    "license_no": "0057582",
+    "proposal_price": 383000.0,
+    "proposal_file": "098 Plumbing - US Mechanical (Form).pdf",
+    "other_bidders": [
+      "Bombard Mechanical",
+      "J.W. McClenahan Co.",
+      "Universal Plumbing & Heating"
+    ],
+    "descope_files_present": false,
+    "status": "awarded",
+    "note": "Awarded price ($383,000) is not the lowest bid (Universal Plumbing & Heating at $375,000 was lower) -- confirm basis of award before drafting. Same sub (US Mechanical) also awarded RFP-100 (HVAC) -- check for combined-scope proposal/pricing across both packages."
+  },
+  "bidders": [
+    {
+      "firm": "Bombard Mechanical, LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf.txt",
+      "current_date": "2026-05-20",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "Bid Proposal: Plumbing Systems",
+            "Printed on May 12, 2026 at 3:01 PM PDT",
+            "NCSD - Tonopah High School Sports Complex",
+            "1 Ray Tennant Way, Tonopah, NV 89049, United States of America",
+            "powered by",
+            "NCSD Tonopah High School Sports Complex",
+            "PROPOSAL PACKAGE #098 Plumbing Systems",
+            "Furnish and Install (40) Linear ft. of Heat Trace",
+            "Furnish and Install (2) Exterior Hose Bibb",
+            "HVAC Systems based on Mechanical Drawings.  Includes the following:",
+            "Tonopah High School Sports Complex",
+            "KNIT Plans Dated 4/20/2026",
+            "Addendum 1, Clarification 1 & 2",
+            "Disconnect and safe off as shown on the Architectural Drawings",
+            "Sanitary Waste & Vent, CW, HW, Condensate piping as shown on the plumbing drawings",
+            "Tie-ins to existing utilities as required",
+            "Insulation of domestic water and condensate piping, Firestop",
+            "Excavation and backfill",
+            "Domestic water treatment",
+            "Seismic"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-18",
+          "inclusions": [
+            "Condensate piping is included. Included insulation on condensate piping",
+            "Haul off of spoils \u2013 not included but will store at designated locations",
+            "Hard dig costs \u2013 not included. CORE requests Bombard to assume hard dig for UG plumbing work. Provide added cost.",
+            "Include UG piping, above grade to connect to existing, and a concrete pad.",
+            "Includes only one point of connection. CORE to review existing conditions more and let Bombard know if additional pricing is needed.",
+            "Duct heaters: controllers have to be added to tie into fan coil units.",
+            "CORE requested Bombard to look to see if there would be any impacts if we relocate the condensing unit over to NW corner of Team #2 room",
+            "Includes cutting of roof deck, and curb, for exhaust fan",
+            "Includes supply of access panels (7) to be installed by others",
+            "Includes sealing all penetrations",
+            "Includes access panel for unit above hard lid.",
+            "Includes all dampers shown.",
+            "Includes conduit and pathway for controls"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "J.W. McClenahan Co.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - JW McClenahan Co (w backup).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 515000,
+      "inclusions": [
+        "1) PVC DW SCH 40 underground waste & vent piping to 5 feet out of building.",
+        "2) Cast iron no-hub waste and vent piping above grade.",
+        "3) Domestic water to 5 feet out of the building.",
+        "4) Condensate piping.",
+        "5) Install salvaged 3 compartment sink and hand sink.",
+        "6) Plumbing fixtures, trim and equipment.",
+        "7) Excavation, Bedding and Backfill.",
+        "8) Regular working hours 7:00 am \u2014 3:30pm",
+        "1) Plumbing demolition as required.",
+        "2) Cap and safe off as required, (AD1.15 Detail 3).",
+        "3) Concrete Cutting and patching.",
+        "4) Excavation and backfill.",
+        "5) Salvage 3 compartment sink and hand sink.",
+        "6) Regular working hours 7:00 am \u2014 3:30pm",
+        "1) Propane piping from point 18, approximate location of new propane tank to point 22, POC at existing",
+        "propane piping. (Approximately 120 feet).",
+        "2) Excavation, Bedding and Backfill.",
+        "3) Regular working hours 7:00 am \u2014 3:30pm"
+      ],
+      "exclusions_scope_specific": [
+        "1) Permits, Fees, Cutting, Patching & Painting, Supplemental steel.",
+        "2) Any and all impacts and/or costs as a result of mold Infiltration into building.",
+        "3) Removal and/or disposal of asbestos or contaminated materials, if encountered.",
+        "4) HVAC, Controls, Balance, Refrigeration piping.",
+        "5) Fire caulking, acoustical caulking.",
+        "6) Caliche Excavation.",
+        "7) Roof protection, repairs, replacement.",
+        "8) Temporary heating or cooling.",
+        "9) Heat trace. (Need more information).",
+        "10) All electrical wiring disconnects and connections.",
+        "11) Housekeeping pads.",
+        "Total for Base Bid: $515,000.00",
+        "If you have any questions, please call at 775-530-5864.",
+        "Regards,",
+        "J. W. McClenahan Co.",
+        "Daniel Dupree",
+        "Sparks Branch Estimator",
+        "PLUMBING AND 2301 PALM AVENUE, SAN MATEO, CA 94403 TEL: (650) 345-1691 | FAX: (650) 345-568)",
+        "8540 YOUNGER CREEK DRIVE SUITE 1, SACRAMENTO, CA 95828 TEL: (916) 387-0303 | FAX: (916) 387-0301",
+        "MECHANICAL CONTRACTORS 1610 MARIETTA WAY, SPARKS, NV 89431 TEL: (775) 331-6700 | FAX: (775) 331-6473",
+        "(CA STATE LIC. NO. 308878 | NV STATE LIC, NO, 69836, 69837, 69838",
+        "\u201c SUPPORT :",
+        "J.W. McClenahan CONSTRUCTION SCAN ME",
+        "Dawn Duranleau",
+        "Core Construction",
+        "Job: NCSD Demo Tonopah Elementary School - Alternate A",
+        "Subj: #098 Plumbing Systems.",
+        "Thank you for the opportunity to provide you with a quote on this project. We are bidding the Demolition at",
+        "Elementary school, per Alternate A, per the plans and specifications prepared by KNIT, dated 04-20-2026, with",
+        "Clarification 1 and 2 and addendum 1. Our scope is further outlined below:",
+        "1) Permits, Fees, Cutting, Patching & Painting, Supplemental steel.",
+        "2) Any and all impacts and/or costs as a result of mold Infiltration into building.",
+        "3) Removal and/or disposal of asbestos or contaminated materials, if encountered.",
+        "4) Removal of Propane Tank and Piping. (Cap propane per AD1.11 Keynotes 16 and 20).",
+        "5) Temporary heating or cooling.",
+        "6) All electrical wiring disconnects and connections.",
+        "Total for Base Bid: $239,500.00",
+        "If you have any questions, please call at 775-530-5864.",
+        "Regards,",
+        "J. W. McClenahan Co. ;",
+        "Daniel Dupree",
+        "Sparks Branch Estimator",
+        "PLUMBING AND aaah ce cher baie SUITE SACRAMENTO, CA 99626 TEL: (91) 367-0305 | FAX: (16) 387-050",
+        "MECHANICAL CONTRACTORS eee arene neem caesr anes",
+        "- SUPPORT",
+        "J.W. McClenahan CONSTRUCTION SCAN ME",
+        "Dawn Duranleau",
+        "Core Construction",
+        "Job: NCSD THS - Alternate B",
+        "Subj: #098 Plumbing Systems",
+        "Thank you for the opportunity to provide you with a quote on this project. We are bidding the Propane piping,",
+        "per the plans and specifications prepared by KNIT, dated 04-20-2026, with Clarifications 1 and 2 and addendum",
+        "1. Our scope is further outlined below:",
+        "1) Permits, Fees, Cutting, Patching & Painting, Supplemental steel.",
+        "2) Any and all impacts and/or costs as a result of mold Infiltration into building.",
+        "3) Removal and/or disposal of asbestos or contaminated materials, if encountered.",
+        "4) Propane concrete pad. (Need more information).",
+        "5) Propane tank. (Tank should be purchased by owner and installed by propane gas service company).",
+        "6) All electrical wiring disconnects and connections.",
+        "7) Caliche Excavation.",
+        "Total for Base Bid: $65,000.00",
+        "If you have any questions, please call at 775-530-5864.",
+        "Regards,",
+        "J. W. McClenahan Co.",
+        "Daniel Dupree",
+        "Sparks Branch Estimator",
+        "PLUMBING AND Bene aren ONE Seite SACRAMENTO, Cx 25028 TEL: (96) 587-0505 | FAX: (916) 387-0301",
+        "MECHANICAL CONTRACTORS eee cee So Statciic novcoese coos cs0s0"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Universal Plumbing & Heating, Co.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Universal Mech.  Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-18",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Universal Plumbing & Heating (Form).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "No insulation, provide add to insulate",
+        "Seismic only needed on water heater",
+        "Sealants included for own penetrations",
+        "Add Alternate #1",
+        "Included capping existing utilities 2 feet deep per drawings",
+        "Add Alternate #2",
+        "Included supply and install of propane tank (size is tbd, Universal to find out what was carried)",
+        "Double check what routing was included by the 2nd tier",
+        "Confirm if concrete pad is included or not"
+      ],
+      "exclusions_scope_specific": [
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope"
+      ],
+      "clarifications": [],
+      "priced_line_items": [
+        "Add Alternate #1",
+        "Add Alternate #2"
+      ],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "U.S. Mechanical",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf.txt",
+      "current_date": "2026-06-01",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - US Mechanical (Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-18",
+          "inclusions": [
+            "Joint sealant of penetrations \u2013 not include. US to double check and provide add if necessary",
+            "Seismic engineering and restraints are included",
+            "Camera of 4\u201d sewer line is included",
+            "Supply of access doors for own scope is included",
+            "Excavation spoils: need to double check haul off assumptions",
+            "Hard dig included? US to check and provide additional cost",
+            "CORE to find out if BMS monitoring will be required or not; will let US know if HW request is required",
+            "Included conduit and backboxes for t-stats up to accessible ceiling",
+            "Will include 4 sets of filters total on the project",
+            "Test and Balance is included",
+            "US to provide an add for a low-ambient kit for outside unit",
+            "Includes cutting of roof deck for exhaust fans",
+            "Includes supply of access panels for HVAC scope",
+            "Includes regulators for dampers in hard lids"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope"
+          ],
+          "priced_line_items": [
+            "Alternate #1: Included, but only cut and cap above grade. Relook at scope to include sawcut, digging, and capping 2 feet below grade per detail in drawings. Include concrete pourback.",
+            "Alternate #2: CORE requested additional price for put back of site finishes disturbed by excavation",
+            "Alternate #2: packaged deduct (plumbing and HVAC combined) : $10,000 savings"
+          ]
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 29,
+      "id": "BID-B04",
+      "severity": "medium",
+      "title": "Bombard Mechanical, LLC bid RFP-098, RFP-100 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    }
+  ]
+}

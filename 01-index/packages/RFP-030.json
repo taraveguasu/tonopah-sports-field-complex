@@ -1,0 +1,752 @@
+{
+  "_package_id": "RFP-030",
+  "_title": "Concrete",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 030 Concrete.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "03 10 00",
+        "title": "Concrete Formwork",
+        "basis": "trade_judgment",
+        "rationale": "Formwork is the concrete package's means and methods.",
+        "manual_pages": "120-125",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-03-concrete.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "03 20 00",
+        "title": "Concrete Reinforcement",
+        "basis": "trade_judgment",
+        "rationale": "Reinforcement is placed by the concrete package.",
+        "manual_pages": "126-129",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-03-concrete.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "03 30 00",
+        "title": "Cast-In-Place Concrete",
+        "basis": "trade_judgment",
+        "rationale": "Cast-in-place concrete is RFP-030. Eleven packages cite this section because each has equipment set on a concrete footing; those are cross-references to RFP-030's work, not claims on it. PM rulings 07.31.26 confirm the direction: athletic equipment and goal post footings, and concrete curb and slot/trench drains at the track perimeter, are all RFP-030.",
+        "manual_pages": "130-144",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-03-concrete.pdf",
+        "conflict": false,
+        "also_cited_by": [
+          "ITB-018",
+          "ITB-019",
+          "ITB-066",
+          "ITB-067",
+          "ITB-072",
+          "ITB-078",
+          "ITB-089",
+          "RFP-023",
+          "RFP-094",
+          "RFP-103",
+          "RFP-109"
+        ]
+      },
+      {
+        "section": "07 26 00",
+        "title": "Vapor Retarders",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-030 -- the under-slab vapour retarder is placed with the slab.",
+        "manual_pages": "188-189",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "32 13 13",
+        "title": "Concrete Paving",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-030. TAB's homework response deducts Type II from the concrete paving, confirming RFP-008 carries the subgrade and RFP-030 the slab.",
+        "manual_pages": "544-551",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "32 13 73",
+        "title": "Concrete Paving Joint Sealants",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-030.",
+        "manual_pages": "552-557",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "32 16 23",
+        "title": "Sidewalks",
+        "basis": "trade_judgment",
+        "rationale": "Sidewalks are flatwork. RFP-008 and RFP-016 reach it only through a division-level mention of Division 32.",
+        "manual_pages": "558-559",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [
+      {
+        "section": "31 20 00",
+        "title": "Earth Moving",
+        "basis": "trade_judgment",
+        "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
+        "manual_pages": "526-531",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-31-earthwork.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "flow_down_from_other_packages": [
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "32 11 23": {
+        "title_per_scope_doc": "Aggregate Base Courses",
+        "status": "CLOSED BY PM RULING",
+        "note": "Aggregate Base Courses. Absent. CLOSED BY PM RULING 08.05.26: aggregate base courses are covered in 31 20 00 Earth Moving, which is RFP-008's section -- consistent with TAB pricing the Type II deducts under the turf field, building pad and concrete paving. RFP-030 references it for base under its flatwork.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-12",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-12.txt"
+      },
+      {
+        "sheet": "A1-13",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-13.txt"
+      },
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "A10-30",
+        "title": "INTERIOR ELEVATIONS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A10-30.txt"
+      },
+      {
+        "sheet": "A11-10",
+        "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A11-10.txt"
+      },
+      {
+        "sheet": "A2-10",
+        "title": "FLOOR PLAN AND RCP",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A2-10.txt"
+      },
+      {
+        "sheet": "A2-40",
+        "title": "PARTITION SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A2-40.txt"
+      },
+      {
+        "sheet": "A9-20",
+        "title": "ENLARGED PLANS - CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-20.txt"
+      },
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "AD1.13",
+        "title": "ENLARGED DEMO PLAN BLDG 4",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.13.txt"
+      },
+      {
+        "sheet": "AD1.15",
+        "title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.15.txt"
+      },
+      {
+        "sheet": "AD1.16",
+        "title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.16.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-03",
+        "title": "SINGLE LINE DIAGRAM, PANEL SCHEDULE, AND LIGHTING FIXTURE SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-03.txt"
+      },
+      {
+        "sheet": "G0-00",
+        "title": "COVER SHEET",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/G0-00.txt"
+      },
+      {
+        "sheet": "G1",
+        "title": "GRADING PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G1.txt"
+      },
+      {
+        "sheet": "G2",
+        "title": "GRADING PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G2.txt"
+      },
+      {
+        "sheet": "L0.00",
+        "title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.00.txt"
+      },
+      {
+        "sheet": "L1.00",
+        "title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.00.txt"
+      },
+      {
+        "sheet": "L1.01",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.01.txt"
+      },
+      {
+        "sheet": "L1.02",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.02.txt"
+      },
+      {
+        "sheet": "L1.03",
+        "title": "LANDSCAPE CONSTRUCTION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.03.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "L2.03",
+        "title": "IRRIGATION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.03.txt"
+      },
+      {
+        "sheet": "P0-10",
+        "title": "PLUMBING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-10.txt"
+      },
+      {
+        "sheet": "P2-10",
+        "title": "PLUMBING PLANS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P2-10.txt"
+      },
+      {
+        "sheet": "P4-10",
+        "title": "PLUMBING ROOF PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P4-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      },
+      {
+        "sheet": "S3-00",
+        "title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S3-00.txt"
+      },
+      {
+        "sheet": "S4-00",
+        "title": "TYPICAL MASONRY SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S4-00.txt"
+      },
+      {
+        "sheet": "S4-01",
+        "title": "FRAMING DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S4-01.txt"
+      },
+      {
+        "sheet": "UT1",
+        "title": "UTILITY PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT1.txt"
+      },
+      {
+        "sheet": "UT2",
+        "title": "UTILITY PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT2.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-40",
+      "A10-10",
+      "A4-20",
+      "A7-10",
+      "AD1.11",
+      "AD1.12",
+      "AD1.14",
+      "C3",
+      "E0-05",
+      "E0-10",
+      "GD",
+      "L0.01",
+      "L1.06",
+      "L1.07",
+      "L2.01",
+      "M0-05",
+      "P0-05",
+      "P1-10",
+      "S1-40",
+      "S2-10",
+      "S3-01"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Concrete",
+    "awarded_sub": "Sahara Concrete",
+    "license_no": "0042163A",
+    "proposal_price": 1518456.0,
+    "proposal_file": "030 Concrete - Sahara Concrete (w backup).pdf",
+    "other_bidders": [
+      "Cheek Construction",
+      "The Monument Company",
+      "XL Concrete Masonry"
+    ],
+    "descope_files_present": true,
+    "descope_file_hint": "030 Concrete - Cheek (descope).pdf is for a non-awarded bidder -- verify no Sahara-specific descope doc was missed; Cheeck Scope Review Meeting Agenda.docx also references a non-awarded bidder",
+    "status": "awarded",
+    "note": "Awarded price ($1,518,456) is not the lowest bid (The Monument Company at $1,113,208 was lower) -- confirm basis of award before drafting."
+  },
+  "bidders": [
+    {
+      "firm": "ACO Sport",
+      "current_document": null,
+      "current_date": null,
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/ACO Sport - System 3000 Slot Channel Trench Drain System Spec Sheet.pdf.txt"
+      ]
+    },
+    {
+      "firm": "Cheek Construction, LLC.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cheek (descope).pdf.txt",
+      "current_date": "2026-05-22",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Cheek Construction (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cheeck Scope Review Meeting Agenda.docx.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/030 Concrete - Cheek (descope).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "1. Any work not listed in scope of work above.",
+        "2. Costs of bonds, penalties, and/or liquidated damages.",
+        "3. Survey, engineering, and permitting costs.",
+        "4. Night, weekend, and holiday work.",
+        "5. Any specifications, drawings, or addendum not listed above.",
+        "6. Offsite parking or parking permits.",
+        "7. Concrete washout.",
+        "8. Temporary power.",
+        "9. Hoisting.",
+        "10. Traffic control.",
+        "11. Demolition, excavation, shoring of excavation, utilities, backfill, aggregates, BMP\u2019s, grading, and compaction.",
+        "12. Hydrovac excavation.",
+        "13. Vapor barriers and rigid insulation.",
+        "14.  Concrete encasement for electrical conduits.",
+        "15.  Trench drains, in slab drains, or other MEP equipment encased in concrete.",
+        "16. Pesticides or ground treatments.",
+        "17. Footings for traffic signs such as stop signs, parking signs, etc.",
+        "18. Fabricated steel, plates, bollards, sleeves, rails, hooks, dowels, bolts, and bolt templates.",
+        "19. Epoxy or zinc coatings.",
+        "20. Reinforcing couplers or bar splicers.",
+        "21. Reworking, cleaning, or cutting of existing reinforcing steel.",
+        "22. All welding.",
+        "23. Masonry layouts and masonry rebar.",
+        "24. Special concrete additives, sealers, hardeners, epoxy coatings, and integral colors.",
+        "25. Stamping, polishing, grinding, and exposed aggregate finishes.",
+        "26. Caulking and/or joint sealant.",
+        "27. All pre-cast concrete.",
+        "28. Housekeeping or mechanical equipment pads.",
+        "29. Damage to concrete caused by flooding, earthquakes, snow, de-icing agents, and construction equipment.",
+        "30. Cold weather protection measures such as concrete accelerators, hot water, and blanket coverage.",
+        "31. Fuel surcharges with concrete delivery.",
+        "Estimate #:260512TM",
+        "3303 Reno Highway Fallon, NV 89406",
+        "5401 Longley Ln Suite A18, Reno, NV 89502",
+        "Estimator: Tristen Mathisen",
+        "Office (775) 426-8802 Fax (775) 867-5939",
+        "www.cheekconstruction.com",
+        "tristen@cheekconstruction.com",
+        "NV 0078906, 0078907 & CA 1077095",
+        "Payment Terms:  Billing on a percentage complete. Payment in accordance with NRS624.624. Not getting paid by a third party (e.g., owner, lender,",
+        "etc.) does not relieve the party with whom Cheek Construction LLC has been contracted to do work for from getting payment for our work. Receipt",
+        "of our payment is not predicated solely on our contracted party getting paid first by other third parties. All parties are to be held responsible until",
+        "payment is received.",
+        "The Proposal Price is based upon the Scope of Work, Conditions, and Exclusions listed above. Please read this entire Proposal carefully. Changes to",
+        "the Scope of Work, Alterations or Conditions may result in additional charges. Changes that result in additional charges will be executed only upon",
+        "written orders and will become an extra charge over and above the estimate. All change orders must be agreed upon by both the owner and",
+        "contractor.  The foregoing is a limited estimate only based on the information provided and does not account for several factors that could",
+        "significantly impact this limited offer, including but not limited to, an investigation of the site and/or conditions under which the work is to be",
+        "performed, neither of which may have been done prior to the communication of this limited offer. This is not an offer nor is it a guarantee and",
+        "should not be relied upon for any purpose. Cheek Construction LLC expressly reserves the right to change this limited estimate as further",
+        "information becomes available to it prior to the commencement of work or the execution of a contract or purchase order. Upon acceptance of this",
+        "Proposal by Customer (indicated by Customer\u2019s authorized signature below), this Proposal represents the entire agreement between Cheek",
+        "Construction LLC and Customer, and supersedes any prior negotiations, representations, or agreements, either written or oral.",
+        "Any billed amount that remains unpaid after 30 days from invoice date, could be subject to 1 \u00bd% per month. (18% annual percentage rate). This",
+        "proposal is valid for 30 days. 4% Courtesy fee applies to all credit card payments."
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Cheek Construction (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "1. Any work not listed in scope of work above.",
+            "2. Costs of bonds, penalties, and/or liquidated damages.",
+            "3. Survey, engineering, and permitting costs.",
+            "4. Night, weekend, and holiday work.",
+            "5. Any specifications, drawings, or addendum not listed above.",
+            "6. Offsite parking or parking permits.",
+            "7. Concrete washout.",
+            "8. Temporary power.",
+            "9. Hoisting.",
+            "10. Traffic control.",
+            "11. Demolition, excavation, shoring of excavation, utilities, backfill, aggregates, BMP\u2019s, grading, and compaction.",
+            "12. Hydrovac excavation.",
+            "13. Vapor barriers and rigid insulation.",
+            "14.  Concrete encasement for electrical conduits.",
+            "15.  Trench drains, in slab drains, or other MEP equipment encased in concrete.",
+            "16. Pesticides or ground treatments.",
+            "17. Footings for traffic signs such as stop signs, parking signs, etc.",
+            "18. Fabricated steel, plates, bollards, sleeves, rails, hooks, dowels, bolts, and bolt templates.",
+            "19. Epoxy or zinc coatings.",
+            "20. Reinforcing couplers or bar splicers."
+          ],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cheeck Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-20",
+          "inclusions": [
+            "Includes footings for bleachers, press box and score board",
+            "Assume 6\u201d type 2 over 4\u201d concrete flat work",
+            "Supply and install all type 2.",
+            "Assume 551 linear feet of the Acco slot drain (Half moon)",
+            "Assume 6\u201d concrete around the slot drain",
+            "Assume haul off of spoils",
+            "No decut for onsite spoils",
+            "Will install equipment if provided",
+            "Assumes 6\u201dx6\u201d mesh at flatwork",
+            "Assumes 6\u201d space between pour and rip rap.",
+            "Assume saw cutting anything over 10ft wide",
+            "Assume getting concrete from Yerington",
+            "Assume 3 mobs",
+            "Includes footings under CMU walls",
+            "Includes excavation",
+            "Includes hard dig",
+            "Includes ticket booth slab",
+            "Includes discus and shot put concrete pad",
+            "Includes long jump curb",
+            "Includes mow-curb"
+          ],
+          "exclusions_scope_specific": [
+            "Did not include valley gutter at north end.",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Flag pole footings and install included in the total",
+            "Excludes bollards",
+            "Excludes footings for discus cage"
+          ],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/030 Concrete - Cheek (descope).pdf.txt",
+          "date": "2026-05-22",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "1. Any work not listed in scope of work above.",
+            "2. Costs of bonds, penalties, and/or liquidated damages.",
+            "3. Survey, engineering, and permitting costs.",
+            "4. Night, weekend, and holiday work.",
+            "5. Any specifications, drawings, or addendum not listed above.",
+            "6. Offsite parking or parking permits.",
+            "7. Concrete washout.",
+            "8. Temporary power.",
+            "9. Hoisting.",
+            "10. Traffic control.",
+            "11. Demolition, excavation, shoring of excavation, utilities, backfill, aggregates, BMP\u2019s, grading, and compaction.",
+            "12. Hydrovac excavation.",
+            "13. Vapor barriers and rigid insulation.",
+            "14.  Concrete encasement for electrical conduits.",
+            "15.  Trench drains, in slab drains, or other MEP equipment encased in concrete.",
+            "16. Pesticides or ground treatments.",
+            "17. Footings for traffic signs such as stop signs, parking signs, etc.",
+            "18. Fabricated steel, plates, bollards, sleeves, rails, hooks, dowels, bolts, and bolt templates.",
+            "19. Epoxy or zinc coatings.",
+            "20. Reinforcing couplers or bar splicers."
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "The Monument Company",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+      "current_date": "2026-05-15",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Monument Co (Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-14",
+          "inclusions": [
+            "Assume stand tank for a longer time",
+            "Assume minimal SWPPP, includes plan",
+            "Assume cap of utilities by others",
+            "Sprinturf as 2nd tier sub for surfacing",
+            "Track doctor 2nd tier sub for striping",
+            "LCP Tracker",
+            "Nevada 1st requirements",
+            "Skilled and Trained Workforce Requirements",
+            "Apprentice Utilization Requirements",
+            "Includes demo of the field and surrounding areas",
+            "Includes pricing for dumping haul off",
+            "Includes spray dust palliated",
+            "Includes sweal",
+            "Includes raising manholes 9 and 10",
+            "Includes 8\u201d perf pipe",
+            "Includes paving at the track and half moon",
+            "Includes geo-fabric, base, filter, and turf.",
+            "Includes field striping by Sprinturf"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes demo of other campus",
+            "Excludes abatement",
+            "Excludes caliche hard dig",
+            "Excludes rip rap at sweals",
+            "Excludes paving at the parking lot and street"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Sahara Concrete, Inc.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sahara  Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-15",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response R2.pdf.txt"
+      ],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Assume 10\u2019x36\u201d footing for goal post",
+        "Assume pole vault sleeves to be provided by others",
+        "Assume union and zone pay",
+        "Assume concrete at the visitors' bleachers.",
+        "Includes slab and footing for CMU at concessions.",
+        "Assume handset for mow curb",
+        "Includes Acco system around the entire field",
+        "Includes shot put and discus pad",
+        "Includes wire mesh at sidewalk"
+      ],
+      "exclusions_scope_specific": [
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope",
+        "Excludes discuss cage sleeves",
+        "Excludes nailer for turf"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf.txt",
+          "date": "2026-05-11",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "Caliche or hard rock removal",
+            "Over excavation",
+            "Repair of sidewalk removed for utility installations",
+            "Sign, fence or gate post footings unless noted otherwise",
+            "CMU or CMU reinforcing",
+            "All demolition unless noted",
+            "Multiple mobilizations",
+            "Special finishes, sealers, stains, colors or toppings",
+            "Water proofing",
+            "De watering",
+            "Welding or weldable rebar",
+            "All other work, equipment or materials unless noted otherwise"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "SEF305P Goal Post",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf.txt",
+      "current_date": "2021-05-28",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "cut_sheet",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "XL Concrete Masonry LLC",
+      "current_document": null,
+      "current_date": null,
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - XL Concrete Masonry (w backup).pdf.txt"
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Does not include concrete pad under existing visitors bleachers in area shown in red on the exhibit graphic.",
+      "Includes bleacher footings based on manufacturer provided foundation design. (Owner Accepted Alternate, replaces bleacher foundation design shown on drawings)"
+    ],
+    "possibly_relevant_exclusions": [
+      "Testing, special inspections, and any associated overtime or staff and resource costs for additional inspections not required by Code, permit, or the contract documents requirements or determined by the Design Team (i.e. abatement, geotechnical, concrete, reinforcing steel, deep foundations, shoring, masonry, structural steel, welding, fireproofing, water testing, etc.)."
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 27,
+      "id": "BID-B02",
+      "severity": "medium",
+      "title": "XL Concrete Masonry LLC bid RFP-030, RFP-031 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    },
+    {
+      "n": 39,
+      "id": "GMP-06",
+      "severity": "medium",
+      "title": "Owner Accepted Alternates supersede drawn details",
+      "detail": "Six Owner Accepted Alternates change scope from the bid set: RCP flared end replaces the CIP concrete headwall detail; access road grading removed; bleacher footings per manufacturer design replace the drawn foundation design; manual galvanized OH doors replace motorized aluminum; sealed concrete replaces epoxy/resinous flooring; one flagpole instead of three. Every exhibit citing the superseded detail must reflect the alternate."
+    }
+  ]
+}

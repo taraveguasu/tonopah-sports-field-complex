@@ -1,0 +1,800 @@
+{
+  "_package_id": "RFP-008",
+  "_title": "Site Demolition, Salvage, Earthwork, Asphalt Paving, Wet Utilities, & Site Signage & Striping",
+  "_title_variants_in_source": [
+    "Site Demolition, Earthwork, Asphalt Paving & Wet Utilities"
+  ],
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "02 41 00",
+        "title": "Demolition",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below.",
+        "manual_pages": "116-119",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-02-existing-conditions.pdf",
+        "conflict": true,
+        "also_cited_by": [
+          "RFP-002"
+        ]
+      },
+      {
+        "section": "31 10 00",
+        "title": "Site Clearing",
+        "basis": "trade_judgment",
+        "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
+        "manual_pages": "522-525",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-31-earthwork.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "31 20 00",
+        "title": "Earth Moving",
+        "basis": "trade_judgment",
+        "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
+        "manual_pages": "526-531",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-31-earthwork.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "31 50 00",
+        "title": "Excavation Support and Protection",
+        "basis": "trade_judgment",
+        "rationale": "Thirteen scope docs mention Division 31, because each has to trench, backfill or compact for its own work. RFP-008 is the mass-earthwork package and carries the section; the others comply with it inside their own excavations.",
+        "manual_pages": "532-535",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-31-earthwork.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "32 12 16",
+        "title": "Asphalt Paving",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-008.",
+        "manual_pages": "536-543",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "33 05 00",
+        "title": "Common Work Results For Utilities",
+        "basis": "trade_judgment",
+        "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "601-612",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-33-utilities.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "33 10 00",
+        "title": "Water Distribution System",
+        "basis": "trade_judgment",
+        "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "613-616",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-33-utilities.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "33 12 00",
+        "title": "Water Service Connections",
+        "basis": "trade_judgment",
+        "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "617-620",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-33-utilities.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "33 30 00",
+        "title": "Sanitary Sewer System",
+        "basis": "trade_judgment",
+        "rationale": "Wet utilities are named in RFP-008's title; its scope doc reaches Division 33 only at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "621-624",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-33-utilities.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "02 41 13": {
+        "title_per_scope_doc": "Selective Site Demolition",
+        "status": "OPEN",
+        "note": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation.",
+        "candidates": [
+          "02 41 00"
+        ]
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-12",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-12.txt"
+      },
+      {
+        "sheet": "A1-13",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-13.txt"
+      },
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "A4-10",
+        "title": "ROOF PLAN AND BUILDING SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-10.txt"
+      },
+      {
+        "sheet": "A5-10",
+        "title": "EXTERIOR ELEVATIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A5-10.txt"
+      },
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "AD1.11",
+        "title": "DEMOLITION PLAN - ES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.11.txt"
+      },
+      {
+        "sheet": "AD1.12",
+        "title": "POST-DEMOLITION PLAN - ES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.12.txt"
+      },
+      {
+        "sheet": "AD1.13",
+        "title": "ENLARGED DEMO PLAN BLDG 4",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.13.txt"
+      },
+      {
+        "sheet": "AD1.14",
+        "title": "ENLARGED DEMO PLAN BLDG 5&6",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.14.txt"
+      },
+      {
+        "sheet": "AD1.15",
+        "title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.15.txt"
+      },
+      {
+        "sheet": "AD1.16",
+        "title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.16.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "C3",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C3.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-05",
+        "title": "FIELD LIGHTING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-05.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "E1-10",
+        "title": "ELECTRICAL SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E1-10.txt"
+      },
+      {
+        "sheet": "E3-00",
+        "title": "OVERALL TECHNOLOGY SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-00.txt"
+      },
+      {
+        "sheet": "ED1-10",
+        "title": "DEMOLITION ELECTRICAL SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/ED1-10.txt"
+      },
+      {
+        "sheet": "ED3-10",
+        "title": "DEMOLITION TECHNOLOGY AND AUDIO VISUAL SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/ED3-10.txt"
+      },
+      {
+        "sheet": "G0-00",
+        "title": "COVER SHEET",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/G0-00.txt"
+      },
+      {
+        "sheet": "G0-11",
+        "title": "TYPICAL SIGNAGE & ACCESSBILITY REQUIREMENTS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G0-11.txt"
+      },
+      {
+        "sheet": "G1",
+        "title": "GRADING PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G1.txt"
+      },
+      {
+        "sheet": "G2",
+        "title": "GRADING PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G2.txt"
+      },
+      {
+        "sheet": "GD",
+        "title": "GRADING DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/GD.txt"
+      },
+      {
+        "sheet": "L0.00",
+        "title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.00.txt"
+      },
+      {
+        "sheet": "L0.01",
+        "title": "LANDSCAPE DEMOLITION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.01.txt"
+      },
+      {
+        "sheet": "L0.02",
+        "title": "LANDSCAPE DEMOLITION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.02.txt"
+      },
+      {
+        "sheet": "L1.00",
+        "title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.00.txt"
+      },
+      {
+        "sheet": "L1.01",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.01.txt"
+      },
+      {
+        "sheet": "L1.02",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.02.txt"
+      },
+      {
+        "sheet": "L1.03",
+        "title": "LANDSCAPE CONSTRUCTION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.03.txt"
+      },
+      {
+        "sheet": "L2.01",
+        "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.01.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "L2.03",
+        "title": "IRRIGATION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.03.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "P0-00",
+        "title": "PLUMBING COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-00.txt"
+      },
+      {
+        "sheet": "P1-10",
+        "title": "PLUMBING SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P1-10.txt"
+      },
+      {
+        "sheet": "P2-10",
+        "title": "PLUMBING PLANS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P2-10.txt"
+      },
+      {
+        "sheet": "P4-10",
+        "title": "PLUMBING ROOF PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P4-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      },
+      {
+        "sheet": "S2-10",
+        "title": "FOUNDATION AND ROOF FRAMING PLAN -CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S2-10.txt"
+      },
+      {
+        "sheet": "S3-00",
+        "title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S3-00.txt"
+      },
+      {
+        "sheet": "UT1",
+        "title": "UTILITY PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT1.txt"
+      },
+      {
+        "sheet": "UT2",
+        "title": "UTILITY PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/UT2.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-10",
+      "A10-30",
+      "A9-11",
+      "A9-20",
+      "E0-03",
+      "L1.05",
+      "L1.06",
+      "L1.07",
+      "LS1-10",
+      "S4-00",
+      "S4-01"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Site Demolition, Salvage, Earthwork, Asphalt Paving, Wet Utilities, & Site Signage & Striping",
+    "awarded_sub": "TAB Contractors (New-Com)",
+    "license_no": "0021801",
+    "proposal_price": 1924851.0,
+    "proposal_price_superseded": 3152033.0,
+    "proposal_file": "008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf",
+    "other_bidders": [
+      "NDX",
+      "The Monument Company"
+    ],
+    "descope_files_present": true,
+    "descope_files": [
+      "1% Descopes/TAB Scope Review Meeting Agenda.docx",
+      "1% Descopes/Homework Responses/TAB Homework Response.pdf",
+      "1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf"
+    ],
+    "status": "awarded",
+    "note": "CORRECTED 08.05.26. The 05.12.26 bid tabulation reverses this package's two low rows: it records NDX at $1,924,851 and New-Com (TAB) at $3,152,033, but each bidder's own submitted Proposal Form states the opposite -- TAB's BuildingConnected header and letter both read $1,924,851, NDX's read $3,152,032.69. The proposal governs the tabulation. TAB is therefore the LOW bidder ($1,924,851 < Monument $2,296,000 < NDX $3,152,033), not the high one, and the earlier 'awarded sub was not the low bidder' flag on this package is withdrawn. TAB's 05.22.26 homework response restates the same $1,924,851 base bid, so the price is stable across their chain.",
+    "verification": "Both bidders' Proposal Forms read by hand; see 01-index/proposal-content.json > _bid_tab_reconciliation."
+  },
+  "bidders": [
+    {
+      "firm": "The Monument Company",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+      "current_date": "2026-05-15",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - Monument Co (Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-14",
+          "inclusions": [
+            "Assume stand tank for a longer time",
+            "Assume minimal SWPPP, includes plan",
+            "Assume cap of utilities by others",
+            "Sprinturf as 2nd tier sub for surfacing",
+            "Track doctor 2nd tier sub for striping",
+            "LCP Tracker",
+            "Nevada 1st requirements",
+            "Skilled and Trained Workforce Requirements",
+            "Apprentice Utilization Requirements",
+            "Includes demo of the field and surrounding areas",
+            "Includes pricing for dumping haul off",
+            "Includes spray dust palliated",
+            "Includes sweal",
+            "Includes raising manholes 9 and 10",
+            "Includes 8\u201d perf pipe",
+            "Includes paving at the track and half moon",
+            "Includes geo-fabric, base, filter, and turf.",
+            "Includes field striping by Sprinturf"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes demo of other campus",
+            "Excludes abatement",
+            "Excludes caliche hard dig",
+            "Excludes rip rap at sweals",
+            "Excludes paving at the parking lot and street"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Ndx LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Utilities Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-14",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NDX (Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving - NDX (backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Wet Utilities - NDX (backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Includes sanitary tank demo",
+        "Includes Nye County and zone pay rates",
+        "Includes shoring"
+      ],
+      "exclusions_scope_specific": [
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "8\u201d perf pipe included",
+        "Caliche at storm drain and sewer system",
+        "Demo of existing utilities at existing concessions and backflow preventor. Not included in grading scope.",
+        "Adjust existing MH 9 and 10 to be at grade",
+        "Excludes underground conduit demo",
+        "Excludes dust permit",
+        "Excludes trenching for footings",
+        "Excludes backfill for trenching"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Wet Utilities - NDX (backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "Furnish Install 2\" Schd.40 PVC",
+            "Furnish & Install 4\" SDR-35 PVC. Includes Core Into Existing SSMH",
+            "Furnish & Install 24\" RCP. Includes Headwall",
+            "Furnish & Install 8\" HDPE Perforated Pipe. Includes Drain Rock & Geofabric",
+            "Furnish & Install ACO Slot Drain Sport System 3000. Includes 6ea. Catch",
+            "Furnish & Install 4\" Perforated Pipe For Long Jump/Triple Jump Sand Pit"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "Furnish Install 2\" Schd.40 PVC",
+            "Furnish & Install 4\" SDR-35 PVC. Includes Core Into Existing SSMH",
+            "Furnish & Install 24\" RCP. Includes Headwall",
+            "Furnish & Install 8\" HDPE Perforated Pipe. Includes Drain Rock & Geofabric",
+            "Furnish & Install ACO Slot Drain Sport System 3000. Includes 6ea. Catch",
+            "Furnish & Install 4\" Perforated Pipe For Long Jump/Triple Jump Sand Pit"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-14",
+          "inclusions": [
+            "Includes calichie at below current grade 5 \u00bd ft on south, 2 \u00bd ft on the north under item #9",
+            "Include control/inspection to SWPPP while on site",
+            "Includes placement of type 2 at the sidewalk (24k) and building pad (2.9k)"
+          ],
+          "exclusions_scope_specific": [
+            "Clarify asphalt section cut 4\u201d of asphalt over 4\u201d of type 2",
+            "Excludes demo of propain tank (Propain company to demo)",
+            "Clarify using PG76 (Oil, based on previous project, more expensive)",
+            "3/8 mix for track",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Elementary building 4 has 2 floors of concrete walls and stairs",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Haul off to Beatty",
+            "Local landfill only allows for 15tons a day",
+            "No spoils onsite",
+            "Add asphalt 4\u201d on 4\u201d to half moon ends.",
+            "Add asphalt 4\u201d on 4\u201d to ambulance parking stall east end",
+            "Adds grading the north end lot to be cut to drain",
+            "Assume basic geoliner due to no product number"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "New-Com, Inc. (TAB Contractors and MMC, Inc.)",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-19",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Assume cut on the new parking lot",
+        "Assume use trucks for hauling off",
+        "Will dump holes on SPWD land",
+        "Dump trash in the local landfill",
+        "Assume 4\u201d type 2 base at turf.",
+        "Assume 6\u201d aggregate base and 4\u201d of asphalt.",
+        "Assume the slot drain on half moons",
+        "Assume 8\u201d slot drain at 3ft deep",
+        "Assume 18\u201d cut for slot drain.",
+        "Assume 1ft cut for concrete curb",
+        "Assume 6\u201d of type 2 at the building pad concrete",
+        "Assume D4/5 dozer",
+        "Value Engineering",
+        "Mock Ups",
+        "Weather Protection",
+        "Hoisting",
+        "Permits",
+        "Testing",
+        "Includes sweal on east elevation",
+        "Includes head wall and rip rap",
+        "Includes concessions",
+        "Includes caliche unit rate of $40/CY"
+      ],
+      "exclusions_scope_specific": [
+        "Assume the dust palliative is not included",
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope",
+        "Excludes leveling sand",
+        "Excludes 3/8\u201dx1/2\u201d fractured rock",
+        "Excludes slope stabilization",
+        "Excludes track and field signage",
+        "Excludes DG at shot put and discus area"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "Exclude Propane Gas System at abandoned elementary school."
+          ],
+          "priced_line_items": [
+            "Base Bid Proposal - $ 1,924,851.00",
+            "Alt \u2014 Site Demo at Elementary School - $ 45,000.00",
+            "Alt \u2014 Propane Gas System Abandon \u2014 No Bid",
+            "Alt \u2014 Caliche Unit Rate - $40 per CY"
+          ]
+        }
+      ]
+    },
+    {
+      "firm": "TAB",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf.txt",
+      "current_date": "2026-05-29",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": 1924851,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [
+        "Base Bid Proposal - $ 1,924,851.00",
+        "Alt \u2014 Site Demo at Elementary School - $ 45,000.00 |",
+        "Alt - Propane Gas System Abandon \u2014 No Bid",
+        "Alt \u2014 Caliche Unit Rate - $40 per CY",
+        "ADD \u2014 D-10 Dozer for Hard Dig \u2014 1 Month - $70,000.00",
+        "Deduct \u2014 Leave clean spoils on-site in stockpile - $30,000.00",
+        "Deduct \u2014 Delete Type II and geofabric from turf field - $150,000.00",
+        "Deduct \u2014 Delete trench drain from the bid - $125,000.00",
+        "ADD ~ Additional footage for 8\u201d perf field drain South end of field (210 LF) - $30,000.00",
+        "Deduct \u2014 Delete Type II from building pad and concrete paving ~ $46,000.00",
+        "ADD \u2014 Trench Storm Drain \u20142 Days - $18,720.00",
+        "ADD - Trench Irrigation Line ~ 5 Days - $19,000.00",
+        "ADD \u2014 Trench Field Electrical \u2014 10 Days - $40,000.00",
+        "DEDUCT \u2014 Type II_at Job Trailer - $7,500",
+        "DEDUCT \u2014 Tract-Out Pad (2 Each) - $5,000",
+        "DEDUCT \u2014 Fine Grade at Access Road - $3,600 |",
+        "DEDUCT \u2014 Delete the Headwall and Replace with a RCP Flared End Section - $10,500",
+        "Deduct \u2014 4\u201d Type J] Under Asphalt Jn Lieu of 6\u201d Type II - $15,000"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt",
+          "date": "2026-05-22",
+          "inclusions": [],
+          "exclusions_scope_specific": [],
+          "priced_line_items": [
+            "Base Bid Proposal - $ 1,924,851.00",
+            "Alt \u2014 Site Demo at Elementary School - $ 45,000.00",
+            "Alt \u2014 Propane Gas System Abandon \u2014 No Bid",
+            "Alt \u2014 Caliche Unit Rate - $40 per CY",
+            "ADD \u2014 D-10 Dozer for Hard Dig \u2014 1 Month - $70,000.00",
+            "Deduct \u2014 Leave clean spoils on-site in stockpile - $30,000.00",
+            "Deduct \u2014 Delete Type II_and geofabric from turf field - $150,000.00",
+            "Deduct \u2014 Delete trench drain for the bid - $125,000.00",
+            "ADD - Additional footage for 8\u201d perf field drain South end of field (210 LF) - $30,000.00",
+            "Deduct \u2014 Delete Type Il from building pad and concrete paving - $46,000.00"
+          ]
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Assumes all spoils generated for all scopes can be stockpiled at existing location North of High School.",
+      "RCP flared end for field storm drain discharge. (Owner Accepted Alternate, replaces CIP concrete headwall detail)",
+      "Existing main access road to remain as-is. (Owner Accepted Alternate, removes grading scope at access road leading to existing parking area)"
+    ],
+    "possibly_relevant_exclusions": [
+      "Existing ES - Demo or abatement of existing underground utilities.",
+      "Demolition of existing underground utilities, except within building footprint, unless specified on Utility plans"
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 2,
+      "id": "BID-T01",
+      "severity": "high",
+      "title": "RFP-008 \u2014 Ndx LLC tabulated at a price the proposal does not state",
+      "detail": "Proposal states $3,152,033 (building_connected_header); bid tab states $1,924,851 as 'NDX'. The tabulation appears to have swapped these two bidders' prices \u2014 the amount on this proposal is tabulated against another firm on the same package. Correction already applied to awarded-sub-mapping.json \u2014 confirm."
+    },
+    {
+      "n": 3,
+      "id": "BID-T02",
+      "severity": "high",
+      "title": "RFP-008 \u2014 New-Com, Inc. (TAB Contractors and MMC, Inc.) tabulated at a price the proposal does not state",
+      "detail": "Proposal states $1,924,851 (building_connected_header); bid tab states $3,152,033 as 'New-Com (TAB Contractors)'. The tabulation appears to have swapped these two bidders' prices \u2014 the amount on this proposal is tabulated against another firm on the same package. Correction already applied to awarded-sub-mapping.json \u2014 confirm."
+    },
+    {
+      "n": 7,
+      "id": "SPEC-C01",
+      "severity": "high",
+      "title": "02 41 00 Demolition \u2014 claimed by more than one scope doc",
+      "detail": "Assigned to RFP-008 (pm_ruling); also cited by RFP-002. PM ruling 07.31.26: the entire demolition scope is RFP-008. RFP-002's scope doc cites this section solely, so the ruling overrides the narrative -- CONFLICT, recorded below."
+    },
+    {
+      "n": 39,
+      "id": "GMP-06",
+      "severity": "medium",
+      "title": "Owner Accepted Alternates supersede drawn details",
+      "detail": "Six Owner Accepted Alternates change scope from the bid set: RCP flared end replaces the CIP concrete headwall detail; access road grading removed; bleacher footings per manufacturer design replace the drawn foundation design; manual galvanized OH doors replace motorized aluminum; sealed concrete replaces epoxy/resinous flooring; one flagpole instead of three. Every exhibit citing the superseded detail must reflect the alternate."
+    },
+    {
+      "n": 50,
+      "id": "SPEC-G01",
+      "severity": "low",
+      "title": "02 41 13 Selective Site Demolition \u2014 cited but absent from the manual",
+      "detail": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation.  CANDIDATE(S) in manual: 02 41 00 \u2014 confirm or reject."
+    }
+  ]
+}

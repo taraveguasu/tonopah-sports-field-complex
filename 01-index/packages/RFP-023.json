@@ -1,0 +1,406 @@
+{
+  "_package_id": "RFP-023",
+  "_title": "Fencing & Gates",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 023 Fencing & Gates.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "32 31 13",
+        "title": "Chain Link Fences and Gates",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-023.",
+        "manual_pages": "577-580",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "03 30 00",
+        "title": "Cast-In-Place Concrete",
+        "primary_package": "RFP-030",
+        "note": "Every package with equipment on a footing cites it; RFP-030 builds them all."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-12",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-12.txt"
+      },
+      {
+        "sheet": "A1-13",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-13.txt"
+      },
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "A4-20",
+        "title": "ROOF DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-20.txt"
+      },
+      {
+        "sheet": "A9-20",
+        "title": "ENLARGED PLANS - CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-20.txt"
+      },
+      {
+        "sheet": "AD1.11",
+        "title": "DEMOLITION PLAN - ES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.11.txt"
+      },
+      {
+        "sheet": "AD1.13",
+        "title": "ENLARGED DEMO PLAN BLDG 4",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.13.txt"
+      },
+      {
+        "sheet": "AD1.15",
+        "title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.15.txt"
+      },
+      {
+        "sheet": "AD1.16",
+        "title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.16.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "L1.00",
+        "title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.00.txt"
+      },
+      {
+        "sheet": "L1.01",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.01.txt"
+      },
+      {
+        "sheet": "L1.02",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.02.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A10-30",
+      "A11-10",
+      "A9-10",
+      "A9-11",
+      "AD1.12",
+      "GD",
+      "L0.00",
+      "L1.03",
+      "L1.07",
+      "L2.01",
+      "L2.02",
+      "P0-05",
+      "P0-10"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Fencing & Gates",
+    "awarded_sub": "Tahoe Fence Company",
+    "license_no": "0053722A",
+    "proposal_price": 215392.0,
+    "proposal_file": "023 Fencing & Gates - Tahoe Fence Co (w backup).pdf",
+    "other_bidders": [
+      "All 5's Construction",
+      "Fencing Specialists",
+      "Golden Bay Fence Plus Iron Works",
+      "Red Star Fence",
+      "Tiberti Fence Co."
+    ],
+    "descope_files_present": true,
+    "descope_file_hint": "023 Fencing & Gates - Red Star (R1, Descoped).pdf is for a non-awarded bidder -- verify no Tahoe Fence descope doc was missed",
+    "status": "awarded",
+    "note": "Awarded price ($215,392) is not the lowest bid (Red Star Fence at $199,500 was lower) -- confirm basis of award before drafting."
+  },
+  "bidders": [
+    {
+      "firm": "All 5's Construction",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Al 5s (w backup).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 399056,
+      "inclusions": [
+        "Provide and Install New 6\u2019 Fencing and Gates per keynotes 2-09 & 2-15\u2026\u2026\u2026\u2026\u2026\u2026\u2026.$399,056.00",
+        "Provide and Install Fencing at Abandoned Elementary School per AD1.13\u2026\u2026\u2026\u2026\u2026\u2026\u2026$36,307.00",
+        "Provide and Install Fencing at Abandoned Elementary School per AD1.16\u2026\u2026\u2026\u2026\u2026\u2026\u2026$25,640.00",
+        "Provide and Install Fencing at Tank Enclosure\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026$26,980.00",
+        "Union Labor",
+        "Daily Clean Up",
+        "All required PPE and Safety Equipment for All 5\u2019s employees",
+        "Assume jobsite water is available",
+        "Assume dumpster and/or concrete washout onsite.",
+        "Assume restrooms provided.",
+        "Shop Drawings as required",
+        "Spoil Removal included for Fence Post Footings",
+        "Licenses: B 0088398 & C5 0088399"
+      ],
+      "exclusions_scope_specific": [
+        "Proposal does not include bond, our Bond Rate is 1.10%",
+        "All third party QC testing",
+        "Any additional repairs or quantity not explicitly called out on the drawings",
+        "Driven posts for temporary fencing add/alternate.  Temporary fence to be installed on stands only.",
+        "Any x-ray or subsurface investigation",
+        "Caliche Removal",
+        "Repair or replacement of any existing concrete, asphalt, or landscaping",
+        "Potholing",
+        "Core drilling",
+        "OCIP or CCIP is excluded",
+        "Layout",
+        "Provide or Install of inserts/sleeves prior to pour",
+        "If you have any questions, please do not hesitate to call me.",
+        "Respectfully submitted,",
+        "All 5\u2019s Construction",
+        "Bobby Jelone, Director of Fencing and Equipment"
+      ],
+      "clarifications": [
+        "Proposal is based on eight-hour workdays Monday thru Friday.",
+        "This proposal is based on KNIT Architectural Drawings dated 4/20/26. Any changes to drawings after these sets will",
+        "need to be re-evaluated for cost impacts.",
+        "Proposal based on Clarification No. 1 dated 5/6/26 and Clarification No. 2 dated 5/7/26."
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Fencing Specialists",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Fencing Specialists (w backup).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "including but not lim ited to labor perform ed, m aterials stored, and",
+        "furnish engineering services and m akes no warranty of any kind"
+      ],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Golden Bay Fence Plus Iron Works, Inc.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Golden Bay Fence (backup, no Form).pdf.txt",
+      "current_date": "2026-05-11",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 359360,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [
+        "CORE Construction",
+        "Addendum #1 & Clarification No. 1)",
+        "From: Colebe Massie",
+        "Bid Item",
+        "Description",
+        "Quantity",
+        "Unit Price",
+        "6' - 0\" CHAINLINK   GALVANIZED",
+        "bleacher fencing",
+        "001 15' - 0\" 6' - 0\" CHAINLINK",
+        "002 15' - 0\" 6' - 0\" CHAINLINK",
+        "003 10' - 0\" 6' - 0\" CHAINLINK",
+        "005 27' - 6\" 6' - 0\" CHAINLINK",
+        "006 4' - 0\" 6' - 0\" CHAINLINK",
+        "007 4' - 0\" 6' - 0\" CHAINLINK",
+        "008 27' - 6\" 6' - 0\" CHAINLINK",
+        "009 27' - 6\" 6' - 0\" CHAINLINK",
+        "010 3' - 0\" 6' - 0\" CHAINLINK",
+        "011 3' - 0\" 6' - 0\" CHAINLINK",
+        "012 3' - 0\" 6' - 0\" CHAINLINK",
+        "013 3' - 0\" 6' - 0\" CHAINLINK",
+        "014 3' - 0\" 6' - 0\" CHAINLINK",
+        "Base Bid",
+        "Alternate 023.01-A \u2013 (ADD) \u2013 Fencing at Abandoned Elementary School Campus",
+        "Alternate 023.01-B \u2013 (ADD) \u2013 Fencing at Abandoned Elementary School Campus",
+        "Alternate 023.01-C \u2013 (ADD) \u2013 Propane Tank Enclosure Fencing at Abandoned Elementary School Campus",
+        "Alternate 023.02 \u2013 (DEDUCT) \u2013 Salvage Chain Link Fencing at Where Able",
+        "Nevada Unified Certification DBE and SBE NV20531166NUCP",
+        "*Total: Includes Labor, Materials, & Applicable Sales Taxes.",
+        "QUALIFY: The following qualifications apply to our bid.",
+        "See Attachment A",
+        "NOTE: PRICE VALID FOR 30 DAYS OR THE TIME STATED IN THE REQUEST FOR QUOTATION WHICHEVER IS GREATER.",
+        "Certified: Disadvantage Business Enterprise, Small Business Enterprise and Minority Business Enterprise",
+        "Certified: DBE, Cal Trans Certification #ct-009140. SBE # 0019415, & MBE -BART Certification #4065",
+        "FILE:WORKSHEET 2026- Good.xlsx, PROPOSAL",
+        "GOLDEN BAY FENCE plus IRON WORKS, INC.",
+        "6827 Walthall Way, Paramount, CA 90723",
+        "Contractor License #:CA 664905,",
+        "Union:  Laborers Local 304, Local 872",
+        "BID QUALIFICATION - ATTACHMENT \"A\"",
+        "1. Due to the volatility of the Steel Market, prices quoted are only good",
+        "30 days from the date of the proposal. After 30 days the price is subject to re-",
+        "negotiations. If the terms cannot be reached, GBF reserves the right to nullify this",
+        "proposal.",
+        "2. BOND RATE 1.4%",
+        "3. Job Figured for 3 Mobilizations, please add $2,700.00 for each Remobilization.",
+        "4. Permits (if required) by others.",
+        "5. Traffic Control by others.",
+        "6. Clearing and grubbing by others. Demo and Disposal By others.",
+        "7. Embeds, Soni tube, cans/post pockets/sleeves and setting of embeds/post pockets/cans/sleeves",
+        "by others. Saw Cutting and core drilling by others.",
+        "8. Mow strip/ concrete wall/flatwork and rebar by others.",
+        "9. Stamped drawings, Engineering and Calculations by others-",
+        "10. Change in design due to engineering will be considered change order work.",
+        "11. On Site Underground not covered by USA to be Located by GC or Owner.",
+        "12. GBF will not be liable for damages to unlocated underground utilities.",
+        "13. Potholing (if required) by others",
+        "14. Damages or repairs to landscaping, flower/planter beds, trees, shrubbery, drain lines and",
+        "pipes, sprinklers and irrigation lines to be repaired by others.",
+        "15. All Posts to be completed with Bobcat. If Hard Ground is encountered and cannot be dug with",
+        "a Bobcat and change order will be required Must have Access for a Cement truck."
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Red Star Fence",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Red Star  Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-14",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Red Star Fence Homework Response.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/023 Fencing & Gates - Red Star (R1, Descoped).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Red Star (Form).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Includes prevailing wage, zone pay and travel cost",
+        "Assume 6ft chain link fence typical",
+        "Includes hardware for the gate",
+        "Includes footings"
+      ],
+      "exclusions_scope_specific": [
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope",
+        "Value Engineering",
+        "Mock Ups",
+        "Weather Protection",
+        "Hoisting",
+        "Excludes cages"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Tahoe Fence Co. Inc",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tahoe Fence Co (w backup).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tahoe Fence (descope Adds).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tahoe Fence Scope Review Meeting Agenda.docx.txt"
+      ],
+      "kind": "proposal",
+      "price": 215392,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "The Tiberti Company, LLC dba Tiberti Fence Company",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tiberti (backup, no Form).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 277984,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "STAKING, GRADING, SURVEY, CLEARING, PERMITS, ENGINEERING, REBAR OR REBAR CAGES, DUST CONTROL, TRAFFIC CONTROL,",
+        "SIGNAGE, SPOILS REMOVAL FROM SITE, HYDRO EXCAVATION, SPECIAL GATE HARDWARE, ELECTRICAL, GROUNDING, UNION OR DAVIS",
+        "BACON WAGES, SPECIAL INSPECTIONS."
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Includes fencing at abandoned Elementary School Building 4 per detail AD1.13.",
+      "Fencing provided at underside of bleachers, only."
+    ],
+    "possibly_relevant_exclusions": [
+      "Fencing under press box"
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": []
+}

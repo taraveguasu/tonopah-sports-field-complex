@@ -1,0 +1,373 @@
+{
+  "_package_id": "ITB-056",
+  "_title": "Doors, Frames & Hardware",
+  "_title_variants_in_source": null,
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 056 Doors, Frames & Hardware.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "08 11 13",
+        "title": "Hollow Metal Doors and Frames",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by ITB-056.",
+        "manual_pages": "200-203",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-08-openings.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "08 71 00": {
+        "title_per_scope_doc": "Door Hardware",
+        "status": "OPEN",
+        "note": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware).",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "A10-10",
+        "title": "ROOM FINISH SCHEDULE AND FINISH PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A10-10.txt"
+      },
+      {
+        "sheet": "A11-10",
+        "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A11-10.txt"
+      },
+      {
+        "sheet": "A5-10",
+        "title": "EXTERIOR ELEVATIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A5-10.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "L1.00",
+        "title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.00.txt"
+      },
+      {
+        "sheet": "L1.01",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.01.txt"
+      },
+      {
+        "sheet": "L1.02",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.02.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A9-10",
+      "A9-11",
+      "AD1.11",
+      "AD1.12",
+      "E0-02",
+      "E3-10",
+      "E3-20",
+      "G0-00",
+      "G0-11",
+      "LS1-10",
+      "M0-05",
+      "M0-10",
+      "M2-10"
+    ]
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "ADI",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - ADI.pdf.txt",
+      "current_date": "2026-04-20",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "includes material procurement and installation associated with revised hardware  requirements at"
+      ],
+      "exclusions_scope_specific": [
+        "Excludes Any/All Aluminum or Storefront Openings by Glass/Glazing Subcontractor.",
+        "Excludes Any/All Millwork Opening\u2019s. Including: Casing and Wood Jambs by Others/Millwork",
+        "Excludes Access Control Hardware Specified Under Division 28 Low-voltage / Subcontractor",
+        "Excludes Any/All Power Supplies and Associated Electrical Hookups Provided by Division 28",
+        "Low-voltage Subcontractor",
+        "Excludes Any/All Electrical Wiring. All hook-ups / Connections are made Door Only.",
+        "Excludes Any/All Overhead Coil Doors/Roll-up Doors.",
+        "Excludes installation of hollow metal frame assemblies unless specifically included by accepted",
+        "PRICING & TERMS:",
+        "Proposal valid for 90 days",
+        "Grand total subject to change pending final quantities or design changes.",
+        "Standard payment terms: Net 30; retainage withheld per contract.",
+        "Price subject to adjustment if supplier release delays exceed 120 days of Installation Schedule.",
+        "Excludes drywall framing, backing, blocking, drywall installation, taping, finishing, sealing,",
+        "Excludes Any/All Glass or Glazing.",
+        "Excludes Gates & Gate Hardware"
+      ],
+      "clarifications": [
+        "(Hollow metal frames are furnished only as part of the material package.)",
+        "\u00a7 Division 08 Hardware Installation at Listed Openings",
+        "(Excludes Aluminum/Glass/Storefront Hardware)",
+        "(Excludes Access Control Hardware under Division 28 by Others/Security Contractor)",
+        "BASE TOTAL TO PROVIDE THE ABOVE SPECIFIED ................................. $65,351.00"
+      ],
+      "priced_line_items": [
+        "ADD ALTERNATES:"
+      ],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "All 5s",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - All 5s.pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Division 09",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09 (descope).pdf.txt",
+      "current_date": "2026-05-21",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "descope",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09.pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "Structural work",
+            "Millwork. Soffit work. Exterior work",
+            "After-hours, holidays or phased work unless specifically noted",
+            "Removal or relocation of electrical, mechanical, fire alarm, fire sprinkler, data or plumbing systems",
+            "Hazardous materials including asbestos, lead, mold, silica (testing, abatement, or disposal)",
+            "Fire-rated assemblies unless specifically indicated in scope",
+            "Work not specifically shown on concept and buildout overview or described in this proposal",
+            "Any work not expressly described herein is excluded. Any conditions concealed or not visible at time of bid may",
+            "result in additional cost and time. Any work not specifically in this scope of work shall be excluded and will only be",
+            "performed upon receipt of written and fully executed agreement or approved change of order between the",
+            "parties.",
+            "#062 Acoustic Ceilings Treatments",
+            "#060 Framing, Metal Studs, Drywall, Painting",
+            "#044 Insulation Interior",
+            "#056 Doors, Frames, Hardware",
+            "7787 EASTGATE RD #110   HENDERSON, NV  89011",
+            "702.969.8896    WWW.DIVISION-09.COM",
+            "NV C3 0086082   C4 0086084   C20 0086083   LIMIT $2M",
+            "DIVISION 09",
+            "Angelo Carvalho"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Hallgren",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Hallgren (SUPPLY).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "Excludes all material and hardware for openings 102B, 106A, 112 and 113.",
+        "Excludes STC ratings per 056 scope of work item 1. b. ii. as there were no specific callouts for STC rated doors.",
+        "Excludes attic stock per 056 scope of work item 3. a. Attic stock was not called out in section 087100.",
+        "Excludes glass in hollow metal and wood doors with vision lites unless otherwise noted",
+        "Excludes the cost for use of subscribed construction management software unless qualified",
+        "Excludes all other glass & glazing unless otherwise noted",
+        "Excludes division 28 components unless specifically included w/division 8 hdwr sets",
+        "Excludes wiring diagrams including point-to-point and riser",
+        "Excludes hollow metal frames sidelite glass & glazing | glazed curtain assemblies",
+        "Excludes chain-link | overhead coiling doors | accordion doors | iron gates | all associated hardware",
+        "Excludes aluminum storefront | glass | doors | frames | hardware (alternate)",
+        "Excludes glass door assemblies | vertical acting doors | hydraulic doors",
+        "Excludes detention grade assemblies including doors, frames and hardware",
+        "Excludes terminated stops for hollow metal frames unless qualified",
+        "Excludes any and all field measurements unless qualified",
+        "Excludes any type of insulation at frames unless part of an assembly",
+        "Excludes mastic or acoustic sealant at threshold sills",
+        "Excludes auto door operators & components unless qualified",
+        "Excludes door/frame offsite/internal storage | expedited material | freight (see below)",
+        "Excludes access panels, doors, or frames | ceiling hatches | skylights",
+        "Excludes any special warranty that is not specifically included in manufacturer\u2019s standard published warranty",
+        "Unloading & staging of material is the responsibility of the contractor",
+        "The above dated proposal is valid thirty (30) days unless otherwise specified.",
+        "Local sales tax included | Out of state taxes excluded",
+        "Current standard product availability is as follows commencing from the date of stamped approved",
+        "submittals (if applicable) or written authorization to proceed.",
+        "Excludes bituminous coatings unless qualified",
+        "Excludes field splice welding unless qualified",
+        "Excludes operable partitions | bath accessories"
+      ],
+      "clarifications": [
+        "Base total captures hardware as specified in the 087100 hardware sets. On the door schedule, door 106 is assigned remark 2 which indicates panic",
+        "hardware. This opening is assigned hardware set 01 which does not have panic hardware. Add alternate 1 is to provide panic hardware at this door",
+        "per remark 2.",
+        "While they are not specifically listed as a manufacturer in section 081113, hollow metal doors and frames are manufactured by Curries, an ASSA",
+        "Abloy company, similar to Ceco Door.",
+        "Section 2.03, B. 2. calls for a minimum R-Value of 6.0. Exterior doors and frames will achieve an R-Value of 2.44 with a standard masonry frame and",
+        "thermally-enhanced core. We have provided add alternate 2 to increase the R-Value for exterior doors and frames to 2.78 which is the highest R-",
+        "Value that can be achieved.",
+        "Base total excludes mock-up per 056 scope of work items 1. c. and 3. e. We have provided add alternate 3 to supply a door, frame, and hardware for",
+        "mock-up.",
+        "Subtotal:",
+        "Sales Tax (7.6%):         $  3,161.60",
+        "Base Total:",
+        "\u201cService Is Our Chief Product\u201d",
+        "This proposal is The Hallgren Company\u2019s interpretation of the plans and specifications that have been issued",
+        "and is the responsibility of the contractor to review and confirm the details herein. Excludes all other scope",
+        "items unless specifically detailed on page one.",
+        "Supply only \u2013 excludes installation",
+        "No retention will be held on Purchase Order materials"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": [
+        "O F N E V A D A \u2014 Supply only \u2013 excludes installation"
+      ]
+    },
+    {
+      "firm": "SNV Specialties",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - SNV Specialties (INSTALL).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 15220,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [
+        "2) ( 1 ) Year Warranty on Workmanship From Date of Acceptance",
+        "3) Signatory to Southwest Council of Carpenters /  2025~2026 100% Rural Prevailing Wage + Zone Pay Calculated",
+        "4) ( 2 ) Mobilization MAX",
+        "5) ( 2 ) Million Umbrella Job Specific Increase Included in Base Bid",
+        "6) Includes Any Owner/ Inspection/ Demonstration Walks",
+        "NOTES: #1) SNV Will Not Be Held Liable for Damages To Any Frames, Doors or Hardware Damaged by Others After Installation, Nor",
+        "Will We Be Held Liable for Deficiencies on Hollow Metal Frames Set By Others. All Doors & Door Frames to Be Factory Prepped Per",
+        "SDI/DHI Standards.",
+        "Should you have any questions or would like to discuss the scope in further detail please contact me.",
+        "412 Mystic River St         -           Henderson, NV 89015          -           702.250.7929",
+        "1) Payment, Performance Bonds, Riders & Specialized Insurance Coverage Outside of SNV's Standard 1mil/1mil/3mil CGL, 1mil CA,",
+        "1mil Umbrella & 1mil WC"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 6,
+      "id": "GMP-02",
+      "severity": "high",
+      "title": "Door 106 panic hardware exclusion is ambiguous",
+      "detail": "The exclusion reads: 'Panic hardware at Door 106 per Door Schedule Remark 2. Hardware provided per specification section 08711 Door Hardware, Hardware Set 01'. It is unclear whether panic hardware is excluded outright, or whether Remark 2's hardware is excluded and Hardware Set 01 substituted. Door 106 is the concessions overhead counter shutter area and this is a life-safety item."
+    },
+    {
+      "n": 15,
+      "id": "SPEC-G07",
+      "severity": "high",
+      "title": "08 71 00 Door Hardware \u2014 cited but absent from the manual",
+      "detail": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware).  No candidate section exists; this needs a source."
+    },
+    {
+      "n": 28,
+      "id": "BID-B03",
+      "severity": "medium",
+      "title": "Division 09 bid ITB-044, ITB-056, ITB-062, RFP-060 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    },
+    {
+      "n": 37,
+      "id": "GMP-04",
+      "severity": "medium",
+      "title": "Several ITB packages are unaddressed by the Basis of GMP",
+      "detail": "No scope assumption or exclusion covers ITB-008 Surveying, ITB-019 Track & Field Athletic Equipment (beyond excluding soccer goals), ITB-040, ITB-044, ITB-056, ITB-062, ITB-071, ITB-072, or ITB-085 Warming Kitchen Food Service Equipment. With 'Loose FF&E' excluded, whether the warming kitchen equipment is in or out is not established."
+    }
+  ]
+}

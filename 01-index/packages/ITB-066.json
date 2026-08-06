@@ -1,0 +1,338 @@
+{
+  "_package_id": "ITB-066",
+  "_title": "Fluid-Applied Flooring",
+  "_title_variants_in_source": null,
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 066 Fluid-Applied Floors.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "spec_sections": {
+    "primary": [],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "03 30 00",
+        "title": "Cast-In-Place Concrete",
+        "primary_package": "RFP-030",
+        "note": "Every package with equipment on a footing cites it; RFP-030 builds them all."
+      },
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A9-10",
+        "title": "ENLARGED PLANS - RESTROOMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-10.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "E3-00",
+        "title": "OVERALL TECHNOLOGY SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-00.txt"
+      },
+      {
+        "sheet": "L0.00",
+        "title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.00.txt"
+      },
+      {
+        "sheet": "L2.01",
+        "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.01.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "P4-10",
+        "title": "PLUMBING ROOF PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P4-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      },
+      {
+        "sheet": "S3-00",
+        "title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S3-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A10-10",
+      "A4-10",
+      "P1-10"
+    ]
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "FW Specialties",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 34054,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [
+        "BASE BID: $2,985.95"
+      ],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "NRC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - NRC (ALT).pdf.txt",
+      "current_date": "2026-05-29",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC (descope).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "1. Repairs to existing substrate.",
+        "2. Materials",
+        "2. Removal of any contaminants.",
+        "3. Equipment",
+        "3. Water, sufficient overhead lighting, and power.",
+        "4. Supervision",
+        "4. Bonds, permits and fees.",
+        "5. More than 1 mobilization.",
+        "6. Floor Protection."
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC.pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "1. Repairs to existing substrate.",
+            "2. Materials",
+            "2. Removal of any contaminants.",
+            "3. Equipment",
+            "3. Water, sufficient overhead lighting, and power.",
+            "4. Supervision",
+            "4. Bonds, permits and fees.",
+            "5. More than 2 mobilizations.",
+            "6. Floor Protection."
+          ],
+          "priced_line_items": [
+            "Alternate Add #1: To apply concrete sealer to room 102 storage on 258 sq ft, ADD\u2026$3,182.00"
+          ]
+        }
+      ]
+    },
+    {
+      "firm": "Ryerson",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf.txt",
+      "current_date": "2026-05-26",
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - Ryerson (ALT).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf.txt"
+      ],
+      "kind": "descope",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "SI Legacy",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy (ALT).pdf.txt",
+      "current_date": "2026-05-29",
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy.pdf.txt"
+      ],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "Below-Grade Waterproofing",
+        "Bituthene 3000",
+        "Metal To CMU Caulking",
+        "Contours Simplicity",
+        "Below-Grade Insulation",
+        "Sealed Concrete (Clean & Seal)",
+        "Caulking At Saw-Cut Joints",
+        "Foamular 250 2\"",
+        "Hollow-Metal Door Caulking",
+        "CMU Joint Caulking",
+        "Site Caulking",
+        "4\" Rubber Base",
+        "Everclear Vox",
+        "2CNS EZ Mix",
+        "2CNS EZ Mix",
+        "Furnish & Install Sika 2CNS EZ MIX Caulking At CMU Vertical Interior/Exterior Joints",
+        "Sealed Concrete (Clean & Seal)",
+        "4\" Rubber Base",
+        "Below-Grade Waterproofing",
+        "Hollow-Metal Door Caulking",
+        "Caulking",
+        "Furnish & Install Sika HY 100 Caulking At Exterior Site Concrete Expansion Zip-Cap Joints",
+        "Furnish & Install Sika 2CNS EZ MIX Caulking At Hollow Metal Doors Inside & Out",
+        "Furnish & Install Owens Corning 2\" Insulation Board Once Below-Grade Waterproofing Has Been Installed",
+        "GWB To CMU Caulking",
+        "Metal To CMU Caulking",
+        "Exterior Building Penetrations",
+        "Caulking",
+        "Clean Foundation Walls & Footings then apply Grace Bituthene 3000 Waterproofing System on Exterior Foundation Wall",
+        "and Footings  *GC To Snap Below-Grade Waterproofing Lines*",
+        "Below-Grade Waterproofing/Insulation",
+        "Bituthene Primer On Foundation Walls and Footings",
+        "Followed Up a Cant Bead of Liquid Membrane on Stem Wall and Footing Joint",
+        "Apply Waterproofing Membrane to Exterior Foundation Wall and Footings",
+        "After, Apply Insulation  Board To Waterproofing Membrane",
+        "Once Complete Add Drain Board Over Insulation Board For A Complete Waterproofing System",
+        "Sealed Concrete (Clean & Seal)",
+        "Furnish & Install Water-Based Concrete Sealer At SC-1 Areas",
+        "Furnish & Install Caulking At Saw-Cut Joints In Sealed Concrete Areas",
+        "Rubber Base",
+        "Furnish & Install 4\" Rubber Wall Base At RB-1 Areas",
+        "Furnish & Install Sika 2CNS EZ MIX Caulking At Gypsum Wall Board To CMU Joint",
+        "Furnish & Install Sika 2CNS EZ MIX Caulking At Exterior Metal To CMU Joint",
+        "Furnish & Install Sika 2CNS EZ MIX Caulking At Exterior Building Penetration Joints",
+        "Page2 of 3",
+        "Signature",
+        "Name Luis Hernandez",
+        "Acceptance Signature",
+        "***Due to Material and Freight Instability, Proposal is Valid for 30 days from Date of Proposal ***",
+        "***SILegacy Floor Finishing may extend beyond 30 days at it's own discretion ***",
+        "Luis Hernandez",
+        "No Prevailing Wage Pricing is included, unless specified, in writing, above",
+        "Mortar bed for floor, drywall repairs, paint touch ups, underlayment, and tile backer board (if required)",
+        "Wall base/floor finish protection, potable water and electricty provided by others",
+        "Floor protection during work in place included BUT excluded after scope completion",
+        "Remobilization, restaging fees & final cleaning",
+        "Any other scope of work other than listed above",
+        "NOTE: All flooring installations performed during cold weather months must be in an enclosed building, with the HVAC",
+        "system operational, between 65 degrees to 90 degrees Fahrenheit, throughout the day and evening hours, for at least",
+        "Software requirements.",
+        "Any such costs, will need to be added to the cost of the job.",
+        "Includes 2\" Insulation Board",
+        "Includes Saw-Cut Joint Caulking"
+      ],
+      "exclusions_scope_specific": [
+        "Excludes Caulking Storefronts, Any Other Joints Not Called Out Above",
+        "*Excludes Any Floor Protection After Material Has Been Installed*",
+        "Excludes Any Metal Flashing, Underslab Vapor Barrier, Concrete Wall Patching, Nail Rermoving",
+        "Excludes Concrete Grinding, Crack Repair, Minor Floor Prep Included",
+        "Excludes additional costs related to Owner or Contractor-required software for Billing, pre-approval processes, or safety",
+        "Major floor prep, alkalinity remedation & moisture block",
+        "Abatement, demo & disposal done by others (if needed)",
+        "Moving furniture, fixtures, plumbing, partitions, equipment, stalls and other objects in area of scope to be done by others",
+        "72 hours before, during & after the installation. Non-compliance may affect the installation warranty.",
+        "***Due to Material and Freight Instability, Proposal is Valid for 30 days from Date of Proposal ***",
+        "***SILegacy Floor Finishing may extend beyond 30 days at it's own discretion ***",
+        "Page3 of 3"
+      ],
+      "clarifications": [
+        "Bid Assumes Normal Working Hours",
+        "Perform Normal Prep",
+        "Prevailing Wage Rates Apply",
+        "Site Caulking",
+        "CMU Joint Caulking"
+      ],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 31,
+      "id": "BID-B06",
+      "severity": "medium",
+      "title": "SI Legacy bid ITB-040, ITB-066, ITB-067 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    },
+    {
+      "n": 32,
+      "id": "BID-B07",
+      "severity": "medium",
+      "title": "NRC bid ITB-066, ITB-067 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    },
+    {
+      "n": 33,
+      "id": "BID-B08",
+      "severity": "medium",
+      "title": "Ryerson bid ITB-066, ITB-067 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    },
+    {
+      "n": 44,
+      "id": "SPEC-N03",
+      "severity": "medium",
+      "title": "ITB-066 holds no spec section of its own",
+      "detail": "Fluid-Applied Flooring. Correct to hold none -- PM ruling 08.04.26 excluded resinous/epoxy flooring and moved those locations to Sealed Concrete under ITB-067, leaving ITB-066 with no remaining scope."
+    }
+  ]
+}
