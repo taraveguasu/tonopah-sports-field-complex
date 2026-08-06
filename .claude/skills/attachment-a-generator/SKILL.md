@@ -99,6 +99,15 @@ Output: `02-drafts/package-{package_id}-attachment-a.md`
 - **Structure**: Package Title & ID → Inclusions → Exclusions → Coordination with Adjacent Trades → Citations list.
 - **Every inclusion/exclusion needs a citation.** No uncited scope language — that's the "plausible-sounding
   filler" failure mode this whole pipeline exists to avoid.
+- **Never put a drawing roster in the exhibit.** The sheet→package index is a retrieval tool that tells the
+  drafter what to read; it is not exhibit content. Do not emit an "Applicable Drawings" or "Sheets Included"
+  list, and do not enumerate a package's sheets anywhere in the draft. An enumerated sheet list in a
+  subcontract works against the GC: it creates the negative implication that unlisted sheets do not apply,
+  which narrows a broad "complete scope per plans and specifications" obligation into a bounded one and
+  hands the subcontractor an argument in the first change-order dispute. It also goes stale the moment an
+  addendum reissues a sheet. Cite a sheet only where it does work a citation should do — fixing a trade
+  boundary, resolving an ambiguity, or pinning a basis of design — exactly as the Scope of Work narratives
+  themselves do ("See A1-20 for Gate Schedule and details").
 - If a package's `awarded_sub.flags` includes a PM-review flag (e.g. "awarded sub was not low bidder," "no
   signed Bid Form on file"), carry it forward as a visible note at the top of the draft, not silently.
 

@@ -48,6 +48,12 @@ narrow is the point (see `.claude/skills/attachment-a-generator/SKILL.md` for wh
   Section 03 30 00", "per Sheet S-201", "per Addendum #1 (05.06.26)") and, for reconciled packages,
   awarded-sub citations ("per [Sub Name]'s proposal dated [x]", "excluded per descope agreement [x]").
   No uncited scope language — if you can't cite it, don't claim it either way; note it as unresolved instead.
+- **Never list a package's drawings.** You are given the sheets this package builds from so you know what to
+  read. That list is a retrieval tool, not exhibit content. Do not emit an "Applicable Drawings" or "Sheets
+  Included" section, and do not enumerate the sheets anywhere in the draft. An enumerated sheet list narrows
+  a broad "complete scope per plans and specifications" obligation by implying unlisted sheets don't apply,
+  and it goes stale the moment an addendum reissues a sheet. Cite an individual sheet only where the
+  citation does real work — fixing a trade boundary, resolving an ambiguity, or pinning a basis of design.
 - Don't invent coordination language that isn't grounded in the source docs — a plausible-sounding
   "temp power by others" line with no actual source behind it is exactly the failure mode this pipeline
   exists to avoid.
