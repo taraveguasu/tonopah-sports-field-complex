@@ -20,7 +20,19 @@ def money(n):
 
 
 FLAGMETA = {
-    "NOSPEC": ("#FBEAE9", "#B3261E", "No primary specification from any source"),
+    "NOSPEC": ("#FBEAE9", "#B3261E",
+               "No spec section in the manual covers this package"),
+    "SPECGAP": ("#FBEAE9", "#B3261E",
+                "Scope doc cites a section absent from the manual, still open"),
+    "CONFLICT": ("#FBEAE9", "#B3261E",
+                 "A spec section here is also claimed by another package's scope doc"),
+    "DECISION": ("#FFF4DB", "#8A6100",
+                 "A high-severity PM decision is open on this package"),
+    "UNAWARDED": ("#FFF4DB", "#8A6100",
+                  "No awarded subcontractor — drafts from generic scope only"),
+    "JUDGED": ("#EEF1F6", "#3A4A5E",
+               "Carries a spec section assigned by trade judgment, not by citation"),
+    # Retained so an older payload still renders rather than raising.
     "REV": ("#FFF4DB", "#8A6100", "Cites a sheet Addendum #1 superseded — needs re-read"),
     "PROC": ("#FBEAE9", "#B3261E", "Procurement flag on the award"),
     "RULED": ("#E6F4EC", "#004E2B", "PM ruling applied to this package"),
@@ -49,9 +61,12 @@ def kpis(d):
     aw = [p for p in all_ if (p.get("status") or "").lower() == "awarded"]
     committed = sum(p.get("price") or 0 for p in aw)
     nospec = sum(1 for p in all_ if "NOSPEC" in p["flags"])
-    rev = sum(1 for p in all_ if "REV" in p["flags"])
-    proc = sum(len(p["procflags"]) for p in all_)
     high = sum(1 for l in d["leveling"] if str(l["sev"]).lower() == "high")
+    # Judgment assignments are the reviewable surface: they are my calls, not
+    # citations, and every draft inherits them. That is the number a PM should
+    # see on the dashboard, not a procurement-flag count with no live source.
+    judged = sum(1 for r in d["specCoverage"] if r.get("basis") == "trade_judgment")
+    gaps_open = sum(1 for r in d["specCoverage"] if r.get("state") == "gap")
     rows = [
         ("Packages", len(all_), "16 RFP (1%) · 17 ITB", "var(--core-black)"),
         ("Awarded", f"{len(aw)} / 16", money(committed) + " committed", "var(--core-green)"),
@@ -59,7 +74,10 @@ def kpis(d):
          "var(--status-danger)" if high else "var(--core-green)"),
         ("No spec source", nospec, "packages with no primary spec",
          "var(--status-danger)" if nospec else "var(--core-green)"),
-        ("Procurement flags", proc, f"{rev} pkgs cite superseded sheets", "var(--status-warning)"),
+        ("Spec gaps open", gaps_open, "cited by a scope doc, absent from the manual",
+         "var(--status-danger)" if gaps_open else "var(--core-green)"),
+        ("Assigned by judgment", judged, "sections assigned by trade judgment, not citation",
+         "var(--status-warning)"),
     ]
     return '<div class="kpis">' + "".join(
         f'<div class="kpi"><div class="k">{e(str(l))}</div>'
@@ -125,8 +143,8 @@ def pkg_detail(p):
 def pkg_row(p):
     t, bg, fg = status_pill(p)
     flags = "".join(
-        f'<span class="flag" title="{e(FLAGMETA[f][2])}" '
-        f'style="background:{FLAGMETA[f][0]};color:{FLAGMETA[f][1]}">{f}</span>' for f in p["flags"])
+        f'<span class="flag" title="{e(FLAGMETA.get(f, ("#EEE","#333",f))[2])}" '
+        f'style="background:{FLAGMETA.get(f, ("#EEE","#333",f))[0]};color:{FLAGMETA.get(f, ("#EEE","#333",f))[1]}">{f}</span>' for f in p["flags"])
     pct = min(100, round(p["scopeItems"] / 135 * 100))
     subcol = "var(--core-black)" if p["sub"] else "var(--core-cement)"
     return f"""<details class="pkg" data-pkg="{e(p['id'])}">
@@ -168,20 +186,23 @@ def panel_packages(d):
 
 
 def panel_specs(d):
-    style = {"claimed": ("transparent", "var(--core-green)", "Claimed"),
+    style = {"claimed": ("transparent", "var(--core-green)", "Assigned"),
+             "conflict": ("#EDEBFF", "#3B3480", "Conflict — two scope docs claim it"),
+             "flow": ("#EEF1F6", "#3A4A5E", "Flow-down — many comply, one carries"),
+             "closed": ("#E6F4EC", "#004E2B", "Absent — closed by PM ruling"),
              "overlap": ("#EDEBFF", "#3B3480", "Overlap — claimed twice"),
-             "gap": ("#FBEAE9", "#B3261E", "Gap — claimed by nobody")}
+             "gap": ("#FBEAE9", "#B3261E", "Absent from the manual — open")}
     cols = "grid-template-columns:120px minmax(240px,1fr) minmax(240px,1fr) 200px"
     out = ['<div class="panel panel-specs">',
            '<h2 class="sec">Specification coverage</h2>',
-           '<p class="secsub">Every primary specification the 33 scope narratives actually cite, and which '
-           "package claims it. Sections claimed twice are overlaps; sections claimed by nobody land on CORE's "
-           "general conditions if left alone. Parsed verbatim from each package's own “Primary Specifications” "
-           "list — not inferred from CSI divisions.</p>",
+           '<p class="secsub">All 106 technical sections in the manual with the package responsible for each, '
+           "plus every section a scope doc cites that the manual does not publish. Basis is stated per section: "
+           "a scope-doc citation, a PM ruling, or trade judgment. Trade judgment is an assignment, not a "
+           "citation — it is reviewable and is what the PM review packet asks about.</p>",
            f'<div class="card"><div class="hd" style="{cols};background:var(--sect);color:var(--sectFg)">'
            "<div>Section</div><div>Title</div><div>Claimed by</div><div>Coverage</div></div>"]
     for r in d["specCoverage"]:
-        bg, fg, lab = style[r["state"]]
+        bg, fg, lab = style.get(r["state"], ("transparent", "var(--core-green)", r["state"]))
         note = (f'<div class="mut" style="margin-top:4px;font-size:11px">{e(r["note"])}</div>'
                 if r.get("note") else "")
         by = ", ".join(r["by"]) if r["by"] else "<em>nobody</em>"
@@ -250,9 +271,11 @@ def render(d):
         for i, (k, _, _) in enumerate(tabs))
     labels = "".join(
         f'<label class="tab" for="t-{k}">{e(l)}<span class="n">{n}</span></label>' for k, l, n in tabs)
-    prov = (f'{m["totals"]["scope_items_captured"]:,} verbatim scope items · '
-            f'{m["totals"]["coordination_clauses"]} coordination clauses · '
-            f'{m["coverage"]["NOT_PROCESSED"]} source files still unopened')
+    t = m["totals"]
+    prov = (f'{t["spec_sections_assigned"]} spec sections assigned · '
+            f'{t["sheets_draft_from"]} sheet assignments · '
+            f'{t["bidders"]} bidder records · '
+            f'{t["open_pm_items_attached"]} open PM items attached to packages')
     return f"""<div class="wrap">
 <header class="bar">
   <div><h1>CORE&nbsp;·&nbsp;Buy-Out Console</h1>

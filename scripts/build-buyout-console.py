@@ -45,148 +45,152 @@ def load(name):
 
 
 def build_packages():
-    v2 = load("package-index-v2.json")
-    inv = load("proposal-inventory.json")
-    aw = load("awarded-sub-mapping.json")
+    """Read the CURRENT per-package records, not the superseded v2 index.
 
-    awarded = {}
-    def walk(o):
-        if isinstance(o, dict):
-            for k, val in o.items():
-                if isinstance(val, dict) and "awarded_sub" in val and "title" in val:
-                    awarded[k] = val
-                else:
-                    walk(val)
-    walk(aw)
+    This console was built on 08.04 against package-index-v2.json and
+    proposal-inventory.json. Both are superseded: v2 predates all extraction work,
+    and the inventory recorded filenames without opening the documents behind
+    them. A dashboard reporting from those is a dashboard reporting pre-rebuild
+    numbers, which is worse than no dashboard.
+    """
+    man = load("package-index.json")
+    spec = load("spec-section-catalog.json")
+    sheets = load("sheet-package-assignments.json")
+    items = load("pm-open-items.json")
+
+    by_pkg_items = {}
+    for it in items.get("items", []):
+        for pid in it["packages"]:
+            by_pkg_items.setdefault(pid, []).append(it)
 
     pkgs = []
-    for pid, p in sorted(v2["packages"].items()):
-        specs = [f'{s["section"]}|{s["title"]}' for s in p["primary_specifications"]]
-        divs = [f'Div {d["division"]}|{d["title"]}' for d in p["primary_divisions"]]
-        prim = specs + divs
+    for pid in sorted(man["packages"]):
+        rec = json.loads((INDEX / "packages" / f"{pid}.json").read_text())
+        primary = rec["spec_sections"]["primary"] + rec["spec_sections"]["added_by_pm_ruling"]
+        specs = [f'{s["section"]}|{s["title"]}' for s in primary]
 
-        # Division for grouping. An explicit "Primary Specifications: Division NN"
-        # beats inference. Otherwise take the MODAL division across the primary
-        # sections, not the first one -- RFP-030's list starts at 07 26 00
-        # (damproofing) while the package is Division 03, and RFP-060 starts at
-        # 05 40 00 while four of its six sections are Division 09.
-        if p["primary_divisions"]:
-            dv = str(p["primary_divisions"][0]["division"]).zfill(2)
-        elif p["primary_specifications"]:
-            divs = [s["section"][:2] for s in p["primary_specifications"]]
-            dv = max(sorted(set(divs), key=divs.index), key=divs.count)
-        else:
-            dv = "--"
+        # Division for grouping: modal division across the primary sections. Taking
+        # the first is wrong -- RFP-030's list opens at 07 26 00 (vapour retarders)
+        # while the package is Division 03.
+        divs = [s["section"][:2] for s in primary]
+        dv = max(sorted(set(divs), key=divs.index), key=divs.count) if divs else "--"
 
-        a = awarded.get(pid, {})
-        ipk = inv["packages"].get(pid, {})
+        a = rec["awarded_sub"]
+        sh = sheets["sheets_by_package"].get(pid, {})
+        gaps = rec["spec_sections"]["cited_by_this_scope_doc_but_absent_from_manual"]
+        open_items = by_pkg_items.get(pid, [])
 
         flags = []
-        if not p["primary_specifications"] and not p["primary_divisions"]:
+        if not primary:
             flags.append("NOSPEC")
-        if any("WARNING" in c for c in p["drawing_sheet_candidates"]):
-            flags.append("REV")
-        if p.get("_pm_rulings"):
-            flags.append("RULED")
-        pf = [f for f in (a.get("flags") or [])]
-        if pf:
-            flags.append("PROC")
+        if any(s["basis"] == "trade_judgment" for s in primary):
+            flags.append("JUDGED")
+        if any(s.get("conflict") for s in primary):
+            flags.append("CONFLICT")
+        if any(g["status"] == "OPEN" for g in gaps.values()):
+            flags.append("SPECGAP")
+        if a.get("status") != "awarded":
+            flags.append("UNAWARDED")
+        if any(i["severity"] == "high" for i in open_items):
+            flags.append("DECISION")
 
-        # Procurement flags carried on this package's proposals
-        procflags = sorted({f for pr in ipk.get("proposals", []) for f in pr.get("flags", [])
-                            if f in ("late_submission", "backup_but_no_signed_bid_form",
-                                     "not_submitted_via_building_connected",
-                                     "marked_do_not_use", "value_only_no_scope_detail")})
+        scope_lines = sum(len(b.get("inclusions", []))
+                          + len(b.get("exclusions_scope_specific", []))
+                          + len(b.get("priced_line_items", [])) for b in rec["bidders"])
 
         pkgs.append({
             "id": pid,
-            "title": p["title"] or pid,
+            "title": rec["_title"],
             "source": pid[:3],
             "div": dv,
             "divName": DIV_NAMES.get(dv, "—"),
-            "specs": prim,
-            "scopeItems": len(p["scope_items_verbatim"]),
-            "coordCount": len(p["coordination_clauses"]),
-            "coord": p["coordination_clauses"],
-            "alts": len(p["alternates"]),
+            "specs": specs,
+            "specBasis": [s["basis"] for s in primary],
+            "flowDown": [f'{s["section"]}|{s["title"]}'
+                         for s in rec["spec_sections"]["flow_down_from_other_packages"]],
+            "specGaps": [[k, (v.get("title_per_scope_doc") or ""), v["status"]]
+                         for k, v in gaps.items()],
+            "scopeItems": scope_lines,
+            "coordCount": len(rec["spec_sections"]["flow_down_from_other_packages"]),
+            "coord": [s["note"] for s in rec["spec_sections"]["flow_down_from_other_packages"]],
+            "alts": sum(len(b.get("priced_line_items", [])) for b in rec["bidders"]),
             "sub": a.get("awarded_sub"),
             "price": a.get("proposal_price"),
-            "status": a.get("status") or ("not-solicited" if pid.startswith("ITB") else "unknown"),
-            "bidders": ipk.get("bidders", []),
-            "bidderCount": ipk.get("bidder_count", 0),
+            "status": a.get("status", "not-yet-awarded"),
+            "bidders": [b["firm"] for b in rec["bidders"]],
+            "bidderCount": len(rec["bidders"]),
             "flags": flags,
-            "procflags": procflags,
-            "rulings": [r["ruling"] for r in p.get("_pm_rulings", [])],
-            "awardNotes": (a.get("flags") or []) + ([a["note"]] if a.get("note") else []),
-            "sheets": [d["sheet_number"] for d in p["drawing_sheets"]],
-            "candidates": [{"n": c["sheet_number"], "t": c.get("sheet_title"),
-                            "warn": "WARNING" in c} for c in p["drawing_sheet_candidates"]],
+            "procflags": [],
+            "rulings": [s["rationale"] for s in primary if s["basis"] == "pm_ruling"],
+            "awardNotes": ([a["note"]] if a.get("note") else []),
+            "sheets": [d["sheet"] for d in rec["drawings"]["draft_from"]],
+            "candidates": [{"n": s, "t": "", "warn": True}
+                           for s in sh.get("leads_to_verify", [])],
+            "openItems": [{"n": i["n"], "id": i["id"], "sev": i["severity"],
+                           "title": i["title"]} for i in open_items],
         })
     return pkgs
 
 
 def build_spec_coverage(pkgs):
-    m = {}
-    for p in pkgs:
-        for s in p["specs"]:
-            num, title = s.split("|", 1)
-            m.setdefault(num, {"section": num, "title": title, "by": []})
-            m[num]["by"].append(p["id"])
+    """Every technical section in the manual with its owner and the basis for it.
+
+    The earlier version derived coverage from the packages' own spec lists, so a
+    section owned by nobody was invisible by construction -- the two known gaps had
+    to be hand-appended. The catalog assigns all 106 technical sections, so
+    coverage can be read rather than reconstructed.
+    """
+    cat = load("spec-section-catalog.json")
     rows = []
-    for k in sorted(m):
-        r = m[k]
-        n = len(r["by"])
-        r["state"] = "overlap" if n > 1 else "claimed"
-        rows.append(r)
-    # Known unclaimed / partially-owned sections surfaced by the index findings
-    for num, title, note in [
-        ("08 31 00", "Access Doors and Panels",
-         "Related to RFP-098 / RFP-100 / RFP-103, primary to none — MEP supply, RFP-060 installs (PM 07.31.26)"),
-        ("12 93 00", "Site Furnishings",
-         "Spans ITB-018 and ITB-019 per its own Section Includes — confirm the athletic-equipment portion"),
-    ]:
-        rows.append({"section": num, "title": title, "by": [], "state": "gap", "note": note})
+    for sec in cat["sections"]:
+        if sec.get("basis") in ("general_conditions", "not_a_technical_section"):
+            continue
+        by = [sec["primary_package"]] + sec.get("also_assigned_by_pm_ruling", [])
+        rows.append({
+            "section": sec["section"], "title": sec["title"], "by": by,
+            "state": ("conflict" if sec.get("conflict")
+                      else "flow" if sec.get("flow_down")
+                      else "claimed"),
+            "basis": sec["basis"],
+            "note": (sec.get("flow_down") or sec["rationale"])[:300],
+            "alsoCited": sec.get("also_cited_by", []),
+        })
+    for num, g in cat.get("cited_but_absent_from_manual", {}).items():
+        rows.append({
+            "section": num, "title": (g.get("title_per_scope_doc") or "") + " — NOT IN MANUAL",
+            "by": g["cited_by"],
+            "state": "closed" if g["status"] != "OPEN" else "gap",
+            "basis": "absent",
+            "note": g["note"][:300],
+            "alsoCited": [],
+        })
+    rows.sort(key=lambda r: r["section"])
     return rows
 
 
 def build_leveling():
-    v2 = load("package-index-v2.json")
-    inv = load("proposal-inventory.json")
-    sm = load("addendum-supersession-map.json")
+    """The leveling register is now the open-items register.
+
+    It is assembled from the indexes by build_open_items.py, so an item closed by
+    a ruling disappears on the next run instead of lingering in a dashboard.
+    """
+    items = load("pm-open-items.json")
+    kind = {"SPEC-C": "OVL", "SPEC-G": "GAP", "SPEC-N": "GAP", "BID-B": "OVL",
+            "BID-T": "GAP", "BID-L": "GAP", "BID-P": "GAP", "BID-U": "GAP",
+            "GMP-0": "OVL", "AWD-0": "GAP", "PROC-": "GAP"}
     reg = []
-
-    for f in v2.get("_findings_for_pm", []):
+    for it in items.get("items", []):
+        pre = it["id"][:5]
         reg.append({
-            "kind": "GAP" if f["severity"] in ("high", "HIGH") else "OVL",
-            "sev": f["severity"], "title": f["title"], "src": "package-index-v2",
-            "pkgs": f.get("packages", []), "detail": f.get("detail", ""),
-            "cites": [[k, str(v)[:400]] for k, v in f.items()
-                      if k in ("why_it_matters", "pm_action", "resolved_by_pm_2026_07_31",
-                               "clarification_2026_07_31", "why_it_still_matters")],
+            "kind": kind.get(pre, "GAP"),
+            "sev": it["severity"],
+            "title": f'[{it["id"]}] {it["title"]}',
+            "src": "pm-open-items",
+            "pkgs": it["packages"],
+            "detail": it["detail"],
+            "cites": [["item", str(it["n"])]],
         })
-    for f in inv.get("_findings_for_pm", []):
-        reg.append({
-            "kind": "GAP" if f["severity"] in ("high",) else "OVL",
-            "sev": f["severity"], "title": f["title"], "src": "proposal-inventory",
-            "pkgs": f.get("packages", []), "detail": f.get("detail", ""),
-            "cites": [[k, str(v)[:400]] for k, v in f.items()
-                      if k in ("why_it_matters", "pm_action", "why_it_still_matters")],
-        })
-
-    a1 = sm["addendum_1"]
-    d = a1["_CRITICAL_DISCREPANCY"]
-    reg.append({
-        "kind": "OVL", "sev": "medium", "title": d["finding"][:90], "src": "supersession-map",
-        "pkgs": [], "detail": d["why_it_still_matters"],
-        "cites": [["pm_action", d["pm_action"]], ["correction", d.get("CORRECTION_2026_07_31", "")[:400]]],
-    })
-    c2 = sm["clarification_2"]["changes"][0]
-    reg.append({
-        "kind": "GAP", "sev": "high", "title": "Prevailing wage — Clark County vs Nye County",
-        "src": "supersession-map", "pkgs": ["ALL 33"], "detail": c2["_FLAG"],
-        "cites": [["Clarification No. 2", c2["content"]]],
-    })
-    order = {"high": 0, "HIGH": 0, "medium": 1, "low": 2, "resolved": 3}
+    order = {"high": 0, "medium": 1, "low": 2}
     reg.sort(key=lambda r: order.get(r["sev"], 9))
     return reg
 
@@ -201,8 +205,8 @@ def main():
             "project": "Tonopah THS Sports Complex",
             "owner": "Nye County School District",
             "delivery": "CMAR / GMP",
-            "bidSet": "Addendum #1 (05.06.26) · Clarification 1 & 2",
-            "totals": load("package-index-v2.json")["_totals"],
+            "bidSet": "Addendum #1 (05.06.26) · Clarifications 1 & 2 · GMP R2 Exhibit B (07.01.26)",
+            "totals": load("package-index.json")["_totals"],
             "coverage": load("file-coverage-audit.json")["_totals"],
         },
     }
