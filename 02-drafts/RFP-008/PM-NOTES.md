@@ -116,6 +116,30 @@ packages carry their own trenching, or the work has no home.
 
 ---
 
+## 7. Three cover-sheet fields I left as CONFIRM
+
+The cover sheet is now built from CORE's own template (`NV Attach A Review Log
+Cover Bluebeam Template 111425`), filling only the cells the template highlights
+in yellow. Verified after the build: **six cells changed and all six are
+highlighted fields** — D3, D4, D13, D15, D16, F19. Merges, column widths, row
+heights, the `=SUM(F19,F21,F23,F25)` total and the `list` sheet are unchanged.
+
+Three highlighted fields are CORE-internal and are not derivable from any bid
+document, so they read **CONFIRM** rather than a guess:
+
+| Field | Cell | Why |
+|---|---|---|
+| Anticipated Material Procurement Date | D15 | Buyout-schedule input, not in the bid set |
+| Anticipated Start Date | D16 | Ditto — the schedule's construction NTP is ~11.23.26, but that is a project milestone, not this sub's start |
+| Phase Code | C19 | CORE cost coding. Note under B19: one phase code per subcontractor, so the full $1,741,321 sits on the single F19 line |
+
+The approver-name cells (B7/B8/B9, E7/E8/E9) are also highlighted in the
+template and still read the role titles. The template's `list` tab offers Roger
+Baum, Merv Giles, Matt Buckhannon, Jim Jacobs. I did not assign names. Note the
+$5M threshold on B9 does not apply here.
+
+---
+
 ## Confirmations already applied
 
 - **Contract amount** reconciles exactly to the GMP R2 leveling sheet tab 8

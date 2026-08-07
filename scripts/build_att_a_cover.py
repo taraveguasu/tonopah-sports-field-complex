@@ -11,9 +11,12 @@ subcontractor's own proposal, scope-option backup, and the descope notes.
 PM direction: the ONLY place to break out pricing is this cover sheet. The
 Attachment A itself carries one LUMP SUM.
 
-The template is a legacy .xls, which openpyxl cannot write, so the cover sheet is
-emitted as .xlsx with the same layout and labels. Noted rather than silently
-swapped -- the file extension changes.
+This opens CORE's own cover-sheet template and fills its cells, the same way
+build_attachment_a.py edits the Word template rather than regenerating it. The
+template highlights its editable fields in yellow -- D3, D4, D13, D15, D16, C19,
+F19, plus the four approver-name cells -- and nothing outside that set is
+touched, so the layout, column widths, row heights, merges, the
+=SUM(F19,F21,F23,F25) total and the 'list' sheet all survive byte-for-byte.
 
 Usage:  python3 scripts/build_att_a_cover.py RFP-008
 """
@@ -28,17 +31,28 @@ from openpyxl.styles import Alignment, Border, Font, Side
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "01-index" / "attachment-a-content"
 OUT = ROOT / "02-drafts"
+TEMPLATE = (ROOT / "00-source-docs" / "05-supplemental" / "attachment-a-process" /
+            "NV Attach A Review Log Cover Bluebeam Template 111425.xlsx")
 
 PROJECT = "NCSD - Tonopah High School Sports Field Replacement"
 PROJECT_NO = "26-01-019"
+
+# Cells the template fills in yellow. Writing anywhere else is a template edit,
+# not a fill-in, so the build refuses to do it.
+EDITABLE = {"D3", "D4", "D13", "D15", "D16", "C19", "F19",
+            "B7", "B8", "B9", "E7", "E8", "E9"}
 
 BOLD = Font(bold=True)
 THIN = Side(style="thin")
 BOX = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
 
 
-def money(v):
-    return f"${v:,.2f}"
+def put(ws, coord, value, number_format=None):
+    if coord not in EDITABLE:
+        raise ValueError(f"{coord} is not a highlighted field in the template")
+    ws[coord] = value
+    if number_format:
+        ws[coord].number_format = number_format
 
 
 def build(pkg):
@@ -46,56 +60,28 @@ def build(pkg):
     dest = OUT / pkg
     dest.mkdir(parents=True, exist_ok=True)
 
-    wb = openpyxl.Workbook()
-    ws = wb.active
-    ws.title = "cover sheet"
-    for col, w in (("A", 3), ("B", 34), ("C", 20), ("D", 22), ("E", 20), ("F", 18)):
-        ws.column_dimensions[col].width = w
+    wb = openpyxl.load_workbook(TEMPLATE)
+    ws = wb["cover sheet"]
 
-    ws["D2"] = "Attachment A Review Log"; ws["D2"].font = Font(bold=True, size=14)
-    ws["D3"] = PROJECT
-    ws["D4"] = PROJECT_NO
-    for r in (3, 4):
-        ws[f"D{r}"].font = BOLD
+    put(ws, "D3", PROJECT)
+    put(ws, "D4", PROJECT_NO)
+    put(ws, "D13", spec["_subcontractor"])
 
-    ws["B6"], ws["C6"], ws["E6"], ws["F6"] = ("Approved By", "Approval Stamp",
-                                              "Reviewed By", "Reviewed Stamp")
-    for c in ("B6", "C6", "E6", "F6"):
-        ws[c].font = BOLD
-        ws[c].border = BOX
-        ws[c].alignment = Alignment(horizontal="center")
-    for i, (a, b) in enumerate([("Project Director", "Project Manager"),
-                                ("General Superintendent", "Superintendent"),
-                                ("Tim Roley or Matt Wade (if over $5M)",
-                                 "Assistant PM (if applicable)")], start=7):
-        ws[f"B{i}"], ws[f"E{i}"] = a, b
-        for c in (f"B{i}", f"C{i}", f"E{i}", f"F{i}"):
-            ws[c].border = BOX
+    # Dates and the phase code are CORE-internal and are not derivable from the
+    # bid documents. Blanked with a visible placeholder rather than guessed --
+    # the date format is cleared so the text shows instead of a serial date.
+    for coord in ("D15", "D16"):
+        put(ws, coord, "CONFIRM", number_format="General")
+    put(ws, "C19", spec.get("phase_code") or "CONFIRM")
 
-    ws["B11"] = ("Final Session; add Invitees: Anne Tall, Erin Hicks, "
-                 "Kathleen Hamilton, Liz Pippett, Inger Pippett")
-
-    ws["B13"] = "Subcontractor:"; ws["B13"].font = BOLD
-    ws["D13"] = spec["_subcontractor"]
-
-    ws["B15"] = "Anticipated Material Procurement Date:"
-    ws["D15"] = "CONFIRM"
-    ws["B16"] = "Anticipated Start Date:"
-    ws["D16"] = "CONFIRM"
-    for c in ("D15", "D16"):
-        ws[c].font = Font(bold=True, color="FF0000")
-
-    ws["B19"] = "*Phase Code"
-    ws["C19"] = spec.get("phase_code", "CONFIRM")
-    ws["E19"] = "Dollar Amount"
-    ws["F19"] = money(spec["_contract_amount"])
-    ws["B20"] = "    *Only one Phase Code Per Subcontractor/Vendor per Tim Roley"
-
-    ws["B27"] = "TOTAL (should equal contract total)"; ws["B27"].font = BOLD
-    ws["E27"] = money(spec["_contract_amount"]); ws["E27"].font = BOLD
+    # One phase code per subcontractor (note under B19), so the whole contract
+    # amount lands on the single F19 line and E27's SUM picks it up.
+    put(ws, "F19", float(spec["_contract_amount"]))
 
     # ---- the separate summary sheet: how we got to the contract amount -------
-    s = wb.create_sheet("contract amount summary")
+    if "contract amount summary" in wb.sheetnames:
+        del wb["contract amount summary"]
+    s = wb.create_sheet("contract amount summary", 1)
     s.column_dimensions["A"].width = 72
     s.column_dimensions["B"].width = 18
     s["A1"] = f"How we got to the contract amount — {pkg} — {spec['_subcontractor']}"
