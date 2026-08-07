@@ -1,0 +1,206 @@
+{
+  "_document": "Exhibit B — Basis of Guaranteed Maximum Price",
+  "_project": "Tonopah High School Sports Field Replacement, Nye County School District",
+  "_date": "2026-07-01",
+  "_pages_captured": "4 through 7 of 7, plus the 1% Subcontractor Listing",
+  "_source": "Prime Contract exhibit provided by PM 2026-08-04 (images IMG_2523–IMG_2527)",
+  "_authority": {
+    "rank": "TOP — treat as an addendum. Supersedes the base bid documents.",
+    "basis": "PM direction 2026-08-04: negotiated with the Owner to reduce overall cost, to be issued as a forthcoming revision, and to be treated like an addendum superseding the base bid documents.",
+    "status": "Forthcoming revision — not yet formally issued as a numbered addendum. Cite as Exhibit B, Basis of GMP, 07.01.2026."
+  },
+
+  "_commercial_terms": {
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax.",
+    "_SUPERSEDES": "Clarification No. 2 (05.07.26) replaced the prevailing wage section and directed bidders to CLARK County rates. The GMP is built on Southern Nevada Rural Region. The GMP governs. This closes review-packet item B3."
+  },
+
+  "scope_specific_assumptions": {
+    "RFP-002": {"title": "Abatement & Building Wrecking", "items": [
+      "Only includes abatement of existing elementary school buildings to be demolished."]},
+
+    "RFP-008": {"title": "Site Demolition, Earthwork, Asphalt Paving & Wet Utilities", "items": [
+      "Assumes all spoils generated for all scopes can be stockpiled at existing location North of High School.",
+      "RCP flared end for field storm drain discharge. (Owner Accepted Alternate, replaces CIP concrete headwall detail)",
+      "Existing main access road to remain as-is. (Owner Accepted Alternate, removes grading scope at access road leading to existing parking area)"],
+      "owner_accepted_alternates": 2},
+
+    "RFP-016": {"title": "Landscape & Irrigation", "items": [
+      "Includes raking areas with no groundcover to 5' outside fence line. Dust palliative or soil stabilization is excluded."]},
+
+    "RFP-021": {"title": "Running Track Surfacing", "items": [
+      "Standard font lettering included for track surfacing.",
+      "Includes 24 month warranty for track surface striping."]},
+
+    "RFP-022": {"title": "Synthetic Turf Sports Field", "items": [
+      "Matrix Helix 46 oz turf.",
+      "Elia Renufill and Realfill infill.",
+      "Includes standard lettering.",
+      "SOTERIA 20mm pad."],
+      "note": "Names the actual turf system, infill and pad. The bid documents left basis-of-design open."},
+
+    "RFP-023": {"title": "Fencing & Gates", "items": [
+      "Includes fencing at abandoned Elementary School Building 4 per detail AD1.13.",
+      "Fencing provided at underside of bleachers, only."]},
+
+    "RFP-030": {"title": "Concrete", "items": [
+      "Does not include concrete pad under existing visitors bleachers in area shown in red on the exhibit graphic.",
+      "Includes bleacher footings based on manufacturer provided foundation design. (Owner Accepted Alternate, replaces bleacher foundation design shown on drawings)"],
+      "owner_accepted_alternates": 1,
+      "note": "The bleacher footing alternate supersedes the foundation design on the structural drawings. Any exhibit citing S1-40 for bleacher foundations must reflect this."},
+
+    "RFP-033": {"title": "Structural Steel & Ornamental Metals", "items": [
+      "Includes new canopy posts at abandoned Elementary School canopy ILO salvaged post reinstallation.",
+      "Structural loads assumed for concessions building roof framing included: 366 TL/251 live load; 43.7 PSF snow load; 17.3 PSF dead load."]},
+
+    "RFP-045": {"title": "Metal Roofing, Fascia & Soffit Panels", "items": [
+      "Includes standard color Berridge C-Lock metal roof system.",
+      "Includes standard brake metal for fascia and soffits."],
+      "_CONFLICT": "Clarification No.1 RFI #23 ruled that spec 07 61 00 (MBCI PBR panel basis of design) takes precedence over the plan callout of Berridge Cee-lock. The GMP is priced on BERRIDGE C-Lock. The GMP is the later document and the PM directs it supersedes — but this reverses a written RFI answer, so confirm before RFP-045 issues."},
+
+    "ITB-054": {"title": "Special Doors", "items": [
+      "Includes manual, galvanized finish OH Doors. (Owner Accepted Alternate, ILO motorized aluminum OH Doors specified)"],
+      "owner_accepted_alternates": 1,
+      "note": "Supersedes the specified motorized aluminum overhead doors. Also interacts with the Door 106 panic hardware exclusion below."},
+
+    "RFP-060": {"title": "Framing, Drywall & Painting", "items": [
+      "Included R10 2\" rigid insulation at exterior walls of concessions building.",
+      "Included R38 insulation at underside of roof deck."]},
+
+    "ITB-067": {"title": "Concrete Finishing", "items": [
+      "Sealed Concrete. (Owner Accepted Alternate, at locations shown as Epoxy/Resinous Flooring)"],
+      "owner_accepted_alternates": 1,
+      "_RESOLVES": "Read with the exclusion of Resinous/Epoxy Flooring, this deletes ITB-066 Fluid-Applied Flooring as a scope and moves those locations to sealed concrete under ITB-067. Closes review-packet items B1 (ITB-066 had no spec source) and B4 (065 sealed concrete boundary)."},
+
+    "ITB-074": {"title": "Building & Fire Protection Accessories", "items": [
+      "Includes corner guards at 4 feet AFF."]},
+
+    "ITB-077": {"title": "Lockers", "items": [
+      "ASI Pro Collection per Addendum 1 Interior Elevations (image, only, provided, no revised callout)."],
+      "note": "Confirms the PM ruling that Clarification No.1 RFI #3 governs, and acknowledges the addendum removed the drawn callout."},
+
+    "ITB-078": {"title": "Flagpoles", "items": [
+      "Furnish and Install (1) Flagpole. (Owner Accepted Alternate, delete two of three flagpoles shown)"],
+      "owner_accepted_alternates": 1},
+
+    "ITB-089": {"title": "Scoreboard", "items": [
+      "Includes wireless controller."],
+      "note": "Read with the exclusion of wired communication connection to scoreboard."},
+
+    "RFP-094": {"title": "Bleacher & Press Box (SUPPLY)", "items": [
+      "Low voltage junction boxes, only (Low Voltage systems by 103 Electrical & Low Voltage Systems).",
+      "26 gauge sheet metal siding over steel framing.",
+      "Gypsum wall board at interior face of walls, vinyl faced, with R-13 insulation.",
+      "R-19 insulation at floor & roof.",
+      "Roof to be 1/8\" thick steel plate, fully welded, with elastomeric coating, flashing and sealants as required around perimeter where meets vertical siding system.",
+      "100A breaker panel."],
+      "_SCOPE_BOUNDARY": "The heading states SUPPLY. A1-20's Site Equipment Matrix designates Bleachers and Press Box as CFCI (contractor furnished, contractor installed). Installation responsibility must be named explicitly — this is review-packet item B5."},
+
+    "RFP-103": {"title": "Electrical & Low Voltage Systems", "items": [
+      "Includes surface mounted conduit, boxes, devices, and light fixtures for electrical and low voltage systems located in press box and ticket booth."]},
+
+    "RFP-109": {"title": "Prefabricated Ticket Booth", "items": [
+      "DURASTEEL PC Building, Model PC64 (6' x 4' Nominal), by Porta-King Building Systems.",
+      "Includes (2) duplex receptacles and (1) exterior flood light.",
+      "Sliding ticket window."],
+      "_RESOLVES": "RFP-109 had no primary specification from any source. This names the manufacturer and model outright. Closes that part of review-packet item B1."}
+  },
+
+  "exclusions": [
+    "Typical Project \"Soft Costs\" unless otherwise specified. These include, but are not limited to: design professional costs, permits and fees, utility connection charges, land acquisition, legal fees, equipment and furnishings, etc.",
+    "Testing, special inspections, and any associated overtime or staff and resource costs for additional inspections not required by Code, permit, or the contract documents requirements or determined by the Design Team (i.e. abatement, geotechnical, concrete, reinforcing steel, deep foundations, shoring, masonry, structural steel, welding, fireproofing, water testing, etc.).",
+    "CMAR does not warrant or guarantee that the Contract Documents comply with Authorities Having Jurisdiction (AHJ), or local regulations or requirements. This is the responsibility of the Architect, and CMAR assumes all requirements have been incorporated into the Contract Documents.",
+    "Any changes that result in cost and/or schedule implications due to AHJ comments, rulings and/deviations from the bid set are excluded and shall be funded from Owner's Contingency, outside of the GMP.",
+    "Cost and/or schedule-related impacts from other projects in the adjacent streets, roadways, alleyways, and neighboring buildings unless covered elsewhere in the Proposal. If other Projects are concurrent with CMAR's work, Owner shall strive to advise CMAR within 10 calendar days in an effort to mitigate cost- and schedule-related impacts.",
+    "Hazardous material remediation / encapsulation (lead, asbestos, mold, etc.) in addition to the quantities specifically identified in the Pre-Demolition Asbestos Survey prepared by Environmental Inspection & Control Services (EICS), dated October 3, 2023, issued by Nye County School District.",
+    "\"Loose\" furniture, fixtures and equipment (FF&E).",
+    "Power company / communication companies (telephone / internet) / gas company costs other than trenching, backfill, conduits and coordination.",
+    "Salvaging and relocation of any existing equipment or furnishings, unless otherwise specified.",
+    "Active Network Equipment (Servers, Switches, etc...).",
+    "Scope/items identified as alternates, unless otherwise indicated in this proposal.",
+    "Existing ES - Abatement of buildings to remain.",
+    "Existing ES - Demo or abatement of existing underground utilities.",
+    "Existing ES – Salvaging of owner items.",
+    "Existing ES - Demo Alternate shown on sheet AD1.16.",
+    "Off-Site improvements.",
+    "Rip rap",
+    "Demolition of existing underground utilities, except within building footprint, unless specified on Utility plans",
+    "Fencing under press box",
+    "Faced batt insulation, except at underside of roof deck.",
+    "Soccer goals.",
+    "Exterior building murals",
+    "Fire sprinkler systems",
+    "Fire alarm systems",
+    "Trash receptacles at Restrooms or elsewhere in buildings",
+    "Panic hardware at Door 106 per Door Schedule Remark 2. Hardware provided per specification section 08711 Door Hardware, Hardware Set 01",
+    "Heat or cooling of Vestibule 112, which contains drinking fountains (none indicated)",
+    "Show lighting at Field",
+    "Ground cover, dust palliative, or stabilization of disturbed soils",
+    "Offsite haul-off of spoils generated by the work",
+    "Wired communication connection to scoreboard",
+    "BMS controls system and related work",
+    "Lights for flagpole (none indicated)",
+    "Resinous/Epoxy Flooring"
+  ],
+
+  "one_percent_subcontractor_listing": [
+    {"scope": "General Conditions & Requirements", "sub": "CORE Construction", "license": "0006144A", "package": "SELF-PERFORM"},
+    {"scope": "Abatement & Building Wrecking", "sub": "Northstar Contracting Group", "license": "0044001", "package": "RFP-002"},
+    {"scope": "Site Demo, Earthwork, Asphalt Paving & Wet Utilities", "sub": "TAB Contractors (New-Com)", "license": "0021801", "package": "RFP-008"},
+    {"scope": "Irrigation", "sub": "Black Canyon", "license": "0060235", "package": "RFP-016",
+     "note": "Listed as IRRIGATION only, not Landscaping & Irrigation — the landscaping portion's owner remains unconfirmed."},
+    {"scope": "Running Track Surfacing", "sub": "Elite Sports Builders", "license": "0081920", "package": "RFP-021"},
+    {"scope": "Synthetic Sports Field", "sub": "CG&B Enterprises", "license": "0039691", "package": "RFP-022"},
+    {"scope": "Fencing & Gates", "sub": "Tahoe Fence Company", "license": "0053722A", "package": "RFP-023"},
+    {"scope": "Concrete", "sub": "Sahara Concrete", "license": "0042163A", "package": "RFP-030"},
+    {"scope": "Masonry", "sub": "Henderson Masonry", "license": "0052532A", "package": "RFP-031"},
+    {"scope": "Structural Steel & Ornamental Metals", "sub": "Corona Steel", "license": "0085569", "package": "RFP-033"},
+    {"scope": "Metal Roofing, Fascia & Soffit Panels", "sub": "Foursquare Roof and Walls", "license": "0077998 / 0077999", "package": "RFP-045"},
+    {"scope": "Framing, Drywall & Painting", "sub": "Jetstream Construction", "license": "0043791 / 0050479", "package": "RFP-060"},
+    {"scope": "Plumbing Systems", "sub": "US Mechanical", "license": "0057582", "package": "RFP-098"},
+    {"scope": "HVAC Systems", "sub": "US Mechanical", "license": "0031212A", "package": "RFP-100"},
+    {"scope": "Electrical & Low Voltage Systems", "sub": "Quantum Electric", "license": "0092278", "package": "RFP-103"}
+  ],
+
+  "_resolves": [
+    {"item": "B3 Prevailing wage", "resolution": "Southern Nevada Rural Region 2025-2026. Clarification No.2's Clark County direction is superseded by the GMP."},
+    {"item": "Fire alarm ASI (task 16)", "resolution": "Fire alarm systems are listed in the GMP Exclusions. This is the written instrument the no-fire-alarm direction was waiting on. RFP-103 excludes fire alarm, citing Exhibit B Basis of GMP 07.01.2026."},
+    {"item": "B1 — RFP-109 no spec source", "resolution": "Porta-King DURASTEEL PC Building, Model PC64 (6'x4' nominal)."},
+    {"item": "B1 / B4 — ITB-066 no spec source, 065 sealed concrete boundary", "resolution": "Resinous/Epoxy Flooring is excluded outright; those locations become Sealed Concrete under ITB-067 as an Owner Accepted Alternate. ITB-066 has no remaining scope."},
+    {"item": "ITB-077 basis of design", "resolution": "ASI Pro Collection confirmed, consistent with Clarification No.1 RFI #3."},
+    {"item": "RFP-022 basis of design", "resolution": "Matrix Helix 46 oz turf, Elia Renufill/Realfill infill, SOTERIA 20mm pad."},
+    {"item": "Awarded subs", "resolution": "All 15 listed scopes match awarded-sub-mapping.json. RFP-094 and RFP-109 are absent from the 1% listing, consistent with supply-only and under the $50k/1% threshold."}
+  ],
+
+  "_new_flags_for_pm": [
+    {"id": "GMP-01", "severity": "high",
+     "title": "Berridge C-Lock in the GMP reverses RFI #23",
+     "detail": "Clarification No.1 RFI #23 answered that spec 07 61 00 (MBCI PBR panel BOD) takes precedence over the plan callout of Berridge Cee-lock. The GMP is priced on the Berridge C-Lock system. The GMP is later and the PM directs it supersedes, but this overturns a written architect's RFI answer. Confirm before RFP-045 issues.",
+     "packages": ["RFP-045"]},
+    {"id": "GMP-02", "severity": "high",
+     "title": "Door 106 panic hardware exclusion is ambiguous",
+     "detail": "The exclusion reads: 'Panic hardware at Door 106 per Door Schedule Remark 2. Hardware provided per specification section 08711 Door Hardware, Hardware Set 01'. It is unclear whether panic hardware is excluded outright, or whether Remark 2's hardware is excluded and Hardware Set 01 substituted. Door 106 is the concessions overhead counter shutter area and this is a life-safety item.",
+     "packages": ["ITB-056", "ITB-054"]},
+    {"id": "GMP-03", "severity": "medium",
+     "title": "Trash receptacle exclusion vs the CFCI Site Equipment Matrix",
+     "detail": "Excludes 'Trash receptacles at Restrooms or elsewhere in buildings'. Sheet A1-20's Site Equipment Matrix designates a Trash Receptacle as CFCI under ITB-018 Site Furnishings. Site receptacles appear to remain in scope while building ones are out — confirm the boundary so ITB-018 is not written to include both or neither.",
+     "packages": ["ITB-018"]},
+    {"id": "GMP-04", "severity": "medium",
+     "title": "Several ITB packages are unaddressed by the Basis of GMP",
+     "detail": "No scope assumption or exclusion covers ITB-008 Surveying, ITB-019 Track & Field Athletic Equipment (beyond excluding soccer goals), ITB-040, ITB-044, ITB-056, ITB-062, ITB-071, ITB-072, or ITB-085 Warming Kitchen Food Service Equipment. With 'Loose FF&E' excluded, whether the warming kitchen equipment is in or out is not established.",
+     "packages": ["ITB-085", "ITB-019", "ITB-008", "ITB-040", "ITB-044", "ITB-056", "ITB-062", "ITB-071", "ITB-072"]},
+    {"id": "GMP-05", "severity": "medium",
+     "title": "Final cleaning likely sits in CORE's General Conditions",
+     "detail": "The 1% listing shows CORE Construction self-performing 'General Conditions & Requirements' (license 0006144A). That is the probable home of the '070 Final Cleaning' proposals that match no package — review-packet item B2. Confirm.",
+     "packages": ["SELF-PERFORM"]},
+    {"id": "GMP-06", "severity": "medium",
+     "title": "Owner Accepted Alternates supersede drawn details",
+     "detail": "Six Owner Accepted Alternates change scope from the bid set: RCP flared end replaces the CIP concrete headwall detail; access road grading removed; bleacher footings per manufacturer design replace the drawn foundation design; manual galvanized OH doors replace motorized aluminum; sealed concrete replaces epoxy/resinous flooring; one flagpole instead of three. Every exhibit citing the superseded detail must reflect the alternate.",
+     "packages": ["RFP-008", "RFP-030", "ITB-054", "ITB-067", "ITB-078"]},
+    {"id": "GMP-07", "severity": "low",
+     "title": "Asbestos survey date differs from the staged file",
+     "detail": "The exclusion cites the EICS Pre-Demolition Asbestos Survey dated October 3, 2023. The staged file is '04.03 - Asbestos Survey_EICS 100323.pdf' — 10/03/23, consistent. Quantities beyond that survey are excluded, so the survey's quantities are the contractual baseline for RFP-002.",
+     "packages": ["RFP-002"]}
+  ]
+}

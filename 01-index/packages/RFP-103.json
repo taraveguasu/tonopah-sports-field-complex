@@ -1,0 +1,946 @@
+{
+  "_package_id": "RFP-103",
+  "_title": "Electrical & Low Voltage Systems (incl. Sports Field Lighting)",
+  "_title_variants_in_source": [
+    "Electrical & Low Voltage Systems"
+  ],
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 103 Electrical & Low Voltage Systems.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "26 00 10",
+        "title": "GENERALELECTRICAL REQUIREMENTS (Page 1of22)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "418-439",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 00",
+        "title": "COMMONWORKRESULTSFOR ELECTRICAL (Page 1of6)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "440-445",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 05",
+        "title": "SelectiveDemolitionforElectrical (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "446-447",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 19",
+        "title": "Low-VoltageElectricalPower ConductorsandCables (Page 1of6)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "448-453",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 26",
+        "title": "GroundingandBondingfor ElectricalSystems (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "454-455",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 29",
+        "title": "HangersandSupportsforElectrical Systems (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "456-458",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 33.13",
+        "title": "ConduitforElectricalSystems (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "459-462",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 33.16",
+        "title": "BoxesforElectricalSystems (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "463-466",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 53",
+        "title": "IdentificationforElectricalSystems (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "467-469",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 05 83",
+        "title": "WiringConnections (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "470-471",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 08 00",
+        "title": "ElectricalTestingandCommisioning Requirements (Page 1of5)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "472-476",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 09 23",
+        "title": "LightingControlDevices (Page 1of7)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "477-483",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 22 00",
+        "title": "Low-VoltageTransformers (Page 1of5)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "484-488",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 24 16",
+        "title": "Panelboards (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "489-492",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 27 26",
+        "title": "WiringDevices (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "493-496",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 28 13",
+        "title": "Fuses (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "497-498",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 28 16.16",
+        "title": "EnclosedSwitches (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "499-501",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 29 13",
+        "title": "EnclosedControllers (Page 1of2)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "502-503",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 43 00",
+        "title": "SurgeProtectiveDevices (Page 1of3)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "504-506",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 51 00",
+        "title": "InteriorLighting (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "RFP-103's scope doc cites Division 26 at division level. Cite this section explicitly in Attachment A.",
+        "manual_pages": "507-510",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "26 56 00",
+        "title": "ExteriorLighting (Page 1of4)",
+        "basis": "trade_judgment",
+        "rationale": "Exterior lighting, which on this project includes the Musco sports field lighting named in RFP-103's title. Musco's footing information is filed with the proposals; the footings themselves are RFP-030 per the 07.31.26 ruling.",
+        "manual_pages": "511-514",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "27 00 00",
+        "title": "Communications - General (Page 1 of 7)",
+        "basis": "trade_judgment",
+        "rationale": "Low voltage is in RFP-103's title. RFP-100 also mentions Division 27, for its control wiring. NOTE: fire alarm is an express GMP Exclusion per Exhibit B (08.04.26) -- no fire alarm scope flows down with this section.",
+        "manual_pages": "515-521",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-27-communications.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "03 30 00",
+        "title": "Cast-In-Place Concrete",
+        "primary_package": "RFP-030",
+        "note": "Every package with equipment on a footing cites it; RFP-030 builds them all."
+      },
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      },
+      {
+        "section": "08 31 00",
+        "title": "Access Doors and Panels",
+        "primary_package": "RFP-060",
+        "note": "A designed supply/install split, not a dispute -- MEP supply, RFP-060 installs. The section must appear in all four subcontracts with the split stated."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "07 84 00": {
+        "title_per_scope_doc": "Firestopping",
+        "status": "CLOSED BY PM RULING",
+        "note": "Firestopping. Absent from the manual, cited by RFP-103. CLOSED BY PM RULING 08.05.26 -- there are no fire-rated assemblies on this project, so IBC 714 penetration firestopping has nothing to apply to. See pm_resolution for the four sources checked. Documentation gap, not a construction risk.",
+        "carried_by": null,
+        "ownership_ruling": null,
+        "how_to_write_it": null,
+        "candidates": []
+      },
+      "08 71 00": {
+        "title_per_scope_doc": "Door Hardware",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Door Hardware. Added by Addendum #1 (05.06.26) and therefore a contract document, but not in the base manual -- read it from the addendum, not here. Cited by both ITB-056 and RFP-103 (the latter for electrified hardware).",
+        "carried_by": null,
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 08 71 00. Put the words \"Door Hardware\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-12",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-12.txt"
+      },
+      {
+        "sheet": "A1-13",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-13.txt"
+      },
+      {
+        "sheet": "A11-10",
+        "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A11-10.txt"
+      },
+      {
+        "sheet": "A4-20",
+        "title": "ROOF DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-20.txt"
+      },
+      {
+        "sheet": "A9-20",
+        "title": "ENLARGED PLANS - CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-20.txt"
+      },
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "AD1.11",
+        "title": "DEMOLITION PLAN - ES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.11.txt"
+      },
+      {
+        "sheet": "AD1.13",
+        "title": "ENLARGED DEMO PLAN BLDG 4",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.13.txt"
+      },
+      {
+        "sheet": "AD1.15",
+        "title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.15.txt"
+      },
+      {
+        "sheet": "AD1.16",
+        "title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1.16.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-02",
+        "title": "LIGHTING FIXTURE SCHEDULE & IECC COMPLIANCE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-02.txt"
+      },
+      {
+        "sheet": "E0-03",
+        "title": "SINGLE LINE DIAGRAM, PANEL SCHEDULE, AND LIGHTING FIXTURE SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-03.txt"
+      },
+      {
+        "sheet": "E0-04",
+        "title": "FIELD LIGHTING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-04.txt"
+      },
+      {
+        "sheet": "E0-05",
+        "title": "FIELD LIGHTING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-05.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "E0-11",
+        "title": "TECHNOLOGY DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-11.txt"
+      },
+      {
+        "sheet": "E1-10",
+        "title": "ELECTRICAL SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E1-10.txt"
+      },
+      {
+        "sheet": "E2-10",
+        "title": "ELECTRICAL AND LIGHTING PLANS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E2-10.txt"
+      },
+      {
+        "sheet": "E3-00",
+        "title": "OVERALL TECHNOLOGY SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-00.txt"
+      },
+      {
+        "sheet": "E3-10",
+        "title": "TECHNOLOGY SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-10.txt"
+      },
+      {
+        "sheet": "E3-20",
+        "title": "TECHNOLOGY PLANS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-20.txt"
+      },
+      {
+        "sheet": "E4-10",
+        "title": "ELECTRICAL ROOF PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E4-10.txt"
+      },
+      {
+        "sheet": "ED1-10",
+        "title": "DEMOLITION ELECTRICAL SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/ED1-10.txt"
+      },
+      {
+        "sheet": "ED3-10",
+        "title": "DEMOLITION TECHNOLOGY AND AUDIO VISUAL SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/ED3-10.txt"
+      },
+      {
+        "sheet": "G0-00",
+        "title": "COVER SHEET",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/G0-00.txt"
+      },
+      {
+        "sheet": "G0-11",
+        "title": "TYPICAL SIGNAGE & ACCESSBILITY REQUIREMENTS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G0-11.txt"
+      },
+      {
+        "sheet": "GD",
+        "title": "GRADING DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/GD.txt"
+      },
+      {
+        "sheet": "L0.00",
+        "title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L0.00.txt"
+      },
+      {
+        "sheet": "L1.03",
+        "title": "LANDSCAPE CONSTRUCTION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.03.txt"
+      },
+      {
+        "sheet": "L2.01",
+        "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.01.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "L2.03",
+        "title": "IRRIGATION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.03.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "M2-10",
+        "title": "MECHANICAL PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M2-10.txt"
+      },
+      {
+        "sheet": "P0-10",
+        "title": "PLUMBING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-10.txt"
+      },
+      {
+        "sheet": "P4-10",
+        "title": "PLUMBING ROOF PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P4-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      },
+      {
+        "sheet": "S3-00",
+        "title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S3-00.txt"
+      },
+      {
+        "sheet": "S4-00",
+        "title": "TYPICAL MASONRY SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S4-00.txt"
+      },
+      {
+        "sheet": "S4-01",
+        "title": "FRAMING DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S4-01.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-10",
+      "A10-10",
+      "A2-10",
+      "A2-40",
+      "A4-10",
+      "A5-10",
+      "A7-10",
+      "AD1.12",
+      "AD1.14",
+      "E0-13",
+      "LS1-10",
+      "M0-05",
+      "M4-10",
+      "P0-05",
+      "P1-10",
+      "S2-10"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Electrical & Low Voltage Systems (incl. Sports Field Lighting)",
+    "awarded_sub": "Quantum Electric",
+    "license_no": "0092278",
+    "proposal_price": 937714.0,
+    "proposal_file": "103 Electrical & Low Voltage - Quantum (w backup).pdf",
+    "other_bidders": [
+      "Conti",
+      "JW Electric",
+      "Kill A Watt",
+      "Wheeler's Electric"
+    ],
+    "descope_files_present": false,
+    "status": "awarded",
+    "note": "RFP title includes Sports Field Lighting -- confirm Quantum's proposal explicitly carries this scope, since it's a common gap-zone item between electrical and specialty sports-lighting subs."
+  },
+  "bidders": [
+    {
+      "firm": "Conti LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Conti (value only).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 1402936,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "JW Electrical",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/JW Electric Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-19",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - JW Electric (backup, no Form).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Assume hard dig",
+        "Assume drill rig for light poles (No final price from sub)",
+        "Assume 14\u2019x6\u2019 base for poles",
+        "Assume the conduit run to be out of the track",
+        "Includes trenching from concessions to the existing school",
+        "Assume temporary power from the existing ticket booth.",
+        "Includes removal of feeders and fire alarm for school demo",
+        "Includes coordination with Masonry for penetrations",
+        "Assume sealing all penetrations",
+        "Assume demo and removal of existing light poles",
+        "Includes electrical and low voltage",
+        "Includes trenching",
+        "Includes equipment hook-up",
+        "Includes press box electrical and low voltage",
+        "Includes salvage and reinstall for AV equipment",
+        "Includes storage",
+        "Includes temporary lighting",
+        "Includes lighting control for concessions",
+        "Includes lighting controls for Muscko lights",
+        "Includes integration of owner-supplied cameras",
+        "Includes backboard for IT rooms",
+        "Includes fire caulking (No fire-rated walls)",
+        "Includes prevailing wage and zone pay"
+      ],
+      "exclusions_scope_specific": [
+        "Clarify \u201cNew Speakers\u201d and where to be installed.",
+        "Apprenticeship program is in effect for this project",
+        "10% of total man-hours NEED to come from an apprentice",
+        "Does not include spoil haul off/storing",
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope",
+        "Excludes spider boxes",
+        "Excludes fire alarm"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Kill A Watt LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Kill A Watt (no backup, no Form).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 2033200,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Musco",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 SPORTS LIGHTING - Musco (Footing info).pdf.txt",
+      "current_date": "2026-05-11",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Quantum Electric",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Response R4 (Delete LV Pathway to HS).pdf.txt",
+      "current_date": "2026-06-01",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Quantum (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse R3.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Quantum Scope Review Meeting Agenda.docx.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric - OH Door 106A Power.pdf.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse.pdf.txt"
+      ],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [
+        "Supply and install of building lighting and lighting controls per plans.",
+        "Supply and install of Musco sports lighting and lighting controls per plans.",
+        "Supply and install on new panel CB, mini-power zone panel PB, 5KVA transformer, (2) TVSS, new breakers in",
+        "existing switchboard, and disconnect switches per plans.",
+        "Remove existing power service to Concession Building, Press Box, and scoreboard.",
+        "Remove circuiting and speakers on existing wood light poles. Remove and dispose of wood poles.",
+        "Junction boxes and conduit to accessible ceiling for CCTV, data, and speakers. Underground conduits for data,",
+        "speakers, and future fire alarm.",
+        "Any associated conduit, wire, cable, junction boxes, wiring devices, and terminations per plans.",
+        "Temporary power. (Temporary lighting if applicable not included).",
+        "Supply and install CAT6A/OSP fiber between new building and existing school.",
+        "Supply and install of new speakers and horns in Concession per plans.",
+        "Supply and install all CAT6A and CAT6 cabling and jacks per plans.",
+        "Remove existing pole field sound system and reinstall on new poles and in press box. (We cannot guarantee",
+        "the Sound system quality since existing equipment will be reused. No existing equipment shown in pictures",
+        "allows for any adjustments beyond volume).",
+        "Install owner supplied cameras.",
+        "Lift equipment.",
+        "Storage container.",
+        "Crane to stand sports light poles.",
+        "Excavation and backfill for electrical trenching using conventional excavation equipment. Excavate around",
+        "existing wood poles for removal.",
+        "Prevailing wages applied.",
+        "Textura fee included.",
+        "Hard Dig Alternate 01: T&M rate to supply 60,000 lb excavator and hydraulic hammer for rock excavation.",
+        "Alternate 103.01: Electrical Demo at Elementary School. (See separate proposal).",
+        "Deductive Alternate 03: Remove Showlight & RGBW option from Musco poles.",
+        "Deductive Alternate 04: Remove lights, receptacles, branch circuit conduits, and wire for Press Box.",
+        "Alternate 05: Electrical excavation 100% hard dig.",
+        "Alternate 06: Concrete foundations for (4) Musco poles. (Excavation excluded).",
+        "Deductive Alternate 07: Remove (2) 2\u201d conduits from existing high school to low voltage junction boxes at",
+        "sports field. Remove OSP CAT 6 and 6-Strand MM fiber optic cable. Delete excavation based on regular",
+        "digging conditions."
+      ],
+      "exclusions_scope_specific": [
+        "Items not included under this proposal.",
+        "Any permit or utility fees.",
+        "Any temperature controls.",
+        "Any fire alarm. (Not applicable).",
+        "Excavation and concrete for Musco light pole foundations.",
+        "Hard rock excavation. (See alternate add pricing if applicable).",
+        "Configuration of new camera system and paging/intercom to work with existing system. (By NCSD).",
+        "State of Nevada Contractors License No.: 0092278",
+        "Base Electrical Price: $937,714.00",
+        "Hard Dig Alternate: $735.00 per cubic yard (T&M rate)."
+      ],
+      "clarifications": [],
+      "priced_line_items": [
+        "Alternate 103.01: $41,564.00",
+        "Alternate 05: $71,516.00",
+        "Alternate 06: $33,102.00"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Quantum (w backup).pdf.txt",
+          "date": "2026-05-11",
+          "inclusions": [
+            "Supply and install of building lighting and lighting controls per plans.",
+            "Supply and install of Musco sports lighting and lighting controls per plans.",
+            "Supply and install on new panel CB, mini-power zone panel PB, 5KVA transformer, (2) TVSS, new breakers in",
+            "existing switchboard, and disconnect switches per plans.",
+            "Remove existing power service to Concession Building, Press Box, and scoreboard.",
+            "Remove circuiting and speakers on existing wood light poles. Remove and dispose of wood poles.",
+            "Junction boxes and conduit to accessible ceiling for CCTV, data, and speakers. Underground conduits for data,",
+            "speakers, and future fire alarm.",
+            "Any associated conduit, wire, cable, junction boxes, wiring devices, and terminations per plans.",
+            "Temporary power. (Temporary lighting if applicable not included).",
+            "Supply and install CAT6A/OSP fiber between new building and existing school.",
+            "Supply and install of new speakers and horns in Concession per plans.",
+            "Supply and install all CAT6A and CAT6 cabling and jacks per plans.",
+            "Remove existing pole field sound system and reinstall on new poles and in press box. (We cannot guarantee",
+            "the Sound system quality since existing equipment will be reused. No existing equipment shown in pictures",
+            "allows for any adjustments beyond volume).",
+            "Install owner supplied cameras.",
+            "Lift equipment.",
+            "Storage container.",
+            "Crane to stand sports light poles."
+          ],
+          "exclusions_scope_specific": [
+            "Items not included under this proposal.",
+            "Any permit or utility fees.",
+            "Any temperature controls.",
+            "Any fire alarm. (Not applicable).",
+            "Excavation and concrete for Musco light pole foundations."
+          ],
+          "priced_line_items": [
+            "Alternate 103.01: $41,564.00"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse R3.pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "Supply and install of building lighting and lighting controls per plans.",
+            "Supply and install of Musco sports lighting and lighting controls per plans.",
+            "Supply and install on new panel CB, mini-power zone panel PB, 5KVA transformer, (2) TVSS, new breakers in",
+            "existing switchboard, and disconnect switches per plans.",
+            "Remove existing power service to Concession Building, Press Box, and scoreboard.",
+            "Remove circuiting and speakers on existing wood light poles. Remove and dispose of wood poles.",
+            "Junction boxes and conduit to accessible ceiling for CCTV, data, and speakers. Underground conduits for data,",
+            "speakers, and future fire alarm.",
+            "Any associated conduit, wire, cable, junction boxes, wiring devices, and terminations per plans.",
+            "Temporary power. (Temporary lighting if applicable not included).",
+            "Supply and install CAT6A/OSP fiber between new building and existing school.",
+            "Supply and install of new speakers and horns in Concession per plans.",
+            "Supply and install all CAT6A and CAT6 cabling and jacks per plans.",
+            "Remove existing pole field sound system and reinstall on new poles and in press box. (We cannot guarantee",
+            "the Sound system quality since existing equipment will be reused. No existing equipment shown in pictures",
+            "allows for any adjustments beyond volume).",
+            "Install owner supplied cameras.",
+            "Lift equipment.",
+            "Storage container.",
+            "Crane to stand sports light poles."
+          ],
+          "exclusions_scope_specific": [
+            "Items not included under this proposal.",
+            "Any permit or utility fees."
+          ],
+          "priced_line_items": [
+            "Alternate 103.01: $41,564.00",
+            "Alternate 05: $71,516.00",
+            "Alternate 06: $33,102.00"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Quantum Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-20",
+          "inclusions": [
+            "Includes new transformer and Musco lighting control",
+            "Assume only precast and install for light poles",
+            "Prioritize trenching on the field",
+            "Assumed onsite spoils",
+            "Crane to be provided from Elko",
+            "Includes all power, lighting, low voltage, mechanical hook-up, owner furnished cameras and speakers",
+            "Assumes conduit",
+            "Assumes speakers are in good conditions",
+            "CORE to advise if scoreboards controls are wireless",
+            "Assume press box is pre-built and furnished",
+            "Assume transformer and panel for press box to be provided by Quantum",
+            "Includes pulling feeders and cutting them below grade",
+            "Includes safe off of existing power",
+            "Includes hard dig rate",
+            "Includes all trenching for conduit runs",
+            "Includes coordination for CMU penetration",
+            "Includes temp power, lighting and spider boxes",
+            "Includes caulking",
+            "Includes mule tape"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Included salvage, storage and reinstall of existing equipment",
+            "Excludes patch-backs and paint for existing building tie-in"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Wheeler's Electric, Inc.",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Wheelers  Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-18",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Temp power: will provide temp power to one connex trailer, two spider boxes, and temp lighting in the building.",
+        "Fixtures included per the schedule",
+        "Plywood backboards are included in TR room",
+        "Included surface mounted conduit and fixtures in press box",
+        "Fire Alarm is not included (referenced precon RFI)",
+        "Wheelers to reach out to Teledata for a budget price to add Fire Alarm to the concession building",
+        "Includes removal of existing field lighting and scoreboard, excluding haul off (by others)",
+        "Includes precast Musco light pole bases",
+        "Includes grouting of bases after they are set"
+      ],
+      "exclusions_scope_specific": [
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope"
+      ],
+      "clarifications": [],
+      "priced_line_items": [
+        "Alternate #1: Add $34,200 for electrical demolition at abandoned elementary school"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [],
+          "exclusions_scope_specific": [],
+          "priced_line_items": [
+            "Base Bid---------------------------------------2---22---2nnnn nnn nnnn anne nn nennnnnee---$ 1 286,010.00",
+            "Alt #1 -----------=--------------- nn nn enna nnn nnn nnn nnn ene $34,200.00"
+          ]
+        }
+      ]
+    },
+    {
+      "firm": "Wheelers Eletric",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Wheelers Eletric Homework Response.pdf.txt",
+      "current_date": "2026-05-20",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Includes surface mounted conduit, boxes, devices, and light fixtures for electrical and low voltage systems located in press box and ticket booth."
+    ],
+    "possibly_relevant_exclusions": [
+      "Fire sprinkler systems",
+      "Fire alarm systems"
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": []
+}

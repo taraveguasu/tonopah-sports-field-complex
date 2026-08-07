@@ -1,0 +1,699 @@
+=== SHEET: Index ===
+SCOPE COVERAGE ANALYSIS — INDEX
+NCSD Tonopah High School Sports Complex   |   CORE Construction   |   Per-Scope Coverage in CORE GMP Leveling Format
+How to read each tab
+Major Scope Items column (A)	Items extracted from SOW, plans, specs, Addendum #1, Clarifications #1 & #2, and the RFI log. These are what a complete proposal MUST cover.
+Bidder columns (C onward)	Coverage symbol per bidder: √ = included, O = excluded/missing, ? = needs clarification at descope, + / − = priced add/deduct value, √+ = scope double-counted.
+BASE BID row	BC Form submitted value (not normalized). Bond rate row below.
+BREAKOUTS section	Sub-pricing or phase breakouts requested from sub.
+ALTERNATES section	Required SOW alts + voluntary adds.
+KEY NOTES & SCOPE GAPS	Pre-con flags — responsiveness issues, scope basis variances, hidden exclusions.
+Symbol Color Code	Green fill = included. Red fill = missing. Amber fill = unclear / has add-deduct value attached.
+Package	Scope	# Bidders	Front-Runner	Tab Link
+BP 002	Hazardous Material Abatement & Building Wrecking (Combined 002+004)	5	Pair NorthStar (combined) OR Action Solutions (abate) + GGG (wrecking) after resolving plans-acknowledgment and bond rate.	Go to BP002
+BP 008	Site Clearing, Demo, Earthwork, Asphalt Paving & Wet Utilities	3	NDX — best scope coverage. Push voluntary adds back to base via descope; strike escalation clauses; confirm Clark Co. wage rates were used. Monument is INVESTIGATE-only until missing alts and license coverage resolved.	Go to BP008
+BP 016	Landscaping & Irrigation	3	Black Canyon front-runner pending Alt 016.01 closure and Shot Put assignment.	Go to BP016
+BP 021	Running Track Surfacing	2	Confirm Elite base bid value; both bidders are Track surfacing specialists — verify warranty terms.	Go to BP021
+BP 022	Synthetic Turf Sports Field	6	Tand (turf only) OR CG&B (combined) front-runners. Resolve RFI 15 deduct-alt restructure across all bidders.	Go to BP022
+BP 023	Fencing & Gates	6	All 5's front-runner — clean submission. Tahoe scope verification needed before considering for award.	Go to BP023
+BP 030	Concrete (Cast-in-Place, Site Flatwork, Foundations)	4	Monument front-runner on base — push for Alt 030.02 / .03 pricing in descope.	Go to BP030
+BP 031	Masonry (CMU at Concessions Building)	4	Henderson Masonry front-runner on base — verify RFI 26 assembly inclusion + segmented retaining wall alt.	Go to BP031
+BP 033	Structural Steel & Ornamental Metals	2	Investigate Corona scope completeness vs Adams & Smith. Get Alts 033.02-.04 pricing from both.	Go to BP033
+BP 045	Metal Roofing, Fascia & Soffit Panels	1	Sole bidder — validate $49,700 against CORE historical $/SF and verify bond rate.	Go to BP045
+BP 061	Metal Stud Framing, Drywall & Painting (incl. FRP)	3	M & H most scope-complete; verify Division 09 Form + backup before considering.	Go to BP061
+BP 094	Bleachers & Press Box (Supply + Install)	1	Sole bidder — validate $/seat, confirm install scope, get scoreboard + ticket booth alts priced.	Go to BP094
+BP 098	Plumbing Systems	4	Bombard front-runner; reconcile Alt 098.01-A scope basis across all bidders.	Go to BP098
+BP 100	HVAC & Building Controls Systems (incl. T&B)	3	Evaluate U.S. Mechanical combined BP 098+100 award; push Alt 100.03 deduct in descope.	Go to BP100
+BP 103	Electrical & Low Voltage Systems (incl. Sports Field Lighting)	5	Quantum Electric — best balance of price + responsiveness. Investigate JW Electric scope before relying on its $807K.	Go to BP103
+BP 109	Prefabricated Ticket Booth (Supply)	3	Pending final size selection — Porta-King if cert verified, otherwise Guardian.	Go to BP109
+=== SHEET: BP002 ===
+BP #002 — Hazardous Material Abatement & Building Wrecking (Combined 002+004)
+Asbestos abatement of Bldgs 3-7 (per RFI 16) + full building wrecking at abandoned Tonopah ES (Idaho Cir).
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	GGG Demolition	NorthStar Contracting	Action Solutions (Abate)	Earth Resource Grp (Abate)	Environmental Protection (EPS)
+BASE BID (as submitted)	BC Form §Base	1256279	718623	304455	337395	40000
+P&P Bond Rate	Form §Bonding	0.012	0.015	0.04	0.026	0.023
+BASE BID — MAJOR SCOPE ITEMS
+ACM Removal — VCT / Floor Mastic (Bldgs 3-7)		√	√	√	√	O
+ACM Removal — Asbestos drywall (Bldgs 3-7)		√	√	√	√	O
+ACM Removal — Transite piping (Alt 002.01 UR)		?	?	?	+$75/LF + $5K mob	O
+Lead-based paint (if encountered)		?	?	?	?	O
+OSHA Class I / II Containment		√	√	√	√	O
+Air monitoring (third-party clearance)		?	?	?	?	O
+Bldgs 1-7 wrecking (Bldgs 1-2 to remain per SOW)		√	√	O	O	O
+Concrete pad / footings removal		√	√	O	O	O
+Trees / stump removal at ES		√	√	O	O	O
+Existing fencing demo at ES		√	√	O	O	O
+Site clearing & rough grade at ES		√	√	O	O	O
+Haul-off and legal disposal		√	√	√	√	O
+Permits, abatement filings (NRS/AQ)		?	?	?	?	?
+Dust control (Nye Co. AQ)		?	?	?	?	?
+SWPPP / BMP		?	?	O	O	+$3,225 BMP removal
+Stand-alone abatement only				√ scope	√ scope	?
+Cover letter / formal proposal incl.		√	√	O	√	√
+BREAKOUTS
+Combined Pkg 002+004		√	√	—	—	—
+Abatement (Bldgs 3-7) only		—	—	√	√	—
+Wrecking (Bldgs 1, 7) only		—	—	—	—	—
+ALTERNATES
+Alt 002.01 — Transite Pipe Unit Rate ($/LF)		O	O	O	+$75/LF	O
+Alt 004.01 — BREAKOUT Work at ES		+$0 (combined)	+$23,342	+$0	+$0	+$0
+Alt 004.02 — ADD Pkg 002 Abatement to 004		?	?	—	—	—
+Site Demo at ES (Voluntary or Alt 008.07)		+$0	+$23,342	—	—	—
+KEY NOTES & SCOPE GAPS
+• GGG (CA-based) — 60%+ premium to NorthStar.
+• NorthStar Bid Docs - HS Sports Plans = NO (responsiveness flag). Bond field $10,773.95 = value not rate; ≈1.5% rate.
+• Action and Earth Resource are abatement-only — pair with wrecking sub for full coverage.
+• EPS $40K — almost certainly NOT a true abatement bid; SWPPP-only items priced.
+• Alliance (LATE) — non-responsive per NRS 338.16995.
+CORE PRE-AWARD RECOMMENDATION
+Pair NorthStar (combined) OR Action Solutions (abate) + GGG (wrecking) after resolving plans-acknowledgment and bond rate.
+=== SHEET: BP008 ===
+BP #008 — Site Clearing, Demo, Earthwork, Asphalt Paving & Wet Utilities
+Site demo, earthwork, AC paving (track only per RFI 1), wet utilities, & striping. Subbase under turf in base per SOW §7.b.ii (modified by RFI 14/15). Includes ES alt scope.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	NDX, LLC	TAB Contractors (NewCom)	The Monument Company
+BASE BID (as submitted)	BC Form §Base	3152032.69	1924851	2296000
+P&P Bond Rate	Form §Bonding	0.02	0.01	0.01
+BASE BID — MAJOR SCOPE ITEMS
+Temp construction trailer pad (10K SF fractured rock)		√	√	?
+Trackout pads + rumble plates (≥2 entrances)		√	√	?
+Street sweeping (for own work only per TAB)		√	√ (own only)	?
+Stand tank + temp water from hydrant (per SOW §1.d)		?	O (excluded)	?
+SWPPP prep, filing, fees, maintenance (SOW §1.e)		√	O (permits excluded)	?
+Dust control per Nye Co. AQ (SOW §1.f)		?	O (caliche excl)	?
+Dust palliative at completion (SOW §1.g)		O (excluded)	O	?
+Salvage equipment turnover (irrigation, flag) §2.a		?	?	?
+Site demo — curbs, gutters, AC paving, existing track		√	√	?
+Site demo — existing fencing & footings §2.g		√	√	?
+Site demo — existing field lights, flag pole §2.h		√	√	?
+Site demo — bleachers, press box, footings §2.i		√	√	?
+Site demo — athletic equipment, sand pit materials §2.j		O (sports pit material excl)	√	?
+Sawcutting as required §2.k		√	√	?
+Demo existing artificial turf §2.l		√	√	?
+Demo existing landscaping + stump grinding §2.m		√	√	?
+Existing tree continued irrigation coord (BP 016) §2.m.ii		?	?	?
+Clear & haul organics / waste / unsatisfactory §2.n		√	√	?
+Protect items to remain (transformer, vaults) §2.p		√	√	?
+Domestic water system — tie-in, piping, valves §3		√	√	?
+Ductile iron / Cu / PVC piping w/ thrust blocks §3.a.i		√	√	?
+Flush, test, disinfect, chlorinate §3.c		√	?	?
+GPS as-builts + drafted plan §3.d		?	?	?
+Sanitary sewer — tie to existing MH, piping §4		√	√	?
+Shoring at deep MHs if required §4.a.i		?	?	?
+Concrete encasement at water crossings §4.a.ii		√	?	?
+Camera sewer to 5' outside bldg §4.b		?	?	?
+GPS as-builts + AutoCAD + drafted plan §4.c		?	?	?
+Storm drainage — piping, CB, DI, MH, headwalls §5.a		√	√	?
+Perforated SD piping at sand pits + gravel bed §5.b		+$25,072 (carried as alt)	O (3/8" chip stone excl)	?
+Perforated SD along turf straight sides §5.c		+$113,870 slot drains (carried as alt)	O	?
+Wet util excavation / trenching / shoring §6.e		√	√	?
+Wet util bedding / backfill / compaction §6.f		√	√	?
+Thrust blocks / slurry / encasement §6.g		√	√	?
+Hard digging / caliche per geotech §6.h		?	O (excluded)	?
+Site grading / over-excavation / scarification §7.a		√	√	?
+Class D seismic / SDS 1.0 §7.a.ii		?	?	?
+Building pad — Type II + certified pad §7.a		√ (1,012 TON, $78K)	√	?
+Subbase under turf (6" Type II per RFI 14/15)		+$156,600 sand+geo-liner (alt)	O (leveling sand excl)	?
+Type II under all curbs + AC paving §7.c		√	√	?
+Rip rap as indicated §7.d		O (no line item)	?	?
+Footing backfill at exterior bldg §7.f		O (excluded in backup)	?	?
+Drainage grading per civil §7.f.i		√	√	?
+Spoils disposal off-site (no stockpiling) §7.g		√	√	?
+AC paving @ running track (4" per RFI 6) §8		√ (69,100 SF, $620K)	√ (Wells Cargo)	?
+AC subsurface tolerance per track sub §8.b		√	√	?
+In-house AC mix testing §8.c		?	?	?
+Survey request 48 hrs notice / monument protection §9.a		√	√	?
+Call Before You Dig + locates §9.b		?	O (permits by others)	?
+Wet util testing scheduling + walks §9.d		√	?	?
+Record drawings (AHJ requirement) §9.h		?	?	?
+Site striping / signage / bumpers (pkg title)		O (excluded)	O (excluded)	?
+Asphalt + fuel material escalation language		O (incl in backup — strike)	?	?
+BREAKOUTS
+Phase 1 — Lights, Bleacher demo / prep		?	?	?
+Phase 2 — Field, Track, Concessions		?	?	?
+Football field / track / sports field grading		√ (~$462K SOV)	?	?
+Parking lot + shot put areas		√ (~$455K SOV)	?	?
+Concessions building pad		√	?	?
+Bleachers & press box footing demo		√	?	?
+Incidental site work		√ (~$923K SOV)	?	?
+Wet utilities (separate backup sheet)		√ ($387,512)	?	?
+ALTERNATES
+Alt 008.02 — DEDUCT Combine w/ BP #004 Building Wrecking		-$6,000	O (not priced)	O (not priced)
+Alt 008.03 — DEDUCT Combine w/ BP #016 Landscaping		O	O	O
+Alt 008.04 — Caliche Unit Rate ($/CY)		+$46/CY	+$40/CY	+$500/CY
+Alt 008.05 — ADD Winterization Plan		O	O	O
+Alt 008.06 — Type II Site Concrete Unit Rate		O	O	O
+Alt 008.07 — ADD Demo & Site Clearing at ES (Idaho Cir)		+$1,498,400 (full demo + abate)	+$45,000 (rough grade only)	+$0 (likely no-bid)
+Alt 008.08 — ADD Propane Gas System at ES		O (not priced)	O (excluded)	+$0 (likely no-bid)
+Voluntary: S&I 2" Sand + Geo-liner under Turf (RFI 14/15 in base)		+$156,600	O	?
+Voluntary: S&I ACO Slot Drain System 3000 along turf perimeter		+$113,870.40	O	?
+Voluntary: S&I 4" Perf Pipe at LJ/TJ sand pits (SOW §5.b — IN base)		+$25,071.80	O	?
+KEY NOTES & SCOPE GAPS
+• Per RFI 1: NO AC paving at parking/driveway — graded earth only. Track AC is the only AC scope.
+• Per RFI 6: Track AC = 4" Type II.
+• Per RFI 8: No slope stabilization required.
+• Per RFI 14/15 (CRITICAL): Subbase + gravel under turf in base; geo liner / leveling sand by BP 022; CORE may pay ADD alts on BP 008 for those items (deduct alts on BP 022).
+• Per Clarification #2: Prevailing wage CHANGED to Clark County rates (CL-2026-100) — confirm all 3 bidders priced Clark Co., not Southern NV Rural Region.
+• NDX backup has asphalt + fuel-cost escalation language — must strike per GMP firm-price requirement.
+• TAB clarifications conflict directly with SOW: water, permits, caliche, traffic control, striping/signs, leveling sand all excluded.
+• Monument submission is bare-bones: 4 of 6 required alts not priced; $0 entries on .07/.08 likely 'no bid'; no formal letter; no lower-tier subs listed despite scope demanding A-13/A-19 sub-classifications.
+CORE PRE-AWARD RECOMMENDATION
+NDX — best scope coverage. Push voluntary adds back to base via descope; strike escalation clauses; confirm Clark Co. wage rates were used. Monument is INVESTIGATE-only until missing alts and license coverage resolved.
+=== SHEET: BP016 ===
+BP #016 — Landscaping & Irrigation
+Landscape planting, irrigation, decorative rock; coordinate with BP 008 / 022 / 023.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Black Canyon	BrightView (GTI 1)	Tand Inc.
+BASE BID (as submitted)	BC Form §Base	111275	131300	256800
+P&P Bond Rate	Form §Bonding	0.014	0.014	0.014
+BASE BID — MAJOR SCOPE ITEMS
+Landscape planting (trees, shrubs, ground cover)		√	√	√
+Decomposed granite ground cover		√	√	√
+Irrigation mainline / laterals / heads		√	√	√
+Irrigation controller (Hunter / Rain Bird)		√	√	√
+Backflow preventer + connection		O	√	√
+Tie-in to existing irrigation source		√	?	?
+Existing tree continued irrigation (per SOW 008)		√	?	?
+Hand-watering establishment period		?	?	?
+90-day landscape maintenance		?	?	?
+1-year warranty		√	√	√
+Fertilizer / soil amendments		√	?	?
+Shot put / discus rock material (L1.06 C&D)		+$138,300 vol add (excl. survey, conc., cages, fence)	+$103,444 vol add (Discuss & Shot Put rock S&I)	O
+Mulch at planting areas		√	√	√
+BREAKOUTS
+Irrigation only		?	?	?
+Planting only		?	?	?
+Shot Put / Discus (assignment?)		?	?	—
+ALTERNATES
+Alt 016.01 — DEDUCT Combine w/ BP #022 Turf		O	O	O
+Alt — Decorative Rock Ground Cover at East Slope		+$26,400	+$26,400	+$9,500
+KEY NOTES & SCOPE GAPS
+• BUILDING CONNECTED DATA QUALITY ISSUE — BrightView's BC slot is tagged to Black Canyon ($111,275). Actual BrightView/GTI 1 Form base = $131,300.
+• Tand $256,800 — 2x Black Canyon. Walk through scope coverage at descope.
+• Shot Put/Discus assignment is unclear — see RFI 14 / 15 (turf split); confirm whether L1.06 detail belongs to BP 016 or BP 019.
+CORE PRE-AWARD RECOMMENDATION
+Black Canyon front-runner pending Alt 016.01 closure and Shot Put assignment.
+=== SHEET: BP021 ===
+BP #021 — Running Track Surfacing
+Polyurethane running track surfacing; per RFI 24 = min 2 coats structural over manufacturer base. AC subbase by BP 008.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Elite Sports Builders	The Monument Company
+BASE BID (as submitted)	BC Form §Base	(value not parsed)	756154
+P&P Bond Rate	Form §Bonding	0.01	0.01
+BASE BID — MAJOR SCOPE ITEMS
+Track surfacing — Stobitan SC (or equiv) — 2 coat min		√	√
+Manufacturer base mat / shock layer		√	√
+Lane line markings (8 lanes)		√	√
+Event line markings (long jump, hurdles, etc.)		√	√
+AC subgrade acceptance (per BP 008)		?	?
+Discus / hammer cage interface		?	?
+Field event areas (long jump, triple jump pits)		?	?
+IAAF / NFHS certification		?	?
+Manufacturer warranty (5-yr typ)		?	?
+Submittals / shop drawings		√	√
+On-site mock-up if required		?	?
+BREAKOUTS
+Track surfacing only		?	?
+Field event surfacing		?	?
+Markings / inlays		?	?
+ALTERNATES
+Alt 021.01 — ADD Track & Field Equipment (combined)		+$0	+$0
+KEY NOTES & SCOPE GAPS
+• Elite — base bid value not parsed by BC system. Confirm in writing.
+• Monument also bid BP 008, 022, 030 — capacity stack check needed.
+• Both bidders entered $0 on Alt 021.01 — confirm intent.
+CORE PRE-AWARD RECOMMENDATION
+Confirm Elite base bid value; both bidders are Track surfacing specialists — verify warranty terms.
+=== SHEET: BP022 ===
+BP #022 — Synthetic Turf Sports Field
+Synthetic turf field; per RFI 15 = base bid is turf above shock pad. Geo liner, leveling sand, drainage, header board to be priced as DEDUCT alts.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	AstroTurf Corp.	CG&B Enterprises	Green Living Svcs	The Monument Co	Sprinturf, LLC	Tand Inc.
+BASE BID (as submitted)	BC Form §Base	609151	1139000	1277013	1281315	1022155	799600
+P&P Bond Rate	Form §Bonding	0.015	0.0075	0.016	0.01	0.0125	0.014
+BASE BID — MAJOR SCOPE ITEMS
+Synthetic turf carpet (specify pile / fiber)		√	√	√	√	√	√
+Infill material (crumb rubber / coated sand)		√	√	√	√	√	√
+Shock pad (per spec / mfr)		√	√	√	√	√	√
+Field markings — football		√	√	√	√	√	√
+Field markings — soccer (overlay)		?	?	?	?	?	?
+Field markings — lacrosse (overlay)		?	?	?	?	?	?
+End-zone inlays / school logos		?	?	?	?	?	?
+Header board attachment / fastening		√	√	√	√	√	√
+Manufacturer 8-year warranty		?	?	?	?	?	?
+Submittals / shop drawings		√	√	√	√	√	√
+Acceptance of subgrade (per BP 008)		?	?	?	?	?	?
+Grooming equipment supply (if specified)		?	?	?	?	?	?
+BREAKOUTS
+Turf + shock pad ONLY (per RFI 15)		?	?	?	?	?	?
+Geo Liner (deduct alt)		?	?	?	?	?	?
+Leveling Sand (deduct alt)		?	?	?	?	?	?
+Field Drainage (deduct alt)		?	?	?	?	?	?
+Header Board (deduct alt)		?	?	?	?	?	?
+ALTERNATES
+Alt 022.01 — ADD Track & Field Equipment		+$395,930	+$0	+$0	+$0	—	no bid
+Alt 022.02 — ADD Storm Drainage System		+$1,034,733	+$126,000	+$0	+$0	—	no bid
+Sprinturf — Decorative Rock E. Slope (form-fill error, BP 016 alt)		—	—	—	—	+$0	—
+KEY NOTES & SCOPE GAPS
+• AstroTurf — 3 portal numbers ($609K turf / $395.9K track / $1.03M drainage). $609K is turf-only. Total if all 3 = $2.04M.
+• CG&B bond shows 0.01% in BC; cover note says 0.75%.
+• Green Living / Tand — declared no-bid on storm drainage alt.
+• Sprinturf entered BP 016 alt by mistake. Resubmit Alt 022.01 / .02 pricing.
+• Per RFI 15, geo liner / sand / drainage / header are DEDUCT alts — bidders' BC entries do not match new RFI structure. Request resubmit.
+CORE PRE-AWARD RECOMMENDATION
+Tand (turf only) OR CG&B (combined) front-runners. Resolve RFI 15 deduct-alt restructure across all bidders.
+=== SHEET: BP023 ===
+BP #023 — Fencing & Gates
+Chain link site fencing + ornamental gates; demo + dispose existing fencing; temp fencing per RFI 17; gate hardware per Section 08 71 00 added by Addendum #1.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	All 5's Construction	Fencing Specialists	Golden Bay Fence	`	Tahoe Fence	Tiberti Fence
+BASE BID (as submitted)	BC Form §Base	399056	(not parsed)	359360	(not parsed)	215392	277984
+P&P Bond Rate	Form §Bonding	0.011	0.02	0.014	0.02	0.03	0
+BASE BID — MAJOR SCOPE ITEMS
+Chain link perimeter fencing (6'H per RFI 22, A1-20 ctrls)		√	√	√	√	√	√
+Ornamental fencing (where indicated)		?	?	?	?	?	?
+Walk gates		√	√	√	√	√	√
+Vehicle / double gates		√	√	√	√	√	√
+Gate hardware (Section 08 71 00 + 32 31 13 §2.04)		?	?	?	?	?	?
+Backstop / ball-stop netting (if specified)		?	?	?	?	?	?
+Footings (6" below post bottom per RFI 13)		√	√	√	√	√	√
+Demo existing fencing (HS) (by SOW 008 per RFI 10)		?	?	?	?	?	?
+Haul / dispose existing fencing spoils (per RFI 12)		?	?	?	?	?	?
+Bleacher under-fencing 6'H (per RFI 11)		?	?	?	?	?	?
+Temp fencing 2,800 LF HS (per RFI 17)		+$125K vol add (HS+ES temp)	?	?	?	?	?
+Temp fencing 2,300 LF ES (per RFI 17)		+$125K vol add (HS+ES temp)	?	?	?	?	?
+Post sizes per A1-20 (RFI 22 — overrides spec)		?	?	?	?	?	?
+BREAKOUTS
+Permanent fencing HS (base scope)		√	?	√	?	√	√
+Temporary fencing HS + ES		+$125K	?	?	?	?	?
+ES permanent fencing (Alts 023.01-A/B/C)		—	—	—	—	—	—
+ALTERNATES
+Alt 023.01-A — Fencing at ES per AD1.13		+$36,307	+$5,619.68	+$28,125	+$0	+$7,659	+$22,381
+Alt 023.01-B — Fencing at ES per AD1.16		+$25,640	+$10,788.76	+$19,500	+$0	+$4,926	+$17,872
+Alt 023.01-C — Propane Tank Enclosure (150 LF, 6'H, 1 pr gates per RFI 9)		+$26,980	+$12,025.61	+$10,000	+$0	+$13,030	+$17,315
+Alt 023.02 — Salvage HS Track fencing (per RFI 10, reuse posts)		-$10,815	+$8,908.58	+$0	+$0	-$20	+$1,800
+KEY NOTES & SCOPE GAPS
+• All 5's — most responsive submission; included $125K voluntary for temp fencing per RFI 17.
+• Fencing Specialists & Red Star — base bid value not parsed by BC; verify.
+• Tahoe — alt values 50-80% below market; scope verify.
+• Tiberti — 0% bond likely parse issue.
+• Per RFI 22, A1-20 takes precedence on post sizes (overrides spec 32 31 13).
+CORE PRE-AWARD RECOMMENDATION
+All 5's front-runner — clean submission. Tahoe scope verification needed before considering for award.
+=== SHEET: BP030 ===
+BP #030 — Concrete (Cast-in-Place, Site Flatwork, Foundations)
+Concessions building foundations + slab-on-grade; site flatwork; mow curbs; equipment pads; flagpole footing.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Cheek Construction	The Monument Company	Sahara Concrete	XL Concrete Masonry
+BASE BID (as submitted)	BC Form §Base	1294656	1113208	1518456	1605417
+P&P Bond Rate	Form §Bonding	0.025	0.01	0.015	0.015
+BASE BID — MAJOR SCOPE ITEMS
+Concessions bldg footings / spread footings		√	√	√	√
+Concessions bldg slab-on-grade w/ vapor barrier		√	√	√	√
+Stem walls / grade beams		√	√	√	√
+Reinforcement (rebar / WWF)		√	√	√	√
+Anchor bolts / embeds (BP 033 coord)		√	√	√	√
+CMU bond beam coordination (BP 031)		?	?	?	?
+Site flatwork — sidewalks		√	√	√	√
+ADA-compliant ramps / curb cuts		√	√	√	√
+Mow curbs around turf (per BP 016 interface)		√	√	√	√
+Concrete steps (bleacher access)		?	?	?	?
+Equipment pads (HVAC / transformer)		?	?	?	?
+Header board for turf field (per RFI 15 alt)		?	?	?	?
+Concrete curing / sealing		√	√	√	√
+Form work / shoring		√	√	√	√
+Joint sealants (BP 040 interface)		?	?	?	?
+Footing excavation (BP 008 interface)		?	?	?	?
+Footing backfill (BP 008 per SOW §7.f)		?	?	?	?
+BREAKOUTS
+Building concrete (foundations + slab)		?	?	?	?
+Site flatwork		?	?	?	?
+Curbs		?	?	?	?
+ALTERNATES
+Alt 030.01 — Flagpole Footing & Install		+$14,398.56	+$11,000	+$16,500	+$9,672
+Alt 030.02 — Type II Unit Rate ($/CY or $/TON)		O	O	O	O
+Alt 030.03 — Concrete Finishing (add)		O	O	O	O
+Header Board (alt per RFI 15)		?	?	?	?
+KEY NOTES & SCOPE GAPS
+• Monument lowest base; misses Alt 030.02 and Alt 030.03 (all four bidders missed these).
+• XL Concrete Masonry also bid BP 031 — combined-award opportunity.
+• Cheek 2.5% bond is on high end of market.
+• Per RFI 15, header board may be carried as concrete alt — confirm assignment.
+CORE PRE-AWARD RECOMMENDATION
+Monument front-runner on base — push for Alt 030.02 / .03 pricing in descope.
+=== SHEET: BP031 ===
+BP #031 — Masonry (CMU at Concessions Building)
+CMU walls at concessions building per RFI 26 assembly (rigid + air barrier + furring); mortar/grout/reinforcing; lintels & bond beams.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Henderson Masonry	John Jackson Masonry	Kemper Masonry	XL Concrete Masonry
+BASE BID (as submitted)	BC Form §Base	189449	425394	355230	267417
+P&P Bond Rate	Form §Bonding	0.015	0.0165	0.025	0.015
+BASE BID — MAJOR SCOPE ITEMS
+CMU walls — exterior (per A4-10 / RFI 26 assembly)		√	√	√	√
+CMU walls — interior / restroom vestibule (per RFI 26)		√	√	√	√
+Mortar / grout		√	√	√	√
+Reinforcing (vert + horiz)		√	√	√	√
+Bond beams / lintels		√	√	√	√
+Cleanouts at grouted cells		?	?	?	?
+Lift heights per IBC / spec		?	?	?	?
+CMU color / finish per spec		?	?	?	?
+Rigid insulation 2" attachment (per RFI 26)		?	?	?	?
+Fluid-applied air & water barrier (RFI 26)		?	?	?	?
+Extended masonry fasteners (per keynote 6-02)		?	?	?	?
+Anchor bolts / embeds coord w/ BP 033		?	?	?	?
+CMU footing dowels coord w/ BP 030		?	?	?	?
+Cold-weather protection (if needed)		?	?	?	?
+BREAKOUTS
+CMU walls only		?	?	?	?
+Bond beams / lintels		?	?	?	?
+ALTERNATES
+Alt 025.01 / 031.01 — Segmented Block Retaining Walls (SOW typo)		O	O	O	O
+KEY NOTES & SCOPE GAPS
+• Henderson lowest base — 2x delta to others. Walk through scope coverage at descope.
+• XL Concrete Masonry also bid BP 030 — combined-award opportunity.
+• Monument Construction (LATE) — non-responsive per NRS 338.16995.
+• SOW alternate is mis-numbered '025.01' — verify intent.
+• RFI 26 modified exterior CMU wall assembly — confirm all bidders included rigid + AWB + furring.
+CORE PRE-AWARD RECOMMENDATION
+Henderson Masonry front-runner on base — verify RFI 26 assembly inclusion + segmented retaining wall alt.
+=== SHEET: BP033 ===
+BP #033 — Structural Steel & Ornamental Metals
+Structural columns, beams, joists, decking at concessions building; misc steel; ornamental; canopy salvage/reinstall at ES.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Adams & Smith	Corona Steel
+BASE BID (as submitted)	BC Form §Base	282164	145468
+P&P Bond Rate	Form §Bonding	0.01	0.025
+BASE BID — MAJOR SCOPE ITEMS
+Structural columns		√	√
+Beams / girders		√	√
+Joists		√	√
+Roof deck (gauge per spec)		√	√
+Lintels / embeds (BP 030/031 coord)		√	√
+Misc steel (handrails, etc.)		?	?
+Ornamental metals		?	?
+Anchor bolts (set by BP 030)		?	?
+Deck attachment per spec		?	?
+Shop drawings / engineering		√	√
+Galvanizing / shop coatings		?	?
+Field painting (BP 060 interface)		?	?
+Erection / cranes		√	√
+BREAKOUTS
+Structural steel only		?	?
+Misc / ornamental		?	?
+ALTERNATES
+Alt 033.01 — Canopies at ES (salvage / reinstall)		+$0	+$53,519
+Alt 033.02 — Scoreboard Posts		O	O
+Alt 033.03 — Press Box Steel Structure		O	O
+Alt 033.04 — Steel Plates at Gates		O	O
+KEY NOTES & SCOPE GAPS
+• Corona Steel base 51% of Adams & Smith — scope coverage check required.
+• Both bidders missed Alts 033.02, .03, .04.
+• Adams & Smith $0 ES Canopies — verify intent (no-bid vs included).
+• Corona 2.5% bond is high.
+CORE PRE-AWARD RECOMMENDATION
+Investigate Corona scope completeness vs Adams & Smith. Get Alts 033.02-.04 pricing from both.
+=== SHEET: BP045 ===
+BP #045 — Metal Roofing, Fascia & Soffit Panels
+Standing-seam metal roofing per spec 07 6100 (PBR panel takes precedence per RFI 23); fascia, soffit, trim.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Canyon State Enterprises
+BASE BID (as submitted)	BC Form §Base	49700
+P&P Bond Rate	Form §Bonding	0
+BASE BID — MAJOR SCOPE ITEMS
+Standing-seam roof panels (MBCI PBR per spec / RFI 23)		√
+5/8" Dens Glass sheathing at eaves (per RFI 25)		?
+Underlayment		√
+Fascia panels		√
+Soffit panels		√
+Ridge / hip caps		√
+Flashings, closures, drip edge		√
+Gutters / downspouts (if any)		?
+Snow guards (if specified)		?
+Trim / accessories		√
+Manufacturer warranty		?
+Color / finish per spec		?
+Substrate coord w/ BP 033		?
+BREAKOUTS
+Roof only		?
+Fascia / soffit		?
+ALTERNATES
+Corner Guards (likely BP 060/074 scope, not 045)		+$0
+KEY NOTES & SCOPE GAPS
+• SOLE BIDDER. Foursquare (LATE) — non-responsive.
+• Bond shows 0.0% in BC — verify actual rate.
+• Per RFI 23, metal roofing spec (PBR) takes precedence over plans (Berridge Cee-lock).
+• Per RFI 25, sheathing at eaves = 5/8" Dens Glass (no wood).
+CORE PRE-AWARD RECOMMENDATION
+Sole bidder — validate $49,700 against CORE historical $/SF and verify bond rate.
+=== SHEET: BP061 ===
+BP #061 — Metal Stud Framing, Drywall & Painting (incl. FRP)
+Interior metal stud framing, drywall, painting, FRP at concessions; furring at exterior CMU (per RFI 26).
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Division 09	Jetstream Construction	M & H Building Specialties
+BASE BID (as submitted)	BC Form §Base	180942	257848	275259
+P&P Bond Rate	Form §Bonding	0.01	0.01	0.0144
+BASE BID — MAJOR SCOPE ITEMS
+Metal stud framing — interior walls		√	√	√
+Metal hat channels (vertical) at ext. CMU (per RFI 26)		?	?	?
+Drywall — 5/8" Type X		√	√	√
+Tape / texture / level 4 finish		√	√	√
+Painting — interior		√	√	√
+Painting — exterior CMU coordination		?	?	?
+FRP at kitchen / wet walls		?	?	√
+Insulation at metal stud walls (BP 044)		?	?	?
+Corner beads / trim		√	√	√
+Caulking / sealants (BP 040 interface)		?	?	?
+Access panels		?	?	?
+Field repairs / touch-up		√	√	√
+BREAKOUTS
+Framing / drywall only		?	?	?
+Painting only		?	?	?
+ALTERNATES
+Alt 060.01 — DEDUCT Combine w/ BP #062 ACT		O	O	noted but unparsed
+Alt 060.02 — ADD Corner Guards		O	O	O
+Alt 060.03 — ADD Wall & Door Protection (10 26 00)		O	O	O
+KEY NOTES & SCOPE GAPS
+• Division 09 — no Form or backup submitted; responsiveness risk.
+• M & H most complete submission.
+• All three missed Alts 060.02 and 060.03; M&H partially addressed 060.01.
+• Per RFI 26 — exterior CMU walls get GYP BD over 1.5" metal hat channels — confirm scope.
+CORE PRE-AWARD RECOMMENDATION
+M & H most scope-complete; verify Division 09 Form + backup before considering.
+=== SHEET: BP094 ===
+BP #094 — Bleachers & Press Box (Supply + Install)
+Grandstands w/ walking platform, stairs, ADA ramp, press box. Bleacher under-fencing 6'H by BP 023 per RFI 11.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	California Bleachers (NATA)
+BASE BID (as submitted)	BC Form §Base	395379
+P&P Bond Rate	Form §Bonding	0
+BASE BID — MAJOR SCOPE ITEMS
+Bleacher frame + seating supply		√
+Walking platform integral to bleacher		√
+Stairs / aisles		√
+ADA ramp + handrails		√
+Press box structure		√
+Bleacher fencing TOP (per RFI 11)		√
+Bleacher fencing BELOW (by BP 023, RFI 11)		—
+Anchoring to foundation (BP 030)		?
+Engineering / shop drawings		√
+Painting / finishing		√
+Install / assembly		+$48,000 voluntary
+Erection equipment		?
+Apex height for under-fence sizing (RFI 19)		?
+BREAKOUTS
+Supply only		√ ($395K)
+Install only		+$48K voluntary
+ALTERNATES
+Alt 094.01 — ADD Scoreboards		?
+Alt 094.02 — ADD Prefab Ticket Booth		?
+KEY NOTES & SCOPE GAPS
+• SOLE BIDDER. Validate against historical $/seat.
+• Bond 0.0% — likely BC parse; supply-only typical.
+• Confirm install scope $48K covers full install (anchoring, ADA fitting).
+• RFI 19 — apex height needed for bleacher under-fencing — coordinate with BP 023.
+CORE PRE-AWARD RECOMMENDATION
+Sole bidder — validate $/seat, confirm install scope, get scoreboard + ticket booth alts priced.
+=== SHEET: BP098 ===
+BP #098 — Plumbing Systems
+Concessions plumbing rough-in + fixtures; tie-in to BP 008 wet utilities 5' outside building.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Bombard Mechanical	JW McClenahan Co.	U.S. Mechanical	Universal Plumbing & Heating
+BASE BID (as submitted)	BC Form §Base	390755	515000	383000	375000
+P&P Bond Rate	Form §Bonding	0.006	0.009	0.0112	0.01
+BASE BID — MAJOR SCOPE ITEMS
+Domestic water rough-in (Cu / PEX)		√	√	√	√
+Sanitary DWV (PVC / cast iron)		√	√	√	√
+Vent piping		√	√	√	√
+Plumbing fixtures (toilets, urinals, lavs)		√	√	√	√
+Water heater		√	√	√	√
+Hose bibs (interior + exterior)		?	?	?	?
+Floor drains + funnel drains (kitchen)		√	√	√	√
+Backflow preventer		√	√	√	√
+Final tie-in to BP 008 (5' from bldg)		?	?	?	?
+Gas piping (kitchen, propane)		?	?	?	?
+Testing / disinfection		√	√	√	√
+Permits & inspections		?	?	?	?
+Insulation on hot water piping		?	?	?	?
+Fixture trim per spec		?	?	?	?
+As-builts		?	?	?	?
+BREAKOUTS
+Rough-in only		?	?	?	?
+Fixtures		?	?	?	?
+Gas piping		?	?	?	?
+ALTERNATES
+Alt 098.01-A — Demo Wet Util at ES		+$57,670	+$239,500	+$15,000 (cut & cap only)	+$20,000
+Alt 098.01-B — New Propane Tank at ES		+$34,350	+$65,000	+$93,000	+$15,000
+Alt 098.02 — Caliche Unit Rate ($/CY)		O	O	O	O
+KEY NOTES & SCOPE GAPS
+• Bombard front-runner on alt clarity.
+• Demo Wet Util alt ranges $15K (cut-and-cap) to $239K (full removal) — major scope basis variance.
+• All four missed Alt 098.02 Caliche unit rate.
+• Universal & Bombard bond rates may be parse artifacts (0.01% / 0.6%) — verify.
+• Combined BP 098 + 100 opportunity w/ Bombard or US Mech.
+CORE PRE-AWARD RECOMMENDATION
+Bombard front-runner; reconcile Alt 098.01-A scope basis across all bidders.
+=== SHEET: BP100 ===
+BP #100 — HVAC & Building Controls Systems (incl. T&B)
+RTUs, ductwork, controls, T&B at concessions building; kitchen exhaust if any.
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Bombard Mechanical	Sunrise Air Systems	U.S. Mechanical
+BASE BID (as submitted)	BC Form §Base	321320	285228	241300
+P&P Bond Rate	Form §Bonding	0.006	0.025	0.0112
+BASE BID — MAJOR SCOPE ITEMS
+RTUs / package units		√	√	√
+Supply ductwork		√	√	√
+Return / exhaust ductwork		√	√	√
+Kitchen hood ventilation (if any)		?	?	?
+Exhaust fans (restroom, kitchen)		√	√	√
+Refrigerant piping		?	?	?
+Duct insulation		√	√	√
+Diffusers / grilles / registers		√	√	√
+Controls / BAS		?	?	?
+T&B (per NRP — included in BP 100)		?	?	?
+Startup / commissioning		?	?	?
+Electrical power (BP 103 interface)		—	—	—
+Permits & inspections		?	?	?
+As-builts		?	?	?
+BREAKOUTS
+Equipment supply		?	?	?
+Ductwork / install		?	?	?
+Controls / T&B		?	?	?
+ALTERNATES
+Alt 100.01 — Evac Split Sys Refrigerant at ES		+$6,500	+$3,500	+$7,500
+Alt 100.02 — Caliche Unit Rate ($/CY)		O	O	O
+Alt 100.03 — DEDUCT Combine w/ BP #098		O	—	O
+KEY NOTES & SCOPE GAPS
+• US Mech lowest base + also bid BP 098 (combined opportunity).
+• Bombard 0.6% bond — verify.
+• All three missed Alt 100.02 (Caliche) and Alt 100.03 (combine deduct).
+• T&B inclusion needs explicit confirmation — NRP put T&B under BP 100.
+CORE PRE-AWARD RECOMMENDATION
+Evaluate U.S. Mechanical combined BP 098+100 award; push Alt 100.03 deduct in descope.
+=== SHEET: BP103 ===
+BP #103 — Electrical & Low Voltage Systems (incl. Sports Field Lighting)
+Bldg electrical, branch wiring, panels, transformer tie-back, sports field lighting (Musco), LV, fire alarm (per RFI 4).
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Conti LLC	JW Electric	Kill A Watt LLC	Quantum Electric	Wheeler's Electric
+BASE BID (as submitted)	BC Form §Base	1402936	807250	2033200	937714	1286010
+P&P Bond Rate	Form §Bonding	0.01	0	0.03	0.017	0.01
+BASE BID — MAJOR SCOPE ITEMS
+Concessions branch wiring		√	√	√	√	√
+Panels, breakers, distribution		√	√	√	√	√
+Service tie-back to existing HS ER/TR		?	?	?	?	?
+Sports field lighting fixtures (Musco)		?	?	?	?	?
+Sports field light pole supply		?	?	?	?	?
+Sports field light pole bases (Alt 103.02)		?	?	?	?	?
+Site / parking lot lighting		?	?	?	?	?
+Concessions kitchen power (RTUs, equipment)		√	√	√	√	√
+Site power for scoreboard		?	?	?	?	?
+Site power for ticket booth		?	?	?	?	?
+Bleacher / press box power		?	?	?	?	?
+Fire alarm (per RFI 4 — tie to existing FAP)		?	?	?	?	?
+Low-voltage data / telecom		?	?	?	?	?
+Low-voltage A/V salvage / reinstall		?	?	?	?	?
+Grounding / bonding		√	√	√	√	√
+Testing / commissioning		?	?	?	?	?
+Permits & inspections		?	?	?	?	?
+Existing one-line / panel sched verified		?	?	?	?	?
+BREAKOUTS
+Building electrical		?	?	?	?	?
+Sports field lighting		?	?	?	?	?
+Site lighting		?	?	?	?	?
+Low-voltage		?	?	?	?	?
+Fire alarm		?	?	?	?	?
+ALTERNATES
+Alt 103.01 — Electrical Demo at ES		+$35,000	+$32,400	+$200,000	+$41,564	+$34,200
+Alt 103.02 — Light Pole Bases (sports lights)		O	O	O	O	O
+Alt 103.03 — Caliche Unit Rate ($/CY)		O	O	O	O	O
+RGB lights for football field (voluntary)		—	—	+$7,000	—	—
+KEY NOTES & SCOPE GAPS
+• JW Electric — extreme low base ($807K) + 0% bond = HIGH responsiveness risk.
+• Kill A Watt — $600K+ above next-highest; ES demo alt $200K vs $32-42K others.
+• All five missed Alt 103.02 (Light Pole Bases) and Alt 103.03 (Caliche).
+• Musco is supplying fixtures (footing info on file) — coordinate w/ awarded sub.
+• Per RFI 4 — Fire alarm IS required (tie to existing HS FAP per E3-00).
+CORE PRE-AWARD RECOMMENDATION
+Quantum Electric — best balance of price + responsiveness. Investigate JW Electric scope before relying on its $807K.
+=== SHEET: BP109 ===
+BP #109 — Prefabricated Ticket Booth (Supply)
+Pre-fabricated ticket booth supply. Install by BP 094 or GC. Final size TBD (4'x6' or 6'x8').
+Legend:   √ = INCLUDED   |   O = MISSING / EXCLUDED   |   ? = NEEDS CLARIFICATION   |   + = ADD value   |   − = DEDUCT value   |   √+ = SCOPE DUPLICATED
+Major Scope Item	Notes / SOW Ref	Guardian Booth (6'x8')	Par-Kut International	Porta-King
+BASE BID (as submitted)	BC Form §Base	74763	21635	17019
+P&P Bond Rate	Form §Bonding	0.03	0.02	0
+BASE BID — MAJOR SCOPE ITEMS
+Ticket booth structure (size TBD)		√ (6'x8')	√	√
+NV State certified structure		√	?	?
+PE-stamped structural calcs & drawings		√	?	√
+Windows / pass-through opening		√	√	√
+Door + hardware		√	√	√
+Electrical rough-in		?	?	?
+Interior lighting		?	?	?
+HVAC (split / wall unit)		?	?	?
+Interior finishes		√	√	√
+Exterior finish / color		√	√	√
+Freight to Tonopah		√	?	√
+Foundation / install (by GC/BP 094)		—	—	—
+Lead time / production schedule		?	?	?
+BREAKOUTS
+4'x6' size		√ (Quote #57653)	?	?
+6'x8' size		√ ($74,763)	?	?
+ALTERNATES
+N/A — Supply only		—	—	—
+KEY NOTES & SCOPE GAPS
+• Porta-King lowest at $17K. Guardian most documentation-complete.
+• Par-Kut $21K — confirm NV cert, PE-stamped drawings, freight.
+• Guardian 3% bond is high for supply.
+• Final size selection drives award.
+CORE PRE-AWARD RECOMMENDATION
+Pending final size selection — Porta-King if cert verified, otherwise Guardian.
+=== SHEET: Addenda & Clarifications ===
+ADDENDA & CLARIFICATIONS — SCOPE-RELEVANT ITEMS
+Items below are reflected in the per-package scope coverage tabs. Confirm every bidder acknowledges them.
+Source	Affected Pkg	Description
+Addendum #1 (05.06.26)	Specs	Section 08 71 00 - Door Hardware ADDED to project manual (affects BP 023, BP 056).
+Addendum #1 (05.06.26)	Drawings	Drawings C1, GD, G0-00, LS1-10, A1-20 — modified (cloud-tagged). BP 008, 016, 023, 030 affected.
+Clarification #1 RFI 1	BP 008	No paving at parking area or driveway — graded earth only. Only AC paving is running track per detail J/GD.
+Clarification #1 RFI 2 / 6	BP 008 / BP 021	Track AC = 4" Type II. Detail L on GD is asphalt (not concrete).
+Clarification #1 RFI 4	BP 103	Fire Alarm REQUIRED per code — tie to existing HS FAP (per Sheet E3-00).
+Clarification #1 RFI 5	BP 089	Scoreboard BOD = FB-2021 (FB-2022 discontinued).
+Clarification #1 RFI 8	BP 008	No slope stabilization required.
+Clarification #1 RFI 9	BP 023	Propane Tank Enclosure (Alt 023.01-C) = assume 150 LF, 6'H + 1 pair 3'-0" access gates.
+Clarification #1 RFI 10	BP 023 / BP 008	Salvage existing fencing — reuse fabric, hardware, and posts (reinstall). Demo by SOW 008.
+Clarification #1 RFI 11	BP 023 / BP 094	Fencing TOP of bleachers by BP 094. Fencing BELOW bleachers (under) by BP 023, 6'H.
+Clarification #1 RFI 13	BP 023	Chain link post footings — 6" below post bottom.
+Clarification #1 RFI 14	BP 008 / BP 022	Finished subgrade (compacted earth) and gravel subbase by BP 008. Geotextile + leveling sand + turf system by BP 022.
+Clarification #1 RFI 15	BP 008 / BP 022 / BP 030	Turf scope restructured: Base = turf above shock pad. BP 022 to provide DEDUCT alts for: Geo Liner, Leveling Sand, Field Drainage, Header Board. BP 008 to provide ADDITIVE alts for first three. BP 030 to provide additive alt for Header Board.
+Clarification #1 RFI 16	BP 002	Buildings to be abated = Bldgs #3-7 (was 3-6 in SOW).
+Clarification #1 RFI 17	BP 023	Temp fencing = 2,800 LF at HS + 2,300 LF at ES.
+Clarification #1 RFI 18	BP 023	Gate locking device per Section 08 71 00 (added by Add #1) + Section 32 31 13 §2.04.
+Clarification #1 RFI 19	BP 094	Apex height of bleachers — contractor to coordinate with mfr (needed for under-fencing height per RFI 11).
+Clarification #1 RFI 20	BP 023	Existing HS fencing replaced entirely (base bid). Deduct alt per RFI 10.
+Clarification #1 RFI 22	BP 023	A1-20 takes precedence on post sizes (overrides spec 32 31 13).
+Clarification #1 RFI 23	BP 045	Metal roofing spec (MBCI PBR panel) takes precedence over plans (Berridge Cee-lock).
+Clarification #1 RFI 24	BP 021	Track surfacing — install per mfr spec, MINIMUM 2 coats structural spray coating.
+Clarification #1 RFI 25	BP 045	Sheathing at eaves = 5/8" Dens Glass (no wood).
+Clarification #1 RFI 26	BP 031 / BP 061	All exterior CMU walls + restroom vestibule walls: CMU + 2" rigid insulation + fluid-applied AWB + 1.5" vertical hat channels + GYP BD. Knit takes no exception to standard Z-fur w/ rigid as alternative.
+Clarification #2 (05.07.26)	ALL — MAJOR	PREVAILING WAGE CHANGED — Project subject to CL-2026-100 (Clark County rates, NOT Southern Nevada Rural Region as originally stated). All bids must use CURRENT Clark Co. wage rates per NV OLC.
+Clarification #2	ALL	SB 82 Apprenticeship — project is a VERTICAL Construction Project.

@@ -1,0 +1,114 @@
+
+===== PAGE 1 =====
+Nye County School District
+Bid Documents
+13 3423
+Tonopah HS Field Replacement
+FABRICATED STRUCTURES
+April 20, 2026
+Page 1 of 2
+SECTION 13 3423
+FABRICATED STRUCTURES
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Pre-engineered shop-fabricated modular buildings.
+B.
+Handicap ramps.
+1.02 DESIGN REQUIREMENTS
+A.
+Installed Thermal Resistance of Wall System: R value of R-13.
+B.
+Installed Thermal Resistance of Roof System: R value of R-19.
+C.
+Installed Thermal Resistance of Floor System: R value of R-11.
+D.
+Design Loades:
+1.
+Roofs: 20 psf
+2.
+Floors: 50 psf
+3.
+Wind: 80 mph, Exposure C, 22.6 psf
+4.
+Seismic Zone: 4
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Shop Drawings: Indicate construction dimensions, materials, wall and roof systems, windows,
+doors and hardware, finish schedule, electrical systems, mechanical systems, plumbing
+systems, sprinkler systems, and hold down systems.
+1.04 QUALITY ASSURANCE
+A.
+Design structural components, develop shop drawings, and perform shop and site work under
+direct supervision of a Professional Structural Engineer experienced in design of this Work and
+licensed in the State of Nevada.
+1.
+Conform to applicable code for submission of design calculations as required for acquiring
+permits.
+2.
+Cooperate with regulatory agency or authority and provide data as requested.
+B.
+Manufacturer Qualifications: Company specializing in manufacturing products specified in this
+section, with not less than three years of documented experience.
+1.05 PRE-INSTALLATION MEETING
+A.
+Convene one week before starting work of this section.
+1.06 WARRANTY
+A.
+See Section 01 7000 - Closeout Submittals, for additional warranty requirements.
+B.
+Correct defective Work within a five year period after Date of Substantial Completion.
+PART 2 PRODUCTS
+2.01 PRE-ENGINEERED BUILDING
+A.
+Chassis: I-beam, quad axel, detachable hitch.
+B.
+Floor: Wood joist, 5/8" T&G Plywood.
+C.
+Exterior Walls: 2x4 HF Stud Grade, 7/16" wood siding, 4" wood trim.
+D.
+Interior Walls: 2x4 HF Stud Grade.
+E.
+Roof: LPDM Roofing, HF stud grade rafters.
+F.
+Skirting: Manufacturer's standard.
+2.02 COMPONENTS
+A.
+Windows: Horizontal slider, bronze, dual pane.
+
+
+===== PAGE 2 =====
+Nye County School District
+Bid Documents
+13 3423
+Tonopah HS Field Replacement
+FABRICATED STRUCTURES
+April 20, 2026
+Page 2 of 2
+B.
+Doors: As indicated on drawings.
+C.
+Finishes: As indicated on drawings.
+D.
+Security Bars: Manufacturer's standard, fixed, painted black.
+E.
+Mini Blinds: Manufacturer's standard, white.
+F.
+Grab Bars: 36" long and 48" long mounted 34" a.f.f.
+G.
+Toilet Accessories: Toilet Paper Holder, 24"x36" Mirror mounted 38" a.f.f., liquid soap
+dispenser.
+2.03 HANDICAP RAMP
+A.
+Manufacturer's standard metal ramp and handrails.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that grading, mechanical and electrical utilities, and placed anchors are in correct
+position
+3.02 STARTING EQUIPMENT AND SYSTEMS
+A.
+Provide manufacturer's field representative to prepare and start equipment.
+END OF SECTION

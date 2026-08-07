@@ -1,0 +1,5547 @@
+
+===== PAGE 1 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 1 of 15 
+SECTION 23 01 00
+BASIC HVAC REQUIREMENTS
+PART 1 GENERAL
+1.1
+RELATED DOCUMENTS
+A.
+Drawings and general provisions of the Contract, including General and Supplementary
+Conditions and Division 01 Specification Sections, apply to this Section.
+B.
+Where contradiction occurs between this section and Division 1, the more stringent of the
+two shall apply.
+C.
+The requirements of the commissioning process and all related commissioning support
+and the duties of all members of the Cx team are detailed and explained in Division 01.
+This contractor shall become familiar with the requirements and coordination obligations
+of Division 01, as well as this section, the Cx Plan and the project Cx Scheduled issued
+by the CxA (Commissioning Authority), so that the contractor will be knowledgeable of
+all tasks, and prepared to carry out, all Cx Process support requirements that apply to
+Division 23.
+1.2
+WORK INCLUDED
+A.
+Work includes:
+1.
+Provision of labor, material, equipment and transportation required to complete
+the Work as shown on the drawings, specified herein and/or implied thereby.
+B.
+Applicable provisions of General Conditions, Supplementary Conditions and all sections
+in Division No. 1 “General Requirements” govern work under this section.
+1.3
+DEFINITIONS
+A.
+“Provide” means furnish and install referenced item with all appurtenances.
+B.
+“Shall” indicates a mandatory requirement.
+C.
+“Air Conditioning” is defined as the treatment and/or handling of any air to any degree
+by the systems shown on the drawings and herein specified and is not restricted to
+refrigerated cooling.
+D.
+“Or Equal” is defined as approved as equal by the Owner’s Authorized Representative.
+1.4
+DELIVERY AND STORAGE OF MATERIALS
+A.
+Provide for the safety and good condition of all materials and equipment until final
+acceptance by the Owner. Protect all materials and equipment from damage from any
+cause whatever, and provide adequate and proper storage facilities during the progress of
+the work. Replace all damaged and defective work, material or equipment prior to filing
+application for final acceptance.
+B.
+Cap or plug openings in equipment, piping, ducts and other systems to exclude entrance
+of dirt and other foreign material during construction.
+C.
+Material storage shall be the contractor’s responsibility. Coordinate the storage of
+materials on site prior to purchasing of materials. Storage shall comply with Owner’s
+Authorized Representative’s requirements.
+1.5
+CODES AND STANDARDS
+A.
+All work and materials shall be in full accordance with the latest adopted rules and
+regulations of the Nevada State Fire Marshal Division; the National Electrical Code
+
+
+===== PAGE 2 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 2 of 15 
+(NEC); the Uniform Plumbing Code, 2024 edition; the Uniform Mechanical Code, 2024
+edition; International Building Code, 2024 edition; and other applicable codes, laws or
+regulations of bodies lawfully empowered and having jurisdiction over this project.
+ Nothing in the plans or specifications is to be construed to permit work not conforming
+to these codes. When codes conflict with one another, provide larger, higher or more
+restrictive standards without additional costs.
+1.6
+PERMITS
+A.
+Obtain all permits, patent rights, and licenses that are required for the performing of this
+work by all laws, ordinances, rules and regulations, or orders of any officer and/or body.
+ Provide all notices necessary in connection therewith, and pay all fees relating thereto
+and all costs and expenses incurred on account thereof. No work shall be covered before
+inspection by the jurisdictional authorities and observation by the Architect.
+1.7
+EXPLANATION AND PRECEDENCE OF DRAWINGS
+A.
+Drawings and specifications are intended to be read together so that any work mentioned
+in one and not the other shall be executed the same as if mentioned in both.
+B.
+For purposes of clearness and legibility, drawings are essentially diagrammatic, and,
+although size and location of equipment are drawn to scale where possible, Contractor
+shall make use of all data in all the contract documents and shall verify this information
+at building site. At various locations, systems are drawn distorted for clarity.
+C.
+Where the contract specifications and/or drawings are in conflict, obtain clarification of
+such during bidding. Clarification will only be given in written addendum form. Where
+addenda for clarification of such is not timely, base the bid on the higher standards or
+more restrictive requirements; prior to submission of product submittals, preparation of
+shop drawings and fabrication, obtain written clarification.
+D.
+The drawings indicate required size and points of termination of piping and ductwork,
+and suggest proper routes to conform to structure avoid obstructions and preserve
+clearances. However, it is not intended that drawings indicate all necessary offsets, and it
+shall be the work of the Contractor to make the installation in such a manner as to
+conform to the structure, avoid obstructions, preserve headroom and keep openings and
+passageways clear, without further instructions or cost to the Owner.
+E.
+It is intended that all HVAC devices, piping, etc. be located symmetrically with all
+architectural elements. Refer to architectural, structural, electrical, plumbing plans and
+details in completing the required coordination. All system offsets, unless noted on
+drawings, shall be rectilinear. Offsets and transitions shall comply with best practices
+and applicable standards.
+F.
+The Contractor shall fully inform himself regarding any and all peculiarities and
+limitations of the spaces available for the installation of all work and materials furnished
+and installed under the Contract. He shall exercise due and particular caution to
+determine that all parts of his work are made quickly and easily accessible.
+G.
+Submittal of bid shall indicate the Contractor has examined the site, drawings and
+specifications and has included all required allowances in his bid. No allowances shall be
+
+
+===== PAGE 3 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 3 of 15 
+made for any error resulting from Contractor’s failure to visit job site and to review
+drawings and specifications.
+1.8
+COORDINATION DRAWINGS
+A.
+Prepare coordination drawings at a scale not less than 1/8” equals 1’-0” for all areas of
+work. Submit and receive approval prior to commencing fabrication and/or installation.
+ Major discrepancies from design documents shall be clearly identified.
+B.
+These drawings shall be mutually prepared by all contractors. The sheet metal contractor
+shall initiate the drawing production. Each additional trade shall add their systems as
+required to complete full coordination. Each trade shall date and sign composite
+drawing.
+C.
+If locations arise during construction where multiple disciplinary systems cannot fit in the
+space allocated as a result of one non-coordinate disciplinary system installation. The
+general contractor or the subcontractor who fails to coordinate shall be responsible for the
+system modifications required to make them fit.
+D.
+Where conflicts arise during the completion of the coordination drawings, the general
+contractor shall determine resolution.
+1.9
+RECORD DRAWINGS
+A.
+Provide and maintain on the job one complete set of blueline prints of the drawings for
+the HVAC work. Carefully record on this set of prints, all work including ductwork,
+piping, valves, etc., which is installed differently from that indicated on the drawings;
+locate dimensionally from fixed points all buried piping including depths relative to
+finish floor elevations. Mark all changes of location of piping, ducts, and equipment in
+accordance with Division 1.
+B.
+These drawings shall be continuously kept up-to-date, and shall be available for
+inspection at all times. Major discrepancies from approved shop drawings shall be
+clearly identified and resubmitted.
+C.
+At completion of work, provide a neat and legible reproducible set of these up-to-date
+drawings which shall be individually signed and dated by the Contractor and the job
+inspector as to their accuracy.
+D.
+Such drawings shall be submitted for acceptance and approval to the Owner’s Authorized
+Representative before final certificate of acceptance will be issued.
+1.10
+CUTTING AND PATCHING
+A.
+Perform all cutting and fitting required for work of this section in rough construction of
+the building.
+B.
+All patching of finished construction of building shall be performed under the sections of
+specifications covering these materials by the trades at no additional cost to the Owner.
+C.
+All cutting of concrete work by Contractor shall be by core drilling or concrete saw.
+ Verify all connections to structure and cutting/core drilling sizes and locations with
+structural engineer prior to commencing work.
+D.
+All patching of surfaces shall match adjacent material and finish.
+
+
+===== PAGE 4 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 4 of 15 
+1.11
+DAMAGE BY LEAKS
+A.
+Contractor shall be responsible for damage to the grounds, walks, roads, buildings, piping
+systems, electrical systems and their equipment and contents, caused by leaks in the
+piping system being installed or having been installed herein. He shall repair at his
+expense all damage so caused. All repair work shall be done as directed by the Owner’s
+Authorized Representative.
+1.12
+EMERGENCY REPAIRS
+A.
+The Owner reserves the right to make emergency repairs as required to keep equipment
+in operation without voiding the Contractor’s guarantee bond nor relieving the Contractor
+of his responsibilities.
+1.13
+COORDINATION
+A.
+The Contractor shall fully inform himself regarding any and all peculiarities and
+limitations of the spaces available for the installation of all work and materials furnished
+and installed under the contract. Coordinate with all other trades in advance of the work,
+requirements for openings, recesses and chases in the walls, partitions, equipment
+housekeeping pads, framing or openings and routing of piping, ductwork, conduit, etc.
+relative to each trade to alleviate conflicts. Should furnishing, requesting and
+coordinating this information be neglected, delayed or incorrect and additional work is
+found to be required, the cost of same shall be borne by the responsible Contractor.
+B.
+This contractor shall coordinate at minimum the following:
+1.
+All duct conduit and pipe openings with general contractor.
+2.
+All equipment support locations (hung or floor mounted) with general contractor.
+3.
+All fire smoke damper and powered equipment locations with the electrical and
+fire alarm contractor.
+1.14
+SUBMITTALS
+A.
+Prior to commencement of work and in accordance with the General Requirements,
+submit for review a list of all proposed equipment and material to be provided. By
+submitting the proposed equipment lists, it is deemed that the Contractor has performed
+the following: verified the delivery dates and such are compatible with the specified
+construction schedule; verified that the equipment is of proper size to accommodate the
+conditions specified or indicated. Where manufacturers without specific model numbers
+are named, such shall be regarded as acceptable as to the manufacturer only and not as to
+any specific equipment of the named manufacturer. Specific equipment of such name
+manufacturers shall comply with all requirements and shall be submitted for review. By
+proposing substitutions, it is deemed that the Contractor shall bear the cost of any
+construction or design changes necessary to accommodate the substitutions including but
+not limited to electrical, structural, architectural, plumbing modifications. Refer to
+Substitution Section in this section for additional requirements.
+B.
+Provide formal submittal to Owner’s Authorized Representative. Review of the formal
+submittal is only for general conformance with design concept of project and general
+
+
+===== PAGE 5 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 5 of 15 
+compliance with the information given in the contract documents. The Contractor is
+responsible for confirmation and correlation of the dimensions, quantities and sizes, for
+information that pertains to fabrication methods or construction techniques, and for
+coordination of work of all trades. Deviations from Drawings and Specifications shall be
+clearly and completely indicated by a separate letter in the formal submittals, and the lack
+of such is deemed complete compliance with Drawings and Specifications without any
+deviations. Submittals favorably processed will not relieve the Contractor of
+responsibility for errors or deviations not so reported by a separate letter.
+1.
+Products and equipment specified and/or scheduled on the drawings with
+manufacturers names and models identified, constitutes the basis of design,
+including but not limited to performance, acoustical characteristics, fir in
+allocated space, service and maintenance clearances, equipment replacement
+access space, and availability of reliable service at the project location and
+substitution of products and equipment specified and/or scheduled on the
+drawings with products or equipment of another manufacturer requires prior
+approval by Owners Authorized Representative in accordance with General
+Requirements.
+2.
+Model numbers used may not indicate all features or options required for this
+specific installation. Modify the specified models to comply with all
+requirements, as specified and/or shown.
+3.
+Product Data for Proposed Substitutions:
+a.
+Submit copies of complete data, with drawings and samples as
+appropriate, including:
+1)
+Comparison of the qualities of the proposed substitution with
+that specified.
+2)
+Changes required in other elements of the work because of the
+substitution.
+3)
+Affect on construction schedule.
+4)
+Cost data comparing the proposed substitution with the product
+specified.
+5)
+Availability of maintenance service and source of replacement
+materials at the project location.
+6)
+Any requests for equipment substitution shall include ¼” =1’-0”
+scale layouts of proposed equipment in plan, elevations and
+sections complete with piping and ductwork hookups as
+applicable, to verify fit within allocated spaces, service and
+maintenance clearances and equipment replacement access
+spaces.
+b.
+Acceptance of substitutions is entirely at the discretion of the Owner’s
+Authorized Representative.
+C.
+All formal submittals shall be complete and with catalog data and information properly
+marked to show, among other things, equality of material (where substitution is allowed
+
+
+===== PAGE 6 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 6 of 15 
+and desired), adequacy in capacity and performance to meet minimum capacities or
+performance as specified or indicated. Arrange the submittals in the same sequence as
+these Specifications.
+D.
+Do not fabricate or deliver materials or equipment until formal submittals have been
+approved. Where material or equipment is used without such approval, it is deemed that
+the material or equipment shall be in complete compliance with drawings and
+specifications, without additional cost where such compliance is lacking.
+E.
+Submittals shall be bound and shall include, as a minimum, the following:
+1.
+Complete bill of materials listing equipment furnished and quantity of each
+component as applicable.
+2.
+Catalog cut sheets of every component being provided with all items clearly
+highlighted.
+3.
+Provide complete blueline shop drawings of the equipment detailing all field
+connection points.
+4.
+Dimensions including weights and capacities.
+5.
+Wiring diagrams showing control interface as applicable.
+6.
+Warranty sheets.
+7.
+Pressure drops as applicable.
+8.
+Required clearances for maintenance.
+F.
+Upon permission to proceed, after review of the formal submittal and prior to the
+installation of work, submit dimensional and scaled, not less than ¼” equal to one foot,
+coordination drawings of all ductwork and piping floor plans and mechanical equipment
+rooms and areas. Such layouts shall indicated but not necessary be limited to, all
+mechanical equipment, control panels, pipe risers, routes of major pipes, housekeeping
+pads, electrical stub-ups and points of connection, clearances for servicing and
+maintaining equipment, proposed routing of larger equipment into and thru the building
+during construction and other like items. The layouts shall also indicate major equipment
+to be provided under other sections of work. Prepare floor plans, reflected ceiling plans,
+elevations, sections and details as required to indicate a coordinated effort has been
+addressed between all trades to alleviate problem areas due to limited space, sequencing
+of construction, etc. so as to not impede the efficient flow of work and account for
+unwarranted delays and costs.
+1.15
+SUBSTITUTIONS
+A.
+If substitutions of controls or equipment requires any changes in the structural design
+and/or electrical work from that shown on the drawings, the extra cost of the equipment,
+added structural and/or electrical work shall be the responsibility of the Contractor
+requesting the substitution.
+B.
+If the Contractor proposes substitutions of any equipment specified herein or on the
+drawings, it shall be the Contractor’s responsibility to obtain approval for such equipment
+as well as approval for anchorage of such equipment from governing approval agencies.
+ All costs required for such approval shall be the responsibility of the Contractor
+requesting the substitution.
+
+
+===== PAGE 7 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 7 of 15 
+C.
+The Contractor shall coordinate the installation of an approved substitution, make such
+changes as may be required for the work to be completed and be made compatible with
+other systems in all respects.
+1.16
+ELECTRICAL REQUIREMENTS
+A.
+When electrical work is specified in subsequent sections to be furnished and installed by
+the Mechanical Contractor, it shall be installed in strict and full accordance with the
+requirements of Division 26.
+B.
+The power wiring, safety switches, combination controllers, (indicated on the electrical
+drawings), circuit breakers, ,motor-control equipment forming part of motor control
+centers or switchgear assemblies, and the electrical connections of the HVAC equipment
+to the electrical power source shall be provided under Division 26 (unless noted
+otherwise).
+C.
+The electrical components of HVAC equipment including, but not limited to, motor
+controllers (starters), control or push-button stations, float/pressure switches, solenoid
+valves, thermostats, junction boxes and other devices functioning to control HVAC
+equipment shall be provided under Division 23. Interconnecting wiring for packaged
+equipment shall be provided as an integral part of the equipment.
+D.
+Control Wiring: Line voltage wiring and conduit controlling HVAC equipment not
+shown on electrical drawings shall be provided under Division 23. All low voltage
+wiring required for controlling HVAC equipment shall be provide under Division 23
+(unless otherwise shown on Electrical Drawings). Installation of these items shall
+comply with Division 26.
+1.17
+SEISMIC RESTRAINT
+A.
+This contractor shall submit stamped and signed documents by a professional structural
+engineer registered in the same state as the project certifying that all the associated
+systems meet the seismic requirements set forth in all the applicable codes associated
+with the project. This shall apply to all HVAC systems.
+1.18
+USE OF ENGINEERS DRAWINGS
+A.
+HVAC Auto CADD drawings will be furnished by the Architect/Engineering Firm at
+contractor’s request via Architect/Owner. Prior to furnishing such files. Contractor shall
+provide and sign a disclaimer noting the following:
+1.
+The Architect/Engineering Firm is not responsible for any use by the contractor
+of such drawings.
+2.
+The contractor shall not use such drawings for any purposes other than the
+associated project.
+1.19
+COMMISSIONING
+A.
+Commissioning is a comprehensive and systematic process to verify that the building’s
+energy related systems are installed, calibrated and perform according to the owner’s
+project requirements, basis of design, and construction documents.
+
+
+===== PAGE 8 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 8 of 15 
+PART 2 PRODUCTS
+2.1
+GENERAL
+A.
+Products and materials shall be described in the pertinent section for Division 23 –
+HVAC.
+B.
+Products and materials not specified within the specifications but specified on the
+drawings shall be as described on the drawings.
+C.
+Materials and equipment: Wherever possible, all materials and/or equipment used for
+similar service shall be of the same manufacturer.
+2.2
+MATERIALS
+A.
+All labor shall be carefully skilled for this kind of work and under the direction of a
+competent foreman (HVAC work).
+B.
+All materials shall be new and in perfect condition.
+C.
+Equipment shall bear the manufacturer’s label showing performance characteristics.
+ Identifying size number shall be given only when it is not practicable or customary to
+show performance characteristics.
+D.
+Equipment shall bear the label of a nationally recognized listing agency and shall be
+installed in accordance with the manufacturer’s installation requirements to maintain the
+listing.
+E.
+All valves, pipe, fitting, etc., shall bear the manufacturer’s name or trademark.
+F.
+Unless otherwise specified herein, all equipment and fixtures shall be installed in
+accordance with the manufacturer’s recommendations, including recommended service
+and removal or clearances.
+PART 3 EXECUTION
+3.1
+TESTS
+A.
+Contractor shall make all tests required by all legally constituted authorities and as
+follows:
+1.
+All tests shall be made in the presence of the Owner’s Authorized Representative
+and a duly Authorized inspector. The Owner’s Authorized Representative shall
+be notified in writing five (5) working days before test are made.
+2.
+Concealed work and insulated work shall remain uncovered until required testing
+has been performed and approved by the Owner’s Authorized Representative. If
+work required to be tested is covered before the approval of the Owner’s
+Authorized Representative has been obtained, it shall be uncovered for testing at
+the Contractor’s expense.
+3.
+Obtain all required documents of certification indicating approval, acceptance
+and compliance with the requirements of all administrative authorities having
+jurisdiction over the work. No final payment shall be made until all such
+certificates are delivered to the Owner’s Authorized Representative.
+4.
+Furnish labor, materials, instruments and bear other costs in connection with all
+test.
+5.
+All piping, equipment and appurtenances shall be capable of operating within the
+given pressure and temperature characteristics of the project conditions. All
+
+
+===== PAGE 9 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 9 of 15 
+piping systems, except as hereinafter specified, shall be given hydrodrastic (with
+water) test of at least 150% of the maximum operating pressure unless otherwise
+noted.
+6.
+Before making test, remove or valve off from the system, gauges, traps, and other
+apparatus or equipment which may be damaged by test pressure.
+7.
+Install a calibrated test pressure gauge in the system to observe any loss in
+pressure. Maintain the required test pressure for a sufficient length of time to
+enable an inspection to be made of all joints and connections. Perform tests after
+installation and prior to acceptance.
+8.
+Final pressures at the end of the test period shall be no more or less than that
+caused by expansion or contraction of the test medium due to temperature
+changes.
+9.
+After tests have been made and leaks repaired, clean and flush systems as
+hereinafter specified. Water piping shall be left under supply main pressure for
+the balance of the construction period.
+3.2
+PROTECTION AND CLEAN-UP
+A.
+Protection: Provide for the safety and good condition of all materials and equipment until
+final acceptance of the Owner’s Authorized Representative. Protect all materials and
+equipment from damage from any cause whatever, and provide adequate and proper
+storage facilities during the progress of the work and replace all damaged and defective
+material, equipment or work prior to filing application for final acceptance. Equipment,
+piping and ductwork shall be stored at least six inches off the ground on blocking and
+kept clean. During construction properly cap all ducts, pipes and equipment and
+appurtenances to prevent the entrance of sand and dirt.
+B.
+Cleaning
+1.
+Thoroughly clean all piping, ductwork and all parts of the fixtures, apparatus and
+equipment. Clean all ductwork, piping apparatus and equipment that are to be
+insulated prior to installation of insulation. All parts shall be thoroughly cleaned
+of sand, dirt, cement, plaster, rust, and other materials, and all grease and oil
+spots removed. Such surfaces shall be carefully wiped and all cracks and corners
+scraped out. All code stamps and nameplates shall be protected from damage
+and must be clean and legible before final inspection.
+2.
+Exposed rough metal work shall be carefully brushed down with steel brushes to
+remove rust and other spots and left in clean condition to receive painter’s finish.
+ Where factory prime coat has been damaged, this Contractor shall be responsible
+for restoration of same.
+3.
+All piping shall be flushed out or blown out after pressure testing is complete and
+before being put into use. All strainer screens shall be removed and cleaned.
+ After start-up and testing, strainer screens shall again be removed and cleaned.
+4.
+SMACNA’s Duct Cleanliness for New Construction Guideline 3.1 requires that
+the level of cleanliness be specified. Duct shall be cleaned to an intermediate
+level.
+
+
+===== PAGE 10 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 10 of 15 
+3.3
+STRUCTURAL STEEL
+A.
+Provide all materials, equipment, supplies and labor necessary to construct all structural
+steel required for supporting piping, ductwork and equipment and miscellaneous steel
+work shown on the Drawings; as herein specified, or as may be required for installation
+of the HVAC system.
+B.
+All miscellaneous structural steel for support of HVAC work is not shown on the
+Drawings. Whether structural steel is shown or not shown on the drawings, it shall be
+provided. The Contractor shall confirm all structural steel sized components which are
+shown on the drawings.
+C.
+Structural steel shall be provided in the following locations
+1.
+For all piping and ductwork mounted below a roof with metal deck construction.
+2.
+For all piping and ductwork mounted under a floor with cellular metal deck
+construction.
+3.
+For all pipe supports for piping 8 inches in diameter and larger.
+4.
+At the bottom of all pipe risers 6 inches in diameter and larger.
+5.
+For all pipe anchors and pipe guides.
+6.
+For all pipe racks.
+7.
+For all pipe hangers which are not listed or shown in reputable pipe hanger
+manufacturer catalogues or shown in the latest issue of MSS SP69.
+D.
+All structural steel shall be designed to attach to the main building structure in such a
+manner as to not over stress this structure. Reinforcement of the building structure may
+be required in work areas located in existing buildings; reinforcement of the existing
+structure under the base contract will not be required unless specifically called for on the
+drawings. In areas where the Contractor has relocated ductwork, piping, and equipment
+to areas other than is shown on the Drawings, the Contractor shall bear all costs of
+additional reinforcement which may be required.
+E.
+Structural design shall be provided through the Contractor by a Civil or Structural
+Engineer who is registered in the State of Nevada.
+F.
+Details of all structural steel shall be provided in shop drawing format. All structural
+steel shop drawings shall be stamped by the Contractor’s design Engineer prior to
+submittal. All attachments to building structure shall be approved by the project
+structural engineer prior to fabrication or installation.
+G.
+The design, materials, fabrication and erection shall conform to “Specifications for the
+Design, Fabrication and Erection of Structural Steel for Buildings” of the American
+Institute of Steel Construction, “Code of Standard Practice for Steel Buildings and
+Bridges”, of the American Institute of Steel Construction, and also, when applicable,
+shall conform to the “Code for Welding Building Construction” of the American Welding
+Society.
+H.
+The Contractor shall be responsible for cutting and patching fireproofing, as required,
+when connecting new miscellaneous steel to the building structure.
+
+
+===== PAGE 11 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 11 of 15 
+3.4
+COMMISSIONING AND PRELIMINARY OPERATIONAL TEST
+A.
+Prior to inspection to determine substantial completion, the Contractor shall put all
+HVAC systems into service and check that work required for that purpose has been done,
+including but not limited to the following condensed check list
+1.
+Correct rotation of motors and ratings of overload heaters are verified.
+2.
+Specified clean filters are installed and spares are on hand when specified.
+3.
+All equipment has been started, checked, lubricated and adjusted in accordance
+with the manufacturer’s recommendations.
+4.
+All manufacturers certificates of start-up specified have been delivered to the
+Owners Authorized Representative.
+5.
+All equipment has been cleaned, and damaged painted finishes touched-up.
+6.
+Damaged fins on heat exchangers have been combed out. Missing or damaged
+parts have been replaced.
+7.
+Flushing and chemical treatment of piping systems has been done and water
+treatment equipment, where specified, is in operation.
+8.
+Equipment labels, pipe marker labels, ceiling markers and valve tags are
+installed.
+9.
+Valve tag schedules, correct control diagrams, sequence of operation lists and
+start-stop instructions have been posted.
+10.
+Test and balance work is complete.
+11.
+Maintenance manuals have been delivered and instructions to the Owners
+operating personnel have been made.
+12.
+Fire Alarm Control Panel testing is complete.
+13.
+Emergency Generator Load Bank Testing is complete.
+14.
+Control Energy Management System Point to Point testing is complete.
+15.
+TAB identified deficiencies have been resolved.
+16.
+Final TAB Report is submitted for review.
+17.
+Provide all instruments, equipment, labor and materials to complete the tests.
+ These tests may be required at any time between the installation of the work and
+the end of the warranty period. Should these tests expose any defective
+materials, poor workmanship or variance with requirements, make any changes
+necessary and remedy any defects at no cost to the Owner.
+B.
+Prior to the inspection to determine substantial completion, the Contractor shall operate
+all HVAC systems as required to demonstrate that the installation and performance of
+these systems conform to the requirements of the Contract Documents.
+C.
+Before handing over the system to Owner, replace temporary filters with complete new
+set of filters.
+3.5
+REVIEW OF CONTRACTOR’S TEST
+A.
+All tests made by the Contractor or manufacturer’s representatives are subject to
+observation and review by the Owner’s Authorized Representative and Commissioning
+agent; the Contractor shall provide written notice five (5) days prior to testing. Testing
+shall be grouped and sequential as practical.
+
+
+===== PAGE 12 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 12 of 15 
+3.6
+TEST LOGS
+A.
+The contract shall maintain test logs listing the tests on all HVAC systems showing dates,
+items tested, inspector’s names, remarks on success or failure of the tests.
+3.7
+CLEANING UP AND REMOVAL OR SCRAP
+A.
+For work under all HVAC sections, trash and scrap shall be cleaned up and removed
+from the site as the work progresses.
+3.8
+DAMAGE RESPONSIBILITY
+A.
+The contractor shall be responsible for damage to the grounds, buildings or equipment,
+and the loss of refrigerants, fuels or gases, caused by leaks or breaks in pipes for
+equipment furnished or installed under this Division.
+3.9
+PRELIMINARY OPERATION
+A.
+The Owner reserves the right to operate portions of the HVAC system on a preliminary
+basis without voiding the guarantee.
+3.10
+OPERATIONAL TEST
+A.
+Before operational tests are performed, demonstrate that all systems and components are
+complete and fully charged with operating fluid and lubricants.
+B.
+Systems shall be operable and capable of maintaining continuous uninterrupted operation
+during the operating and demonstration period. After all systems have been completely
+installed, connections made, and tests completed, operate the systems continuously for a
+period of five (5) working days during the hours of a normal working day.
+C.
+Control systems shall be completely operable with settings properly calibrated and
+adjusted.
+D.
+Rotating equipment shall be in dynamic balance and alignment.
+E.
+If the system fails to operate continuously during the test period, the deficiencies shall be
+corrected and the entire test repeated.
+3.11
+MAINTENANCE AND OPERATION INSTRUCTIONS, ETC.
+A.
+General: Thoroughly instruct the Owner’s operators in every detail of operation of the
+system. Provide the Owner with a list of all equipment, giving the manufacturer’s name,
+model number, serial number, parts list and complete internal wiring diagrams. All
+directions for operation furnished by the manufacturer shall be carefully saved and turned
+over to the Owner, together with written sequence of operation, operating and
+maintenance instructions for each system and its equipment. Coordinate scheduling of
+instruction times with Owner’s operators.
+B.
+Specific Data: Provide complete sets of documentation in accordance with Division 1
+requirements. Where quantities are not clearly defined in Division 1, submit four (4)
+complete sets. The following data shall be submitted to the Owner for approval prior to
+acceptance of the installation, complete and at one time; (partial or separate data will not
+be accepted) data shall consist of the following:
+1.
+Valve Directory: Indicating valve number, location, function and normal
+operating position for each.
+2.
+Piping identification schedule.
+3.
+Equipment: List of nameplates, including nameplate data.
+
+
+===== PAGE 13 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 13 of 15 
+4.
+Manufacturer’s Literature: Copies of manufacturer’s instructions for operation
+and maintenance of all mechanical equipment, including replacement parts lists
+and drawings. Mark or highlight brochure literature indicating the models, sizes,
+capacities, curve operating points, etc., in a manner to clearly indicate the
+equipment in-stalled. Remove all pages or sheets from the bulletin and catalogs
+that do not pertain to equipment installed on the project.
+5.
+Written Instructions: Typewritten instructions for operation and maintenance of
+the system composed or OPERATING INSTRUCTIONS, MAINTENANCE
+INSTRUCTIONS and a MAINTENANCE SCHEDULE.
+6.
+OPERATING INSTRUCTIONS shall contain a brief description of the system.
+ Adjustments requiring the technical knowledge of the service agency personnel
+shall not be included in the operating instructions. The fact such adjustments are
+required, however, shall be noted.
+7.
+MAINTENANCE INSTRUCTIONS shall list each item of equipment requiring
+inspection, lubrication or service and describe the performance of such
+maintenance.
+8.
+MAINTENANCE SCHEDULE shall list each item of equipment requiring
+maintenance, shall show the exact type of bearing on every component of each
+item of equipment, and shall show when each item of equipment should be
+inspected or serviced.
+9.
+Instructions: Operating personnel shall be instructed in the operation of the
+system in accordance with typewritten, approved instructions.
+10.
+Letters of certification as required under other sections.
+11.
+A CD or similar electronic storage media including original PDF files for each of
+the above shall be included with each copy. Furnish a dedicated index of the
+electronic media contents identifying the file name associated with each
+document.
+C.
+Binders: Assemble sets of the above data in loose-leaf ring-type binders with permanent
+covers, with identification on front and on spine. Provide appropriate sleeve for
+electronic media.
+D.
+The above shall in no way preclude the requirements of other sections of these
+specifications – and is to be supplemental to other paragraphs on this subject found in this
+section and other sections.
+3.12
+SPECIAL REQUIREMENTS
+A.
+Owner Training – Each subcontractor and vendor responsible for training will submit a
+written training plan and/or course syllabus to the CxA for review and approval prior to
+training.
+B.
+During the guarantee period and as directed by the Owner, make any additional tests,
+adjustment, etc., that may be required and correct any defects or deficiencies arising from
+operation of the systems. Operational tests shall be made during both heating and cooling
+seasons and on all systems.
+
+
+===== PAGE 14 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 14 of 15 
+C.
+All training sessions provided to the Owner shall be recorded and provided on DVD to
+Owner at completion of the project.
+D.
+Guards: Furnish and install removable guards around all moving parts of all equipment
+and/or apparatus. Guards shall be securely anchored to floor or equipment, and shall
+provide protection at ends and sides to prevent contact with sheaves, belts, couplings, etc.
+ Holes in suitable locations shall be provided for measuring speeds.
+E.
+Completion:
+1.
+When the installation is complete and adjustments specified herein have been
+made, the system shall be operated for a period of one week, during which time it
+shall be demonstrated to the Owner’s Authorized Representative as being
+completed and operating in conformance with these specifications. The
+Contractor shall schedule all work so that this time period, which is to confirm a
+“bug-free” system, will occur before the total project is accepted for substantial
+completion by Owner.
+2.
+The work hereunder shall not be reviewed for final acceptance until operating
+and maintenance data, manufacturer’s literature, valve directories, piping
+identification code directory, and nameplates specified herein have been
+approved and properly posted in the building.
+3.13
+GUARANTEE/WARRANTY
+A.
+Guarantees and warranties shall be as defined in Division 1 Sections.
+B.
+All materials, apparatus and equipment furnished and installed under the HVAC division
+of these specifications, shall be new and fee from any defects. Should any problems
+develop within one year from date of acceptance of the work, due to inferior or faulty
+materials and/or workmanship, the problems shall be corrected by this Contractor without
+expense to the Owner. Any defective materials or inferior workmanship noticed at the
+time of installation or during the guarantee period shall be corrected immediately to the
+entire satisfaction of the Owner.
+C.
+The work shall be installed of such materials and in such a manner that:
+1.
+All apparatus or equipment shall operate in accordance with detailed
+specifications covering each item.
+2.
+Contractor shall guarantee that his installation of all materials and equipment will
+meet the performance requirements of these specifications and that all equipment
+will deliver the specified or required capacities.
+3.
+The Owner reserves the right to make temporary or emergency repairs as
+necessary to keep equipment in operating condition without voiding the
+guarantee contained herein nor relieving the Contractor of his responsibilities
+during the guarantee period.
+4.
+Contractor shall be responsible for all damage to any part of the premises caused
+by leaks or break in pipe lines, fixtures or equipment furnished and installed
+under his contract for a period of one year after date of acceptance of the project
+by Owner. He shall replace in kind, at his own expense, any and all items so
+damaged to the complete satisfaction of the Owner.
+
+
+===== PAGE 15 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 01 00
+BASIC HVAC REQUIREMENTS
+Page 15 of 15 
+5.
+The above shall be supplemental to and in no way preclude the requirements of
+other sections of these specifications
+6.
+After operation of any liquid system and if any piping, coils or other components
+be-come air bound, this contractor shall make all necessary system modifications
+including but not limited to repiping (as approved), installation or air vents or
+fittings at no extra cost to the Owner.
+END OF SECTION
+
+
+===== PAGE 16 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 1 of 10 
+SECTION 23 05 00
+COMMON WORK RESULTS FOR HVAC
+PART 1 GENERAL
+1.1
+RELATED DOCUMENTS
+A.
+Drawings and general provisions of the Contract, including General and Supplementary
+Conditions and Division 01 Specification Sections, apply to this Section.
+1.2
+SUMMARY
+A.
+This Section includes the following:
+1.
+Piping materials and installation instructions common to most piping systems.
+2.
+Transition fittings.
+3.
+Dielectric fittings.
+4.
+Mechanical sleeve seals.
+5.
+Sleeves.
+6.
+Escutcheons.
+7.
+Grout.
+8.
+Equipment installation requirements common to equipment sections.
+9.
+Painting and finishing.
+10.
+Concrete bases.
+11.
+Supports and anchorages.
+1.3
+DEFINITIONS
+A.
+Finished Spaces: Spaces other than mechanical and electrical equipment rooms, furred
+spaces, pipe and duct chases, unheated spaces immediately below roof, spaces above
+ceilings, unexcavated spaces, crawlspaces, and tunnels.
+B.
+Exposed, Interior Installations: Exposed to view indoors. Examples include finished
+occupied spaces and mechanical equipment rooms.
+C.
+Exposed, Exterior Installations: Exposed to view outdoors or subject to outdoor ambient
+temperatures and weather conditions. Examples include rooftop locations.
+D.
+Concealed, Interior Installations: Concealed from view and protected from physical
+contact by building occupants. Examples include above ceilings and chases.
+E.
+Concealed, Exterior Installations: Concealed from view and protected from weather
+conditions and physical contact by building occupants but subject to outdoor ambient
+temperatures. Examples include installations within unheated shelters.
+F.
+The following are industry abbreviations for plastic materials:
+1.
+CPVC: Chlorinated polyvinyl chloride plastic.
+2.
+PE: Polyethylene plastic.
+3.
+PVC: Polyvinyl chloride plastic.
+G.
+The following are industry abbreviations for rubber materials:
+1.
+EPDM: Ethylene-propylene-diene terpolymer rubber.
+2.
+NBR: Acrylonitrile-butadiene rubber.
+
+
+===== PAGE 17 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 2 of 10 
+1.4
+QUALITY ASSURANCE
+A.
+Steel Support Welding: Qualify processes and operators according to AWS D1.1,
+"Structural Welding Code--Steel."
+B.
+Steel Pipe Welding: Qualify processes and operators according to ASME Boiler and
+Pressure Vessel Code: Section IX, "Welding and Brazing Qualifications."
+1.
+Comply with provisions in ASME B31 Series, "Code for Pressure Piping."
+2.
+Certify that each welder has passed AWS qualification tests for welding
+processes involved and that certification is current.
+C.
+Electrical Characteristics for HVAC Equipment: Contractor shall coordinate prior to
+purchasing equipment. Equipment of higher electrical characteristics may be furnished
+provided such proposed equipment is approved in writing and connecting electrical
+services, circuit breakers, and conduit sizes are appropriately modified at Contractor’s
+expense. If minimum energy ratings or efficiencies are specified, equipment shall
+comply with requirements.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Deliver pipes and tubes with factory-applied end caps. Maintain end caps through
+shipping, storage, and handling to prevent pipe end damage and to prevent entrance of
+dirt, debris, and moisture.
+B.
+Store plastic pipes protected from direct sunlight. Support a minimum of 4” above grade
+and provide support to prevent sagging and bending.
+1.6
+COORDINATION
+A.
+Arrange for pipe spaces, chases, slots, and openings in building structure during progress
+of construction, to allow for HVAC installations.
+B.
+Coordinate installation of required supporting devices and set sleeves in poured-in-place
+concrete and other structural components as they are constructed.
+C.
+Coordinate requirements for access panels and doors for HVAC items requiring access
+that are concealed behind finished surfaces. Access panels and doors are specified in
+Division 08 Section "Access Doors and Frames."
+PART 2 PRODUCTS
+2.1
+MANUFACTURERS
+A.
+In other Part 2 articles where subparagraph titles below introduce lists, the following
+requirements apply for product selection:
+1.
+Manufacturers: Subject to compliance with requirements, provide products by
+the manufacturers specified.
+2.2
+PIPE, TUBE, AND FITTINGS
+A.
+Refer to individual Division 23 piping Sections for pipe, tube, and fitting materials and
+joining methods.
+B.
+Pipe Threads: ASME B1.20.1 for factory-threaded pipe and pipe fittings.
+2.3
+JOINING MATERIALS
+A.
+Refer to individual Division 23 piping Sections for special joining materials not listed
+below.
+
+
+===== PAGE 18 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 3 of 10 
+B.
+Pipe-Flange Gasket Materials: Suitable for chemical and thermal conditions of piping
+system contents.
+1.
+ASME B16.21, nonmetallic, flat, asbestos-free, 1/8-inch maximum thickness
+unless thickness or specific material is indicated.
+a.
+Full-Face Type: For flat-face, Class 125, cast-iron and cast-bronze
+flanges.
+b.
+Narrow-Face Type: For raised-face, Class 250, cast-iron and steel
+flanges.
+2.
+AWWA C110, rubber, flat face, 1/8 inch thick, unless otherwise indicated; and
+full-face or ring type, unless otherwise indicated.
+C.
+Flange Bolts and Nuts: ASME B18.2.1, carbon steel, unless otherwise indicated.
+D.
+Plastic, Pipe-Flange Gasket, Bolts, and Nuts: Type and material recommended by piping
+system manufacturer, unless otherwise indicated.
+E.
+Solder Filler Metals: ASTM B 32, lead-free alloys. Include water-flushable flux
+according to ASTM B 813.
+F.
+Brazing Filler Metals: AWS A5.8, BCuP Series, copper-phosphorus alloys for general-
+duty brazing, unless otherwise indicated; and AWS A5.8, BAg1, silver alloy for
+refrigerant piping, unless otherwise indicated.
+G.
+Welding Filler Metals: Comply with AWS D10.12 for welding materials appropriate for
+wall thickness and chemical analysis of steel pipe being welded.
+H.
+Solvent Cements for Joining Plastic Piping:
+1.
+CPVC Piping: ASTM F 493.
+2.
+PVC Piping: ASTM D 2564. Include primer according to ASTM F 656.
+I.
+Fiberglass Pipe Adhesive: As furnished or recommended by pipe manufacturer.
+2.4
+TRANSITION FITTINGS
+A.
+Plastic-to-Metal Transition Fittings: CPVC and PVC one-piece fitting with
+manufacturer's Schedule 80 equivalent dimensions; one end with threaded brass insert,
+and one solvent-cement-joint end.
+B.
+Plastic-to-Metal Transition Adaptors: One-piece fitting with manufacturer's SDR 11
+equivalent dimensions; one end with threaded brass insert, and one solvent-cement-joint
+end.
+C.
+Plastic-to-Metal Transition Unions: MSS SP-107, CPVC and PVC four-part union.
+ Include brass end, solvent-cement-joint end, rubber O-ring, and union nut.
+2.5
+DIELECTRIC FITTINGS
+A.
+Description: Combination fitting of copper alloy and ferrous materials with threaded,
+solder-joint, plain, or weld-neck end connections that match piping system materials.
+B.
+Insulating Material: Suitable for system fluid, pressure, and temperature.
+C.
+Dielectric Unions: Factory-fabricated, union assembly, for 250-psig minimum working
+pressure at 180 deg F.
+D.
+Dielectric Flanges: Factory-fabricated, companion-flange assembly, for 150- or 300-psig
+minimum working pressure as required to suit system pressures.
+
+
+===== PAGE 19 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 4 of 10 
+E.
+Dielectric-Flange Kits: Companion-flange assembly for field assembly. Include flanges,
+full-face- or ring-type neoprene or phenolic gasket, phenolic or polyethylene bolt sleeves,
+phenolic washers, and steel backing washers.
+1.
+Separate companion flanges and steel bolts and nuts shall have 150- or 300-psig
+minimum working pressure where required to suit system pressures.
+F.
+Dielectric Nipples: Brass nipple with inert and noncorrosive, thermoplastic lining; plain,
+threaded, or grooved ends; and 300-psig minimum working pressure at 225 deg F.
+2.6
+MECHANICAL SLEEVE SEALS
+A.
+Description: Modular sealing element unit, designed for field assembly, to fill annular
+space between pipe and sleeve.
+1.
+Sealing Elements: EPDM interlocking links shaped to fit surface of pipe.
+ Include type and number required for pipe material and size of pipe.
+2.
+Pressure Plates: Stainless Steel. Include two for each sealing element.
+3.
+Connecting Bolts and Nuts: Stainless steel of length required to secure pressure
+plates to sealing elements. Include one for each sealing element.
+2.7
+SLEEVES
+A.
+Galvanized-Steel Sheet: 0.0239-inch minimum thickness; round tube closed with welded
+longitudinal joint.
+B.
+Steel Pipe: ASTM A 53, Type E, Grade B, Schedule 40, galvanized, plain ends.
+C.
+Cast Iron: Cast or fabricated "wall pipe" equivalent to ductile-iron pressure pipe, with
+plain ends and integral waterstop, unless otherwise indicated.
+D.
+Stack Sleeve Fittings: Manufactured, cast-iron sleeve with integral clamping flange.
+ Include clamping ring and bolts and nuts for membrane flashing.
+1.
+Underdeck Clamp: Clamping ring with set screws.
+E.
+Molded PVC: Permanent, with nailing flange for attaching to wooden forms.
+F.
+PVC Pipe: ASTM D 1785, Schedule 40.
+G.
+Molded PE: Reusable, PE, tapered-cup shaped, and smooth-outer surface with nailing
+flange for attaching to wooden forms.
+2.8
+ESCUTCHEONS
+A.
+Description: Manufactured wall and ceiling escutcheons and floor plates, with an ID to
+closely fit around pipe, tube, and insulation of insulated piping and an OD that
+completely covers opening.
+B.
+One-Piece, Deep-Pattern Type: Deep-drawn, box-shaped brass with polished chrome-
+plated finish.
+C.
+One-Piece, Cast-Brass Type: With set screw.
+1.
+Finish: Polished chrome-plated.
+D.
+Split-Casting, Cast-Brass Type: With concealed hinge and set screw.
+1.
+Finish: Polished chrome-plated.
+E.
+One-Piece, Stamped-Steel Type: With set screw and chrome-plated finish.
+F.
+Split-Plate, Stamped-Steel Type: With concealed hinge, set screw and chrome-plated
+finish.
+
+
+===== PAGE 20 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 5 of 10 
+G.
+One-Piece, Floor-Plate Type: Cast-iron floor plate.
+H.
+Split-Casting, Floor-Plate Type: Cast brass with concealed hinge and set screw.
+2.9
+GROUT
+A.
+Description: ASTM C 1107, Grade B, nonshrink and nonmetallic, dry hydraulic-cement
+grout.
+1.
+Characteristics: Post-hardening, volume-adjusting, nonstaining, noncorrosive,
+nongaseous, and recommended for interior and exterior applications.
+2.
+Design Mix: 5000-psi, 28-day compressive strength.
+3.
+Packaging: Premixed and factory packaged.
+PART 3 EXECUTION
+3.1
+PIPING SYSTEMS - COMMON REQUIREMENTS
+A.
+Install piping according to the following requirements and Division 23 Sections
+specifying piping systems.
+B.
+Drawing plans, schematics, and diagrams indicate general location and arrangement of
+piping systems. Indicated locations and arrangements were used to size pipe and
+calculate friction loss, expansion, pump sizing, and other design considerations. Install
+piping as indicated unless deviations to layout are approved on Coordination Drawings.
+ Contractor shall be responsible for system performance deficiencies due to contractor
+deviations from contract documents.
+C.
+Install piping in concealed locations, unless otherwise indicated and except in equipment
+rooms and service areas.
+D.
+Install piping indicated to be exposed and piping in equipment rooms and service areas at
+right angles or parallel to building walls. Diagonal runs are prohibited unless specifically
+indicated otherwise.
+E.
+Install piping above accessible ceilings to allow sufficient space for ceiling panel
+removal.
+F.
+Install piping to permit valve access and servicing.
+G.
+Install piping at indicated slopes. Install piping at code required slopes where not
+indicated.
+H.
+Install piping free of sags and bends.
+I.
+Install fittings for changes in direction and branch connections.
+J.
+Install piping to allow application of insulation.
+K.
+Select system components with pressure rating equal to or greater than system operating
+pressure.
+L.
+Install escutcheons for penetrations of walls, ceilings, and floors according to the
+following: (Verify escutcheon types with Architect in front of house space)
+1.
+New Piping:
+a.
+Piping with Fitting or Sleeve Protruding from Wall: One-piece, deep-
+pattern type.
+b.
+Chrome-Plated Piping: One-piece, cast-brass type with polished
+chrome-plated finish.
+
+
+===== PAGE 21 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 6 of 10 
+c.
+Insulated Piping: One-piece, stamped-steel type.
+d.
+Bare Piping at Wall and Floor Penetrations in Finished Spaces: One-
+piece, cast-brass type with polished chrome-plated finish.
+e.
+Bare Piping at Ceiling Penetrations in Finished Spaces: One-piece, cast-
+brass type with polished chrome-plated finish.
+f.
+Bare Piping in Unfinished Service Spaces: One-piece, cast-brass type
+with polished chrome-plated finish.
+g.
+Bare Piping in Equipment Rooms: One-piece, stamped-steel type with
+set screw.
+h.
+Bare Piping at Floor Penetrations in Equipment Rooms: One-piece,
+floor-plate type.
+M.
+Sleeves are not required for core-drilled holes.
+N.
+Permanent sleeves are not required for holes formed by removable PE sleeves.
+O.
+Install sleeves for pipes passing through concrete and masonry walls and concrete floor
+and roof slabs.
+P.
+Install sleeves for pipes passing through concrete and masonry walls, gypsum-board
+partitions, and concrete floor and roof slabs.
+1.
+Cut sleeves to length for mounting flush with both surfaces.
+a.
+Exception: Extend sleeves installed in floors of mechanical equipment
+areas or other wet areas 2 inches above finished floor level. Extend cast-
+iron sleeve fittings below floor slab as required to secure clamping ring if
+ring is specified.
+2.
+Install sleeves in new walls and slabs as new walls and slabs are constructed.
+3.
+Install sleeves that are large enough to provide 1/4-inch annular clear space
+between sleeve and pipe or pipe insulation. Use the following sleeve materials:
+a.
+Steel Pipe Sleeves: For pipes smaller than NPS 6
+b.
+Steel Sheet Sleeves: For pipes NPS 6 and larger, penetrating gypsum-
+board partitions.
+c.
+Stack Sleeve Fittings: For pipes penetrating floors with membrane
+waterproofing. Secure flashing between clamping flanges. Install
+section of cast-iron soil pipe to extend sleeve to 2 inches above finished
+floor level. Refer to Division 07 Section "Sheet Metal Flashing and
+Trim" for flashing.
+d.
+Seal space outside of sleeve fittings with grout.
+Q.
+Except for underground wall penetrations, seal annular space between sleeve and pipe or
+pipe insulation, using joint sealants appropriate for size, depth, fire rating and location of
+joint. Refer to Division 07 Section "Joint Sealants" for materials and installation.
+1.
+Underground, Exterior-Wall Pipe Penetrations: Install cast-iron "wall pipes" for
+sleeves. Seal pipe penetrations using mechanical sleeve seals. Select sleeve size
+to allow for annular clear space between pipe and sleeve for installing
+mechanical sleeve seals in accordance with manufacturer’s instructions.
+
+
+===== PAGE 22 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 7 of 10 
+a.
+Mechanical Sleeve Seal Installation: Select type and number of sealing
+elements required for pipe material and size. Position pipe in center of
+sleeve. Assemble mechanical sleeve seals and install in annular space
+between pipe and sleeve. Tighten bolts against pressure plates that cause
+sealing elements to expand and make watertight seal.
+R.
+Fire-Barrier Penetrations: Maintain indicated fire rating of walls, partitions, ceilings, and
+floors at pipe penetrations. Seal pipe penetrations with firestop materials. Refer to
+Division 07 Section "Penetration Firestopping" for materials.
+S.
+Verify final equipment locations for roughing-in.
+T.
+Refer to equipment specifications in other Sections of these Specifications for roughing-
+in requirements.
+3.2
+PIPING JOINT CONSTRUCTION
+A.
+Join pipe and fittings according to the following requirements and Division 23 Sections
+specifying piping systems.
+B.
+Ream ends of pipes and tubes and remove burrs. Bevel plain ends of steel pipe.
+C.
+Remove scale, slag, dirt, and debris from inside and outside of pipe and fittings before
+assembly.
+D.
+Soldered Joints: Apply ASTM B 813, water-flushable flux, unless otherwise indicated,
+to tube end. Construct joints according to ASTM B 828 or CDA's "Copper Tube
+Handbook," using lead-free solder alloy complying with ASTM B 32.
+E.
+Brazed Joints: Construct joints according to AWS's "Brazing Handbook," "Pipe and
+Tube" Chapter, using copper-phosphorus brazing filler metal complying with AWS A5.8.
+F.
+Threaded Joints: Thread pipe with tapered pipe threads according to ASME B1.20.1.
+ Cut threads full and clean using sharp dies. Ream threaded pipe ends to remove burrs
+and restore full ID. Join pipe fittings and valves as follows:
+1.
+Apply appropriate tape or thread compound to external pipe threads unless dry
+seal threading is specified.
+2.
+Damaged Threads: Do not use pipe or pipe fittings with threads that are corroded
+or damaged. Do not use pipe sections that have cracked or open welds.
+G.
+Welded Joints: Construct joints according to AWS D10.12, using qualified processes and
+welding operators according to Part 1 "Quality Assurance" Article.
+H.
+Flanged Joints: Select appropriate gasket material, size, type, and thickness for service
+application. Install gasket concentrically positioned. Use suitable lubricants on bolt
+threads.
+3.3
+PIPING CONNECTIONS
+A.
+Make connections according to the following, unless otherwise indicated:
+1.
+Install unions, in piping NPS 2 and smaller, adjacent to each valve and at final
+connection to each piece of equipment.
+2.
+Install flanges, in piping NPS 2-1/2 and larger, adjacent to flanged valves and at
+final connection to each piece of equipment.
+
+
+===== PAGE 23 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 8 of 10 
+3.
+Wet Piping Systems: Install dielectric coupling and nipple fittings to connect
+piping materials of dissimilar metals.
+3.4
+EQUIPMENT INSTALLATION - COMMON REQUIREMENTS
+A.
+Install equipment to allow maximum possible headroom unless specific mounting heights
+are not indicated.
+B.
+Install equipment level and plumb, parallel and perpendicular to other building systems
+and components in exposed interior spaces, unless otherwise indicated.
+C.
+Install HVAC equipment to facilitate service, maintenance, and repair or replacement of
+components. Connect equipment for ease of disconnecting, with minimum interference
+to other installations. Extend grease fittings to accessible locations.
+D.
+Install equipment to allow right of way for piping installed at required slope.
+3.5
+PAINTING OF PIPING AND SUPPORTS
+A.
+Painting of HVAC systems, equipment, and components is specified in Division 09
+Sections "Interior Painting" and "Exterior Painting."
+B.
+Damage and Touchup: Repair marred and damaged factory-painted finishes with
+materials and procedures to match original factory finish.
+C.
+Paint the surface of ducts visible through supply, return, exhaust or transfer openings flat
+black.
+D.
+Paint all bare piping, hangers, supports, etc., exposed to weather with paint intended for
+outdoor use and high resistance to ultra violet deterioration. Colors as selected by
+Architect.
+E.
+Surface preparation, priming, finish coats application, etc., shall be in accordance with
+painting section of these specifications.
+3.6
+SUPPORTS, EQUIPMENT PADS, STAGING, ETC.
+A.
+Construct all supports required for the proper installation of equipment in accordance
+with the drawings and if not indicated on drawings. Refer to architectural and structural
+drawings for equipment pads by others. Provide all staging, scaffolds, platforms, ladders
+or similar facilities required to properly install the work.
+3.7
+CONCRETE BASES
+A.
+Concrete Bases: Anchor equipment to concrete base according to equipment
+manufacturer's written instructions and according to seismic restraint requirements.
+1.
+Construct concrete bases of dimensions indicated, but not less than 4 inches
+larger in both directions than supported unit.
+2.
+Install dowel rods to connect concrete base to concrete floor. Unless otherwise
+indicated, install dowel rods on 18-inch centers around the full perimeter of the
+base.
+3.
+Install epoxy-coated anchor bolts for supported equipment that extend through
+concrete base, and anchor into structural concrete floor.
+4.
+Place and secure anchorage devices. Use supported equipment manufacturer's
+setting drawings, templates, diagrams, instructions, and directions furnished with
+items to be embedded.
+
+
+===== PAGE 24 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 9 of 10 
+5.
+Install anchor bolts to elevations required for proper attachment to supported
+equipment.
+6.
+Install anchor bolts according to anchor-bolt manufacturer's written instructions.
+7.
+Use 3000-psi 28-day compressive-strength concrete and reinforcement as
+specified in Division 03.
+3.8
+ERECTION OF METAL SUPPORTS AND ANCHORAGES
+A.
+Refer to Division 05 Section "Metal Fabrications" for structural steel.
+B.
+Cut, fit, and place miscellaneous metal supports accurately in location, alignment, and
+elevation to support and anchor HVAC materials and equipment.
+C.
+Field Welding: Comply with AWS D1.1.
+3.9
+ERECTION OF WOOD SUPPORTS AND ANCHORAGES
+A.
+Cut, fit, and place wood grounds, nailers, blocking, and anchorages to support, and
+anchor HVAC materials and equipment.
+B.
+Select fastener sizes that will not penetrate members if opposite side will be exposed to
+view or will receive finish materials. Tighten connections between members. Install
+fasteners without splitting wood members.
+C.
+Attach to substrates as required to support applied loads.
+D.
+Prior to installation of any wood supports, Contractor shall verify building code
+compliance requirements.
+3.10
+GROUTING
+A.
+Mix and install grout for HVAC equipment base bearing surfaces, pump and other
+equipment base plates, and anchors.
+B.
+Clean surfaces that will come into contact with grout.
+C.
+Provide forms as required for placement of grout.
+D.
+Avoid air entrapment during placement of grout.
+E.
+Place grout, completely filling equipment bases.
+F.
+Place grout on concrete bases and provide smooth bearing surface for equipment.
+G.
+Place grout around anchors.
+H.
+Cure placed grout.
+3.11
+DRIVES
+A.
+The Contractor shall allow for each belt driven unit furnished by him a minimum of one
+drive changes including sheaves/pulleys, belts, etc.
+B.
+Changes shall be as directed by the Owners Authorized Representative and may be
+required where conditions warrant an increase/decrease in airflow delivery.
+3.12
+ACCESS DOORS AND PANELS
+A.
+Access Doors and Panels
+1.
+Wherever volume dampers, controls, valves or other items or parts of the
+installation which require periodic inspection or adjustments are concealed by
+permanent non-removable construction, an access door or panel shall be
+provided. Volume dampers utilizing remote actuation do not require access
+panels. Rating of access door or panel shall be determined by rating of wall or
+
+
+===== PAGE 25 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 00
+COMMON WORK RESULTS FOR
+HVAC
+Page 10 of 10 
+ceiling which door or panel is installed. Types to be as approved and as
+appropriate for the surface and construction in which it is installed. Furnishing
+and locating by this Contractor; installation by other Division; verify all locations
+with Architect. Submit drawings indicating all access door or panel locations.
+END OF SECTION
+
+
+===== PAGE 26 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 13
+Common Motor Requirements for
+HVAC Equipment
+Page 1 of 2 
+SECTION 23 05 13
+COMMON MOTOR REQUIREMENTS FOR HVAC EQUIPMENT
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+General construction and requirements.
+B.
+Applications.
+C.
+Single phase electric motors.
+D.
+Three phase electric motors.
+1.2
+REFERENCE STANDARDS
+A.
+ABMA STD 9 - Load Ratings and Fatigue Life for Ball Bearings; 2015.
+B.
+IEEE 112 - IEEE Standard Test Procedure for Polyphase Induction Motors and
+Generators; 2017.
+C.
+NEMA MG 00001 - Motors and Generators; 2024.
+D.
+NFPA 70 - National Electrical Code; Most Recent Edition Adopted by Authority Having
+Jurisdiction, Including All Applicable Amendments and Supplements.
+PART 2 - PRODUCTS
+2.1
+GENERAL CONSTRUCTION AND REQUIREMENTS
+A.
+Construction:
+1.
+Open drip-proof type except where specifically noted otherwise.
+2.
+Design for continuous operation in 104 degrees F (40 degrees C) environment.
+3.
+Design for temperature rise in accordance with NEMA MG 00001 limits for
+insulation class, service factor, and motor enclosure type.
+B.
+Visible Nameplate: Indicating motor horsepower, voltage, phase, cycles, RPM, full load
+amps, locked rotor amps, frame size, manufacturer's name and model number, service
+factor, power factor, efficiency.
+C.
+Wiring Terminations:
+1.
+Provide terminal lugs to match branch circuit conductor quantities, sizes, and
+materials indicated. Enclose terminal lugs in terminal box sized to NFPA 70,
+threaded for conduit.
+2.
+For fractional horsepower motors where connection is made directly, provide
+threaded conduit connection in end frame.
+2.2
+APPLICATIONS
+A.
+Single phase motors for pumps: Capacitor start type.
+B.
+Motors located in exterior locations and draw through cooling towers: Totally enclosed
+type.
+2.3
+SINGLE PHASE POWER - CAPACITOR START MOTORS
+A.
+Starting Torque: Three times full load torque.
+B.
+Starting Current: Less than five times full load current.
+C.
+Pull-up Torque: Up to 350 percent of full load torque.
+D.
+Breakdown Torque: Approximately 250 percent of full load torque.
+
+
+===== PAGE 27 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 13
+Common Motor Requirements for
+HVAC Equipment
+Page 2 of 2 
+E.
+Motors: Capacitor in series with starting winding; provide capacitor-start/capacitor-run
+motors with two capacitors in parallel with run capacitor remaining in circuit at operating
+speeds.
+F.
+Drip-proof Enclosure: Class A (50 degrees C temperature rise) insulation, NEMA
+Service Factor, prelubricated sleeve bearings.
+G.
+Enclosed Motors: Class A (50 degrees C temperature rise) insulation, 1.0 Service Factor,
+prelubricated ball bearings.
+2.4
+THREE PHASE POWER - SQUIRREL CAGE MOTORS
+A.
+Starting Torque: Between 1 and 1-1/2 times full load torque.
+B.
+Starting Current: Six times full load current.
+C.
+Power Output, Locked Rotor Torque, Breakdown or Pull Out Torque: NEMA Design B
+characteristics.
+D.
+Design, Construction, Testing, and Performance: Comply with NEMA MG 00001 for
+Design B motors.
+E.
+Insulation System: NEMA Class B or better.
+F.
+Testing Procedure: In accordance with IEEE 112. Load test motors to determine free
+from electrical or mechanical defects in compliance with performance data.
+G.
+Motor Frames: NEMA Standard T-Frames of steel, aluminum, or cast iron with end
+brackets of cast iron or aluminum with steel inserts.
+H.
+Thermistor System (Motor Frame Sizes 254T and Larger): Three PTC thermistors
+embedded in motor windings and epoxy encapsulated solid state control relay for wiring
+into motor starter; refer to Section 26 29 13.
+I.
+Bearings:  Grease lubricated anti-friction ball bearings with housings equipped with
+plugged provision for relubrication, rated for minimum ABMA STD 9, L-10 life of
+20,000 hours. Calculate bearing load with NEMA minimum V-belt pulley with belt
+center line at end of NEMA standard shaft extension. Stamp bearing sizes on nameplate.
+J.
+Part Winding Start Above 254T Frame Size: Use part of winding to reduce locked rotor
+starting current to approximately 60 percent of full winding locked rotor current while
+providing approximately 50 percent of full winding locked rotor torque.
+K.
+Nominal Efficiency: As indicated at full load and rated voltage when tested in
+accordance with IEEE 112.
+L.
+Nominal Power Factor: As indicated at full load and rated voltage when tested in
+accordance with IEEE 112.
+PART 3 - EXECUTION
+3.1
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Install securely on firm foundation. Mount ball bearing motors with shaft in any position.
+C.
+Check line voltage and phase and ensure agreement with nameplate.
+END OF SECTION
+
+
+===== PAGE 28 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 29
+Hangers and Supports for HVAC
+Piping and Equipment
+Page 1 of 3 
+SECTION 23 05 29
+HANGERS AND SUPPORTS FOR HVAC PIPING AND EQUIPMENT
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Support and attachment components for equipment, piping, and other HVAC/hydronic
+work.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 03 30 00 - Cast-in-Place Concrete: Concrete equipment pads.
+1.3
+REFERENCE STANDARDS
+A.
+ASTM A123/A123M - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings
+on Iron and Steel Products; 2017.
+B.
+ASTM A153/A153M - Standard Specification for Zinc Coating (Hot-Dip) on Iron and
+Steel Hardware; 2016a.
+C.
+ASTM B633 - Standard Specification for Electrodeposited Coatings of Zinc on Iron and
+Steel; 2019.
+1.4
+ADMINISTRATIVE REQUIREMENTS
+A.
+Coordination:
+1.
+Coordinate sizes and arrangement of supports and bases with the actual
+equipment and components to be installed.
+2.
+Coordinate the work with other trades to provide additional framing and
+materials required for installation.
+3.
+Coordinate compatibility of support and attachment components with mounting
+surfaces at the installed locations.
+4.
+Coordinate the arrangement of supports with ductwork, piping, equipment and
+other potential conflicts installed under other sections or by others.
+5.
+Notify Architect of any conflicts with or deviations from Contract Documents.
+Obtain direction before proceeding with work.
+B.
+Sequencing:
+1.
+Do not install products on or provide attachment to concrete surfaces until
+concrete has fully cured in accordance with Section 03 30 00.
+1.5
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide manufacturer's standard catalog pages and data sheets for post-
+installed concrete and masonry anchors and thermal insulated pipe supports.
+1.6
+QUALITY ASSURANCE
+A.
+Comply with applicable building code.
+1.7
+DELIVERY, STORAGE, AND HANDLING
+A.
+Receive, inspect, handle, and store products in accordance with manufacturer's
+instructions.
+
+
+===== PAGE 29 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 29
+Hangers and Supports for HVAC
+Piping and Equipment
+Page 2 of 3 
+PART 2 - PRODUCTS
+2.1
+SUPPORT AND ATTACHMENT COMPONENTS
+A.
+General Requirements:
+1.
+Provide all required hangers, supports, anchors, fasteners, fittings, accessories,
+and hardware as necessary for the complete installation of plumbing work.
+2.
+Provide products listed, classified, and labeled as suitable for the purpose
+intended, where applicable.
+3.
+Where support and attachment component types and sizes are not indicated,
+select in accordance with manufacturer's application criteria as required for the
+load to be supported. Include consideration for vibration, equipment operation,
+and shock loads where applicable.
+4.
+Do not use wire, chain, perforated pipe strap, or wood for permanent supports
+unless specifically indicated or permitted.
+5.
+Steel Components: Use corrosion resistant materials suitable for the environment
+where installed.
+a.
+Outdoor and Damp or Wet Indoor Locations: Use galvanized steel,
+stainless steel, or approved equivalent unless otherwise indicated.
+b.
+Zinc-Plated Steel: Electroplated in accordance with ASTM B633.
+c.
+Galvanized Steel: Hot-dip galvanized after fabrication in accordance
+with ASTM A123/A123M or ASTM A153/A153M.
+B.
+Hanger Rods: Threaded zinc-plated steel unless otherwise indicated.
+1.
+Minimum Size, Unless Otherwise Indicated or Required:
+a.
+Piping up to 1 inch (27 mm) nominal: 1/4 inch (6 mm) diameter.
+b.
+Piping larger than 1 inch (27 mm) nominal: 3/8 inch (10 mm) diameter.
+PART 3 - EXECUTION
+3.1
+EXAMINATION
+A.
+Verify that field measurements are as indicated.
+B.
+Verify that mounting surfaces are ready to receive support and attachment components.
+C.
+Verify that conditions are satisfactory for installation prior to starting work.
+3.2
+INSTALLATION
+A.
+Install products in accordance with manufacturer's instructions.
+B.
+Provide independent support from building structure. Do not provide support from
+piping, ductwork, conduit, or other systems.
+C.
+Unless specifically indicated or approved by Architect, do not provide support from
+suspended ceiling support system or ceiling grid.
+D.
+Unless specifically indicated or approved by Architect, do not provide support from roof
+deck.
+E.
+Do not penetrate or otherwise notch or cut structural members without approval of
+Structural Engineer.
+F.
+Provide thermal insulated pipe supports complete with hangers and accessories. Install
+thermal insulated pipe supports during the installation of the piping system.
+
+
+===== PAGE 30 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 29
+Hangers and Supports for HVAC
+Piping and Equipment
+Page 3 of 3 
+G.
+Equipment Support and Attachment:
+1.
+Use metal fabricated supports or supports assembled from metal channel (strut)
+to support equipment as required.
+2.
+Use metal channel (strut) secured to studs to support equipment surface-mounted
+on hollow stud walls when wall strength is not sufficient to resist pull-out.
+3.
+Use metal channel (strut) to support surface-mounted equipment in wet or damp
+locations to provide space between equipment and mounting surface.
+4.
+Securely fasten floor-mounted equipment. Do not install equipment such that it
+relies on its own weight for support.
+H.
+Secure fasteners according to manufacturer's recommended torque settings.
+I.
+Remove temporary supports.
+3.3
+FIELD QUALITY CONTROL
+A.
+See Section 01 40 00 - Quality Requirements, for additional requirements.
+B.
+Inspect support and attachment components for damage and defects.
+C.
+Repair cuts and abrasions in galvanized finishes using zinc-rich paint recommended by
+manufacturer. Replace components that exhibit signs of corrosion.
+D.
+Correct deficiencies and replace damaged or defective support and attachment
+components.
+END OF SECTION
+
+
+===== PAGE 31 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 53
+Identification for HVAC Piping and
+Equipment
+Page 1 of 2 
+SECTION 23 05 53
+IDENTIFICATION FOR HVAC PIPING AND EQUIPMENT
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Nameplates.
+B.
+Adhesive-backed duct markers.
+C.
+Ceiling tacks.
+1.2
+REFERENCE STANDARDS
+A.
+ASME A13.1 - Scheme for the Identification of Piping Systems; 2020.
+B.
+ASTM D709 - Standard Specification for Laminated Thermosetting Materials; 2017.
+1.3
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+List: Submit list of wording, symbols, letter size, and color coding for mechanical
+identification.
+C.
+Chart and Schedule: Submit valve chart and schedule, including valve tag number,
+location, function, and valve manufacturer's name and model number.
+D.
+Product Data: Provide manufacturers catalog literature for each product required.
+E.
+Manufacturer's Installation Instructions: Indicate special procedures, and installation.
+PART 2 - PRODUCTS
+2.1
+IDENTIFICATION APPLICATIONS
+A.
+Fan Coil Units: Nameplates.
+B.
+Condensing Units: Nameplates.
+C.
+Exhaust Fans: Nameplates.
+D.
+Control Panels: Nameplates.
+E.
+Dampers: Ceiling tacks, where located above lay-in ceiling.
+F.
+Ductwork: Adhesive-Backed Duct Markers.
+G.
+Thermostats: Nameplates.
+2.2
+NAMEPLATES
+A.
+Manufacturers:
+1.
+Brimar Industries, Inc.
+2.
+Kolbi Pipe Marker Co.
+3.
+Seton Identification Products, a Tricor Direct Company.
+B.
+Letter Color: White.
+C.
+Letter Height: 1/4 inch (6 mm).
+D.
+Background Color: Black.
+E.
+Plastic: Comply with ASTM D709.
+2.3
+ADHESIVE-BACKED DUCT MARKERS
+A.
+Manufacturers:
+1.
+Brimar Industries, Inc; ______: www.pipemarker.com/#sle.
+2.
+Kolbi Pipe Marker Co; ______: www.kolbipipemarkers.com/#sle.
+
+
+===== PAGE 32 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 53
+Identification for HVAC Piping and
+Equipment
+Page 2 of 2 
+B.
+Material: High gloss acrylic adhesive-backed vinyl film 0.0032 inch (0.76 mm); printed
+with UV and chemical resistant inks.
+C.
+Style: Individual Label.
+D.
+Color: Green/White.
+2.4
+CEILING TACKS
+A.
+Description: Steel with 3/4 inch (20 mm) diameter color coded head.
+B.
+Color code as follows:
+1.
+HVAC Equipment: Yellow.
+PART 3 - EXECUTION
+3.1
+PREPARATION
+A.
+Degrease and clean surfaces to receive adhesive for identification materials.
+3.2
+INSTALLATION
+A.
+Install nameplates with corrosive-resistant mechanical fasteners, or adhesive. Apply with
+sufficient adhesive to ensure permanent adhesion and seal with clear lacquer.
+B.
+Install tags with corrosion resistant chain.
+C.
+Install plastic pipe markers in accordance with manufacturer's instructions.
+D.
+Install plastic tape pipe markers complete around pipe in accordance with manufacturer's
+instructions.
+END OF SECTION
+
+
+===== PAGE 33 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 1 of 13 
+SECTION 23 05 93
+TESTING, ADJUSTING AND BALANCING FOR HVAC
+PART 1 - GENERAL
+1.1
+RELATED DOCUMENTS
+A.
+Drawings and general provisions of the Contract, including General and Supplementary
+Conditions and Division 01 Specification Sections, apply to this Section.
+1.2
+SUMMARY
+A.
+This Section includes TAB to produce design objectives for the following:
+1.
+Air Systems:
+a.
+Constant-volume air systems.
+2.
+HVAC equipment quantitative-performance settings.
+3.
+Indoor-air quality measuring.
+4.
+Verifying that automatic control devices are functioning properly.
+5.
+Reporting results of activities and procedures specified in this Section.
+1.3
+DEFINITIONS
+A.
+Adjust: To regulate fluid flow rate and air patterns at the terminal equipment, such as to
+reduce fan speed or adjust a damper.
+B.
+Balance: To proportion flows within the distribution system, including submains,
+branches, and terminals, according to indicated quantities.
+C.
+Barrier or Boundary: Construction, either vertical or horizontal, such as walls, floors,
+and ceilings that are designed and constructed to restrict the movement of airflow, smoke,
+odors, and other pollutants.
+D.
+Draft: A current of air, when referring to localized effect caused by one or more factors
+of high air velocity, low ambient temperature, or direction of airflow, whereby more heat
+is withdrawn from a person's skin than is normally dissipated.
+E.
+NC: Noise criteria.
+F.
+Procedure: An approach to and execution of a sequence of work operations to yield
+repeatable results.
+G.
+RC: Room criteria.
+H.
+Report Forms: Test data sheets for recording test data in logical order.
+I.
+Static Head: The pressure due to the weight of the fluid above the point of measurement.
+ In a closed system, static head is equal on both sides of the pump.
+J.
+Suction Head: The height of fluid surface above the centerline of the pump on the
+suction side.
+K.
+System Effect: A phenomenon that can create undesired or unpredicted conditions that
+cause reduced capacities in all or part of a system.
+L.
+System Effect Factors: Allowances used to calculate a reduction of the performance
+ratings of a fan when installed under conditions different from those presented when the
+fan was performance tested.
+M.
+TAB: Testing, adjusting, and balancing.
+
+
+===== PAGE 34 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 2 of 13 
+N.
+Terminal: A point where the controlled medium, such as fluid or energy, enters or leaves
+the distribution system.
+O.
+Test: A procedure to determine quantitative performance of systems or equipment.
+P.
+Testing, Adjusting, and Balancing (TAB) Firm: The entity responsible for performing
+and reporting TAB procedures.
+1.4
+QUALITY ASSURANCE
+A.
+TAB Firm Qualifications: Owner to engage a TAB firm certified by AABC.
+B.
+TAB Conference: Meet with Owner's and Architect's representatives on approval of
+TAB strategies and procedures plan to develop a mutual understanding of the details.
+ Ensure the participation of TAB team members, equipment manufacturers' authorized
+service representatives, HVAC controls installers, and other support personnel. Provide
+seven days' advance notice of scheduled meeting time and location.
+1.
+Agenda Items: Include at least the following:
+a.
+Submittal distribution requirements.
+b.
+The Contract Documents examination report.
+c.
+TAB plan.
+d.
+Work schedule and Project-site access requirements.
+e.
+Coordination and cooperation of trades and subcontractors.
+f.
+Coordination of documentation and communication flow.
+C.
+Certification of TAB Reports: Certify TAB field data reports. This certification includes
+the following:
+1.
+Review field data reports to validate accuracy of data and to prepare certified
+TAB reports.
+2.
+Certify that TAB team complied with approved TAB plan and the procedures
+specified and referenced in this Specification.
+D.
+TAB Report Forms: Use standard forms from AABC's "National Standards for Total
+System Balance, 6th Edition, 2002”.
+E.
+Instrumentation Type, Quantity, and Accuracy: As described in AABC's "National
+Standards for Total System Balance, 6th Edition, 2002”.
+F.
+Instrumentation Calibration: Calibrate instruments at least every six months or more
+frequently if required by instrument manufacturer.
+1.
+Keep an updated record of instrument calibration that indicates date of
+calibration and the name of party performing instrument calibration.
+1.5
+PROJECT CONDITIONS
+A.
+Partial Owner Occupancy: Owner may occupy completed areas of building before
+Substantial Completion. Cooperate with Owner during TAB operations to minimize
+conflicts with Owner's operations.
+1.6
+COORDINATION
+A.
+Coordinate the efforts of factory-authorized service representatives for systems and
+equipment, HVAC controls installers, and other mechanics to operate HVAC systems
+and equipment to support and assist TAB activities.
+
+
+===== PAGE 35 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 3 of 13 
+B.
+TAB fieldwork shall not begin on any system prior to pre-functional checklists being
+completed by all associated contractors.
+C.
+Notice: Provide seven days' advance notice for each test. Include scheduled test dates
+and times.
+D.
+Perform TAB after leakage and pressure tests on air and water distribution systems have
+been satisfactorily completed.
+1.7
+WARRANTY
+A.
+National Project Performance Guarantee: Provide a guarantee on AABC's "National
+Standards for Total System Balance, 6th Edition, 2002” forms stating that AABC will
+assist in completing requirements of the Contract Documents if TAB firm fails to comply
+with the Contract Documents. Guarantee includes the following provisions:
+1.
+The certified TAB firm has tested and balanced systems according to the
+Contract Documents.
+2.
+Systems are balanced to optimum performance capabilities within design and
+installation limits.
+PART 2 - PRODUCTS (NOT APPLICABLE)
+PART 3 - EXECUTION
+3.1
+EXAMINATION
+A.
+Examine the Contract Documents to become familiar with Project requirements and to
+discover conditions in systems' designs that may preclude proper TAB of systems and
+equipment.
+1.
+Contract Documents are defined in the General and Supplementary Conditions of
+Contract.
+2.
+Verify that balancing devices, such as test ports, gage cocks, thermometer wells,
+flow-control devices, balancing valves and fittings, and manual volume dampers,
+are required by the Contract Documents. Verify that quantities and locations of
+these balancing devices are accessible and appropriate for effective balancing and
+for efficient system and equipment operation.
+a.
+Examine approved submittal data of HVAC systems and equipment.
+b.
+Examine Project Record Documents described in Division 01 Section
+"Contract Closeout."
+c.
+Examine design data, including HVAC system descriptions, statements
+of design assumptions for environmental conditions and systems' output,
+and statements of philosophies and assumptions about HVAC system
+and equipment controls.
+d.
+Examine equipment performance data including fan and pump curves.
+ Relate performance data to Project conditions and requirements,
+including system effects that can create undesired or unpredicted
+conditions that cause reduced capacities in all or part of a system.
+ Calculate system effect factors to reduce performance ratings of HVAC
+equipment when installed under conditions different from those
+
+
+===== PAGE 36 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 4 of 13 
+presented when the equipment was performance tested at the factory. To
+calculate system effects for air systems, use tables and charts found in
+AMCA 201, "Fans and Systems," Sections 7 through 10; or in
+SMACNA's "HVAC Systems--Duct Design," Sections 5 and 6. Compare
+this data with the design data and installed conditions.
+e.
+Examine system and equipment installations to verify that they are
+complete and that testing, cleaning, adjusting, and commissioning
+specified in individual Sections have been performed.
+f.
+Examine system and equipment test reports.
+g.
+Examine HVAC system and equipment installations to verify that
+indicated balancing devices, such as test ports, gage cocks, thermometer
+wells, flow-control devices, balancing valves and fittings, and manual
+volume dampers, are properly installed, and that their locations are
+accessible and appropriate for effective balancing and for efficient
+system and equipment operation.
+h.
+Examine systems for functional deficiencies that cannot be corrected by
+adjusting and balancing.
+i.
+Examine HVAC equipment to ensure that clean filters have been
+installed, bearings are greased, belts are aligned and tight, and equipment
+with functioning controls is ready for operation.
+j.
+Examine heat-transfer coils for correct piping connections and for clean
+and straight fins.
+k.
+Examine equipment for installation and for properly operating safety
+interlocks and controls.
+l.
+Examine automatic temperature system components to verify the
+following:
+1)
+Dampers, valves, and other controlled devices are operated by
+the intended controller.
+2)
+Dampers and valves are in the position indicated by the
+controller.
+3)
+Integrity of valves and dampers for free and full operation and
+for tightness of fully closed and fully open positions.
+4)
+Thermostats sensors are located to avoid adverse effects of
+sunlight, drafts, and cold walls.
+5)
+Sensors are located to sense only the intended conditions.
+6)
+Sequence of operation for control modes is according to the
+Contract Documents.
+7)
+Controller set points are set at indicated values.
+8)
+Interlocked systems are operating.
+9)
+Changeover from heating to cooling mode occurs according to
+indicated values.
+
+
+===== PAGE 37 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 5 of 13 
+m.
+Report deficiencies discovered before and during performance of TAB
+procedures. Observe and record system reactions to changes in
+conditions. Record default set points if different from indicated values.
+3.2
+PREPARATION
+A.
+Prepare a TAB plan that includes strategies and step-by-step procedures.
+B.
+Complete system readiness checks and prepare system readiness reports. Verify the
+following:
+1.
+Permanent electrical power wiring is complete.
+2.
+Hydronic systems are filled, clean, and free of air.
+3.
+Automatic temperature-control systems are operational.
+4.
+Equipment and duct access doors are securely closed.
+5.
+Balance dampers are open.
+6.
+Isolating and balancing valves are open and control valves are operational.
+7.
+Ceilings are installed in critical areas where air-pattern adjustments are required
+and access to balancing devices is provided.
+8.
+Windows and doors can be closed so indicated conditions for system operations
+can be met.
+3.3
+GENERAL PROCEDURES FOR TESTING AND BALANCING
+A.
+Perform testing and balancing procedures on each system according to the procedures
+contained in AABC's "National Standards for Total System Balance, 6th Edition, 2002”
+and this Section.
+B.
+Cut insulation, ducts, pipes, and equipment cabinets for installation of test probes to the
+minimum extent necessary to allow adequate performance of procedures. After testing
+and balancing, close probe holes and patch insulation with new materials identical to
+those removed. Restore vapor barrier and finish according to insulation Specifications
+for this Project.
+C.
+Mark equipment and balancing device settings with paint or other suitable, permanent
+identification material, including damper-control positions, valve position indicators, fan-
+speed-control levers, and similar controls and devices, to show final settings.
+D.
+Take and report testing and balancing measurements in inch-pound (IP) units.
+3.4
+GENERAL PROCEDURES FOR BALANCING AIR SYSTEMS
+A.
+Prepare test reports for both fans and outlets. Obtain manufacturer's outlet factors and
+recommended testing procedures. Crosscheck the summation of required outlet volumes
+with required fan volumes.
+B.
+Prepare schematic diagrams of systems' "as-built" duct layouts.
+C.
+Check airflow patterns from the outside-air louvers and dampers and the return- and
+exhaust-air dampers, through the supply-fan discharge and mixing dampers.
+D.
+Locate start-stop and disconnect switches, electrical interlocks, and motor starters.
+E.
+Verify that motor starters are equipped with properly sized thermal protection.
+F.
+Check dampers for proper position to achieve desired airflow path.
+G.
+Check for airflow blockages.
+
+
+===== PAGE 38 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 6 of 13 
+H.
+Check condensate drains for proper connections and functioning.
+I.
+Check for proper sealing of air-handling unit components.
+J.
+Check for proper sealing of air duct system.
+3.5
+PROCEDURES FOR CONSTANT-VOLUME AIR SYSTEMS
+A.
+Adjust fans to deliver total indicated airflows within the maximum allowable fan speed
+listed by fan manufacturer.
+1.
+Measure fan static pressures to determine actual static pressure as follows:
+a.
+Measure outlet static pressure as far downstream from the fan as
+practicable and upstream from restrictions in ducts such as elbows and
+transitions.
+b.
+Measure static pressure directly at the fan outlet or through the flexible
+connection.
+c.
+Measure inlet static pressure of single-inlet fans in the inlet duct as near
+the fan as possible, upstream from flexible connection and downstream
+from duct restrictions.
+d.
+Measure inlet static pressure of double-inlet fans through the wall of the
+plenum that houses the fan.
+2.
+Measure static pressure across each component that makes up an air-handling
+unit, rooftop unit, and other air-handling and -treating equipment.
+a.
+Simulate dirty filter operation and record the point at which maintenance
+personnel must change filters.
+3.
+Measure static pressures entering and leaving other devices such as sound traps,
+heat recovery equipment, and air washers, under final balanced conditions.
+4.
+Compare design data with installed conditions to determine variations in design
+static pressures versus actual static pressures. Compare actual system effect
+factors with calculated system effect factors to identify where variations occur.
+ Recommend corrective action to align design and actual conditions.
+5.
+Obtain approval from Architect for adjustment of fan speed higher or lower than
+indicated speed. Make required adjustments to pulley sizes, motor sizes, and
+electrical connections to accommodate fan-speed changes.
+6.
+Do not make fan-speed adjustments that result in motor overload. Consult
+equipment manufacturers about fan-speed safety factors.
+7.
+Modulate dampers and measure fan-motor amperage to ensure that no overload
+will occur.
+8.
+Measure amperage in full cooling, full heating, economizer, and any other
+operating modes to determine the maximum required brake horsepower.
+B.
+Adjust volume dampers for main duct, submain ducts, and major branch ducts to
+indicated airflows within specified tolerances.
+1.
+Measure static pressure at a point downstream from the balancing damper and
+adjust volume dampers until the proper static pressure is achieved.
+
+
+===== PAGE 39 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 7 of 13 
+a.
+Where sufficient space in submain and branch ducts is unavailable for
+Pitot-tube traverse measurements, measure airflow at terminal outlets
+and inlets and calculate the total airflow for that zone.
+2.
+Remeasure each submain and branch duct after all have been adjusted. Continue
+to adjust submain and branch ducts to indicated airflows within specified
+tolerances.
+C.
+Measure terminal outlets and inlets without making adjustments.
+1.
+Measure terminal outlets using a direct-reading hood or outlet manufacturer's
+written instructions and calculating factors.
+D.
+Adjust terminal outlets and inlets for each space to indicated airflows within specified
+tolerances of indicated values. Make adjustments using volume dampers rather than
+extractors and the dampers at air terminals.
+1.
+Adjust each outlet in same room or space to within specified tolerances of
+indicated quantities without generating noise levels above the limitations
+prescribed by the Contract Documents.
+2.
+Adjust patterns of adjustable outlets for proper distribution without drafts.
+3.6
+PROCEDURES FOR MOTORS
+A.
+Motors, 1/2 HP and Larger: Test at final balanced conditions and record the following
+data:
+1.
+Manufacturer, model, and serial numbers.
+2.
+Motor horsepower rating.
+3.
+Motor rpm.
+4.
+Efficiency rating.
+5.
+Nameplate and measured voltage, each phase.
+6.
+Nameplate and measured amperage, each phase.
+7.
+Starter thermal-protection-element rating.
+B.
+Motors Driven by Variable-Frequency Controllers: Test for proper operation at speeds
+varying from minimum to maximum. Test the manual bypass for the controller to prove
+proper operation. Record observations, including controller manufacturer, model and
+serial numbers, and nameplate data.
+3.7
+PROCEDURES FOR TEMPERATURE MEASUREMENTS
+A.
+During TAB, report the need for adjustment in temperature regulation within the
+automatic temperature-control system.
+B.
+Measure outside-air, wet- and dry-bulb temperatures.
+3.8
+PROCEDURES FOR SPACE PRESSURIZATION MEASUREMENTS AND
+ADJUSTMENTS
+A.
+Before testing for space pressurization, observe the space to verify the integrity of the
+space boundaries. Verify that windows and doors are closed and applicable safing,
+gaskets, and sealants are installed. Report deficiencies and postpone testing until after
+the reported deficiencies are corrected.
+
+
+===== PAGE 40 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 8 of 13 
+B.
+Measure space pressure differential where pressure is used as the design criteria, and
+measure airflow differential where differential airflow is used as the design criteria for
+space pressurization.
+C.
+To achieve indicated pressurization, set the supply airflow to the indicated conditions and
+adjust the exhaust and return airflow to achieve the indicated pressure or airflow
+difference.
+D.
+For spaces with pressurization being monitored and controlled automatically, observe and
+adjust the controls to achieve the desired set point.
+1.
+Compare the values of the measurements taken to the measured values of the
+control system instruments and report findings.
+2.
+Check the repeatability of the controls by successive tests designed to
+temporarily alter the ability to achieve space pressurization.
+E.
+Record indicated conditions and corresponding initial and final measurements. Report
+deficiencies.
+3.9
+TEMPERATURE-CONTROL VERIFICATION
+A.
+Verify that controllers are calibrated and commissioned.
+B.
+Check transmitter and controller locations and note conditions that would adversely
+affect control functions.
+C.
+Record controller settings and note variances between set points and actual
+measurements.
+D.
+Check free travel and proper operation of control devices such as damper and valve
+operators.
+E.
+Check the sequence of operation of control devices. Note air pressures and device
+positions and correlate with airflow and water flow measurements. Note the speed of
+response to input changes.
+F.
+Check the interaction of electrically operated switch transducers.
+G.
+Check the interaction of interlock and lockout systems.
+H.
+Check main control supply-air pressure and observe compressor and dryer operations.
+I.
+Record voltages of power supply and controller output. Determine whether the system
+operates on a grounded or nongrounded power supply.
+J.
+Note operation of electric actuators using spring return for proper fail-safe operations.
+3.10
+TOLERANCES
+A.
+Set HVAC system airflow and water flow rates within the following tolerances:
+1.
+Supply: +/- 10 percent.
+2.
+Return, and Exhaust Fans and Equipment with Fans: +/- 5 percent.
+3.
+Air Inlets: +/- 5 percent.
+4.
+Air Outlets: +/- 10 percent.
+5.
+Condenser-Water Flow Rate: +/- 10 percent.
+3.11
+REPORTING
+A.
+Initial Construction-Phase Report: Based on examination of the Contract Documents as
+specified in "Examination" Article, prepare a report on the adequacy of design for
+
+
+===== PAGE 41 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 9 of 13 
+systems' balancing devices. Recommend changes and additions to systems' balancing
+devices to facilitate proper performance measuring and balancing. Recommend changes
+and additions to HVAC systems and general construction to allow access for performance
+measuring and balancing devices.
+B.
+Status Reports: As Work progresses, prepare reports to describe completed procedures,
+procedures in progress, and scheduled procedures. Include a list of deficiencies and
+problems found in systems being tested and balanced. Prepare a separate report for each
+system and each building floor for systems serving multiple floors.
+3.12
+FINAL REPORT
+A.
+General: Typewritten, or computer printout in letter-quality font, on standard bond
+paper, in three-ring binder, tabulated and divided into sections by tested and balanced
+systems.
+B.
+Include a certification sheet in front of binder signed and sealed by the certified testing
+and balancing engineer.
+1.
+Include a list of instruments used for procedures, along with proof of calibration.
+C.
+Final Report Contents: In addition to certified field report data, include the following:
+1.
+Pump curves.
+2.
+Fan curves.
+3.
+Manufacturers' test data.
+4.
+Field test reports prepared by system and equipment installers.
+5.
+Other information relative to equipment performance, but do not include Shop
+Drawings and Product Data.
+D.
+General Report Data: In addition to form titles and entries, include the following data in
+the final report, as applicable:
+1.
+Title page.
+2.
+Name and address of TAB firm.
+3.
+Project name.
+4.
+Project location.
+5.
+Architect's name and address.
+6.
+Engineer's name and address.
+7.
+Contractor's name and address.
+8.
+Report date.
+9.
+Signature of TAB firm who certifies the report.
+10.
+Table of Contents with the total number of pages defined for each section of the
+report. Number each page in the report.
+11.
+Summary of contents including the following:
+a.
+Indicated versus final performance.
+b.
+Notable characteristics of systems.
+c.
+Description of system operation sequence if it varies from the Contract
+Documents.
+12.
+Nomenclature sheets for each item of equipment.
+
+
+===== PAGE 42 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 10 of 13 
+13.
+Data for terminal units, including manufacturer, type size, and fittings.
+14.
+Notes to explain why certain final data in the body of reports varies from
+indicated values.
+15.
+Test conditions for fans and pump performance forms including the following:
+a.
+Settings for outside-, return-, and exhaust-air dampers.
+b.
+Conditions of filters.
+c.
+Cooling coil, wet- and dry-bulb conditions.
+d.
+Face and bypass damper settings at coils.
+e.
+Fan drive settings including settings and percentage of maximum pitch
+diameter.
+f.
+Inlet vane settings for variable-air-volume systems.
+g.
+Settings for supply-air, static-pressure controller.
+h.
+Other system operating conditions that affect performance.
+E.
+System Diagrams: Include schematic layouts of air and hydronic distribution systems.
+ Present each system with single-line diagram and include the following:
+1.
+Quantities of outside, supply, return, and exhaust airflows.
+2.
+Water and steam flow rates.
+3.
+Duct, outlet, and inlet sizes.
+4.
+Pipe and valve sizes and locations.
+5.
+Terminal units.
+6.
+Balancing stations.
+7.
+Position of balancing devices.
+F.
+Air-Handling Unit Test Reports: For air-handling units with coils, include the following
+as required:
+1.
+Unit Data: Include the following:
+a.
+Unit identification.
+b.
+Location.
+c.
+Make and type.
+d.
+Model number and unit size.
+e.
+Manufacturer's serial number.
+f.
+Unit arrangement and class.
+g.
+Discharge arrangement.
+h.
+Sheave make, size in inches, and bore.
+i.
+Sheave dimensions, center-to-center, and amount of adjustments in
+inches.
+j.
+Number of belts, make, and size.
+k.
+Number of filters, type, and size.
+2.
+Motor Data:
+a.
+Make and frame type and size.
+b.
+Horsepower and rpm.
+c.
+Volts, phase, and hertz.
+
+
+===== PAGE 43 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 11 of 13 
+d.
+Full-load amperage and service factor.
+e.
+Sheave make, size in inches and bore.
+f.
+Sheave dimensions, center-to-center, and amount of adjustments in
+inches.
+3.
+Test Data (Indicated and Actual Values):
+a.
+Total airflow rate in cfm.
+b.
+Total system static pressure in inches wg.
+c.
+Fan rpm.
+d.
+Discharge static pressure in inches wg.
+e.
+Filter static-pressure differential in inches wg.
+f.
+Outside airflow in cfm.
+g.
+Return airflow in cfm.
+h.
+Outside-air damper position.
+i.
+Return-air damper position.
+j.
+Vortex damper position.
+G.
+Fan Test Reports: For supply and exhaust fans, include the following:
+1.
+Fan Data:
+a.
+System identification.
+b.
+Location.
+c.
+Make and type.
+d.
+Model number and size.
+e.
+Manufacturer's serial number.
+f.
+Arrangement and class.
+g.
+Sheave make, size in inches and bore.
+h.
+Sheave dimensions, center-to-center, and amount of adjustments in
+inches.
+2.
+Motor Data:
+a.
+Make and frame type and size.
+b.
+Horsepower and rpm.
+c.
+Volts, phase, and hertz.
+d.
+Full-load amperage and service factor.
+e.
+Sheave make, size in inches and bore.
+f.
+Sheave dimensions, center-to-center, and amount of adjustments in
+inches.
+g.
+Number of belts, make, and size.
+3.
+Test Data (Indicated and Actual Values):
+a.
+Total airflow rate in cfm.
+b.
+Total system static pressure in inches wg.
+c.
+Fan rpm.
+d.
+Discharge static pressure in inches wg.
+e.
+Suction static pressure in inches wg.
+
+
+===== PAGE 44 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 12 of 13 
+H.
+Round and Rectangular Duct Traverse Reports: Include a diagram with a grid
+representing the duct cross-section and record the following:
+1.
+Report Data:
+a.
+System and air-handling unit number.
+b.
+Location and zone.
+c.
+Traverse air temperature in deg F.
+d.
+Duct static pressure in inches wg.
+e.
+Duct size in inches.
+f.
+Duct area in sq. ft.
+g.
+Indicated airflow rate in cfm.
+h.
+Indicated velocity in fpm.
+i.
+Actual airflow rate in cfm.
+j.
+Actual average velocity in fpm.
+k.
+Barometric pressure in psig.
+I.
+Instrument Calibration Reports:
+1.
+Report Data:
+a.
+Instrument type and make.
+b.
+Serial number.
+c.
+Application.
+d.
+Dates of use.
+e.
+Dates of calibration.
+3.13
+INSPECTIONS
+A.
+Initial Inspection:
+1.
+After testing and balancing are complete, operate each system and randomly
+check measurements to verify that the system is operating according to the final
+test and balance readings documented in the Final Report.
+2.
+Randomly check the following for each system:
+a.
+Measure airflow of at least 10 percent of air outlets.
+b.
+Measure water flow of at least 5 percent of terminals.
+c.
+Measure room temperature at each thermostat/temperature sensor.
+ Compare the reading to the set point.
+d.
+Measure sound levels at two locations.
+e.
+Measure space pressure of at least 10 percent of locations.
+f.
+Verify that balancing devices are marked with final balance position.
+g.
+Note deviations to the Contract Documents in the Final Report.
+B.
+Final Inspection:
+1.
+After initial inspection is complete and evidence by random checks verifies that
+testing and balancing are complete and accurately documented in the final report,
+request that a final inspection be made by Architect.
+2.
+TAB firm test and balance engineer shall conduct the inspection in the presence
+of Architect.
+
+
+===== PAGE 45 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 05 93
+Testing, Adjusting and Balancing for
+HVAC
+Page 13 of 13 
+3.
+Architect shall randomly select measurements documented in the final report to
+be rechecked. The rechecking shall be limited to either 10 percent of the total
+measurements recorded, or the extent of measurements that can be accomplished
+in a normal 8-hour business day.
+a.
+If the rechecks yield measurements that differ from the measurements
+documented in the final report by more than the tolerances allowed, the
+measurements shall be noted as "FAILED."
+4.
+If the number of "FAILED" measurements is greater than 10 percent of the total
+measurements checked during the final inspection, the testing and balancing shall
+be considered incomplete and shall be rejected.
+5.
+TAB firm shall recheck all measurements and make adjustments. Revise the
+final report and balancing device settings to include all changes and resubmit the
+final report.
+3.14
+ADDITIONAL TESTS
+A.
+Within 90 days of completing TAB, perform additional testing and balancing to verify
+that balanced conditions are being maintained throughout and to correct unusual
+conditions.
+B.
+Seasonal Periods: If initial TAB procedures were not performed during near-peak
+summer and winter conditions, perform additional testing, inspecting, and adjusting
+during near-peak summer and winter conditions.
+END OF SECTION
+
+
+===== PAGE 46 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 07 13
+Duct Insulation
+Page 1 of 3 
+SECTION 23 07 13
+DUCT INSULATION
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Duct insulation.
+B.
+Duct liner.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 23 05 53 - Identification for HVAC Piping and Equipment.
+B.
+Section ​23 31 00 - HVAC Ducts and Casings​.
+1.3
+REFERENCE STANDARDS
+A.
+ASTM C518 - Standard Test Method for Steady-State Thermal Transmission Properties
+by Means of the Heat Flow Meter Apparatus; 2021.
+B.
+ASTM C553 - Standard Specification for Mineral Fiber Blanket Thermal Insulation for
+Commercial and Industrial Applications; 2013 (Reapproved 2019).
+C.
+ASTM C916 - Standard Specification for Adhesives for Duct Thermal Insulation; 2014.
+D.
+ASTM C1071 - Standard Specification for Fibrous Glass Duct Lining Insulation
+(Thermal and Sound Absorbing Material); 2019.
+E.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building
+Materials; 2021a.
+F.
+ASTM E96/E96M - Standard Test Methods for Gravimetric Determination of Water
+Vapor Transmission Rate of Materials; 2021.
+G.
+ASTM G21 - Standard Practice for Determining Resistance of Synthetic Polymeric
+Materials to Fungi; 2015, with Editorial Revision (2021).
+H.
+SMACNA (DCS) - HVAC Duct Construction Standards Metal and Flexible; 2005
+(Revised 2009).
+I.
+UL 723 - Standard for Test for Surface Burning Characteristics of Building Materials;
+Current Edition, Including All Revisions.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide product description, thermal characteristics, list of materials and
+thickness for each service, and locations.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Accept materials on site in original factory packaging, labelled with manufacturer's
+identification, including product density and thickness.
+B.
+Protect insulation from weather and construction traffic, dirt, water, chemical, and
+mechanical damage, by storing in original wrapping.
+1.6
+FIELD CONDITIONS
+A.
+Maintain ambient temperatures and conditions required by manufacturers of adhesives,
+mastics, and insulation cements.
+B.
+Maintain temperature during and after installation for minimum period of 24 hours.
+
+
+===== PAGE 47 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 07 13
+Duct Insulation
+Page 2 of 3 
+PART 2 - PRODUCTS
+2.1
+REGULATORY REQUIREMENTS
+A.
+Surface Burning Characteristics: Flame spread index/Smoke developed index of 25/50,
+maximum, when tested in accordance with ASTM E84 or UL 723.
+2.2
+GLASS FIBER, FLEXIBLE
+A.
+Manufacturer:
+1.
+CertainTeed Corporation​: www.certainteed.com/#sle.
+2.
+Johns Manville​: www.jm.com/#sle.
+3.
+Knauf Insulation; Atmosphere Duct Wrap: www.knaufinsulation.com/#sle.
+4.
+Owens Corning Corporation​: www.ocbuildingspec.com/#sle.
+B.
+Insulation: ASTM C553; flexible, noncombustible blanket.
+1.
+K (Ksi) value: 0.36 at 75 degrees F (0.052 at 24 degrees C), when tested in
+accordance with ASTM C518.
+2.
+Maximum Service Temperature: 1200 degrees F (649 degrees C).
+3.
+Maximum Water Vapor Absorption: 5.0 percent by weight.
+C.
+Vapor Barrier Jacket:
+1.
+Kraft paper with glass fiber yarn and bonded to aluminized film.
+2.
+Moisture Vapor Permeability: 0.02 perm inch (0.029 ng/Pa s m), when tested in
+accordance with ASTM E96/E96M.
+3.
+Secure with pressure sensitive tape.
+2.3
+DUCT LINER
+A.
+Manufacturers:
+1.
+CertainTeed Corporation​: www.certainteed.com/#sle.
+2.
+Johns Manville​: www.jm.com/#sle.
+3.
+Knauf Insulation​: www.knaufinsulation.com/#sle.
+4.
+Owens Corning Corporation​: www.ocbuildingspec.com/#sle.
+B.
+Glass Fiber Insulation: Non-corrosive, incombustible glass fiber complying with ASTM
+C1071; ​rigid board and preformed round liner board​; impregnated surface and edges
+coated with ​poly vinyl acetate polymer​.
+1.
+Fungal Resistance: No growth when tested according to ASTM G21.
+2.
+Apparent Thermal Conductivity: Maximum of 0.31 at 75 degrees F (0.045 at 24
+degrees C).
+3.
+Service Temperature: Up to 250 degrees F (121 degrees C).
+4.
+Rated Velocity on Coated Air Side for Air Erosion: 5,000 fpm (25.4 m/s),
+minimum.
+C.
+Adhesive: Waterproof, fire-retardant type, ASTM C916.
+D.
+Liner Fasteners: Galvanized steel, self-adhesive pad with integral head.
+PART 3 - EXECUTION
+3.1
+EXAMINATION
+A.
+Test ductwork for design pressure prior to applying insulation materials.
+B.
+Verify that surfaces are clean, foreign material removed, and dry.
+
+
+===== PAGE 48 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 07 13
+Duct Insulation
+Page 3 of 3 
+3.2
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Insulated Ducts Conveying Air Below Ambient Temperature:
+1.
+Provide insulation with vapor barrier jackets.
+2.
+Finish with tape and vapor barrier jacket.
+C.
+External Duct Insulation Application:
+1.
+Secure insulation with vapor barrier with wires and seal jacket joints with vapor
+barrier adhesive or tape to match jacket.
+2.
+Secure insulation without vapor barrier with staples, tape, or wires.
+3.
+Install without sag on underside of duct. Use adhesive or mechanical fasteners
+where necessary to prevent sagging. Lift duct off trapeze hangers and insert
+spacers.
+4.
+Seal vapor barrier penetrations by mechanical fasteners with vapor barrier
+adhesive.
+D.
+Duct and Plenum Liner Application:
+1.
+Adhere insulation with adhesive for 90 percent coverage.
+2.
+Secure insulation with mechanical liner fasteners. Refer to SMACNA (DCS) for
+spacing.
+3.
+Seal and smooth joints. Seal and coat transverse joints.
+4.
+Seal liner surface penetrations with adhesive.
+5.
+Duct dimensions indicated are net inside dimensions required for air-flow.
+ Increase duct size to allow for insulation thickness.
+3.3
+SCHEDULES
+A.
+Plenums:
+1.
+Duct Liner: 1 inch thick.
+B.
+Supply Ducts:
+1.
+Glass Fiber: 1-1/2 inch thick.
+2.
+Duct Liner: 1 inch thick for 20 ft downstream of fan unless noted otherwise on
+the plans.
+C.
+Return Ducts:
+1.
+Glass Fiber: 1-1/2 inch thick.
+2.
+Duct Liner: 1 inch thick for 20 ft upstream of fan unless noted otherwise on the
+plans.
+3.
+Return ducts located in return air plenum are not required to be insulated.
+D.
+Supply ducts After Terminal Boxes:
+1.
+Glass Fiber: 1-1/2 inch thick.
+END OF SECTION
+
+
+===== PAGE 49 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 07 19
+HVAC Piping Insulation
+Page 1 of 2 
+SECTION 23 07 19
+HVAC PIPING INSULATION
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Piping insulation.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 23 23 00 - Refrigerant Piping: Placement of inserts.
+1.3
+REFERENCE STANDARDS
+A.
+ASTM C534/C534M - Standard Specification for Preformed Flexible Elastomeric
+Cellular Thermal Insulation in Sheet and Tubular Form; 2020a.
+B.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building
+Materials; 2021a.
+C.
+UL 723 - Standard for Test for Surface Burning Characteristics of Building Materials;
+Current Edition, Including All Revisions.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide product description, thermal characteristics, list of materials and
+thickness for each service, and locations.
+C.
+Manufacturer's Instructions: Indicate installation procedures that ensure acceptable
+workmanship and installation standards will be achieved.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Accept materials on site, labeled with manufacturer's identification, product density, and
+thickness.
+1.6
+FIELD CONDITIONS
+A.
+Maintain ambient conditions required by manufacturers of each product.
+B.
+Maintain temperature before, during, and after installation for minimum of 24 hours.
+PART 2 - PRODUCTS
+2.1
+REGULATORY REQUIREMENTS
+A.
+Surface Burning Characteristics: Flame spread index/Smoke developed index of 25/50,
+maximum, when tested in accordance with ASTM E84 or UL 723.
+2.2
+FLEXIBLE ELASTOMERIC CELLULAR INSULATION
+A.
+Manufacturer:
+1.
+Aeroflex USA, Inc; Aerocel Ultra-Low Perm (ULP):
+ www.aeroflexusa.com/#sle.
+2.
+Armacell LLC; AP Armaflex: www.armacell.us/#sle.
+3.
+K-Flex USA LLC; K-Flex Titan: www.kflexusa.com/#sle.
+B.
+Insulation: Preformed flexible elastomeric cellular rubber insulation complying with
+ASTM C534/C534M Grade 1; use molded tubular material wherever possible.
+1.
+Minimum Service Temperature: Minus 40 degrees F (Minus 40 degrees C).
+2.
+Maximum Service Temperature: 180 degrees F (82 degrees C).
+3.
+Connection: Waterproof vapor barrier adhesive.
+C.
+Elastomeric Foam Adhesive: Air dried, contact adhesive, compatible with insulation.
+
+
+===== PAGE 50 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 07 19
+HVAC Piping Insulation
+Page 2 of 2 
+D.
+Weather Barrier Coating: Air dried, contact adhesive, compatible with insulation and
+ASTM E84 compliant.
+PART 3 - EXECUTION
+3.1
+EXAMINATION
+A.
+Test piping for design pressure, liquid tightness, and continuity prior to applying
+insulation materials.
+B.
+Verify that surfaces are clean and dry, with foreign material removed.
+3.2
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Exposed Piping: Locate insulation and cover seams in least visible locations.
+C.
+Insulated Pipes Conveying Fluids Below Ambient Temperature:
+1.
+Insulate entire system, including fittings, valves, unions, flanges, strainers,
+flexible connections, and expansion joints.
+D.
+Inserts and Shields:
+1.
+Application: Piping 1-1/2 inches (40 mm) diameter or larger.
+2.
+Shields: Galvanized steel between pipe hangers or pipe hanger rolls and inserts.
+3.
+Insert location: Between support shield and piping and under the finish jacket.
+4.
+Insert Configuration: Minimum 6 inches (150 mm) long, of same thickness and
+contour as adjoining insulation; may be factory fabricated.
+5.
+Insert Material: Hydrous calcium silicate insulation or other heavy density
+insulating material suitable for the planned temperature range.
+E.
+Exterior Applications: Provide vapor barrier jacket. Insulate fittings, joints, and valves
+with insulation of like material and thickness as adjoining pipe, and finish with glass
+mesh reinforced vapor barrier cement. Cover with PVC jacket with seams located on
+bottom side of horizontal piping. Provide two coats of UV resistant finish for flexible
+elastomeric cellular insulation without jacketing.
+F.
+Heat Traced Piping: Insulate fittings, joints, and valves with insulation of like material,
+thickness, and finish as adjoining pipe. Size large enough to enclose pipe and heat tracer.
+ Cover with aluminum jacket with seams located on bottom side of horizontal piping.
+3.3
+SCHEDULE
+A.
+Cooling Systems:
+1.
+Condensate Drains from Cooling Coils: 3/4 inch.
+2.
+Refrigerant Piping: As required by manuacturer
+a.
+Insulation Thickness: 3/4 inch.
+END OF SECTION
+
+
+===== PAGE 51 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 23 00
+Refrigerant Piping
+Page 1 of 5 
+SECTION 23 23 00
+REFRIGERANT PIPING
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Piping.
+B.
+Refrigerant.
+C.
+Moisture and liquid indicators.
+D.
+Valves.
+E.
+Strainers.
+F.
+Filter-driers.
+G.
+Expansion valves.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 08 31 00 - Access Doors and Panels.
+B.
+Section 23 07 19 - HVAC Piping Insulation.
+1.3
+REFERENCE STANDARDS
+A.
+AHRI 710 - Performance Rating of Liquid-Line Driers; 2009.
+B.
+AHRI 750 - Thermostatic Refrigerant Expansion Valves; 2007.
+C.
+ASHRAE Std 15 - Safety Standard for Refrigeration Systems; 2024, with Addendum
+(2025).
+D.
+ASME B16.22 - Wrought Copper and Copper Alloy Solder-Joint Pressure Fittings; 2021.
+E.
+ASME B31.5 - Refrigeration Piping and Heat Transfer Components; 2016.
+F.
+ASTM B280 - Standard Specification for Seamless Copper Tube for Air Conditioning
+and Refrigeration Field Service; 2020.
+G.
+AWS A5.8M/A5.8 - Specification for Filler Metals for Brazing and Braze Welding;
+2019.
+H.
+MSS SP-58 - Pipe Hangers and Supports - Materials, Design, Manufacture, Selection,
+Application, and Installation; 2018, with Amendment (2019).
+1.4
+SYSTEM DESCRIPTION
+A.
+Provide pipe hangers and supports in accordance with {\rs\#1} unless indicated
+otherwise.
+B.
+Liquid Indicators:
+1.
+Use line size liquid indicators in main liquid line leaving condenser.
+C.
+Valves:
+1.
+Use service valves on suction and discharge of compressors.
+2.
+Use gauge taps at compressor inlet and outlet.
+D.
+Strainers:
+1.
+Use line size strainer upstream of each automatic valve.
+E.
+Filter-Driers:
+1.
+Use a filter-drier immediately ahead of liquid-line controls, such as thermostatic
+expansion valves, solenoid valves, and moisture indicators.
+1.5
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+
+
+===== PAGE 52 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 23 00
+Refrigerant Piping
+Page 2 of 5 
+B.
+Product Data: Provide general assembly of specialties, including manufacturers
+catalogue information. Provide manufacturers catalog data including load capacity.
+C.
+Design Data: Submit design data indicating pipe sizing. Indicate load carrying capacity
+of trapeze, multiple pipe, and riser support hangers.
+D.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 60 00 - Product Requirements, for additional provisions.
+2.
+Extra Filter-Dryer Cartridges: One of each type and size.
+3.
+Refrigeration Oil Test Kits: One, each containing everything required to conduct
+one test.
+1.6
+QUALITY ASSURANCE
+A.
+Designer Qualifications: Design piping system under direct supervision of a Professional
+Engineer experienced in design of this type of work.
+1.7
+DELIVERY, STORAGE, AND HANDLING
+A.
+Deliver and store piping and specialties in shipping containers with labeling in place.
+B.
+Protect piping and specialties from entry of contaminating material by leaving end caps
+and plugs in place until installation.
+C.
+Dehydrate and charge components such as piping and receivers, seal prior to shipment,
+until connected into system.
+PART 2 PRODUCTS
+2.1
+SYSTEM DESCRIPTION
+A.
+Filter-Driers:
+1.
+Use a filter-drier immediately ahead of liquid-line controls, such as thermostatic
+expansion valves, solenoid valves, and moisture indicators.
+2.2
+REGULATORY REQUIREMENTS
+2.3
+PIPING
+A.
+Copper Tube: ASTM B280, H58 hard drawn or O60 soft annealed.
+1.
+Fittings: ASME B16.22 wrought copper.
+2.
+Joints: Braze, AWS A5.8M/A5.8 BCuP silver/phosphorus/copper alloy.
+B.
+Pipe Supports and Anchors:
+1.
+Provide hangers and supports that comply with MSS SP-58.
+a.
+If type of hanger or support for a particular situation is not indicated,
+select appropriate type using MSS SP-58 recommendations.
+2.
+Hangers for Pipe Sizes 2 Inches (50 mm) and Over: Carbon steel, adjustable,
+clevis.
+3.
+Multiple or Trapeze Hangers: Steel channels with welded spacers and hanger
+rods.
+4.
+Wall Support for Pipe Sizes to 3 Inches (75 mm): Cast iron hook.
+5.
+Vertical Support: Steel riser clamp.
+6.
+Copper Pipe Support: Carbon steel ring, adjustable, copper plated.
+7.
+Hanger Rods: Mild steel threaded both ends, threaded one end, or continuous
+threaded.
+
+
+===== PAGE 53 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 23 00
+Refrigerant Piping
+Page 3 of 5 
+8.
+Inserts: Malleable iron case of galvanized steel shell and expander plug for
+threaded connection with lateral adjustment, top slot for reinforcing rods, lugs for
+attaching to forms; size inserts to suit threaded hanger rods.
+2.4
+REFRIGERANT
+A.
+Refrigerant: Use only refrigerants that have ozone depletion potential (ODP) of zero and
+global warming potential (GWP) of less than 50.
+2.5
+MOISTURE AND LIQUID INDICATORS
+A.
+Indicators: Single port type, UL listed, with copper or brass body, flared or solder ends,
+sight glass, color coded paper moisture indicator with removable element cartridge and
+plastic cap; for maximum temperature of 200 degrees F (93 degrees C) and maximum
+working pressure of 500 psi (3450 kPa).
+2.6
+VALVES
+A.
+Diaphragm Packless Valves:
+1.
+UL listed, globe or angle pattern, forged brass body and bonnet, phosphor bronze
+and stainless steel diaphragms, rising stem and handwheel, stainless steel spring,
+nylon seat disc, solder or flared ends, with positive backseating; for maximum
+working pressure of 500 psi (3450 kPa) and maximum temperature of 275
+degrees F (135 degrees C).
+B.
+Packed Angle Valves:
+1.
+Forged brass or nickel plated forged steel, forged brass seal caps with copper
+gasket, rising stem and seat with backseating, molded stem packing, solder or
+flared ends; for maximum working pressure of 500 psi (3450 kPa) and maximum
+temperature of 275 degrees F (135 degrees C).
+C.
+Ball Valves:
+1.
+Two piece bolted forged brass body with teflon ball seals and copper tube
+extensions, brass bonnet and seal cap, chrome plated ball, stem with neoprene
+ring stem seals; for maximum working pressure of 500 psi (3450 kPa) and
+maximum temperature of 300 degrees F (149 degrees C).
+D.
+Service Valves:
+1.
+Forged brass body with copper stubs, brass caps, removable valve core, integral
+ball check valve, flared or solder ends, for maximum pressure of 500 psi (3450
+kPa).
+2.7
+STRAINERS
+A.
+Straight Line or Angle Line Type:
+1.
+Brass or steel shell, steel cap and flange, and replaceable cartridge, with screen of
+stainless steel wire or monel reinforced with brass; for maximum working
+pressure of 430 psi (2960 kPa).
+2.8
+FILTER-DRIERS
+A.
+Performance:
+1.
+Flow Capacity - Liquid Line: one ton (____ kW), minimum, rated in accordance
+with AHRI 710.
+
+
+===== PAGE 54 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 23 00
+Refrigerant Piping
+Page 4 of 5 
+2.
+Pressure Drop: 2 psi (14 kPa), maximum, when operating at full connected
+evaporator capacity.
+3.
+Design Working Pressure: 350 psi (2410 kPa), minimum.
+B.
+Cores: Molded or loose-fill molecular sieve desiccant compatible with refrigerant,
+activated alumina, activated charcoal, and filtration to 40 microns, with secondary
+filtration to 20 microns; of construction that will not pass into refrigerant lines.
+C.
+Construction: UL listed.
+1.
+Connections: As specified for applicable pipe type.
+2.9
+EXPANSION VALVES
+A.
+Angle or Straight Through Type: AHRI 750; design suitable for refrigerant, brass body,
+internal or external equalizer, bleed hole, adjustable superheat setting, replaceable inlet
+strainer, with non-replaceable capillary tube and remote sensing bulb and remote bulb
+well.
+B.
+Selection: Evaluate refrigerant pressure drop through system to determine available
+pressure drop across valve. Select valve for maximum load at design operating pressure
+and minimum 10 degrees F (6 degrees C) superheat. Select to avoid being undersized at
+full load and excessively oversized at part load.
+PART 3 EXECUTION
+3.1
+PREPARATION
+A.
+Ream pipe and tube ends. Remove burrs. Bevel plain end ferrous pipe.
+B.
+Remove scale and dirt on inside and outside before assembly.
+C.
+Prepare piping connections to equipment with flanges or unions.
+3.2
+INSTALLATION
+A.
+Install refrigeration specialties in accordance with manufacturer's instructions.
+B.
+Route piping in orderly manner, with plumbing parallel to building structure, and
+maintain gradient.
+C.
+Install piping to conserve building space and avoid interference with use of space.
+D.
+Install piping to allow for expansion and contraction without stressing pipe, joints, or
+connected equipment.
+E.
+Pipe Hangers and Supports:
+1.
+Install in accordance with ASME B31.5.
+2.
+Support horizontal piping as indicated.
+3.
+Install hangers to provide minimum 1/2 inch (13 mm) space between finished
+covering and adjacent work.
+4.
+Place hangers within 12 inches (300 mm) of each horizontal elbow.
+F.
+Arrange piping to return oil to compressor. Provide traps and loops in piping, and
+provide double risers as required. Slope horizontal piping 0.40 percent in direction of
+flow.
+G.
+Provide clearance for installation of insulation and access to valves and fittings.
+H.
+Provide access to concealed valves and fittings. Coordinate size and location of access
+doors with Section 08 31 00.
+I.
+Insulate piping and equipment; refer to Section and Section 23 07 16.
+
+
+===== PAGE 55 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 23 00
+Refrigerant Piping
+Page 5 of 5 
+J.
+Follow ASHRAE Std 15 procedures for charging and purging of systems and for disposal
+of refrigerant.
+K.
+Provide replaceable cartridge filter-driers, with isolation valves and valved bypass.
+L.
+Locate expansion valve sensing bulb immediately downstream of evaporator on suction
+line.
+3.3
+FIELD QUALITY CONTROL
+A.
+See Section 01 40 00 - Quality Requirements, for additional requirements.
+B.
+Test refrigeration system in accordance with ASME B31.5.
+C.
+Pressure test system with dry nitrogen to 200 psi (1380 kPa). Perform final tests at 27
+inches (92 kPa) vacuum and 200 psi (1380 kPa) using halide torch. Test to no leakage.
+3.4
+SCHEDULES
+A.
+Hanger Spacing for Copper Tubing.
+1.
+1/2 inch (13 mm), 5/8 inch (16 mm), and 7/8 inch (22 mm) OD: Maximum span,
+5 feet (1500 mm); minimum rod size, 1/4 inch (6.3 mm).
+END OF SECTION
+
+
+===== PAGE 56 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 31 00
+HVAC Ducts and Casings
+Page 1 of 4 
+SECTION 23 31 00
+HVAC DUCTS AND CASINGS
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Metal ducts.
+B.
+Flexible ducts.
+C.
+Ducts for kitchen exhaust applications.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 23 05 93 - Testing, Adjusting, and Balancing for HVAC.
+B.
+Section 23 07 13 - Duct Insulation: External insulation and duct liner.
+C.
+Section 23 33 00 - Air Duct Accessories.
+D.
+Section 23 36 00 - Air Terminal Units.
+1.3
+REFERENCE STANDARDS
+A.
+ASHRAE (FUND) - ASHRAE Handbook - Fundamentals; Most Recent Edition Cited by
+Referring Code or Reference Standard.
+B.
+ASTM A36/A36M - Standard Specification for Carbon Structural Steel; 2019.
+C.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized)
+or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2020.
+D.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building
+Materials; 2021a.
+E.
+NFPA 90A - Standard for the Installation of Air-Conditioning and Ventilating Systems;
+2024.
+F.
+NFPA 96 - Standard for Ventilation Control and Fire Protection of Commercial Cooking
+Operations; 2017.
+G.
+SMACNA (DCS) - HVAC Duct Construction Standards Metal and Flexible; 2005
+(Revised 2009).
+H.
+SMACNA (KVS) - Kitchen Ventilation Systems and Food Service Equipment
+Fabrication and Installation Guidelines; 2001.
+I.
+UL 181 - Standard for Factory-Made Air Ducts and Air Connectors; current edition,
+including all revisions.
+J.
+UL 1978 - Grease Ducts; Current Edition, Including All Revisions.
+K.
+UL 2221 - Tests of Fire Resistive Grease Duct Enclosure Assemblies; Current Edition,
+Including All Revisions.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide data for duct materials.
+C.
+Shop Drawings: Indicate duct fitting types, gauges, sizes, welds, and configuration.
+D.
+Project Record Documents: Record actual locations of ducts and duct fittings. Record
+changes in fitting location and type. Show additional fittings used.
+1.5
+FIELD CONDITIONS
+A.
+Do not install duct sealants when temperatures are less than those recommended by
+sealant manufacturers.
+
+
+===== PAGE 57 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 31 00
+HVAC Ducts and Casings
+Page 2 of 4 
+B.
+Maintain temperatures within acceptable range during and after installation of duct
+sealants.
+PART 2 - PRODUCTS
+2.1
+DUCT ASSEMBLIES
+A.
+Regulatory Requirements: Construct ductwork to comply with {\rs\#1} standards.
+B.
+Ducts: Galvanized steel, unless otherwise indicated.
+C.
+Low Pressure Supply (System with Cooling Coils): 1/2 inch w.g. (125 Pa) pressure class,
+galvanized steel.
+D.
+Return and Relief: 1/2 inch w.g. (125 Pa) pressure class, galvanized steel.
+E.
+General Exhaust: 1/2 inch w.g. (125 Pa) pressure class, galvanized steel.
+F.
+Kitchen Cooking Hood Exhaust: 1/2 inch wg (125 Pa) pressure class, stainless steel.
+2.2
+DUCTWORK FABRICATION
+A.
+Fabricate and support in accordance with SMACNA (DCS) and as indicated.
+B.
+No variation of duct configuration or size permitted except by written permission. Size
+round duct installed in place of rectangular ducts in accordance with ASHRAE (FUND)
+Handbook - Fundamentals.
+C.
+Provide duct material, gages, reinforcing, and sealing for operating pressures indicated.
+D.
+Construct T's, bends, and elbows with radius of not less than 1-1/2 times width of duct on
+centerline. Where not possible and where rectangular elbows must be used, provide air
+foil turning vanes of perforated metal with glass fiber insulation.
+E.
+Increase duct sizes gradually, not exceeding 15 degrees divergence wherever possible;
+maximum 30 degrees divergence upstream of equipment and 45 degrees convergence
+downstream.
+F.
+Fabricate continuously welded round and oval duct fittings in accordance with SMACNA
+(DCS).
+2.3
+METAL DUCTS
+A.
+Material Requirements:
+1.
+Galvanized Steel: Hot-dipped galvanized steel sheet, ASTM A653/A653M FS
+Type B, with G60/Z180 coating.
+B.
+Round Metal Ducts:
+1.
+Round Single Wall Duct: Round lock seam duct with galvanized steel outer
+wall.
+2.
+Round Connection System:  Interlocking duct connection system per SMACNA
+(DCS).
+C.
+Round Spiral Duct:
+1.
+Round spiral lock seam duct with galvanized steel outer wall.
+D.
+Connectors, Fittings, Sealants, and Miscellaneous:
+1.
+Fittings: Manufacture with solid inner wall of perforated galvanized steel.
+2.
+Transverse Duct Connection System: SMACNA "E" rated rigid class
+connection, interlocking angle and duct edge connection system with sealant,
+gasket, cleats, and corner clips in accordance with SMACNA (DCS).
+
+
+===== PAGE 58 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 31 00
+HVAC Ducts and Casings
+Page 3 of 4 
+3.
+Joint Sealers and Sealants: Non-hardening, water resistant, mildew and mold
+resistant.
+a.
+Type: Heavy mastic or liquid used alone or with tape, suitable for joint
+configuration and compatible with substrates, and recommended by
+manufacturer for pressure class of ducts.
+b.
+Surface Burning Characteristics: Flame spread index of zero and smoke
+developed index of zero, when tested in accordance with ASTM E84.
+4.
+Gasket Tape:
+a.
+Provide butyl rubber gasket tape for a flexible seal between transfer duct
+connector (TDC), transverse duct flange (TDF), applied flange
+connections, and angle ring connections.
+5.
+Hanger Rod: ASTM A36/A36M; steel, galvanized; threaded both ends, threaded
+one end, or continuously threaded.
+2.4
+FLEXIBLE DUCTS
+A.
+Flexible Air Ducts:
+1.
+UL 181, Class 1, multiple layers of aluminum laminate supported by helically
+wound spring steel wire.
+2.
+Insulation: Fiberglass insulation with polyethylene vapor barrier film.
+3.
+Pressure Rating: From 10 in-wc (2.5 kPa) positive to 1 in-wc (250 Pa) negative.
+4.
+Maximum Velocity: 4,000 fpm (20.3 m/s).
+5.
+Temperature Range: Minus 20 to 210 degrees F (Minus 28 to 99 degrees C).
+2.5
+DUCTS FOR KITCHEN EXHAUST APPLICATIONS
+A.
+Provide ductwork, fittings, and appurtenances per NFPA 96, SMACNA (KVS), UL 1978,
+and UL 2221 requirements and guidelines.
+B.
+Where ducts are not self-draining back to equipment, provide low point drain pocket with
+the copper drain pipe to a sanitary sewer.
+C.
+Designed, fabricated, and installed to be liquid tight preventing exhaust leakage into the
+building.
+D.
+Dishwasher Exhaust Duct:
+1.
+Duct Size: 1/2 in-wc (125 Pa) pressure class, stainless steel.
+2.
+Fabricate using 18 gauge, 0.05 inch (1.27 mm) thick, single wall, type 304
+stainless steel with continuous external welded joints to form rectangular
+sections.
+3.
+Joints to be sealed during installation with factory supplied overlapping V-bands
+and sealant.
+PART 3 - EXECUTION
+3.1
+INSTALLATION
+A.
+Install, support, and seal ducts in accordance with SMACNA (DCS).
+B.
+During construction provide temporary closures of metal or taped polyethylene on open
+ductwork to prevent construction dust from entering ductwork system.
+
+
+===== PAGE 59 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 31 00
+HVAC Ducts and Casings
+Page 4 of 4 
+C.
+Increase duct sizes gradually, not exceeding 15 degrees divergence wherever possible;
+maximum 30 degrees divergence upstream of equipment and 45 degrees convergence
+downstream.
+D.
+Flexible Ducts: Connect to metal ducts with draw bands.
+E.
+Duct sizes indicated are inside clear dimensions. For lined ducts, maintain sizes inside
+lining.
+F.
+Provide openings in ductwork where required to accommodate thermometers and
+controllers. Provide pilot tube openings where required for testing of systems, complete
+with metal can with spring device or screw to ensure against air leakage. Where
+openings are provided in insulated ductwork, install insulation material inside a metal
+ring.
+G.
+Locate ducts with sufficient space around equipment to allow normal operating and
+maintenance activities.
+3.2
+CLEANING
+A.
+Clean new duct systems and force air at high velocity through duct to remove
+accumulated dust. To obtain sufficient air, clean half the system at a time. Protect
+equipment that could be harmed by excessive dirt with temporary filters, or bypass during
+cleaning.
+END OF SECTION
+
+
+===== PAGE 60 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 33 00
+Air Duct Accessories
+Page 1 of 2 
+SECTION 23 33 00
+AIR DUCT ACCESSORIES
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Backdraft dampers - metal.
+B.
+Duct test holes.
+C.
+Flexible duct connectors.
+D.
+Volume control dampers.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 23 31 00 - HVAC Ducts and Casings.
+1.3
+REFERENCE STANDARDS
+A.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building
+Materials; 2021a.
+B.
+NFPA 90A - Standard for the Installation of Air-Conditioning and Ventilating Systems;
+2024.
+C.
+SMACNA (DCS) - HVAC Duct Construction Standards Metal and Flexible; 2005
+(Revised 2009).
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide for shop fabricated assemblies including volume control dampers.
+ Include electrical characteristics and connection requirements.
+PART 2 - PRODUCTS
+2.1
+BACKDRAFT DAMPERS - METAL
+A.
+Gravity Backdraft Dampers, Size 18 by 18 inches (450 by 450 mm) or Smaller,
+Furnished with Air Moving Equipment: Air moving equipment manufacturer's standard
+construction.
+B.
+Multi-Blade, Parallel Action Gravity Balanced Backdraft Dampers: Galvanized steel,
+with center pivoted blades of maximum 6 inch (150 mm) width, with felt or flexible vinyl
+sealed edges, linked together in rattle-free manner with 90 degree stop, steel ball
+bearings, and plated steel pivot pin; adjustment device to permit setting for varying
+differential static pressure.
+2.2
+DUCT TEST HOLES
+A.
+Temporary Test Holes: Cut or drill in ducts as required. Cap with neat patches, neoprene
+plugs, threaded plugs, or threaded or twist-on metal caps.
+2.3
+FLEXIBLE DUCT CONNECTORS
+A.
+Fabricate in accordance with SMACNA (DCS) and as indicated.
+B.
+Flexible Duct Connections: Fabric crimped into metal edging strip.
+1.
+Fabric: UL listed fire-retardant neoprene coated woven glass fiber fabric to
+NFPA 90A, minimum density 30 oz per sq yd (1.0 kg/sq m).
+a.
+Net Fabric Width: Approximately 2 inches (50 mm) wide.
+C.
+Maximum Installed Length: 14 inch (356 mm).
+
+
+===== PAGE 61 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 33 00
+Air Duct Accessories
+Page 2 of 2 
+2.4
+VOLUME CONTROL DAMPERS
+A.
+Single Blade Dampers:
+1.
+Fabricate for duct sizes up to 6 by 30 inch (150 by 760 mm).
+2.
+Blade: 24 gage, 0.0239 inch (0.61 mm), minimum.
+PART 3 - EXECUTION
+3.1
+PREPARATION
+A.
+Verify that electric power is available and of the correct characteristics.
+3.2
+INSTALLATION
+A.
+Install accessories in accordance with manufacturer's instructions, NFPA 90A, and follow
+SMACNA (DCS). Refer to Section 23 31 00 for duct construction and pressure class.
+B.
+Provide backdraft dampers on exhaust fans or exhaust ducts nearest to outside and where
+indicated.
+C.
+Provide duct test holes where indicated and required for testing and balancing purposes.
+D.
+At fans and motorized equipment associated with ducts, provide flexible duct connections
+immediately adjacent to the equipment.
+E.
+At equipment supported by vibration isolators, provide flexible duct connections
+immediately adjacent to the equipment.
+F.
+Provide balancing dampers on duct take-off to diffusers, grilles, and registers, regardless
+of whether dampers are specified as part of the diffuser, grille, or register assembly.
+END OF SECTION
+
+
+===== PAGE 62 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 34 16
+Centrifugal HVAC Fans
+Page 1 of 2 
+SECTION 23 34 16
+CENTRIFUGAL HVAC FANS
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Backward inclined centrifugal fans.
+B.
+Forward curved centrifugal fans.
+C.
+Bearings and drives.
+D.
+Accessories.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 23 33 00 - Air Duct Accessories: Backdraft dampers.
+1.3
+REFERENCE STANDARDS
+A.
+ABMA STD 9 - Load Ratings and Fatigue Life for Ball Bearings; 2015.
+B.
+AMCA (DIR) - (Directory of) Products Licensed Under AMCA International Certified
+Ratings Program; 2015.
+C.
+AMCA 210 - Laboratory Methods of Testing Fans for Certified Aerodynamic
+Performance Rating; 2016.
+1.4
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide data on centrifugal fans and accessories including fan curves with
+specified operating point clearly plotted, power, RPM, sound power levels for both fan
+inlet and outlet at rated capacity, and electrical characteristics and connection
+requirements.
+C.
+Maintenance Data: Include instructions for lubrication, motor and drive replacement,
+spare parts list, and wiring diagrams.
+1.5
+DELIVERY, STORAGE, AND HANDLING
+A.
+Protect motors, shafts, and bearings from weather and construction dust.
+1.6
+FIELD CONDITIONS
+A.
+Permanent fans may not be used for ventilation during construction.
+PART 2 - PRODUCTS
+2.1
+MANUFACTURERS
+A.
+Loren Cook Company: www.lorencook.com/#sle.
+B.
+PennBarry, Division of Air System Components: www.pennbarry.com/#sle.
+C.
+Twin City Fan & Blower: www.tcf.com/#sle.
+D.
+Greenheck, Inc.
+2.2
+PERFORMANCE REQUIREMENTS
+A.
+Performance Ratings: Determined in accordance with AMCA 210 and bearing the
+AMCA Certified Rating Seal.
+2.3
+WHEEL AND INLET
+A.
+Backward Inclined: Aluminum construction with smooth curved inlet flange, heavy back
+plate, backwardly curved blades welded or riveted to flange and back plate; cast iron or
+cast steel hub riveted to back plate and keyed to shaft with set screws.
+
+
+===== PAGE 63 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 34 16
+Centrifugal HVAC Fans
+Page 2 of 2 
+B.
+Forward Curved: Black enameled steel construction with inlet flange, backplate, shallow
+blades with inlet and tip curved forward in direction of airflow, mechanically secured to
+flange and back plate; steel hub swaged to backplate and keyed to shaft with set screw.
+2.4
+HOUSING
+A.
+Aluminum housing, adequately braced, designed to minimize turbulence with spun inlet
+bell and shaped cut.
+2.5
+BEARINGS AND DRIVES
+A.
+Bearings: Heavy duty pillow block type, selfgreasing ball bearings, with ABMA STD 9
+life at 50,000 hours.
+2.6
+ACCESSORIES
+A.
+Discharge Dampers: Parallel blade heavy duty steel damper assembly with blades
+constructed of two plates formed around and welded to shaft, channel frame, sealed ball
+bearings, with blades linked out of air stream to single control lever.
+PART 3 EXECUTION
+3.1
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Install flexible connections between fan inlet and discharge ductwork; refer to Section 23
+33 00. Ensure metal bands of connectors are parallel with minimum one inch (25 mm)
+flex between ductwork and fan while running.
+C.
+Provide backdraft dampers on discharge of exhaust fans and as indicated; refer to Section
+23 33 00.
+END OF SECTION
+
+
+===== PAGE 64 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 36 00
+Air Terminal Units
+Page 1 of 4 
+SECTION 23 36 00
+AIR TERMINAL UNITS
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Single-duct terminal units.
+1.
+Variable-volume units.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 23 05 48 - Vibration and Seismic Controls for HVAC.
+B.
+Section 23 31 00 - HVAC Ducts and Casings.
+C.
+Section 23 33 00 - Air Duct Accessories.
+1.3
+REFERENCE STANDARDS
+A.
+AHRI 880 (I-P) - Performance Rating of Air Terminals; 2017.
+B.
+ASTM A492 - Standard Specification for Stainless Steel Rope Wire; 1995 (Reapproved
+2019).
+C.
+ASTM A603 - Standard Specification for Metallic-Coated Steel Structural Wire Rope;
+2019.
+D.
+ASTM C1071 - Standard Specification for Fibrous Glass Duct Lining Insulation
+(Thermal and Sound Absorbing Material); 2019.
+E.
+NFPA 70 - National Electrical Code; Most Recent Edition Adopted by Authority Having
+Jurisdiction, Including All Applicable Amendments and Supplements.
+F.
+NFPA 90A - Standard for the Installation of Air-Conditioning and Ventilating Systems;
+2024.
+G.
+SMACNA (SRM) - Seismic Restraint Manual Guidelines for Mechanical Systems; 2008.
+1.4
+ADMINISTRATIVE REQUIREMENTS
+A.
+Preinstallation Meeting: Conduct a preinstallation meeting one week before to the start
+of the work of this section; require attendance by affected installers.
+1.5
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide data indicating configuration, general assembly, and materials
+used in fabrication. Include catalog performance ratings that indicate airflow, static
+pressure, and NC designation. Include electrical characteristics and connection
+requirements.
+C.
+Shop Drawings: Indicate configuration, general assembly, and materials used in
+fabrication, and electrical characteristics and connection requirements.
+D.
+Manufacturer's Installation Instructions: Indicate support and hanging details, installation
+instructions, recommendations, and service clearances required.
+E.
+Project Record Documents: Record actual locations of units and locations of access
+doors required for access of valving.
+F.
+Operation and Maintenance Data: Include manufacturer's descriptive literature, operating
+instructions, maintenance and repair data, and parts lists. Include directions for resetting
+constant-volume regulators.
+
+
+===== PAGE 65 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 36 00
+Air Terminal Units
+Page 2 of 4 
+G.
+Warranty: Submit manufacturer warranty and ensure forms have been completed in
+Owner's name and registered with manufacturer.
+1.6
+WARRANTY
+A.
+See Section 01 78 00 - Closeout Submittals for additional warranty requirements.
+B.
+Provide five year manufacturer warranty for air terminal units.
+PART 2 PRODUCTS
+2.1
+SINGLE-DUCT, VARIABLE-VOLUME UNITS
+A.
+Manufacturers:
+1.
+Johnson Controls, Inc: www.johnsoncontrols.com/#sle.
+2.
+Metalaire, a brand of Metal Industries Inc: www.metalaire.com/#sle.
+3.
+Price Industries, Inc: www.priceindustries.com/#sle.
+4.
+Titus; www.titus-hvac.com
+B.
+General:
+1.
+Factory-assembled, AHRI 880 (I-P) rated and bearing the AHRI seal, air volume
+control terminal with damper assembly, flow sensor, externally mounted volume
+controller, duct collars, and all required features.
+2.
+Control box bearing identification, including but not necessarily limited to
+nominal cfm, maximum and minimum factory-set airflow limits, coil type and
+coil (right or left hand) connection, where applicable.
+C.
+Unit Casing:
+1.
+Minimum 22 gauge, 0.0299 inch (0.76 mm) galvanized steel.
+2.
+Air Inlet Collar: Provide round, suitable for standard flexible duct sizes.
+3.
+Unit Discharge: Rectangular, with slip-and-drive connections.
+4.
+Acceptable Liners:
+a.
+1/2 inch (13 mm) thick, coated, fibrous-glass complying with ASTM
+C1071.
+1)
+Secure with adhesive.
+2)
+Coat edges exposed to airstream with NFPA 90A approved
+sealant.
+3)
+Cover liner with non-porous foil.
+b.
+Liner not to contain pentabrominated diphenyl ether (CAS #32534-81-9)
+or octabrominated diphenyl ether.
+D.
+Damper Assembly:
+1.
+Heavy-gauge, galvanized steel, or extruded aluminum construction with solid
+steel, nickel-plated shaft pivoting on HDPE, self-lubricating bearings.
+2.
+Provide integral position indicator or alternative method for indicating damper
+position over full range of 90 degrees.
+3.
+Incorporate low leak damper blades for tight airflow shutoff.
+E.
+Electrical Requirements:
+1.
+Single-point power connection.
+2.
+Equipment wiring to comply with requirements of NFPA 70.
+F.
+Controls:
+
+
+===== PAGE 66 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 36 00
+Air Terminal Units
+Page 3 of 4 
+1.
+Terminal Unit Controls:
+a.
+Provide accessories for field interfaced controller including integral
+airflow transmitter and integral damper actuator.
+b.
+Factory ship DDC controller including airflow sensor, integral airflow
+transmitter, and integral damper actuator.
+c.
+Sequence of Operation: Zone temperature control with airflow and coil
+discharge monitoring.
+PART 3 EXECUTION
+3.1
+EXAMINATION
+A.
+Verify that conditions are suitable for installation.
+B.
+Verify that field measurements are as indicated on drawings.
+3.2
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Install the inlets of air terminal units and air flow sensors a minimum of four duct
+diameters from elbows, transitions, and duct takeoffs.
+C.
+See drawings for the size(s) and duct location(s) of the air terminal units.
+D.
+Provide ceiling access doors or locate units above easily removable ceiling components.
+E.
+Support units individually from structure with wire rope complying with ASTM A492
+and ASTM A603 in accordance with SMACNA (SRM). See Section 23 0548.
+F.
+Do not support from ductwork.
+G.
+Connect to ductwork in accordance with Section 23 31 00.
+3.3
+ADJUSTING
+A.
+Reset volume with damper operator attached to assembly allowing flow range
+modulation from 100 percent of design flow to zero percent full flow.
+3.4
+FIELD QUALITY CONTROL
+A.
+See Section 01 40 00 - Quality Requirements for additional requirements.
+B.
+Provide manufacturer's field representative to observe field-assembled components and
+equipment installation, including connections and to assist in field testing. Report results
+in writing.
+1.
+Operational Test:
+a.
+After electrical circuitry has been energized, start units to confirm proper
+motor rotation and unit operation.
+b.
+Test and adjust controls and safeties.
+c.
+Replace damaged and malfunctioning controls and other equipment.
+d.
+Remove and replace malfunctioning units and retest as specified above.
+3.5
+CLEANING
+A.
+See Section 01 74 19 - Construction Waste Management and Disposal for additional
+requirements.
+B.
+Vacuum clean coils and inside of units.
+3.6
+CLOSEOUT ACTIVITIES
+A.
+See Section 01 78 00 - Closeout Submittals for closeout submittals.
+
+
+===== PAGE 67 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 36 00
+Air Terminal Units
+Page 4 of 4 
+B.
+See Section 01 79 00 - Demonstration and Training for additional requirements.
+END OF SECTION
+
+
+===== PAGE 68 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 40 00
+HVAC Air Cleaning Devices
+Page 1 of 2 
+SECTION 23 40 00
+HVAC AIR CLEANING DEVICES
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Disposable, extended area panel filters.
+B.
+Extended surface high efficiency media filters.
+C.
+Filter gauges.
+1.2
+REFERENCE STANDARDS
+A.
+ASHRAE Std 52.2 - Method of Testing General Ventilation Air-Cleaning Devices for
+Removal Efficiency by Particle Size; 2025.
+B.
+UL 900 - Standard for Air Filter Units; Current Edition, Including All Revisions.
+PART 2 PRODUCTS
+2.1
+FILTER MANUFACTURERS
+A.
+The Camfil Group: www.camfilfarr.com/#sle.
+B.
+Cambridge.
+C.
+Eco Air.
+2.2
+DISPOSABLE, EXTENDED AREA PANEL FILTERS
+A.
+Media: UL 900 Class 1, pleated, lofted, non-woven, reinforced cotton fabric; supported
+and bonded to welded wire grid by corrugated aluminum separators.
+1.
+Frame: Non-flammable.
+2.
+Nominal thickness: 2 inches (50 mm).
+B.
+Minimum Efficiency Reporting Value (MERV): 8, when tested in accordance with
+ASHRAE Std 52.2.
+2.3
+EXTENDED SURFACE HIGH EFFICIENCY MEDIA FILTERS
+A.
+Media: Pleated, water-resistant glass fiber with aluminum separators; in 16 gage, 0.0598
+inch (1.52 mm) steel holding frame with corrosion resistant coating.
+1.
+Nominal Size: 4 inches
+B.
+Minimum Efficiency Reporting Value (MERV): 13, when tested in accordance with
+ASHRAE Std 52.2.
+2.4
+FILTER GAUGES
+A.
+Manufacturers:
+1.
+Dwyer Instruments, Inc: www.dwyer-inst.com/#sle.
+2.
+Weiss Instruments: www.weissinstruments.com/#sle.
+B.
+Direct Reading Dial: 3-1/2 inch (90 mm) diameter diaphragm actuated dial in metal case,
+vent valves, black figures on white background, front recalibration adjustment, range 0-
+0.5 inch WG (0-125 Pa), 2 percent of full scale accuracy.
+C.
+Accessories: Static pressure tips with integral compression fittings, 1/4 inch (6 mm)
+aluminum tubing, 2-way or 3-way vent valves.
+PART 3 EXECUTION
+3.1
+INSTALLATION
+A.
+Install air cleaning devices in accordance with manufacturer's instructions.
+B.
+Prevent passage of unfiltered air around filters with felt, rubber, or neoprene gaskets.
+
+
+===== PAGE 69 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 40 00
+HVAC Air Cleaning Devices
+Page 2 of 2 
+C.
+Do not operate fan system until filters (temporary or permanent) are in place. Replace
+temporary filters used during construction and testing, with clean set.
+D.
+Provide filter gauges on filter banks, installed with separate static pressure tips upstream
+and downstream of filters.
+END OF SECTION
+
+
+===== PAGE 70 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 26.13
+Small-Capacity Split-System Air
+Conditioners
+Page 1 of 3 
+SECTION 23 81 26.13
+SMALL-CAPACITY SPLIT-SYSTEM AIR CONDITIONERS
+PART 1 - GENERAL
+1.1
+SECTION INCLUDES
+A.
+Air cooled condensing units.
+B.
+Indoor air handling (fan and coil) units for ductless systems.
+C.
+Controls.
+1.2
+REFERENCE STANDARDS
+A.
+AHRI 210/240 - Performance Rating of Unitary Air-Conditioning and Air-Source Heat
+Pump Equipment; 2023.
+B.
+AHRI 520 - Performance Rating of Positive Displacement Condensing Units; 2004.
+C.
+ASHRAE Std 15 - Safety Standard for Refrigeration Systems; 2024, with Addendum
+(2025).
+D.
+ASHRAE Std 23 - Methods for Performance Testing Positive Displacement Refrigerant
+Compressors and Compressor Units; 2022.
+E.
+ASHRAE Std 23.1 - Methods for Performance Testing Positive Displacement Refrigerant
+Compressors and Condensing Units that Operate at Subcritical Pressures of the
+Refrigerant; 2019.
+F.
+NFPA 90A - Standard for the Installation of Air-Conditioning and Ventilating Systems;
+2024.
+G.
+NFPA 90B - Standard for the Installation of Warm Air Heating and Air-Conditioning
+Systems; 2024.
+H.
+UL 207 - Standard for Refrigerant-Containing Components and Accessories,
+Nonelectrical; Current Edition, Including All Revisions.
+1.3
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide rated capacities, weights, accessories, electrical nameplate data,
+and wiring diagrams.
+C.
+Shop Drawings: Indicate assembly, required clearances, and location and size of field
+connections.
+D.
+Design Data: Indicate refrigerant pipe sizing.
+E.
+Manufacturer's Instructions: Indicate rigging, assembly, and installation instructions.
+F.
+Operation and Maintenance Data: Include manufacturer's descriptive literature, operating
+instructions, installation instructions, maintenance and repair data, and parts listing.
+G.
+Warranty: Submit manufacturers warranty and ensure forms have been filled out in
+Owner's name and registered with manufacturer.
+H.
+Project Record Documents: Record actual locations of components and connections.
+I.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 60 00 - Product Requirements, for additional provisions.
+2.
+Extra Filters: One for each unit.
+
+
+===== PAGE 71 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 26.13
+Small-Capacity Split-System Air
+Conditioners
+Page 2 of 3 
+1.4
+WARRANTY
+A.
+See Section 01 78 00 - Closeout Submittals, for additional warranty requirements.
+B.
+Provide five year manufacturers warranty for compressors.
+PART 2 - PRODUCTS
+2.1
+MANUFACTURERS
+A.
+Daikin Applied.
+B.
+Lennox
+C.
+LG Systems
+D.
+Substitutions: Not allowed.
+2.2
+SYSTEM DESIGN
+A.
+Split-System Cooling Units: Self-contained, packaged, matched factory-engineered and
+assembled, pre-wired indoor and outdoor units; UL listed.
+1.
+Heating: Natural gas fired.
+2.
+Cooling: Outdoor electric condensing unit with evaporator coils in ductless
+indoor units.
+3.
+Provide refrigerant lines internal to units and between indoor and outdoor units,
+factory cleaned, dried, pressurized and sealed, with insulated suction line.
+2.3
+INDOOR AIR HANDLING UNITS FOR DUCTLESS SYSTEMS
+A.
+Indoor Units: Self-contained, packaged, factory assembled, pre-wired unit consisting of
+cabinet, supply fan, evaporator coil, and controls; wired for single power connection with
+control transformer.
+1.
+Location: Ceiling.
+2.
+Cabinet: Galvanized steel.
+a.
+Finish: White.
+3.
+Fan: Line-flow fan direct driven by a single motor.
+4.
+Filter return air with washable, antioxidant pre-filter and a pleated anti-allergy
+enzyme filter.
+B.
+Evaporator Coils: Copper tube aluminum fin assembly, galvanized or polymer drain pan
+sloped in all directions to drain, drain connection, refrigerant piping connections,
+restricted distributor or thermostatic expansion valve.
+1.
+Construction and Ratings: In accordance with AHRI 210/240 and UL 207.
+2.
+Manufacturer: System manufacturer.
+C.
+Remote Actuators:
+2.4
+OUTDOOR UNITS
+A.
+Outdoor Units: Self-contained, packaged, pre-wired unit consisting of cabinet, with
+compressor and condenser.
+1.
+Comply with AHRI 210/240.
+2.
+Refrigerant: R-454B.
+3.
+Cabinet: Galvanized steel with baked enamel finish, easily removed and secured
+access doors with safety interlock switches, glass fiber insulation with reflective
+liner.
+
+
+===== PAGE 72 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 26.13
+Small-Capacity Split-System Air
+Conditioners
+Page 3 of 3 
+4.
+Construction and Ratings: In accordance with AHRI 210/240 with testing in
+accordance with ASHRAE Std 23 and UL 207.
+B.
+Compressor:  Hermetic, 3600 rpm, AHRI 520 resiliently mounted integral with
+condenser, with positive lubrication, crankcase heater, high pressure control, motor
+overload protection, service valves and drier. Provide time delay control to prevent short
+cycling and rapid speed changes.
+C.
+Air Cooled Condenser: Aluminum fin and copper tube coil, AHRI 520 with direct drive
+axial propeller fan resiliently mounted, galvanized fan guard.
+D.
+Accessories: Filter drier, high-pressure switch (manual reset), low pressure switch
+(automatic reset), service valves and gauge ports, thermometer well (in liquid line).
+1.
+Provide thermostatic expansion valves.
+E.
+Operating Controls:
+1.
+Control by room thermostat to maintain room temperature setting.
+2.
+Low Ambient Kit: Provide refrigerant pressure switch to cycle condenser fan on
+when condenser refrigerant pressure is above 285 psig (1965 kPa) and off when
+pressure drops below 140 psig (965 kPa) for operation to 0 degrees F (-18
+degrees C).
+F.
+Mounting Pad: Pre-manufacturerd roof curb, minimum 4 inches (100 mm) larger than
+equipment on all sides.
+2.5
+ACCESSORY EQUIPMENT
+A.
+Room Thermostat: Wall-mounted, non-programmable, password protected, room
+thermostat to maintain temperature setting; low-voltage; with following features:
+1.
+Preferential rate control to minimize overshoot and deviation from setpoint.
+2.
+Thermostat Display:
+a.
+Actual room temperature.
+b.
+Programmed temperature.
+c.
+System Mode Indication: Cooling, Fan Auto, Off, and On, Auto or On,
+Off.
+PART 3 - EXECUTION
+3.1
+EXAMINATION
+A.
+Verify that substrates are ready for installation of units and openings are as indicated on
+shop drawings.
+B.
+Verify that proper power supply is available and in correct location.
+3.2
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions and requirements of local
+authorities having jurisdiction.
+B.
+Install in accordance with NFPA 90A and NFPA 90B.
+C.
+Install refrigeration systems in accordance with ASHRAE Std 15.
+END OF SECTION
+
+
+===== PAGE 73 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 1 of 9 
+SECTION 23 81 29
+VARIABLE REFRIGERANT FLOW HVAC SYSTEMS
+PART 1 GENERAL
+1.1
+SECTION INCLUDES
+A.
+Variable refrigerant volume HVAC system includes:
+1.
+Outdoor/condensing unit(s).
+2.
+Indoor/evaporator units.
+3.
+Branch selector units.
+4.
+Refrigerant piping.
+5.
+Control panels.
+6.
+Control wiring.
+1.2
+RELATED REQUIREMENTS
+A.
+Section 22 10 05 - Plumbing Piping: Condensate drain piping.
+B.
+Section 23 08 00 - Commissioning of HVAC.
+C.
+Section 23 23 00 - Refrigerant Piping: Additional requirements for refrigerant piping
+system.
+1.3
+REFERENCE STANDARDS
+A.
+AHRI 210/240 - Performance Rating of Unitary Air-Conditioning and Air-Source Heat
+Pump Equipment; 2023.
+B.
+ITS (DIR) - Directory of Listed Products; current edition.
+C.
+NFPA 70 - National Electrical Code; Most Recent Edition Adopted by Authority Having
+Jurisdiction, Including All Applicable Amendments and Supplements.
+D.
+UL 1995 - Heating and Cooling Equipment; Current Edition, Including All Revisions.
+1.4
+ADMINISTRATIVE REQUIREMENTS
+A.
+Preinstallation Meeting: Conduct a preinstallation meeting one week prior to the start of
+the work of this section; require attendance by all affected installers.
+1.5
+SUBMITTALS
+A.
+See Section 01 30 00 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Submit manufacturer's standard data sheets showing the following for
+each item of equipment, marked to correlate to equipment item markings indicated in
+Contract Documents:
+1.
+Outdoor/Central Units:
+a.
+Refrigerant Type and Size of Charge.
+b.
+Cooling Capacity: Btu/h (W).
+c.
+Heating Capacity: Btu/h (W).
+d.
+Cooling Input Power: Btu/h (kW).
+e.
+Heating Input Power: Btu/h (kW).
+f.
+Operating Temperature Range, Cooling and Heating.
+g.
+Air Flow: Cubic feet per minute (Cubic meters per second).
+h.
+Fan Curves.
+i.
+External Static Pressure (ESP): Inches WG (Pa).
+
+
+===== PAGE 74 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 2 of 9 
+j.
+Sound Pressure Level: dB(A).
+k.
+Electrical Data:
+1)
+Maximum Circuit Amps (MCA).
+2)
+Maximum Fuse Amps (MFA).
+3)
+Maximum Starting Current (MSC).
+4)
+Full Load Amps (FLA).
+5)
+Total Over Current Amps (TOCA).
+6)
+Fan Motor: HP (W).
+l.
+Weight and Dimensions.
+m.
+Maximum number of indoor units that can be served.
+n.
+Maximum refrigerant piping run from outdoor/condenser unit to
+indoor/evaporator unit.
+o.
+Maximum height difference between outdoor/condenser unit to
+indoor/evaporator unit, both above and below.
+p.
+Control Options.
+2.
+Indoor/Evaporator Units:
+a.
+Cooling Capacity: Btu/h (W).
+b.
+Heating Capacity: Btu/h (W).
+c.
+Cooling Input Power: Btu/h (kW).
+d.
+Heating Input Power: Btu/h (kW).
+e.
+Air Flow: Cubic feet per minute (Cubic meters per second).
+f.
+Fan Curves.
+g.
+External Static Pressure (ESP): Inches WG (Pa).
+h.
+Sound Pressure level: dB(A).
+i.
+Electrical Data:
+1)
+Maximum Circuit Amps (MCA).
+2)
+Maximum Fuse Amps (MFA).
+3)
+Maximum Starting Current (MSC).
+4)
+Full Load Amps (FLA).
+5)
+Total Over Current Amps (TOCA).
+6)
+Fan Motor: HP (W).
+j.
+Maximum Lift of Built-in Condensate Pump.
+k.
+Weight and Dimensions.
+l.
+Control Options.
+3.
+Control Panels: Complete description of options, control points, zones/groups.
+C.
+Shop Drawings: Installation drawings custom-made for this project; include as-designed
+HVAC layouts, locations of equipment items, refrigerant piping sizes and locations,
+condensate piping sizes and locations, remote sensing devices, control components,
+electrical connections, control wiring connections. Include:
+1.
+Detailed piping diagrams, with branch balancing devices.
+2.
+Condensate piping routing, size, and pump connections.
+
+
+===== PAGE 75 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 3 of 9 
+3.
+Detailed power wiring diagrams.
+4.
+Detailed control wiring diagrams.
+5.
+Locations of required access through fixed construction.
+6.
+Drawings required by manufacturer.
+D.
+Operating and Maintenance Data:
+1.
+Manufacturer's complete standard instructions for each unit of equipment and
+control panel.
+2.
+Custom-prepared system operation, troubleshooting, and maintenance
+instructions and recommendations.
+3.
+Identification of replaceable parts and local source of supply.
+E.
+Warranty: Executed warranty, made out in Owner's name.
+F.
+Project Record Documents: Record the following:
+1.
+As-installed routing of refrigerant piping and condensate piping.
+2.
+Locations of access panels.
+3.
+Locations of control panels.
+4.
+Locations of branch selector boxes.
+1.6
+QUALITY ASSURANCE
+A.
+Manufacturer Qualifications:
+1.
+Company that has been manufacturing variable refrigerant volume heat pump
+equipment for at least 5 years.
+B.
+Installer Qualifications: Trained and approved by manufacturer of equipment with a
+minimum of 5 successful installations in Las Vegas.
+1.7
+DELIVERY, STORAGE AND HANDLING
+A.
+Deliver, store, and handle equipment and refrigerant piping according to manufacturer's
+recommendations.
+1.8
+WARRANTY
+A.
+See Section 01 78 00 - Closeout Submittals for additional warranty requirements.
+B.
+Compressors: Provide manufacturer's warranty for 6 years from date of installation.
+PART 2 PRODUCTS
+2.1
+MANUFACTURERS
+A.
+Daikin (Basis of Design)
+B.
+Lennox
+C.
+Samsung
+D.
+Systems manufactured by other manufacturers will not be considered.
+E.
+Mechanical contractor shall be responsible for any changes required by other trades due
+to a deviation to the basis of design manufacturer.
+2.2
+HVAC SYSTEM DESIGN
+A.
+System Operation: Heating and cooling, simultaneously.
+1.
+Zoning: Provide capability for temperature control for each individual
+indoor/evaporator unit independently of all other units.
+
+
+===== PAGE 76 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 4 of 9 
+2.
+Zoning: Provide heating/cooling selection for each individual indoor/evaporator
+unit independently of all other units.
+3.
+Provide a complete functional system that achieves the specified performance
+based on the specified design conditions and that is designed and constructed
+according to the equipment manufacturer's requirements.
+4.
+Conditioned spaces are indicated on drawings.
+5.
+Outdoor/Condenser unit locations are indicated on drawings.
+6.
+Indoor/Evaporator unit locations are indicated on drawings.
+7.
+Branch selector unit locations are indicated on drawings.
+8.
+Required equipment unit capacities are indicated on drawings.
+9.
+Refrigerant piping sizes are not indicated on drawings.
+10.
+Connect equipment to condensate piping provided by others; condensate piping
+is indicated on drawings.
+B.
+Operating Temperature Ranges:
+1.
+Simultaneous Heating and Cooling Operating Range: minus 4 degrees F (minus
+20 degrees C) to 60 degrees F (16 degrees C) dry bulb.
+2.
+Cooling Mode Operating Range: minus 4 degrees F (minus 20 degrees C) to 125
+degrees F (___ degrees C) dry bulb.
+3.
+Heating Mode Operating Range: 0 degrees F (minus 18 degrees C) to 77 degrees
+F (25 degrees C) dry bulb; minus 4 degrees F (minus 20 degrees C) to 60 degrees
+F (16 degrees C) wet bulb; without low ambient controls or auxiliary heat source.
+C.
+Refrigerant Piping Lengths: Provide equipment capable of serving system with
+following piping lengths without any oil traps:
+1.
+Minimum Piping Length from Outdoor/Central Unit(s) to Furthest Terminal
+Unit: 540 feet (165 m), actual; 620 feet (189 m), equivalent.
+2.
+Total Combined Liquid Line Length: 3280 feet (1000 m), minimum.
+3.
+Minimum Piping Length Between Indoor Units: 49 feet (15 mm).
+D.
+Control Wiring Lengths:
+1.
+Between Outdoor/Condenser Unit and Indoor/Evaporator Unit: 6,665 feet (2031
+m), minimum.
+2.
+Between Outdoor/Condenser Unit and Central Controller: 3,330 feet (1015 m),
+minimum.
+3.
+Between Indoor/Evaporator Unit and Remote Controller: 1,665 feet (507 m).
+E.
+Controls: Provide the following control interfaces:
+1.
+BACNet gateways sufficient to connect all units to building automation system
+by others; include wiring to gateways.
+2.3
+EQUIPMENT
+A.
+All Units: Factory assembled, wired, and piped and factory tested for function and
+safety.
+1.
+Refrigerant: By manufacturer.
+2.
+Performance Certification: AHRI Certified; www.ahrinet.org.
+
+
+===== PAGE 77 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 5 of 9 
+3.
+Safety Certification: Tested to UL 1995 by UL or Intertek-ETL, listed in ITS
+(DIR), and bearing the certification label.
+4.
+Provide outdoor/condensing units capable of serving indoor unit capacity up to
+200 percent of the capacity of the outdoor/condensing unit.
+5.
+Provide units capable of serving the zones indicated.
+6.
+Energy Efficiency: Report EER and COP based on tests conducted at “full load”
+in accordance with AHRI 210/240 or alternate test method approved by U.S.
+Department of Energy.
+B.
+Electrical Characteristics:
+1.
+As indicated on plans.
+C.
+Refrigerant Piping:
+1.
+Insulate each refrigerant line individually between the condensing and indoor
+units.
+2.4
+OUTDOOR/CONDENSING UNITS
+A.
+Outdoor/Condensing Units: Air-cooled DX refrigeration units, designed specifically for
+use with indoor/evaporator units; factory assembled and wired with all necessary
+electronic and refrigerant controls; modular design for ganging multiple units.
+1.
+Refrigeration Circuit: Scroll compressors, motors, fans, condenser coil,
+electronic expansion valves, solenoid valves, 4-way valve, distribution headers,
+capillaries, filters, shut off valves, oil separators, service ports and refrigerant
+regulator.
+2.
+Refrigerant: Factory charged.
+3.
+Variable Volume Control: Modulate compressor capacity automatically to
+maintain constant suction and condensing pressures while varying refrigerant
+volume to suit heating/cooling loads.
+4.
+Capable of being installed with wiring and piping to the left, right, rear or
+bottom.
+5.
+Capable of heating operation at low end of operating range as specified, without
+additional low ambient controls or auxiliary heat source; during heating
+operation, reverse cycle (cooling mode) oil return or defrost is not permitted, due
+to potential reduction in space temperature.
+6.
+Sound Pressure Level: As specified, measured at 3 feet (one meter) from front of
+unit; provide night setback sound control as a standard feature; three selectable
+sound level steps of 55 dB, 50 dB, and 45 dB, maximum.
+7.
+Power Failure Mode: Automatically restart operation after power failure without
+loss of programmed settings.
+8.
+Safety Devices: High pressure sensor and switch, low pressure sensor/switch,
+control circuit fuses, crankcase heaters, fusible plug, overload relay, inverter
+overload protector, thermal protectors for compressor and fan motors, over
+current protection for the inverter and anti-recycling timers.
+
+
+===== PAGE 78 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 6 of 9 
+9.
+Provide refrigerant sub-cooling to ensure the liquid refrigerant does not flash
+when supplying to us indoor units.
+10.
+Oil Recovery Cycle: Automatic, occurring 2 hours after start of operation and
+then every 8 hours of operation; maintain continuous heating during oil return
+operation.
+11.
+Controls: Provide contacts for electrical demand shedding.
+B.
+Unit Cabinet: Weatherproof and corrosion resistant; rust-proofed mild steel panels
+coated with baked enamel finish.
+1.
+Designed to allow side-by-side installation with minimum spacing.
+C.
+Fans: One or more direct-drive propeller type, vertical discharge, with multiple speed
+operation via DC (digitally commutating) inverter.
+1.
+Provide minimum of 2 fans for each condensing unit.
+2.
+External Static Pressure: Factory set at 0.12 in WG (30 Pa), minimum.
+3.
+Indoor Mounted Air-Cooled Units: External static pressure field set at 0.32 in
+WG (80 Pa), minimum; provide for mounting of field-installed ducts.
+4.
+Fan Airflow: As indicated for specific equipment.
+5.
+Fan Motors: Factory installed; permanently lubricated bearings; inherent
+protection; fan guard; output as indicated for specific equipment.
+D.
+Condenser Coils: Copper tubes expanded into aluminum fins to form mechanical bond;
+waffle louver fin and rifled bore tube design to ensure high efficiency performance.
+E.
+Compressors: Scroll type, hermetically sealed, variable speed inverter-driven and fixed
+speed in combination to suit total capacity; minimum of one variable speed, inverter
+driven compressor per condenser unit; minimum of two compressors per condenser unit;
+capable of controlling capacity within range of 6 percent to 100 percent of total capacity.
+1.
+Variable Speed Control: Capable of changing the speed to follow the variations
+in total cooling and heating load as determined by the suction gas pressure;
+high/low pressures calculated by samplings of evaporator and condenser
+temperatures every 20 seconds, with compressor capacity adjusted to eliminate
+deviation from target value by changing inverter frequency or on/off setting of
+fixed speed compressors.
+2.
+Multiple Condenser Modules: Balance total operation hours of compressors by
+means of duty cycling function, providing for sequential starting of each module
+at each start/stop cycle, completion of oil return, and completion of defrost, or
+every 8 hours.
+3.
+Failure Mode: In the event of compressor failure, operate remaining
+compressor(s) at proportionally reduced capacity; provide microprocessor and
+associated controls specifically designed to address this condition.
+4.
+Provide each compressor with crankcase heater, high pressure safety switch, and
+internal thermal overload protector.
+5.
+Provide oil separators and intelligent oil management system.
+6.
+Provide spring mounted vibration isolators.
+
+
+===== PAGE 79 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 7 of 9 
+2.5
+BRANCH SELECTOR UNITS
+A.
+Branch Selector Units: Concealed boxes designed specifically for this type of system to
+control heating/cooling mode selection of downstream units; consisting of electronic
+expansion valves, subcooling heat exchanger, refrigerant control piping and electronics to
+facilitate communications between unit and main processor and between branch unit and
+indoor/evaporator units.
+1.
+Control direction of refrigerant flow using electronic expansion valves; use of
+solenoid valves for changeover and pressure equalization is not permitted due to
+refrigerant noise; use of multi-port branch selector boxes is not permitted unless
+spare ports are provided for redundancy.
+2.
+Provide one electronic expansion valve for each downstream unit served, except
+multiple indoor/evaporator units may be connected, provided balancing joints are
+used in downstream piping and total capacity is within capacity range of the
+branch selector.
+3.
+When branch unit is simultaneously heating and cooling, energize subcooling
+heat exchanger.
+4.
+Casing: Galvanized steel sheet; with flame and heat resistant foamed
+polyethylene sound and thermal insulation.
+5.
+Refrigerant Connections: Braze type.
+6.
+Condensate Drainage: Provide unit that does not require condensate drainage.
+2.6
+INDOOR/EVAPORATOR UNITS
+A.
+All Indoor/Evaporator Units: Factory assembled and tested DX fan-coil units, with
+electronic proportional expansion valve, control circuit board, factory wiring and piping,
+self-diagnostics, auto-restart function, 3-minute fused time delay, and test run switch.
+1.
+Refrigerant: Refrigerant circuits factory-charged with dehydrated air, for field
+charging.
+2.
+Temperature Control Mechanism: Return air thermistor and computerized
+Proportional-Integral-Derivative (PID) control of superheat.
+3.
+Coils: Direct expansion type constructed from copper tubes expanded into
+aluminum fins to form a mechanical bond; waffle louver fin and high heat
+exchange, rifled bore tube design; factory tested.
+a.
+Provide thermistor on liquid and gas lines.
+4.
+Fans: Direct-drive, with statically and dynamically balanced impellers; high and
+low speeds unless otherwise indicated; motor thermally protected.
+5.
+Return Air Filter: Washable long-life net filter with mildew proof resin, unless
+otherwise indicated.
+a.
+Where high efficiency filters are indicated, provide air filter rack.
+6.
+Condensate Drainage: Built-in condensate drain pan with PVC drain connection.
+a.
+Units Without Built-In Condensate Pump: Provide built-in condensate
+float switch and wiring connections.
+
+
+===== PAGE 80 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 8 of 9 
+7.
+Cabinet Insulation: Sound absorbing foamed polystyrene and polyethylene
+insulation.
+B.
+Air Handling Units: Factory-painted heavy gauge steel casing insulated with sound
+absorbing foil faced insulation.
+1.
+Secondary condensate drain pan; field installed.
+2.
+Fan: Direct-drive fan with automatic airflow adjustment.
+3.
+Provide air filter.
+4.
+External insulation; field installed.
+PART 3 EXECUTION
+3.1
+EXAMINATION
+A.
+Verify that required electrical services have been installed and are in the proper locations
+prior to starting installation.
+3.2
+INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Install refrigerant piping in accordance with equipment manufacturer's instructions.
+C.
+Perform wiring in accordance with NFPA 70, National Electric Code (NEC).
+D.
+Coordinate with installers of systems and equipment connecting to this system.
+3.3
+FIELD QUALITY CONTROL
+A.
+See Section 01 40 00 - Quality Requirements, for additional requirements.
+B.
+Provide manufacturer's field representative to inspect installation prior to startup.
+3.4
+SYSTEM STARTUP
+A.
+Provide manufacturer's field representative to perform system startup.
+B.
+Prepare and start equipment and system in accordance with manufacturer's instructions
+and recommendations.
+C.
+Adjust equipment for proper operation within manufacturer's published tolerances.
+3.5
+CLEANING
+A.
+Clean exposed components of dirt, finger marks, and other disfigurements.
+3.6
+COMMISSIONING
+A.
+See Section 01 91 13 - General Commissioning Requirements for commissioning
+requirements.
+B.
+Perform commissioning as specified in Section 23 08 00.
+C.
+Replace components not functioning properly.
+3.7
+CLOSEOUT ACTIVITIES
+A.
+See Section 01 78 00 - Closeout Submittals, for closeout submittals.
+B.
+Demonstrate proper operation of equipment to Owner's designated representative.
+C.
+Demonstration: Demonstrate operation of system to Owner's personnel.
+1.
+Use operation and maintenance data as reference during demonstration.
+2.
+Briefly describe function, operation, and maintenance of each component.
+D.
+Training: Train Owner's personnel on operation and maintenance of system.
+1.
+Use operation and maintenance manual as training reference, supplemented with
+additional training materials as required.
+
+
+===== PAGE 81 =====
+Nye County School District
+Tonopah HS Field Replacement
+Bid Documents
+April 20, 2026
+23 81 29
+Variable Refrigerant Flow HVAC
+Systems
+Page 9 of 9 
+2.
+Provide minimum of one day of training.
+3.
+Instructor: Certified manufacturer's training personnel.
+4.
+Location: At manufacturer's training facility; include travel expenses for two
+members of Owner's staff.
+a.
+Training shall include install, commissioning, and technical training.
+3.8
+PROTECTION
+A.
+Protect installed components from subsequent construction operations.
+B.
+Replace exposed components broken or otherwise damaged beyond repair.
+END OF SECTION

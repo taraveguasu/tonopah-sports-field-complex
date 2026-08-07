@@ -1,0 +1,1063 @@
+
+===== PAGE 1 =====
+Nye County School District
+Bid Documents
+07 2100
+Tonopah HS Field Replacement
+Thermal Insulation
+April 20, 2026
+Page 1 of 3
+SECTION 07 2100
+THERMAL INSULATION
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Board insulation​ at ​perimeter foundation wall​.
+B.
+Batt insulation​and vapor retarder​ in exterior ​wall and roof​ construction.
+C.
+Batt insulation for filling perimeter window and door shim spaces and crevices in exterior wall
+and roof​
+1.02 RELATED REQUIREMENTS
+A.
+Section 07 2600 - Vapor Retarders: Separate vapor retarder materials.
+1.03 REFERENCE STANDARDS
+A.
+ASTM C578 - Standard Specification for Rigid, Cellular Polystyrene Thermal Insulation; 2023.
+B.
+ASTM C665 - Standard Specification for Mineral-Fiber Blanket Thermal Insulation for Light
+Frame Construction and Manufactured Housing; 2023.
+C.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building Materials;
+2023c.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide data on product characteristics and performance criteria.
+C.
+Manufacturer's Certificate: Certify that products meet or exceed specified requirements.
+1.05 FIELD CONDITIONS
+A.
+Do not install insulation adhesives when temperature or weather conditions are detrimental to
+successful installation.
+PART 2 PRODUCTS
+2.01 APPLICATIONS
+A.
+Insulation at Perimeter of Foundation: Extruded polystyrene board, Type VI.
+B.
+Insulation Over Metal Stud Framed Walls, Continuous:  board Type II.
+C.
+Insulation in Metal Framed Walls: Batt insulation with no vapor retarder.
+D.
+Insulation at Underside of Roof Decks: Batt insulation with vapor retarder.
+2.02 FOAM BOARD INSULATION MATERIALS
+A.
+Expanded Polystyrene (EPS) Board Insulation: Comply with ASTM C578.
+1.
+Flame Spread Index (FSI): Class A - 0 to 25, when tested in accordance with ASTM E84.
+2.
+Smoke Developed Index (SDI): 450 or less, when tested in accordance with ASTM E84.
+3.
+Board Size: 48 inch by 96 inch (1220 mm by 2440 mm).
+4.
+Board Thickness: 1-1/2 inch (38 mm).
+5.
+Type and Water Absorption: Type XI, 4.0 percent by volume, maximum, by total
+immersion.
+6.
+Thermal Resistance: R-value (RSI-value) of 4.0 (0.70) per 1 inch (25.4 mm) at 75
+degrees F (24 degrees C) mean temperature.
+B.
+Extruded Polystyrene (XPS) Board Insulation: Comply with ASTM C578 with either natural skin
+or cut cell surfaces.
+1.
+Type: ASTM C578.
+2.
+Flame Spread Index (FSI): Class A - 0 to 25, when tested in accordance with ASTM E84.
+3.
+Smoke Developed Index (SDI): 450 or less, when tested in accordance with ASTM E84.
+
+
+===== PAGE 2 =====
+Nye County School District
+Bid Documents
+07 2100
+Tonopah HS Field Replacement
+Thermal Insulation
+April 20, 2026
+Page 2 of 3
+4.
+Type and Thermal Resistance, R-10 (RSI-value): Type IV, 5.0 (0.88), minimum, per 1
+inch (25.4 mm) thickness at 75 degrees F (24 degrees C) mean temperature.
+5.
+Cover board: 1/4" cementitious cover board (primed for paint at exposed cover board
+locations)
+2.03 MINERAL FIBER BLANKET INSULATION MATERIALS
+A.
+Flexible Glass Fiber Blanket Thermal Insulation: Preformed insulation, complying with ASTM
+C665; friction fit.
+1.
+Flame Spread Index: 25 or less, when tested in accordance with ASTM E84.
+2.
+Smoke Developed Index: 450 or less, when tested in accordance with ASTM E84.
+3.
+Formaldehyde Content: Zero.
+4.
+Facing at Underside of Roof Deck: Poly-Scrim Faced, perm rating less than 0.02, Class A,
+flame spread index of 25 or less, color; white], one side.
+2.04 ACCESSORIES
+A.
+Insulation Fasteners: Impaling clip of unfinished steel with washer retainer and clips, to be
+adhered to surface to receive insulation, length to suit insulation thickness and substrate,
+capable of securely and rigidly fastening insulation in place.
+1.
+Mechanical Anchors: Type and size indicated or, if not indicated, as recommended by
+insulation manufacturer for type of application and condition of substrate.
+2.
+Acceptable Product and Manufacturer:
+a.
+Simpson Strong Tie #IS24-R100-WEST 24" Insulation Support.
+B.
+Mastic Sealer: Type recommended by insulation manufacturer for bonding edge joints between
+units and filling voids in work.
+C.
+Eave Ventilation Troughs: Preformed rigid fiberboard or plastic sheets designed and sized to fit
+between roof framing members and to provide cross ventilation between insulated attic spaces
+and vented eaves.
+D.
+Adhesive: Type recommended by insulation manufacturer for application.
+1.
+Bond insulation securely to substrate, and complying with requirements for fire
+performance characteristics.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that substrate, adjacent materials, and insulation materials are dry and that substrates
+are ready to receive insulation.
+B.
+Verify substrate surfaces are flat, free of honeycomb, fins, irregularities, or materials or
+substances that may impede adhesive bond.
+3.02 BOARD INSTALLATION AT FOUNDATION PERIMETER
+A.
+Adhere a 6 inches (152 mm) wide strip of polyethylene sheet over construction, control, and
+expansion joints with double beads of adhesive each side of joint.
+B.
+Install boards horizontally on foundation perimeter.
+C.
+Cut and fit insulation tightly to protrusions or interruptions to the insulation plane.
+D.
+Exposed coverboard to be painted to match adjacent face of building.
+3.03 BOARD INSTALLATION AT EXTERIOR WALLS
+A.
+Install boards vertically on walls.
+1.
+Between Furring Strips, Hat-Channels, and Z-Shaped Furring: Install insulation between
+furring members; use fastening system recommended by furring strip manufacturer.
+B.
+Cut and fit insulation tightly to protrusions or interruptions to the insulation plane.
+3.04 BATT INSTALLATION
+A.
+Install insulation in accordance with manufacturer's instructions.
+
+
+===== PAGE 3 =====
+Nye County School District
+Bid Documents
+07 2100
+Tonopah HS Field Replacement
+Thermal Insulation
+April 20, 2026
+Page 3 of 3
+B.
+Install in exterior wall and roof spaces without gaps or voids. Do not compress insulation.
+C.
+Trim insulation neatly to fit spaces. Insulate miscellaneous gaps and voids.
+D.
+Fit insulation tightly in cavities and tightly to exterior side of mechanical and electrical services
+within the plane of the insulation.
+3.05 FIELD QUALITY CONTROL
+A.
+See Section 01 4000 - Quality Requirements for additional requirements.
+3.06 PROTECTION
+A.
+Do not permit installed insulation to be damaged prior to its concealment.
+END OF SECTION
+
+
+===== PAGE 4 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 5 =====
+Nye County School District
+Bid Documents
+07 2500
+Tonopah HS Field Replacement
+Weather Barriers
+April 20, 2026
+Page 1 of 2
+SECTION 07 2500
+WEATHER BARRIERS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Water-resistive barriers.
+1.02 DEFINITIONS
+A.
+Weather Barriers: Assemblies that form either water-resistive barriers, air barriers, or vapor
+retarders.
+B.
+Water-Resistive Barrier: A material behind an exterior wall covering that is intended to resist
+liquid water that has penetrated behind the exterior covering from further intruding into the
+exterior wall assembly.
+1.03 REFERENCE STANDARDS
+A.
+ASTM D226/D226M - Standard Specification for Asphalt-Saturated Organic Felt Used in
+Roofing and Waterproofing; 2017 (Reapproved 2023).
+B.
+ASTM E84 - Standard Test Method for Surface Burning Characteristics of Building Materials;
+2023c.
+C.
+ASTM E96/E96M - Standard Test Methods for Gravimetric Determination of Water Vapor
+Transmission Rate of Materials; 2022a, with Editorial Revision (2023).
+D.
+ASTM E2178 - Standard Test Method for Determining Air Leakage Rate and Calculation of Air
+Permeance of Building Materials; 2021a.
+E.
+ICC-ES AC38 - Acceptance Criteria for Water-Resistive Barriers; 2016, with Editorial Revision
+(2021).
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide data on material characteristics.
+PART 2 PRODUCTS
+2.01 WATER-RESISTIVE BARRIER MATERIALS
+A.
+Asphalt Felt: ASTM D226/D226M, Type I, No.15 asphalt felt.
+B.
+Building Paper: Asphalt-saturated kraft Grade D type sheathing paper complying with ICC-ES
+AC38.
+1.
+Water Vapor Permeance: 29 perms (1,658 ng/(Pa s sq m)), minimum, when tested in
+accordance with ASTM E96/E96M using Procedure A - Desiccant Method, at 73.4
+degrees F (23 degrees C).
+C.
+Water-Resistive Barrier, Composite: Tear-resistant polyester sheet with UV-resistant acrylic
+coating.
+1.
+Air Permeance: 0.18 cfm/sq ft (0.9 L/(s sq m)), maximum, when tested in accordance with
+ASTM E2178.
+2.
+Water Vapor Permeance: 200 perms (11,400 ng/(Pa s sq m)), minimum, when tested in
+accordance with ASTM E96/E96M using Procedure A - Desiccant Method, at 73.4
+degrees F (23 degrees C).
+3.
+Ultraviolet (UV) and Weathering Resistance: Approved by manufacturer for up to 210
+days of weather exposure.
+4.
+Surface Burning Characteristics: Flame spread index of 25 or less, smoke developed
+index of 450 or less, Class A when tested in accordance with ASTM E84.
+5.
+Seam and Perimeter Tape: As recommended by sheet manufacturer.
+
+
+===== PAGE 6 =====
+Nye County School District
+Bid Documents
+07 2500
+Tonopah HS Field Replacement
+Weather Barriers
+April 20, 2026
+Page 2 of 2
+2.02 ACCESSORIES
+A.
+Sealants, Tapes, and Accessories Used for Sealing Water-Resistive Barrier and Adjacent
+Substrates: As indicated or complying with water-resistive barrier manufacturer's installation
+instructions.
+B.
+Thinners and Cleaners: As recommended by water-resistive barrier manufacturer.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that surfaces and conditions comply with requirements of this section.
+3.02 PREPARATION
+A.
+Remove projections, protruding fasteners, and loose or foreign matter that might interfere with
+proper installation.
+3.03 INSTALLATION
+A.
+Install materials in accordance with manufacturer's installation instructions.
+B.
+Water-Resistive Barriers: Install continuous water-resistive barrier over surfaces indicated, with
+sheets lapped to shed water but with seams not sealed.
+C.
+Mechanically Fastened Exterior Sheets:
+1.
+Install sheets shingle-fashion to shed water, with seams aligned horizontal.
+2.
+Overlap seams as recommended by manufacturer, 6 inches (152 mm), minimum.
+3.
+Overlap at outside and inside corners as recommended by manufacturer, 12 inches (305
+mm), minimum.
+4.
+Install water-resistive barrier over jamb flashings.
+5.
+Install head flashings under water-resistive barrier.
+6.
+At framed openings with frames having nailing flanges, extend sheet into opening and
+over flanges; at head of opening, seal sheet over flange and flashing.
+D.
+Coatings:
+1.
+Prepare substrate in accordance with coating manufacturer's installation instructions; treat
+joints in substrate and between dissimilar materials as indicated.
+2.
+Apply flashing to seal with adjacent construction and to bridge joints in coating substrate.
+E.
+Openings and Penetrations in Exterior Water-Resistive Barriers:
+1.
+Install flashing over sills, covering entire sill framing member, and extend at least 5 inches
+(127 mm) onto water-resistive barrier and at least 6 inches (152 mm) up jambs;
+mechanically fasten stretched edges.
+2.
+At openings filled with frames having nailing flanges, seal head and jamb flanges using a
+continuous bead of sealant compressed by flange and cover flanges with sealing tape at
+least 4 inches (100 mm) wide; do not seal sill flange.
+3.
+At openings filled with nonflanged frames, seal water-resistive barrier to each side of
+framing at opening using flashing at least 9 inches (230 mm) wide, and covering entire
+depth of framing.
+4.
+At head of openings, install flashing under water-resistive barrier extending at least 2
+inches (50 mm) beyond face of jambs; seal water-resistive barrier to flashing.
+5.
+At interior face of openings, seal gaps between window and door frames and rough
+framing using appropriate joint sealant over backer rod.
+6.
+Service and Other Penetrations: Form flashing around penetrating items and seal to
+surface of water-resistive barrier.
+3.04 PROTECTION
+A.
+Do not leave materials exposed to weather longer than recommended by manufacturer.
+B.
+Do not leave paper- or felt-based barriers exposed to weather for longer than one week.
+END OF SECTION
+
+
+===== PAGE 7 =====
+Nye County School District
+Bid Documents
+07 2600
+Tonopah HS Field Replacement
+Vapor Retarders
+April 20, 2026
+Page 1 of 2
+SECTION 07 2600
+VAPOR RETARDERS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Vapor retarders.
+1.02 RELATED REQUIREMENTS
+A.
+Section 03 3000 - Cast-in-Place Concrete: Vapor retarder under concrete slabs on grade.
+1.03 DEFINITIONS
+A.
+Vapor Retarder: Airtight barrier made of material that is relatively water vapor impermeable, to
+degree specified, with seams and joints sealed to adjacent surfaces.
+B.
+Vapor Retarder Class: A measure of a material or assembly's ability to limit the amount of
+moisture that passes through that material or assembly. Vapor retarder class is defined using
+Procedure A, Desiccant Method at 73 degrees F (23 degrees C) and 50 percent Relative
+Humidity (RH), in accordance with ASTM E96/E96M and ICC (IBC)-2018, as follows:
+1.
+Class I: 0.1 perm or less.
+2.
+Class II: Greater than 0.1 perm to 1.0 perm.
+3.
+Class III: Greater than 1.0 perm to 10 perms.
+1.04 REFERENCE STANDARDS
+A.
+ASTM D4397 - Standard Specification for Polyethylene Sheeting for Construction, Industrial,
+and Agricultural Applications; 2016.
+B.
+ASTM E96/E96M - Standard Test Methods for Gravimetric Determination of Water Vapor
+Transmission Rate of Materials; 2022a, with Editorial Revision (2023).
+C.
+ICC (IBC)-2018 - International Building Code; 2018.
+1.05 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide data on material characteristics, performance criteria, and limitations.
+PART 2 PRODUCTS
+2.01 VAPOR RETARDERS
+A.
+Underslab Vapor Retarders: See Section 03 3000.
+B.
+Vapor Retarder Sheet: Polyethylene sheeting complying with ASTM D4397, clear colored.
+1.
+Thickness: 10 mil, 0.010 inch (0.254 mm), nominal.
+2.
+Water Vapor Permeance: ​0.01 perm (___ ng/(Pa s sq m))​, maximum, when tested in
+accordance with ASTM E96/E96M.
+3.
+Seam and Perimeter Tape: Polyethylene self-adhering type, mesh reinforced, 2 inches
+(50 mm) wide; compatible with sheet material.
+2.02 ACCESSORIES
+A.
+Sealants, Tapes, and Accessories for Sealing Vapor Retarder and Adjacent Substrates: As
+indicated, complying with vapor retarder manufacturer's installation instructions.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that surfaces and conditions comply with requirements of this section.
+3.02 PREPARATION
+A.
+Remove projections, protruding fasteners, and loose or foreign matter that might interfere with
+proper installation.
+
+
+===== PAGE 8 =====
+Nye County School District
+Bid Documents
+07 2600
+Tonopah HS Field Replacement
+Vapor Retarders
+April 20, 2026
+Page 2 of 2
+3.03 INSTALLATION
+A.
+Install materials in accordance with manufacturer's installation instructions.
+B.
+Vapor Retarders: Install continuous airtight barrier over surfaces indicated, with sealed seams
+and sealed joints to adjacent surfaces.
+C.
+Apply sealants and adhesives within recommended temperature range in accordance with
+manufacturer's installation instructions.
+3.04 FIELD QUALITY CONTROL
+A.
+See Section 01 4000 - Quality Requirements for additional requirements.
+B.
+Owner’s Inspection and Testing: Cooperate with Owner’s testing agency.
+1.
+Allow access to work areas and staging.
+2.
+Notify Owner’s testing agency in writing of schedule for work of this section to allow
+sufficient time for testing and inspection.
+3.
+Do not cover work of this section until testing and inspection is accepted.
+END OF SECTION
+
+
+===== PAGE 9 =====
+Nye County School District
+Bid Documents
+07 6100
+Tonopah HS Field Replacement
+Sheet Metal Roofing
+April 20, 2026
+Page 1 of 3
+SECTION 07 6100
+SHEET METAL ROOFING
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Sheet metal roofing, associated flashings, and underlayment.
+B.
+Gutters.
+C.
+Downspouts.
+D.
+Integral fascias.
+E.
+Sealants for joints within sheet metal fabrications.
+1.02 REFERENCE STANDARDS
+A.
+AAMA 2605 - Voluntary Specification, Performance Requirements and Test Procedures for
+Superior Performing Organic Coatings on Aluminum Extrusions and Panels (with Coil Coating
+Appendix); 2022.
+B.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+C.
+ASTM C920 - Standard Specification for Elastomeric Joint Sealants; 2018.
+D.
+CDA A4050 - Copper in Architecture - Handbook; Current Edition.
+E.
+SMACNA (ASMM) - Architectural Sheet Metal Manual; 2012.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Provide data on metal types, finishes, characteristics, and ________.
+C.
+Color Samples: Submit two samples ___ by ___ inches (___ by ___ mm) in size illustrating
+metal finish color.
+1.04 QUALITY ASSURANCE
+A.
+Perform work in accordance with SMACNA (ASMM) requirements and standard details, except
+as otherwise noted.
+1.05 WARRANTY
+A.
+See Section 01 7800 - Closeout Submittals for additional warranty requirements.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Sheet Metal Roofing Manufacturers:
+1.
+Construction Metal Products, Inc; _____: www.cmpmetalsystems.com/#sle.
+2.
+Petersen Aluminum Corporation; _____: www.pac-clad.com/#sle.
+3.
+MBCI.PBR Polar White Standing seam (Basis of Design)
+4.
+Substitutions: See Section 01 6000 - Product Requirements.
+2.02 SHEET MATERIALS
+A.
+Pre-Finished Galvanized Steel Sheet:  ASTM A653/A653M, with G90/Z275 zinc coating; 24-
+gauge, 0.0239-inch (0.61 mm) minimum base metal thickness, shop precoated with
+polyvinylidene fluoride (PVDF) coating; color as selected.
+2.03 FABRICATION
+A.
+Form sections true to shape, accurate in size, square, and free from distortion or defects.
+B.
+Fabricate cleats of same material as sheet, thickness to match roofing sheet, and at least ___
+inch (___ mm) wide, interlockable with sheet.
+C.
+Fabricate starter strips, interlockable with sheet.
+
+
+===== PAGE 10 =====
+Nye County School District
+Bid Documents
+07 6100
+Tonopah HS Field Replacement
+Sheet Metal Roofing
+April 20, 2026
+Page 2 of 3
+D.
+Form pieces in longest practical lengths.
+E.
+Hem exposed edges on underside 1/2 inch (13 mm); miter and seam corners.
+2.04 FINISHES
+A.
+Polyvinylidene Fluoride (PVDF) Coating: Superior Performance Organic Finish, AAMA 2605;
+multiple coat, thermally cured fluoropolymer finish system.
+B.
+Color: As selected by Architect from manufacturer's standard colors.
+C.
+Primer Coat: On coated sheets, finish concealed side of sheet with primer compatible with
+finish system as recommended by finish system manufacturer.
+2.05 ACCESSORIES
+A.
+Fasteners: Galvanized steel, with soft neoprene washers.
+B.
+Concealed Sealants: Non-curing butyl sealant or butyl tape.
+C.
+Exposed Sealants: ASTM C920 elastomeric sealant, with minimum movement capability as
+recommended by manufacturer for sealed substrates; color to match adjacent material.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Inspect roof deck to verify deck is clean and smooth, free of depressions, waves, or projections,
+properly sloped to drains.
+B.
+Verify roof openings, curbs, pipes, sleeves, ducts, or vents through roof are solidly set, reglets
+are in place, and nailing strips located.
+C.
+Verify roofing termination and base flashings are in place, sealed, and secure.
+3.02 PREPARATION
+A.
+Install starter and edge strips, and cleats before starting installation.
+B.
+Back paint concealed metal surfaces and surfaces in contact with dissimilar metals with
+protective backing paint to a minimum dry film thickness of 15 mil, 0.015 inch (0.4 mm).
+3.03 INSTALLATION
+A.
+Roofing:
+1.
+Apply underlayment​, as follows:
+2.
+Apply slip sheet in one layer, laid loose.
+3.
+Cleat and seam sheet metal roofing joints.
+4.
+Use butyl tape to seal concealed joints between metal roofing surfaces.
+5.
+Provide gutters, downspouts, fascias, metal splash pans, and _____.
+B.
+Standing Seam Roofing:
+1.
+Lay sheets with long dimension perpendicular to eaves. Apply pans beginning at eaves.
+2.
+Lock cleats into seams and flatten.
+3.
+Stagger transverse joints of roofing sheets.
+4.
+At eaves and gable ends, terminate roofing by hooking over edge strip.
+5.
+Bend up one side edge 1-1/2 inches (38 mm) and other edge 1-3/4 inches (44 mm).
+6.
+Make first fold 1/4-inch (6 mm) wide single fold and second fold 1/2 inch (13 mm) wide,
+providing locked portion of standing seam, five plies in thickness.
+7.
+Fold lower ends of seams at eaves over at 45 degree angle.
+C.
+Built-In Gutters and Downspouts:
+1.
+Secure gutter lining to substrate with cleats spaced minimum ____ inches (____ mm) on
+center along edges of gutters.
+2.
+Longitudinal joints not acceptable.
+3.
+At roof edges, extend gutter lining under metal roofing at least 6 inches (152 mm), and
+terminate in 3/4-inch (19 mm) folded edge secured by cleats. Hook lower end of roofing
+into lock strip to form 3/4-inch (19 mm) wide loose-lock seam.
+
+
+===== PAGE 11 =====
+Nye County School District
+Bid Documents
+07 6100
+Tonopah HS Field Replacement
+Sheet Metal Roofing
+April 20, 2026
+Page 3 of 3
+4.
+Seal gutters watertight, and seal joint of gutter to drain.
+5.
+Connect downspouts to downspout boots at ____ inches (____ mm) above grade, and
+grout connection watertight.
+D.
+Flashing:
+1.
+Comply with SMACNA (ASMM) details.
+2.
+Secure flashings in place using concealed fasteners, and use exposed fasteners only
+where permitted.
+3.
+Cleat and seam each joint.
+4.
+Apply roof cement compound between metal flashings and felt flashings.
+5.
+Fit flashings tight in place, and make corners square, surfaces true and straight in planes,
+and lines accurate to profiles.
+END OF SECTION
+
+
+===== PAGE 12 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 13 =====
+Nye County School District
+Bid Documents
+07 6200
+Tonopah HS Field Replacement
+Sheet Metal Flashing and Trim
+April 20, 2026
+Page 1 of 2
+SECTION 07 6200
+SHEET METAL FLASHING AND TRIM
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Fabricated sheet metal items, including ​flashings, counterflashings, gutters, downspouts, and
+other items indicated on Drawings for Mechanical Roof Penetrations​.
+B.
+Sealants for joints within sheet metal fabrications.
+C.
+Metal flashings for exterior opening penetrations.
+D.
+Precast concrete splash pads.
+1.02 RELATED REQUIREMENTS
+A.
+Section 07 7123 - Manufactured Gutters and Downspouts.
+B.
+Section 07 9200- Joint Sealants
+1.03 REFERENCE STANDARDS
+A.
+AAMA 2605 - Voluntary Specification, Performance Requirements and Test Procedures for
+Superior Performing Organic Coatings on Aluminum Extrusions and Panels (with Coil Coating
+Appendix); 2022.
+B.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+C.
+ASTM C920 - Standard Specification for Elastomeric Joint Sealants; 2018.
+D.
+ASTM D4586/D4586M - Standard Specification for Asphalt Roof Cement, Asbestos-Free; 2007
+(Reapproved 2018).
+E.
+SMACNA (ASMM) - Architectural Sheet Metal Manual; 2012.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Shop Drawings: Indicate material profile, jointing pattern, jointing details, fastening methods,
+flashings, terminations, and installation details.
+1.05 QUALITY ASSURANCE
+A.
+Perform work in accordance with SMACNA (ASMM) requirementsand standard details, except
+as otherwise indicated.
+PART 2 PRODUCTS
+2.01 SHEET MATERIALS
+A.
+Galvanized Steel:  ASTM A653/A653M, with G90/Z275 zinc coating; minimum 24-gauge,
+0.0239-inch (0.61 mm) thick base metal.
+B.
+Pre-Finished Galvanized Steel: ASTM A653/A653M, with G90/Z275 zinc coating; minimum 24-
+gauge, 0.0239-inch (0.61 mm) thick base metal, shop pre-coated with PVDF coating.
+1.
+Polyvinylidene Fluoride (PVDF) Coating: Superior performing organic powder coating,
+AAMA 2605; multiple coat, thermally cured fluoropolymer finish system.
+2.
+Color: As selected by Architect from manufacturer's standard colors.
+2.02 FABRICATION
+A.
+Form sections true to shape, accurate in size, square, and free from distortion or defects.
+B.
+Form pieces in longest possible lengths.
+C.
+Hem exposed edges on underside 1/2 inch (13 mm); miter and seam corners.
+D.
+Form material with flat lock seams, except where otherwise indicated; at moving joints, use
+sealed lapped, bayonet-type or interlocking hooked seams.
+
+
+===== PAGE 14 =====
+Nye County School District
+Bid Documents
+07 6200
+Tonopah HS Field Replacement
+Sheet Metal Flashing and Trim
+April 20, 2026
+Page 2 of 2
+E.
+Fabricate corners from one piece with minimum 18-inch (450 mm) long legs; seam for rigidity,
+seal with sealant.
+F.
+Fabricate flashings to allow toe to extend 2 inches (50 mm) over roofing ________. Return and
+brake edges.
+2.03 GUTTERS AND DOWNSPOUTS
+A.
+Gutters: SMACNA (ASMM) Rectangular profile.
+B.
+Downspouts: Rectangular profile.
+C.
+Accessories: Profiled to suit gutters and downspouts.
+1.
+Anchorage Devices: In accordance with SMACNA (ASMM) requirements.
+2.
+Gutter Supports: Brackets.
+3.
+Downspout Supports: Brackets.
+D.
+Splash Pads: Precast concrete type, of size and profiles indicated; minimum 3,000 psi (21
+MPa) at 28 days, with minimum 5 percent air entrainment.
+E.
+Downspout Extenders: Same material and finish as downspouts.
+F.
+Seal metal joints.
+2.04 ACCESSORIES
+A.
+Fasteners: Galvanized steel, with soft neoprene washers.
+B.
+Primer Type: Zinc chromate.
+C.
+Concealed Sealants: Non-curing butyl sealant.
+D.
+Exposed Sealants: ASTM C920; elastomeric sealant, with minimum movement capability as
+recommended by manufacturer for substrates to be sealed; color to match adjacent material.
+E.
+Asphalt Roof Cement: ASTM D4586/D4586M, Type I, asbestos-free.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify roof openings, curbs, pipes, sleeves, ducts, and vents through roof are solidly set, reglets
+in place, and nailing strips located.
+B.
+Verify roofing termination and base flashings are in place, sealed, and secure.
+3.02 PREPARATION
+A.
+Install starter and edge strips, and cleats before starting installation.
+B.
+Back paint concealed metal surfaces with protective backing paint to a minimum dry film
+thickness of 15 mil, 0.015 inch (0.38 mm).
+3.03 INSTALLATION
+A.
+Conform to drawing details and SMACNA (ASMM) - Architectural Sheet Metal Manual; Sheet
+Metal and Air Conditioning Contractors' National Association.
+B.
+Secure flashings in place using concealed fasteners, and use exposed fasteners only where
+permitted..
+C.
+Apply plastic cement compound between metal flashings and felt flashings.
+D.
+Fit flashings tight in place; make corners square, surfaces true and straight in planes, and lines
+accurate to profiles.
+E.
+Seal metal joints watertight.
+F.
+Secure gutters and downspouts in place with concealed fasteners.
+G.
+Set splash pads under downspouts, and set in place with _____.
+END OF SECTION
+
+
+===== PAGE 15 =====
+Nye County School District
+Bid Documents
+07 9200
+Tonopah HS Field Replacement
+JOINT SEALANTS
+April 20, 2026
+Page 1 of 3
+SECTION 07 9200
+JOINT SEALANTS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Sealants and joint backing.
+B.
+This Section includes joint sealers for the following locations:
+1.
+Exterior joints in vertical surfaces and non-traffic horizontal surfaces as indicated below.
+a.
+Control and expansion joints in cast-in-place concrete.
+b.
+Joints between architectural precast concrete units.
+c.
+Control and expansion joints in unit masonry.
+d.
+Joints between different materials listed above.
+e.
+Perimeter joints between materials listed above and frames of doors and windows.
+f.
+Other joints as indicated.
+2.
+Exterior joints in horizontal traffic surfaces as indicated below:
+a.
+Control, expansion, and isolation joints in cast-in-place concrete slabs for floors and
+paving.
+b.
+Joints between different materials listed above.
+c.
+Other joints as indicated.
+3.
+Interior joints in vertical surfaces and horizontal non-traffic surfaces as indicated below:
+a.
+Perimeter joints of exterior openings where indicated.
+b.
+Tile control and expansion joints.
+c.
+Vertical control joints on exposed surfaces of interior unit masonry and concrete walls
+and partitions.
+d.
+Perimeter joints between interior wall surfaces and frames of interior doors and
+windows
+e.
+Perimeter joints of toilet fixtures.
+1)
+Other joints as indicated.
+4.
+Interior joints in horizontal traffic surfaces as indicated below:
+a.
+Control and expansion joints in cast-in-place concrete slabs.
+b.
+Control and expansion joints in tile flooring.
+c.
+Other joints as indicated.
+5.
+Precompressed foam sealers.
+1.02 DEFINITIONS
+A.
+Joint sealer, caulk, and sealant shall be interchangable in the specifications and the drawings.
+1.03 RELATED REQUIREMENTS
+A.
+Section 03 3000 - Cast-in Place Concrete.
+B.
+Section 06 1000 - Rough Carpentry, sealing of joints to limit infiltration.
+C.
+Section 08 8000 - Glazing: Glazing sealants and accessories.
+1.04 REFERENCE STANDARDS
+A.
+ASTM C920 - Standard Specification for Elastomeric Joint Sealants; 2018.
+B.
+ASTM C1193 - Standard Guide for Use of Joint Sealants; 2016 (Reapproved 2023).
+1.05 SUBMITTALS
+A.
+Product Data: Provide data indicating sealant chemical characteristics.
+1.06 QUALITY ASSURANCE
+A.
+Applicator Qualifications: Company specializing in performing the work of this section with
+minimum three years documented experience and approved by manufacturer.
+
+
+===== PAGE 16 =====
+Nye County School District
+Bid Documents
+07 9200
+Tonopah HS Field Replacement
+JOINT SEALANTS
+April 20, 2026
+Page 2 of 3
+1.07 SYSTEM PERFORMANCES
+A.
+Provide joint sealers that have been produced and installed to establish and maintain watertight
+and airtight continuous seal without causing staining or deterioration of joint substrates.
+1.08 DELIVERY, STORAGE, AND HANDLING
+A.
+Deliver materials to project site in original unopened containers or bundles with labels informing
+about manufacturer, product name and designation, color, expiration period for use, pot life,
+curing time, and mixing instructions for Multi-component materials.
+B.
+Store and handle materials in compliance with manufacturers' recommendations to prevent
+their deterioration or damage due to moisture, high or low temperatures, contaminants, or other
+causes.
+1.09 FIELD CONDITIONS
+A.
+Maintain temperature and humidity recommended by the sealant manufacturer during and after
+installation.
+B.
+Joint Width Conditions: Do not proceed with installation of joint sealers where joint widths are
+less than allowed by joint sealer manufacturer for application indicated.
+C.
+Joint Substrate Conditions: Do not proceed with installation of joint sealers until contaminants
+capable of interfering with their adhesion are removed from joint substrates.
+1.10 COORDINATION
+A.
+Sequence installation of joint sealers to occur not less than 21 nor more than 30 days after
+completion of concrete and masonry waterproofing, unless otherwise indicated.
+1.11 WARRANTY
+PART 2 EXECUTION
+2.01 EXAMINATION
+A.
+Verify that substrate surfaces are ready to receive work.
+B.
+Verify that joint backing and release tapes are compatible with sealant.
+2.02 PREPARATION
+A.
+Remove loose materials and foreign matter that could impair adhesion of sealant.
+B.
+Clean and prime joints in accordance with manufacturer's instructions.
+1.
+Joint Priming: Prime joint substrates where indicated or where recommended by joint
+sealer manufacturer based on preconstruction joint sealer-substrate tests or prior
+experience. Apply primer to comply with joint sealer manufacturer's recommendations.
+Confine primers to areas of joint sealer bond, do not allow spillage or migration onto
+adjoining surfaces.
+C.
+Perform preparation in accordance with manufacturer's instructions and ASTM C1193.
+D.
+Protect elements surrounding the work of this section from damage or disfigurement.
+1.
+Masking Tape: Use masking tape where required to prevent contact of sealant with
+adjoining surfaces which otherwise would be permanently stained or damaged by such
+contact or by cleaning methods required to remove sealant smears. Remove tape
+immediately after tooling without disturbing joint seal.
+2.03 INSTALLATION
+A.
+Perform work in accordance with sealant manufacturer's requirements for preparation of 
+B.
+Perform installation in accordance with ASTM C1193.
+C.
+Install bond breaker where joint backing is not used.
+1.
+Install bond breaker tape between sealants and joint-fillers, compression seals or back of
+joints where adhesion of sealant to surfaces at back of joints would result in sealant
+failure.
+
+
+===== PAGE 17 =====
+Nye County School District
+Bid Documents
+07 9200
+Tonopah HS Field Replacement
+JOINT SEALANTS
+April 20, 2026
+Page 3 of 3
+D.
+Install sealant free of air pockets, foreign embedded matter, ridges, and sags.
+E.
+Apply sealant within recommended application temperature ranges. Consult manufacturer
+when sealant cannot be applied within these temperature ranges.
+F.
+Tool joints concave.
+G.
+Precompressed Foam Sealant: Do not stretch; avoid joints except at corners, ends, and
+intersections; install with face 1/8 to 1/4 inch (3 to 6 mm) below adjoining surface.
+H.
+Compression Gaskets: Avoid joints except at ends, corners, and intersections; seal all joints
+with adhesive; install with face 1/8 to 1/4 inch (3 to 6 mm) below adjoining surface.
+I.
+Installation of Sealant Backings: Install sealant backings to comply with the following
+requirements:
+1.
+Install joint fillers of type indicated to provide support of sealants during application and at
+position required to produce the cross sectional shapes and depths of installed sealants
+relative to joint widths which allow optimum sealant movement capability.
+a.
+Do not leave gaps between ends of joint fillers.
+b.
+Do not stretch, twist, puncture or tear joint fillers.
+c.
+Remove absorbent joint fillers which have become wet prior to sealant application
+and replace with dry material.
+2.04 CLEANING
+A.
+Clean adjacent soiled surfaces.
+2.05 PROTECTION
+A.
+Protect sealants until cured.
+1.
+Protect joint sealers during and after curing period from contact with contaminating
+substances or from damage resulting from construction operations or other causes so that
+they are without deterioration or damage at time of Substantial Completion. If, despite
+such protection, damage or deterioration occurs, cut out and remove damaged or
+deteriorated joint sealers immediately and reseal joints with new materials to product joint
+sealer installations with repaired areas indistinguishable from original work.
+END OF SECTION
+
+
+===== PAGE 18 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank

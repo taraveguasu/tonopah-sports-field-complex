@@ -1,0 +1,75 @@
+
+===== PAGE 1 =====
+Copyright © 2022, Oracle and/or its affiliates / Version 2.0 
+Oracle’s Textura Payment Management: Work Faster and More Efficiently 
+What Is Textura Payment Management (TPM®)? 
+Oracle’s TPM is an Internet-based construction invoicing and payment solution. With the TPM system, subcontractors can 
+electronically sign and submit their pay applications—including invoices, sworn statements, and conditional and/or unconditional 
+lien waivers. Payments are made electronically via ACH (Automated Clearing House) resulting in faster access to your funds. In 
+addition, TPM facilitates submission and tracking of compliance documents and sub-tier waivers. In short, TPM has revolutionized 
+the construction payment process. Thousands of subcontractors currently use TPM to submit their pay applications every month. 
+Sign Pay Applications and Submit Electronically 
+TPM automatically generates the required Pay Application documents and transmits them to your GC electronically at the click of a 
+button. 
+•
+Invoices are created by simply entering a percent complete or dollar value by line item of your budget
+•
+Electronic submission of documents eliminates the expense and inconvenience of fax or hand delivery
+•
+Invoice amounts are verified with lien waiver and payment amounts, reducing the risk of error
+Receive Payments via ACH 
+TPM uses the secure ACH network for electronic deposit of funds to accelerate draw payments. 
+•
+ACH will deliver funds faster than a manual check. Payments are made through TPM directly by the GC and are subject to
+the terms of your contract.
+•
+ACH works like direct deposit. Funds are immediately available, no waiting for checks to clear.
+•
+TPM alerts you via email that payment has been disbursed.
+Know What is Happening, When It Happens 
+TPM offers complete visibility throughout the draw process and notifies users of critical events. 
+•
+Receive real-time notifications when a draw is opened, change order issued, payment disbursed, etc.
+•
+Receive email reminders to update expiring insurance documents and notification of non-compliance.
+•
+Online invoice approval and rejection ensures that both parties are informed of final invoice amounts.
+Manage Documents Online 
+Project documents created in or uploaded to the system are available for viewing, printing or downloading to your computer. TPM 
+will store these documents for a minimum of ten years. 
+•
+Pay Application backup documents are submitted quickly and easily via an upload attachment feature.
+•
+Electronic submission & tracking of legal documents such as insurance certificates reduces payment holds.
+•
+Possibility for lost or delayed documents resulting in held payments is virtually eliminated
+What Does It Cost to Use TPM? 
+0.22 % of contract value* 
+•
+Maximum – $5,000
+•
+Sub-tier subcontractors – $100 
+Payment Methods 
+•
+ACH (default) or Credit Card
+*Plus applicable taxes
+Technical Requirements: 
+TPM is completely web-based- there is no software to install. Users 
+need only: 
+•
+Internet access (high-speed recommended)
+•
+Email access for each user
+•
+Adobe Acrobat Reader 6.0 or higher (free download)
+Free Training & Support: 
+Our Training Supports your training needs with: 
+•
+Free webinars
+•
+Individual training by phone
+•
+Training videos
+•
+Live in-app chat
+Support representatives are available to answer your questions at 866 -TEXTURA (866-839-8872). 

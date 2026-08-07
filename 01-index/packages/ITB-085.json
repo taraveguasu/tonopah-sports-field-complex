@@ -1,0 +1,162 @@
+{
+  "_package_id": "ITB-085",
+  "_title": "Warming Kitchen Food Service Equipment",
+  "_title_variants_in_source": null,
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 085 Warming Kitchen Food Service Equipment.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "11 30 13",
+        "title": "Residential Appliances",
+        "basis": "trade_judgment",
+        "rationale": "ORPHAN -- no scope doc cites it. Residential appliances belong to the warming kitchen package, which is the only package with kitchen equipment scope.",
+        "manual_pages": "262-263",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-11-equipment.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "11 40 00",
+        "title": "Foodservice Equipment",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by ITB-085.",
+        "manual_pages": "264-265",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-11-equipment.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A9-20",
+        "title": "ENLARGED PLANS - CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-20.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A7-10",
+      "AD1.11",
+      "E0-01",
+      "E0-02",
+      "E0-03",
+      "LS1-10",
+      "P0-05"
+    ]
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "Culinary Depot",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - Culinary Depot.pdf.txt",
+      "current_date": "2026-04-29",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "Concessions window 106A, including all plywood substrate, bracing, and backing",
+        "as detailed and required. See section detail 3/A7.10 for requirements. Plywood substrate or backing not included to be",
+        "done by framing.",
+        "iv. Stainless steel sinks, including three (3)-compartment and hand sink, are salvaged and",
+        "installed by others (not a part of this scope of work). Noted, \"not included.\"",
+        "b. Coordinate with Electrical Subcontractor for equipment connection requirements. Limited only remote",
+        "c. Install only all Owner-Furnished, Contractor-Installed (OFCI) Food Service Equipment per plans,",
+        "equipment schedule, and related items as indicated and specified, including: owner-furnished equipment is not included",
+        "to be installed.",
+        "i. Microwave Ovens. Confirm model. No model number provided in drawings. No specifications available.",
+        "ii. Four-Tier Storage Racks. These items are shown as owner furnished, owner installed",
+        "d. Provide all anchors, fasteners, and sealants required to provide a complete scope of work. Included with install, which",
+        "is left as an alt.",
+        "e. Provide final adjustments, start up, and training as specified. No startup or training required for this equipment.",
+        "f. Provide all tests and certifications required for complete and operational systems. None required for this equipment.",
+        "Thank you,",
+        "Neil Posen",
+        "Director of Contract Sales, 845-414-2236",
+        "neil@culinarydepot.com",
+        "www.culinarydepotkec.com",
+        "Project:",
+        "1 ea CONSOLIDATION AND STORAGE",
+        "CULINARY DEPOT LAS VEGAS Model No. CUSTOM",
+        "Consolidate all items into the warehouse. Ship to the jobsite with",
+        "one delivery.",
+        "For curbside delivery, offloading would be the responsibility of",
+        "the contractor.",
+        "including uncrating and set in place.  Installation, if quoted, does not include any final connections by other"
+      ],
+      "exclusions_scope_specific": [
+        "2 ea WORK TABLE, STAINLESS STEEL TOP",
+        "Advance Tabco Model No. SS\u2010306",
+        "Work Table, 72\"W x 30\"D, 14 gauge 304 stainless steel top, 18",
+        "gauge adjustable stainless steel undershelf, stainless steel legs &",
+        "adjustable bullet feet, NSF",
+        "Dimensions 35.5(h) x 72(w) x 30(d)",
+        "Weight: 264 lbs total",
+        "Not included in food service scope of work by others.",
+        "Not included in food service scope of work.",
+        "Does not include stainless steel window buck around window"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [
+        "REPLACEMENT \u2014 SUPPLY ONLY"
+      ]
+    },
+    {
+      "firm": "RESCO",
+      "current_document": null,
+      "current_date": null,
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - RESCO.pdf.txt"
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 26,
+      "id": "GMP-04",
+      "severity": "medium",
+      "title": "Several ITB packages are unaddressed by the Basis of GMP",
+      "detail": "No scope assumption or exclusion covers ITB-008 Surveying, ITB-019 Track & Field Athletic Equipment (beyond excluding soccer goals), ITB-040, ITB-044, ITB-056, ITB-062, ITB-071, ITB-072, or ITB-085 Warming Kitchen Food Service Equipment. With 'Loose FF&E' excluded, whether the warming kitchen equipment is in or out is not established."
+    }
+  ]
+}

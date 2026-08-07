@@ -1,0 +1,1337 @@
+
+===== PAGE 1 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 1 of 12 
+SECTION 33 05 00 
+COMMON WORK RESULTS FOR UTILITIES 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A. 
+This Section includes the following: 
+1. 
+Piping joining materials. 
+2. 
+Dielectric fittings. 
+3. 
+Sleeves. 
+4. 
+Identification devices. 
+5. 
+Grout. 
+6. 
+Piping system common requirements. 
+7. 
+Equipment installation common requirements. 
+8. 
+Concrete bases. 
+9. 
+Metal supports and anchorages. 
+1.2 
+DEFINITIONS 
+A. 
+Exposed Installations:  Exposed to view outdoors or subject to outdoor ambient temperatures 
+and weather conditions. 
+B. 
+Concealed Installations:  Concealed from view and protected from weather conditions and 
+physical contact by building occupants but subject to outdoor ambient temperatures.  Examples 
+include installations within unheated shelters. 
+1.3 
+SUBMITTALS 
+A. 
+Product Data:  For the following: 
+1. 
+Dielectric fittings. 
+2. 
+Identification devices. 
+B. 
+Welding certificates. 
+1.4 
+QUALITY ASSURANCE 
+A. 
+Steel Support Welding:  Qualify procedures and personnel according to AWS D1.1/D1.1M, 
+"Structural Welding Code - Steel." 
+B. 
+Steel Piping Welding:  Qualify processes and operators according to ASME Boiler and Pressure 
+Vessel Code:  Section IX, "Welding and Brazing Qualifications." 
+
+
+===== PAGE 2 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 2 of 12 
+1. 
+Comply with provisions in ASME B31 Series, "Code for Pressure Piping." 
+2. 
+Certify that each welder has passed AWS qualification tests for welding processes 
+involved and that certification is current. 
+C. 
+Comply with ASME A13.1 for lettering size, length of color field, colors, and viewing angles of 
+identification devices. 
+PART 2 - PRODUCTS 
+2.1 
+PIPING JOINING MATERIALS 
+A. 
+Pipe-Flange Gasket Materials:  Suitable for chemical and thermal conditions of piping system 
+contents. 
+1. 
+ASME B16.21, nonmetallic, flat, asbestos free, 1/8-inch maximum thickness, unless 
+otherwise indicated. 
+a. 
+Full-Face Type:  For flat-face, Class 125, cast-iron and cast-bronze flanges. 
+b. 
+Narrow-Face Type:  For raised-face, Class 250, cast-iron and steel flanges. 
+2. 
+AWWA C110, rubber, flat face, 1/8 inch thick, unless otherwise indicated; and full-face 
+or ring type, unless otherwise indicated. 
+B. 
+Flange Bolts and Nuts:  ASME B18.2.1, carbon steel, unless otherwise indicated. 
+C. 
+Plastic, Pipe-Flange Gasket, Bolts, and Nuts:  Type and material recommended by piping 
+system manufacturer, unless otherwise indicated. 
+D. 
+Solder Filler Metals:  ASTM B 32, lead-free alloys.  Include water-flushable flux according to 
+ASTM B 813. 
+E. 
+Brazing Filler Metals:  AWS A5.8, BCuP Series, copper-phosphorus alloys for general-duty 
+brazing, unless otherwise indicated; and AWS A5.8, BAg1, silver alloy for refrigerant piping, 
+unless otherwise indicated. 
+F. 
+Welding Filler Metals:  Comply with AWS D10.12/D10.12M for welding materials appropriate 
+for wall thickness and chemical analysis of steel pipe being welded. 
+G. 
+Solvent Cements for Joining Plastic Piping: 
+1. 
+ABS Piping:  ASTM D 2235. 
+2. 
+CPVC Piping:  ASTM F 493. 
+3. 
+PVC Piping:  ASTM D 2564.  Include primer according to ASTM F 656. 
+4. 
+PVC to ABS Piping Transition:  ASTM D 3138. 
+H. 
+Fiberglass Pipe Adhesive:  As furnished or recommended by pipe manufacturer. 
+
+
+===== PAGE 3 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 3 of 12 
+2.2 
+DIELECTRIC FITTINGS 
+A. 
+Dielectric Fittings, General:  Assembly of copper alloy and ferrous materials or ferrous material 
+body with separating nonconductive insulating material suitable for system fluid, pressure, and 
+temperature. 
+B. 
+Dielectric Unions: 
+1. 
+Available Manufacturers:  Subject to compliance with requirements, manufacturers 
+offering products that may be incorporated into the Work include, but are not limited to, 
+the following: 
+2. 
+Manufacturers:  Subject to compliance with requirements, provide products by one of the 
+following: 
+a. 
+Capitol Manufacturing Co. 
+b. 
+Central Plastics Company. 
+c. 
+Epco Sales, Inc. 
+d. 
+Hart Industries, International, Inc. 
+e. 
+Watts Water Technologies, Inc. 
+f. 
+Zurn Plumbing Products Group; Wilkins Div. 
+3. 
+Description:  Factory fabricated, union, NPS 2 and smaller. 
+a. 
+Pressure Rating:  150 psig to 250 psig at 180 deg F. 
+b. 
+End Connections:  Solder-joint copper alloy and threaded ferrous; threaded 
+ferrous. 
+C. 
+Dielectric Flanges: 
+1. 
+Available Manufacturers:  Subject to compliance with requirements, manufacturers 
+offering products that may be incorporated into the Work include, but are not limited to, 
+the following: 
+2. 
+Manufacturers:  Subject to compliance with requirements, provide products by one of the 
+following: 
+a. 
+Capitol Manufacturing Co. 
+b. 
+Central Plastics Company. 
+c. 
+Epco Sales, Inc. 
+d. 
+Watts Water Technologies, Inc. 
+3. 
+Description:  Factory-fabricated, bolted, companion-flange assembly, NPS 2-1/2 to 
+NPS 4 and larger. 
+a. 
+Pressure Rating:  150 psig to 300 psig. 
+b. 
+End Connections:  Solder-joint copper alloy and threaded ferrous; threaded solder-
+joint copper alloy and threaded ferrous. 
+D. 
+Dielectric Couplings: 
+
+
+===== PAGE 4 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 4 of 12 
+1. 
+Available Manufacturers:  Subject to compliance with requirements, manufacturers 
+offering products that may be incorporated into the Work include, but are not limited to, 
+the following: 
+2. 
+Manufacturers:  Subject to compliance with requirements, provide products by one of the 
+following: 
+a. 
+Calpico, Inc. 
+b. 
+Lochinvar Corporation. 
+3. 
+Description:  Galvanized-steel coupling with inert and noncorrosive, thermoplastic lining, 
+NPS 3 and smaller. 
+a. 
+Pressure Rating:  300 psig at 225 deg F. 
+b. 
+End Connections:  Threaded. 
+E. 
+Dielectric Nipples: 
+1. 
+Available Manufacturers:  Subject to compliance with requirements, manufacturers 
+offering products that may be incorporated into the Work include, but are not limited to, 
+the following: 
+2. 
+Manufacturers:  Subject to compliance with requirements, provide products by one of the 
+following: 
+a. 
+Perfection Corporation. 
+b. 
+Precision Plumbing Products, Inc. 
+c. 
+Victaulic Company. 
+3. 
+Description:  Electroplated steel nipple with inert and noncorrosive, thermoplastic lining. 
+a. 
+Pressure Rating:  300 psig at 225 deg F. 
+b. 
+End Connections:  Threaded or grooved. 
+2.3 
+SLEEVES 
+A. 
+Mechanical sleeve seals for pipe penetrations are specified in Division 22 Section "Common 
+Work Results for Plumbing." 
+B. 
+Galvanized-Steel Sheet Sleeves:  0.0239-inch minimum thickness; round tube closed with 
+welded longitudinal joint. 
+C. 
+Steel Pipe Sleeves:  ASTM A 53/A 53M, Type E, Grade B, Schedule 40, galvanized, plain ends. 
+D. 
+Cast-Iron Sleeves:  Cast or fabricated "wall pipe" equivalent to ductile-iron pressure pipe, with 
+plain ends and integral waterstop, unless otherwise indicated. 
+E. 
+Molded PVC Sleeves:  Permanent, with nailing flange for attaching to wooden forms. 
+F. 
+PVC Pipe Sleeves:  ASTM D 1785, Schedule 40. 
+G. 
+Molded PE Sleeves:  Reusable, PE, tapered-cup shaped, and smooth outer surface with nailing 
+flange for attaching to wooden forms. 
+
+
+===== PAGE 5 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 5 of 12 
+2.4 
+IDENTIFICATION DEVICES 
+A. 
+Equipment Nameplates:  Metal permanently fastened to equipment with data engraved or 
+stamped. 
+1. 
+Data:  Manufacturer, product name, model number, serial number, capacity, operating 
+and power characteristics, labels of tested compliances, and essential data. 
+2. 
+Location:  Accessible and visible. 
+B. 
+Snap-on Plastic Pipe Markers:  Manufacturer's standard preprinted, semirigid, snap-on type.  
+Include color-coding according to ASME A13.1, unless otherwise indicated. 
+C. 
+Pressure-Sensitive Pipe Markers:  Manufacturer's standard preprinted, color-coded, pressure-
+sensitive-vinyl type with permanent adhesive. 
+D. 
+Pipes with OD, Including Insulation, Less Than 6 Inches:  Full-band pipe markers, extending 
+360 degrees around pipe at each location. 
+E. 
+Pipes with OD, Including Insulation, 6 Inches and Larger:  Either full-band or strip-type pipe 
+markers, at least three times letter height and of length required for label. 
+F. 
+Lettering:  Use piping system terms indicated and abbreviate only as necessary for each 
+application length. 
+1. 
+Arrows:  Either integrally with piping system service lettering to accommodate both 
+directions of flow, or as separate unit on each pipe marker to indicate direction of flow. 
+G. 
+Plastic Tape:  Manufacturer's standard color-coded, pressure-sensitive, self-adhesive vinyl tape, 
+at least 3 mils thick. 
+1. 
+Width:  1-1/2 inches on pipes with OD, including insulation, less than 6 inches; 2-1/2 
+inches for larger pipes. 
+2. 
+Color:  Comply with ASME A13.1, unless otherwise indicated. 
+H. 
+Valve Tags:  Stamped or engraved with 1/4-inch letters for piping system abbreviation and 1/2-
+inch sequenced numbers.  Include 5/32-inch hole for fastener. 
+1. 
+Material:  0.032-inch- thick, polished brass or aluminum. 
+2. 
+Material:  0.0375-inch- thick stainless steel. 
+3. 
+Material:  3/32-inch- thick plastic laminate with 2 black surfaces and a white inner layer. 
+4. 
+Material:  Valve manufacturer's standard solid plastic. 
+5. 
+Size:  1-1/2 inche in diameter, unless otherwise indicated. 
+6. 
+Shape:  As indicated for each piping system. 
+I. 
+Valve Tag Fasteners:  Brass, wire-link or beaded chain; or brass S-hooks. 
+J. 
+Engraved Plastic-Laminate Signs:  ASTM D 709, Type I, cellulose, paper-base, phenolic-resin-
+laminate engraving stock; Grade ES-2, black surface, black phenolic core, with white melamine 
+subcore, unless otherwise indicated.  Fabricate in sizes required for message.  Provide holes for 
+mechanical fastening. 
+
+
+===== PAGE 6 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 6 of 12 
+1. 
+Engraving:  Engraver's standard letter style, of sizes and with terms to match equipment 
+identification. 
+2. 
+Thickness:  1/8 inch, unless otherwise indicated. 
+3. 
+Thickness:  1/16 inch, for units up to 20 sq. in. or 8 inches in length, and 1/8 inch for 
+larger units. 
+4. 
+Fasteners:  Self-tapping, stainless-steel screws or contact-type permanent adhesive. 
+K. 
+Plastic Equipment Markers:  Manufacturer's standard laminated plastic, in the following color 
+codes: 
+1. 
+Green:  Cooling equipment and components. 
+2. 
+Yellow:  Heating equipment and components. 
+3. 
+Brown:  Energy reclamation equipment and components. 
+4. 
+Blue:  Equipment and components that do not meet criteria above. 
+5. 
+Hazardous Equipment:  Use colors and designs recommended by ASME A13.1. 
+6. 
+Terminology:  Match schedules as closely as possible.  Include the following: 
+a. 
+Name and plan number. 
+b. 
+Equipment service. 
+c. 
+Design capacity. 
+d. 
+Other design parameters such as pressure drop, entering and leaving conditions, 
+and speed. 
+7. 
+Size:  2-1/2 by 4 inches for control devices, dampers, and valves; 4-1/2 by 6 inches for 
+equipment. 
+2.5 
+GROUT 
+A. 
+Description:  ASTM C 1107, Grade B, nonshrink and nonmetallic, dry hydraulic-cement grout. 
+1. 
+Characteristics:  Post hardening, volume adjusting, nonstaining, noncorrosive, 
+nongaseous, and recommended for interior and exterior applications. 
+2. 
+Design Mix:  5000-psi, 28-day compressive strength. 
+3. 
+Packaging:  Premixed and factory packaged. 
+PART 3 - EXECUTION 
+3.1 
+DIELECTRIC FITTING APPLICATIONS 
+A. 
+Dry Piping Systems:  Connect piping of dissimilar metals with the following: 
+1. 
+NPS 2 and Smaller:  Dielectric unions. 
+2. 
+NPS 2-1/2 and Larger:  Dielectric flanges. 
+B. 
+Wet Piping Systems:  Connect piping of dissimilar metals with the following: 
+1. 
+NPS 2 and Smaller:  Dielectric couplings or dielectric nipples. 
+2. 
+NPS 2-1/2 and Larger:  Dielectric nipples. 
+
+
+===== PAGE 7 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 7 of 12 
+3.2 
+PIPING INSTALLATION 
+A. 
+Install piping according to the following requirements and Division 33 Sections specifying 
+piping systems. 
+B. 
+Drawing plans, schematics, and diagrams indicate general location and arrangement of piping 
+systems.  Indicated locations and arrangements were used to size pipe and calculate friction 
+loss, expansion, pump sizing, and other design considerations.  Install piping as indicated unless 
+deviations to layout are approved on the Coordination Drawings. 
+C. 
+Install piping indicated to be exposed and piping in equipment rooms and service areas at right 
+angles or parallel to building walls.  Diagonal runs are prohibited unless specifically indicated 
+otherwise. 
+D. 
+Install piping to permit valve servicing. 
+E. 
+Install piping at indicated slopes. 
+F. 
+Install piping free of sags and bends. 
+G. 
+Install fittings for changes in direction and branch connections. 
+H. 
+Select system components with pressure rating equal to or greater than system operating 
+pressure. 
+I. 
+Sleeves are not required for core-drilled holes. 
+J. 
+Permanent sleeves are not required for holes formed by removable PE sleeves. 
+K. 
+Install sleeves for pipes passing through concrete and masonry walls and concrete floor and roof 
+slabs. 
+1. 
+Cut sleeves to length for mounting flush with both surfaces. 
+a. 
+Exception:  Extend sleeves installed in floors of equipment areas or other wet areas 
+2 inches above finished floor level. 
+2. 
+Install sleeves in new walls and slabs as new walls and slabs are constructed. 
+a. 
+PVC or Steel Pipe Sleeves:  For pipes smaller than NPS 6. 
+b. 
+Steel Sheet Sleeves:  For pipes NPS 6 and larger, penetrating gypsum-board 
+partitions. 
+L. 
+Verify final equipment locations for roughing-in. 
+M. 
+Refer to equipment specifications in other Sections for roughing-in requirements. 
+3.3 
+PIPING JOINT CONSTRUCTION 
+A. 
+Join pipe and fittings according to the following requirements and Division 33 Sections 
+specifying piping systems. 
+
+
+===== PAGE 8 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 8 of 12 
+B. 
+Ream ends of pipes and tubes and remove burrs.  Bevel plain ends of steel pipe. 
+C. 
+Remove scale, slag, dirt, and debris from inside and outside of pipe and fittings before 
+assembly. 
+D. 
+Threaded Joints:  Thread pipe with tapered pipe threads according to ASME B1.20.1.  Cut 
+threads full and clean using sharp dies.  Ream threaded pipe ends to remove burrs and restore 
+full ID.  Join pipe fittings and valves as follows: 
+1. 
+Apply appropriate tape or thread compound to external pipe threads unless dry seal 
+threading is specified. 
+2. 
+Damaged Threads:  Do not use pipe or pipe fittings with threads that are corroded or 
+damaged.  Do not use pipe sections that have cracked or open welds. 
+E. 
+Welded Joints:  Construct joints according to AWS D10.12/D10.12M, using qualified processes 
+and welding operators according to Part 1 "Quality Assurance" Article. 
+F. 
+Flanged Joints:  Select appropriate gasket material, size, type, and thickness for service 
+application.  Install gasket concentrically positioned.  Use suitable lubricants on bolt threads. 
+G. 
+Grooved Joints:  Assemble joints with grooved-end pipe coupling with coupling housing, 
+gasket, lubricant, and bolts according to coupling and fitting manufacturer's written instructions. 
+H. 
+Soldered Joints:  Apply ASTM B 813 water-flushable flux, unless otherwise indicated, to tube 
+end.  Construct joints according to ASTM B 828 or CDA's "Copper Tube Handbook," using 
+lead-free solder alloy (0.20 percent maximum lead content) complying with ASTM B 32. 
+I. 
+Brazed Joints:  Construct joints according to AWS's "Brazing Handbook," "Pipe and Tube" 
+Chapter, using copper-phosphorus brazing filler metal complying with AWS A5.8. 
+J. 
+Pressure-Sealed Joints:  Assemble joints for plain-end copper tube and mechanical pressure seal 
+fitting with proprietary crimping tool to according to fitting manufacturer's written instructions. 
+K. 
+Plastic Piping Solvent-Cemented Joints:  Clean and dry joining surfaces.  Join pipe and fittings 
+according to the following: 
+1. 
+Comply with ASTM F 402 for safe-handling practice of cleaners, primers, and solvent 
+cements. 
+2. 
+ABS Piping:  Join according to ASTM D 2235 and ASTM D 2661 appendixes. 
+3. 
+CPVC Piping:  Join according to ASTM D 2846/D 2846M Appendix. 
+4. 
+PVC Pressure Piping:  Join schedule number ASTM D 1785, PVC pipe and PVC socket 
+fittings according to ASTM D 2672.  Join other-than-schedule-number PVC pipe and 
+socket fittings according to ASTM D 2855. 
+5. 
+PVC Nonpressure Piping:  Join according to ASTM D 2855. 
+6. 
+PVC to ABS Nonpressure Transition Fittings:  Join according to ASTM D 3138 
+Appendix. 
+L. 
+Plastic Pressure Piping Gasketed Joints:  Join according to ASTM D 3139. 
+M. 
+Plastic Nonpressure Piping Gasketed Joints:  Join according to ASTM D 3212. 
+
+
+===== PAGE 9 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 9 of 12 
+N. 
+Plastic Piping Heat-Fusion Joints:  Clean and dry joining surfaces by wiping with clean cloth or 
+paper towels.  Join according to ASTM D 2657. 
+1. 
+Plain-End PE Pipe and Fittings:  Use butt fusion. 
+2. 
+Plain-End PE Pipe and Socket Fittings:  Use socket fusion. 
+O. 
+Bonded Joints:  Prepare pipe ends and fittings, apply adhesive, and join according to pipe 
+manufacturer's written instructions. 
+3.4 
+PIPING CONNECTIONS 
+A. 
+Make connections according to the following, unless otherwise indicated: 
+1. 
+Install unions, in piping NPS 2 and smaller, adjacent to each valve and at final connection 
+to each piece of equipment. 
+2. 
+Install flanges, in piping NPS 2-1/2 and larger, adjacent to flanged valves and at final 
+connection to each piece of equipment. 
+3. 
+Install dielectric fittings at connections of dissimilar metal pipes. 
+3.5 
+EQUIPMENT INSTALLATION 
+A. 
+Install equipment level and plumb, unless otherwise indicated. 
+B. 
+Install equipment to facilitate service, maintenance, and repair or replacement of components.  
+Connect equipment for ease of disconnecting, with minimum interference with other 
+installations.  Extend grease fittings to an accessible location. 
+C. 
+Install equipment to allow right of way to piping systems installed at required slope. 
+3.6 
+IDENTIFICATION 
+A. 
+Piping Systems:  Install pipe markers on each system.  Include arrows showing normal direction 
+of flow. 
+1. 
+Plastic markers, with application systems.  Install on insulation segment if required for 
+hot noninsulated piping. 
+2. 
+Locate pipe markers on exposed piping according to the following: 
+a. 
+Near each valve and control device. 
+b. 
+Near each branch, excluding short takeoffs for equipment and terminal units.  
+Mark each pipe at branch if flow pattern is not obvious. 
+c. 
+Near locations where pipes pass through walls or floors or enter inaccessible 
+enclosures. 
+d. 
+At manholes and similar access points that permit view of concealed piping. 
+e. 
+Near major equipment items and other points of origination and termination. 
+B. 
+Equipment:  Install engraved plastic-laminate sign or equipment marker on or near each major 
+item of equipment. 
+
+
+===== PAGE 10 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 10 of 12 
+1. 
+Lettering Size:  Minimum 1/4 inch high for name of unit if viewing distance is less than 
+24 inches, 1/2 inch high for distances up to 72 inches, and proportionately larger lettering 
+for greater distances.  Provide secondary lettering two-thirds to three-fourths of size of 
+principal lettering. 
+2. 
+Text of Signs:  Provide name of identified unit.  Include text to distinguish among 
+multiple units, inform user of operational requirements, indicate safety and emergency 
+precautions, and warn of hazards and improper operations. 
+C. 
+Adjusting:  Relocate identifying devices that become visually blocked by work of this or other 
+Divisions. 
+3.7 
+CONCRETE BASES 
+A. 
+Concrete Bases:  Anchor equipment to concrete base according to equipment manufacturer's 
+written instructions and according to seismic codes at Project. 
+1. 
+Construct concrete bases of dimensions indicated, but not less than 4 inches larger in both 
+directions than supported unit. 
+2. 
+Install dowel rods to connect concrete base to concrete floor.  Unless otherwise indicated, 
+install dowel rods on 18-inch centers around the full perimeter of base. 
+3. 
+Install epoxy-coated anchor bolts for supported equipment that extend through concrete 
+base, and anchor into structural concrete floor. 
+4. 
+Place and secure anchorage devices.  Use supported equipment manufacturer's setting 
+drawings, templates, diagrams, instructions, and directions furnished with items to be 
+embedded. 
+5. 
+Install anchor bolts to elevations required for proper attachment to supported equipment. 
+6. 
+Install anchor bolts according to anchor-bolt manufacturer's written instructions. 
+7. 
+Use 3000-psi, 28-day compressive-strength concrete and reinforcement as specified in 
+Division 03 Section "Cast-in-Place Concrete/Miscellaneous Cast-in-Place Concrete." 
+3.8 
+ERECTION OF METAL SUPPORTS AND ANCHORAGES 
+A. 
+Refer to Division 05 Section "Metal Fabrications" for structural steel. 
+B. 
+Cut, fit, and place miscellaneous metal supports accurately in location, alignment, and elevation 
+to support and anchor piped utility materials and equipment. 
+C. 
+Field Welding:  Comply with AWS D1.1/D1.1M. 
+3.9 
+GROUTING 
+A. 
+Mix and install grout for equipment base bearing surfaces, pump and other equipment base 
+plates, and anchors. 
+B. 
+Clean surfaces that will come into contact with grout. 
+C. 
+Provide forms as required for placement of grout. 
+D. 
+Avoid air entrapment during placement of grout. 
+
+
+===== PAGE 11 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 11 of 12 
+E. 
+Place grout, completely filling equipment bases. 
+F. 
+Place grout on concrete bases and provide smooth bearing surface for equipment. 
+G. 
+Place grout around anchors. 
+H. 
+Cure placed grout. 
+END OF SECTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 12 =====
+Nye County School District 
+Design Development 
+33 05 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Common Work Results For Utilities 
+ 
+ 
+Page 12 of 12 
+ 
+ 
+ 
+This page left intentionally blank 
+ 
+
+
+===== PAGE 13 =====
+Nye County School District  
+Design Development 
+33 10 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Distribution System 
+ 
+ 
+Page 1 of 4 
+SECTION 33 10 00 
+WATER DISTRIBUTION SYSTEM 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A. 
+Conditions of the contract (General, Supplementary, and other conditions), the General 
+Requirements (Sections of Division One) and the Drawings Apply to the Work of this Section. 
+B. 
+Water Distribution System for Domestic Consumption and Fire Fighting as Indicated on The 
+Drawings, Herein Specified, and Required for a Complete and Proper Installation. 
+1.2 
+WORK SPECIFIED HEREIN 
+A. 
+Provide all labor, materials, equipment, and services necessary to complete the work consisting 
+of furnishing and install the complete distribution facilities, herein referred to as water mains 
+and/or to modify existing water facilities as shown on Construction Documents and in 
+accordance with the specifications and the Uniform Design and Construction Standards for 
+Potable Water Distribution Systems, 3rd Edition (UDACS), all Clark County (CC) amendments 
+and latest revisions.  Where conflicts arise, UDACS and CC amendments and latest revisions 
+shall govern. 
+B. 
+Unless otherwise indicated on the plans and/or specified in the Special Provisions, the 
+construction of water mains shall include: excavation and backfill, construction of concrete 
+structures, anchors, thrust blocks, supports, sleeving, and encasement; the furnishing, installing, 
+testing, and disinfecting of water pipelines, fittings, valves, services, fire hydrants, and all 
+appurtenances; the removal and/or restoration of existing facilities, and all work in accordance 
+with the plans and specifications. 
+1.3 
+SUBMITTALS 
+A. 
+Submit under provisions of the specifications; subject to compliance with the requirements of 
+the Uniform Standard Specifications for Public Work’s Construction off-site improvements, 
+Clark County and respective Local Utility Companies. 
+B. 
+Product Data: Submit manufacturer’s data for product characteristics, valves, fittings, insulation 
+jointing materials, and all other materials required for a complete installation. 
+C. 
+Submit manufacturer’s installation instructions and recommendations.  Contractor shall submit 
+all specified product literature and shop drawings in accordance with the requirements of these 
+specifications, UDACS, and from the Las Vegas Valley Water District approved products list. 
+D. 
+Provide County’s representative with data on pipe materials, pipe fittings, hydrants, valves, and 
+accessories. 
+
+
+===== PAGE 14 =====
+Nye County School District  
+Design Development 
+33 10 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Distribution System 
+ 
+ 
+Page 2 of 4 
+E. 
+Submit copy of results of meter tests and hydrostatic pressure test to CCSD’s representative, 
+utility company and project Civil Engineer upon completion of water distribution backfilling 
+operations. 
+F. 
+Manufacturer’s Certificate: Certify that products meet or exceed state and local requirements. 
+G. 
+Provide County’s representative with a Disinfection report and Bacteriological report including 
+dates, times, results, locations, personnel involved, certifications, etc. 
+H. 
+As-Builts: Accurately record actual installed locations of piping mains, valves, connections, and 
+top of pipe elevations. 
+I. 
+Identify and describe unexpected variations to subsoil conditions and location of uncharted 
+utilities. 
+1.4 
+QUALITY ASSURANCE 
+A. 
+Comply with the Uniform Standard Specifications for Public Work’s Construction Off-Site 
+Improvements, Nye County. 
+B. 
+Comply with the Uniform Design and Construction Standards for Potable Water Systems, 3rd 
+edition. 
+C. 
+Comply with the Uniform Standard Drawings for Public Works Construction Off-site 
+Improvements, Nye County. 
+D. 
+Construction of water main and building service pipelines utilizing plant fabricated pipe and 
+other appurtenant materials, installed for conveyance of potable water.  Relocation or 
+adjustment of existing facilities as may be indicated on the drawings. 
+1.5 
+DELIVERY, STORAGE, AND HANDLING 
+A. 
+Deliver, store, handle, and protect products to site under provisions of Section 01 60 00. 
+B. 
+Deliver new packaged materials, well-marked and identified, clean, dry and protected against 
+dampness, freezing and damage. 
+C. 
+Storage of PVC Materials: 
+1. 
+Store in unit packages as received from manufacturer until just prior to use 
+2. 
+Stack units in such manner as to prevent deformation to pipe barrel and bells 
+3. 
+Protect from direct sunlight with opaque material if storage period will exceed six (6) 
+weeks. 
+D. 
+Avoid severe impact blows, gouging, or cutting by metal surfaces or rocks. 
+
+
+===== PAGE 15 =====
+Nye County School District  
+Design Development 
+33 10 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Distribution System 
+ 
+ 
+Page 3 of 4 
+1.6 
+FIELD MEASUREMENTS 
+A. 
+Verify actual locations of water distribution system and other construction to which water 
+distribution must fit by accurate field measurements before installation.  Coordinate installation 
+schedule with construction progress to avoid delay of work. 
+1.7 
+WARRANTY 
+A. 
+Provide one (1) year written warranty under provisions of specifications. 
+B. 
+Warranty: All materials and workmanship provided are guaranteed against defects after 
+completion and final acceptance of the work.  Defects due to faulty materials or workmanship 
+developed during the guarantee period shall be satisfactorily repaired or replaced by the 
+Contactor at his expense. 
+PART 2 - PRODUCTS 
+2.1 
+MATERIALS 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies; and subject to compliance with the requirements of the Uniform Design and 
+Construction Standards for Potable Water Systems, 3rd Edition. 
+PART 3 - EXECUTION 
+3.1 
+INSPECTION AND RESPONSIBILITY OF MATERIALS 
+A. 
+During the process of unloading, all pipe and accessories shall be inspected by the Contractor 
+for damage.  Notify the Engineer of all material found that has cracks, flaws, or defects.  The 
+Engineer shall inspect the damaged material and have the right to reject any materials he finds 
+unsatisfactory.  Promptly remove all rejected material from the site. 
+B. 
+Pipe and other accessories shall, unless otherwise directed by the Engineer, be unloaded at the 
+point of delivery, hauled to and distributed at the site of the project by the Contractor.  They 
+shall at all times be handled with care to avoid damage. 
+C. 
+The Contractor shall be responsible for all material furnished by him and shall replace at his 
+own expense all such material that is found to be defective in manufacturer or that has become 
+damaged in handling after delivery by the manufacturer.  This shall include the furnishing of all 
+material and labor required for the replacement of installed material discovered defective prior 
+to the final acceptance of the work. 
+D. 
+The Contractor shall be responsible for the safe storage of material furnished by or to him, and 
+accepted by him, and intended for the work until it has been incorporated in the completed 
+project. 
+
+
+===== PAGE 16 =====
+Nye County School District  
+Design Development 
+33 10 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Distribution System 
+ 
+ 
+Page 4 of 4 
+3.2 
+REMOVALS, TRENCH EXCAVATION, BACKFILL, AND RESTORATION 
+A. 
+Removal of existing facilities, trench excavation and backfill and restoration shall be in 
+accordance with the provisions of these specifications. 
+B. 
+See Civil Improvement Plans. 
+3.3 
+WATER MAIN PIPE LAYING OPERATIONS 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies; and subject to compliance with the requirements of the Uniform Design and 
+Construction Standards for Potable Water Systems, 3rd Edition. 
+B. 
+See Civil Improvement Plans. 
+3.4 
+TAPPING INTO THE WATERMAIN 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies; and subject to compliance with the requirements of the Uniform Design and 
+Construction Standards for Potable Water Systems, 3rd Edition. 
+B. 
+See Civil Improvement Plans 
+3.5 
+METHODS OF TESTING AND DISINFECTING 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies; and subject to compliance with the requirements of the Uniform Design and 
+Construction Standards for Potable Water Systems, 3rd Edition. 
+END OF SECTION 
+
+
+===== PAGE 17 =====
+Nye County School District 
+Design Development 
+33 12 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Service Connections 
+ 
+ 
+Page 1 of 4 
+SECTION 33 12 00 
+WATER SERVICE CONNECTIONS 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A. 
+Section Includes: Water service connections; including meters, meter boxes, fire hydrants, and 
+other appurtenances as indicated on the Drawings, specified herein, and required for a complete 
+and proper installation. 
+1. 
+Service connections include connection to the distribution main, service line between 
+main and the meter, meter with box, and service stops. 
+1.2 
+SUBMITTALS 
+A. 
+General: 
+1. 
+Submit under provisions of Section 01 33 00. 
+2. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for 
+Public Work’s Construction off-site Improvements, Nye County, and respective Local 
+Utility Companies. 
+B. 
+Product Data:  Within 15 calendar days after the Contractor has received the Owner’s Notice to 
+Proceed, submit: 
+1. 
+Materials list of items proposed to be provided under this Section. 
+2. 
+Manufacturer’s specifications and other data needed to prove compliance with the 
+specified requirements. 
+1.3 
+QUALITY ASSURANCE 
+A. 
+Comply with the Uniform Standard Specifications for Public Work’s Construction off-site 
+Improvements, Nye County. 
+B. 
+Comply with the 2010 Uniform Design and Construction Standards for Potable Water Systems, 
+2nd Edition. 
+C. 
+ Comply with the Uniform Standard Drawings for Public Work’s Construction off-site 
+Improvements, Nye County. 
+D. 
+Use adequate numbers of skilled workmen who are thoroughly trained and experienced in the 
+necessary crafts and who are completely familiar with the specified requirements and the 
+methods needed for proper performance of the work of this section. 
+E. 
+All materials in this section are to be manufactured in the United States. 
+
+
+===== PAGE 18 =====
+Nye County School District 
+Design Development 
+33 12 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Service Connections 
+ 
+ 
+Page 2 of 4 
+1.4 
+DELIVERY, STORAGE, AND HANDLING 
+A. 
+Deliver, store, handle, and protect products to the site under provisions of Section 01 60 00. 
+1.5 
+FIELD MEASUREMENTS 
+A. 
+Verify actual locations of water distribution system and other construction to which water 
+distribution must fit by accurate field measurements before installation.  Coordinate installation 
+schedule with construction progress to avoid delay of work. 
+1.6 
+WARRANTY 
+A. 
+Provide one (1) year written warranty under provisions of specifications. 
+Warranty: All materials and workmanship provided are guaranteed against defects after 
+completion and final acceptance of the work.  Defects due to faulty materials or workmanship 
+developed during the guarantee period shall be satisfactorily repaired or replaced by the 
+Contactor at his expense. 
+PART 2 - PRODUCTS 
+2.1 
+SEVICE PIPE 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies. 
+B. 
+Subject to compliance with the requirements of the 2010 Uniform Design and Construction 
+Standards for Potable Water Systems, 3rd Edition; Subject to compliance with the Uniform 
+Standard Drawing for Public Work’s Construction off-site Improvements, Nye County. 
+2.2 
+BRASS MATERIALS 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies. 
+B. 
+Subject to compliance with the requirements of the 2010 Uniform Design and Construction 
+Standards for Potable Water Systems, 3rd Edition. 
+C. 
+Subject to compliance with the Uniform Standard Drawing for Public Work’s Construction off-
+site Improvements, Nye County. 
+
+
+===== PAGE 19 =====
+Nye County School District 
+Design Development 
+33 12 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Service Connections 
+ 
+ 
+Page 3 of 4 
+2.3 
+METER BOXES 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies. 
+B. 
+Subject to compliance with the requirements of the 2010 Uniform Design and Construction 
+Standards for Potable Water Systems, 3rd Edition. 
+C. 
+Subject to compliance with the Uniform Standard Drawing for Public Work’s Construction off-
+site Improvements, Nye County. 
+2.4 
+METERS 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies. 
+B. 
+Subject to compliance with the requirements of the 2010 Uniform Design and Construction 
+Standards for Potable Water Systems, 3rd Edition. 
+C. 
+Subject to compliance with the Uniform Standard Drawing for Public Work’s Construction off-
+site Improvements, Nye County. 
+2.5 
+OTHER MATERIALS 
+Provide other materials, not specifically described but required for a complete and proper 
+installation, as selected by the Contractor subject to the approval of the Engineer. 
+PART 3 - EXECUTION 
+3.1 
+EXAMINATION 
+A. 
+Examine the areas and conditions under which Work of this Section will be performed.  Correct 
+conditions detrimental to proper and timely completion of the Work.  Do not proceed until 
+unsatisfactory conditions are corrected. 
+3.2 
+EXCAVATION AND BACKFILLING 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies. 
+B. 
+Subject to compliance with the requirements of the 2010 Uniform Design and Construction 
+Standards for Potable Water Systems, 3rd Edition. 
+
+
+===== PAGE 20 =====
+Nye County School District 
+Design Development 
+33 12 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Water Service Connections 
+ 
+ 
+Page 4 of 4 
+C. 
+Subject to compliance with the Uniform Standard Drawing for Public Work’s Construction off-
+site Improvements, Nye County. 
+3.3 
+INSTALLATION REQUIREMENTS 
+A. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for Public 
+Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies. 
+B. 
+Subject to compliance with the requirements of the 2010 Uniform Design and Construction 
+Standards for Potable Water Systems, 3rd Edition. 
+C. 
+Subject to compliance with the Uniform Standard Drawing for Public Work’s Construction off-
+site Improvements, Nye County. 
+END OF SECTION 
+
+
+===== PAGE 21 =====
+Nye County School District 
+Design Development 
+33 30 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Sanitary Sewer System 
+ 
+ 
+Page 1 of 4 
+SECTION 33 30 00 
+SANITARY SEWER SYSTEM 
+PART 1 - GENERAL 
+1.1 
+SUMMARY 
+A. 
+Section Includes: 
+1. 
+Sanitary sewer piping, fittings, accessories, cleanouts, and bedding 
+2. 
+Connection of site sanitary sewer system to municipal sanitary sewer system. 
+1.2 
+REFERENCES 
+A. 
+Drawings and general provisions of the Contract, including General and Supplementary 
+Conditions, apply to this section 
+B. 
+Design and Construction Standards for Wastewater Collection Systems, 3rd Edition (DCSWCS). 
+C. 
+Uniform Standard Specifications for Public Work’s Construction off-site Improvements, Nye 
+County and respective Local Utility Companies. 
+D. 
+Uniform Standard Drawing for Public Work’s Construction off-site Improvements, Nye County 
+E. 
+American Society for Testing and Materials (ASTM) 
+1. 
+ASTM D3034 – Type PSM Poly (Vinyl Chloride) (PVC) Sewer Pipe and Fittings 
+1.3 
+WORK SPECIFIED HEREIN 
+A. 
+Provide all labor, materials, equipment, and services necessary to complete the work consisting 
+of furnishing and installing the complete sanitary sewer facilities, herein referred to as sewer 
+laterals, excavation and backfill, preparation of pipe subgrade, construction of cleanouts, the 
+furnishing, placing and testing of sanitary sewer facilities as shown on Construction Documents 
+and in accordance with these specifications. 
+B. 
+Unless otherwise indicated on the plans and/or specified in these specifications, the construction 
+of sewer laterals will include: excavation and backfill, cleanouts, supports, the furnishing, 
+installing and testing of sanitary sewer pipelines, fittings, and all appurtenances; the removal 
+and/or restoration of existing facilities, saw-cutting, the removal and/or replacement of AC 
+paving, Type-II Base, etc. and all work in accordance with the plans and specifications. 
+C. 
+Subject to compliance with the requirements of the Uniform Standard Specifications for the 
+Public Work’s Construction off-site Improvements, Nye County and respective Local Utility 
+Companies. 
+D. 
+Subject to compliance with the Standards and Specifications for Wastewater Collection Systems 
+of Great Basin Water Company (Nye County). 
+
+
+===== PAGE 22 =====
+Nye County School District 
+Design Development 
+33 30 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Sanitary Sewer System 
+ 
+ 
+Page 2 of 4 
+E. 
+Subject to compliance with the Uniform Standard Drawing for Public Work’s Construction off-
+site Improvements, Nye County. 
+1.4 
+SUBMITTALS 
+A. 
+Contractor shall submit all specified product literature and shop drawings in accordance with 
+the requirements of these specifications. 
+B. 
+Provide County’s representative with data on pipe materials, pipe fittings, and accessories. 
+C. 
+Manufacturer’s Certificate: Certify that products meet and/or exceed state and local 
+requirements. 
+D. 
+As-Builts: Accurately record actual installed locations of piping mains, cleanouts, connections, 
+top of pipe elevations and clearances to existing utilities. 
+E. 
+Identify and describe unexpected variations to subsoil conditions and location of uncharted 
+utilities. 
+ 
+1.5 
+EXISTING UNDERGROUND UTILITIES 
+A. 
+Existing underground sewer lines, water mains, drainage facilities, and dry utilities shown on 
+the Construction Documents have been located per field survey, as-built and design documents 
+and field investigations.  The County presumes no responsibility as to their location. 
+B. 
+Contractor will verify the invert elevation and pipe size of the existing sanitary sewer line prior 
+to installation of any on-site facilities and notify the county representative and Civil Engineer of 
+any discrepancies to the construction documents. 
+C. 
+All existing public and private sanitary sewer lines will remain operational during construction 
+activities.  Temporary diversions or service interruptions are not allowed. 
+D. 
+Contractor will verify utility and storm drain crossing elevations as noted on the Construction 
+Documents and notify county representative and Civil Engineer of any discrepancies. 
+1.6 
+QUALITY ASSURANCE 
+A. 
+All products, construction materials and methods to be used or incorporated into the work shall 
+be subject to the inspection and approval or rejection of the county representative.  The 
+materials to be used will be new and meet all quality standards as defined by these standards. 
+
+
+===== PAGE 23 =====
+Nye County School District 
+Design Development 
+33 30 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Sanitary Sewer System 
+ 
+ 
+Page 3 of 4 
+PART 2 - PRODUCTS 
+2.1 
+PRODUCTS 
+A. 
+Polyvinyl Chloride Pipe (PVC): ASTM D3034, rated SDR 35 unless otherwise specified by 
+Clark County.  Pipes shall be continually marked with manufacturer’s name, pipe size, cell 
+classification, SDR rating, and ASTM D3034 classification. 
+B. 
+Fittings will be same material as pipe molded or formed to suit pipe size and end design in 
+required bends, wyes, cleanouts, traps, etc. 
+C. 
+Magnetic detectable conductor (#12 copper) trace wire, brightly covered plastic covering, 
+imprinted with “Sanitary Sewer Service” in large letters. 
+D. 
+See Civil Construction Documents. 
+PART 3 - EXECUTION 
+3.1 
+EXECUTION 
+A. 
+All work shall be in accordance with DCSWCS, 3rd Edition. 
+B. 
+Verify that service connections and municipal utility sanitary sewer main size, invert elevations, 
+location, and depth are as indicated on Construction Documents. 
+C. 
+Install trace wire continuous over top of pipe. 
+D. 
+Maintain separation of potable water main from sewer piping at crossings a minimum of 18-
+inches vertical and 10-feet horizontal. 
+E. 
+Hand trim and form bottom of excavations clean and smooth to required elevations.  Correct 
+over excavations with bedding material. 
+END OF SECTION 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 24 =====
+Nye County School District 
+Design Development 
+33 30 00 
+Tonopah HS Field Replacement 
+March 31, 2026 
+Sanitary Sewer System 
+ 
+ 
+Page 4 of 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page left intentionally blank 

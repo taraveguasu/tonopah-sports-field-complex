@@ -1,0 +1,252 @@
+{
+  "_package_id": "ITB-074",
+  "_title": "Building & Fire Protection Specialties (incl. corner guards, cabinets, mirrors)",
+  "_title_variants_in_source": [
+    "Building & Fire Protection Accessories"
+  ],
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 074 Building & Fire Protection Specialties.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "10 21 13.13",
+        "title": "Metal Toilet Compartments",
+        "basis": "scope_doc",
+        "rationale": "ITB-074's scope doc cites '10 21 00 - Toilet Compartments', the parent number of this section; the manual publishes it as 10 21 13.13 Metal Toilet Compartments. Cite the published number in Attachment A. Henri's quote prices 'TOILET PARTITIONS -- Scranton Products, 9 stalls, 2 screens -- furnished and installed -- $28,982'.",
+        "manual_pages": "252-253",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-10-specialties.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "10 26 00",
+        "title": "Wall and Door Protection",
+        "basis": "trade_judgment",
+        "rationale": "Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074.",
+        "manual_pages": "254-255",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-10-specialties.pdf",
+        "conflict": true,
+        "also_cited_by": [
+          "RFP-060"
+        ]
+      },
+      {
+        "section": "10 28 00",
+        "title": "Toilet, Bath, and Laundry Accessories",
+        "basis": "scope_doc",
+        "rationale": "Cited by ITB-074; Henri prices toilet accessories at $12,021, some OFCI.",
+        "manual_pages": "256-259",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-10-specialties.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "10 21 00": {
+        "title_per_scope_doc": "Toilet Compartments",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet Compartments, a child of the cited number. Cite the published number.",
+        "carried_by": "ITB-074",
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 10 21 00. Put the words \"Toilet Compartments\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": [
+          "10 21 13.13"
+        ]
+      },
+      "10 44 13": {
+        "title_per_scope_doc": "Fire Protection Cabinets",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Fire Protection Cabinets. Absent, though ITB-074's title carries fire protection specialties and Henri's quote prices 'FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES -- furnished and installed -- $6,313'. The bidders priced work that has no spec section.",
+        "carried_by": "ITB-074",
+        "ownership_ruling": "ITB-074 owns the fire protection cabinets.",
+        "how_to_write_it": "Do NOT cite 10 44 13. Put the words \"Fire Protection Cabinets\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A2-40",
+        "title": "PARTITION SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A2-40.txt"
+      },
+      {
+        "sheet": "A5-10",
+        "title": "EXTERIOR ELEVATIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A5-10.txt"
+      },
+      {
+        "sheet": "A9-10",
+        "title": "ENLARGED PLANS - RESTROOMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-10.txt"
+      },
+      {
+        "sheet": "A9-11",
+        "title": "ENLARGED PLANS - RESTROOMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-11.txt"
+      },
+      {
+        "sheet": "A9-20",
+        "title": "ENLARGED PLANS - CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-20.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "LS1-10",
+        "title": "CODE AND EXITING PLAN",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/LS1-10.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-20",
+      "A10-10",
+      "A10-30",
+      "A11-10",
+      "A2-10",
+      "E0-02",
+      "E0-11",
+      "E0-13",
+      "L1.04",
+      "P0-05",
+      "S3-00",
+      "S4-00"
+    ]
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "Henri",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri (descope).pdf.txt",
+      "current_date": "2026-05-19",
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri.pdf.txt"
+      ],
+      "kind": "descope",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "Backing (Layout and Installation), Caulking, Fillers, Recessed Openings,",
+        "Cutouts, Electrical, and Pipe Wraps",
+        "Acceptance of Proposal - The above prices, specifications and conditions are satisfactory and are hereby accepted.  Your are authorized to do the work as specified.  Payment will be made as",
+        "outlined above",
+        "All materials are guaranteed to be as noted.  All work is to be completed in a workmanlike manner according to standard practices.  Any alteration or deviation from",
+        "above specifications involving extra costs will be executed only upon written orders, and will become an extra charge over and above the estimate.  All agreements",
+        "contingent upon strikes, accidents, or delays beyond our control.  Owners to carry fire, tornado and other  necessary insurance.  Our workers are fully covered by",
+        "workmen\u2019s compensation insurance",
+        "Note: This proposal may be withdrawn by us if not accepted within   30     days.",
+        "280 ORVILLE WRIGHT CT  LAS VEGAS, NV 89119",
+        "NEVADA STATE CONTRACTORS LICENSE #7673C",
+        "Bid Quotation"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [
+        "TOILET PARTITIONS \u2014 FURNISHED AND INSTALLED, TAX INCLUDED \u2014 $28,982.00",
+        "TOILET ACCESSORIES \u2014 FURNISHED AND INSTALLED, TAX INCLUDED \u2014 $12,021.00",
+        "FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES \u2014 FURNISHED AND INSTALLED, TAX INCLUDED \u2014 $6,313.00",
+        "CORNER GUARDS \u2014 FURNISHED AND INSTALLED, TAX INCLUDED \u2014 $2,422.00",
+        "METAL LOCKERS \u2014 FURNISHED AND INSTALLED, TAX INCLUDED \u2014 $35,765.00"
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Includes corner guards at 4 feet AFF."
+    ],
+    "possibly_relevant_exclusions": [
+      "Cost and/or schedule-related impacts from other projects in the adjacent streets, roadways, alleyways, and neighboring buildings unless covered elsewhere in the Proposal. If other Projects are concurrent with CMAR's work, Owner shall strive to advise CMAR within 10 calendar days in an effort to mitigate cost- and schedule-related impacts.",
+      "Existing ES - Abatement of buildings to remain.",
+      "Demolition of existing underground utilities, except within building footprint, unless specified on Utility plans",
+      "Exterior building murals",
+      "Trash receptacles at Restrooms or elsewhere in buildings"
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 8,
+      "id": "SPEC-C03",
+      "severity": "high",
+      "title": "10 26 00 Wall and Door Protection \u2014 claimed by more than one scope doc",
+      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074."
+    }
+  ]
+}

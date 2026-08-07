@@ -1,0 +1,724 @@
+{
+  "_package_id": "RFP-060",
+  "_title": "Framing, Drywall & Painting (incl. FRP)",
+  "_title_variants_in_source": [
+    "Framing, Drywall & Painting"
+  ],
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": {
+    "lead": "RFP-060",
+    "members": [
+      "RFP-060",
+      "ITB-044",
+      "ITB-062",
+      "ITB-077"
+    ],
+    "ruling_date": "2026-08-06",
+    "ruling": "RFP-060 will include ITB-044 Insulation, ITB-062 Acoustical Ceiling Treatments and ITB-077 Lockers. Each scope is written independently -- one Attachment A per package, all attached to the one subcontract.",
+    "drafting": "Draft this package's exhibit on its own scope only. Do not absorb the other members' scope into it and do not exclude their scope from it; they are separate exhibits under the same agreement."
+  },
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "05 40 00",
+        "title": "Cold Formed Steel Framing",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-060 -- cold-formed framing is the framer's.",
+        "manual_pages": "172-175",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-05-metals.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "06 83 16",
+        "title": "Fiberglass Reinforced Paneling",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-060, whose title carries FRP.",
+        "manual_pages": "180-181",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-06-wood-plastics-composites.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "08 31 00",
+        "title": "Access Doors and Panels",
+        "basis": "pm_ruling",
+        "rationale": "PM ruling 07.31.26: access doors and panels are supplied by the MEP trades and installed by the RFP-060 framer. RFP-098, RFP-100 and RFP-103 each cite this section -- that is the supply obligation, and each of their subcontracts must carry it. Installation sits with RFP-060, whose scope doc cites the same work as '08 31 13 - Access Doors and Panels'; the manual publishes it as 08 31 00.",
+        "manual_pages": "204-205",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-08-openings.pdf",
+        "conflict": false,
+        "also_cited_by": [
+          "RFP-098",
+          "RFP-100",
+          "RFP-103"
+        ]
+      },
+      {
+        "section": "09 21 16",
+        "title": "Gypsum Board Assemblies",
+        "basis": "trade_judgment",
+        "rationale": "Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly.",
+        "manual_pages": "214-219",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+        "conflict": true,
+        "also_cited_by": [
+          "ITB-077"
+        ]
+      },
+      {
+        "section": "09 91 13",
+        "title": "Exterior Painting",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-060.",
+        "manual_pages": "228-235",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "09 91 23",
+        "title": "Interior Painting",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-060.",
+        "manual_pages": "236-241",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "09 96 50",
+        "title": "Anti-Graffiti Coatings",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-060. Its Part 3 requires a water repellent to be applied first; the referenced 07 19 00 is absent from this manual -- open item.",
+        "manual_pages": "242-245",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "09 97 23",
+        "title": "Concrete and Masonry Coatings",
+        "basis": "trade_judgment",
+        "rationale": "Concrete and masonry coatings are applied by the painter.",
+        "manual_pages": "246-247",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "08 31 13": {
+        "title_per_scope_doc": "Access Doors and Panels",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Access Doors and Panels. 08 31 00 is the published number for the same title. Near-certain renumbering.",
+        "carried_by": "RFP-060",
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 08 31 13. Put the words \"Access Doors and Panels\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": [
+          "08 31 00"
+        ]
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "A10-10",
+        "title": "ROOM FINISH SCHEDULE AND FINISH PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A10-10.txt"
+      },
+      {
+        "sheet": "A10-30",
+        "title": "INTERIOR ELEVATIONS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A10-30.txt"
+      },
+      {
+        "sheet": "A11-10",
+        "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A11-10.txt"
+      },
+      {
+        "sheet": "A2-10",
+        "title": "FLOOR PLAN AND RCP",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A2-10.txt"
+      },
+      {
+        "sheet": "A2-40",
+        "title": "PARTITION SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A2-40.txt"
+      },
+      {
+        "sheet": "A4-10",
+        "title": "ROOF PLAN AND BUILDING SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-10.txt"
+      },
+      {
+        "sheet": "A4-20",
+        "title": "ROOF DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-20.txt"
+      },
+      {
+        "sheet": "A5-10",
+        "title": "EXTERIOR ELEVATIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A5-10.txt"
+      },
+      {
+        "sheet": "A7-10",
+        "title": "WALL SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A7-10.txt"
+      },
+      {
+        "sheet": "A9-10",
+        "title": "ENLARGED PLANS - RESTROOMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-10.txt"
+      },
+      {
+        "sheet": "A9-11",
+        "title": "ENLARGED PLANS - RESTROOMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-11.txt"
+      },
+      {
+        "sheet": "A9-20",
+        "title": "ENLARGED PLANS - CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A9-20.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "E0-01",
+        "title": "ELECTRICAL GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-01.txt"
+      },
+      {
+        "sheet": "E0-10",
+        "title": "TECHNOLOGY GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-10.txt"
+      },
+      {
+        "sheet": "E0-12",
+        "title": "TECHNOLOGY DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-12.txt"
+      },
+      {
+        "sheet": "LS1-10",
+        "title": "CODE AND EXITING PLAN",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/LS1-10.txt"
+      },
+      {
+        "sheet": "M0-00",
+        "title": "MECHANICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-00.txt"
+      },
+      {
+        "sheet": "M0-10",
+        "title": "MECHANICAL DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/M0-10.txt"
+      },
+      {
+        "sheet": "P0-05",
+        "title": "PLUMBING SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-05.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      },
+      {
+        "sheet": "S2-10",
+        "title": "FOUNDATION AND ROOF FRAMING PLAN -CONCESSIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S2-10.txt"
+      },
+      {
+        "sheet": "S4-00",
+        "title": "TYPICAL MASONRY SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S4-00.txt"
+      },
+      {
+        "sheet": "S4-01",
+        "title": "FRAMING DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S4-01.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "AD1.15",
+      "G0-00",
+      "G0-11",
+      "P4-10"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Framing, Drywall & Painting (incl. FRP)",
+    "awarded_sub": "Jetstream Construction",
+    "license_no": "0043791 / 0050479",
+    "proposal_price": 257848.0,
+    "proposal_file": "061 Framing Drywall & Painting - Jetstream (w backup).pdf",
+    "other_bidders": [
+      "Division 09",
+      "M&H Building Specialties"
+    ],
+    "descope_files_present": true,
+    "descope_file_hint": "061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf; (R1, Descoped).pdf; (R2, Descope ALTs).pdf",
+    "status": "awarded",
+    "note": "Source folder/files use package number '061' -- package_id in CLAUDE.md is RFP-060. Same package, numbering drift between RFP list and file naming; doc-indexer must reconcile."
+  },
+  "bidders": [
+    {
+      "firm": "Division 09",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Division 09 (no backup or Form).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 180942,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "Structural work",
+        "Millwork. Soffit work. Exterior work",
+        "After-hours, holidays or phased work unless specifically noted",
+        "Removal or relocation of electrical, mechanical, fire alarm, fire sprinkler, data or plumbing systems",
+        "Hazardous materials including asbestos, lead, mold, silica (testing, abatement, or disposal)",
+        "Fire-rated assemblies unless specifically indicated in scope",
+        "Work not specifically shown on concept and buildout overview or described in this proposal",
+        "Any work not expressly described herein is excluded. Any conditions concealed or not visible at time of bid may",
+        "result in additional cost and time. Any work not specifically in this scope of work shall be excluded and will only be",
+        "performed upon receipt of written and fully executed agreement or approved change of order between the",
+        "parties.",
+        "#062 Acoustic Ceilings Treatments",
+        "#060 Framing, Metal Studs, Drywall, Painting",
+        "#044 Insulation Interior",
+        "#056 Doors, Frames, Hardware",
+        "7787 EASTGATE RD #110   HENDERSON, NV  89011",
+        "702.969.8896    WWW.DIVISION-09.COM",
+        "NV C3 0086082   C4 0086084   C20 0086083   LIMIT $2M",
+        "DIVISION 09",
+        "Angelo Carvalho",
+        "General Manager"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Jetstream Construction, Inc",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf.txt",
+      "current_date": "2026-05-21",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Jetstream (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Jet Stream Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream Homeowork Response.pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R1, Descoped).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R2, Descope ALTs).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R2, Descope ALTs).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R3, Descope ALTs).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R4, Descope ALTs).pdf.txt"
+      ],
+      "kind": "descope",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Jetstream (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [
+            "05 40 40 Cold-Formed Metal Framing",
+            "06 83 16 Fiberglass Reinforced Paneling (FRP per plan)",
+            "07 21 00 Thermal Insulation (Rigid board insulation, In wall insulation, Insulation at roof deck per plan)",
+            "09 21 16 Gypsum Wallboard (Includes Sound caulking T&B of walls only, Fiber faced board at wet areas per plan)",
+            "09 51 00 Acoustical Ceilings",
+            "09 91 13 Exterior Painting (EPT-2 per plans exterior of new concessions building)",
+            "09 91 23 Interior Painting (Included 1 coat primer 2 coats finish)",
+            "Daily clean up included.",
+            "Level 4 Orange-peel Finish",
+            "Includes Installation of HM door frames in metal framed walls only.",
+            "WE PROPOSE hereby to furnish the above referenced labor and material for the sum of:",
+            "Break out Install of prefab bleachers, ticket booth and press box (included in price above)\u2026$29,879.00",
+            "Specific Scope: Paint",
+            "Painting of all gyp board walls and ceilings, Painting of Hollow Metal doors/frames, Painting at Exterior concessions building.",
+            "Paint Exclusions: signs, signage, graphics, staining of any and all items, curbing, traffic and parking Striping Paint. Concrete",
+            "Sealer.",
+            "Specific Exclusions: Please Read",
+            "All wood other than noted above, Rain Screen Panels, Fire blocking, Overtime, Dumpsters, Break Metal, Rigid Insulation,",
+            "Cover board, Bent plate at slab edge, Fire stopping, Fire Caulking and Sound Caulking of penetrations, All metal flashing,",
+            "Gyp Board integral with roofing, L brackets at Counters, Temp Walls, Demolition of any kind, Gauged steel, Grouting of HM"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Jet Stream Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-19",
+          "inclusions": [
+            "Includes rigid insulation at exterior walls per RFI response",
+            "Assumed fluid barrier per 6-02 A4.10",
+            "Assume R38 roof insulation",
+            "Assume exterior ceiling for restroom vestibule.",
+            "Includes painting conduit, HMD, and interior seals",
+            "Assume gypbaord to deck with sound caulking",
+            "Assumes level 4 drywall orange peel finish",
+            "CORE to clarify finish \u201cSplater texture.\u201d",
+            "Includes soffit framing at exterior",
+            "Includes backing",
+            "Includes \u201cA\u201d walls to be insulated",
+            "Includes framing for access panels",
+            "Includes markerboards",
+            "Includes second coat of paint",
+            "Includes prevailing wage and zone pay"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes footings for alternates",
+            "Excludes air barrier",
+            "Excludes exterior caulking"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "M&H Building Speacialties",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/M&H Homework Response.pdf.txt",
+      "current_date": "2026-05-22",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [
+        "Metal Framing & Drywall ............................................................................................................................... $182,189.00",
+        "Acoustical Ceilings .......................................................................................................................................... $18,981.00",
+        "FRP Panels...................................................................................................................................................... $26,954.00",
+        "Painting & Finishes .......................................................................................................................................... $47,135.00",
+        "Metal Framing & Drywall:",
+        "1. Frame new exterior soffits as shown",
+        "2. Frame new interior walls, ceilings and soffits as shown",
+        "3. Frame metal stud jambs and headers as shown",
+        "4. Furnish and install 6\u201d metal backing for grab bars, toilet accessories",
+        "5. Install access doors (supplied by others)",
+        "6. Acoustical sealant at base of wall",
+        "7. Furnish and install 5/8\u201d Type X drywall throughout",
+        "8. Furnish and install 5/8\u201d  Dens Shield at walls scheduled to receive FRP",
+        "9. Furnish and install 5/8\u201d Dens Glass sheathing at exterior soffits",
+        "10. Level 3 finish throughout, fire tape above ceilings",
+        "11. All exposed drywall to receive splatter texture",
+        "Acoustical Ceilings:",
+        "1. Furnish and install Armstrong 2712 Dune 2 x 4 tile with standard 15/16\u201d white grid",
+        "2. Furnish and install Armstrong 870 Cleanroom VL 2 x 4 tile with standard 15/16\u201d white grid",
+        "3. Furnish and install two (2) wires per light fixture within ACT ceiling system",
+        "4. Based on being able to attach directly to deck above",
+        "FRP Panels:",
+        "1. Furnish and install white textured FRP panels with matching vinyl trims in Kitchen 8\u2019 AFF",
+        "2. Furnish and install drak grey textured FRP panels with matching vinyl trims in restrooms 8\u2019 AFF",
+        "Painting & Finishes:",
+        "1. Utilization of Sherwin Williams paint products",
+        "2. All painting to be done before acoustical ceilings, millwork, wood doors and fixtures are installed",
+        "3. Paint exposed drywall walls and ceilings (1 coat primer followed by finish coats)",
+        "4. Paint of hollow metal doors and frames",
+        "5. Paint of exposed deck (1 color \u2013 All items are to be installed within the open ceiling prior to painting",
+        "of exposed structure)",
+        "6. Anti-graffiti coating at exterior CMU of concession/restroom building"
+      ],
+      "exclusions_scope_specific": [
+        "1. Climate control of building or site",
+        "2. Remobilization due to delays by other trades",
+        "3. Dumpsters, debris haul-off and associated fees",
+        "4. Parking fees",
+        "5. Temporary utilities for construction",
+        "6. Overtime, night or weekend work",
+        "7. Repair of damage by other trades",
+        "8. Bonding costs",
+        "9. Engineering and shop drawings for light gauge framing",
+        "10. Firesafing/firecaulking",
+        "11. Sound or thermal insulation at walls and roof structure",
+        "12. Rigid insulation or Z furring",
+        "13. Acoustic caulking at top of wall or MEP penetrations",
+        "14. Caulking and backer rod at dissimilar surfaces",
+        "15. Waterproofing membrane or vapor barrier",
+        "16. Metal flashing at any location",
+        "17. Wood framing, blocking, sub-tops or nailers for roof coping",
+        "18. Access panels",
+        "19. G90 galvanized coatings",
+        "20. Non-gauge miscellaneous steel",
+        "21. Support wires for MEP items",
+        "22. Unistrut support systems",
+        "23. Expansion joints and covers",
+        "24. Cornerguards \u2013 See alternate",
+        "25. Install of signage or graphics",
+        "26. Floor finishes or sealers",
+        "27. Painting of metal roof coping or flashing",
+        "This proposal shall be incorporated into and become a part of a standard construction contract document by addendum,",
+        "attachment or exhibit for the purpose of defining inclusions, exclusions and qualifications. We reserve the right of refusal",
+        "to accept any contract for scope of work less than the complete base bid total. This proposal is based on a mutually",
+        "developed and agreed upon construction schedule with all activities being performed in a logical sequence. Any changes to",
+        "the schedule which result in work that is out of sequence shall incur additional costs. All building lay-out control lines and",
+        "elevation benchmarks and MEP locations shall be provided by the General Contractor. Any touch-up of paint after final",
+        "coat will incur additional costs. This proposal provides for remediation of deficiencies in Work for one (1) Punch-list as",
+        "prepared by the Owner. Any and all additional punch-list work will incur additional costs and time. M&H Building",
+        "Specialties accepts no responsibility for delays or associated costs for trade damage to our finished work, MEP inspection",
+        "delays, Owner changes or GC changes to the contract documents.",
+        "Nevada Contractor\u2019s License Numbers",
+        "Carpenters 0015400 Type C-3, Painters 0041010 Type C-4, and Plasterers 0051255 Type C-17, each classed as Unlimited"
+      ],
+      "clarifications": [
+        "1. This proposal has been priced based on a start date of 2/8/27 with a duration of 7 months",
+        "2. Work is figured to be done during normal business hours",
+        "3. All equipment, lifts and hoisting necessary to complete our scopes of work are included",
+        "4. Delegated design engineering for light gauge framing is not included",
+        "5. Layout is included for our scopes of work only",
+        "3084 South Highland Drive, Suite E, Las Vegas, Nevada 89109       Phone: (702) 385-3168"
+      ],
+      "priced_line_items": [
+        "ADD Alternates",
+        "ADD   $21,018.00",
+        "DEDUCT   ($2000.00)",
+        "ADD   $5,351.00",
+        "DEDUCT  ( $1,823.00)",
+        "ADD   $26,248.00"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-19",
+          "inclusions": [
+            "Assume full height walls",
+            "Assume level 3 finish with splatter",
+            "Assume dense glass at exterior restroom vestibule",
+            "Clean room ACT included",
+            "Assumed 8ft FRP height",
+            "Provide a 9ft sheet",
+            "Includes ACT",
+            "Includes exterior soffit",
+            "Includes backing",
+            "Includes acoustic caulking at all walls",
+            "Includes level 4 orange peel finish",
+            "Includes wire for fixtures",
+            "Includes anti-graffiti",
+            "Includes paint",
+            "Includes beauty caulking interior",
+            "Includes hatch channel per RFI response"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes mural",
+            "Excludes CMU caulking",
+            "Excludes insulation",
+            "Excludes sealed concrete"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "M & H Building Specialties",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - M & H (w backup).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 275259,
+      "inclusions": [
+        "Metal Framing & Drywall ............................................................................................................................... $182,189.00",
+        "Acoustical Ceilings .......................................................................................................................................... $18,981.00",
+        "FRP Panels...................................................................................................................................................... $26,954.00",
+        "Painting & Finishes .......................................................................................................................................... $47,135.00",
+        "Metal Framing & Drywall:",
+        "1. Frame new exterior soffits as shown",
+        "2. Frame new interior walls, ceilings and soffits as shown",
+        "3. Frame metal stud jambs and headers as shown",
+        "4. Furnish and install 6\u201d metal backing for grab bars, toilet accessories",
+        "5. Install access doors (supplied by others)",
+        "6. Acoustical sealant at base of wall",
+        "7. Furnish and install 5/8\u201d Type X drywall throughout",
+        "8. Furnish and install 5/8\u201d  Dens Shield at walls scheduled to receive FRP",
+        "9. Furnish and install 5/8\u201d Dens Glass sheathing at exterior soffits",
+        "10. Level 3 finish throughout, fire tape above ceilings",
+        "11. All exposed drywall to receive splatter texture",
+        "Acoustical Ceilings:",
+        "1. Furnish and install Armstrong 2712 Dune 2 x 4 tile with standard 15/16\u201d white grid",
+        "2. Furnish and install Armstrong 870 Cleanroom VL 2 x 4 tile with standard 15/16\u201d white grid",
+        "3. Furnish and install two (2) wires per light fixture within ACT ceiling system",
+        "4. Based on being able to attach directly to deck above",
+        "FRP Panels:",
+        "1. Furnish and install white textured FRP panels with matching vinyl trims in Kitchen 8\u2019 AFF",
+        "2. Furnish and install drak grey textured FRP panels with matching vinyl trims in restrooms 8\u2019 AFF",
+        "Painting & Finishes:",
+        "1. Utilization of Sherwin Williams paint products",
+        "2. All painting to be done before acoustical ceilings, millwork, wood doors and fixtures are installed",
+        "3. Paint exposed drywall walls and ceilings (1 coat primer followed by finish coats)",
+        "4. Paint of hollow metal doors and frames",
+        "5. Paint of exposed deck (1 color \u2013 All items are to be installed within the open ceiling prior to painting",
+        "of exposed structure)",
+        "6. Anti-graffiti coating at exterior CMU of concession/restroom building"
+      ],
+      "exclusions_scope_specific": [
+        "1. Climate control of building or site",
+        "2. Remobilization due to delays by other trades",
+        "3. Dumpsters, debris haul-off and associated fees",
+        "4. Parking fees",
+        "5. Temporary utilities for construction",
+        "6. Overtime, night or weekend work",
+        "7. Repair of damage by other trades",
+        "8. Bonding costs",
+        "9. Engineering and shop drawings for light gauge framing",
+        "10. Firesafing/firecaulking",
+        "11. Sound or thermal insulation at walls and roof structure",
+        "12. Rigid insulation or Z furring",
+        "13. Acoustic caulking at top of wall or MEP penetrations",
+        "14. Caulking and backer rod at dissimilar surfaces",
+        "15. Waterproofing membrane or vapor barrier",
+        "16. Metal flashing at any location",
+        "17. Wood framing, blocking, sub-tops or nailers for roof coping",
+        "18. Access panels",
+        "19. G90 galvanized coatings",
+        "20. Non-gauge miscellaneous steel",
+        "21. Support wires for MEP items",
+        "22. Unistrut support systems",
+        "23. Expansion joints and covers",
+        "24. Cornerguards \u2013 See alternate",
+        "25. Install of signage or graphics",
+        "26. Floor finishes or sealers",
+        "27. Painting of metal roof coping or flashing",
+        "This proposal shall be incorporated into and become a part of a standard construction contract document by addendum,",
+        "attachment or exhibit for the purpose of defining inclusions, exclusions and qualifications. We reserve the right of refusal",
+        "to accept any contract for scope of work less than the complete base bid total. This proposal is based on a mutually",
+        "developed and agreed upon construction schedule with all activities being performed in a logical sequence. Any changes to",
+        "the schedule which result in work that is out of sequence shall incur additional costs. All building lay-out control lines and",
+        "elevation benchmarks and MEP locations shall be provided by the General Contractor. Any touch-up of paint after final",
+        "coat will incur additional costs. This proposal provides for remediation of deficiencies in Work for one (1) Punch-list as",
+        "prepared by the Owner. Any and all additional punch-list work will incur additional costs and time. M&H Building",
+        "Specialties accepts no responsibility for delays or associated costs for trade damage to our finished work, MEP inspection",
+        "delays, Owner changes or GC changes to the contract documents.",
+        "Nevada Contractor\u2019s License Numbers",
+        "Carpenters 0015400 Type C-3, Painters 0041010 Type C-4, and Plasterers 0051255 Type C-17, each classed as Unlimited"
+      ],
+      "clarifications": [
+        "1. This proposal has been priced based on a start date of 2/8/27 with a duration of 7 months",
+        "2. Work is figured to be done during normal business hours",
+        "3. All equipment, lifts and hoisting necessary to complete our scopes of work are included",
+        "4. Delegated design engineering for light gauge framing is not included",
+        "5. Layout is included for our scopes of work only",
+        "3084 South Highland Drive, Suite E, Las Vegas, Nevada 89109       Phone: (702) 385-3168"
+      ],
+      "priced_line_items": [
+        "ADD Alternates",
+        "ADD   $21,018.00",
+        "DEDUCT   ($2000.00)"
+      ],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Included R10 2\" rigid insulation at exterior walls of concessions building.",
+      "Included R38 insulation at underside of roof deck."
+    ],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 7,
+      "id": "SPEC-C02",
+      "severity": "high",
+      "title": "09 21 16 Gypsum Board Assemblies \u2014 claimed by more than one scope doc",
+      "detail": "Assigned to RFP-060 (trade_judgment); also cited by ITB-077. Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly."
+    },
+    {
+      "n": 8,
+      "id": "SPEC-C03",
+      "severity": "high",
+      "title": "10 26 00 Wall and Door Protection \u2014 claimed by more than one scope doc",
+      "detail": "Assigned to ITB-074 (trade_judgment); also cited by RFP-060. Both ITB-074 and RFP-060 cite it. ITB-074's title carries corner guards and Henri's quote prices them at $2,422; RFP-060's citation is the wall it mounts to. CONFIRMED by PM 08.06.26 (A3): included in ITB-074."
+    },
+    {
+      "n": 17,
+      "id": "BID-B03",
+      "severity": "medium",
+      "title": "Division 09 bid ITB-044, ITB-056, ITB-062, RFP-060 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    }
+  ]
+}

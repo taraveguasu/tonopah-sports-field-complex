@@ -1,0 +1,2512 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+Geotechnical Evaluation  
+Tonopah High School Sports Complex 
+1 Ray Tennant Drive 
+Tonopah, Nevada 
+Nye County School District  
+1 Ray Tennant Drive  |  Tonopah, Nevada 89049 
+January 21, 2025  |  Project No. 305250001 
+ 
+Geotechnical  |  Environmental  |  Construction Inspection & Testing  |  Forensic Engineering & Expert Witness 
+ 
+Geophysics  |  Engineering Geology  |    Laboratory Testing  |  Industrial Hygiene  |  Occupational Safety  |  Air Quality  |  GIS 
+ 
+
+
+===== PAGE 2 =====
+6700 Paradise Road, Suite E  |  Las Vegas, Nevada 89119  |  p. 702.433.0330  |  www.ninyoandmoore.com
+Geotechnical Evaluation 
+Tonopah High School Sports Complex
+1 Ray Tennant Drive
+Tonopah, Nevada 
+Mr. Nate Cardinal 
+Nye County School District 
+1 Ray Tennant Drive  |  Tonopah, Nevada 89049 
+January 21, 2025  |  Project No. 305250001 
+Alex Arndt, PE 
+Senior Project Engineer 
+Brad Olsen, PE 
+Principal Engineer 
+AMA/BLO/cas 
+Alex 
+Arndt
+Digitally signed 
+by Alex Arndt 
+Date: 
+2025.01.22 
+15:14:54 -08'00'
+
+
+===== PAGE 3 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 21, 2025      
+i 
+ 
+CONTENTS 
+ 
+1 
+INTRODUCTION 
+1 
+2 
+SCOPE OF SERVICES 
+1 
+3 
+PROJECT DESCRIPTION 
+1 
+4 
+GENERAL SITE CONDITIONS 
+2 
+5 
+GEOLOGY 
+2 
+5.1 
+Geologic Setting 
+2 
+5.2 
+Potential Geologic Hazards 
+2 
+5.3 
+Ground Motions 
+3 
+5.4 
+Liquefaction Potential 
+4 
+6 
+FIELD EXPLORATION AND SUBSURFACE CONDITIONS 
+4 
+6.1 
+Subsurface Soil Encountered 
+5 
+6.1.1 
+Fill 
+5 
+6.1.2 
+Native Soil 
+5 
+6.2 
+Laboratory Testing 
+5 
+6.3 
+Groundwater 
+6 
+6.4 
+Refraction Microtremor (ReMi) Survey 
+6 
+7 
+FINDINGS AND CONCLUSIONS 
+6 
+8 
+RECOMMENDATIONS 
+7 
+8.1 
+Demolition 
+7 
+8.2 
+Earthwork 
+7 
+8.2.1 
+Site Grading 
+7 
+8.2.2 
+Structural Fill 
+8 
+8.2.3 
+Import Soils 
+9 
+8.2.4 
+Temporary Excavations 
+9 
+8.3 
+Structure Foundations 
+10 
+8.4 
+Settlement 
+10 
+8.5 
+Drilled Pier Foundations 
+10 
+8.6 
+Lateral Earth Pressures 
+11 
+8.7 
+Concrete Slab-On-Grade Floors 
+12 
+
+
+===== PAGE 4 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 21, 2025
+ii 
+8.8
+Exterior Concrete Flatwork 
+12
+8.9
+Construction in Cold or Wet Weather 
+13
+8.10
+Concrete and Corrosion Considerations 
+14
+8.11
+Moisture Infiltration Reduction and Surface Drainage 
+15
+8.12
+Observation and Testing 
+15
+8.13
+Plan Review 
+16
+8.14
+Pre-Construction Meeting 
+16
+9
+LIMITATIONS
+16
+10
+REFERENCES
+18
+TABLES 
+Table 1 – Principal Quaternary Faults in Vicinity of Project Site 
+3 
+Table 2 – Seismic Design Criteria 
+3 
+Table 3 – Summary of Laboratory Test Results 
+5 
+FIGURES   
+1 – Site Location   
+2 – Boring Locations 
+APPENDICES 
+A – Boring Logs 
+B – Laboratory Test Results 
+C – Chemical Test Results 
+D – ReMi Survey Results 
+E – General Drilled Shaft Recommendations 
+
+
+===== PAGE 5 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+1 
+1 
+INTRODUCTION 
+In accordance with your request, Ninyo & Moore has performed a geotechnical evaluation for the 
+proposed Tonopah High School Sports Complex project to be constructed at the existing Tonopah 
+High School football field in Tonopah, Nevada. The approximate location of the site is indicated 
+on Figure 1. The purposes of our geotechnical study were to evaluate subsurface soil conditions 
+at the project site and to provide design and construction recommendations regarding 
+geotechnical aspects of the project. This report presents the findings of our subsurface 
+exploration, results of laboratory testing, conclusions regarding subsurface conditions at the 
+project site, and geotechnical recommendations for design and construction of this project. 
+2 
+SCOPE OF SERVICES 
+The scope of our services included the following:  
+
+Review of pertinent background information, including in-house geotechnical data, previous
+geotechnical evaluation reports for nearby sites, aerial photographs, and published regional
+and local geologic maps and soils data.
+
+Coordination and mobilization for subsurface exploration. Mark-out of existing utilities was
+conducted through Underground Service Alert.
+
+Drilling, logging, and sampling of three exploratory borings to depths up to approximately
+21.5 feet. The purpose of the soil borings was to evaluate the subsurface soil conditions, and
+to obtain soil samples for laboratory testing.
+
+Performance of laboratory tests to evaluate the geotechnical characteristics of the subsurface
+soils, including in-place moisture content and density, gradation, Atterberg limits (plasticity),
+and chemical considerations, including sodium content, sulfate content, sodium sulfate
+content, chloride content, and solubility.
+
+Compilation and analysis of the field and laboratory data.
+
+Preparation of this report presenting our findings, conclusions, and recommendations.
+3 
+PROJECT DESCRIPTION 
+We understand that this project includes design and construction of a new single-story restroom 
+and concession building, new home team bleachers, and a press box structure. The new 
+concession building will be approximately 2,800 square feet in size. The buildings will be of wood-
+frame, steel frame, or structural masonry construction supported by conventional foundations with 
+concrete slab-on-grade floors. Structural loads are anticipated to be relatively low for the project. 
+Other improvements may include concrete flatwork/sidewalks, 35- to 40-foot tall flagpoles, and 
+50-foot tall sports light poles.
+
+
+===== PAGE 6 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+2 
+4 
+GENERAL SITE CONDITIONS 
+At the time of our field activities, the project site was developed with as an existing football field 
+area surrounded by a running track. An existing concession building on the north end of the site, 
+and existing bleachers were located on the east and west ends of the site. High mast light poles 
+were located periodically around the outside of the football field. The site was primarily bordered 
+on all sides by undeveloped land. The topography at the site slopes gently down from northeast 
+to southwest with a total relief of approximately 20 feet across the site. Indications of underground 
+utilities were not observed at the site. 
+5 
+GEOLOGY 
+Based on our field observations, subsurface exploration, and review of referenced geologic and 
+soils data, the project site is underlain primarily by Tertiary-age formational units and Quaternary-
+age alluvial soil deposits (native soil). Ninyo & Moore’s findings regarding the geologic setting, 
+potential geologic hazards, ground motions, and liquefaction potential at the project site are 
+provided in the following sections 
+5.1 
+Geologic Setting 
+Based on our review of published geologic data, the site vicinity is located in mountainous terrain 
+near Tonopah Summit in San Antonio and Thunder Mountain region, which lies within the Basin 
+and Range physiographic province. The referenced geologic map (Bonham, H.F., and Garside, 
+L.J., 1979) indicates that the subject site is near Heller Butte area, which is composed of Tertiary
+ash-flow tuff and andesitic rock formations. The Siebert Formation, a volcanistic and tuffaceous
+sedimentary rock unit, was also previously mapped in the site area. Overlying alluvial units were
+encountered in our exploratory borings, which were composed of detritus from the nearby
+formational units.
+5.2 
+Potential Geologic Hazards 
+Ninyo & Moore’s geotechnical study included an evaluation of the possible presence of geologic 
+hazards, such as faults and ground fissures, in the site area. This evaluation included visual 
+observation of the site for indications of adverse geologic features and review of published 
+geologic and soils maps and literature, and other data listed in the References section of this 
+report. Referenced geologic data were also reviewed to evaluate seismic activity levels, and 
+associated potential earthquake hazards, for faults in the site vicinity. It should be noted that the 
+fault seismic activity levels provided in this section were obtained/interpreted primarily from United 
+States Geological Survey (USGS, 2025) data.  
+
+
+===== PAGE 7 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+3 
+Based on our review of referenced data, no faults traverse the project site. Surficial disturbance 
+associated with active faulting was not observed at the site during our field evaluation. Table  1 
+lists the principal, known Quaternary faults that may affect the project site. 
+ 1 – Principal Active Faults in Vicinity of Project Site 
+ Table  1 – Principal Active Faults in Vicinity of Project Site 
+Fault Name 
+Approximate Distance From Project Site  
+to Fault (miles) 
+Crescent Dunes Fault 
+1.7 
+Unnamed Fault
+2.2
+Mud Lake-Goldfield Fault 
+4.3 
+Review of the referenced geologic data does not indicate the presence of ground fissures at the 
+project site and no ground fissures were observed during our field activities. 
+5.3 
+Ground Motions 
+Using the American Society of Civil Engineers online hazard tool (ASCE, 2016), estimated 
+maximum considered earthquake spectral response accelerations for short (0.2 second) and long 
+(1.0 second) periods were obtained for the project site which is located at approximately 
+38.0581 degrees north latitude and 117.2123 degrees west longitude. Based on the results of a 
+ReMi survey performed previously for the adjacent elementary school site (see Appendix D), a 
+seismic Site Class C is appropriate for the project site and the parameters in the following table 
+are characteristic of the site for design purposes. 
+2 – eismic Design Criteria 
+Table 2 – Seismic Design Criteria 
+Site Coefficients and Spectral Response Acceleration Parameters 
+Values 
+Site Class 
+C 
+Site Coefficient at 0.2-second Period, Fa
+1.263 
+Site Coefficient at 1.0-second Period, Fv 
+1.5 
+Mapped Spectral Response Acceleration at 0.2-second Period, SS
+0.593g
+Mapped Spectral Response Acceleration at 1.0-second Period, S1 
+0.206g 
+Spectral Response Acceleration at 0.2-second Period Adjusted for Site Class, SMS
+0.749g
+Spectral Response Acceleration at 1.0-second Period Adjusted for Site Class, SM1 
+0.309g 
+Design Spectral Response Acceleration at 0.2-second Period, SDS
+0.499g
+Design Spectral Response Acceleration at 1.0-second Period, SD1 
+0.206g 
+Site Amplification Factor, FPGA
+1.2
+Peak Ground Acceleration, PGA 
+0.257g 
+Modified Peak Ground Acceleration, PGAM
+0.309g
+Seismic Design Category 
+D 
+
+
+===== PAGE 8 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+4 
+ 
+5.4 
+Liquefaction Potential 
+Liquefaction is a phenomenon in which loose, saturated soils lose shear strength under short-
+term (dynamic) loading conditions. Ground shaking of sufficient duration results in the loss of 
+grain-to-grain contact in potentially liquefiable soils due to a rapid increase in pore water pressure, 
+causing the soil to behave as a fluid for a short period of time. 
+To be potentially liquefiable, a soil is typically cohesionless with a grain-size distribution generally 
+consisting of sand and silt. It is generally loose to medium dense and has relatively high moisture 
+content, which is typical near or below groundwater level. The potential for liquefaction decreases 
+with increasing clay and gravel content, but increases as the ground acceleration and duration of 
+shaking increase. Potentially liquefiable soils need to be subjected to sufficient magnitude and 
+duration of ground shaking for liquefaction to occur. 
+Liquefaction typically takes place within the upper 50 feet of the subsurface soil. Groundwater 
+was not encountered in the borings advanced to 21.5 feet. Based on our review of the State of 
+Nevada Well Log Database (DWR, 2025), the estimated depth to groundwater is greater than 65 
+feet in the vicinity of the project site (Well Log No. 1005). Based on this information, liquefaction 
+hazard at the subject site may be considered low. 
+6 
+FIELD EXPLORATION AND SUBSURFACE CONDITIONS 
+Ninyo & Moore's subsurface exploration at the project site was performed on December 19, 2024. 
+This exploration consisted of drilling, logging, and sampling of three exploratory test borings 
+(B-1 through B-3). The borings were drilled with a CME-75 drill rig utilizing 8-inch diameter hollow-
+stem augers. The borings were drilled to depths up to approximately 21.4 feet. The purpose of 
+the borings was to evaluate subsurface conditions at the project site and to collect soil samples 
+for laboratory testing. The elevations of the borings based on Mean Sea Level (MSL) were 
+estimated from Google Earth (Google, 2025) data. Accordingly, the boring elevations that are 
+recorded on the boring logs in Appendix A should be considered approximate. The approximate 
+locations of the borings are shown on Figure 2. 
+Laboratory tests were performed on representative soil samples collected from the borings to 
+evaluate the in-place moisture content and density, gradation, Atterberg limits (plasticity), and 
+chemical (corrosivity) considerations, including sodium content, sulfate content, sodium sulfate 
+content, chloride content, and solubility. The results of the in-place moisture content and density 
+tests are provided on the boring logs in Appendix A. The other laboratory test results and 
+descriptions of testing procedures utilized are presented in Appendix B and Appendix C. 
+
+
+===== PAGE 9 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+5 
+ 
+6.1 
+Subsurface Soil Encountered 
+Generalized descriptions of the subsurface soils encountered in the exploratory borings are 
+provided in the following sections.  
+6.1.1 
+Fill  
+Surficial fill materials were encountered extending to approximately 0.5 feet below the 
+existing ground surface. The encountered fill soils consisted primarily of loose to medium 
+dense poorly graded sand with silt and gravel. 
+6.1.2 
+Native Soil 
+Native soil was encountered below the noted fill and extended to the total depths of our 
+exploratory borings. The encountered native soil consisted primarily of medium dense to very 
+dense, silty/clayey sand with varying amounts of gravel; and medium dense to very dense, 
+poorly graded sand with varying amounts of clay, silt, and gravel. Cobbles and boulders were 
+occasionally encountered in our borings. It should be noted that the soil samples were 
+collected using samplers with an inside diameter of approximately 1.4 to 2.4 inches. 
+Accordingly, in-situ soils may have higher concentrations of gravel, cobbles, and/or boulders 
+than indicated on the boring logs. 
+6.2 
+Laboratory Testing 
+Laboratory tests were performed on representative samples of soil obtained from the exploratory 
+borings. Results of these tests are summarized in the following table and presented in Appendix B 
+and Appendix C. 
+3 – Summary of Laboratory Test Results 
+Table 3 – Summary of Laboratory Test Results 
+Test Type 
+Test Results 
+Remarks 
+Atterberg Limits 
+Liquid Limit 
+Plastic Limit 
+Plasticity Index 
+ 
+NP to 27 
+NP to 20 
+NP to 7 
+ 
+ 
+ 
+Non-plastic to low plasticity 
+Sodium Content 
+0.015 and 0.017 percent 
+-- 
+Sulfates Content 
+0.0017 and 0.013 percent 
+Sulfate Exposure Class S0 
+Sodium Sulfate Content 
+0.0025 and 0.019 percent 
+Low chemical heave potential. 
+Chloride Content 
+0.00068 and 0.0053 percent 
+Low corrosion potential to normal 
+grade steel. 
+Solubility Content 
+0.077 and 0.09 percent 
+Low solubility potential. 
+
+
+===== PAGE 10 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+6 
+ 
+6.3 
+Groundwater 
+Groundwater was not encountered in our borings at the time of drilling. However, very moist 
+conditions were observed near the existing west stands (B-1), and may be attributable to leaky 
+pipes for watering the existing field and landscape areas. Groundwater levels are influenced by 
+seasonal factors, variations in ground surface topography, precipitation, irrigation practices, 
+soil/rock types, groundwater pumping, and other factors and are subject to fluctuations. 
+Evaluation of factors associated with groundwater fluctuations was beyond the scope of this study. 
+6.4 Refraction Microtremor (ReMi) Survey 
+Ninyo & Moore previously performed a geotechnical evaluation for the nearby elementary school 
+site which included performance of a ReMi survey. The results of the previous ReMi survey are 
+presented in Appendix D. 
+7 
+FINDINGS AND CONCLUSIONS 
+Based on the findings of this study, it is our opinion that there are no known geotechnical or 
+geologic conditions that would preclude construction of the proposed project, provided the 
+recommendations presented herein are implemented and appropriate construction practices are 
+followed. Geotechnical design and construction considerations for the proposed project include 
+the following: 
+ 
+Proposed structure foundations may be founded on medium dense to very dense native 
+granular soils, or on adequately placed and compacted structural fill (reworked native or 
+import soils). 
+ 
+Based on the findings of our subsurface evaluation and laboratory test results, native soils 
+encountered in the exploratory excavations should generally be suitable for use as structural 
+fill and backfill. However, it should be anticipated that cobbles and small boulders will be 
+generated during excavation operations for this project. These oversize materials will need to 
+be screened out or broken down/crushed prior to utilization as structural fill and backfill, or 
+exported from the project site. 
+ 
+Cobbles and boulders were encountered in some of our borings, and exposed formational 
+material (bedrock) was observed in the project vicinity. Grading, excavations, and other 
+earthwork activities may be impeded if cobbles, boulders, and/or formational material 
+(bedrock) are encountered. Therefore, rock excavation techniques should be anticipated 
+during grading and excavation operations. 
+ 
+Fill material, was encountered to a depth of approximately 0.5 foot in the exploratory borings 
+performed at the site. 
+ 
+Concrete in contact with soil and which may be exposed to freeze-thaw cycles should have a 
+maximum 0.45 water-to-cement ratio, a 4,500 psi or more 28-day strength, and have a target 
+air content in accordance with table 19.3.3.1 of ACI 318-19 (ACI, 2019). 
+
+
+===== PAGE 11 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+7 
+ 
+ 
+No faults or fissures are anticipated to impact the site 
+ 
+In accordance with the referenced International Building Code (ICC, 2018), the seismic 
+parameters provided in Table 2 in Section 5.3 are characteristic of the site and may be used 
+in design of the proposed construction. 
+ 
+Groundwater was not encountered in the borings and is not anticipated to be a design or 
+construction issue. 
+ 
+Based on the anticipated depth of the groundwater at the site (greater than 65 feet below 
+ground surface), liquefaction hazard is considered to be low. 
+8 
+RECOMMENDATIONS 
+The following sections provide geotechnical recommendations for design and construction of 
+proposed project improvements. 
+8.1 
+Demolition  
+The subject project may include some demolition of existing improvements. Demolition of the 
+existing improvements should include rerouting, removal, or in-place abandonment of 
+underground utilities. Utilities should be adequately capped or rerouted at the project perimeter in 
+accordance with the requirements of the governing authorities and the recommendations of the 
+geotechnical consultant at the time of demolition. Abandoned underground utility pipes under 
+proposed building limits should be removed from the site, or, if the pipes are left in place, they 
+should be filled with flowable fill, such as grout or controlled low strength material (CLSM). The 
+contractor should take adequate precautions when grading the site to reduce the potential for 
+damage to existing utilities that are to remain in service. 
+8.2 
+Earthwork 
+The following subsections provide recommendations for earthwork, including site grading, 
+structural fill and backfill, import soil, excavations, and temporary excavations. 
+8.2.1 
+Site Grading 
+Prior to grading, proposed structure and improvement areas should be cleared of any surface 
+obstructions, debris, organics (including shrubs, trees, and tree roots), and other deleterious 
+material. Materials generated from clearing operations should be removed from the project 
+site for disposal (e.g. at a legal landfill site). 
+
+
+===== PAGE 12 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+8 
+ 
+We recommend that the full depth of any on-site undocumented fill and surficial loose and/or 
+disturbed native soils be removed from proposed structure and improvement areas. These 
+excavated soils may be processed and stockpiled for later use as structural fill or backfill, 
+provided they comply with the recommendations presented in this report. 
+After the removals described above have been made, the exposed native soils should be 
+scarified to approximately 6 inches, moisture-conditioned to approximately optimum moisture 
+content, and compacted to 90 percent relative compaction, as evaluated by American Society 
+for Testing and Materials (ASTM) Standard D 1557. The project’s geotechnical consultant 
+should observe excavation bottoms and areas to receive fill at the time of grading to assess 
+the suitability of the exposed material and to evaluate if removals down to more competent 
+soils are needed. In addition, the project’s geotechnical consultant should observe and test 
+the placement of structural fill when filling in existing wash areas. 
+Surface preparations should extend 5 feet or more beyond the exterior edges of planned 
+structure foundations and 2 feet or more beyond planned exterior concrete flatwork and 
+retaining/screen walls, where practicable. 
+Some shrinkage and bulking should be anticipated when on-site soils are excavated, 
+processed, and compacted. For planning purposes, an estimated shrinkage factor of 
+approximately 10 percent may be used. 
+Cobbles and boulders were encountered in our borings. Accordingly, difficult excavation 
+techniques, including heavy-duty ripper, heavy-duty hoe-ram, heavy-duty trencher or 
+similar equipment, should be anticipated. Additionally, any on-site soils to be reused as 
+structural fill will likely need to be screened to remove over-sized materials, including cobbles 
+and boulders. 
+8.2.2 
+Structural Fill 
+Structural fill soils should not contain significant amounts of organic matter, debris, other 
+deleterious matter, or rocks or hard chunks larger than approximately 4 inches nominal size 
+(oversized material). These soils should have a low solubility potential of 1.5 percent or less 
+as evaluated by Technical Guideline TG-19 (CCDB, 2007), and a very low to low expansion 
+potential (Expansion Index, EI, less than 50, as evaluated by ASTM D 4829) 
+Soils used as structural fill should be moisture-conditioned to approximately optimum 
+moisture content and placed and compacted in uniform horizontal lifts to a relative 
+compaction of 90 percent or more as evaluated by ASTM D 1557. The optimal lift thickness 
+
+
+===== PAGE 13 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+9 
+ 
+of fill will depend on the type of soil and compaction equipment used, but should generally 
+not exceed approximately 8 inches in loose thickness. 
+Earthwork operations should be observed and compaction of structural fill should be tested 
+by the project’s geotechnical consultant. Typically, one field density test should be performed 
+per lift for each approximately 500 square feet of fill placement in structural areas. Additional 
+field tests may also be performed in structural and non-structural areas at the discretion of 
+the geotechnical consultant. 
+8.2.3 Import Soils 
+Import soil should be coarse-grained (50 percent or more retained on the No. 200 sieve) with 
+a low solubility potential of 1.5 percent or less as evaluated by Technical Guideline TG-19 
+(CCDB, 2007), a sulfate content compatible with the on-site soil (less than 0.2 percent), and 
+a very low to low expansion potential (Expansion Index, EI, less than 50, as evaluated by 
+ASTM D 4829). Import soil should not contain significant amounts of organic matter, debris, 
+other deleterious matter, or rocks or hard chunks larger than approximately 4 inches nominal 
+size. We further recommend that proposed import material be evaluated by the project’s 
+geotechnical consultant at the borrow source for its suitability prior to importation to the 
+project site. Import soil should be moisture-conditioned and placed and compacted in 
+accordance with the recommendations set forth in the previous section. 
+8.2.4 
+Temporary Excavations  
+Temporary slope surfaces should be kept moist to retard raveling and sloughing. Water 
+should not be allowed to flow over the top of excavations in an uncontrolled manner. 
+Stockpiled material and/or equipment should be kept back from the top of excavations a 
+distance equivalent to the depth of the excavation or more. Workers should be protected from 
+falling debris, sloughing, and raveling in accordance with Occupational Safety and Health 
+Administration (OSHA) regulations (OSHA, 2016). Temporary excavations should be 
+observed by the project’s geotechnical consultant so that appropriate additional 
+recommendations may be provided based on the actual field conditions. Temporary 
+excavations are time sensitive and failures are possible. 
+In general, based on the soil conditions encountered during our field explorations, OSHA Soil 
+“Type C” classification may be used for excavations at the site. This typically corresponds to 
+temporary slopes of 1.5:1 (Horizontal to Vertical). This side slope inclination is for excavations 
+that are less than 20 feet deep. If material is stored or equipment is operated near an 
+
+
+===== PAGE 14 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+10 
+ 
+excavation, stronger shoring should be used to resist the extra pressure due to superimposed 
+loads. See the referenced regulations (OSHA, 2016) for additional detail. 
+8.3 
+Structure Foundations 
+Structure foundations consisting of spread footings should extend 20 inches or more below the 
+lowest adjacent finished grade (for frost protection) and bear on medium dense to very dense 
+native soils or on adequately placed and compacted structural fill (reworked native or import soils). 
+Structure footings should have a width of 18 inches or more for isolated footings, and a width of 
+12 inches or more for continuous footings. 
+An allowable bearing capacity of 2,200 pounds per square foot (psf) may be used for conventional 
+spread footings with an embedment depth of 20 inches below lowest adjacent finished grade and 
+a width of 12 inches. The allowable bearing capacity may be increased by 300 psf for each 
+additional 1 foot of width and 700 psf for each additional 1 foot of embedment up to 3,200 psf. 
+The allowable bearing capacities, which were developed considering a factor of safety of 2.5, may 
+be increased by one-third for short duration loads, such as wind or seismic. Foundations should 
+be designed and constructed in accordance with the recommendations of a qualified structural 
+engineer. From a geotechnical standpoint, we recommend that footings be reinforced with two 
+No. 4 or larger reinforcing bars, one placed near the top and one near the bottom of the footings. 
+Additional reinforcement may be recommended by the structural engineer. 
+8.4 
+Settlement 
+Based on our evaluation of spread footing bearing capacity, we anticipate that static settlement 
+of foundations will be on the order of 1 inch or less. We estimate static footing differential 
+settlement of about ½-inch over a horizontal span of about 40 feet. 
+8.5 
+Drilled Pier Foundations 
+It is our understanding that relatively shallow drilled pier foundations are being considered for 
+support of proposed flagpole or sports light structures. Drilled pier foundations embedded 
+approximately 8 feet below the adjacent finished grade should be designed based on an allowable 
+skin friction of 100 psf and an allowable end bearing of 3,000 psf. The end bearing value provided 
+is based on the assumption that pier foundations will be approximately 18 to 24 inches in diameter 
+and that the bottom of the pier excavation will be cleaned of loose soil, disturbed soil, or other 
+unsuitable material. The allowable uplift capacity of pier foundations may be computed using 
+70 percent of allowable skin friction. We recommend that the upper 12 inches of soil be neglected 
+when calculating uplift resistance (this assumes that the surficial soils adjacent to pier foundations 
+
+
+===== PAGE 15 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+11 
+ 
+are protected by concrete flatwork). Lateral resistance is presented in Section 8.6. Seismic 
+parameters for design of structures at the site are provided on Table 2 in Section 5.3. 
+Pier excavations should be evaluated visually in the field during construction by the geotechnical 
+consultant. The contractor should make provisions to provide for the integrity of pier excavations 
+and to make sure that excavations are cleaned and relatively straight, and that sloughed, loose, 
+or soft soil is removed from the bottom of excavations prior to the placement of concrete. It is 
+recommended that the pier excavations not be allowed to remain open overnight.  
+Concrete should be placed in pier excavations as soon as practicable after excavation and after 
+evaluation by the geotechnical consultant. Concrete should have an ultimate strength not less 
+than that specified, and should be workable and plastic so that it may be placed without 
+segregation. Concrete should be cast-in-place against undisturbed earth in excavations in such 
+a manner to provide for the exclusion of appreciable amounts of foreign matter in the concrete. 
+Concrete compressive strength and steel reinforcement should be in accordance with 
+recommendations of a qualified structural engineer. In addition, piers should be adequately 
+reinforced for lateral and uplift loads, as recommended by the project structural engineer. 
+The bottom and sidewalls of the foundation excavations should be evaluated in the field during 
+construction by the geotechnical consultant. General drilled pier/shaft recommendations are 
+provided in Appendix E. 
+8.6 
+Lateral Earth Pressures 
+Lateral earth pressures may be estimated using the values provided below. These values are 
+based on our observation of the on-site soils, considered no groundwater, and assume that the 
+ground surface is horizontal for a distance of 10 feet, or three times the height generating the 
+passive pressure, whichever is more. These values also assume that retaining walls will have a 
+height of approximately 6 feet or less. 
+For passive resistance to lateral loads, we recommend a passive lateral earth pressure of 300 psf 
+per foot of depth up to a value of 3,000 psf. We recommend that the upper 12 inches of soil not 
+protected by pavement or a concrete slab be neglected when calculating passive resistance. The 
+passive lateral earth pressure may be increased by one-third when considering loads of short 
+duration such as wind or seismic forces. For active and at-rest lateral earth pressures, we 
+recommend equivalent fluid pressures of 37 pcf and 56 pcf, respectively. In addition, for seismic 
+active lateral earth pressures, an additional equivalent fluid pressure of 7 pcf should be added to 
+the static active equivalent fluid pressure provided herein. 
+
+
+===== PAGE 16 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+12 
+ 
+For frictional resistance to lateral loads, we recommend that a coefficient of friction of 0.41 be 
+used between soil and formed concrete contacts. Passive and frictional resistances may be used 
+in combination. 
+Measures should be taken so that hydrostatic pressure does not build up behind retaining walls. 
+Drainage measures should include free-draining granular backfill material and perforated drain 
+pipes, or weepholes lined with polyvinyl chloride (PVC) pipe. Drain pipes should outlet away from 
+structures and retaining walls should be waterproofed in accordance with the recommendations 
+of a qualified civil engineer. 
+8.7 
+Concrete Slab-On-Grade Floors 
+Concrete slab-on-grade floors should be designed by the project’s structural engineer based on 
+anticipated loading conditions. Ninyo & Moore recommends that conventional concrete slab-on-
+grade floors for this project be founded on 6 inches of Type II Aggregate Base overlying 6 inches 
+or more of adequately placed and compacted structural fill (reworked native or import soils). The 
+structural fill thickness may include 6 inches of scarified and recompacted native soils compacted 
+to 90 percent relative compaction (ASTM D1557).  Aggregate base underlying concrete slab-on-
+grade floors should be compacted to 95 percent or more of the laboratory maximum dry density 
+(ASTM D1557). 
+Floor slabs should be 4 inches or more in thickness and reinforced with No. 3 steel reinforcing 
+bars placed at 24 inches on-center both ways. Reinforcement of the slab should be placed at mid-
+height. We recommend that “chairs” be utilized to aid in the placement of the reinforcement. 
+Increased slab thickness and reinforcement may be recommended by the structural engineer. As 
+a means to reduce shrinkage cracks, we recommend that conventional slab-on-grade floors be 
+provided with control joints in accordance with the recommendations of a qualified structural 
+engineer. Recommendations regarding concrete utilized in construction of floor slabs are provided 
+in Section 8.10. As an alternative to slab reinforcement with steel reinforcing bars, post-tensioned 
+slabs designed by a qualified structural engineer may be considered. 
+8.8 
+Exterior Concrete Flatwork 
+Ground-supported concrete flatwork may be subject to soil-related movements resulting from frost 
+heave/settlement. Thus, where these types of elements abut rigid building foundations or 
+isolated/suspended structures, differential movements should be anticipated. We recommend that 
+flexible joints be provided in this situation to allow for differential movement. 
+
+
+===== PAGE 17 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+13 
+ 
+Exterior concrete flatwork, such as walkways, should be founded on 6 inches of Type II Aggregate 
+Base overlying 6 inches or more of adequately placed and compacted structural fill (reworked 
+native or import soils). The structural fill thickness may include 6 inches of scarified and 
+recompacted native soils compacted to 90 percent relative compaction (ASTM D1557). Type II 
+Aggregate Base should be compacted to 95 percent or more relative compaction, as evaluated 
+by ASTM D1557. 
+To reduce the potential for shrinkage cracks, the flatwork should be constructed with control joints 
+spaced approximately 5 feet apart for walkways and approximately 10 feet on-center each way for 
+larger slabs. Crack control joint spacing should be in accordance with recommendations 
+of a qualified structural engineer. Reduced joint spacing may be recommended by the 
+structural engineer. 
+Formation of shrinkage cracks in concrete slabs, and other cracks due to minor soil movement, 
+may be further reduced by utilizing steel reinforcement, such as welded wire mesh. However, due 
+to the inherent difficulty in positioning welded wire mesh in the middle of concrete flatwork, other 
+crack control methods should be considered, such as placement in the concrete of No. 3 steel 
+reinforcing bars at approximately 24 inches on-center each way. Reinforcement of the flatwork 
+should be placed at approximately mid-height in the concrete utilizing “chairs.” 
+Exterior concrete flatwork, curbs, and gutters should be constructed in accordance with the 
+recommendations of the project’s civil or structural engineer and governing agency requirements. 
+Recommendations regarding concrete utilized in construction of proposed improvements are 
+provided in Section 8.10. 
+8.9 Construction in Cold or Wet Weather 
+During construction, the site should be graded such that surface water can drain readily away 
+from the structure and improvement areas. It is important to avoid ponding of water in or near 
+excavations. Water that accumulates in excavations should be promptly pumped out or otherwise 
+removed and these areas should be allowed to dry out before resuming construction. Berms, 
+ditches, and similar means may be used to decrease stormwater entering the work area and to 
+efficiently convey it to appropriate outlets off site. 
+Earthwork activities undertaken during the cold weather season may be difficult and should be 
+done by an experienced contractor. Fill should not be placed on top of frozen soils. The frozen 
+soils should be removed prior to placement of new engineered fill or other construction material. 
+Frozen soil should not be used as structural fill or backfill. The frozen soil may be reused (provided 
+
+
+===== PAGE 18 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+14 
+ 
+it meets the selection criteria) once it has thawed completely. In addition, compaction of the soils 
+may be more difficult due to the viscosity change in water at lower temperatures. 
+If construction proceeds during cold weather, foundations, slabs, or other concrete elements 
+should not be placed on frozen subgrade soil. Frozen soil should either be removed from beneath 
+concrete elements, or thawed and re-compacted. To limit the potential for soil freezing, the time 
+between excavation and construction should be minimized. Blankets, straw, soil cover, or heating 
+may be used to decrease the potential of soil freezing. 
+8.10 Concrete and Corrosion Considerations 
+The corrosion potential of on-site soils to concrete and metal was evaluated in the laboratory 
+using representative samples obtained from the exploratory borings. Results of these tests are 
+presented in Appendix C. 
+Chemical tests performed on selected samples of on-site soils indicated sulfate contents of 
+0.0017 to 0.13 percent. Based on review of the referenced American Concrete Institute manual 
+(ACI, 2019), the tested soils are considered to have a sulfate exposure class S0. Additionally, 
+concrete in contact with on-site soil is anticipated to have a freeze/thaw exposure class of F2. 
+Accordingly, we recommend that concrete in contact with on-site soils, along with subsurface 
+walls up to 12 inches above finished grade have a design compressive strength of 4,500 psi or 
+more, a water-cement ratio of 0.45 percent or less by weight, and have a target air content in 
+accordance with table 19.3.3.1 of ACI 318-19. It is recommended that reinforcing bars in cast-
+against-grade concrete be covered by approximately 3 inches or more of concrete. Concrete 
+should be placed with an approximate 4-inch slump and good densification procedures should be 
+used during placement to reduce the potential for honeycombing. Concrete samples should be 
+obtained, as indicated by ACI manual Section 318 (ACI, 2019), and the slump should be tested 
+at the site by the project’s geotechnical consultant. Structural concrete should be placed in 
+accordance with American Concrete Institute (ACI, 2019) and project specifications. 
+Ninyo & Moore recommends that corrosion reduction methods be implemented for this project for 
+metal in contact with soil. These corrosion reduction methods may include utilization of protective 
+coatings, pipe sleeving, and/or appropriate cathodic protection as recommended by a qualified 
+corrosion engineer. Where permitted by jurisdictional building codes, the use of plastic pipes for 
+buried utilities should also be considered. 
+
+
+===== PAGE 19 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+15 
+ 
+8.11 Moisture Infiltration Reduction and Surface Drainage 
+Infiltration of water into subsurface soils can lead to soil movement and associated distress, and 
+chemically and physically related deterioration of concrete structures. To reduce the potential for 
+infiltration of moisture into subsurface soils at the site, we recommend the following: 
+ 
+Positive drainage should be established and maintained away from the proposed structures. 
+Due to the on-site soils being granular positive drainage may be established by providing a 
+surface gradient for unpaved and paved areas of 2 percent or more for a distance of 10 feet 
+or more away from structure perimeters, where practicable. 
+ 
+Adequate surface drainage should be provided to channel surface water away from on-site 
+structures and to a suitable outlet such as a storm drain or the street. Adequate surface 
+drainage may be enhanced by utilization of graded swales, area drains, and other drainage 
+devices. Surface run-off should not be allowed to pond near structures. 
+ 
+Building roof drains should have downspouts tightlined to an appropriate outlet, such as a 
+storm drain or the street. If tightlining of the downspouts is not practicable, they should 
+discharge 5 feet or more away from the building or onto paved areas that slopes away from 
+the structure. Downspouts should not be allowed to discharge onto the ground surface 
+adjacent to building foundations or concrete flatwork. 
+ 
+Ninyo & Moore recommends that low-water use (drip irrigated) landscaping be utilized on site, 
+particularly within 5 feet of the building and exterior site improvements, including areas of 
+concrete flatwork and masonry block walls. Spray irrigation should not be used within 5 feet 
+of the building. For drip irrigated foundation plating located within 5 feet of the building, we 
+recommend incorporating a drainage system that drains the excess irrigation water away from 
+this zone or soil moisture probes to prevent over watering. 
+ 
+The facility owner should develop a program for the continued maintenance of the irrigation 
+systems, which should be performed periodically, to prevent overwatering of landscaping 
+within 5 to 10 feet of the building perimeter. 
+8.12 Observation and Testing 
+The geotechnical consultant should perform appropriate observation and testing services during 
+fill placement, grading, and construction operations. These services should include observation 
+of removal of soft, loose, undocumented fill, or otherwise unsuitable soils, evaluation of subgrade 
+conditions where soil removals are performed, and performance of observation and testing 
+services during placement and compaction of structural fill and backfill soils. The geotechnical 
+consultant should also perform observation and testing services during placement of concrete, 
+mortar, grout, asphalt concrete, and steel reinforcement. 
+Special inspections should be performed as indicated in Table 1705.6 of the referenced Southern 
+Nevada Amendments to the 2018 International Building Code (SNBO, 2018). Based on the results 
+of our laboratory testing and our understanding of the subject project, it is our opinion that the 
+level of special inspection, as indicated in Table 1705.6, should be 4a-periodic. 
+
+
+===== PAGE 20 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+16 
+ 
+The recommendations provided in this report are based on the assumption that Ninyo & Moore 
+will provide geotechnical observation, testing, and inspection services during grading and 
+construction. In the event that it is decided not to utilize the services of Ninyo & Moore during 
+construction, we request that the selected consultant provide the client with a letter (with a copy 
+sent to Ninyo & Moore) indicating that they fully understand Ninyo & Moore’s recommendations, 
+and that they are in full agreement with the design parameters and recommendations contained 
+in this report. 
+8.13 Plan Review 
+The recommendations presented in this report are based on preliminary design information for 
+the proposed project, as provided by Nye County School District personnel, and on the findings 
+of our geotechnical evaluation. When finished, project plans and specifications should be 
+reviewed by the geotechnical consultant prior to submitting the plans and specifications for bid. 
+Additional field exploration and laboratory testing may be needed upon review of the project 
+design plans. 
+8.14 Pre-Construction Meeting 
+We recommend that a pre-construction meeting be held. The owner or the owner’s representative, 
+the architect, the civil engineer, the contractor, and the geotechnical consultant should be in 
+attendance to discuss the plans and the project. 
+9 
+LIMITATIONS 
+The field evaluation, laboratory testing, and geotechnical analyses presented in this geotechnical 
+report have been conducted in general accordance with current practice and the standard of care 
+exercised by geotechnical consultants performing similar tasks in the project area. No warranty, 
+expressed or implied, is made regarding the conclusions, recommendations, and opinions 
+presented in this report. There is no evaluation detailed enough to reveal every subsurface 
+condition. Variations may exist and conditions not observed or described in this report may be 
+encountered during construction. Uncertainties relative to subsurface conditions can be reduced 
+through additional subsurface exploration. Additional subsurface evaluation will be performed 
+upon request. Our evaluation was limited to assessment of the geotechnical aspects of the 
+project, and did not include evaluation of structural issues, environmental concerns, or the 
+presence of hazardous materials. 
+
+
+===== PAGE 21 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+17 
+ 
+This document is intended to be used only in its entirety. No portion of the document, by itself, is 
+designed to completely represent any aspect of the project described herein. Ninyo & Moore 
+should be contacted if the reader requires additional information or has questions regarding the 
+content, interpretations presented, or completeness of this document. 
+This report is intended for design purposes only. It does not provide sufficient data to prepare an 
+accurate bid by contractors. It is suggested that the bidders and their geotechnical consultant 
+perform an independent evaluation of the subsurface conditions in the project areas. The 
+independent evaluations may include, but not be limited to, review of other geotechnical reports 
+prepared for the adjacent areas, site reconnaissance, and additional exploration and 
+laboratory testing. 
+Our conclusions, recommendations, and opinions are based on an analysis of the observed site 
+conditions. If geotechnical conditions different from those described in this report are 
+encountered, our office should be notified and additional recommendations, if warranted, will be 
+provided upon request. The conditions of a site could change with time as a result of natural 
+processes or the activities of man at the subject site or nearby sites. Changes to the applicable 
+laws, regulations, codes, and standards of practice may occur due to government action or the 
+broadening of knowledge. The findings of this report may, therefore, be invalidated over time, in 
+part or in whole, by changes over which Ninyo & Moore has no control. 
+This report is intended exclusively for use by the client. Any use or reuse of the findings, 
+conclusions, and/or recommendations of this report by parties other than the client is undertaken 
+at said parties’ sole risk. 
+ 
+
+
+===== PAGE 22 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+18 
+ 
+10 
+REFERENCES 
+American Concrete Institute (ACI), 2019, Building Code Requirements for Structural Concrete 
+(ACI 318-19). 
+American Society of Civil Engineers (ASCE), 2024, Standard 7-16, Minimum Design Loads and 
+Associated Criteria for Buildings and Other Structures, Online Hazard Tool: 
+https://asce7hazardtool.online/. 
+American Society for Testing and Materials (ASTM), 2020, Annual Book of ASTM Standards, 
+Section 4 - Construction: Volume 04.08, Soil and Rock (I), D 420 to D 5876. 
+Bonham, H.F. and Garside, L.J., 1979, Geology of the Tonopah, Lone Mountain, Klondike, and 
+Northern Mud Lake Quadrangles, Nevada: Map Scale 1:48,000. 
+Clark County Department of Building and Fire Prevention (CCDB), 2007, Technical Guideline 
+TG-19-2007, Approved Chemical Test Methods of Soils and Reporting Criteria: dated 
+July 6. 
+Google Earth Pro, Google, 2025, Aerial photographs of the Tonopah area, Nevada. 
+International Code Council (ICC), 2018, International Building Code (IBC). 
+Ninyo & Moore, 2022, Geotechnical Evaluation, Proposed Elementary School, Tonopah High 
+School Site, 1 Tennant Drive, Tonopah, Nevada; N&M Project 304907001; dated 
+November 9. 
+Ninyo & Moore proprietary in-house data. 
+Occupational Safety and Health Administration (OSHA), 2016, OSHA Standards for the 
+Construction Industry, 29 CFR Part 1926: dated January 1. 
+Regional Transportation Commission (RTC), 2025, Uniform Standard Specifications, Latest 
+Edition: https://rtcws.rtcsnv.com/mpo/streets/v4_streets_specifications.cfm. 
+Southern Nevada Building Officials (SNBO), 2018, Southern Nevada Amendments to the 2018 
+International Building Code: undated. 
+State of Nevada, Division of Water Resources (DWR), 2025, Water Well Database: 
+http://water.nv.gov. 
+United States Geological Survey (USGS), 2025, Quaternary Faults and Fold Database of the 
+United States: http://earthquakes.usgs.gov/qfaults. 
+ 
+ 
+
+
+===== PAGE 23 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+19 
+ 
+ 
+ 
+ 
+ 
+FIGURES 
+ 
+ 
+
+
+===== PAGE 24 =====
+P305250001.aprx  1/6/2025   JDL
+NOTE: DIRECTIONS, DIMENSIONS AND LOCATIONS ARE APPROXIMATE.  |  SOURCE: USGS, 2025
+SITE  LOCATION
+0
+2,000
+4,000
+FEET
+FIGURE 1
+MAP INDEX
+Nye
+County
+SITE
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001  |  1/25
+15
+
+
+===== PAGE 25 =====
+B-1
+TD=21.5
+B-2
+TD=20.0
+B-3
+TD=20.6
+P305250001.aprx  1/16/2025   JDL
+H I G H S C H O O L R O A D
+NOTE: DIRECTIONS, DIMENSIONS AND LOCATIONS ARE APPROXIMATE.  |  SOURCE:  GOOGLE, 2025
+BORING LOCATIONS
+FIGURE 2
+0
+180
+360
+FEET
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001  |  1/25
+SITE BOUNDARY
+PREVIOUS ReMi
+SURVEY LINE
+LEGEND
+BORING
+TD = TOTAL DEPTH IN FEET
+B-3
+TD=20.6
+R AY T E N A N T D R I V E
+H I G H S C H O O L R O A D
+
+
+===== PAGE 26 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+20 
+ 
+3. Description 
+3. Description 
+3. Description 
+ 
+ 
+ 
+ 
+ 
+APPENDIX A 
+ 
+Boring Logs 
+ 
+
+
+===== PAGE 27 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+21 
+ 
+APPENDIX A 
+BORING LOGS 
+Field Procedure for the Collection of Disturbed Soil Samples 
+Disturbed soil samples were obtained in the field using the following methods. 
+ 
+ 
+Bulk Soil Samples 
+Bulk samples of representative earth materials were obtained from the exploratory 
+borings. The samples were bagged and transported to the laboratory for testing. 
+The Standard Penetration Test (SPT) Sampler 
+Disturbed drive samples of earth materials were obtained by means of a Standard 
+Penetration Test sampler. The sampler is composed of a split barrel with an external 
+diameter of 2 inches and an unlined internal diameter of 1-3/8 inches. The sampler was 
+driven into the ground with a 140-pound hammer free-falling from a height of 30 inches in 
+general accordance with ASTM D1586 and the blow counts were recorded. Soil samples 
+were observed and removed from the sampler, bagged, sealed, and transported to the 
+laboratory for testing. 
+Field Procedure for the Collection of Relatively Undisturbed Samples 
+Relatively undisturbed soil samples were obtained in the field using a modified split barrel drive 
+sampler. The sampler, with an external diameter of 3.0 inches, was lined with 1-inch-long, thin, 
+brass rings with inside diameters of 2.4 inches. The sample barrel was driven into the ground with 
+the weight of a hammer in general accordance with ASTM D3550. The driving weight was 
+permitted to fall freely. The approximate length of the fall, the weight of the hammer, and the 
+number of blows during driving are presented on the excavation logs as an index to the relative 
+resistance of the materials sampled. The samples were removed from the sample barrel in the 
+brass rings, sealed, and transported to the laboratory for testing. 
+ 
+
+
+===== PAGE 28 =====
+Soil Classification Chart Per ASTM D 2488
+Primary Divisions
+Secondary Divisions
+Group Symbol
+Group Name 
+COARSE-
+GRAINED 
+SOILS 
+more than 
+50% retained 
+on No. 200 
+sieve
+GRAVEL 
+more than 
+50% of 
+coarse 
+fraction 
+retained on 
+No. 4 sieve
+CLEAN GRAVEL
+less than 5% fines
+GW
+well-graded GRAVEL
+GP
+poorly graded GRAVEL
+GRAVEL with 
+DUAL 
+CLASSIFICATIONS 
+5% to 12% fines
+GW-GM
+well-graded GRAVEL with silt
+GP-GM
+poorly graded GRAVEL with silt
+GW-GC
+well-graded GRAVEL with clay
+GP-GC
+poorly graded GRAVEL with 
+GRAVEL with 
+FINES 
+more than 
+12% fines
+GM
+silty GRAVEL
+GC
+clayey GRAVEL
+GC-GM
+silty, clayey GRAVEL
+SAND 
+50% or more 
+of coarse 
+fraction 
+passes 
+No. 4 sieve
+CLEAN SAND 
+less than 5% fines
+SW
+well-graded SAND
+SP
+poorly graded SAND
+SAND with 
+DUAL 
+CLASSIFICATIONS 
+5% to 12% fines
+SW-SM
+well-graded SAND with silt
+SP-SM
+poorly graded SAND with silt
+SW-SC
+well-graded SAND with clay
+SP-SC
+poorly graded SAND with clay
+SAND with FINES 
+more than 
+12% fines
+SM
+silty SAND
+SC
+clayey SAND
+SC-SM
+silty, clayey SAND
+FINE- 
+GRAINED 
+SOILS  
+50% or 
+more passes 
+No. 200 sieve
+SILT and 
+CLAY
+liquid limit 
+less than 50%
+INORGANIC
+CL
+lean CLAY
+ML
+SILT
+CL-ML
+silty CLAY
+ORGANIC
+OL (PI > 4)
+organic CLAY
+OL (PI < 4)
+organic SILT
+SILT and 
+CLAY
+liquid limit 
+50% or more
+INORGANIC
+CH
+fat CLAY
+MH
+elastic SILT
+ORGANIC
+OH (plots on or 
+above “A”-line)
+organic CLAY
+OH (plots 
+below “A”-line)
+organic SILT
+Highly Organic Soils
+PT
+Peat
+USCS METHOD OF SOIL CLASSIFICATION
+Apparent Density - Coarse-Grained Soil
+Apparent 
+Density
+Spooling Cable or Cathead
+Automatic Trip Hammer
+SPT
+(blows/foot)
+Modified 
+Split Barrel 
+(blows/foot)
+SPT
+(blows/foot)
+Modified 
+Split Barrel 
+(blows/foot)
+Very Loose
+< 4
+< 8
+< 3
+<  5
+Loose
+5 - 10
+9 - 21
+4 - 7
+6 - 14
+Medium 
+Dense
+11 - 30
+22 - 63
+8 - 20
+15 - 42
+Dense
+31 - 50
+64 - 105
+21 - 33
+43 - 70
+Very Dense
+> 50
+> 105
+> 33
+> 70
+Consistency - Fine-Grained Soil
+Consis­
+tency
+Spooling Cable or Cathead
+Automatic Trip Hammer
+SPT
+(blows/foot)
+Modified 
+Split Barrel 
+(blows/foot)
+SPT
+(blows/foot)
+Modified 
+Split Barrel 
+(blows/foot)
+Very Soft
+< 2
+< 3
+< 1
+ < 2
+Soft
+2 - 4
+3 - 5
+1 - 3
+2 - 3
+Firm
+5 - 8
+6 - 10
+4 - 5
+4 - 6
+Stiff
+9 - 15
+11 - 20
+6 - 10
+7 - 13
+Very Stiff
+16 - 30
+21 - 39
+11 - 20
+14 - 26
+Hard
+> 30
+> 39
+> 20
+> 26
+LIQUID LIMIT (LL), %
+PLASTICITY INDEX (PI), %
+0
+10
+10
+7
+4
+20
+30
+40
+50
+60
+70
+0
+20
+30
+40
+50
+60
+70
+80
+90
+100
+MH or OH
+ML or OL
+CL - ML
+Plasticity Chart
+Grain Size
+Description
+Sieve 
+Size
+Grain Size
+Approximate 
+Size
+Boulders
+> 12”
+> 12”
+Larger than 
+basketball-sized
+Cobbles
+3 - 12”
+3 - 12”
+Fist-sized to 
+basketball-sized
+Gravel
+Coarse
+3/4 - 3”
+3/4 - 3”
+Thumb-sized to 
+fist-sized
+Fine
+#4 - 3/4”
+0.19 - 0.75”
+Pea-sized to 
+thumb-sized
+Sand
+Coarse
+#10 - #4
+0.079 - 0.19”
+Rock-salt-sized to 
+pea-sized
+Medium
+#40 - #10
+0.017 - 0.079”
+Sugar-sized to 
+rock-salt-sized
+Fine
+#200 - #40
+0.0029 - 
+0.017”
+Flour-sized to 
+sugar-sized
+Fines
+Passing 
+#200
+< 0.0029”
+Flour-sized and 
+smaller
+CH or OH
+CL or OL
+
+
+===== PAGE 29 =====
+0
+5
+10
+15
+20
+XX/XX
+SM
+CL
+Bulk sample.
+Modified split-barrel drive sampler.
+No recovery with modified split-barrel drive sampler.
+Sample retained by others.
+Standard Penetration Test (SPT).
+No recovery with a SPT.
+Shelby tube sample. Distance pushed in inches/length of sample recovered in inches. 
+No recovery with Shelby tube sampler.
+Continuous Push Sample.
+Seepage.
+Groundwater encountered during drilling. 
+Groundwater measured after drilling.
+MAJOR MATERIAL TYPE (SOIL):
+Solid line denotes unit change.
+Dashed line denotes material change.
+Attitudes: Strike/Dip
+b: Bedding
+c: Contact
+j: Joint
+f: Fracture
+F: Fault
+cs: Clay Seam
+s: Shear
+bss: Basal Slide Surface
+sf: Shear Fracture
+sz: Shear Zone
+sbs: Shear Bedding Surface
+The total depth line is a solid line that is drawn at the bottom of the boring.
+DEPTH (feet)
+Bulk
+SAMPLES
+Driven
+BLOWS/FOOT
+MOISTURE (%)
+DRY DENSITY (PCF)
+SYMBOL
+CLASSIFICATION
+U.S.C.S.
+BORING LOG EXPLANATION SHEET
+BORING LOG
+ 
+20
+
+
+===== PAGE 30 =====
+0
+5
+10
+15
+20
+12/6"
+50/5"
+14/6"
+17/6"
+17/6"
+5/6"
+9/6"
+11/6"
+11/6"
+14/6"
+15/6"
+4/6"
+4/6"
+5/6"
+6.5
+11.8
+16.6
+15.6
+114.9
+103.1
+SP-SM
+SC
+SP-SM
+SM
+SP-SM
+SP-SC
+FILL:
+Reddish brown, dry, loose, poorly graded SAND with silt.
+Brown, moist, dense, clayey SAND with gravel.
+NATIVE SOIL:
+Grayish brown, moist, very dense, poorly graded SAND with silt and gravel.
+Dark grayish brown, moist, medium dense, silty SAND with gravel.
+Dark olive brown, moist, medium dense, poorly graded SAND with silt; trace gravel.
+Light grayish brown, moist, very dense, poorly graded SAND with clay; trace gravel.
+FIGURE A- 1
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001 |
+1/25
+DEPTH (feet)
+Bulk
+SAMPLES
+Driven
+BLOWS/FOOT
+MOISTURE (%)
+DRY DENSITY (PCF)
+SYMBOL
+CLASSIFICATION
+U.S.C.S.
+DESCRIPTION/INTERPRETATION
+DATE DRILLED
+12/19/24
+BORING NO.
+B-1
+GROUND ELEVATION 6,285' ± (MSL)
+SHEET
+1
+OF
+METHOD OF DRILLING CME-75 Hollow-Stem Auger Drill Rig
+DRIVE WEIGHT
+140 lbs. (Auto. Trip)
+DROP
+30"
+SAMPLED BY
+JEA
+LOGGED BY
+JEA
+REVIEWED BY
+AMA
+2
+
+
+===== PAGE 31 =====
+20
+25
+30
+35
+40
+19/6"
+41/6"
+50/5"
+20.4
+96.8
+SP-SC
+NATIVE SOIL: (Continued)
+Light grayish brown, moist, very dense, poorly graded SAND with clay; trace gravel.
+Total Depth = 21.4 feet.
+Groundwater not encountered during drilling.
+Backfilled on 12/19/24.
+Notes:
+Groundwater, though not encountered at the time of drilling, may rise to a higher level due
+to seasonal variations in precipitation and several other factors as discussed in the report.
+The ground elevation shown above is an estimation only.  It is based on our interpretations
+of published maps and other documents reviewed for the purposes of this evaluation.  It is
+not sufficiently accurate for preparing construction bids and design documents.
+FIGURE A- 2
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001 |
+1/25
+DEPTH (feet)
+Bulk
+SAMPLES
+Driven
+BLOWS/FOOT
+MOISTURE (%)
+DRY DENSITY (PCF)
+SYMBOL
+CLASSIFICATION
+U.S.C.S.
+DESCRIPTION/INTERPRETATION
+DATE DRILLED
+12/19/24
+BORING NO.
+B-1
+GROUND ELEVATION 6,285' ± (MSL)
+SHEET
+2
+OF
+METHOD OF DRILLING CME-75 Hollow-Stem Auger Drill Rig
+DRIVE WEIGHT
+140 lbs. (Auto. Trip)
+DROP
+30"
+SAMPLED BY
+JEA
+LOGGED BY
+JEA
+REVIEWED BY
+AMA
+2
+
+
+===== PAGE 32 =====
+0
+5
+10
+15
+20
+15/6"
+30/6"
+50/5"
+13/6"
+20/6"
+26/6"
+50/5"
+50/5"
+50/2"
+14.1
+16.1
+109.9
+SP-SM
+SC-SM
+SC
+SM
+FILL:
+Reddish brown, dry, medium dense, poorly graded SAND with silt.
+NATIVE SOIL:
+Light brown, moist, very dense, silty, clayey SAND with gravel.
+Grayish brown, moist, very dense, clayey sand; trace gravel.
+Cobbles.
+Brown.
+Dark brown.
+Boulder.
+Yellowish gray, dry, very dense, silty SAND with gravel.
+FIGURE A- 3
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001 |
+1/25
+DEPTH (feet)
+Bulk
+SAMPLES
+Driven
+BLOWS/FOOT
+MOISTURE (%)
+DRY DENSITY (PCF)
+SYMBOL
+CLASSIFICATION
+U.S.C.S.
+DESCRIPTION/INTERPRETATION
+DATE DRILLED
+12/19/24
+BORING NO.
+B-2
+GROUND ELEVATION 6,272' ± (MSL)
+SHEET
+1
+OF
+METHOD OF DRILLING CME-75 Hollow-Stem Auger Drill Rig
+DRIVE WEIGHT
+140 lbs. (Auto. Trip)
+DROP
+30"
+SAMPLED BY
+JEA
+LOGGED BY
+JEA
+REVIEWED BY
+AMA
+2
+
+
+===== PAGE 33 =====
+20
+25
+30
+35
+40
+50/<1"
+Total Depth = 20.0 feet.
+Groundwater not encountered during drilling.
+Backfilled on 12/19/24.
+Notes:
+Groundwater, though not encountered at the time of drilling, may rise to a higher level due
+to seasonal variations in precipitation and several other factors as discussed in the report.
+The ground elevation shown above is an estimation only.  It is based on our interpretations
+of published maps and other documents reviewed for the purposes of this evaluation.  It is
+not sufficiently accurate for preparing construction bids and design documents.
+FIGURE A- 4
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001 |
+1/25
+DEPTH (feet)
+Bulk
+SAMPLES
+Driven
+BLOWS/FOOT
+MOISTURE (%)
+DRY DENSITY (PCF)
+SYMBOL
+CLASSIFICATION
+U.S.C.S.
+DESCRIPTION/INTERPRETATION
+DATE DRILLED
+12/19/24
+BORING NO.
+B-2
+GROUND ELEVATION 6,272' ± (MSL)
+SHEET
+2
+OF
+METHOD OF DRILLING CME-75 Hollow-Stem Auger Drill Rig
+DRIVE WEIGHT
+140 lbs. (Auto. Trip)
+DROP
+30"
+SAMPLED BY
+JEA
+LOGGED BY
+JEA
+REVIEWED BY
+AMA
+2
+
+
+===== PAGE 34 =====
+0
+5
+10
+15
+20
+23/6"
+50/5"
+40/6"
+50/2"
+29/6"
+50/3"
+50/6"
+50/2"
+31/6"
+50/3"
+18.4
+18.0
+17.6
+10.3
+17.3
+90.7
+SP-SM
+SM
+FILL:
+Reddish brown, dry, loose, poorly graded SAND with silt.
+NATIVE SOIL:
+Light brown, moist, dense, silty SAND; few gravel.
+Very dense.
+FIGURE A- 5
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001 |
+1/25
+DEPTH (feet)
+Bulk
+SAMPLES
+Driven
+BLOWS/FOOT
+MOISTURE (%)
+DRY DENSITY (PCF)
+SYMBOL
+CLASSIFICATION
+U.S.C.S.
+DESCRIPTION/INTERPRETATION
+DATE DRILLED
+12/19/24
+BORING NO.
+B-3
+GROUND ELEVATION 6,276' ± (MSL)
+SHEET
+1
+OF
+METHOD OF DRILLING CME-75 Hollow-Stem Auger Drill Rig
+DRIVE WEIGHT
+140 lbs. (Auto. Trip)
+DROP
+30"
+SAMPLED BY
+JEA
+LOGGED BY
+JEA
+REVIEWED BY
+AMA
+2
+
+
+===== PAGE 35 =====
+20
+25
+30
+35
+40
+49/6"
+50/1"
+9.7
+90.2
+SP-SM
+NATIVE SOIL: (Continued)
+Light gray to brown, moist, very dense, poorly graded SAND with silt; trace gravel.
+Total Depth = 20.6 feet.
+Groundwater not encountered during drilling.
+Backfilled on 12/19/24.
+Notes:
+Groundwater, though not encountered at the time of drilling, may rise to a higher level due
+to seasonal variations in precipitation and several other factors as discussed in the report.
+The ground elevation shown above is an estimation only.  It is based on our interpretations
+of published maps and other documents reviewed for the purposes of this evaluation.  It is
+not sufficiently accurate for preparing construction bids and design documents.
+FIGURE A- 6
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001 |
+1/25
+DEPTH (feet)
+Bulk
+SAMPLES
+Driven
+BLOWS/FOOT
+MOISTURE (%)
+DRY DENSITY (PCF)
+SYMBOL
+CLASSIFICATION
+U.S.C.S.
+DESCRIPTION/INTERPRETATION
+DATE DRILLED
+12/19/24
+BORING NO.
+B-3
+GROUND ELEVATION 6,276' ± (MSL)
+SHEET
+2
+OF
+METHOD OF DRILLING CME-75 Hollow-Stem Auger Drill Rig
+DRIVE WEIGHT
+140 lbs. (Auto. Trip)
+DROP
+30"
+SAMPLED BY
+JEA
+LOGGED BY
+JEA
+REVIEWED BY
+AMA
+2
+
+
+===== PAGE 36 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada  |   305250001 R   |   January 21, 2025  
+22 
+ 
+ 
+APPENDIX B 
+ 
+Laboratory Test Results 
+ 
+
+
+===== PAGE 37 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+ 
+ 
+APPENDIX B 
+LABORATORY TEST RESULTS 
+Classification 
+Soils were visually and texturally classified in accordance with the Unified Soil Classification 
+System (USCS) in general accordance with ASTM D2488. Soil classifications are indicated on 
+the boring logs in Appendix A. 
+Moisture Content 
+The moisture content of samples obtained from the exploratory borings was evaluated in 
+accordance with ASTM D 2216. The test results are presented on the borings logs in Appendix A. 
+In-Place Moisture and Density 
+The moisture content and dry density of relatively undisturbed samples obtained from the 
+exploratory borings were evaluated in general accordance with ASTM D2937. The test results are 
+presented on the boring logs in Appendix A. 
+Gradation Analysis 
+Gradation analysis tests were performed on selected representative soil samples in general 
+accordance with ASTM D422. These test results were utilized in evaluating the soil classifications 
+in accordance with the USCS. The grain-size distribution curves are shown on Figure B-1 through 
+Figure B-3. 
+Atterberg Limits 
+Tests were performed on selected representative soil samples to evaluate the liquid limit, plastic 
+limit, and plasticity index in general accordance with ASTM D4318. These test results were utilized 
+to evaluate soil classification in accordance with the USCS. The test results and classifications 
+are shown on Figure B-4. 
+ 
+ 
+
+
+===== PAGE 38 =====
+          Coarse
+          Fine
+     Coarse
+    Medium
+SILT
+CLAY
+      3''  2'
+¾"   ½"   ⅜" 
+4           8
+16
+   30
+50
+200
+PERFORMED IN GENERAL ACCORDANCE WITH ASTM D 422
+''NP'' INDICATES NON-PLASTIC
+13.4
+SM
+--
+0.41
+3.46
+--
+--
+Soil Type
+Silty SAND with gravel
+Material Percent by Weight
+Fines
+13.4
+Sand
+51.8
+FINES
+Fine
+1½"  1"
+       100
+GRAVEL
+SAND
+U.S. STANDARD SIEVE NUMBERS
+HYDROMETER
+USCS
+Passing
+No. 200
+(%)
+Cc
+Cu
+D60
+D30
+D10
+34.8
+NP
+NP
+B-1
+5.0-6.5
+NP
+Gravel
+Plasticity
+Index
+Plastic
+Limit
+Liquid 
+Limit
+Depth
+(ft)
+Sample 
+Location
+Symbol
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+100.0
+0.0001
+0.001
+0.01
+0.1
+1
+10
+100
+PERCENT FINER BY WEIGHT
+GRAIN SIZE IN MILLIMETERS
+FIGURE B-1
+GRADATION TEST RESULTS
+TONOPAH HIGH SCHOOL SPORTS COMPLEX 
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001   |  1/2025
+305250001 SA B-1 @ 5.0 - 6.5
+
+
+===== PAGE 39 =====
+          Coarse
+          Fine
+     Coarse
+    Medium
+SILT
+CLAY
+      3''  2'
+¾"   ½"   ⅜" 
+4           8
+16
+   30
+50
+200
+PERFORMED IN GENERAL ACCORDANCE WITH ASTM D 422
+26.6
+SC-SM
+--
+0.09
+0.97
+--
+--
+Soil Type
+Silty, clayey SAND with gravel
+Material Percent by Weight
+Fines
+26.6
+Sand
+46.3
+FINES
+Fine
+1½"  1"
+       100
+GRAVEL
+SAND
+U.S. STANDARD SIEVE NUMBERS
+HYDROMETER
+USCS
+Passing
+No. 200
+(%)
+Cc
+Cu
+D60
+D30
+D10
+27.1
+20
+7
+B-2
+0.5-3.5
+27
+Gravel
+Plasticity
+Index
+Plastic
+Limit
+Liquid 
+Limit
+Depth
+(ft)
+Sample 
+Location
+Symbol
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+100.0
+0.0001
+0.001
+0.01
+0.1
+1
+10
+100
+PERCENT FINER BY WEIGHT
+GRAIN SIZE IN MILLIMETERS
+FIGURE B-2
+GRADATION TEST RESULTS
+TONOPAH HIGH SCHOOL SPORTS COMPLEX 
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001   |  1/2025
+305250001 SA B-2 @ 0.5 - 3.5
+
+
+===== PAGE 40 =====
+          Coarse
+          Fine
+     Coarse
+    Medium
+SILT
+CLAY
+      3''  2'
+¾"   ½"   ⅜" 
+4           8
+16
+   30
+50
+200
+PERFORMED IN GENERAL ACCORDANCE WITH ASTM D 422
+''NP'' INDICATES NON-PLASTIC
+41.5
+SM
+--
+--
+0.19
+--
+--
+Soil Type
+Silty SAND
+Material Percent by Weight
+Fines
+41.5
+Sand
+45.5
+FINES
+Fine
+1½"  1"
+       100
+GRAVEL
+SAND
+U.S. STANDARD SIEVE NUMBERS
+HYDROMETER
+USCS
+Passing
+No. 200
+(%)
+Cc
+Cu
+D60
+D30
+D10
+13.0
+NP
+NP
+B-3
+0.5-5.0
+NP
+Gravel
+Plasticity
+Index
+Plastic
+Limit
+Liquid 
+Limit
+Depth
+(ft)
+Sample 
+Location
+Symbol
+0.0
+10.0
+20.0
+30.0
+40.0
+50.0
+60.0
+70.0
+80.0
+90.0
+100.0
+0.0001
+0.001
+0.01
+0.1
+1
+10
+100
+PERCENT FINER BY WEIGHT
+GRAIN SIZE IN MILLIMETERS
+FIGURE B-3
+GRADATION TEST RESULTS
+TONOPAH HIGH SCHOOL SPORTS COMPLEX 
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001   |  1/2025
+305250001 SA B-3 @ 0.5 - 5.0
+
+
+===== PAGE 41 =====
+NP - INDICATES NON-PLASTIC
+PERFORMED IN GENERAL ACCORDANCE WITH D 4318
+SYMBOL
+LOCATION
+DEPTH (ft)
+LIQUID 
+LIMIT
+PLASTIC 
+LIMIT
+B-1
+USCS
+0.5-5.0
+27
+NP
+0.5-3.5
+No. 40 Sieve)
+5.0-6.5
+NP
+NP
+NP
+USCS
+20
+B-2
+B-3
+NP
+CLASSIFICATION
+(Fraction Finer Than
+PLASTICITY 
+INDEX
+7
+NP
+SM
+SC-SM
+ML
+CL-ML
+ML
+SM
+CH or OH
+CL or OL
+MH or OH
+ML or OL
+CL - ML
+0
+10
+20
+30
+40
+50
+60
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+PLASTICITY INDEX, PI  
+LIQUID LIMIT, LL
+FIGURE B-4
+ATTERBERG LIMITS TEST RESULTS 
+TONOPAH HIGH SCHOOL SPORTS COMPLEX 
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+305250001   |  1/2025
+305250001 AL @ B-1 - B-3
+
+
+===== PAGE 42 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+APPENDIX C 
+Chemical Test Results 
+
+
+===== PAGE 43 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+APPENDIX C 
+CHEMICAL TEST RESULTS 
+The results of the chemical tests are provided in this appendix. 
+
+
+===== PAGE 44 =====
+(702) 321-8315 Phone
+(702) 597-2098 Fax
+6245 Harrison Drive, Suite 4, Las Vegas, NV 89120
+Email: veritaslabs@msn.com
+CLIENT COMPANY NAME:
+CLIENT PROJECT NAME:
+VERITAS LAB ORDER ID:
+Ninyo and Moore
+Tonopah HS Sports Complex
+V24L314
+CLIENT PROJECT NUMBER:
+305250001
+CLIENT SAMPLE ID:
+VERITAS SAMPLE ID:
+DATE/TIME SAMPLED:
+DATE/TIME RECEIVED:
+B-1 @ 2.5'-3.4'
+V24L314-01
+12/30/24  12:30
+12/19/24   0:00
+Matrix: Soil
+ANALYTICAL RESULTS
+Analysis:
+PARAMETER
+RESULT
+UNITS
+METHOD
+DATE
+ANALYZED
+Soil Solubility/Corrosion Parameters
+Soluble Sodium
+0.017
+%
+12/31/24
+EPA 6010B
+Soluble Sulfate
+0.013
+%
+12/31/24
+ASTM D516
+Total Soluble Sodium Sulfate
+0.019
+%
+12/31/24
+Calculation
+Soluble Chloride
+0.0053
+%
+12/31/24
+SM 4500-Cl E
+Total Soluble Salts (Solubility)
+0.090
+%
+12/31/24
+SM 2540C
+Page 1 of 2
+
+
+===== PAGE 45 =====
+(702) 321-8315 Phone
+(702) 597-2098 Fax
+6245 Harrison Drive, Suite 4, Las Vegas, NV 89120
+Email: veritaslabs@msn.com
+CLIENT COMPANY NAME:
+CLIENT PROJECT NAME:
+VERITAS LAB ORDER ID:
+Ninyo and Moore
+Tonopah HS Sports Complex
+V24L314
+CLIENT PROJECT NUMBER:
+305250001
+CLIENT SAMPLE ID:
+VERITAS SAMPLE ID:
+DATE/TIME SAMPLED:
+DATE/TIME RECEIVED:
+B-3 @ 0.5'-5'
+V24L314-02
+12/30/24  12:30
+12/19/24   0:00
+Matrix: Soil
+ANALYTICAL RESULTS
+Analysis:
+PARAMETER
+RESULT
+UNITS
+METHOD
+DATE
+ANALYZED
+Soil Solubility/Corrosion Parameters
+Soluble Sodium
+0.015
+%
+12/31/24
+EPA 6010B
+Soluble Sulfate
+0.0017
+%
+12/31/24
+ASTM D516
+Total Soluble Sodium Sulfate
+0.0025
+%
+12/31/24
+Calculation
+Soluble Chloride
+0.00068
+%
+12/31/24
+SM 4500-Cl E
+Total Soluble Salts (Solubility)
+0.077
+%
+12/31/24
+SM 2540C
+Page 2 of 2
+
+
+===== PAGE 46 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+APPENDIX D 
+RE-MI Test Results 
+
+
+===== PAGE 47 =====
+ 
+ 
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+ 
+ 
+APPENDIX D 
+RE-MI TEST RESULTS 
+Ninyo & Moore previously performed a refraction microtremor (ReMi) survey, approximately 
+500 feet west of the proposed project site, to obtain the shear wave velocity profile to a nominal 
+depth of approximately 100 feet at the subject site to evaluate the seismic Site Class in general 
+accordance with the 2018 International Building Code (ICC, 2018). The approximate length and 
+orientation of the survey array are indicated on Figure 2. 
+A Geode 24–Channel Seismograph (Geometrics Inc.) was used for the ReMi surveying, with 
+4.5 Hertz (Hz) vertical component geophones spaced 20 feet apart for a total profile length of 
+460 feet. Approximately 20 records were collected, with a record length of 30 seconds (s) and 
+2 millisecond (ms) sample interval. The field data were digitally recorded in SEG-Y format, 
+reviewed in the field for data quality, saved to a hard disk, and documented. 
+The ReMi seismic data were processed using SeisImager/SW seismic processing software. The 
+dispersive characteristics of surface waves are used to evaluate the subsurface velocity at depth. 
+Longer wavelength (that is, longer-period and lower-frequency) surface waves travel deeper and 
+thus contain more information about deeper velocity structure. Shorter wavelength (shorter-period 
+and higher-frequency) surface waves travel shallower and thus contain more information about 
+shallower velocity structure. The dispersion is dependent on the material properties, such as 
+surface wave velocity, relative material densities, and Poisson's ratio. An inversion is performed 
+on the collected passive seismic shear wave records using to produce a model of the variation in 
+shear wave velocities with depth with a convergence of model that obtained less than 5 percent 
+root mean square error.  
+Shear wave data resolution generally decreases with depth, due to the loss of sensitivity of the 
+dispersion curve to changes in shear wave velocity as depth increases. Figure D-1 shows our 
+ReMi seismic modeling results. The layered model indicates our interpretation of the approximate 
+changes in shear wave velocity vertically with depth across the surveyed location. The calculated 
+average shear wave velocity to a depth of approximately 100 feet at the location of the geophone 
+array was 1,641 feet per second. Based on this information, the findings of our subsurface 
+exploration program, and the 2018 International Building Code, seismic Site Class C is 
+characteristic of the site for design purposes for the project. 
+ 
+
+
+===== PAGE 48 =====
+FIGURE D-1
+TONOPAH HIGH SCHOOL SPORTS COMPLEX
+1 RAY TENNANT DRIVE, TONOPAH, NEVADA
+3052510001    |   1/25
+-100
+-90
+-80
+-70
+-60
+-50
+-40
+-30
+-20
+-10
+0
+0
+500
+1000
+1500
+2000
+2500
+Depth, ft
+Shear-Wave Velocity, ft/s
+Vs100' = 1641 ft/s
+Vs Model,  Line 1 ReMi
+d-1
+
+
+===== PAGE 49 =====
+Ninyo & Moore   |   Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+APPENDIX E 
+General Drilled Shaft Recommendations 
+
+
+===== PAGE 50 =====
+Ninyo & Moore   |    Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+APPENDIX E
+General Drilled Shaft Recommendations 
+Ninyo & Moore recommends that the following regarding the installation of drilled shafts be 
+incorporated into the project specifications. 
+1.
+All drilled shaft installation and concrete placement should be observed and documented by
+qualified geotechnical personnel.
+2.
+Holes should be drilled or bored in such a manner as to provide a full-sized shaft diameter
+and length specified on the project drawings or in the specifications.
+3.
+Concrete should be placed in the shaft by means of an “elephant trunk,” pump pipe or other
+approved means. Under no circumstances should concrete be allowed to free fall against
+shaft reinforcing.
+4.
+If the bearing stratum is deemed as not capable of providing sufficient bearing support by the
+geotechnical consultant, the shaft length may need to be extended, or the end of the shaft
+may need to be enlarged.
+5.
+When groundwater is encountered, tremie concrete placement methods, as described below,
+may be used.
+a.
+Drilled shafts should be cleaned with a clean-out bucket or other approved method,
+immediately prior to concrete placement.
+b.
+The tremie or pump pipe should have watertight joints.
+c.
+During the initial concrete placement, the concrete tremie or pump pipe should be
+extended through the water to the bottom of the drilled shaft, prior to concrete placement.
+d.
+During placement of concrete, the bottom of the pipe should be maintained below the top
+of the concrete at all times. If the seal is lost, the pipe should be reinserted and the
+operation restarted.
+e.
+Sufficient embedment of the tremie or pump pipe in concrete should be maintained
+throughout concrete placement to reduce the potential for re-entry of water. The
+embedment depth should be 5 or more feet.
+f.
+The first placed portion of concrete flow that comes to the top of the shaft should be
+wasted, as evaluated by the geotechnical consultant.
+g.
+Under no circumstances should concrete be allowed to free fall through water.
+8.
+The placement of concrete for each drilled shaft should be completed in one placement prior
+to commencing the placement of concrete in another.
+9.
+Quantities of concrete placed for each drilled shaft should be provided to the representative
+of the Owner.
+10. Concrete should have an ultimate compressive strength of not less than that provided for in
+the specifications and should be workable and plastic so that it may be placed without
+segregation.
+
+
+===== PAGE 51 =====
+Ninyo & Moore   |    Tonopah High School Sports Complex, 1 Ray Tennant Drive, Tonopah, Nevada   |   305250001 R   |   January 20, 2025 
+11. Concrete should be cast-in-place against undisturbed earth in the holes in such a manner as
+to provide for the exclusion of appreciable amounts of foreign matter in the concrete. Concrete
+should not be dropped vertically into drilled shaft excavations more than 5 feet unless an
+approved tremie (elephant trunk) or other similar appropriate method is used to reduce the
+potential for concrete striking the sides of the excavation.
+
+
+===== PAGE 52 =====
+6700 Paradise Road, Suite E  |  Las Vegas, Nevada 89119  |  p. 702.433.0330   
+ARIZONA | CALIFORNIA | COLORADO | NEVADA | TEXAS | UTAH 
+ninyoandmoore.com 

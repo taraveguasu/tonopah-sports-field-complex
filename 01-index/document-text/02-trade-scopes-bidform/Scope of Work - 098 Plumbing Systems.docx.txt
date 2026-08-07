@@ -1,0 +1,116 @@
+SCOPE OF WORK
+PROPOSAL PACKAGE #098 Plumbing Systems
+
+PRECEDENCE
+
+The trade partner Proposer submitting on this Scope of Work Proposal Package acknowledges receipt and review of this document, understands the Work and Expectations set forth under this agreement, and agrees to the terms and conditions thereof.  This document is intended to compliment the Contract Documents, however, in the event of any inconsistency, the Contract Documents (Plans, Specifications, and Supplemental Documents), shall govern.
+
+SCHEDULE
+
+Refer to the published schedule with the Notice of Request for Proposals (RFP) for pertinent start, end, and critical milestone dates for work associated with this proposal package.  It is expected that the Proposer shall provide all necessary labor, material, and equipment to meet the published schedule durations as part of the Base (“Bid”) Proposal Value.  Should the Proposer feel that this published duration is not optimal and believe that a more cost-efficient duration option is available, CORE Construction (“Contractor”) encourages the Proposer to include this information and cost savings value as a Voluntary Alternate on the Proposal (“Bid”) Form.
+
+REASONABLE INFERENCE / GURANTEED MAXIMUM PRICE PROPOSAL
+
+This delivery method requires a Guaranteed Maximum Price (GMP).  No change orders will be issued for work that is clearly identified, or can be reasonably inferred from the Contract Documents (Plans, Specifications, and Supplemental Documents).  Reasonable inference is subject to industry best practice standards and experience.  If the Proposer is concerned with what may or may not be construed as Reasonable Inference, Contractor highly recommends issuing a Request for Information clarifying the matter.  Exclusion of this clause may be grounds for disqualification of the subcontractor’s proposal.
+
+EXISTING CONDITIONS
+
+The site is currently active and is not available to Proposers without coordination with Contractor.  Do not contact the client / end users for access to the site.  Contractor has published reference documentation on existing conditions of the proposed site at the FTP site.  These documents may include subsurface utility locating maps, ground penetrating radar maps, potholing reports, as-built documents, drone videos / images, laser scans, photos, etc.  If there is any specific information about existing conditions that is required to finalize the value of the scope of work proposal package, Contractor encourages issuing a Request for Information identifying the necessary data.
+
+If information that is needed to finalize the proposal value is unavailable at the deadline for proposals, include the value as an Allowance, clearly identified in the Voluntary Alternates section of the Proposal (“Bid”) Form.
+
+CONSTRUCTION DOCUMENTS
+
+The Construction Documents to be used in developing pricing for this proposal package can be found here:
+
+BuildingConnected,
+If you need access, please contact CORE’S Team member
+
+Documents included are as follows: Plans, Specifications, Geotechnical Report(s), Asbestos Report(s), Contractor’s Notice of Request for Proposals, Preliminary Construction Schedule, Sample Subcontract Agreement, Insurance Requirements, Textura Information, General Trade Partner Requirements, Scopes of Work Proposal Packages, Subcontractor Proposal (“Bid”) Form, Affidavit(s), Addenda and Clarifications (if issued), Supplemental (Reference) Documents.
+
+SCOPE OF WORK
+
+Subcontractors shall include in their Base (“Bid”) Proposals the cost of providing all labor, material, equipment, supervision, services, taxes, insurances, license, fees, overhead, and profit, etc. necessary or incidentally required to complete the Work identified in this package.  Items not clearly shown on the drawings or indicated in other contract documents but reasonably inferable from the contract documents or necessary to the integrity and proper functioning of the Subcontractor’s Work are to be included in the Base (“Bid”) Proposal value.
+
+Complete all Plumbing Work in accordance with the plans and specifications in conformity with the contract, and other documents listed in the RFP and this Scope of Work Proposal Package.
+
+Primary Specifications
+Division 22 – Plumbing
+
+Related Specifications
+Division 00 – Procurement and Contracting Requirements
+Division 01 – General Requirements
+Section 07 92 00 – Joint Sealants
+Section 08 31 00 – Access Doors and Panels
+Division 31 – Earthwork
+
+Scope of Work – Plumbing – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Disconnect water and sewer lines at existing concessions building, and salvage kitchen sinks, prior to start of demolition activities.
+Coordinate with Contractor for removal, protection, and storage of kitchen sinks to be re-installed.
+Provide all labor, material, equipment, and components necessary for a complete and operable plumbing system, including drain, waste, and vent system, domestic hot and cold water piping, isolation valves, condensate drain piping (including for HVAC equipment, and pipe insulation), plumbing equipment (including electric tank water heater, expansion tank, recirculation pumps, TMVs, trap primers, backflow preventers, and water hammer arrestors), cleanouts, plumbing insulation, plumbing fixtures fittings, valves, supports, hangers, bracing, and accessories as required.
+Provide and install insulation on condensate drain piping.
+Includes heat trace for water piping in unconditioned and exposed locations.
+Lay-out and verify all equipment pads, equipment supports, sleeves, openings, and block outs in structural roof and floor systems, masonry, and concrete, including sizes and locations.
+Supply and install all plumbing equipment, fixtures including floor and sink drains, hose bibbs, trim, sealants, and accessories for a completed plumbing system.
+Supply and install pipe protection at all sinks where pipe is exposed.
+Install salvaged 3-compartment sink and hand sink at Concessions 106.
+Supply and install plumbing waste and vent systems – waste to 5' outside building line. Tie-in to site utilities if existing and provide flashings for all related penetrations.
+Supply and install drain pan under water heaters.
+Supply and install all required plumbing identification including but not limited to color coding and labeling of all equipment and valves.
+Some overhead piping and equipment may be architecturally exposed. Where exposed, installation shall be performed in a manner that is architecturally aesthetic. All routing, support systems, sealants, and insulation of exposed work shall be coordinated and mocked up as necessary prior to installation. Coordinate with onsite Superintendent for mock-up size and requirements.
+Provide chlorination, testing, and reporting for entire building plumbing system, including flushing and refilling of existing-to-remain portions of the system.
+Provide dust control for all operations related to this scope of work during working hours per Nye County Air Quality requirements.
+Camera all 4” and larger sanitary sewer lines to 5’ outside of building and provide video documentation to Contractor for acceptance.
+
+Scope of Work – General Scope Requirements – The following requirements shall apply to all Work under this Scope of Work package:
+Provide all tests and certifications required for complete and operational systems.
+Provide a qualified representative onsite for all tests and inspections as required.
+Subcontractor is responsible for scheduling testing and walking with inspectors to get systems signed off for final approval.
+Subcontractor responsible for scope coordination, including but not limited to:
+Coordinate with Contractor and the Masonry and Concrete Subcontractors for location and depths of all underground piping to minimize sleeving or stepped footings.
+Coordinate with HVAC Subcontractor for all system interfaces, including sanitary vent locations with respect to HVAC equipment fresh air intakes, to ensure clearances are maintained.
+Coordinate with Electrical Subcontractor for location of power to plumbing equipment and fixtures.
+Supply and install engineered seismic design, bracing, restraints, and supports for all equipment related to this scope of work as required and in accordance with the requirements of the project documents and the governing authorities.
+Comply with the requirements of the Geotechnical Report and Contract Documents for seismic requirements. In the event of a conflict in requirements between the documents, the most stringent requirement shall prevail.
+All supports and hangers shall be coordinated with the architectural and structural requirements, and shall be attached to structural steel members. Piping and hangers shall not hang from decking.
+Supply and install all sleeves and flashings for this scope of work. Provide coordination drawings showing locations and sizes for all sleeved penetrations prior to starting work.
+Seal all through-wall penetrations related to this scope of work as indicated and, if rated construction, provide approved firestopping system in compliance with Contract Document requirements and the requirements of the governing authorities. Provide acoustical sealants for non-rated penetrations.
+Supply only all access doors and panels (required to be keyed a like), rated and non-rated as required, for access to plumbing work concealed by wall and/or ceiling construction.  Access doors and panels are required to be keyed alike and will be installed by others. Coordinate layout of backing, supports, access doors and panels with Framing Subcontractor. Coordinate type of access doors required with Architectural plans and specifications.
+Provide all trenching, shading, bedding, and compacted backfill of plumbing trenches. Haul off all spoils generated by this scope of work. Perform all hard digging, including Caliche excavation, haul and disposal, as indicated per the Geotechnical Report.
+Provide all utility adjustments prior to placement of concrete.
+Assume all slab-on-grade will be finished using laser screed. Include provisions for this with underslab rough-in.
+Start-up all systems, provide certifications, and include any required training. Coordinate and cooperate with Commissioning Agent, controls, and testing and balancing programs. Subcontractor shall attend Commissioning meetings.
+Include multiple mobilizations as may be required per the Preliminary Construction Schedule and Logistics Plan.
+Unless otherwise stated or noted on drawings and specifications, all overhead systems must be labeled per ASME 13.1 for all State of Nevada projects.
+
+RFI’s must be submitted via the message function in Building Connected.
+
+ALTERNATES
+
+The following alternates are identified in the Contract Documents or are Specifically Requested by Contractor through this Scope of Work Proposal Package.
+
+Alternate 098.01-A – (ADD) – Demo Wet Utilities at Abandoned Elementary School Campus
+State the amount to be added to Subcontractor's Proposal to demolish wet utilities at abandoned elementary school campus (Idaho Circle), as indicated and required, including:
+
+Cut and cap water and sewer lines scheduled for demolition, including sawcutting of slab-on-grade, excavation, backfill, and concrete patch back per detail 3/AD1.15. Remove existing plumbing fixtures as indicated for haul off by others.
+Cut and cap existing propane piping (flush at top of slab at buildings to be demolished, and above roof line at buildings / structures to remain, as indicated).
+Disconnect existing propane tank, for removal by others, including cut and cap of propane piping as required.
+
+Alternate 098.01-B – (ADD) – New Propane Tank at Abandoned Elementary School Campus
+State the amount to be added to Subcontractor's Proposal to supply and install new propane tank at abandoned elementary school campus (Idaho Circle), as indicated and required, including concrete pad, piping to point of connection, and all incidental materials and equipment as required for a complete scope of work.
+
+TRADE PARTNER VOLUNTARY ALTERNATES
+
+The Proposer may choose to include any number of voluntary additive and/or deductive alternates to the Base (“Bid”) Proposal Value submitted and the Alternates identified above.  These Voluntary Alternates can be utilized for the purposes of, but not limited to, value engineering, product substitution, scope of work clarification/deviation, identifying Allowances for unknown criteria, etc.  All Voluntary Alternates should be supported by applicable documentation, substantiating the basis of the scope/value/product/etc., at the time of bid, or should be noted to follow within 24 hours.
+
+DISCLAIMER
+
+The client and CORE Construction reserve the right to accept or reject any or all proposals and to waive irregularities in the proposal process and to accept any proposal which is determined by the client and CORE Construction to be in their best interests.
+
+END OF SCOPE OF WORK
+
+
+Page  PAGE 2 of  NUMPAGES  2
+
+
+left63500NCSD Tonopah High School Sports Complex

@@ -1,0 +1,183 @@
+{
+  "source_file": "04.01 - Bid Specification Manual 042026.pdf",
+  "source_total_pages": 624,
+  "split_generated": "2026-07-10",
+  "divisions": [
+    {
+      "division_code": "div-00-procurement-contracting",
+      "division_name": "Division 00 - Procurement & Contracting Requirements",
+      "file": "04-specs-reports/spec-manual-split/div-00-procurement-contracting.pdf",
+      "source_page_start_0idx": 0,
+      "source_page_end_0idx": 28,
+      "page_count": 29
+    },
+    {
+      "division_code": "div-00-conditions",
+      "division_name": "Division 00 - Conditions of the Contract (General/Supplementary/Prevailing Wage)",
+      "file": "04-specs-reports/spec-manual-split/div-00-conditions.pdf",
+      "source_page_start_0idx": 29,
+      "source_page_end_0idx": 72,
+      "page_count": 44
+    },
+    {
+      "division_code": "div-01-general-requirements",
+      "division_name": "Division 01 - General Requirements",
+      "file": "04-specs-reports/spec-manual-split/div-01-general-requirements.pdf",
+      "source_page_start_0idx": 73,
+      "source_page_end_0idx": 114,
+      "page_count": 42
+    },
+    {
+      "division_code": "div-02-existing-conditions",
+      "division_name": "Division 02 - Existing Conditions (Demolition)",
+      "file": "04-specs-reports/spec-manual-split/div-02-existing-conditions.pdf",
+      "source_page_start_0idx": 115,
+      "source_page_end_0idx": 118,
+      "page_count": 4
+    },
+    {
+      "division_code": "div-03-concrete",
+      "division_name": "Division 03 - Concrete",
+      "file": "04-specs-reports/spec-manual-split/div-03-concrete.pdf",
+      "source_page_start_0idx": 119,
+      "source_page_end_0idx": 143,
+      "page_count": 25
+    },
+    {
+      "division_code": "div-04-masonry",
+      "division_name": "Division 04 - Masonry",
+      "file": "04-specs-reports/spec-manual-split/div-04-masonry.pdf",
+      "source_page_start_0idx": 144,
+      "source_page_end_0idx": 151,
+      "page_count": 8
+    },
+    {
+      "division_code": "div-05-metals",
+      "division_name": "Division 05 - Metals",
+      "file": "04-specs-reports/spec-manual-split/div-05-metals.pdf",
+      "source_page_start_0idx": 152,
+      "source_page_end_0idx": 178,
+      "page_count": 27
+    },
+    {
+      "division_code": "div-06-wood-plastics-composites",
+      "division_name": "Division 06 - Wood, Plastics & Composites",
+      "file": "04-specs-reports/spec-manual-split/div-06-wood-plastics-composites.pdf",
+      "source_page_start_0idx": 179,
+      "source_page_end_0idx": 180,
+      "page_count": 2
+    },
+    {
+      "division_code": "div-07-thermal-moisture",
+      "division_name": "Division 07 - Thermal & Moisture Protection",
+      "file": "04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
+      "source_page_start_0idx": 181,
+      "source_page_end_0idx": 198,
+      "page_count": 18
+    },
+    {
+      "division_code": "div-08-openings",
+      "division_name": "Division 08 - Openings",
+      "file": "04-specs-reports/spec-manual-split/div-08-openings.pdf",
+      "source_page_start_0idx": 199,
+      "source_page_end_0idx": 212,
+      "page_count": 14
+    },
+    {
+      "division_code": "div-09-finishes",
+      "division_name": "Division 09 - Finishes",
+      "file": "04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+      "source_page_start_0idx": 213,
+      "source_page_end_0idx": 246,
+      "page_count": 34
+    },
+    {
+      "division_code": "div-10-specialties",
+      "division_name": "Division 10 - Specialties",
+      "file": "04-specs-reports/spec-manual-split/div-10-specialties.pdf",
+      "source_page_start_0idx": 247,
+      "source_page_end_0idx": 260,
+      "page_count": 14
+    },
+    {
+      "division_code": "div-11-equipment",
+      "division_name": "Division 11 - Equipment",
+      "file": "04-specs-reports/spec-manual-split/div-11-equipment.pdf",
+      "source_page_start_0idx": 261,
+      "source_page_end_0idx": 268,
+      "page_count": 8
+    },
+    {
+      "division_code": "div-12-furnishings",
+      "division_name": "Division 12 - Furnishings",
+      "file": "04-specs-reports/spec-manual-split/div-12-furnishings.pdf",
+      "source_page_start_0idx": 269,
+      "source_page_end_0idx": 271,
+      "page_count": 3
+    },
+    {
+      "division_code": "div-13-special-construction",
+      "division_name": "Division 13 - Special Construction",
+      "file": "04-specs-reports/spec-manual-split/div-13-special-construction.pdf",
+      "source_page_start_0idx": 272,
+      "source_page_end_0idx": 273,
+      "page_count": 2
+    },
+    {
+      "division_code": "div-22-plumbing",
+      "division_name": "Division 22 - Plumbing",
+      "file": "04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+      "source_page_start_0idx": 274,
+      "source_page_end_0idx": 335,
+      "page_count": 62
+    },
+    {
+      "division_code": "div-23-hvac",
+      "division_name": "Division 23 - HVAC",
+      "file": "04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+      "source_page_start_0idx": 336,
+      "source_page_end_0idx": 416,
+      "page_count": 81
+    },
+    {
+      "division_code": "div-26-electrical",
+      "division_name": "Division 26 - Electrical",
+      "file": "04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+      "source_page_start_0idx": 417,
+      "source_page_end_0idx": 513,
+      "page_count": 97
+    },
+    {
+      "division_code": "div-27-communications",
+      "division_name": "Division 27 - Communications",
+      "file": "04-specs-reports/spec-manual-split/div-27-communications.pdf",
+      "source_page_start_0idx": 514,
+      "source_page_end_0idx": 520,
+      "page_count": 7
+    },
+    {
+      "division_code": "div-31-earthwork",
+      "division_name": "Division 31 - Earthwork",
+      "file": "04-specs-reports/spec-manual-split/div-31-earthwork.pdf",
+      "source_page_start_0idx": 521,
+      "source_page_end_0idx": 534,
+      "page_count": 14
+    },
+    {
+      "division_code": "div-32-exterior-improvements",
+      "division_name": "Division 32 - Exterior Improvements",
+      "file": "04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+      "source_page_start_0idx": 535,
+      "source_page_end_0idx": 599,
+      "page_count": 65
+    },
+    {
+      "division_code": "div-33-utilities",
+      "division_name": "Division 33 - Utilities",
+      "file": "04-specs-reports/spec-manual-split/div-33-utilities.pdf",
+      "source_page_start_0idx": 600,
+      "source_page_end_0idx": 623,
+      "page_count": 24
+    }
+  ]
+}

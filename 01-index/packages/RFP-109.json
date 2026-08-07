@@ -1,0 +1,250 @@
+{
+  "_package_id": "RFP-109",
+  "_title": "Prefabricated Ticket Booth",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 109 Prefabricated Ticket Booth.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "03 30 00",
+        "title": "Cast-In-Place Concrete",
+        "primary_package": "RFP-030",
+        "note": "Every package with equipment on a footing cites it; RFP-030 builds them all."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-12",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-12.txt"
+      },
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "L2.01",
+        "title": "IRRIGATION PLAN, LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.01.txt"
+      },
+      {
+        "sheet": "L2.02",
+        "title": "IRRIGATION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L2.02.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-40",
+      "E0-03",
+      "E1-10",
+      "E3-00",
+      "G0-00",
+      "L1.02",
+      "M0-10",
+      "P0-05",
+      "UT2"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Prefabricated Ticket Booth",
+    "awarded_sub": null,
+    "status": "NOT YET AWARDED as of 1% Subcontractor Listing (05.27.26) -- and all bids are SUPPLY-ONLY, under the 1%/$50k threshold",
+    "bid_tab_bidders": [
+      "American Press Box (Whitley Manufacturing) -- NO BID",
+      "Guardian Booth -- SUPPLY, $74,763",
+      "Par-Kut International -- SUPPLY, $21,635",
+      "Porta-King Building Systems -- SUPPLY, $17,019"
+    ],
+    "descope_files_present": false,
+    "note": "All bids are supply-only and below the NRS 338.16995 1% threshold ($120k) -- this may be why it's absent from the 1% Subcontractor Listing despite being on the original RFP 1% list. Confirm with PM whether this package will be re-classified as non-1%/ITB, and who holds install scope (ticket booth supplier is supply-only)."
+  },
+  "bidders": [
+    {
+      "firm": "Guardian Booth LLC",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_6x8.pdf.txt",
+      "current_date": "2026-04-24",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 74763,
+      "inclusions": [
+        "Includes the following:- Structural- HVAC- Electrical",
+        "Includes State of NV Board of Building Standard Insignia",
+        "Including Gutter/Downspout",
+        "include taxes unless specified otherwise."
+      ],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf.txt",
+          "date": "2026-04-24",
+          "inclusions": [
+            "Includes the following:- Structural- HVAC- Electrical",
+            "Includes State of NV Board of Building Standard Insignia",
+            "Including Gutter/Downspout",
+            "include taxes unless specified otherwise."
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Par-Kut International",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Par-Kut International (SUPPLY).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 21635,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "Sub Total",
+        "***  PAR-KUT DOES NO ONSITE WORK ***",
+        "Lead-Time is appx. 24-26 weeks after receipt of Signed & Dated Approval Drawings",
+        "Prepared by:",
+        "Larry Moore",
+        "lmoore@parkut.com"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Porta - King Building Systems ( Jay Henges Enterprises)",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Port-a-King (SUPPLY).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 17019,
+      "inclusions": [
+        "Lead-times: (subject to change)",
+        "Approval drawings: 5-10 business days (after PO",
+        "acknowledgment)",
+        "Durasteel Fabrication: 12-14 weeks** (after receipt of signed",
+        "approvals)",
+        "**add 2 weeks for larger Durasteel buildings, or buildings that",
+        "require state insignias",
+        "- Benjamin Adams, 04/24/26",
+        "* Lead times are subject to change at any time, without notice.  Stated lead time at time of proposal may change by the",
+        "time an order is placed and order is released for production.  All orders are scheduled after drawing approval, at current",
+        "lead time.",
+        "* Local municipalities, townships, and villages establish and interpret building codes independently. Therefore, Porta-",
+        "King cannot guarantee that this structure will meet all local codes. It is purchaser's responsibility to ensure code",
+        "compliance.",
+        "This Porta-King product will be custom-manufactured to your specification and cannot be returned for refund or credit.",
+        "Estimated Prepay and Add (PPA) freight for all buildings as described above to Tonopah, NV",
+        "The structure priced above will be manufactured per Porta-King standard specifications as outlined in our general",
+        "brochure, or, on our web site at www.portaking.com .  Unless otherwise noted, the prices quoted do not include off",
+        "loading, building installation, electrical hook-up, climate control installation, permits, engineering calculations, or",
+        "architectural-type drawings.  Our standard shop drawings can be provided upon request after receipt of a purchase",
+        "order.  The securing of building permits and compliance with appropriate building codes is not the responsibility of",
+        "Porta-King, but is the responsibility of the purchaser of the building.",
+        "Structural calculations (if included) to be generated, signed and sealed by registered professional engineer in the state in",
+        "which the project is located.  These documents shall be provided in PDF electronic format digitally signed and sealed by",
+        "the qualified professional engineer responsible for their preparation.  Structural calculations will be generated in",
+        "accordance with the appropriate design loads per the project location.  Any changes to the calculations or additional",
+        "information that is requested by other parties; above and beyond what is provided, will be subject to additional charges.",
+        "Materials delivered to the states of CA, FL, GA, IL, KS, KY, MD, MI, MN, MO, OK, NJ, OH, SC, SD, or VA will be charged the",
+        "appropriate state sales tax.  If sales tax has been included with this estimate, it will not be charged provided a current",
+        "sales tax exemption certificate is provided at the time you place your order.  Please note the tax exemption certificate",
+        "must be for the state to which materials will be shipped.",
+        "If this quotation is accepted, our payment terms are Net 30 days but some projects may require a deposit.  Please",
+        "contact your Porta-King sales rep about deposits prior to ordering.  Retention is not accepted.  Products not shipped at",
+        "time of completion will be billed at 75% of the total order amount with payment due upon receipt of invoice.  Products",
+        "held beyond 30 days are subject to additional storage fees.  Your acceptance of any products supplied by Porta-King",
+        "Building Systems shall, without limitation, constitute acceptance of these terms and conditions.",
+        "Visa, Mastercard and Discover Card payments are accepted but are subject to a 3% processing fee.",
+        "Installation Suggestions:",
+        "1. Pour a concrete island minimum 4\u201d deep.  The island should be a minimum of 12\u201d wider than the roofline",
+        "dimensions to allow a 6\u201d concrete border on each side of the building roofline.  Level the pad and install a bollard at",
+        "each corner of the building to further protect the building from damage caused by traffic.",
+        "2. Provide three-wire 240v/110v single-phase service to the concrete island.  Refer to PKBS detail drawings, which",
+        "illustrate the proper \u201cstub-up\u201d location.",
+        "3. Buildings arrive via flatbed truck.  The trucker must contact you 24-hours prior to deliver to arrange for off-loading.",
+        "Use either a forklift truck (with fork-extensions when required) or overhead crane to off-load the building from the",
+        "flatbed.  If an overhead crane is used, be sure to use \u201cspreader bars\u201d to prevent the building fascia/roof from being",
+        "damaged by the sling/straps.  Square the building on the pad and anchor.",
+        "4. Recommended concrete anchor is \u00bd\u201d x 4\u201d galvanized or stainless steel, or comply with local codes \u2013 whichever is",
+        "most stringent.",
+        "5. Make final electrical connections and clean the work area.",
+        "6. If downspouts are included with your building, they must be installed by others on site.",
+        "NOTE:  Unless otherwise noted, all preparatory and installation work",
+        "shall be performed by others.  It is NOT the responsibility of Porta-King to verify",
+        "that these \u201csuggestions\u201d comply with local or state codes, rather, it is the",
+        "responsibility of the purchaser of the building.",
+        "Best regards,",
+        "Porta-King Building Systems",
+        "Your Local Regional Sales Manager",
+        "Colton Carstens",
+        "Inside Sales",
+        "ccarstens@portaking.com",
+        "includes deposit requirement acceptance."
+      ],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "DURASTEEL PC Building, Model PC64 (6' x 4' Nominal), by Porta-King Building Systems.",
+      "Includes (2) duplex receptacles and (1) exterior flood light.",
+      "Sliding ticket window."
+    ],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 34,
+      "id": "SPEC-N04",
+      "severity": "medium",
+      "title": "RFP-109 holds no spec section of its own",
+      "detail": "Prefabricated Ticket Booth. No section exists; sheet A1-40 carries a written 'PRE-MANUFACTURED TICKET BOOTH SPECS' block, and PM ruling 08.04.26 sets the basis of design as Porta-King DURASTEEL PC Building Model PC64 (6'x4')."
+    }
+  ]
+}

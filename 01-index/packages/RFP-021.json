@@ -1,0 +1,310 @@
+{
+  "_package_id": "RFP-021",
+  "_title": "Running Track Surfacing",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 021 Running Track Surfacing.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "32 18 23.33",
+        "title": "Running Track Surfacing",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-021.",
+        "manual_pages": "571-576",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "32 19 19": {
+        "title_per_scope_doc": "Landscape Grading",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Landscape Grading. Absent; cited by both RFP-021 and RFP-022, the two packages most dependent on finish grade tolerance. Division 31's 31 20 00 Earth Moving is assigned to RFP-008 and is the nearest coverage.",
+        "carried_by": null,
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 32 19 19. Put the words \"Landscape Grading\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-12",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-12.txt"
+      },
+      {
+        "sheet": "A1-13",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-13.txt"
+      },
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "C2",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/C2.txt"
+      },
+      {
+        "sheet": "G1",
+        "title": "GRADING PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G1.txt"
+      },
+      {
+        "sheet": "G2",
+        "title": "GRADING PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G2.txt"
+      },
+      {
+        "sheet": "L1.00",
+        "title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.00.txt"
+      },
+      {
+        "sheet": "L1.01",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.01.txt"
+      },
+      {
+        "sheet": "L1.02",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.02.txt"
+      },
+      {
+        "sheet": "L1.03",
+        "title": "LANDSCAPE CONSTRUCTION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.03.txt"
+      },
+      {
+        "sheet": "L1.07",
+        "title": "LANDSCAPE CONSTRUCTION DETAILS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.07.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "E0-05",
+      "G0-00",
+      "GD",
+      "L0.01",
+      "L2.01"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Running Track Surfacing",
+    "awarded_sub": "Elite Sports Builders",
+    "license_no": "0081920",
+    "proposal_price": 434504.0,
+    "proposal_file": "021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf",
+    "other_bidders": [
+      "Great Western Installations (TBD, no price)",
+      "The Monument Company"
+    ],
+    "descope_files_present": true,
+    "descope_file_hint": "021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf; (Descope - Track Asphalt Info).pdf; (R1, Descoped).pdf",
+    "status": "awarded"
+  },
+  "bidders": [
+    {
+      "firm": "Elite Sport Builder",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Elite Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-14",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Needs the track to be uninterrupted by any animal/person",
+        "Assume to be the last contractor for surfacing",
+        "Assume 55 degrees at surface and air temperature",
+        "Assume coordination meeting with paving for tolerances",
+        "Includes 300 sqft of paving patching not exceeding \u00bd\u201d",
+        "Includes masking for curb and fencing (Assume winds of 10-15 MPH)",
+        "Assume 4/10 work weeks",
+        "Assume D 1/2\u201d mix w/5.6-5.8% oil content and heavy fines",
+        "Assume aggregate fully washed or crushed",
+        "HOMEWORK",
+        "Confirm the cost of the stencil for lettering",
+        "Confirm 5-year warranty",
+        "Provide cost of OT for Friday and Saturday (Assume 4/10 work weeks)",
+        "Send over specs for track",
+        "7150 Cascade Valley Court   I  Las Vegas, NV 89128  I  PH:  702.794.0550  I  FAX:  702.794.0953  I  www.COREconstruction.com-657225361315",
+        "7150 Cascade Valley Court   I  Las Vegas, NV 89128  I  PH:  702.794.0550  I  FAX:  702.794.0953  I  www.COREconstruction.com-657225361315",
+        "Trade Partner Proposal Review",
+        "Includes dumpsters",
+        "Includes 2nd tier striping sub",
+        "Includes long jump and shot put areas",
+        "Includes travel cost",
+        "Includes 11mm base mat"
+      ],
+      "exclusions_scope_specific": [
+        "Design team to clarify the level of testing for striping",
+        "Deviations from specifications",
+        "Surfacing is 13-14 mm",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Wind will be an issue when spraying the track",
+        "Inclusions or assumptions to cover grey areas in the scope"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Elite Sports Builders",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (R1, Descoped).pdf.txt",
+      "current_date": "2026-05-20",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope - Track Asphalt Info).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports - Track Asphalt Info.pdf.txt"
+      ],
+      "kind": "descope",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [
+        "Option - Additional Cost for Creating New Stencils For Track Striping",
+        "Option \u2014 Additional Cost For Overtime Pay To Expedite Surfacing Of Running Track (4 Day / 10 Hr Work Weeks Figured In Base Bid)"
+      ],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf.txt",
+          "date": "2026-05-20",
+          "inclusions": [],
+          "exclusions_scope_specific": [],
+          "priced_line_items": [
+            "Option - Additional Cost for Creating New Stencils For Track Striping",
+            "Option \u2014 Additional Cost For Overtime Pay To Expedite Surfacing Of Running Track (4 Day / 10 Hr Work Weeks Figured In Base Bid)"
+          ]
+        }
+      ]
+    },
+    {
+      "firm": "The Monument Company",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+      "current_date": "2026-05-15",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Monument Co (Form).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-14",
+          "inclusions": [
+            "Assume stand tank for a longer time",
+            "Assume minimal SWPPP, includes plan",
+            "Assume cap of utilities by others",
+            "Sprinturf as 2nd tier sub for surfacing",
+            "Track doctor 2nd tier sub for striping",
+            "LCP Tracker",
+            "Nevada 1st requirements",
+            "Skilled and Trained Workforce Requirements",
+            "Apprentice Utilization Requirements",
+            "Includes demo of the field and surrounding areas",
+            "Includes pricing for dumping haul off",
+            "Includes spray dust palliated",
+            "Includes sweal",
+            "Includes raising manholes 9 and 10",
+            "Includes 8\u201d perf pipe",
+            "Includes paving at the track and half moon",
+            "Includes geo-fabric, base, filter, and turf.",
+            "Includes field striping by Sprinturf"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes demo of other campus",
+            "Excludes abatement",
+            "Excludes caliche hard dig",
+            "Excludes rip rap at sweals",
+            "Excludes paving at the parking lot and street"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Standard font lettering included for track surfacing.",
+      "Includes 24 month warranty for track surface striping."
+    ],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": []
+}

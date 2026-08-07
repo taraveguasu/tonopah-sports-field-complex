@@ -1,0 +1,144 @@
+SCOPE OF WORK
+PROPOSAL PACKAGE #030 Concrete
+
+PRECEDENCE
+
+The trade partner Proposer submitting on this Scope of Work Proposal Package acknowledges receipt and review of this document, understands the Work and Expectations set forth under this agreement, and agrees to the terms and conditions thereof.  This document is intended to compliment the Contract Documents, however, in the event of any inconsistency, the Contract Documents (Plans, Specifications, and Supplemental Documents), shall govern.
+
+SCHEDULE
+
+Refer to the published schedule with the Notice of Request for Proposals (RFP) for pertinent start, end, and critical milestone dates for work associated with this proposal package.  It is expected that the Proposer shall provide all necessary labor, material, and equipment to meet the published schedule durations as part of the Base (“Bid”) Proposal Value.  Should the Proposer feel that this published duration is not optimal and believe that a more cost-efficient duration option is available, CORE Construction (“Contractor”) encourages the Proposer to include this information and cost savings value as a Voluntary Alternate on the Proposal (“Bid”) Form.
+
+REASONABLE INFERENCE / GURANTEED MAXIMUM PRICE PROPOSAL
+
+This delivery method requires a Guaranteed Maximum Price (GMP).  No change orders will be issued for work that is clearly identified, or can be reasonably inferred from the Contract Documents (Plans, Specifications, and Supplemental Documents).  Reasonable inference is subject to industry best practice standards and experience.  If the Proposer is concerned with what may or may not be construed as Reasonable Inference, Contractor highly recommends issuing a Request for Information clarifying the matter.  Exclusion of this clause may be grounds for disqualification of the subcontractor’s proposal.
+
+EXISTING CONDITIONS
+
+The site is currently active and is not available to Proposers without coordination with Contractor.  Do not contact the client / end users for access to the site.  Contractor has published reference documentation on existing conditions of the proposed site at the FTP site.  These documents may include subsurface utility locating maps, ground penetrating radar maps, potholing reports, as-built documents, drone videos / images, laser scans, photos, etc.  If there is any specific information about existing conditions that is required to finalize the value of the scope of work proposal package, Contractor encourages issuing a Request for Information identifying the necessary data.
+
+If information that is needed to finalize the proposal value is unavailable at the deadline for proposals, include the value as an Allowance, clearly identified in the Voluntary Alternates section of the Proposal (“Bid”) Form.
+
+CONSTRUCTION DOCUMENTS
+
+The Construction Documents to be used in developing pricing for this proposal package can be found here:
+
+BuildingConnected,
+If you need access, please contact CORE’S Team member
+
+Documents included are as follows: Plans, Specifications, Geotechnical Report(s), Asbestos Report(s), Contractor’s Notice of Request for Proposals, Preliminary Construction Schedule, Sample Subcontract Agreement, Insurance Requirements, Textura Information, General Trade Partner Requirements, Scopes of Work Proposal Packages, Subcontractor Proposal (“Bid”) Form, Affidavit(s), Addenda and Clarifications (if issued), Supplemental (Reference) Documents.
+
+Complete all Concrete Work in accordance with the plans and specifications in conformity with the contract, and other documents listed in the RFP and this Scope of Work Proposal Package.
+
+Primary Specifications
+Division 03 – Concrete
+Section 07 26 00 – Vapor Retarders
+Section 32 13 13 – Concrete Paving
+Section 32 13 73 – Concrete Paving Joint Sealants
+
+Related Specifications
+Division 00 – Procurement and Contracting Requirements
+Division 01 – General Requirements
+Division 04 – Masonry
+Section 07 92 00 – Joint Sealants
+Division 31 – Earthwork
+Section 32 11 23 – Aggregate Base Courses
+
+Scope of Work – Site Concrete – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply and place concrete and reinforcement for all concrete flatwork; athletic equipment pads, curbs, take-off boards, and associated concrete items as indicated; and turndown edges, including all layout.
+Supply and install concrete curbs at Synthetic Turf Sports Field and Running Track.
+Supply and install slot drain / trench drains and concrete curb along track perimeter and as indicated per detail D/L1.03, including all excavation, trenching, bedding, and backfill.
+Includes all piping, radius slot drains, storm drain collector pipe, concrete encasements as required, cleanouts, and all storm water drainage structures as indicated and required for a complete slot drain storm drainage system.
+Connection to site storm drainage system by others. Storm drainage system not related to slot / trench drainage system by others.
+Supply and install concrete pads at equipment pads, including transformer pad.
+Provide keyed joints, saw cutting, control joints, and expansion joints as indicated and required.
+Provide expansion joints filler and sealants as required. Place and strip white cap at all expansion joints.
+Provide control joint layout shop drawings for architectural approval.
+Dowel all exterior sidewalks to the building slab at entrances and doorways, whether or not detailed on drawings.
+Provide and install 5/8” diameter x 18” long slick dowels at 18-inches on center (minimum) at all cold joints, whether shown or not.
+Provide concrete sections and finishes for all site concrete as indicated and specified.
+Provide cast-in-place footings for site items indicated in drawings. Excavate and backfill footings including overexcavation as required per Geotechnical Report.
+Scoreboard footings. Coordinate with Scoreboard Subcontractor for requirements.
+Pressbox footings. Coordinate with Pressbox Subcontractor for requirements.
+Prefabricated Ticket Booth slab-on-grade and footings. Coordinate with Ticket Booth Subcontractor for requirements.
+Bleacher footings / grade beams. Coordinate with Bleacher Subcontractor for requirements.
+Athletic Equipment footings (including football goal posts, high jump posts, etc.) Coordinate with Track & Field Athletic Equipment Subcontractor for requirements.
+Sports Field light pole bases.
+Includes sacking exposed concrete surfaces, drypack under light pole base plates, and installing anchor bolts furnished by others. Anchor bolt templates will be supplied by Electrical Subcontractor. Coordinate light pole locations and conduit interface with Electrical Subcontractor.
+Install all steel embeds (supplied by others). Provide dry pack and non-shrink grout at structural steel column base plates as indicated.
+Install all bollards (supplied by others). Provide concrete footings and infill bollards with concrete and provide domed top, as indicated and required.
+Supply Type II, prepare sub-base, and place and compact Type II for site concrete scope of work.
+
+Scope of Work – Cast-in-Place Structural Concrete – Provide all materials, labor, equipment, and supervision for a complete scope of work per plans and specifications. This scope of work shall include, but not be limited to:
+Supply and install cast-in-place structural concrete including continuous footings, slab-on-grade, and turned-down edges, including all layout.
+Coordinate threshold requirements per contract documents.
+Provide all concrete housekeeping and equipment pads, including curbs, as indicated  and/or required including any references on the MP&E drawings.
+Provide concrete pour backs at floor sinks and restroom slope-to-drains.
+Provide stepped footings at all utility entrances. Assumes three-feet (3’) step.
+Excavate all footings; excavate and finish grade depressed areas in the slab.
+Backfill and compact exterior and interior sides of building wall footings and interior isolated footings with approved fill material.
+Furnish and install all Type II at slabs-on-grade.
+Furnish and install all required vapor/moisture barrier per Geotechnical Report, as indicated. Slab-on-grade aggregate base and vapor/moisture barrier shall be installed after all other trades have completed underground rough-in work.
+Vapor barrier shall be placed directly below the concrete slab-on-grade.
+Tape all joints and penetrations.
+Supply and install damproofing / waterproofing for footings and foundations.
+Provide keyed joints, saw cuts, control joints, and expansion joints, including compressible filler at CMU walls.
+Provide control joint layout shop drawings for architectural approval.
+Provide chamfers as required.
+Demonstrate joint and finish conditions on 15’x15’ mockup slab on-site. Mock-up shall be constructed and maintained at a location as directed and will not be part of the building envelope. Coordinate with onsite Superintendent for mock-up size and requirements.
+
+Scope of Work – General Scope Requirements – The following requirements shall apply to all Work under this Scope of Work package:
+Provide all tests and certifications required for complete and operational systems.
+Provide a qualified representative onsite for all tests and inspections as required.
+Subcontractor is responsible for scheduling testing and walking with inspectors to get systems signed off for final approval.
+Subcontractor responsible for scope coordination, including but not limited to:
+Coordinate this scope of work, including layout, with other trade Subcontractors to eliminate conflicts.
+Coordinate block outs and sleeves in concrete work with other trade subcontractors.
+Coordinate with Wet Utilities, Plumbing, HVAC, and Electrical & Low Voltage Subcontractors for installation of fixtures, conduits, and sleeves in slab-on-grade.
+Comply with the requirements of the Geotechnical Report and Contract Documents for excavation and backfill requirements, as well as seismic requirements. In the event of a conflict in requirements between the documents, the most stringent requirement shall prevail.
+The Project has a Class D Seismic Design Category; Seismic Importance Factor: 1.0.
+Use of Type V concrete is required for all concrete in contact with soil.
+Coordinate with Masonry, Steel, Mechanical, Plumbing, and Electrical & Low Voltage Subcontractors for layout requirements.
+Provide layout from hubs provided by Contractor. Layout to include back checking gridline dimensions and installing batter boards that are clearly labeled and installed in a consistent elevation and location to allow all trades to utilize. Layout to also include transfer of gridlines to structure to all for use by other trades.
+Supply and place all formwork, blocking, and shoring.
+Maintain batter boards until after slab-on-grade is complete.
+Provide all pumping, concrete materials, additives, aggregates, wet curing and curing compounds per specifications, finishing and related accessories as specified and required for a complete system.
+Supply and install all concrete Reinforcing steel – including rebar, welded wire fabric, dowels, drag bars, stirrups, 90-degree hooks – for footings and slabs including piers, isolated footing, footings for CMU walls, pilasters and columns.
+Provide all rebar sizes, grades, and lap splices as indicated and required.
+Provide all miscellaneous materials required to provide a complete scope of work including all tie wire, chairs, dobies, and template ties as required.
+Supply, drill, and install epoxied smooth dowels if shown.
+Coordinate required masonry laps with Masonry Subcontractor. Rebar lap to start at Finish Floor unless directed otherwise by Contractor.
+Supply, install, and maintain rebar safety caps until Masonry Subcontractor assumes responsibility.
+Provide Cold and Hot Weather Protection for all concrete placement and finish; cure concrete as required. Follow requirements of ACI306.1-90.
+Provide all concrete sealers and cures required at time of concrete placement and finish, to be compatible with floor finish adhesives.
+Clean and remove from site all debris and unsatisfactory materials generated from this scope of work.  Haul off / export dirt spoils generated by this scope of work.
+Provide containment for concrete truck wash-out and remove concrete spoils from the site.
+Provide dust control, street cleaning, barricades, and flagging as required for the scope of work of this Subcontract per Nye County Air Quality requirements and Contractor requirements.
+Clean and maintain trucking access routes for all equipment, including street sweeping as required for this scope of work.
+Adhere to FF/FL requirements, including testing, as specified.
+Include multiple mobilizations as may be required per the Preliminary Construction Schedule and Logistics Plan.
+
+RFI’s must be submitted via the message function in Building Connected.
+
+ALTERNATES
+
+The following alternates are identified in the Contract Documents or are Specifically Requested by Contractor through this Scope of Work Proposal Package.
+
+Alternate 030.01 – (ADD) – Flagpole Footing and Installation
+State the amount to be added to Subcontractor's Proposal to provide flagpole foundation, and install flagpole (provided by others).
+
+TRADE PARTNER VOLUNTARY ALTERNATES
+
+The Proposer may choose to include any number of voluntary additive and/or deductive alternates to the Base (“Bid”) Proposal Value submitted and the Alternates identified above.  These Voluntary Alternates can be utilized for the purposes of, but not limited to, value engineering, product substitution, scope of work clarification/deviation, identifying Allowances for unknown criteria, etc.  All Voluntary Alternates should be supported by applicable documentation, substantiating the basis of the scope/value/product/etc., at the time of bid, or should be noted to follow within 24 hours.
+
+DISCLAIMER
+
+The client and CORE Construction reserve the right to accept or reject any or all proposals and to waive irregularities in the proposal process and to accept any proposal which is determined by the client and CORE Construction to be in their best interests.
+
+END OF SCOPE OF WORK
+
+
+Page  PAGE 2 of  NUMPAGES  2
+
+
+left63500NCSD Tonopah High School Sports Complex

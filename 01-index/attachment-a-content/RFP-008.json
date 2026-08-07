@@ -1,0 +1,253 @@
+{
+  "_package": "RFP-008",
+  "_title": "Site Demolition, Salvage, Earthwork, Asphalt Paving, Wet Utilities, & Site Signage & Striping",
+  "_subcontractor": "New-Com, Inc. (TAB Contractors and MMC, Inc.)",
+  "_contract_amount": 1741321,
+  "file_stem": "New-Com TAB",
+  "_sources": [
+    "Scope of Work #008 narrative (primary trade-boundary authority)",
+    "Project Manual: 02 41 00, 31 10 00, 31 20 00, 31 50 00, 32 12 16, 33 05 00, 33 10 00, 33 12 00, 33 30 00",
+    "Addendum #1 (05.06.26) revised sheets C1 and GD; Clarifications No. 1 and No. 2",
+    "Exhibit B Basis of GMP (07.01.26) - contract document per PM ruling 08.04.26",
+    "TAB proposal 05.12.26; scope review agenda 05.19.26; homework response 05.22.26; descope homework 05.29.26",
+    "NDX and Monument proposals, read for what the documents left ambiguous",
+    "GMP R2 leveling sheet 8 - contract amount reconciled to SUM(L19:L82) = $1,741,321"
+  ],
+  "simple": {
+    "8": "New-Com, Inc. (TAB Contractors and MMC, Inc.)",
+    "9": [
+      "6600 Amelia Earhart Ct., Ste. B",
+      "Las Vegas, NV 89119"
+    ],
+    "10": "702-642-3033",
+    "11": "Shane Haycock",
+    "12": "shaycock@nclasvegas.com",
+    "14": "1,741,321.00",
+    "23": "Site Demolition, Salvage, Earthwork, Asphalt Paving, Wet Utilities, & Site Signage & Striping",
+    "94": [
+      "",
+      "mobilizations"
+    ],
+    "98": [
+      "Contractor may",
+      " also",
+      " request up to",
+      " ",
+      "six (6) physical hard copies of all submittals.",
+      ""
+    ]
+  },
+  "standard_clauses": {
+    "26": true,
+    "27": true,
+    "28": true,
+    "100": true
+  },
+  "scope_groups": [
+    {
+      "header": "Temporary Construction Requirements & Dust Control - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Provide a minimum 10,000 square foot construction trailer pad of fractured rock, and grade and install gravel at all Contractor parking and laydown areas as shown on the Logistics Plan.",
+        "Construct, maintain for the duration of the Project, and remove at completion all Nye County Department of Air Quality required trackout lengths, consisting of both trackout rock and rumble plates, at all vehicular entrances as indicated on the Logistics Plan.",
+        "Clean and maintain all trucking access routes for equipment associated with this Scope of Work, including street sweeping as required for this Scope of Work only.",
+        "Supply and install a stand tank for the duration of the Project, including temporary water piping from the nearest hydrant to the stand tank and a temporary waterline to the trailer area, and remove all such temporary piping, meters, and connections at completion. Jones valve is provided by Contractor.",
+        "Prepare, submit, and obtain the Storm Water Pollution Prevention Plan (SWPPP) for the Project site, and provide installation, maintenance, and all required maintenance documentation of all controls for the duration of this Scope of Work.",
+        "Provide dust control for all operations related to this Scope of Work in accordance with Nye County Air Quality requirements, and provide dust palliative as indicated at completion of the work at each site."
+      ]
+    },
+    {
+      "header": "Building Wrecking - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Demolish and remove from site the existing Modular Concessions Building in its entirety, including foundations.",
+        "Demolish and remove from site the existing Press Box in its entirety, including deck and stairs.",
+        "Remove all below-grade improvements, including foundations and utility services, within a five foot (5') boundary of the existing building footprints, and cut and cap all utilities.",
+        "Include all sawcutting necessary to complete this Scope of Work."
+      ]
+    },
+    {
+      "header": "Site Clearing & Selective Site Demolition - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Salvage and turn over to Contractor all items scheduled to be salvaged, including fixtures from the existing concessions building as indicated, and coordinate with Contractor for removal, protection, and storage or turnover as required.",
+        "Coordinate with the Electrical Subcontractor to confirm all dry utilities are capped and made safe, and that all equipment salvage is complete, prior to commencing demolition activities.",
+        "Provide all site demolition and disposal of items disconnected by others, including all abandoned conduit and feeders as indicated.",
+        "Perform all wet utilities demolition, including excavation of existing underground wet utilities; remove and dispose of existing domestic water lines from the existing backflow preventer to five feet (5') outside the existing building, and existing sewer lines from the existing manhole to five feet (5') outside the existing building.",
+        "Abandon in place all existing below-grade utilities not uncovered during earthwork activities, unless specifically scheduled for removal.",
+        "Include all photographs and documentation of existing conditions as indicated.",
+        "Demolish all existing curbs, gutters, asphalt and concrete paving, including the existing running track surfacing and subsurfacing.",
+        "Demolish all existing fencing and gates in their entirety, including foundations and footings.",
+        "Demolish all existing field lighting, light poles, and the flagpole, including foundations and footings.",
+        "Demolish the existing press box and bleachers, including foundations and footings as indicated and required.",
+        "Demolish all existing athletic equipment, including football goal posts and track and field equipment as indicated, including landing pit materials, and including foundations and footings as indicated and required.",
+        "Demolish, remove, and dispose of all existing turf materials and all existing landscaping.",
+        "Provide tree removal, including stump grinding and removal, as indicated and required, and coordinate with the Landscape Subcontractor for continued irrigation of trees scheduled to remain.",
+        "Clear the site of all existing organics, non-organic waste, refuse, and unsatisfactory materials, including removal of weeds at landscape planter areas within the limits of work, with haul-off and legal off-site disposal.",
+        "Protect in place all items scheduled to remain, including the electrical transformer and utility vaults.",
+        "Include all sawcutting required to complete this Scope of Work."
+      ]
+    },
+    {
+      "header": "Domestic Water Distribution System - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Supply and install the complete domestic water system, including tie-in to the existing backflow, and all piping, fittings, valves, reducers, gate valves, bends, tees, thrust blocks, and related components and appurtenances required for a complete and functioning system at all indicated points of connection.",
+        "Provide ductile iron, copper, and/or PVC water system piping, fittings, valves, and thrust blocks as indicated and required.",
+        "Perform multiple flush and test procedures as required by Tonopah Public Utilities, disinfect and chlorinate all water lines, and provide written documentation of all flush procedures and testing.",
+        "Provide GPS as-builts of all underground domestic water, and provide a drafted plan upon completion of the utility Scope of Work."
+      ]
+    },
+    {
+      "header": "Sanitary Sewer System - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Supply and install the complete sanitary sewer system, including tie-in to the existing manhole, and all piping, fittings, and related components and appurtenances required for a complete and functioning system.",
+        "Include shoring as required for deep manholes.",
+        "Supply and install concrete encasement of new sanitary sewer piping at water crossings where separation distances cannot be maintained, as required.",
+        "Camera all sanitary sewer piping to five feet (5') outside of the building and provide video documentation to Contractor for acceptance.",
+        "Provide GPS as-builts of all underground sanitary sewer utilities, and provide an AutoCAD file and drafted plan upon completion of the utility Scope of Work."
+      ]
+    },
+    {
+      "header": "Storm Drain System - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Supply and install the complete storm drainage system, including all piping, catch basins, drop inlets, manholes, outfalls, and all fittings as indicated.",
+        "Provide reinforced concrete pipe flared end sections at the field storm drain discharge in lieu of the cast-in-place concrete headwall detail, per Exhibit B - Basis of GMP (07.01.26) Owner Accepted Alternate.",
+        "Supply and install perforated storm drainage piping at all athletic equipment sand pits, including gravel bedding and backfill as indicated and required.",
+        "Supply and install the perforated storm drain system along the straight sides of the turf system as indicated and detailed, including the additional perforated field drain at the south end of the field.",
+        "Supply and install rip rap at the storm drain outlet as indicated."
+      ]
+    },
+    {
+      "header": "Wet Utilities Trenching, Backfill & Excavation Support - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Request Call Before You Dig on site prior to any excavation activities to obtain the dig permit, and locate and mark out all known private utilities in the vicinity of excavation activities prior to commencement.",
+        "Verify sanitary sewer and water supply invert elevations as soon as this Subcontract is in place, and coordinate the layout and invert elevations of all site utility work with the Plumbing Subcontractor and all other affected Subcontractors to eliminate conflicts.",
+        "Provide all excavation, trenching, shoring, and temporary protection required for this Scope of Work in compliance with OSHA standards and Contractor requirements, including all excavation support and hazard protection with shop drawings and engineering where shoring is required.",
+        "Provide all work barriers, hazard barriers, hazard signage, flaggers, and traffic control for the work of this Subcontract.",
+        "Perform all wet utility shading, bedding, backfill, and compaction, and ensure that subgrade elevations at completion of trenching and backfilling match adjacent subgrade elevations. All backfill operations shall be inspected by a third-party inspection agency; refer to the Geotechnical Report for backfill requirements.",
+        "Supply and install all concrete for the wet utilities Scope of Work, including thrust blocks, slurry, encasement, and manhole collars as required.",
+        "Provide trenching for the storm drain system as required to complete this Scope of Work.",
+        "Make final connection of site wet utilities to building plumbing line(s) where building plumbing is already in place, and provide all final wet utility adjustments."
+      ]
+    },
+    {
+      "header": "Earthwork - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Perform all site grading work, including over-excavation, scarification, compaction, import and export, and structural fill material to attain all on-site and off-site design subgrades, including earthwork associated with drainage features, curbs, driveways, landscaping, and site concrete.",
+        "Excavate and remove all rock, caliche, and hard dig material as required based on the Geotechnical recommendations, including provision of a D-10 or equivalent dozer for hard dig as required to maintain the Project schedule.",
+        "Over-excavate all areas with unacceptable soils as required by the Geotechnical Report. In the event of a conflict in requirements between the Geotechnical Report and the Contract Documents, the most stringent requirement shall prevail.",
+        "Remove and legally dispose of all abandoned underground utilities encountered during earthwork activities.",
+        "Provide grading to plus or minus 0.10 foot at building and site concrete areas and at landscaping areas, including artificial turf areas, unless otherwise noted, and perform grading for all site drainage features as indicated so that all water drains as shown on the Civil drawings. Ponding will result in rework at no cost to Contractor.",
+        "Coordinate backfill requirements for planting areas with the Landscaping Subcontractor, and do not use oversize material as backfill.",
+        "Supply and install Type II aggregate base at the building pad and provide a certified building pad.",
+        "Supply and install Type II aggregate base for all on-site curbs and asphaltic concrete paving.",
+        "Provide and install rip rap as indicated.",
+        "Provide all labor, materials, and equipment to complete backfill of all exterior building footings, and meet all drainage requirements for the site, including filter fabric and drain rock as may be required, coordinating with the Wet Utilities, Landscaping, Waterproofing, Concrete, and Masonry Subcontractors as required.",
+        "Provide all import from an approved pit; on-site material shall be reviewed and approved prior to placement, and all documentation required to obtain third-party approval for the use of soil materials shall be provided.",
+        "Relocate spoils to the existing stockpile location north of the High School as indicated, and legally dispose off site of all excess spoils generated by this Scope of Work at completion of the work.",
+        "Provide soil stabilization at all graded slopes not scheduled to receive paving as required to maintain the angle of repose."
+      ]
+    },
+    {
+      "header": "Asphaltic Concrete Paving - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Supply, place, and compact all asphalt paving at the running track as indicated in the soils report and as shown on the Civil documents.",
+        "Ensure the finished surface meets the Track Surfacing subsurface tolerances as specified and required, and coordinate acceptance of the finished asphalt surface with the Running Track Surfacing Subcontractor prior to their work.",
+        "Provide in-house testing of the asphalt paving mix and installation."
+      ]
+    },
+    {
+      "header": "General Scope Requirements - The following requirements shall apply to all work under this Scope of Work package:",
+      "items": [
+        "Request surveying a minimum of forty-eight (48) hours in advance, in writing to Contractor, and protect and maintain all survey monuments and staking to prevent damage.",
+        "Immediately cease work and coordinate with Contractor for remediation and disposal of any hazardous materials encountered during the course of the work.",
+        "Provide all required testing of wet utility systems, schedule all testing, and walk with inspectors to obtain sign-off of all systems for final approval, providing a qualified representative on site for all tests and inspections as required.",
+        "Provide a competent foreman who shall participate in the daily huddle and weekly workplan meetings.",
+        "Include multiple mobilizations, import and export, and haul and disposal activities as may be required per the Preliminary Construction Schedule and Logistics Plan.",
+        "Provide record drawings as required by all Authorities Having Jurisdiction.",
+        "Comply with the requirements of the Geotechnical Report and the Contract Documents. In the event of a conflict in requirements between the documents, the most stringent requirement shall prevail."
+      ]
+    }
+  ],
+  "scope_options": [
+    {
+      "scope": "site clearing and selective site demolition at the abandoned elementary school campus (Idaho Circle) per Alternate 008.04, including sawcutting and removal of concrete paving, tree removal and stump grinding, landscaping and irrigation removal, removal of chain link fencing and gates, handrails, playground equipment and basketball hoops and posts including footings, filling of open stem wall CMU cells, rough site grading with backfill of all footing holes and trenches, removal and haul-off of the existing propane tank and associated piping, capping of the abandoned water line, dust control, dust palliative, and all traffic control and permits required for this work",
+      "amount": "45,000.00"
+    },
+    {
+      "scope": "trenching for the site irrigation line",
+      "amount": "19,000.00"
+    },
+    {
+      "scope": "trenching for the field electrical",
+      "amount": "40,000.00"
+    },
+    {
+      "scope": "caliche removal in excess of the quantities depicted in the Contract Documents, including hard digging, excavation, haul, disposal, and replacement with engineered fill, at a unit rate of $40.00 per cubic yard",
+      "amount": "40.00 per cubic yard (unit rate)"
+    }
+  ],
+  "spec_sections": [
+    "Section 02 41 00 - Demolition - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 31 10 00 - Site Clearing - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 31 20 00 - Earth Moving - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 31 50 00 - Excavation Support and Protection - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 32 12 16 - Asphalt Paving - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 33 05 00 - Common Work Results for Utilities - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 33 10 00 - Water Distribution System - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 33 12 00 - Water Service Connections - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 33 30 00 - Sanitary Sewer System - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work."
+  ],
+  "directives": [
+    "Addendum #1 (05.06.26), including revised Civil sheets C1 and GD",
+    "Clarification No. 1 (05.06.26) and Clarification No. 2 (05.07.26), including all RFI responses issued therewith",
+    "Exhibit B - Basis of Guaranteed Maximum Price (07.01.26)"
+  ],
+  "exclusions": [
+    "Type II aggregate base and geotextile fabric beneath the synthetic turf field",
+    "Slot drains and trench drains at the track perimeter, and the concrete curb at the track perimeter",
+    "Grading at the existing main access road, which is to remain as-is",
+    "Leveling sand at the field, and 3/8 inch by 1/2 inch fractured rock",
+    "Slope stabilization beyond that required to maintain the angle of repose at graded slopes",
+    "Decomposed granite at the shot put and discus area",
+    "Track and field signage and athletic field markings",
+    "Long jump pit sand and rip rap at the swale, which are included in the Landscaping & Irrigation Scope of Work",
+    "Propane gas system at the abandoned elementary school campus",
+    "Concrete flatwork, sidewalks, curb and gutter, and athletic equipment footings",
+    "Dry utility trenching and backfill, except as specifically included above"
+  ],
+  "phase_code": "02-1000-10000",
+  "_phase_code_note": "Template default for Division 02. The GMP's Viewpoint Import sheet carries the amount but not a full phase code \u2014 CONFIRM with accounting.",
+  "_leveling_sheet": "tab '8' (Site Demo, Earthwork, Paving & Wet Utilities)",
+  "_amount_buildup": [
+    [
+      "Base Bid \u2014 TAB proposal 05.12.26, restated 05.22.26",
+      1924851
+    ],
+    [
+      "Deduct: delete Type II and geofabric from turf field",
+      -150000
+    ],
+    [
+      "Deduct: delete slot / trench drains at track",
+      -125000
+    ],
+    [
+      "Add: additional 8\" perforated field drain, south end of field (210 LF)",
+      30000
+    ],
+    [
+      "Deduct: Accepted VE #10 \u2014 leave access road as-is (incl. relocation of 2,100 CY to stockpile)",
+      -16750
+    ],
+    [
+      "Add: D-10 dozer for hard dig, 1 month (saves 2 weeks)",
+      70000
+    ],
+    [
+      "Add: trencher for storm drain",
+      18720
+    ],
+    [
+      "Deduct: Accepted VE #9 \u2014 RCP flared end section in lieu of headwall",
+      -10500
+    ]
+  ]
+}

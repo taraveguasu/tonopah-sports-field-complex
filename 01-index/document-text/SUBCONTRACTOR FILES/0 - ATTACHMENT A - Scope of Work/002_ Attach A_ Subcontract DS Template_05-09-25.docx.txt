@@ -1,0 +1,107 @@
+ATTACHMENT A
+SCOPE OF WORK
+
+Project Name: Name of Project
+CORE Project No: XX-XX-XXX
+
+Subcontractor:
+Company Name
+AddressCity, ST, Zip
+Phone: 000-000-0000
+Contact Person: Name
+Email:
+
+LUMP SUM PRICE FOR LABOR, MATERIAL, TAX, AND FREIGHT     $000,000.00
+        No Bond Included
+
+Subcontractor has accounted for, as part of this lump sum Subcontract, any and all potential material, equipment, and labor cost increases over the course of the Project, unless otherwise noted in the Scope of Work.
+
+SCOPE OF WORK:
+
+Subcontractor shall perform the Scope of Work generally described as:
+
+Aluminum Entrances and Storefronts, Glass, and Glazing
+
+Subcontractor shall provide a complete turnkey, (i.e., furnish and install), Scope of Work in accordance with Contract Documents to include, but not be limited to:
+Subcontractor shall notify the local underground utility service prior to commencing with any underground work on-site. All results to be provided to Contractor for as-built documentation purposes.
+Provide and install all aluminum frames per plans and specifications, specifically referencing one (1) door frame per the door schedule on sheet A-601, four (4) window frames at operable in-swing windows, (i.e., types A and B), per elevations on sheet A-601 and section 2 on sheet A-305, curtain wall window frame types D, E, F, and G (structural HSS beams/columns and metal building columns/panels by others) per elevations on sheet A-601, and all miscellaneous aluminum frame related details, (i.e., 2A, 2B, 2C, 2D, 2E, 3B, 3C, 3D, 3E, 4A, 4B, 4C, 5A, 5B, 5C, 5D, 5E, 6A, 6B, 6C and 6D), on sheet A-602.
+Text
+Text
+Provide and install one (1) manufactured aluminum door per plans and specifications, specifically referencing door #6014 and all associated hardware, (e.g., continuous hinge, battery operated alarmed panic device, mortise cylinder, surface mount closure, offset pull, etc.).
+Text
+Text
+Text
+Provide and install aluminum break metal closure strip at all aluminum frame to HSS column and beam transition locations per plans and specifications, specifically referencing detail 3B on sheet A-602.
+Provide and install aluminum windowsill flashing at one (1) aluminum frame to PBU panel transition, (i.e., over lobby restroom pop-out), per plans and specifications, specifically referencing detail 6C on sheet A-602.
+Provide and install thirty-four (34) engineered steel stand-off assemblies connecting the curtain wall assembly to the exterior perforated screen wall at the building’s east elevation. Specific connection details to be performance based.
+Provide all labor, materials, and equipment necessary to supply and install complete GLAZING SYSTETM in strict accordance with the Contract Documents and the Southern Nevada Bid Depository “Complete Glazing – Onsite and Offsite – Standard Basis for Bidding” scope of work and conditions unless otherwise noted.
+
+Subcontractor has accounted for, as part of this lump sum Subcontract, the fact that the Contract Documents may not contain all required details, parts, or pieces necessary to provide a complete and functioning system.  Therefore, it is Subcontractor’s responsibility to make reasonably inferable assumptions and allowances, as part of its lump sum proposal, to help account for the design intent and ensure that all elements associated with the Scope of Work comply with all governing codes and regulations.
+
+SCOPE OPTIONS:
+
+Contractor may exercise the option to add, via Change Order, a complete turnkey Scope of Work for interior aluminum, glazing sealants for a total amount of $2,200.00.
+
+CONSTRUCTION DOCUMENTS:
+
+Subcontractor shall adhere to all Project specifications within the Project Manual and all Project drawings as referenced in the Attachment C – Enumeration of Documents section of this Subcontract, specifically referencing the following:
+
+Provide all labor, material, equipment, and services required to furnish and install all items included in the division(s) of the Project Manual listed below, as related to Subcontractor’s Scope of Work:
+Division 00 – Bidding and Contract Requirements
+Division 01 - General Requirements
+
+Provide all labor, material, equipment, and services required to furnish and install all items included in the section(s) of the Project Manual listed below, as related to Subcontractor’s Scope of Work:
+Section 07 9200 – Joint Sealants
+Section 08 4100 - Entrances and Storefronts
+
+All construction documents referenced in the Attachment C – Enumeration of Documents portion of this Subcontract can be downloaded from the following location:
+
+Procore – Project # and Name
+Invite to be sent to Project team
+Password: Subcontractor generated
+
+Contractor will be using Procore web-based software on this Project to maintain an electronic set of As-Built Documents.  Subcontractor is to furnish electronically all As-Built documents, appropriate warranties and guarantee information, equipment manuals, operations, and maintenance manuals, all of which are a condition to achieving final completion and to receiving final payment.  A Project within Procore has been created for this Project and access will be given to Subcontractor.  All construction documents will be accessible to Subcontractor through Procore.  It will be the responsibility of Subcontractor to create As-Built documents electronically in the field in lieu of providing hard copies.  Contractor will provide training and support on Procore to Subcontractor.
+
+To obtain access, Subcontractor must go to the Procore Software site (www.procore.com) and create a login.  Subcontractor shall create a Username and Password then send a corresponding email address to Contractor’s Project Manager; Contractor’s Project Manager will then email Subcontractor with an invitation to the Project in Procore.  Subcontractor may request additional instructions on how to create a login and Contractor’s Construction Technology department will provide assistance.
+
+Subcontractor shall adhere to all miscellaneous Project modifications, specifically referencing the following directives:
+
+RFI # - Provide all material, equipment, and services as required to furnish and install all items included in directive, as they relate to the Scope of Work.
+
+ASI # - Provide all material, equipment, and services as required to furnish and install all items included in directive, as they relate to the Scope of Work.
+
+PR # - Provide all material, equipment, and services as required to furnish and install all items included in directive, as they relate to the Scope of Work.
+
+PROJECT SPECIFIC PROVISIONS:
+
+Subcontractor shall provide two (2) mobilizations as required to complete the Scope of Work as per the dates set forth on the monthly baseline and weekly look-ahead schedules.
+
+Subcontractor’s foreman, at a minimum, shall attend all daily huddle, weekly work plan, and three phased QAQC plan meetings, which occur a reasonable time before and for the duration of the Subcontract Work on the Project.
+
+Subcontractor shall participate in a Rolling Contractor-Controlled Insurance Program (RCCIP) for all on-site general liability insurance.  Acceptance of this Subcontract acknowledges the use of a Rolling Contractor-Controlled Insurance Program (RCCIP).
+
+All Submittals shall be submitted in electronic format online using Procore.  Contractor may also request up to six (6) physical hard copies of all submittals.
+
+Subcontract pricing is based on tariff and/or duties rates in effect as of the date of this Subcontract.  If a net increase in tariffs and/or duties causes a net cost increase on materials, equipment, or products directly required to perform the Subcontract Work, the Subcontractor shall be entitled to a reasonable adjustment to the Subcontract Price to the extent the Prime Contract entitles Contractor to compensation for such increase and then only to the extent of any amount that Contractor may, on behalf of Subcontractor, recover from Owner.  To the extent applicable, any provisions regarding tariff changes in the Prime Contract shall flow down to this Subcontract. Subcontractor must supply reasonable documentation of proof of tariff and/or duties increase and cost impact between the date of this Subcontract and the date of said cost increase, based on an industry approved index associated with that of the affected material. Subcontractor must provide written notice of the cost impact and supporting documentation to Contractor within 7 calendar days of becoming aware.
+
+EXCLUSIONS:
+
+The following items are specifically excluded from the Subcontractor’s Scope of Work:
+Building permits
+Bonds
+General Liability Insurance - Onsite Coverage
+Interior aluminum, glazing, sealants
+?????
+
+
+
+Page  PAGE 4 of  NUMPAGES  4
+
+
+
+Page  PAGE  \* Arabic  \* MERGEFORMAT 1 of  NUMPAGES  \* Arabic  \* MERGEFORMAT 4
+
+
+
+
+0-23812500

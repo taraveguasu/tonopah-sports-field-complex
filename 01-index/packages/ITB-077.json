@@ -1,0 +1,117 @@
+{
+  "_package_id": "ITB-077",
+  "_title": "Lockers",
+  "_title_variants_in_source": null,
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 077 Lockers.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": {
+    "lead": "RFP-060",
+    "members": [
+      "RFP-060",
+      "ITB-044",
+      "ITB-062",
+      "ITB-077"
+    ],
+    "ruling_date": "2026-08-06",
+    "ruling": "RFP-060 will include ITB-044 Insulation, ITB-062 Acoustical Ceiling Treatments and ITB-077 Lockers. Each scope is written independently -- one Attachment A per package, all attached to the one subcontract.",
+    "drafting": "Draft this package's exhibit on its own scope only. Do not absorb the other members' scope into it and do not exclude their scope from it; they are separate exhibits under the same agreement."
+  },
+  "spec_sections": {
+    "primary": [],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "10 51 13": {
+        "title_per_scope_doc": "Metal Lockers",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Metal Lockers. Absent. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24 in. W x 18 in. D x 72 in. H) per PM ruling 07.31.26, reinforced by the keynote on revised sheet A10-30. Note Henri also prices metal lockers inside ITB-074 at $22,519 -- decide which subcontract carries them.",
+        "carried_by": "ITB-077",
+        "ownership_ruling": "Lockers per Clarification No. 1 -- ASI Storage Solutions, Pro Collection, Security Box and Foot Locker, 24\" W x 18\" D x 72\" enclosed height, black. No spec section was issued.",
+        "how_to_write_it": "Do NOT cite 10 51 13. Put the words \"Metal Lockers\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A10-30",
+        "title": "INTERIOR ELEVATIONS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A10-30.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "AD1.11"
+    ]
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "IISI",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/077 Lockers - IISI.pdf.txt",
+      "current_date": "2026-05-18",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [
+        "add $678 to our to bid of $19,552 provide ASI- Competitor lockers"
+      ],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "ASI Pro Collection per Addendum 1 Interior Elevations (image, only, provided, no revised callout)."
+    ],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 7,
+      "id": "SPEC-C02",
+      "severity": "high",
+      "title": "09 21 16 Gypsum Board Assemblies \u2014 claimed by more than one scope doc",
+      "detail": "Assigned to RFP-060 (trade_judgment); also cited by ITB-077. Gypsum board assemblies are the drywall package. ITB-077 also cites it, but for the locker backing it must build to, not to carry the assembly."
+    },
+    {
+      "n": 33,
+      "id": "SPEC-N03",
+      "severity": "medium",
+      "title": "ITB-077 holds no spec section of its own",
+      "detail": "Lockers. Cited 10 51 13 Metal Lockers is absent from the manual. Basis of design is Clarification No.1 RFI #3 (ASI Pro Collection, 24\"W x 18\"D x 72\"H) per PM ruling 07.31.26, reinforced by the keynote on sheet A10-30."
+    }
+  ]
+}

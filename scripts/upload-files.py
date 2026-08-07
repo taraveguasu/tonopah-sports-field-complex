@@ -1,6 +1,12 @@
 """
 Files API upload stub — upload-once pattern for attachment-a-generator.
 
+NOT NEEDED when running the attachment-a-generator pipeline inside Claude
+Code: the doc-indexer/scope-drafter/scope-qa subagents (.claude/agents/)
+read 00-source-docs/ directly via the Read/Glob tools, no file_id upload
+required. This script is only useful if you're driving the pipeline from a
+standalone script against the raw Anthropic API instead of Claude Code.
+
 This is a STARTING POINT, not a finished script. Wire in the actual list of
 source files for the project before running. Requires the `anthropic` Python
 SDK (`pip install anthropic --break-system-packages` if needed) and an
@@ -9,7 +15,8 @@ ANTHROPIC_API_KEY environment variable.
 Splits large PDFs BEFORE running this — see attachment-a-generator Stage 1
 guidance. Uploading one 40MB spec manual as a single file works, but per-
 division sections make targeted retrieval in Stage 2 drafting cleaner and
-cheaper.
+cheaper. (For the Tonopah project, this split already exists at
+00-source-docs/04-specs-reports/spec-manual-split/.)
 """
 
 import json

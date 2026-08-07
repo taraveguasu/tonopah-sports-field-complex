@@ -1,0 +1,364 @@
+
+===== PAGE 1 =====
+CLARIFICATION No. 1 
+NCSD Tonopah High School Sports Complex 
+Preconstruction Services | May 6, 2026 
+ 
+ 
+CORE West, Inc. 
+ 
+Clarification No. 1 | Page 1 of 1 
+ 
+CLARIFICATION No.: 
+1    (ONE) 
+DATE: 
+May 6, 2026 
+OWNER: 
+Nye County School District (NCSD) 
+ARCHITECT: 
+KNIT  
+PROJECT: 
+Tonopah High School Sports Complex 
+BID OPENING DATE / TIME: 
+Tuesday, May 12, 2026 at 1:00 PM (PST)  
+ 
+FOREWORD 
+This is the First Clarification issued on this project, and has been posted to folder 06 - Clarifications & Addenda, for your 
+reference. All items and attachments contained in this Clarification are to be added into the bid documents as described 
+below. Receipt of this Clarification No. 1 must be acknowledged on the submitted proposal. 
+ 
+REQUESTS FOR INFORMATION (RFIs) 
+Responses to Req uests for Information (RFIs) are provided hereunder. 
+ 
+BID DATE / TIME 
+Bid Date remains unchanged (see above). 
+ 
+ 
+– END OF CLARIFICATION No. 1 – 
+ 
+
+
+===== PAGE 2 =====
+NCSD Tonopah High School Field Replacement 
+& Elementary School Demo
+Request for Information (RFI) Log
+Bid Date: 05/12/2026              Docs: 04/20/2026 Bid Documents
+RFI No. Subject
+Description
+Reference
+Rec'd
+Responded
+Date
+Response
+1
+Parking Area Paving
+Drawing G1, Note 1 is labeled for 2" Asphalt. What will be the asphalt 
+paving limits for this parking area?
+G1
+04/21/26
+CORE
+04/21/26 Please disregard this note - there is no paving at parking area or driveway. These 
+are to be graded earth, no paving. The only asphalt paving is at the running track 
+per detail J/GD.
+2
+Paving Section 
+Drawing GD, Detail L might have a discrepancy. Should this be labeled 
+"Concrete" or "Asphalt"?
+GD
+04/21/26
+TANEY
+04/29/26 Changed to asphalt
+3
+Locker Specs
+Please provide locker specifications.
+SOW 077
+04/21/26
+KNIT
+05/05/26 BOD: ASI Storage Solutions, LLC, Pro Collection, Locker Configuration: Security Box 
+and Foot Locker, Width: 24", Depth: 18", Enclosed Locker Height: 72", Color: Black 
+#11, Locker Case Construction: Heavy-Duty Construction made of formed sheet 
+metal, metal edges, finished smooth without burrs, Ventilation type: Diamond-
+perforated side openings, Included accessories: Shelf, wall hook, coat rod.
+4
+Fire Alarm System
+LS1-01 indicates NO FIRE ALARM. E0-01 Electrical General Notes include 
+Fire Alarm. Please confirm if Fire Alarm system will be required. If so, 
+will it need to be tied back to campus fire alarm / high school building? 
+If tied back to existing FAP, please provide FAP information.
+LS1-01, E01-01
+04/21/26
+KNIT
+05/05/26 Fire Alarm required per code. See Sheet E3-00 for tie-in to existing FAP at existing 
+High School
+5
+Scoreboard Model
+The bid specs are calling out the FB-2022 scoreboard. That scoreboard is 
+discontinued. Did you want a quote for both the FB-2021 and FB-2023 
+and the school can decide which one they want? The main difference is 
+that FB-2023 has two extra digits on the clock track timing.
+A1-20
+04/21/26
+KNIT
+05/05/26 BOD: FB-2021
+6
+Asphalt Section
+Please provide asphalt section / thicknesses for running track wearing 
+course.
+GD
+04/21/26
+TANEY
+04/29/26 Running track to be designed by others. Asphalt to be used 4" type II
+7
+Hardware Specs
+Please provide hardware specifications
+A11-10
+04/23/26
+KNIT
+05/05/26 To be provided
+8
+Slope Stabilization
+Will any slope stabilization measures be required. If so, please provide 
+extents and specifications
+GD
+04/23/26
+TANEY
+04/29/26 No slope stabilization required
+9
+Propane Tank Fencing
+For the add/alternate #023.01-C Propane Tank Fencing, do you have a 
+site plan with dimensions for this area?  Can you also please clarify what 
+the height of this new fence is supposed to be?    
+SOW 023
+04/27/26
+CORE
+04/23/26 Assume 150 LF fencing, 6'H. Include one pair access gate ((2) 3'-0"W gates) with 
+hardware.
+10
+Salvage Existing Fencing (ALT)
+For the add/alternate #023.02 – Deduct for Salvage of Chain Link fence, 
+do you want us to assume that the linear footage of existing chain link 
+fence to be removed per sheet AD1-10 is the same quantity of fence to 
+be priced as salvageable?  Do you want us to price reusing just chain 
+link fabric and hardware or also all of the posts?  If we are to price 
+reusing posts, can you confirm how long they are?  Additionally, do you 
+want us to price the demo scope of work for this as another add/alt?   
+SOW 023
+04/27/26
+CORE
+04/23/26 Assume salvage of all fencing (provide linear footage). Reuse existing chainlink 
+fabric and hardware. Reuse posts (reinstall on existing posts). Demo by SOW 008.
+11
+Bleacher Fencing - Responsibility
+For keynote 2-09 on sheet A1-13, can you confirm whether this fencing 
+material will be procured as part of the bleachers (by others) or if we 
+need to procure this material as well?   
+A1-13
+04/27/26
+CORE
+04/23/26 Fencing mounted on top of Bleacher system by SOW 094 . Fencing below bleachers 
+(not clearly indicated) by Fencing sub (SOW 023), 6’H.
+12
+Fencing Spoils
+Will there be a place onsite to dump spoils accumulated during fence 
+post excavation?  
+SOW 023
+04/27/26
+CORE
+04/23/26 No, please include haul and disposal (may provide as an Alternate, but we’ll need 
+this cost).
+13
+Chain Link Fence Footing
+For detail 3 on sheet A1-20, can you confirm the depth of typical chain 
+link post footings should match the depth of chain link gate footings 
+which is 3’-0”?  
+A1-20
+04/27/26
+KNIT
+05/05/26 Chain link footing to extend 6" below bottom of fence post. Contractor to 
+coordinate with fence manufacturer. 
+14
+Turf Subbase
+Will gravel subbase be by Turf or by others?
+SOW 022
+SOW 008 
+04/27/26
+CORE
+04/23/26 Finished subgrade (compacted earth) and gravel subbase material by SOW 008.
+Turf sub (SOW 022) shall provide everything from the geotextile underlayment up, 
+including any leveling sand (if/as required), and the rest of the Turf system (pad, 
+edge treatments, etc.).
+5/6/2026   9:22 PM
+Page 1 of 3
+
+
+===== PAGE 3 =====
+NCSD Tonopah High School Field Replacement 
+& Elementary School Demo
+Request for Information (RFI) Log
+Bid Date: 05/12/2026              Docs: 04/20/2026 Bid Documents
+RFI No. Subject
+Description
+Reference
+Rec'd
+Responded
+Date
+Response
+15
+Turf Scope
+Can the synthetic turf contractor portion start at the shock pad? That 
+would mean geo liner, rock, leveling sand, drainge, and header board by 
+Others.
+SOW 022
+SOW 008
+SOW 030
+04/29/26
+CORE
+04/29/26 Please provide Base Bid Turf proposal (SOW 022) per Response to RFI #14.
+SOW 022 to provide itemized Deductive Alternates for the following:
+ - Geo Liner
+ - Leveling Sand
+ - Field Drainage System
+ - Header Board
+SOW 008 to provide itemized Additive Alternates for the following:
+ - Geo Liner
+ - Leveling Sand
+ - Field Drainage System
+SOW 030 to provide Additive Alternate for the following:
+ - Header Board
+16
+Asbestos Quantities
+Per the asbestos survey page 3-14 shows all the positive asbestos 
+material but on page 15 to 17 is showing the materials to be removed. 
+Please clarify if the only asbestos material to be removed is on page 15 
+to 17.
+Asbestos Report / 
+Survey
+04/29/26
+CORE
+04/29/26 Please use the greater (quantity) for your proposal. Buildings to be Abated are 
+Bldgs #3-7.
+17
+Temp Fencing
+How much temporary fencing will be required for both the demolition 
+project and the main project?
+GEN
+04/29/26
+CORE
+04/29/26 At High School, you may assume 2800 LF of temporary fencing. 
+At Abandoned Elementary School, you may assume 2300 LF of temporary fencing. 
+It remains the subcontractors responsibility to verify quantities in the field.
+18
+Gate Hardware
+Where is Section 08 7100 – Door Hardware: Gate Locking Device 
+located? Regarding the fences, should we follow 
+Section 32 3113, Item 2.04?
+spec 08 7100, 
+32 3113
+04/29/26
+KNIT
+05/05/26 Yes, reference item 2.04
+19
+Bleacher Fencing - Height
+What is the height of the apex of the bleachers (A1‑40)? Need for 
+quoting Keynote 2-09 on sheet A1-13.
+A1-40, A1-13
+04/29/26
+KNIT
+05/05/26 Contractor to coordinate with pressbox and bleacher manufacturer
+20
+Existing Chain Link Fencing to Remain
+On Site Demo Plans AD1‑10 Keynotes 1‑14, is this an 
+existing 6' chain‑link fence that we are repairing?
+AD1-10
+04/29/26
+CORE
+04/29/26 Please refer to bid instructions in Scope of Work - 023 Fencing & Gates (folder 02 - 
+Subcontractor Trade Scopes of Work). Existing fencing to be replaced in its entirety 
+(Base Bid). Provide Deductive Alternate per RFI #10.
+21
+Existing Chain Link Fencing Finish
+Is the existing chain‑link fence 6' black  vinyl coated?
+AD1-10
+04/29/26
+CORE
+04/29/26 No
+22
+Fencing Specs
+Line Posts OD: 1.9″ (1‑7/8″) VS 2‑3/8″
+Corner Terminal Posts OD 2.38″ (2‑3/8″) VS 2‑7/8″
+Tension Wire Gauge 6 Gauge VS 9 Gauge
+Chain‑Link Fabric 6 VS 9 Gauge 
+Please confirm which document takes precedence so we can align our 
+bid accordingly.
+spec 32 3113, 
+ A1‑20
+04/29/26
+KNIT
+05/05/26 A1-20 takes precedence
+23
+Roof Specs
+The metal roofing specifications call out MBCI PBR panel for the basis of 
+design. The plans call out a Berridge Cee-lock standing seam panel. Can 
+you please clarify system, material and thickness?
+spec 07 6100
+04/29/26
+KNIT
+05/05/26 Metal roofing specifications take precedence
+24
+Running Track Surfacing Spec
+The specification section 32 18 23.33 Running Track Surfacing specifies 
+the Stobitan SC surfacing system as approved. Yet, section 3.3 Surfacing 
+does not detail out the shock (base) mat. It simply states "Apply a prime 
+coat followed by two coats of structural coating to the entire track and 
+field events areas." This is obviously incorrect; please confirm proposal 
+on the entire surfacing system should be as it should be applied per the 
+manufacturer's specifications. 
+spec 32 1823.33
+04/29/26
+SLA
+04/30/26 Surfacing system to be installed per manufacturers specifications, but at a 
+minimum, two (2) coats of structural spray coating is required. 
+5/6/2026   9:22 PM
+Page 2 of 3
+
+
+===== PAGE 4 =====
+NCSD Tonopah High School Field Replacement 
+& Elementary School Demo
+Request for Information (RFI) Log
+Bid Date: 05/12/2026              Docs: 04/20/2026 Bid Documents
+RFI No. Subject
+Description
+Reference
+Rec'd
+Responded
+Date
+Response
+25
+Sheathing at Eaves
+A4-20 details 3, 4, 6 show a solid sheathing at eaves. Detail 5 shows 2-
+1/2'' metal framing with no sheathing. I'm assuming the sheathing is 
+needed at all eaves - Please confirm. 
+Is the sheathing on the eaves to be picked up in our scope (assuming 
+5/8" Dens Glass) or will the roofing contractor have that covered as it 
+runs with their sheathing from the roof system? 
+A4-20
+04/29/26
+KNIT
+05/05/26 Yes. Assume 5/8" Dens Glass- no wood.
+26
+Exterior Wall Construction
+Keynote 6-02 states - CMU WALL - PROVIDE GYP. BD. O/ 1-1/2'' METAL 
+HAT CHANNELS (VERTICAL ORIENTATION) W/ EXTENDED MASONRY 
+FASTENERS O/ 2'' RIGID INSULATION O/ FLUID APPLIED AIR AND WATER-
+RESISTIVE BARRIER. Wall types do not call this out is it assumed that all 
+exterior CMU walls will get the Rigid? It would also be better to utilize a 
+standard Z fur with the rigid instead of applying a hat over the rigid is 
+this acceptable? 
+A4-10
+04/29/26
+KNIT
+05/05/26 Knit takes no exception to this proposed alternative. Assume all exterior walls, and 
+restroom vestibule walls, have this assembly.
+5/6/2026   9:22 PM
+Page 3 of 3

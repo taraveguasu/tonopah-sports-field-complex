@@ -1,0 +1,1571 @@
+
+===== PAGE 1 =====
+SECTION 08 71 00 
+DOOR HARDWARE 
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 1 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+PART 1   
+GENERAL 
+ 
+1.1   
+ 
+ 
+SECTION INCLUDES 
+ 
+ 
+A.  
+Door Hardware, including electric hardware. 
+ 
+ 
+B.  
+Storefront and entrance door hardware. 
+ 
+ 
+ 
+1.2 
+ 
+RELATED SECTIONS 
+ 
+ 
+A.  
+Section 07 90 00 - Joint Protection: exterior thresholds. 
+ 
+ 
+B.  
+Section 08 11 13 - Hollow Metal Doors and Frames. 
+ 
+ 
+C.  
+Section 08 41 13 - Aluminum Entrances and Storefronts. 
+ 
+ 
+ 
+1.3 
+ 
+REFERENCES 
+ 
+ 
+A. 
+Use date of standard in effect as of Bid date. 
+ 
+ 
+B. 
+American National Standards Institute - ANSI 156.18 - Materials and Finishes. 
+ 
+C. 
+ICC/ANSI A117.1 - Specifications for making buildings and facilities usable by physically 
+handicapped people. 
+ 
+D. 
+ADA - Americans with Disabilities Act, 2010 ADA Standards for Accessible Design. 
+ 
+E. 
+BHMA - Builders Hardware Manufacturers Association. 
+ 
+F. 
+DHI - Door and Hardware Institute. 
+ 
+G. 
+NFPA - National Fire Protection Association: 
+1. 
+NFPA 80 - Fire Doors and Windows 
+2. 
+NFPA 105 - Smoke and Draft Control Door Assemblies 
+3. 
+NFPA 252 - Fire Tests of Door Assemblies 
+ 
+H. 
+UL - Underwriters Laboratories: 
+1. 
+UL10C - Positive Pressure Fire Tests of Door Assemblies. 
+2. 
+UL 305 - Panic Hardware 
+ 
+I. 
+WHI - Warnock Hersey Incorporated. 
+ 
+J. 
+Local applicable codes. 
+ 
+K. 
+SDI - Steel Door Institute. 
+ 
+M. 
+International Building Code (IBC) with Southern Nevada Amendments. 
+ 
+
+
+===== PAGE 2 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 2 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.4   
+ 
+ 
+SUBMITTALS AND SUBSTITUTIONS 
+ 
+  
+ 
+A. 
+See Section 01 33 00 - Submittal Requirements, for submittal procedures. 
+ 
+B. 
+Product Data:  Manufacturer's catalog literature for each type of hardware, marked to 
+clearly show products to be furnished for this project. 
+1. 
+Only submittals printed one sided will be accepted and reviewed. Organize 
+vertically formatted schedule into “Hardware Sets” with index of doors and 
+headings, indicating complete designations of every item required for each door 
+or opening.  Minimum 10pt font size.  Include following information: 
+a. 
+Type, style, function, size, quantity and finish of hardware items. 
+b. 
+Use BHMA Finish codes per ANSI A156.18. 
+c. 
+Name, part number and manufacturer of each item. 
+d. 
+Fastenings and other pertinent information. 
+e. 
+Location of hardware set coordinated with floor plans and door schedule. 
+f. 
+Explanation of abbreviations, symbols, and codes contained in schedule. 
+g. 
+Mounting locations for hardware. 
+h. 
+Door and frame sizes, materials and degrees of swing. 
+i. 
+List of manufacturers used and their nearest representative with address 
+and phone number. 
+j. 
+Catalog cuts. 
+k. 
+Bid and submit manufacturer’s updated/improved item if scheduled item 
+is discontinued. 
+l. 
+Deviations: Highlight, encircle or otherwise identify deviations from 
+“Schedule of Finish Hardware” on submittal with notations clearly 
+designating those portions as deviating from this section. 
+m. 
+Furnish as-built/as-installed schedule with closeout documents, including 
+keying schedule, riser and point-to-point wiring diagrams, manufacturers’ 
+installation, adjustment and maintenance information, and supplier’s final 
+inspection report. 
+ 
+C. 
+Hardware Schedule:  Detailed listing of each item of hardware to be installed on each 
+door. Use door numbering scheme as included in the Contract Documents. Identify 
+electrically operated items and include power requirements. 
+1. 
+Point-to-point wiring diagrams. 
+ 
+D. 
+Keying Schedule:  Coordinate Best Cores with Owner 
+ 
+E. 
+Manufacturer's Installation Instructions:  Indicate special procedures, perimeter conditions 
+requiring special attention. 
+ 
+F. 
+Maintenance Data:  Include data on operating hardware, lubrication requirements, and 
+inspection procedures related to preventative maintenance. 
+1. 
+Submit manufacturer's parts lists and templates. 
+2. 
+Bitting List:  List of combinations as furnished. 
+ 
+F. 
+Warranty:  Submit manufacturer's warranty and ensure that forms have been completed 
+in Owner's name and registered with manufacturer. 
+ 
+
+
+===== PAGE 3 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 3 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+H. 
+Project Record Documents:  Record actual locations of concealed equipment, services, 
+and conduit. 
+ 
+I. 
+Maintenance Materials and Tools:  Furnish the following for Owner's use in maintenance 
+of project. 
+1. 
+See Section 01 60 00 - Product Requirements, for additional provisions. 
+2. 
+Extra Lock Cylinders:  Ten for each master keyed group. 
+3. 
+Tools:  One set of all special wrenches or tools applicable to each different or 
+special hardware component, whether supplied by the hardware component 
+manufacturer or not. 
+ 
+1.5   
+ 
+ 
+QUALITY ASSURANCE 
+ 
+A. 
+Manufacturer Qualifications: Company specializing in manufacturing the products 
+specified in this section with minimum 10 years of documented experience. 
+1. 
+Hardware supplier: direct factory contract supplier who employs an architectural 
+hardware consultant available at reasonable times during course of work for 
+project hardware consultation to Owner, Architect and Contractor. 
+a. 
+Responsible for detailing, scheduling and ordering of finish hardware. 
+Detailing implies that the submitted schedule of hardware is correct and 
+complete for the intended function and performance of the openings. 
+b. 
+Responsible for creating a punch list on all items that do not comply with 
+these specifications. In which all items will be completed and verified by 
+Owner before Hardware Certification is issued to the Contractor. 
+ 
+B. 
+Hardware Supplier Qualifications: Company specializing in supplying the type of products 
+specified in this section with at least 5 years documented experience. 
+ 
+C. 
+Exit Doors: Operable from inside with single motion without the use of a key or special 
+knowledge or effort. 
+ 
+D. 
+Fire-Rated Openings: NFPA 80 compliant. Hardware UL10C (positive pressure) 
+compliant for given type/size opening and degree of label.  Provide proper latching 
+hardware, non-flaming door closers, approved-bearing hinges, and resilient seals.  
+Coordinate with wood door section for required intumescent seals.  Furnish openings 
+complete. 
+ 
+E. 
+Furnish hardware items required to complete the work in accordance with specified 
+performance level and design intent, complying with manufacturers’ instructions and code 
+requirements. 
+ 
+F. 
+Pre-Installation Meetings: Initiate and conduct with supplier, installer and related trades, 
+coordinate materials and techniques, and sequence complex hardware items and 
+systems installation.  Include manufacturers' representatives of locks, panic hardware 
+and door closers in the meetings.  Convene prior to commencement of related work. 
+ 
+G. 
+All hardware on aluminum storefront doors, gates and all other swinging doors, gates, 
+keyed switches must match the brands, style and key system used in the balance of the 
+building. 
+ 
+
+
+===== PAGE 4 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 4 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.6   
+ 
+ 
+DELIVERY, STORAGE AND HANDLING 
+ 
+A. 
+Delivery: Coordinate delivery to appropriate locations. 
+ 
+B. 
+Acceptance at Site: Items individually packaged in manufacturers’ original containers, 
+complete with proper fasteners and related pieces.  Clearly mark packages to indicate 
+contents, locations in hardware schedule and door numbers. 
+ 
+C. 
+Storage: Provide securely locked storage area for hardware, protect from moisture, 
+sunlight, paint, chemicals, dust, excessive heat and cold, etc. 
+ 
+1.7   
+ 
+ 
+PROJECT CONDITIONS AND COORDINATION 
+ 
+A. 
+Where exact types of hardware specified are not adaptable to finished shape or size of 
+members requiring hardware, provide suitable types having as nearly as practical the 
+same operation and quality as type specified. 
+B. 
+Coordination: Coordinate hardware with other work, see section 1.1 item B.  Furnish 
+hardware items of proper design for use on doors and frames of the thickness, profile, 
+swing, security and similar requirements indicated, as necessary for proper installation 
+and function, regardless of omissions or conflicts in the information on the Contract 
+Documents.  Furnish related trades with the following information: 
+1. 
+Location of embedded and attached items to concrete. 
+2. 
+Location of wall-mounted hardware, including wall stops. 
+3. 
+Location of finish floor materials and floor-mounted hardware. 
+4. 
+Locations for conduit and raceways as needed for electrical, electronic and 
+electro-pneumatic hardware items. 
+5. 
+Fire/life-safety system interfacing.  Point-to-point wiring diagrams plus riser 
+diagrams to related trades. 
+6. 
+Manufacturer templates to door and frame fabricators. 
+ 
+C. 
+Check Shop Drawings for doors and entrances to confirm that adequate provisions will 
+be made for proper hardware installation. 
+ 
+             
+1.8   
+ 
+ 
+WARRANTY 
+ 
+A. 
+Part of respective manufacturers’ regular terms of sale.  Provide manufacturers’ written 
+warranties: 
+ 
+1. 
+Heavy Duty Mortise Lock:  
+3 Years 
+2. 
+Exit Devices:  
+ 
+3 years mechanical - 1 year electrical 
+3. 
+Closers:  
+ 
+ 
+30 years mechanical - 2 years electrical 
+4. 
+Hinges: 
+ 
+ 
+1 year 
+5. 
+Other Hardware 
+ 
+2 years 
+ 
+1.9   
+ 
+ 
+COMMISSIONING 
+ 
+A. 
+Conduct these tests prior to request for Hardware Certification and substantial 
+completion: 
+
+
+===== PAGE 5 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 5 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+With installer, AHC present, test door hardware operation with climate control 
+system and stairwell pressurization system both at rest and while in full 
+operation. 
+2. 
+With installer, AHC and access control contractor and electrical contractor 
+present, test electrical, electronic and electro-pneumatic hardware systems for 
+satisfactory operation. 
+3. 
+With installer AHC and electrical contractor present, test hardware interfaced with 
+fire/life-safety system for proper operation and release. 
+ 
+PART 2   
+ 
+PRODUCTS 
+ 
+2.1   
+ 
+ 
+MANUFACTURERS 
+ 
+A. 
+Listed acceptable alternate manufacturers: These will be considered; submit for review 
+products with equivalent function and features of scheduled products. 
+  
+ 
+ 
+ITEM: 
+ 
+ 
+Acceptable Manufacturers 
+ 
+1. 
+Hinges 
+ 
+Ives, Stanley, McKinney 
+ 
+2. 
+Key System 
+ 
+Schlage Conventional 6-pin 
+ 
+3. 
+Locks 
+ 
+Schlage 
+ 
+4. 
+Exit Devices 
+ 
+Sargent 
+ 
+6. 
+Closers 
+ 
+LCN 
+ 
+7. 
+Surface Bolts 
+ 
+Ives, Rockwood, Trimco 
+ 
+8. 
+Automatic Flush Bolts 
+Ives, Rockwood, Trimco 
+ 
+9. 
+Silencers 
+ 
+Ives, Rockwood, Trimco 
+ 
+10. Push & Pull Plates 
+Ives, Rockwood, Trimco 
+ 
+11. Lock Protectors  
+Ives, Rockwood, Trimco 
+ 
+12. Kickplates 
+ 
+Ives, Rockwood, Trimco 
+ 
+14. Overhead Stops and Holders 
+Glynn Johnson, Rixson, Sargent 
+ 
+15. Thresholds 
+ 
+NGP, Pemko, Zero 
+ 
+16. Seals & Bottoms  
+NGP, Pemko, Zero 
+ 
+17. Key Cabinets 
+ 
+Lund, Telkee 
+ 
+18. Electromagnetic Door Holders  
+LCN, Rixson, RSG 
+ 
+ 
+2.2   
+ 
+ 
+HINGING METHODS 
+ 
+A. 
+Drawings typically depict doors at 90 degrees, doors will actually swing to maximum 
+allowable degree of opening potential and if it’s a pair, maximum of the two.  Use wide-
+throw conventional or continuous hinges as needed up to 8 inches in width to allow door 
+to stand parallel to wall for true 180-degree opening.  Advise architect if 8-inch width is 
+insufficient. 
+B. 
+Conform to manufacturer’s published hinge selection standard for door dimensions, 
+weight and frequency, and to hinge selection as scheduled.  Where manufacturer’s 
+standard exceeds the scheduled product, furnish the heavier of the two choices, and 
+notify Architect of deviation from scheduled hardware. 
+ 
+C. 
+Conventional Hinges: Steel or stainless steel pins and concealed bearings. Hinge open 
+widths minimum, but of sufficient throw to permit maximum door swing.  In general, 
+
+
+===== PAGE 6 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 6 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+conventional hinges are not to be used on out-swinging exterior doors (See continuous 
+hinges below). 
+1. 
+Out-swinging exterior doors: non-ferrous with non-removable (NRP) pins. 
+2. 
+Non-ferrous material exteriors and at doors subject to corrosive atmospheric 
+conditions. 
+ 
+2.3   
+ 
+ 
+LOCKSETS, LATCHSETS, DEADBOLTS 
+ 
+A. 
+Heavy- Cylindrical Locks: as scheduled. 
+1. 
+Provide cylindrical locks conforming to ANSI/BHMA A156.2 Series 
+4000, Grade 1, and UL Listed for 3-hour fire doors. 
+2. 
+Provide locks with standard 2-3/4 inches (70 mm) backset  
+4. 
+Provide standard ASA strikes unless extended lip strikes are necessary to 
+protect trim.  
+5. 
+Lever trim: independently operating levers with two external return spring 
+cassettes mounted under roses to prevent lever sag. 
+6. 
+Lock Series and Design: Schlage ND” Series, “06 -Rhodes” design. 
+ 
+7. 
+Accepted substitutions: Best 93K Series, Sargent 10-Line Series 
+ 
+2.4   
+ 
+ 
+EXIT DEVICES / PANIC HARDWARE 
+ 
+A. 
+General features: 
+1. 
+End caps: impact-resistant, flush-mounted.  No raised edges or lips to catch carts 
+or other equipment. 
+2. 
+Releasable in normal operation with 15-lb. maximum operating force and with 32 
+lb. maximum pressure under 250-lb. load to the door. 
+3. 
+Flush end cap design as opposed to typical "bottle-cap" design end cap. 
+4. 
+Exit Device Series and Design:  Von Duprin 98 Series (smooth mechanism case) 
+with 996 lever trim 
+ 
+B. 
+Specific Features: 
+1. 
+Non-Fire Rated Devices: Hex Key Dogging 
+2. 
+Lever Trim: 996 breakaway type, forged brass or bronze escutcheon minimum 
+.130” thickness, compression spring drive, match lockset lever design. 
+a. 
+Use standard Von Duprin 996 trim only at fire rated openings.   All other 
+openings to be provided with Vandal Resistant Pull Trim, Ives VR900 
+series or reviewed equal. 
+3. 
+Fire-Labeled Devices: UL label indicating “Fire Exit Hardware”.  Vertical rod 
+devices less bottom rod unless otherwise scheduled. 
+4. 
+Electrically Operated Devices: Single manufacturer source for electric latch 
+retraction devices, electrically controlled trim, power transfers, power supplies, 
+monitoring switches and controls. 
+5. 
+Mullions: Anchors must be free and clear of expansion joints, consult Architect. 
+Anchors into expansion joints will not be accepted. 
+6. 
+Accepted substitutions:  Precision Apex 2000 Series, Sargent 80 Series 
+ 
+2.5   
+ 
+ 
+CLOSERS 
+ 
+A. 
+Surface Closers: LCN 4040XP as scheduled 
+
+
+===== PAGE 7 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 7 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+Provide door closers conforming to ANSI/BHMA A156.4 Grade 1 requirements 
+by BHMA certified independent testing laboratory. ISO 9000 certify closers. 
+Stamp units with date of manufacture code   
+2. 
+Provide door closers with fully hydraulic, full rack and pinion action with cast 
+aluminum cylinder or cast iron. 
+3. 
+Non-sized, non-handed, and adjustable. 
+4. 
+Installed for maximum allowable opening potential. 
+5. 
+Plates, brackets and special templating when needed for interface with particular 
+header, door and wall conditions and neighboring hardware 
+6. 
+Adjustable to open with not more than 8.5 lbs. pressure to open at exterior doors 
+and 5 lbs. at interior doors.  As allowed per IBC.  The local authority may 
+increase the allowable pressure for fire doors to achieve positive latching, but not 
+to exceed 15lbs. 
+7. 
+Separate adjusting valves for closing speed, latching speed and backcheck. 
+8. 
+Exterior doors: seasonal adjustments not required for temperatures from 120 
+degrees F to -30 degrees F, furnish checking fluid data on request. 
+9. 
+Accepted substitutions:  Norton 8500 
+ 
+2.6   
+ 
+ 
+OTHER HARDWARE 
+ 
+A. 
+Automatic Flush Bolts: Low operating force design. 
+ 
+B. 
+Surface Bolts:  8-inch x SNB (Sex nuts and bolts). 
+ 
+C. 
+Overhead Stops: Non-plastic mechanisms and finished metal end caps.  Field-
+changeable hold-open, friction and stop-only functions. 
+ 
+D. 
+Lock Guards:  As specified with SNB (Sex nuts and bolts).  Welded studs are not 
+acceptable. 
+ 
+E. 
+Kick Plates: Beveled four edges (B4E), .050 inches minimum thickness, height and width 
+as scheduled.  Sheet-metal screws of bronze or stainless steel to match other hardware. 
+F. 
+Door Stops: Provide stops to protect walls, casework or other hardware. 
+1. 
+Unless otherwise noted in Hardware Sets, provide wall type with appropriate 
+fasteners.  Where wall type cannot be used, provide floor type.  If neither can be 
+used, provide separate overhead type. 
+2. 
+Locate overhead stops for maximum possible opening.  Consult with Owner for 
+furniture locations. Minimum: 90deg stop / 95deg dead stop. Note degree of 
+opening in submittal. 
+ 
+G. 
+Seals: Finished to match adjacent frame color.  Resilient seal material: Silicone rubber as 
+scheduled. 
+ 
+H. 
+Thresholds: As scheduled and per details.    Substitute products: certify that the products 
+equal or exceed specified material’s thickness. Proposed substitutions: submit for 
+approval. 
+1. 
+Exteriors: Seal perimeter to exclude water and vermin.  Use sealant complying 
+with requirements in Division 7 "Thermal and Moisture Protection".  Non-ferrous 
+1/4inch fasteners and lead expansion shield anchors, or Red-Head #SFS-1420 
+
+
+===== PAGE 8 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 8 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(or reviewed equivalent) Flat Head Sleeve Anchors (SS/FHSL).  Plastic anchors 
+are not allowed. 
+2. 
+Fire-rated openings, 90min or less duration: use thresholds to interrupt floor 
+covering material under the door where that material has a critical radiant flux 
+value less than 0.22 watts per square centimeter, per NFPA 253.  Use threshold 
+unit as scheduled. If none scheduled, request direction from Architect. 
+3. 
+Fire-rated openings, 3hour duration:  Thresholds, where scheduled, to extend full 
+jamb depth. 
+4. 
+Fasteners: Generally, Non-ferrous 1/4-inch fasteners and lead expansion shield 
+anchors, or Red-Head #SFS-1420 (or approved equivalent) Flat Head Sleeve 
+Anchors (SS/FHSL). Plastic plugs with wood or sheet metal screws are not an 
+acceptable substitute for specified fastening methods. 
+5. 
+Install thresholds so that threshold contacts frame at rabbets, stops and soffit (H 
+Pattern Cut). 
+6. 
+Anchors must be free and clear of expansion joint, consult Architect. Anchors into 
+expansion joints will not be accepted. 
+ 
+I. 
+Silencers: Interior hollow metal frames, 3 for single doors, 2 for pairs of doors.  Omit 
+where adhesive mounted seal occurs.  Leave no unfilled/uncovered pre-punched silencer 
+holes. 
+ 
+J. 
+Wall & Floor-mounted electromagnetic door holders.  Incorporate into U.L. listed fire & 
+life-safety system, doors released to allow closure and latching when door's zone is in an 
+alarm state.  Use minimum projection required to allow door to open as widely as allowed 
+by wall conditions and projection of door hardware. 
+ 
+2.7   
+ 
+ 
+FINISH 
+ 
+A. 
+Generally, BHMA 626 Satin Chromium 
+1. 
+Areas using BHMA 626 to have push-plates, pulls and protection plates of BHMA 
+630, Satin Stainless Steel, unless otherwise noted. 
+ 
+B. 
+Door closers: factory powder coated to match other hardware, unless otherwise noted. 
+ 
+C. 
+Aluminum items: match predominant adjacent material.  Seals to coordinate with frame 
+color. 
+ 
+2.8   
+ 
+ 
+KEYING REQUIREMENTS 
+ 
+A. 
+Key System: Match Owner Standard.  Coordinate keying with Owner   
+ 
+B. 
+Schlage Conventional Cylinders 
+ 
+ 
+PART 3   
+ 
+EXECUTION 
+ 
+3.1   
+ 
+ 
+ACCEPTABLE INSTALLERS 
+ 
+A. 
+Can read and understand manufacturers’ templates, supplier’s hardware schedule and 
+printed installation instructions and has a minimum of 3 years installing door hardware.  
+
+
+===== PAGE 9 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 9 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Can readily distinguish drywall screws from manufacturers furnished fasteners.  Available 
+to meet with manufacturers’ representatives and related trades to discuss installation of 
+hardware. 
+ 
+3.2   
+ 
+ 
+PREPARATION 
+ 
+A. 
+Ensure that walls and frames are square and plumb before hardware installation.  Make 
+corrections before commencing hardware installation. 
+ 
+B. 
+Locate hardware per SDI-100 and applicable building, fire, life-safety, accessibility, and 
+security codes. 
+1. 
+Notify Architect of code conflicts before ordering material. 
+2. 
+Locate levers, key cylinders, thumb-turn pieces, touch bars and other operable 
+portions of latching hardware between 30 inches to 40 inches above the finished 
+floor. 
+3. 
+Where new hardware is to be installed near existing doors/hardware scheduled 
+to remain, match locations of existing hardware. 
+ 
+C. 
+Overhead stops: before installing, determine proposed locations of furniture items, 
+fixtures, and other items to be protected by the overhead stop's action.  Install overhead 
+stops prior to closers when both are used. 
+ 
+3.3   
+ 
+ 
+INSTALLATION 
+ 
+A. 
+Install hardware per manufacturer’s instructions and recommendations.  Do not install 
+surface-mounted items until finishes have been completed on substrate or surface.  Set 
+units level, plumb and true to line and location.  Adjust and reinforce attachment 
+substrate or surface for proper installation and operation. Remove and reinstall or replace 
+work deemed defective by NVARNG Lock Shop or Architect. 
+1. 
+Gaskets: install jamb-applied gaskets before closers, overhead stops, rim strikes, 
+etc.; fasten hardware over and through these seals.  Install sweeps across 
+bottoms of doors before astragals, cope sweeps around bottom pivots, trim 
+astragals to tops of sweeps. 
+2. 
+When hardware is to be attached to existing metal surface and insufficient 
+reinforcement exists, use RivNuts, NutSerts or similar anchoring device for 
+screws as approved 
+3. 
+Use manufacturers' fasteners furnished with hardware items or submit Request 
+for Substitution. 
+4. 
+Replace fasteners damaged by power-driven tools. 
+5. 
+Form fit/cut one-piece thresholds to match existing & new frame conditions. “H” 
+shape on standard frames. 
+ 
+B. 
+Locate floor stops no more than 4 inches from walls and not within paths of travel.  See 
+paragraph 2.2 regarding hinge widths, door should be well clear of point of wall reveal.  
+Point of contact of floor stop to hinge edge of door to be not less than half the width of the 
+door but not installed to offer a tripping hazard. Where situation is questionable or 
+difficult, contact Architect or Architectural Hardware Consultant for direction. 
+ 
+C. 
+Exterior Floor Stops: Core concrete for exterior door floor stops. Set anchors or stops in 
+epoxy. 
+
+
+===== PAGE 10 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 10 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+D. 
+Locate overhead stops for minimum 90 degrees and maximum allowable degree of 
+swing. 
+E. 
+Drill pilot holes for fasteners in wood doors and/or frames. 
+ 
+F. 
+Lubricate and adjust existing hardware scheduled to remain for proper working condition, 
+safety and security.  Carefully remove and give to Owner items not scheduled for reuse. 
+ 
+ 
+3.4   
+ 
+ 
+ADJUSTING 
+ 
+A. 
+Adjust and check for proper operation, function, safety and security.  Replace units, 
+which cannot be adjusted to operate freely and smoothly. 
+1. 
+Hardware damaged by improper installation or adjustment methods: repair or 
+replace to Owner’s satisfaction. 
+2. 
+Adjust doors to fully latch with no more than 1 pound of pressure. 
+3. 
+Adjust delayed-action closers on fire-rated doors to fully close from fully opened 
+position in no more than 10 seconds. 
+4. 
+Adjust door closers per 2.5 this section. 
+ 
+B. 
+Inspection: Initiate meeting with Architect, General Contractor, AHC, hardware installer 
+and hardware supplier to create a punch list to be completed for final inspection. 
+ 
+C. 
+Final inspection: Installer to provide letter to Owner that upon completion installer has 
+visited the Project and has accomplished the following: 
+1. 
+Re-adjust hardware. 
+2. 
+Evaluate maintenance procedures and recommend changes or additions and 
+instruct Owner’s personnel. 
+3. 
+Identify items that have deteriorated or failed. 
+4. 
+Submit written report identifying problems 
+5. 
+After all above items are complete initiate final walk with Owner to obtain 
+Hardware Certificate. 
+ 
+3.5   
+ 
+ 
+DEMONSTRATION 
+ 
+A. 
+Demonstrate mechanical hardware and electrical, electronic and pneumatic hardware 
+systems, including adjustment and maintenance procedures. 
+ 
+3.6   
+ 
+ 
+PROTECTION/CLEANING 
+ 
+A. 
+Cover installed hardware, protect from paint, cleaning agents, weathering, carts/barrows, 
+etc.  Remove covering materials and clean hardware just prior to substantial completion. 
+ 
+B. 
+Clean adjacent wall, frame and door surfaces soiled from installation/reinstallation 
+process. 
+ 
+3.7   
+ 
+ 
+SCHEDULE OF FINISH HARDWARE 
+ 
+A. 
+See door schedule in drawings for hardware set assignments. 
+ 
+
+
+===== PAGE 11 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 11 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.8   
+ 
+ 
+COMMISSIONING 
+ 
+A. 
+The punch list of installation deficiencies must be completed and all items needing 
+correction must be completed prior to issuance of Certificate of Occupancy. 
+ 
+B. 
+Conduct these tests prior to request for certificate of substantial completion: 
+1. 
+With installer present, test door hardware operation with climate control system 
+at rest and while in full operation. 
+2. 
+With installer and electrical contractor present, test hardware interfaced with 
+fire/life-safety system for proper operation and release. 
+ 
+3.9   
+ 
+ 
+SCHEDULE OF FINISH HARDWARE 
+ 
+A. 
+The hardware sets represent the design intent and direction of the owner and architect. 
+They are a guideline only and should not be considered a detailed hardware schedule. 
+Discrepancies, conflicting hardware, and missing items should be brought to the attention 
+of the architect with corrections made prior to the bidding process. Omitted items not 
+included in a hardware set should be scheduled with the appropriate additional hardware 
+required for proper application and functionality. 
+ 
+B. 
+Hardware Schedule: 
+ 
+ 
+HW SET: 01 - EXTERIOR HMD -  STOREROOM LOCK   
+100 
+101 
+104 
+104A 
+106 
+108 
+111 
+ 
+ 
+ 
+ 
+ 
+Provide each SGL door(s) with the following: 
+QTY  
+DESCRIPTION 
+CATALOG NUMBER 
+ 
+FINISH 
+MFR 
+3 
+EA 
+HINGE 
+5BB1 4.5 X 4.5 NRP 
+ 630 
+IVE 
+1 
+EA 
+STOREROOM LOCK 
+ND80P6D RHO 
+ 626 
+SCH 
+1 
+EA 
+LOCK GUARD 
+LG10 
+ 630 
+IVE 
+1 
+EA 
+SURFACE CLOSER 
+4040XP RW/PA 
+ 689 
+LCN 
+1 
+EA 
+KICK PLATE 
+8400 10" X 2" LDW B-CS 
+ 630 
+IVE 
+1 
+EA 
+RAIN DRIP 
+142A-OMIT IF SHELTERED 
+ AA 
+ZER 
+1 
+SET 
+GASKETING 
+50AA-S 
+ AA 
+ZER 
+1 
+EA 
+DOOR SWEEP 
+39A 
+ A 
+ZER 
+1 
+EA 
+THRESHOLD 
+546A -OR PER SILL DETAIL 
+ A 
+ZER 
+ 
+
+
+===== PAGE 12 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 12 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HW SET: 02 - EXTERIOR HMD IN-SWINGING -  STOREROOM LOCK   
+102 
+103 
+ 
+ 
+ 
+ 
+Provide each SGL door(s) with the following: 
+QTY  
+DESCRIPTION 
+CATALOG NUMBER 
+ 
+FINISH 
+MFR 
+3 
+EA 
+HINGE 
+5BB1 4.5 X 4.5 
+ 630 
+IVE 
+1 
+EA 
+STOREROOM LOCK 
+ND80P6D RHO 
+ 626 
+SCH 
+1 
+EA 
+SURFACE CLOSER 
+4040XP RW/PA 
+ 689 
+LCN 
+1 
+EA 
+KICK PLATE 
+8400 10" X 2" LDW B-CS 
+ 630 
+IVE 
+1 
+EA 
+FLOOR STOP 
+FS436/438 -AS REQ 
+ 626 
+IVE 
+1 
+EA 
+RAIN DRIP 
+142A-OMIT IF SHELTERED 
+ AA 
+ZER 
+1 
+SET 
+GASKETING 
+50AA-S 
+ AA 
+ZER 
+1 
+EA 
+DOOR SWEEP 
+39A 
+ A 
+ZER 
+1 
+EA 
+THRESHOLD 
+546A -OR PER SILL DETAIL 
+ A 
+ZER 
+ 
+HW SET: 03 - INTERIOR STOREROOM LOCK   
+105 
+107 
+ 
+ 
+ 
+ 
+Provide each SGL door(s) with the following: 
+QTY  
+DESCRIPTION 
+CATALOG NUMBER 
+ 
+FINISH 
+MFR 
+3 
+EA 
+HINGE 
+5BB1 4.5 X 4.5 
+ 652 
+IVE 
+1 
+EA 
+STOREROOM LOCK 
+ND80P6D RHO 
+ 626 
+SCH 
+1 
+EA 
+SURFACE CLOSER 
+4040XP RW/PA 
+ 689 
+LCN 
+1 
+EA 
+KICK PLATE 
+8400 10" X 2" LDW B-CS 
+ 630 
+IVE 
+1 
+EA 
+FLOOR STOP 
+FS436/438 -AS REQ 
+ 626 
+IVE 
+3 
+EA 
+SILENCER 
+SR64/SR65 AQ REQ 
+ GRY 
+IVE 
+ 
+
+
+===== PAGE 13 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 13 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HW SET: 04 - EXTERIOR HMD-  FACULTY RESTROOM LOCK 
+109 
+ 
+ 
+ 
+ 
+ 
+Provide each SGL door(s) with the following: 
+QTY  
+DESCRIPTION 
+CATALOG NUMBER 
+ 
+FINISH 
+MFR 
+3 
+EA 
+HINGE 
+5BB1 4.5 X 4.5 NRP 
+ 630 
+IVE 
+1 
+EA 
+FAC RESTRM W/IND CYL 
+ND85P6D RHO 
+ 626 
+SCH 
+1 
+EA 
+LOCK GUARD 
+LG10 
+ 630 
+IVE 
+1 
+EA 
+SURFACE CLOSER 
+4040XP RW/PA 
+ 689 
+LCN 
+1 
+EA 
+KICK PLATE 
+8400 10" X 2" LDW B-CS 
+ 630 
+IVE 
+1 
+EA 
+MOP PLATE 
+8400 4" X 1" LDW B-CS 
+(@ INSWINGING) 
+ 630 
+IVE 
+1 
+EA 
+RAIN DRIP 
+142A-OMIT IF SHELTERED 
+ AA 
+ZER 
+1 
+SET 
+GASKETING 
+50AA-S 
+ AA 
+ZER 
+1 
+EA 
+DOOR SWEEP 
+39A 
+ A 
+ZER 
+1 
+EA 
+THRESHOLD 
+546A -OR PER SILL DETAIL 
+ A 
+ZER 
+1 
+EA 
+COAT AND HAT HOOK 
+543 
+ 630 
+IVE 
+ 
+HW SET: 05 - INTERIOR - PRIVACY LOCK   
+100A 
+101A 
+ 
+ 
+ 
+ 
+Provide each SGL door(s) with the following: 
+QTY  
+DESCRIPTION 
+CATALOG NUMBER 
+ 
+FINISH 
+MFR 
+3 
+EA 
+HINGE 
+5BB1 4.5 X 4.5 
+ 652 
+IVE 
+1 
+EA 
+PRIVACY LOCK W/ 
+OUTSIDE INDICATOR 
+ND40S RHO OS-OCC 
+ 626 
+SCH 
+1 
+EA 
+SURFACE CLOSER 
+4040XP RW/PA 
+ 689 
+LCN 
+1 
+EA 
+KICK PLATE 
+8400 10" X 2" LDW B-CS 
+ 630 
+IVE 
+1 
+EA 
+MOP PLATE 
+8400 4" X 1" LDW B-CS 
+(@ INSWINGING) 
+ 630 
+IVE 
+1 
+EA 
+WALL STOP 
+WS406/407CCV 
+ 630 
+IVE 
+1 
+EA 
+COAT AND HAT HOOK 
+543 
+ 630 
+IVE 
+3 
+EA 
+SILENCER 
+SR64/SR65 AQ REQ 
+ GRY 
+IVE 
+ 
+
+
+===== PAGE 14 =====
+Nye County School District 
+Addendum #1 
+08 71 00 
+Tonopah HS Field Replacement 
+ 
+Door Hardware 
+ 
+May 6, 2026 
+Page 14 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HW SET: 06 - INTERIOR WITH PUSH/PULL AT MULTI STALL RESTROOM.  WITH CLASSROOM 
+DEADBOLT TO LOCK DOORS AFTER HOURS OR FOR MAINTENANCE. 
+110 
+ 
+ 
+ 
+ 
+ 
+Provide each SGL door(s) with the following: 
+QTY  
+DESCRIPTION 
+CATALOG NUMBER 
+ 
+FINISH 
+MFR 
+3 
+EA 
+HINGE 
+5BB1HW 4.5 X 4.5 
+ 652 
+IVE 
+1 
+EA 
+CLASSROOM DEADBOLT 
+B663P 
+ 626 
+SCH 
+1 
+EA 
+PUSH PLATE 
+8200 4" X 16" CFC 
+ 630 
+IVE 
+1 
+EA 
+PULL PLATE 
+8303 10" 4" X 16" CFT 
+ 630 
+IVE 
+1 
+EA 
+SURFACE CLOSER 
+4040XP RW/PA 
+ 689 
+LCN 
+1 
+EA 
+KICK PLATE 
+8400 10" X 2" LDW B-CS 
+ 630 
+IVE 
+1 
+EA 
+MOP PLATE 
+8400 4" X 1" LDW B-CS 
+(@ INSWINGING) 
+ 630 
+IVE 
+1 
+EA 
+WALL STOP 
+WS406/407CCV 
+ 630 
+IVE 
+3 
+EA 
+SILENCER 
+SR64/SR65 AQ REQ 
+ GRY 
+IVE 
+ 
+HW SET: 07 - ROLL-UP DOOR 
+102B 
+106A 
+112 
+ 
+ 
+ 
+Provide each RU door(s) with the following: 
+QTY  
+DESCRIPTION 
+CATALOG NUMBER 
+ 
+FINISH 
+MFR 
+1 
+EA 
+ROLL-UP 
+HARDWARE BY ROLL UP DOOR 
+MANUFACTURER 
+ 
+ 
+B/O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+END OF SECTION 

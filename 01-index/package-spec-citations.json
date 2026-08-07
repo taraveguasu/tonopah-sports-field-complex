@@ -1,0 +1,2060 @@
+{
+  "_generated": "2026-08-05",
+  "_purpose": "What each package's Scope of Work narrative actually cites, before any judgment is applied. Kept separate from the catalog so the assignment layer can be reviewed against the raw citations.",
+  "packages": {
+    "RFP-002": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 002 Abatement & Building Wrecking.txt",
+      "cited_sections": [
+        "02 41 00"
+      ],
+      "cited_but_not_in_manual": {
+        "02 81 00": "Transportation and Disposal of Misc. Hazardous Materials"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-008": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 007 Surveying & Staking.txt",
+      "cited_sections": [],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-008": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.txt",
+      "cited_sections": [
+        "32 12 16"
+      ],
+      "cited_but_not_in_manual": {
+        "02 41 13": "Selective Site Demolition"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "02": {
+          "division_name": "Existing Conditions",
+          "sections_in_manual": [
+            "02 41 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "03": {
+          "division_name": "Concrete",
+          "sections_in_manual": [
+            "03 10 00",
+            "03 20 00",
+            "03 30 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "32": {
+          "division_name": "Exterior Improvements",
+          "sections_in_manual": [
+            "32 13 13",
+            "32 13 73",
+            "32 16 23",
+            "32 18 13",
+            "32 18 23.33",
+            "32 31 13",
+            "32 84 00",
+            "32 91 13",
+            "32 96 50"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "33": {
+          "division_name": "Utilities",
+          "sections_in_manual": [
+            "33 05 00",
+            "33 10 00",
+            "33 12 00",
+            "33 30 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-016": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 016 Landscaping & Irrigation.txt",
+      "cited_sections": [],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "32": {
+          "division_name": "Exterior Improvements",
+          "sections_in_manual": [
+            "32 12 16",
+            "32 13 13",
+            "32 13 73",
+            "32 16 23",
+            "32 18 13",
+            "32 18 23.33",
+            "32 31 13",
+            "32 84 00",
+            "32 91 13",
+            "32 96 50"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-018": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 018 Site Furnishings.txt",
+      "cited_sections": [
+        "03 30 00",
+        "12 93 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-019": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 019 Track & Field Athletic Equipment.txt",
+      "cited_sections": [
+        "03 30 00",
+        "12 93 00",
+        "32 91 13"
+      ],
+      "cited_but_not_in_manual": {
+        "11 68 33": "Athletic Field Equipment"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-021": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 021 Running Track Surfacing.txt",
+      "cited_sections": [
+        "32 18 23.33"
+      ],
+      "cited_but_not_in_manual": {
+        "32 19 19": "Landscape Grading"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-022": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 022 Synthetic Turf Sports Field.txt",
+      "cited_sections": [
+        "32 18 13"
+      ],
+      "cited_but_not_in_manual": {
+        "32 19 19": "Landscape Grading"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-023": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 023 Fencing & Gates.txt",
+      "cited_sections": [
+        "03 30 00",
+        "32 31 13"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-030": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 030 Concrete.txt",
+      "cited_sections": [
+        "07 26 00",
+        "07 92 00",
+        "32 13 13",
+        "32 13 73"
+      ],
+      "cited_but_not_in_manual": {
+        "32 11 23": "Aggregate Base Courses"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "03": {
+          "division_name": "Concrete",
+          "sections_in_manual": [
+            "03 10 00",
+            "03 20 00",
+            "03 30 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "04": {
+          "division_name": "Masonry",
+          "sections_in_manual": [
+            "04 05 03",
+            "04 20 16",
+            "04 43 36C"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-031": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 031 Masonry.txt",
+      "cited_sections": [],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "03": {
+          "division_name": "Concrete",
+          "sections_in_manual": [
+            "03 10 00",
+            "03 20 00",
+            "03 30 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "04": {
+          "division_name": "Masonry",
+          "sections_in_manual": [
+            "04 05 03",
+            "04 20 16",
+            "04 43 36C"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "05": {
+          "division_name": "Metals",
+          "sections_in_manual": [
+            "05 12 23",
+            "05 21 00",
+            "05 31 00",
+            "05 40 00",
+            "05 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "07": {
+          "division_name": "Thermal & Moisture Protection",
+          "sections_in_manual": [
+            "07 21 00",
+            "07 25 00",
+            "07 26 00",
+            "07 61 00",
+            "07 62 00",
+            "07 92 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "08": {
+          "division_name": "Openings",
+          "sections_in_manual": [
+            "08 11 13",
+            "08 31 00",
+            "08 33 13",
+            "08 33 23"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-033": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 033 Structural Steel & Ornamental Metals.txt",
+      "cited_sections": [
+        "05 12 23",
+        "05 50 00"
+      ],
+      "cited_but_not_in_manual": {
+        "05 31 12": "Steel Roof Decking"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "03": {
+          "division_name": "Concrete",
+          "sections_in_manual": [
+            "03 10 00",
+            "03 20 00",
+            "03 30 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "04": {
+          "division_name": "Masonry",
+          "sections_in_manual": [
+            "04 05 03",
+            "04 20 16",
+            "04 43 36C"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-040": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 040 Moisture Protection & Sealants.txt",
+      "cited_sections": [
+        "07 92 00"
+      ],
+      "cited_but_not_in_manual": {
+        "07 13 00": "Sheet Waterproofing"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-044": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 044 Insulation.txt",
+      "cited_sections": [
+        "07 21 00"
+      ],
+      "cited_but_not_in_manual": {
+        "09 82 00": "Acoustical Insulation"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-045": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.txt",
+      "cited_sections": [
+        "07 25 00",
+        "07 62 00",
+        "07 92 00"
+      ],
+      "cited_but_not_in_manual": {
+        "07 41 13": "Metal Roof Panels",
+        "07 71 23": "Manufactured Gutters and Downspouts"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-054": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 054 Special Doors.txt",
+      "cited_sections": [
+        "07 92 00",
+        "08 33 13",
+        "08 33 23"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-056": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 056 Doors, Frames & Hardware.txt",
+      "cited_sections": [
+        "08 11 13"
+      ],
+      "cited_but_not_in_manual": {
+        "08 71 00": "Door Hardware"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-060": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.txt",
+      "cited_sections": [
+        "05 40 00",
+        "06 83 16",
+        "07 92 00",
+        "09 21 16",
+        "09 91 13",
+        "09 91 23",
+        "09 96 50",
+        "10 26 00"
+      ],
+      "cited_but_not_in_manual": {
+        "08 31 13": "Access Doors and Panels"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "09": {
+          "division_name": "Finishes",
+          "sections_in_manual": [
+            "09 51 00",
+            "09 65 13",
+            "09 97 23"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-062": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 062 Acoustical Ceilings Treatments.txt",
+      "cited_sections": [
+        "07 92 00",
+        "09 51 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-066": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 066 Fluid-Applied Floors.txt",
+      "cited_sections": [
+        "03 30 00",
+        "07 92 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-067": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 067 Concrete Finishing.txt",
+      "cited_sections": [
+        "03 30 00",
+        "07 92 00"
+      ],
+      "cited_but_not_in_manual": {
+        "03 35 00": "Concrete Finishing"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-071": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 071 Visual Display Boards & Menu Display Case.txt",
+      "cited_sections": [
+        "10 11 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "09": {
+          "division_name": "Finishes",
+          "sections_in_manual": [
+            "09 21 16",
+            "09 51 00",
+            "09 65 13",
+            "09 91 13",
+            "09 91 23",
+            "09 96 50",
+            "09 97 23"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-072": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 072 Building Signage.txt",
+      "cited_sections": [
+        "03 30 00",
+        "07 92 00",
+        "10 14 23"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "09": {
+          "division_name": "Finishes",
+          "sections_in_manual": [
+            "09 21 16",
+            "09 51 00",
+            "09 65 13",
+            "09 91 13",
+            "09 91 23",
+            "09 96 50",
+            "09 97 23"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-074": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 074 Building & Fire Protection Specialties.txt",
+      "cited_sections": [
+        "10 26 00",
+        "10 28 00"
+      ],
+      "cited_but_not_in_manual": {
+        "10 21 00": "Toilet Compartments",
+        "10 44 13": "Fire Protection Cabinets"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "09": {
+          "division_name": "Finishes",
+          "sections_in_manual": [
+            "09 21 16",
+            "09 51 00",
+            "09 65 13",
+            "09 91 13",
+            "09 91 23",
+            "09 96 50",
+            "09 97 23"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-077": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 077 Lockers.txt",
+      "cited_sections": [
+        "07 92 00",
+        "09 21 16"
+      ],
+      "cited_but_not_in_manual": {
+        "10 51 13": "Metal Lockers"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-078": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 078 Flagpoles.txt",
+      "cited_sections": [
+        "03 30 00",
+        "10 75 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-085": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 085 Warming Kitchen Food Service Equipment.txt",
+      "cited_sections": [
+        "11 40 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "22": {
+          "division_name": "Plumbing",
+          "sections_in_manual": [
+            "22 01 00",
+            "22 05 00",
+            "22 05 19",
+            "22 05 23",
+            "22 05 29",
+            "22 05 53",
+            "22 07 19",
+            "22 10 05",
+            "22 10 06",
+            "22 30 00",
+            "22 40 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "23": {
+          "division_name": "HVAC",
+          "sections_in_manual": [
+            "23 01 00",
+            "23 05 00",
+            "23 05 13",
+            "23 05 29",
+            "23 05 53",
+            "23 05 93",
+            "23 07 13",
+            "23 07 19",
+            "23 23 00",
+            "23 31 00",
+            "23 33 00",
+            "23 34 16",
+            "23 36 00",
+            "23 40 00",
+            "23 81 26.13",
+            "23 81 29"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "26": {
+          "division_name": "Electrical",
+          "sections_in_manual": [
+            "26 00 10",
+            "26 05 00",
+            "26 05 05",
+            "26 05 19",
+            "26 05 26",
+            "26 05 29",
+            "26 05 33.13",
+            "26 05 33.16",
+            "26 05 53",
+            "26 05 83",
+            "26 08 00",
+            "26 09 23",
+            "26 22 00",
+            "26 24 16",
+            "26 27 26",
+            "26 28 13",
+            "26 28 16.16",
+            "26 29 13",
+            "26 43 00",
+            "26 51 00",
+            "26 56 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "ITB-089": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 089 Scoreboards.txt",
+      "cited_sections": [
+        "03 30 00",
+        "11 68 43"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-094": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 094 Bleachers & Press Box.txt",
+      "cited_sections": [
+        "03 30 00",
+        "13 34 23"
+      ],
+      "cited_but_not_in_manual": {
+        "13 12 50": "Permanent Outdoor Bleacher"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-098": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 098 Plumbing Systems.txt",
+      "cited_sections": [
+        "07 92 00",
+        "08 31 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "22": {
+          "division_name": "Plumbing",
+          "sections_in_manual": [
+            "22 01 00",
+            "22 05 00",
+            "22 05 19",
+            "22 05 23",
+            "22 05 29",
+            "22 05 53",
+            "22 07 19",
+            "22 10 05",
+            "22 10 06",
+            "22 30 00",
+            "22 40 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-100": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 099 HVAC & Building Controls Systems.txt",
+      "cited_sections": [
+        "07 92 00",
+        "08 31 00"
+      ],
+      "cited_but_not_in_manual": {
+        "31 00 00": "Earthwork"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "23": {
+          "division_name": "HVAC",
+          "sections_in_manual": [
+            "23 01 00",
+            "23 05 00",
+            "23 05 13",
+            "23 05 29",
+            "23 05 53",
+            "23 05 93",
+            "23 07 13",
+            "23 07 19",
+            "23 23 00",
+            "23 31 00",
+            "23 33 00",
+            "23 34 16",
+            "23 36 00",
+            "23 40 00",
+            "23 81 26.13",
+            "23 81 29"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "26": {
+          "division_name": "Electrical",
+          "sections_in_manual": [
+            "26 00 10",
+            "26 05 00",
+            "26 05 05",
+            "26 05 19",
+            "26 05 26",
+            "26 05 29",
+            "26 05 33.13",
+            "26 05 33.16",
+            "26 05 53",
+            "26 05 83",
+            "26 08 00",
+            "26 09 23",
+            "26 22 00",
+            "26 24 16",
+            "26 27 26",
+            "26 28 13",
+            "26 28 16.16",
+            "26 29 13",
+            "26 43 00",
+            "26 51 00",
+            "26 56 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "27": {
+          "division_name": "Communications",
+          "sections_in_manual": [
+            "27 00 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-103": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 103 Electrical & Low Voltage Systems.txt",
+      "cited_sections": [
+        "03 30 00",
+        "07 92 00",
+        "08 31 00"
+      ],
+      "cited_but_not_in_manual": {
+        "07 84 00": "Firestopping",
+        "08 71 00": "Door Hardware"
+      },
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "22": {
+          "division_name": "Plumbing",
+          "sections_in_manual": [
+            "22 01 00",
+            "22 05 00",
+            "22 05 19",
+            "22 05 23",
+            "22 05 29",
+            "22 05 53",
+            "22 07 19",
+            "22 10 05",
+            "22 10 06",
+            "22 30 00",
+            "22 40 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "23": {
+          "division_name": "HVAC",
+          "sections_in_manual": [
+            "23 01 00",
+            "23 05 00",
+            "23 05 13",
+            "23 05 29",
+            "23 05 53",
+            "23 05 93",
+            "23 07 13",
+            "23 07 19",
+            "23 23 00",
+            "23 31 00",
+            "23 33 00",
+            "23 34 16",
+            "23 36 00",
+            "23 40 00",
+            "23 81 26.13",
+            "23 81 29"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "26": {
+          "division_name": "Electrical",
+          "sections_in_manual": [
+            "26 00 10",
+            "26 05 00",
+            "26 05 05",
+            "26 05 19",
+            "26 05 26",
+            "26 05 29",
+            "26 05 33.13",
+            "26 05 33.16",
+            "26 05 53",
+            "26 05 83",
+            "26 08 00",
+            "26 09 23",
+            "26 22 00",
+            "26 24 16",
+            "26 27 26",
+            "26 28 13",
+            "26 28 16.16",
+            "26 29 13",
+            "26 43 00",
+            "26 51 00",
+            "26 56 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "27": {
+          "division_name": "Communications",
+          "sections_in_manual": [
+            "27 00 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    },
+    "RFP-109": {
+      "scope_file": "02-trade-scopes-bidform/_extracted/Scope of Work - 109 Prefabricated Ticket Booth.txt",
+      "cited_sections": [
+        "03 30 00"
+      ],
+      "cited_but_not_in_manual": {},
+      "division_level_citations": {
+        "00": {
+          "division_name": "Procurement & Contracting",
+          "sections_in_manual": [
+            "00 01 01",
+            "00 01 10",
+            "00 20 08",
+            "00 31 00",
+            "00 43 36A",
+            "00 43 36B",
+            "00 45 21",
+            "00 45 22",
+            "00 61 13",
+            "00 72 00",
+            "00 73 00",
+            "00 73 43"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "01": {
+          "division_name": "General Requirements",
+          "sections_in_manual": [
+            "01 10 00",
+            "01 25 00",
+            "01 30 00",
+            "01 31 17",
+            "01 32 16",
+            "01 40 00",
+            "01 50 00",
+            "01 60 00",
+            "01 61 16",
+            "01 61 16.01",
+            "01 70 00",
+            "01 78 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        },
+        "31": {
+          "division_name": "Earthwork",
+          "sections_in_manual": [
+            "31 10 00",
+            "31 20 00",
+            "31 50 00"
+          ],
+          "note": "Scope doc cites the division, not sections. These are the sections that exist in this manual for it; cite them explicitly in Attachment A."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "_generated": "2026-07-11",
+  "_source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+  "_method": "vision -- actually opened and read each sheet's content (plans, schedules, legends, details), not title-matched. Read in two 20-page chunks via the Read tool's pages parameter (1-20, 21-40).",
+  "sheet_assignments": [
+    {
+      "sheet_number": "S0-00",
+      "sheet_title": "GENERAL NOTES",
+      "package_ids": ["RFP-030", "RFP-031", "RFP-033"],
+      "rationale": "Structural general notes cover Design Criteria, Earthwork, Cast-in-Place Concrete, Masonry, Reinforcing Steel, Lintels, Steel, and Steel Joists as separate lettered sections -- applies across the three structural 1% packages, plus the structural sheet index (9 sheets total, matches S0-00 through S4-01).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "S0-01",
+      "sheet_title": "GENERAL NOTES",
+      "package_ids": ["RFP-033", "RFP-030", "RFP-031"],
+      "rationale": "Steel Deck notes (RFP-033 scope) and Post-Installed Anchors notes (used by concrete/masonry embeds as well as steel connections) -- general notes continuation of S0-00.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "S1-30",
+      "sheet_title": "FOUNDATION PLAN -SCOREBOARD",
+      "package_ids": ["RFP-033", "RFP-030"],
+      "rationale": "Plan/elevation shows W12x40/W12x46 steel beams and columns (structural steel) on a concrete caisson foundation (cross-referenced to S3-00 detail 13, 'Steel Column at Caisson Footing at Scoreboard'). Note on sheet: 'SCOREBOARD AND ATTACHMENT BY OTHERS. MAXIMUM WEIGHT = 1880#' -- the physical scoreboard sign itself (ITB-089) is explicitly NOT part of this drawing's scope.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "S1-40",
+      "sheet_title": "FOUNDATION PLAN -HOME GRAND STANDS",
+      "package_ids": ["RFP-033", "RFP-030", "RFP-094"],
+      "rationale": "Level 01 Home Bleachers foundation plan: 18\"x24\" continuous footing with (2)#5 T&B, 2'-0\"sq x 18\" deep concrete footings (3)#5 EW bot -- concrete scope; bleacher structure itself is RFP-094 (already cited); footing dimensions/reinforcing tie to concrete package.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "S2-10",
+      "sheet_title": "FOUNDATION AND ROOF FRAMING PLAN -CONCESSIONS",
+      "package_ids": ["RFP-033", "RFP-030", "RFP-031"],
+      "rationale": "Sheet shows Masonry Wall (MW) Schedule, Masonry Jamb (MJ) Schedule and CMU Plan Symbols Key (masonry), 5\" concrete slab-on-grade with continuous footing schedule (concrete), and steel bar joists/roof deck framing plan (structural steel) for the concessions building -- genuinely a three-trade sheet.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "S3-00",
+      "sheet_title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+      "package_ids": ["RFP-030", "RFP-033", "RFP-094"],
+      "rationale": "Mostly generic concrete/rebar details (control joints, rebar lap schedule, embedded bolts). Detail 11 'Steel Column at Concrete Footing at Pressbox' and detail 12 'Exterior Footing at Stair Stringers at Bleachers' are specific to RFP-094; detail 13 'Steel Column at Caisson Footing at Scoreboard' ties to RFP-033/S1-30.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "S3-01",
+      "sheet_title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+      "package_ids": ["RFP-030", "RFP-031", "RFP-033"],
+      "rationale": "Despite the sheet title matching S3-00, actual content is four masonry-specific details: 'Masonry Wall at Footing', 'Masonry Wall Footing at Opening' (x2), 'Interior Masonry Wall at Footing' -- clearly masonry scope, though it also documents the concrete footing the masonry sits on.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "S4-00",
+      "sheet_title": "TYPICAL MASONRY SECTIONS",
+      "package_ids": ["RFP-031"],
+      "rationale": "Confirmed: masonry rebar lap schedule, wall intersections, wall openings, double vertical reinforcing, typical lintel -- entirely masonry content. Existing single-sheet citation checks out.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "S4-01",
+      "sheet_title": "FRAMING DETAILS",
+      "package_ids": ["RFP-033", "RFP-031"],
+      "rationale": "Primarily structural steel connection details (steel deck at masonry wall, K joist at masonry wall, typical small opening in steel deck, shear plate connection schedule at scoreboard, steel beam at steel column at scoreboard, bridging at wall) -- steel erector's scope, but several details show the masonry wall bearing/embed condition the masonry sub needs to coordinate.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "M0-00",
+      "sheet_title": "MECHANICAL COVER SHEET",
+      "package_ids": ["RFP-100"],
+      "rationale": "Mechanical symbols/abbreviations/drawing index (6 sheets: M0-00 to M4-10). Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "M0-05",
+      "sheet_title": "MECHANICAL SCHEDULES",
+      "package_ids": ["RFP-100"],
+      "rationale": "Ventilation schedule, Daikin FCU/condensing unit schedules, exhaust fan schedule, duct heater schedule, branch selector box, air device schedule -- all HVAC equipment. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "M0-10",
+      "sheet_title": "MECHANICAL DIAGRAMS",
+      "package_ids": ["RFP-100"],
+      "rationale": "Ceiling exhaust fan, diffuser/register mounting, downblast exhaust fan, fan coil mounting, duct gooseneck diagrams -- HVAC installation details. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "M0-15",
+      "sheet_title": "MECHANICAL ENERGY CODE COMPLIANCE",
+      "package_ids": ["RFP-100"],
+      "rationale": "IECC Mechanical Compliance Certificate listing VRF-1 HVAC system and WH-1 water heater. Confirms existing citation. NOTE: identical content also appears on P0-15 (see notes_for_pm).",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "M2-10",
+      "sheet_title": "MECHANICAL PLAN",
+      "package_ids": ["RFP-100"],
+      "rationale": "Building mechanical plan showing FCUs, ductwork, diffusers/registers, exhaust fans room-by-room. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "M4-10",
+      "sheet_title": "MECHANICAL ROOF PLAN",
+      "package_ids": ["RFP-100"],
+      "rationale": "Roof penetrations/goosenecks for mechanical ductwork. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "P0-00",
+      "sheet_title": "PLUMBING COVER SHEET",
+      "package_ids": ["RFP-098"],
+      "rationale": "Plumbing symbols/linetypes/abbreviations/drawing index (7 sheets: P0-00 to P4-10). Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "P0-05",
+      "sheet_title": "PLUMBING SCHEDULES",
+      "package_ids": ["RFP-098"],
+      "rationale": "Water heater schedule, plumbing fixture schedule, expansion tank/pump schedule, domestic water calculations. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "P0-10",
+      "sheet_title": "PLUMBING DIAGRAMS",
+      "package_ids": ["RFP-098"],
+      "rationale": "Cleanout, pipe hanger, vent-through-roof, balancing valve assembly, electric water heater diagrams. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "P0-15",
+      "sheet_title": "PLUMBING ENERGY CODE COMPLIANCE",
+      "package_ids": ["RFP-098"],
+      "rationale": "Title block says Plumbing Energy Code Compliance and it legitimately documents WH-1 (plumbing equipment), so kept under RFP-098. However the embedded certificate is headed 'Mechanical Energy Code Compliance' / 'Mechanical Compliance Certificate' and lists the same VRF-1 HVAC system as M0-15 -- appears to be a duplicated/copy-pasted COMcheck report rather than a plumbing-specific compliance doc. Flagged for PM.",
+      "confidence": "medium"
+    },
+    {
+      "sheet_number": "P1-10",
+      "sheet_title": "PLUMBING SITE PLAN",
+      "package_ids": ["RFP-098"],
+      "rationale": "Shows 4\" W and 2-1/2\" CW stub-outs from the concessions building toward the track/field for reference; piping scope is plumbing. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "P2-10",
+      "sheet_title": "PLUMBING PLANS",
+      "package_ids": ["RFP-098"],
+      "rationale": "Waste and Vent Plan + Domestic Water Plan for the concessions/team room building, full fixture/piping layout. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "P4-10",
+      "sheet_title": "PLUMBING ROOF PLAN",
+      "package_ids": ["RFP-098"],
+      "rationale": "Roof VTR (vent through roof) penetrations. Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-00",
+      "sheet_title": "ELECTRICAL COVER SHEET",
+      "package_ids": ["RFP-103"],
+      "rationale": "Electrical symbols/abbreviations/drawing index listing 18 sheets (E0-00 through E4-10, including field lighting, technology, and demolition sheets). Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-01",
+      "sheet_title": "ELECTRICAL GENERAL NOTES",
+      "package_ids": ["RFP-103"],
+      "rationale": "Standard electrical general notes (raceways, wiring, fire alarm, receptacles, panelboards). Confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-02",
+      "sheet_title": "LIGHTING FIXTURE SCHEDULE & IECC COMPLIANCE",
+      "package_ids": ["RFP-103"],
+      "rationale": "Contains both a 'Lighting Fixture Schedule - Concessions' AND a 'Lighting Fixture Schedule - Field Lighting' (Musco F1-F4 pole-mounted fixtures) plus interior/exterior lighting compliance certs -- directly confirms Sports Field Lighting is part of this sheet set/package.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-03",
+      "sheet_title": "SINGLE LINE DIAGRAM, PANEL SCHEDULE, AND LIGHTING FIXTURE SCHEDULE",
+      "package_ids": ["RFP-103"],
+      "rationale": "Panel schedules for FL (field lighting), CB, PB (press box), single line diagram, voltage drop calcs. Note: Panel PB includes 'PRESS BOX RECS/AUDIO EQUIP REC/NETWORK SWITCH' circuits and panel CB includes a 'TICKET BOOTH REC & LTG' circuit -- electrical scope only, interface points for RFP-094/RFP-109 noted for PM.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-04",
+      "sheet_title": "FIELD LIGHTING DIAGRAMS",
+      "package_ids": ["RFP-103"],
+      "rationale": "Musco 'Tonopah High School Football' illumination summary/equipment lists/grid diagrams for football field, home bleachers, and track lighting -- directly confirms 'Sports Field Lighting' scope named in RFP-103's title.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-05",
+      "sheet_title": "FIELD LIGHTING DIAGRAMS",
+      "package_ids": ["RFP-103"],
+      "rationale": "Additional Musco illumination/equipment layout plus 'Musco Pole Diagram' with Pole Foundation Schedule (drilled pier 12'-0\"-14'-0\" embedment). Pole/fixture furnish-install is electrical scope; PM note added regarding who installs the drilled pier concrete foundations.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-10",
+      "sheet_title": "TECHNOLOGY GENERAL NOTES",
+      "package_ids": ["RFP-103"],
+      "rationale": "Technology/low-voltage general notes (data, clock-intercom, security camera systems) -- confirms Low Voltage Systems scope named in RFP-103's title.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-11",
+      "sheet_title": "TECHNOLOGY DIAGRAMS",
+      "package_ids": ["RFP-103"],
+      "rationale": "Typical data/countertop data/wireless access point/outlet installation diagrams -- low-voltage technology scope.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-12",
+      "sheet_title": "TECHNOLOGY DIAGRAMS",
+      "package_ids": ["RFP-103"],
+      "rationale": "Intercom speaker, outdoor horn/camera, indoor wall speaker installation diagrams -- low-voltage technology scope.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E0-13",
+      "sheet_title": "GROUNDING AND BONDING INSTALLATION DIAGRAMS",
+      "package_ids": ["RFP-103"],
+      "rationale": "Building steel connection, grounding bond, telecom ground bar, IT Room 104 grounding/bonding single line -- electrical/low-voltage grounding scope.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "ED1-10",
+      "sheet_title": "DEMOLITION ELECTRICAL SITE PLAN",
+      "package_ids": ["RFP-103"],
+      "rationale": "Demolition of existing electrical distribution, press box panel, scoreboard circuiting, site electrical back to source -- electrical demolition scope within the electrical package.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "ED3-10",
+      "sheet_title": "DEMOLITION TECHNOLOGY AND AUDIO VISUAL SITE PLAN",
+      "package_ids": ["RFP-103"],
+      "rationale": "Photos/plan of existing sports field loudspeakers, equipment rack, announcement speakers to be removed/relocated -- technology/AV demolition, part of the low-voltage electrical scope.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E1-10",
+      "sheet_title": "ELECTRICAL SITE PLAN",
+      "package_ids": ["RFP-103"],
+      "rationale": "Site electrical plan plus enlarged Ticket Booth, Press Box (ground level and box level), and Electrical Distribution plans -- all electrical circuiting/conduit routing scope. Shows the interface point for RFP-109 (ticket booth disconnect) and RFP-094 (press box power/audio circuits) but the drawn work itself is electrical installation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E2-10",
+      "sheet_title": "ELECTRICAL AND LIGHTING PLANS",
+      "package_ids": ["RFP-103"],
+      "rationale": "Building Electrical Plan and Lighting Plan for the concessions/team room building -- confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E3-00",
+      "sheet_title": "OVERALL TECHNOLOGY SITE PLAN (incl. tie-in to existing Fire Alarm Panel at High School)",
+      "package_ids": ["RFP-103"],
+      "rationale": "Overall site technology plan tying the new concessions building's fiber/phone/fire-alarm-taping back to the existing high school -- low-voltage technology scope, confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E3-10",
+      "sheet_title": "TECHNOLOGY SITE PLAN",
+      "package_ids": ["RFP-103"],
+      "rationale": "Enlarged Technology Press Box Plan (box level) and site technology plan showing relocated loudspeakers, AV rack, network switch -- confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E3-20",
+      "sheet_title": "TECHNOLOGY PLANS",
+      "package_ids": ["RFP-103"],
+      "rationale": "Building Technology Plan, Building Technology - Reflected Ceiling Plan, and enlarged IT Room 104 elevations -- confirms existing citation.",
+      "confidence": "high"
+    },
+    {
+      "sheet_number": "E4-10",
+      "sheet_title": "ELECTRICAL ROOF PLAN",
+      "package_ids": ["RFP-103"],
+      "rationale": "Single roof-mounted WP receptacle (CB-60) shown -- electrical roof scope. Confirms existing citation.",
+      "confidence": "high"
+    }
+  ],
+  "notes_for_pm": [
+    "RFP-030 (Concrete) currently cites only S3-00/S3-01 (typical sections/schedules). Content review shows the actual foundation PLAN sheets -- S1-30 (Scoreboard), S1-40 (Home Grand Stands), S2-10 (Concessions) -- carry the footing locations/dimensions/reinforcing the concrete sub needs and should probably be added to RFP-030's drawing_sheets, not just the generic detail sheets.",
+    "RFP-031 (Masonry) previously cited only S4-00. Content review found S2-10 (Concessions building has a full Masonry Wall Schedule, Masonry Jamb Schedule, and CMU Plan Symbols Key) and S3-01 (whose actual content, despite the shared 'Typical Foundation Sections and Schedules' title with S3-00, is four masonry-wall-at-footing details) are substantively masonry content and should be added. S4-01 (Framing Details) also documents several steel-to-masonry-wall bearing/embed conditions -- added as a secondary/coordination reference at medium confidence.",
+    "RFP-094 (Bleachers & Press Box): S3-00 details 11 ('Steel Column at Concrete Footing at Pressbox') and 12 ('Exterior Footing at Stair Stringers at Bleachers') are bleacher/press-box-specific structural details not previously cited under this package -- recommend adding S3-00 (and S1-40, which is the bleacher foundation plan itself) to RFP-094's drawing_sheets alongside the existing S1-40/A1-13/A1-40 citations.",
+    "ITB-089 (Scoreboards) has zero drawing-sheet citations in the current index and this review did not find any sheet in Vol 2 that specs the physical scoreboard display itself. What exists is purely interface documentation: S1-30/S3-00 detail 13/S4-01 details 5-6 show the RFP-033 structural steel frame the scoreboard mounts to (sheet note: 'SCOREBOARD AND ATTACHMENT BY OTHERS'), and E0-03/E1-10 show the RFP-103 electrical circuit and goal-post-mounted 5kVA transformer feeding it. Recommend ITB-089's Attachment A cite these as interface/coordination references rather than as its own scope sheets, since the equipment itself is spec'd (if anywhere) in the spec manual or the scoreboard vendor's submittal, not these drawings.",
+    "Field lighting pole foundations (E0-05 'Pole Foundation Schedule': drilled piers, 12'-0\"-14'-0\" embedment depth, F1/F2/F3/F4 designations) appear only on an electrical sheet. Needs PM clarification on which package actually installs the drilled-pier concrete for these poles -- RFP-103 (Electrical, self-performed/subbed under the Musco lighting scope) or RFP-030 (Concrete). Neither package's current citations reflect this scope explicitly.",
+    "Possible drafting duplication: P0-15 ('Plumbing Energy Code Compliance') and M0-15 ('Mechanical Energy Code Compliance') contain what appears to be an identical COMcheck certificate -- both list the same VRF-1 HVAC system and WH-1 water heater under a 'Mechanical Compliance Certificate' heading. Worth confirming with the engineer of record this isn't a plot/publish error; does not change either package's citation since WH-1 is legitimately plumbing equipment.",
+    "E1-10 (Electrical Site Plan) contains enlarged Ticket Booth and Press Box (ground + box level) plans showing their electrical disconnects/circuits. This is useful coordination context for RFP-109 (Prefab Ticket Booth) and RFP-094 (Bleachers & Press Box) even though the drawn work is RFP-103's installation scope -- not added as a formal citation to those two packages per the 'only cite what that package's own scope shows' rule, but flagged in case the PM wants an explicit cross-reference in those Attachment As.",
+    "Existing citations for RFP-033 (Structural Steel, 6 sheets), RFP-098 (Plumbing, 7 sheets), RFP-100 (HVAC, 6 sheets), and RFP-103 (Electrical & Low Voltage incl. Sports Field Lighting, 18 sheets) were all verified against actual sheet content -- every sheet checks out as genuinely belonging to its cited package, with the additions/expansions noted above being purely additive, not corrective. In particular, RFP-103's field-lighting (E0-04, E0-05) and technology/low-voltage (E0-10 through E3-20) sheets substantively confirm both halves of that package's compound title ('... incl. Sports Field Lighting')."
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "_package_id": "RFP-045",
+  "_title": "Metal Roofing, Fascia & Soffit Panels",
+  "_title_variants_in_source": null,
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "07 25 00",
+        "title": "Weather Barriers",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-045. Consistent with PM ruling 07.31.26: the self-adhered membrane under the metal roof is RFP-045, and ITB-040 is below-grade only.",
+        "manual_pages": "186-187",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "07 61 00",
+        "title": "Sheet Metal Roofing",
+        "basis": "trade_judgment",
+        "rationale": "Sheet metal roofing is the metal roofing package.",
+        "manual_pages": "190-193",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      },
+      {
+        "section": "07 62 00",
+        "title": "Sheet Metal Flashing and Trim",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-045. PM ruling 08.06.26 (D): RFP-045 owns the gutters and downspouts -- the cited 07 71 23 is absent from the manual, so the obligation is written into the scope by title, not by section number.",
+        "manual_pages": "194-195",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "07 92 00",
+        "title": "Joint Sealants",
+        "primary_package": "ITB-040",
+        "note": "Every package seals its own joints and penetrations to this section."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "07 41 13": {
+        "title_per_scope_doc": "Metal Roof Panels",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Metal Roof Panels -- RFP-045's own primary section, and it is not in the manual. 07 61 00 Sheet Metal Roofing is the nearest published substitute and is assigned to RFP-045, but it is a different section, not a renumbering. Confirm which governs the panel system before issuing.",
+        "carried_by": "RFP-045",
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 07 41 13. Put the words \"Metal Roof Panels\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": []
+      },
+      "07 71 23": {
+        "title_per_scope_doc": "Manufactured Gutters and Downspouts",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Manufactured Gutters and Downspouts. Absent. 07 62 00 Sheet Metal Flashing and Trim is assigned to RFP-045 and is the nearest published coverage; confirm it carries the gutters, or the roof drainage has no specification.",
+        "carried_by": "RFP-045",
+        "ownership_ruling": "RFP-045 owns the gutters and downspouts.",
+        "how_to_write_it": "Do NOT cite 07 71 23. Put the words \"Manufactured Gutters and Downspouts\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A10-10",
+        "title": "ROOM FINISH SCHEDULE AND FINISH PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A10-10.txt"
+      },
+      {
+        "sheet": "A10-30",
+        "title": "INTERIOR ELEVATIONS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A10-30.txt"
+      },
+      {
+        "sheet": "A11-10",
+        "title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A11-10.txt"
+      },
+      {
+        "sheet": "A4-10",
+        "title": "ROOF PLAN AND BUILDING SECTIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A4-10.txt"
+      },
+      {
+        "sheet": "A5-10",
+        "title": "EXTERIOR ELEVATIONS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A5-10.txt"
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/C1.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-03",
+        "title": "SINGLE LINE DIAGRAM, PANEL SCHEDULE, AND LIGHTING FIXTURE SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-03.txt"
+      },
+      {
+        "sheet": "P0-10",
+        "title": "PLUMBING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-20",
+      "A2-10",
+      "A2-40",
+      "A4-20",
+      "A9-11",
+      "AD1.11",
+      "AD1.12",
+      "E0-01",
+      "E0-02",
+      "E0-10",
+      "E1-10",
+      "E2-10",
+      "E3-20",
+      "ED1-10",
+      "G0-00",
+      "GD",
+      "L1.06",
+      "M0-05",
+      "P2-10",
+      "S3-00"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Metal Roofing, Fascia & Soffit Panels",
+    "awarded_sub": "Foursquare Roof and Walls",
+    "license_no": "0077998 / 0077999",
+    "proposal_price": 135698.0,
+    "proposal_file": "045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf",
+    "other_bidders": [
+      "Canyon State Enterprises",
+      "The Original Roofing Company (TORC) (TBD, no price)"
+    ],
+    "descope_files_present": false,
+    "status": "awarded",
+    "note": "CAUTION: awarded sub's only proposal on file is flagged 'LATE - not submitted to BuildingConnected' -- verify with PM whether a properly-submitted Foursquare proposal exists elsewhere, since a late/out-of-process bid is an unusual basis for the awarded scope."
+  },
+  "bidders": [
+    {
+      "firm": "Canyon State Enterprises",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Canyon State (backup, no Form).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 49700,
+      "inclusions": [
+        "All material is guaranteed as specified. All work to be completed in a workman like manner according to standard practices. Any alterations or deviation from the above specifications involving extra",
+        "costs will be executed only upon written orders and will become an extra change over and above the estimate. All agreements contingent upon strikes, accidents, or delays beyond our control. Owner to",
+        "carry fire, windstorm and other necessary insurance. Our workers are covered by Workers Compensation insurance. I have read, understood, and agreed to the Terms and Conditions herein specified. I",
+        "hereby authorize Canyon State Roofing and Stucco LLC. to complete the described work, for which I agree to pay the amount set forth according to the terms herein. I agree to pay any deposit listed",
+        "before work can begin and I understand that the remainder of balance is DUE ON COMPLETION and that 2% monthly interest will be charged on all past due balances. I agree to pay for reasonable",
+        "attorney's fees incurred to enforce this contract. This bid is valid for 30 days. If, during performance of this contract, the price of material significantly increases (any increase in price exceeding 10%),",
+        "through no fault of contractor, the price of materials under this agreement shall be equitably adjusted by an amount reasonably necessary to cover the increase. If delivery of materials is delayed, through",
+        "no fault of contractor, contractor shall not be liable for any additional costs or damages associated with such delay. All work to be done in a workmanlike manner according to standard practices and the",
+        "requirements of the Nevada Registrar of Contractors. All material to be as specified. We propose to furnish materials and labor put forth in the above proposal. 50% deposit due on signing, 50% due on",
+        "completion. Persuant to NRS 108.221 to 108.246, inclusive, Canyon State Roofing and Stucco has the right to place a lien on your property on which the work is performed and to sue in court to obtain",
+        "payment.",
+        "Pay Schedule:  Per progress billing"
+      ],
+      "exclusions_scope_specific": [
+        "(unless noted above) Sales Tax, General sheet metal, Internal gutters by others, Pre-Finished metal, Gutters, Down Spouts, Soffits, Fascias, Reglets, Copings & Counter",
+        "Flashings, Drip Edge, Painting of Sheet Metal, Carpentry Work,  Wood Nailers, Wood Blocking, Fiber cement siding, Framing and Decking, Protection Mat under Wood Blocking,",
+        "Pitch Pans, Structural/Architectural deck slope, Rigid insulation, Curb Insulation at Skylights and  Mechanical Curbs, Penetrations not shown, Crickets not shown, Walk Pads, Drains,",
+        "Roof  Hatches, Overtime, Bonds, Permits, and Special Insurance Requirements, Prevailing Wages, Shop Drawings (in the event shop drawings are required/requested; all costs will be",
+        "added via change order). Sealant between stucco finish and dissimilar items (i.e. doors, windows, canopies, signs, etc.) is to be done by others. Excludes any interior work, any",
+        "ancillary detached structures (i.e. signs, monuments, dumpster enclosures, site walls, guard shacks etc.)",
+        "General Conditions: Adequate water supply to be provided on-site by owner. On-site dumpsters to be provided by others. Owner to provide a safe work environment for all",
+        "subcontractors. Scaffolding to be used only by Canyon State Employees.",
+        "End Date:",
+        "A 3% fee will be added for credit card payments",
+        "2959 Rhoades Avenue, Kingman AZ 86409          Phone: (928) 757-9003 Fax: (928)757-3412         Email: Office@Canyonstateaz.com",
+        "I have read, understood, and agreed to the Terms and Conditions herein specified. I hereby authorize Canyon State Roofing & Stucco LLC. to complete the described work, for which I agree to pay the",
+        "amount set forth according to the terms herein."
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "Foursquare",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Foursquare Homework Response.pdf.txt",
+      "current_date": "2026-05-19",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Foursquare Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf.txt",
+          "date": "2026-05-05",
+          "inclusions": [
+            "Furnish and install standing seam metal roofing system on Concession Building including"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Foursquare Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-19",
+          "inclusions": [
+            "Assumes one downspout",
+            "Can add a 20-year warranty from Berrage for 3,500.",
+            "Includes vents and pass-throughs, assumes nothing lands on a rib.",
+            "Assumes metal instead of wood for the countertop",
+            "Includes penetrations",
+            "Includes gutter attachment for added strength",
+            "Includes multiple trips for coordination",
+            "Includes a pass-through window"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Concerns of snow ripping off the gutter",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Assumes framer to frame up to the eeve",
+            "Assumes berrage z lock standing seam roof",
+            "PBR to have cost savings if changed",
+            "CORE to clarify with the design team",
+            "Assumes continuous z lock clips",
+            "Assume the soffit panel at the high side of the roof",
+            "Assume waterproofing to end at the clip, not to wrap to the building",
+            "Excludes skylight",
+            "Excludes metal sheathing"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Includes standard color Berridge C-Lock metal roof system.",
+      "Includes standard brake metal for fascia and soffits."
+    ],
+    "possibly_relevant_exclusions": [
+      "Testing, special inspections, and any associated overtime or staff and resource costs for additional inspections not required by Code, permit, or the contract documents requirements or determined by the Design Team (i.e. abatement, geotechnical, concrete, reinforcing steel, deep foundations, shoring, masonry, structural steel, welding, fireproofing, water testing, etc.)."
+    ],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 4,
+      "id": "GMP-01",
+      "severity": "high",
+      "title": "Berridge C-Lock in the GMP reverses RFI #23",
+      "detail": "Clarification No.1 RFI #23 answered that spec 07 61 00 (MBCI PBR panel BOD) takes precedence over the plan callout of Berridge Cee-lock. The GMP is priced on the Berridge C-Lock system. The GMP is later and the PM directs it supersedes, but this overturns a written architect's RFI answer. Confirm before RFP-045 issues."
+    }
+  ]
+}

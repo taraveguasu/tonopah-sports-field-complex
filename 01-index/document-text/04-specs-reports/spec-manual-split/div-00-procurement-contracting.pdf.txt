@@ -1,0 +1,2268 @@
+
+===== PAGE 1 =====
+P ROJ EC T M A N UA L
+VO LU M E 1
+(P E R M I T / B I D)
+A P R I L 2 0, 2 026
+TO N O PA H H S S P O RTS F I E L D 
+R E P L AC E M E N T
+
+
+===== PAGE 2 =====
+Nye County School District
+Bid Documents
+00 0101
+Tonopah HS Field Replacement
+Project Title Page
+April 20, 2026
+Page 1 of 1 
+SECTION 00 0101
+PROJECT TITLE PAGE
+PROJECT MANUAL
+FOR
+NYE COUNTY SCHOOL DISTRICT
+PROJECT NAME:
+NCSD TONOPAH HS FIELD REPLACEMENT
+PWP-NY-2026-185
+​ARCHITECTS​ PROJECT NUMBER: 240041
+PROJECT LOCATION: TONOPAH, NV
+​
+DATE: MARCH 3, 2026
+PREPARED BY: KNIT
+END OF SECTION
+
+
+===== PAGE 3 =====
+Nye County School District 
+Bid Documents 
+00 01 10 
+Tonopah HS Field Replacement 
+ 
+Table of Contents 
+ 
+April 20, 2026 
+Page 1 of 5 
+ 
+ 
+ 
+ 
+SECTION 00 01 10 
+TABLE OF CONTENTS 
+ 
+DIVISION 00 – PROCUREMENT AND CONTRACTING REQUIREMENTS 
+00 01 01 
+ 
+PROJECT TITLE PAGE 
+00 01 10 
+ 
+TABLE OF CONTENTS 
+00 20 08 
+ 
+NON-COLLUSIVE AFFIDAVIT 
+00 31 00 
+ 
+AVAILABLE PROJECT INFORMATION 
+00 43 36A 
+ 
+SUBCONTRACTORS EXCEEDING 1% 
+00 43 36B 
+ 
+SUBCONTRACTORS EXCEEDING 5% 
+00 43 36C 
+ 
+EXPANDED SUBCONTRACTORS LISTING 
+00 45 21 
+ 
+PROJECT WORKFORCE CHECKLIST 
+00 45 22 
+ 
+REQUEST FOR WAIVER 
+00 61 13 
+ 
+SAMPLE PAYMENT AND PERFORMANCE  BONDS 
+00 72 00 
+ 
+GENERAL CONDITIONS 
+00 73 00 
+ 
+SUPPLEMENTARY CONDITIONS 
+00 73 43 
+ 
+PREVAILING WAGE RATES 
+ 
+DIVISION 01 – GENERAL REQUIREMENTS 
+01 10 00 
+SUMMARY 
+01 25 00 
+SUBSTITUTION PROCEDURES 
+01 30 00 
+ADMINISTRATIVE REQUIREMENTS 
+01 31 17  
+CONTRACTOR REQUEST FOR INTERPRETATION PROCEDURES 
+01 32 16 
+CONSTRUCTION PROGRESS SCHEDULE 
+01 40 00 
+QUALITY REQUIREMENTS 
+01 50 00 
+TEMPORARY FACILITIES AND CONTROLS 
+01 60 00 
+PRODUCT REQUIREMENTS 
+01 61 16 
+VOLATILE ORGANIC COMPOUND (VOC) CONTENT RESTRICTIONS 
+01 61 16.01 
+ACCESSORY MATERIAL VOC CONTENT CERTIFICATION FORM 
+01 70 00 
+EXECUTION AND CLOSEOUT REQUIREMENTS 
+01 78 00 
+CLOSEOUT SUBMITTALS 
+ 
+DIVISION 02 – EXISTING CONDITIONS 
+02 40 00 
+DEMOLITION 
+ 
+DIVISION 03 – CONCRETE 
+03 10 00 
+CONCRETE FORMWORK 
+03 20 00  
+CONCRETE REINFORCEMENT 
+03 30 00  
+CAST-IN-PLACE CONCRETE 
+ 
+DIVISION 04 – MASONRY 
+
+
+===== PAGE 4 =====
+Nye County School District 
+Bid Documents 
+00 01 10 
+Tonopah HS Field Replacement 
+ 
+Table of Contents 
+ 
+April 20, 2026 
+Page 2 of 5 
+ 
+ 
+ 
+ 
+04 05 03 
+MASONRY MORTARING AND GROUTING 
+04 20 16  
+REINFORCED UNIT MASONRY 
+ 
+DIVISION 05 – METALS 
+05 12 23  
+STRUCTURAL STEEL 
+05 21 00 
+STEEL JOISTS 
+05 31 00  
+STEEL DECK 
+05 40 00 
+COLD FORMED METAL FRAMING 
+05 50 00 
+METAL FABRICATIONS 
+ 
+DIVISION 06 – WOOD, PLASTICS, AND COMPOSITES 
+06 83 16 
+FIBERGLASS REINFORCED PANELING 
+ 
+DIVISION 07 – THERMAL AND MOISTURE PROTECTION 
+07 21 00 
+THERMAL INSULATION 
+07 25 00 
+WEATHER BARRIERS 
+07 26 00 
+VAPOR RETARDERS 
+07 61 00 
+SHEET METAL ROOFING 
+07 62 00 
+SHEET METAL FLASHING AND TRIM 
+07 92 00 
+JOINT SEALANTS 
+ 
+DIVISION 08 – OPENINGS 
+08 11 13 
+HOLLOW METAL DOORS AND FRAMES 
+08 31 00 
+ACCESS DOORS AND PANELS 
+08 33 13 
+COILING COUNTER DOORS 
+08 33 23 
+OVERHEAD COILING DOORS 
+ 
+DIVISION 09 – FINISHES 
+09 21 16 
+GYPSUM BOARD ASSEMBLIES 
+09 51 00 
+ACOUSTICAL CEILINGS 
+09 65 13 
+RESILIENT BASE AND ACCESSORIES 
+09 91 13 
+EXTERIOR PAINTING 
+09 91 23 
+INTERIOR PAINTING 
+09 96 50 
+ANTI-GRAFFITI COATINGS 
+09 97 23 
+CONCRETE AND MASONRY COATINGS 
+ 
+DIVISION 10 – SPECIALTIES 
+10 11 00 
+VISUAL DISPLAY UNITS 
+10 14 23 
+PANEL SIGNAGE 
+10 21 13.13 
+METAL TOILET COMPARTMENTS 
+
+
+===== PAGE 5 =====
+Nye County School District 
+Bid Documents 
+00 01 10 
+Tonopah HS Field Replacement 
+ 
+Table of Contents 
+ 
+April 20, 2026 
+Page 3 of 5 
+ 
+ 
+ 
+ 
+10 26 00 
+WALL AND DOOR PROTECTION 
+10 28 00 
+TOILET, BATH, AND LAUNDRY ACCESSORIES 
+10 75 00 
+FLAGPOLES 
+ 
+DIVISION 11 – EQUIPMENT 
+11 30 13 
+RESIDENTIAL APPLIANCES 
+11 40 00 
+FOOD SERVICE EQUIPMENT 
+11 68 43 
+FOOTBALL/TRACK SCOREBOARD 
+ 
+DIVISION 12 – FURNISHINGS 
+12 93 00 
+SITE FURNISHINGS 
+ 
+DIVISION 13 – SPECIAL CONSTRUCTION  
+13 34 23 
+FABRICATED STRUCTURES 
+ 
+DIVISION 22 – PLUMBING  
+22 01 00 
+BASIC PLUMBING REQUIREMENTS 
+22 05 00  
+COMMON WORK RESULTS FOR PLUMBING 
+22 05 19  
+METERS AND GAUGES FOR PLUMBING PIPING 
+22 05 23  
+GENERAL-DUTY VALVES FOR PLUMBING PIPING 
+22 05 29  
+HANGERS AND SUPPORTS FOR PLUMBING PIPING AND EQUIPMENT 
+22 05 53 
+IDENTIFICATION FOR PLUMBING PIPING AND EQUIPMENT 
+22 07 19 
+PLUMBING PIPING INSULATION 
+22 10 05  
+PLUMBING PIPING 
+22 10 06  
+PLUMBING PIPING SPECIALTIES 
+22 30 00  
+PLUMBING EQUIPMENT 
+22 40 00  
+PLUMBING FIXTURES 
+ 
+DIVISION 23 – HEATING, VENTILATION, AND AIR-CONDITIONING (HVAC) 
+23 01 00 
+BASIC HVAC REQUIREMENTS 
+23 05 00  
+COMMON WORK RESULTS FOR HVAC 
+23 05 13  
+COMMON MOTOR REQUIREMENTS FOR HVAC EQUIPMENT 
+23 05 29  
+HANGERS AND SUPPORTS FOR HVAC PIPING AND EQUIPMENT 
+23 05 53  
+IDENTIFICATION FOR HVAC PIPING AND EQUIPMENT 
+23 05 93  
+TESTING, ADJUSTING AND BALANCING FOR HVAC 
+23 07 13  
+DUCT INSULATION 
+23 07 19  
+HVAC PIPING INSULATION 
+23 23 00  
+REFRIGERANT PIPING 
+23 31 00  
+HVAC DUCTS AND CASINGS 
+23 33 00  
+AIR DUCT ACCESSORIES 
+23 34 16  
+CENTRIFUGAL HVAC FANS 
+23 36 00  
+AIR TERMINAL UNITS 
+23 40 00  
+HVAC AIR CLEANING DEVICES 
+
+
+===== PAGE 6 =====
+Nye County School District 
+Bid Documents 
+00 01 10 
+Tonopah HS Field Replacement 
+ 
+Table of Contents 
+ 
+April 20, 2026 
+Page 4 of 5 
+ 
+ 
+ 
+ 
+23 81 26.13  
+SMALL-CAPACITY SPLIT-SYSTEM AIR CONDITIONERS 
+23 81 29  
+VARIABLE REFRIGERANT FLOW HVAC SYSTEMS 
+ 
+DIVISION 26 – ELECTRICAL  
+26 05 00 
+COMMON WORK RESULTS FOR ELECTRICAL  
+26 05 05  
+SELECTIVE DEMOLITION FOR ELECTRICAL 
+26 05 19  
+LOW-VOLTAGE ELECTRICAL POWER CONDUCTORS AND CABLES 
+26 05 26  
+GROUNDING AND BONDING FOR ELECTRICAL SYSTEMS 
+26 05 29  
+HANGERS AND SUPPORTS FOR ELECTRICAL SYSTEMS 
+26 05 33.13  
+CONDUIT FOR ELECTRICAL SYSTEMS 
+26 05 33.16  
+BOXES FOR ELECTRICAL SYSTEMS 
+26 05 53 
+IDENTIFICATION FOR ELECTRICAL SYSTEMS 
+26 05 83  
+WIRING CONNECTIONS 
+26 08 00  
+ELECTRICAL TESTING AND COMMISSIONING REQUIREMENTS 
+26 09 23 
+LIGHTING CONTROL DEVICES 
+26 22 00  
+LOW-VOLTAGE TRANSFORMERS 
+26 24 16  
+PANELBOARDS 
+26 27 26  
+WIRING DEVICES 
+26 28 13  
+FUSES 
+26 28 16.16  
+ENCLOSED SWITCHES 
+26 29 13  
+ENCLOSED CONTROLLERS 
+26 43 00  
+SURGE PROTECTIVE DEVICES 
+26 51 00  
+INTERIOR LIGHTING 
+26 56 00  
+EXTERIOR LIGHTING 
+ 
+DIVISION 27 – COMMUNICATIONS  
+27 00 00  
+COMMUNICATIONS - GENERAL 
+ 
+DIVISION 31 – EARTHWORK 
+31 10 00 
+SITE CLEARING 
+31 20 00 
+EARTH MOVING 
+31 50 00 
+EXCAVATION SUPPORT AND PROTECTION 
+ 
+DIVISION 32 – EXTERIOR IMPROVEMENTS 
+32 12 16 
+ASPHALT PAVING 
+32 13 13 
+CONCRETE PAVING 
+32 13 73 
+CONCRETE PAVING JOINT SEALANTS 
+32 16 23 
+SIDEWALKS 
+32 18 13 
+SYNTHETIC TURF 
+32 18 23.33 
+RUNNING TRACK SURFACING 
+32 31 13 
+CHAIN LINK FENCES AND GATES 
+32 84 00 
+LANDSCAPE IRRIGATION 
+32 91 13 
+SHOT PUT AND DISCUS MIX 
+32 96 50 
+INVASIVE PLANT REMOVAL 
+
+
+===== PAGE 7 =====
+Nye County School District 
+Bid Documents 
+00 01 10 
+Tonopah HS Field Replacement 
+ 
+Table of Contents 
+ 
+April 20, 2026 
+Page 5 of 5 
+ 
+ 
+ 
+ 
+ 
+DIVISION 33 – UTILITIES 
+33 05 00 
+COMMON WORK RESULTS FOR UTILITIES 
+33 10 00 
+WATER DISTRIBUTION SYSTEM 
+33 12 00 
+WATER SERVICE CONNECTIONS 
+33 30 00 
+SANITARY SEWER SYSTEM 
+ 
+
+
+===== PAGE 8 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 9 =====
+FORM OF NON-COLLUSIVE AFFIDAVIT  
+00 2008 
+Nye County School District 
+Bid Documents 
+00 20 08 
+Tonopah HS Field Replacement 
+ 
+Non-Collusive Affidavit 
+ 
+April 20, 2026 
+Page 1 of 2 
+ 
+ 
+ 
+ 
+To Be Transferred on Bidders Letterhead 
+ 
+FORM OF NON-COLLUSIVE AFFIDAVITT 
+ 
+ 
+AFFIDAVIT FROM _____________________________________________________________________ 
+(Bidder’s Name) 
+ 
+State of ____________________________ 
+ 
+County of _______________________________ 
+ 
+___________________________________, being first duly sworn, deposes and says that he is the: 
+(Print Name) 
+ 
+ 
+____________________________________ 
+(a partner, officer, etc., of the company) 
+ 
+making the foregoing offer or bid for: _______________________________________________________ 
+(Project Name and Number) 
+ 
+that such offer or bid is genuine and not collusive or sham; that said bidder has not colluded, conspired, 
+connived or agreed, directly or indirectly, with any bidder or person, to put in a sham bid or to refrain from 
+bidding, and has not in any manner, directly or indirectly, sought by agreement or collusion, or communication 
+or conference, with any person, to fix the bid sum of affiant or of any other bidder, or to fix any overhead, profit 
+or cost element of said bid price, or of that of any other bidder, or to secure any advantage against the Owner 
+or any person interested in the proposed contract, and that all statements in said proposal or bid are true. 
+ 
+The Corporate Seal of: 
+ 
+_____________________________________________________________________________________ 
+(Bidder - please print the full name of your Proprietorship, Partnership, or Corporation) 
+ 
+was hereunto affixed in the presence of: 
+ 
+___________________________________ 
+ 
+_______________________________________ 
+Authorized signing officer  
+ 
+ 
+Title 
+ 
+ 
+ 
+(Seal) 
+ 
+ 
+___________________________________ 
+ 
+_______________________________________ 
+Authorized signing officer  
+ 
+ 
+Title 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If the bid is a joint venture or partnership, add additional forms of execution for each member of the joint 
+
+
+===== PAGE 10 =====
+FORM OF NON-COLLUSIVE AFFIDAVIT  
+00 2008 
+Nye County School District 
+Bid Documents 
+00 20 08 
+Tonopah HS Field Replacement 
+ 
+Non-Collusive Affidavit 
+ 
+April 20, 2026 
+Page 2 of 2 
+ 
+ 
+ 
+ 
+venture in the appropriate form or forms as above. 
+ 
+ 
+Subscribed and sworn to before me this _____ day of _________________, 20_____. 
+ 
+ 
+__________________________________ 
+Notary Public 
+ 
+ 
+My commission expires on the _____ day of ________________, 20____. 
+
+
+===== PAGE 11 =====
+Nye County School District
+Bid Documents
+00 3100
+Tonopah HS Field Replacement
+Available Project Information
+April 20, 2026
+Page 1 of 1 
+SECTION 00 3100
+AVAILABLE PROJECT INFORMATION
+PART 1 GENERAL
+1.01 PERMITS
+A.
+Nye County School District has obtained or will obtain the following permits and/or approvals,
+that are required to be secured prior to commencement of construction work on this project:
+1.
+Building Permit for all trades.
+1.02 PRE-VAILING WAGE DETERMINATION
+A.
+​See "2025-2026 Prevailing Wage Rates Southern Nevada Rural Counties (Esmeralda, Lincoln,
+and Nye)" on State Of Nevada Labor Department of Business & Industry Office of the Labor
+Commissioner website​.
+PART 2 PRODUCTS (NOT USED)
+PART 3 EXECUTION​
+3.01 OBTAINMENT OF PERMITS
+A.
+Nye County School District will obtain the following permits, at no cost to the Contractor:
+1.
+Building Permit for all trades.
+B.
+Contractor to obtain the following required permits, at no cost to Nye County School District:
+1.
+​Fire Sprinkler and/or Fire Alarm Permits as required​.
+END OF SECTION
+
+
+===== PAGE 12 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 13 =====
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+00 01 10 
+Tonopah HS Field Replacement 
+ 
+Table of Contents 
+ 
+April 20, 2026 
+Page 1 of 1 
+ 
+SUBCONTRACTORS EXCEEDING 1% LISTING 
+(Due within 2 hours after Bid Opening) 
+ 
+TO: 
+NYE COUNTY SCHOOL DISTRICT hereinafter called “Owners” 
+ 
+1. 
+Pursuant to bidding requirements for the Work titled: Tonopah HS Sports Field Replacement 
+ 
+2. 
+INSTRUCTIONS: Within two (2) hours after the completion of the opening of the bids, the general 
+contractors who submitted the three lowest bids must submit a list of the name of each first tier 
+subcontractor, who will provide labor or a portion of the work to the contractor for which the 
+subcontractor with be paid an amount exceeding one percent (1%) of the general contractor’s 
+total bid or $50,000, whichever is greater, the portion of the Work to be completed and the license 
+number issued to the subcontractor pursuant to Chapter 624 of the NRS.  If the undersigned 
+general contractor fails to submit such a list within the required time, the bid shall be deemed not 
+responsive.  
+ 
+3. 
+ACKNOWLEDGMENT: Signature at the conclusion of this Document certifies that all 
+subcontractors required in accordance with NRS 338.141 are listed: 
+ 
+ 
+ 
+SUBCONTRACTOR 
+TYPE OF WORK 
+LICENSE NUMBER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROVIDE SIGNATURE IDENTICAL TO THAT SHOWN ON THE BID FORM 
+ 
+ 
+ 
+ 
+BIDDER: _____________________________________________________________________ 
+ 
+ 
+ 
+SIGNATURE: __________________________________________________________________ 
+ 
+ 
+ 
+NEVADA CONTRACTOR’S LICENSE #_________________ DATE: _______________. 
+ 
+ 
+
+
+===== PAGE 14 =====
+Nye County School District 
+Bid Documents 
+00 43 36B 
+Tonopah HS Field Replacement 
+ 
+Subcontractors Exceeding 5% 
+ 
+April 20, 2026 
+Page 1 of 1 
+ 
+SUBCONTRACTORS EXCEEDING 5% LISTING 
+(Due at the time of Bid Opening) 
+ 
+TO: 
+NYE COUNTY SCHOOL DISTRICT hereinafter called “Owners” 
+ 
+1. 
+Pursuant to bidding requirements for the Work titled: Tonopah HS Sports Field Replacement 
+ 
+2. 
+INSTRUCTIONS: As required by NRS 338.141, the general contractor must include with his bid, 
+the name of each first tier subcontractor who will provide labor or a portion of the work or 
+improvement to the contractor for which they will be paid an amount exceeding five percent (5%) 
+of the general contractor’s total bid for the Project and a description of the portion of the work to 
+be completed by the subcontractor. 
+ 
+3. 
+Further, within two (2) hours after the completion of the opening of the bids, the general 
+contractors who submitted the three lowest bids, must submit the names of each first tier 
+subcontractor that will be paid an amount exceeding one percent (1%) of the general contractor’s 
+total bid or $50,000, whichever is greater, the portion of the Work to be completed and the 
+number of the license issued to the subcontractor pursuant to Chapter 624 of the NRS.  If the 
+undersigned general contractor fails to submit such a list within the required time, the bid shall be 
+deemed not responsive.  The 2-hour requirement of NRS 338.141 shall be provided on the 
+Subcontractors Exceeding 1% Listing form. 
+ 
+4. 
+ACKNOWLEDGMENT: Signature at the conclusion of this Document certifies that all 
+subcontractors required in accordance with NRS 338.141 are listed: 
+ 
+ 
+ 
+SUBCONTRACTOR 
+TYPE OF WORK 
+LICENSE NUMBER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROVIDE SIGNATURE IDENTICAL TO THAT SHOWN ON THE BID FORM 
+ 
+ 
+ 
+ 
+BIDDER:______________________________________________________________________ 
+ 
+ 
+ 
+SIGNATURE: __________________________________________________________________ 
+ 
+ 
+ 
+ 
+NEVADA CONTRACTOR’S LICENSE #_________________ DATE:_______________________ 
+
+
+===== PAGE 15 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 1 of 9 
+ 
+ 
+ 
+SECTION 00 4336C 
+ EXPANDED SUBCONTRACTORS LISTING 
+ 
+ 
+ 
+TO: 
+NYE COUNTY SCHOOL DISTRICT hereinafter called "Owner" 
+ 
+FROM: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Print Company Name) 
+ 
+1. 
+Pursuant to bidding requirements for the Work titled: Tonopah HS Sports Field Replacement 
+ 
+2. 
+The low bidder shall submit this Expanded Subcontractors Listing to the Owner within 24 hours 
+after the bid opening.   
+ 
+3. 
+Submit 00 43 36C Expanded Subcontractor Listing to bretta@knitstudios.com.  Failure to 
+comply within the required time limit may be cause for the Contractor to be deemed non-
+responsive. 
+ 
+4. 
+The Owner reserves the right to request additional information regarding subcontractors, regardless 
+of tier, as necessary to satisfy the Owner’s needs. 
+ 
+5. 
+The Owner reserves the right to request Document 00 43 36C - Expanded Subcontractors Listing 
+from the second and/or third low bidders.   
+ 
+6. 
+ACKNOWLEDGMENT:  
+ 
+a) 
+Signature at the conclusion of this document certifies that One Hundred Percent (100%) of 
+the portions of the Work are listed. 
+ 
+b) 
+Signature at the conclusion of this document certifies that each Subcontractor named by 
+the Contractor is properly licensed for that portion of the work and does not exceed the limit 
+of his license.   
+ 
+7. 
+INSTRUCTIONS: 
+ 
+a) 
+List each subcontractor, regardless of tier, for each portion of the project that will be 
+completed by a subcontractor. 
+ 
+b) 
+In accordance with NRS 338.145, listing a subcontractor who is not properly licensed or 
+who exceeds his license limit will be deemed unacceptable. 
+ 
+Although a comprehensive list of portions of the Work is provided, the list should not be considered 
+inclusive.  Should a portion of the Work not be specifically listed, the Contractor is required to add that 
+portion of Work, regardless of tier, in the space provided. All listed portions of work must be annotated as 
+required or indicate Not Applicable, as appropriate.  
+
+
+===== PAGE 16 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 2 of 9 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 17 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 3 of 9 
+ 
+ 
+ 
+DIVISION 2 
+Existing Conditions 
+Portions of Work 
+Subcontractor 
+(Regardless of Tier) 
+License Number 
+Demolition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 3 
+Concrete 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Site Concrete 
+ 
+ 
+Building Concrete 
+ 
+ 
+Tilt Up Pre-Cast Concrete 
+ 
+ 
+Saw Cutting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 4 
+Masonry 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Masonry Systems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 5 
+Metals 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Structural Steel 
+ 
+ 
+Steel Joists 
+ 
+ 
+Steel Roof Deck 
+ 
+ 
+Steel Erection 
+ 
+ 
+Cold Formed Framing 
+ 
+ 
+Metal Fabrication (handrails & 
+stairs) 
+ 
+ 
+DIVISION 6 
+Wood and Plastics 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Rough Carpentry 
+ 
+ 
+Finish Carpentry 
+ 
+ 
+Custom Casework 
+ 
+ 
+
+
+===== PAGE 18 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 4 of 9 
+ 
+ 
+ 
+DIVISION 7 
+Thermal and Moisture 
+Protection 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Water Proofing 
+ 
+ 
+Board Insulation 
+ 
+ 
+Batt Insulation 
+ 
+ 
+Exterior Insulation & Finish 
+System 
+ 
+ 
+Cementitious Fireproofing 
+ 
+ 
+Fire Stopping 
+ 
+ 
+Built-up Roofing 
+ 
+ 
+Metal Roofing 
+ 
+ 
+Joint Sealers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 8 
+Openings 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Skylights 
+ 
+ 
+Steel Doors, Frames, and 
+Windows 
+ 
+ 
+Overhead Coiling Doors 
+ 
+ 
+Aluminum Entrances, 
+Storefronts, and Windows 
+ 
+ 
+Door Hardware 
+ 
+ 
+Glass and Glazing 
+ 
+ 
+Translucent Panel Glazing 
+Systems 
+ 
+ 
+DIVISION 9 
+Finishes 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Metal Stud Framing 
+ 
+ 
+Plaster 
+ 
+ 
+Gypsum Board 
+ 
+ 
+Ceramic Tile/Quarry Tile 
+ 
+ 
+Acoustical Ceilings 
+ 
+ 
+Hardwood Flooring 
+ 
+ 
+Resilient Flooring 
+ 
+ 
+Floor Preparation 
+ 
+ 
+
+
+===== PAGE 19 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 5 of 9 
+ 
+ 
+ 
+Painting 
+ 
+ 
+Wall Coverings 
+ 
+ 
+Acoustical Panels 
+ 
+ 
+ 
+ 
+ 
+DIVISION 10 
+Specialties 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Marker  Boards/Tack Boards 
+ 
+ 
+Toilet Partitions 
+ 
+ 
+Corner Guards 
+ 
+ 
+Interior Signage 
+ 
+ 
+Toilet Accessories 
+ 
+ 
+Cubicle Curtains 
+ 
+ 
+Locker Room Benches 
+ 
+ 
+Metal Lockers 
+ 
+ 
+ 
+ 
+ 
+DIVISION 11 
+Equipment 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Library Detection 
+ 
+ 
+Stage Rigging/Curtains 
+ 
+ 
+Food Service Equipment 
+ 
+ 
+Residential Appliances 
+ 
+ 
+Television Brackets 
+ 
+ 
+Athletic Equipment 
+ 
+ 
+Electronic Scoreboards 
+ 
+ 
+Kilns 
+ 
+ 
+Stage Platform 
+ 
+ 
+Project Screens 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 12 
+Furnishings 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Vertical/Horizontal Blinds 
+ 
+ 
+Fixed Auditorium Seating 
+ 
+ 
+Telescopic Bleachers 
+ 
+ 
+Laboratory Casework 
+ 
+ 
+
+
+===== PAGE 20 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 6 of 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 13 
+Special Construction 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Permanent Outdoor 
+Grandstands 
+ 
+ 
+Exterior Bleachers 
+ 
+ 
+ 
+ 
+ 
+DIVISION 14 
+Conveying Systems 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Elevators 
+ 
+ 
+Vehicle Lifts/Auto Shop 
+Equipment 
+ 
+ 
+ 
+ 
+ 
+DIVISION 15 – 20 
+NOT USED 
+ 
+ 
+DIVISION 21 
+Fire Suppression 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Fire Sprinklers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 22 
+Plumbing 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Plumbing Systems 
+ 
+ 
+Plumbing Fixtures 
+ 
+ 
+Plumbing Insulation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 23 
+Heating, Ventilating and Air 
+Conditioning 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Hydronic Piping 
+ 
+ 
+Mechanical Insulation 
+ 
+ 
+HVAC Ductwork 
+ 
+ 
+Duct Insulation 
+ 
+ 
+HVAC Equipment 
+ 
+ 
+
+
+===== PAGE 21 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 7 of 9 
+ 
+ 
+ 
+HVAC Systems 
+ 
+ 
+Controls 
+ 
+ 
+Chemical Water Treatment 
+ 
+ 
+ 
+ 
+ 
+DIVISION 24 & 25 
+NOT USED 
+ 
+ 
+DIVISION 26 
+Electrical 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Electrical Systems 
+ 
+ 
+Electrical Equipment/Lighting 
+Fixtures 
+ 
+ 
+Site Lighting 
+ 
+ 
+Emergency Generator 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 27 
+Communications 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Data/Telephone/Video 
+Premise Wiring 
+ 
+ 
+MATV System 
+ 
+ 
+Clock/Intercom System 
+ 
+ 
+Public Address System 
+ 
+ 
+Stage Lighting/Audio System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 28 
+Electronic Safety and 
+Security 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Fire Alarm Systems 
+ 
+ 
+Intrusion Detection System  
+(Security) 
+ 
+ 
+CCTV Surveillance System 
+ 
+ 
+ 
+ 
+ 
+Division 29 & 30 
+NOT USED 
+ 
+ 
+DIVISION 31 
+Earthwork 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Earthwork 
+ 
+ 
+
+
+===== PAGE 22 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 8 of 9 
+ 
+ 
+ 
+ 
+ 
+ 
+DIVISION 32 
+Exterior Improvements 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Asphalt Paving 
+ 
+ 
+Stripping/Signage 
+ 
+ 
+Fencing 
+ 
+ 
+Landscaping 
+ 
+ 
+Playground Safety Surface 
+ 
+ 
+Running Track Paving 
+ 
+ 
+Tennis Court Paving 
+ 
+ 
+Running Track Surfacing 
+ 
+ 
+Tennis Court Surfacing 
+ 
+ 
+ 
+ 
+ 
+DIVISION 33 
+Utilities 
+Portions of Work 
+Subcontractor 
+Regardless of Tier 
+License Number 
+Water Distribution 
+ 
+ 
+ 
+Sanitary Sewage System 
+ 
+ 
+Storm Drain System 
+ 
+ 
+Gas Main 
+ 
+ 
+Underground Electric Service 
+ 
+ 
+ 
+ 
+ 
+DIVISION 34-48 
+NOT USED 
+ 
+ 
+ 
+By signing this document, the Contractor attests that each subcontractor named is properly 
+licensed for that portion of the work and does not exceed the limit of his license.  
+ 
+PROVIDE SIGNATURE IDENTICAL TO THAT SHOWN ON THE BID FORM 
+ 
+BIDDER:  
+ 
+ 
+ 
+ 
+NEVADA CONTRACTOR'S LICENSE # 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SIGNATURE 
+DATE  
+ 
+
+
+===== PAGE 23 =====
+Nye County School District 
+Bid Documents 
+04 43 36C 
+Tonopah HS Field Replacement 
+ 
+Expanded Subcontractor Listing 
+ 
+April 20, 2026 
+Page 9 of 9 
+ 
+ 
+ 
+ 
+END OF DOCUMENT 
+
+
+===== PAGE 24 =====
+Nye County School District 
+Bid Documents 
+00 45 21 
+Tonopah HS Field Replacement 
+ 
+Project Workforce Checklist 
+ 
+April 20, 2026 
+Page 1 of 2 
+SECTION 00 4520 
+PROJECT WORKFORCE CHECKLIST 
+ 
+For Compliance with the Nevada Apprenticeship Utilization Act, 2019 
+ 
+Date: ________________________________ 
+ 
+Project Name: __________________________  
+ 
+Contract No: ______________________ 
+ 
+Contractor:______________________________ 
+ 
+Craft/Trade 
+More than 3 Employees 
+Anticipated? 
+Anticipate 
+Needing 
+Waiver? 
+Air Balance Technician 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Alarm Installer 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Asbestos 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Bricklayer, can also include tile setter, terrazzo workers and marble 
+masons. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Carpenter, can also include cement masons, floor coverer, millwright 
+and piledriver (non-equipment), plasterers and terrazzo workers. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Cement Mason, can also include plasterers. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Electrician, includes communication technician, line, neon sign and 
+wireman.  Can also include alarm installer. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Elevator Constructor 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Glazier (see also Painters and Allied Trades) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Fence Erector (see laborers) non-steel/iron.                                         
+(See Ironworkers) steel/iron 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Flag Person (See laborers) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Hod Carrier, includes brick-mason tender and plaster tender. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Iron Worker, can also include fence erectors (steel/iron) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Laborer, can also include cement mason and does include asbestos 
+abatement, hod carrier brick mason tender, hod carrier plaster tender, 
+fence erector (non-steel/iron), flag person, highway striper, 
+landscaper, and traffic barrier erector. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Lubrication and Service Engineer 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Mechanical Insulator 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Millwright 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Operating Engineer, can also include equipment greaser, piledriver, 
+soils and material tester, steel fabricator/erector (equipment) surveyor 
+(non-licensed) and well driller. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Painters and Allied Trades, can also include glaziers, floor coverers, 
+and tapers. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Pile Driver (non-equipment) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Plasterer 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+
+
+===== PAGE 25 =====
+Nye County School District 
+Bid Documents 
+00 45 21 
+Tonopah HS Field Replacement 
+ 
+Project Workforce Checklist 
+ 
+April 20, 2026 
+Page 2 of 2 
+Plumber/Pipefitter 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+ 
+ 
+ 
+Refrigeration 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Roofer (not sheet metal) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Sheet Metal Worker, can also include air balance technician. 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Soils and Materials Tester, includes certified soil tester 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Sprinkler Fitter 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Surveyor (non-licensed) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Taper 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Tile/Terrazzo Worker/Marble Mason 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Traffic Barrier Erector (See Laborers) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Truck Driver 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Well Driller (see also Operating Engineer) 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+Other: 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+ 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+ 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+ 
+Yes 
+   No 
+   N/A 
+ 
+Yes 
+   No 
+ 
+ 
+I affirm I am fully authorized to sign on behalf of the contractor/subcontractor listed above, and that the 
+information provided is true and correct to the best of my knowledge.  Additionally, I acknowledge any 
+changes to the anticipated workforce, which may have an impact on compliance with the Nevada 
+Apprenticeship Utilization Act, 2019, will require the submittal of a revised form within five (5) calendar days 
+of the change. 
+ 
+ 
+Signed:_________________________________________________________Date:_________________ 
+ 
+ 
+Name and Title: _______________________________________________________________ 
+ 
+ 
+END OF DOCUMENT 
+ 
+ 
+
+
+===== PAGE 26 =====
+Nye County School District 
+Bid Documents 
+00 45 22 
+Tonopah HS Field Replacement 
+ 
+Request for Waiver 
+ 
+April 20, 2026 
+Page 1 of 1 
+SECTION 00 4522  
+REQUEST FOR WAIVER 
+ 
+For Compliance with the Nevada Apprenticeship Utilization Act, 2019 
+ 
+ 
+Project Name ______________________Contractor/Subcontractor: ______________________________,  
+Contact:____________________________________________  License Number:___________________ 
+Phone:_______________  E-mail:________________________ 
+  
+ No waivers needed for this contractor/subcontractor in any crafts/trades. 
+ 
+ 
+ Waiver needed for the following craft(s)/trade(s)_________________________________________ 
+_______________________________________________________________________________ 
+as there are no apprentices available from an Apprenticeship Program registered by the Nevada State 
+Apprenticeship Council within the jurisdiction where the public work is to be completed.  Please 
+describe why an Apprentice is not available or cannot be provided: 
+_________________________________________________________________________________ 
+_________________________________________________________________________________ 
+ 
+ Waiver needed for the following craft(s)/trade(s) _____________________________________ 
+_________________________________________________________________________________ 
+as the contractor/subcontractor listed above requested Apprentices from a registered Apprenticeship 
+Program and the request has been denied or not approved within 5 business days.  Please describe 
+why an Apprentice is not available or cannot be provided: 
+_________________________________________________________________________________ 
+_________________________________________________________________________________ 
+  
+ Waiver needed for the following craft(s)/trade(s)  _______________________________________ 
+_________________________________________________________________________________  
+as the contractor/subcontractor is required to perform uniquely complex or hazardous tasks on the 
+project, as described below, that require the skill and expertise of a journeyman: 
+_________________________________________________________________________________ 
+_________________________________________________________________________________ 
+_________________________________________________________________________________ 
+_________________________________________________________________________________ 
+ 
+Please attach all additional documentation/evidence needed to support the request for waiver.  
+ 
+I affirm I am fully authorized to sign on behalf of the contractor/subcontractor listed above, and that the 
+information provided is true and correct to the best of my knowledge. 
+ 
+Signed:_________________________________________________________  Date:_______________ 
+ 
+Name and Title:________________________________________________________________ 
+ 
+ 
+END OF DOCUMENT 
+
+
+===== PAGE 27 =====
+Nye County School District 
+Bid Documents 
+00 61 13 
+Tonopah HS Field Replacement 
+ 
+Sample Payment and Perf Bonds 
+ 
+April 20, 2026 
+Page 1 of 3 
+ 
+ 
+BOND NUMBER _________ 
+NYE COUNTY SCHOOL DISTRICT 
+                                                             SECTION 00 61 13  
+ 
+                                                PERFORMANCE AND PAYMENT BOND 
+IMPORTANT: 
+SURETY COMPANIES EXECUTING BONDS MUST BE LICENSED TO ISSUE SURETY BY THE 
+STATE OF NEVADA INSURANCE DIVISION PURSUANT TO NEVADA REVISED STATUTE 
+683A. INDIVIDUAL SURETY BONDS ARE NOT ACCEPTABLE. 
+ 
+KNOW ALL MEN BY THESE PRESENTS, 
+That 
+_______________________________________, 
+as 
+Principal 
+Contractor, 
+and 
+____________________, as Surety, are held And firmly bound unto the NYE COUNTY SCHOOL 
+DISTRICT, hereinafter called OWNER, in the sum of _______________dollars, for the payment of which 
+sum well and truly to be made, we bind ourselves, our heirs, executors, administrators, successors, and 
+assigns, jointly and severally, firmly by these presents. 
+ 
+WHEREAS, said Contractor has been recommended for award and shall enter into CONTRACT with said 
+OWNER to perform all work required under: 
+Description:    Tonopah HS Sports Field Replacement, Nye County School District, PWP #NY-2022-200 
+Date of Contract: 
+Contract Amount: 
+ 
+NOW THEREFORE, if said contractor, or subcontractors, fails to pay for any materials, equipment, or 
+other supplies, or for rental of same, used in connection with performance of work contracted to be done, or 
+for amounts due under applicable State law for any work or labor thereon, said Surety will pay for the same 
+in an amount not exceeding the sum specified above and, in the event suit is brought upon this bond, a 
+reasonable attorney’s fee to be fixed by the court.  This bond shall insure to the benefit of any persons, 
+companies or corporations entitled to file claims under applicable State law. 
+ 
+PROVIDED, that any change order(s), alterations in the work to be done or the materials to be furnished, 
+which may be made pursuant to the terms of said Contract, shall not in any way release either said 
+Contractor or said Surety thereunder, nor shall any extensions of time granted under the provisions of said 
+Contract release either said Contractor or said Surety, and notice of such change order(s), alterations or 
+extensions of the Contract is hereby waived by said Surety. 
+ 
+SIGNED this ________day of ______________________, year ______.  (SEAL AND NOTARIAL 
+ACKNOWLEDGEMENT OF 
+SURETY) 
+ 
+__________________________________                  
+(Principal Contractor) 
+ 
+__________________________________        
+(Authorized Representative and Title) 
+ 
+
+
+===== PAGE 28 =====
+Nye County School District 
+Bid Documents 
+00 61 13 
+Tonopah HS Field Replacement 
+ 
+Sample Payment and Perf Bonds 
+ 
+April 20, 2026 
+Page 2 of 3 
+By:  
+__________________________________                           
+---------              (Signature) 
+ 
+ 
+                                                                                           
+Surety: 
+                                                                                                        __________________________________ 
+ 
+ 
+ 
+ 
+ISSUING COMPANY MUST HOLD CERTIFICATES OF AUTHORITY AS ACCEPTABLE SURETY ON 
+FEDERAL BONDS AND AS ACCEPTABLE REINSURING COMPANY WITH LISTING IN THE 
+DEPARTMENT OF TREASURY, FISCAL SERVICE, (DEPT. OF CIRCULAR “570”, CURRENT REVISIONS) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________ 
+Appointed Agent Name 
+_________________________________________ 
+State of Nevada License Number 
+ 
+By:____________________________________ 
+         (Signature) 
+ 
+_________________________________________ 
+(Appointed Agents Name) 
+ 
+_______________________________________ 
+License Number and Issuing State 
+ 
+ 
+By:______________________________________ 
+ 
+Address_________________________________ 
+ 
+Address__________________________________ 
+ 
+ 
+ 
+Telephone: ______________________________ 
+ 
+Telephone: _______________________________ 
+
+
+===== PAGE 29 =====
+Nye County School District 
+Bid Documents 
+00 61 13 
+Tonopah HS Field Replacement 
+ 
+Sample Payment and Perf Bonds 
+ 
+April 20, 2026 
+Page 3 of 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BOND NUMBER _____________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NYE COUNTY SCHOOL DISTRICT 
+ 
+PERFORMANCE BOND 
+IMPORTANT: 
+SURETY COMPANIES EXECUTING BONDS MUST BE LICENSED TO ISSUE SURETY BY THE 
+STATE OF NEVADA INSURANCE DIVISION PURSUANT TO NEVADA REVISED STATUTE 
+683A.  INDIVIDUAL SURETY BONDS ARE NOT ACCEPTABLE. 
+ 
+KNOW ALL MEN BY THESE PRESENTS, 
+That 
+_______________________________________, 
+as 
+Principal 
+Contractor, 
+and 
+____________________, as Surety, are held and firmly bound unto the NYE COUNTY SCHOOL 
+DISTRICT, hereinafter called OWNER, in the sum of _______________dollars, for the payment of which 
+sum well and truly to be made, we bind ourselves, our heirs, executors, administrators, successors, and 
+assigns, jointly and severally, firmly by these presents. 
+ 
+WHEREAS, said Contractor has been recommended for award and shall enter into CONTRACT with said 
+OWNER to perform all work required under: 
+ 
+ISSUING COMPANY MUST HOLD CERTIFICATES OF AUTHORITY AS ACCEPTABLE SURETY ON 
+FEDERAL BONDS AND AS ACCEPTABLE REINSURING COMPANY WITH LISTING IN THE 
+DEPARTMENT OF TREASURY, FISCAL SERVICE, (DEPT. OF CIRCULAR “570”, CURRENT REVISIONS) 
+ 
+END OF DOCUMENT 
+_________________________________________ 
+Appointed Agent Name 
+___________________________________________ 
+State of Nevada License Number 
+ 
+By:______________________________________ 
+         (Signature) 
+ 
+__________________________________________ 
+(Appointed Agents Name) 
+ 
+_________________________________________ 
+License Number and Issuing State 
+ 
+ 
+By:______________________________________ 
+ 
+Address__________________________________ 
+ 
+Address____________________________________ 
+ 
+ 
+ 
+Telephone: _______________________________ 
+ 
+Telephone: _________________________________ 

@@ -1,0 +1,656 @@
+{
+  "_generated": "2026-07-11",
+  "_source_note": "Sheet numbers/titles pulled directly from each PDF's own bookmark outline -- authoritative, not OCR/vision-derived.",
+  "sheets": [
+    {
+      "sheet_number": "G0-00",
+      "sheet_title": "COVER SHEET",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 0,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "G0-11",
+      "sheet_title": "TYPICAL SIGNAGE & ACCESSBILITY REQUIREMENTS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 1,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "LS1-10",
+      "sheet_title": "CODE AND EXITING PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 2,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "LS1-11",
+      "sheet_title": "ENVELOPE COMPLIANCE",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 3,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "C1",
+      "sheet_title": "COVER",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 4,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "C2",
+      "sheet_title": "GENERAL NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 5,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "C3",
+      "sheet_title": "GENERAL NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 6,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "MG",
+      "sheet_title": "MASTER GRADING",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 7,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "G1",
+      "sheet_title": "GRADING PLAN 1",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 8,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "G2",
+      "sheet_title": "GRADING PLAN 2",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 9,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "GD",
+      "sheet_title": "GRADING DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 10,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "UT1",
+      "sheet_title": "UTILITY PLAN 1",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 11,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "UT2",
+      "sheet_title": "UTILITY PLAN 2",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 12,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L0.00",
+      "sheet_title": "LANDSCAPE DEMOLITION LEGEND AND NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 13,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L0.01",
+      "sheet_title": "LANDSCAPE DEMOLITION PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 14,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L0.02",
+      "sheet_title": "LANDSCAPE DEMOLITION PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 15,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.00",
+      "sheet_title": "LANDSCAPE CONSTRUCTION LEGEND AND NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 16,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.01",
+      "sheet_title": "LANDSCAPE CONSTRUCTION PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 17,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.02",
+      "sheet_title": "LANDSCAPE CONSTRUCTION PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 18,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.03",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 19,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.04",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 20,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.05",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 21,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.06",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 22,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L1.07",
+      "sheet_title": "LANDSCAPE CONSTRUCTION DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 23,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L2.01",
+      "sheet_title": "IRRIGATION PLAN, LEGEND AND NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 24,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L2.02",
+      "sheet_title": "IRRIGATION PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 25,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "L2.03",
+      "sheet_title": "IRRIGATION DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 26,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "AD1-10",
+      "sheet_title": "SITE DEMO PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 27,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A1-10",
+      "sheet_title": "SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 28,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A1-12",
+      "sheet_title": "ENLARGED SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 29,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A1-13",
+      "sheet_title": "ENLARGED SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 30,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A1-20",
+      "sheet_title": "SITE DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 31,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A1-40",
+      "sheet_title": "BLEACHERS AND PRESS BOX",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 32,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A2-10",
+      "sheet_title": "FLOOR PLAN AND RCP",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 33,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A2-40",
+      "sheet_title": "PARTITION SCHEDULE",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 34,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A4-10",
+      "sheet_title": "ROOF PLAN AND BUILDING SECTIONS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 35,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A4-20",
+      "sheet_title": "ROOF DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 36,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A5-10",
+      "sheet_title": "EXTERIOR ELEVATIONS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 37,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A7-10",
+      "sheet_title": "WALL SECTIONS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 38,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A9-10",
+      "sheet_title": "ENLARGED PLANS - RESTROOMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 39,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A9-11",
+      "sheet_title": "ENLARGED PLANS - RESTROOMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 40,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A9-20",
+      "sheet_title": "ENLARGED PLANS - CONCESSIONS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 41,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A10-10",
+      "sheet_title": "ROOM FINISH SCHEDULE AND FINISH PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 42,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A10-30",
+      "sheet_title": "INTERIOR ELEVATIONS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 43,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "A11-10",
+      "sheet_title": "DOOR AND FRAME ABBREVIATIONS AND DOOR SCHEDULE",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "page_0idx": 44,
+      "file_tag": "vol1-field"
+    },
+    {
+      "sheet_number": "S0-00",
+      "sheet_title": "GENERAL NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 0,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S0-01",
+      "sheet_title": "GENERAL NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 1,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S1-30",
+      "sheet_title": "FOUNDATION PLAN -SCOREBOARD",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 2,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S1-40",
+      "sheet_title": "FOUNDATION PLAN -HOME GRAND STANDS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 3,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S2-10",
+      "sheet_title": "FOUNDATION AND ROOF FRAMING PLAN -CONCESSIONS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 4,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S3-00",
+      "sheet_title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 5,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S3-01",
+      "sheet_title": "TYPICAL FOUNDATION SECTIONS AND SCHEDULES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 6,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S4-00",
+      "sheet_title": "TYPICAL MASONRY SECTIONS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 7,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "S4-01",
+      "sheet_title": "FRAMING DETAILS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 8,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "M0-00",
+      "sheet_title": "MECHANICAL COVER SHEET",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 9,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "M0-05",
+      "sheet_title": "MECHANICAL SCHEDULES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 10,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "M0-10",
+      "sheet_title": "MECHANICAL DIAGRAMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 11,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "M0-15",
+      "sheet_title": "MECHANICAL ENERGY CODE COMPLIANCE",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 12,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "M2-10",
+      "sheet_title": "MECHANICAL PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 13,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "M4-10",
+      "sheet_title": "MECHANICAL ROOF PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 14,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "P0-00",
+      "sheet_title": "PLUMBING COVER SHEET",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 15,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "P0-05",
+      "sheet_title": "PLUMBING SCHEDULES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 16,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "P0-10",
+      "sheet_title": "PLUMBING DIAGRAMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 17,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "P0-15",
+      "sheet_title": "PLUMBING ENERGY CODE COMPLIANCE",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 18,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "P1-10",
+      "sheet_title": "PLUMBING SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 19,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "P2-10",
+      "sheet_title": "PLUMBING PLANS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 20,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "P4-10",
+      "sheet_title": "PLUMBING ROOF PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 21,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-00",
+      "sheet_title": "ELECTRICAL COVER SHEET",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 22,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-01",
+      "sheet_title": "ELECTRICAL GENERAL NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 23,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-02",
+      "sheet_title": "LIGHTING FIXTURE SCHEDULE & IECC COMPLIANCE",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 24,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-03",
+      "sheet_title": "SINGLE LINE DIAGRAM, PANEL SCHEDULE, AND LIGHTING FIXTURE SCHEDULE",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 25,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-04",
+      "sheet_title": "FIELD LIGHTING DIAGRAMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 26,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-05",
+      "sheet_title": "FIELD LIGHTING DIAGRAMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 27,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-10",
+      "sheet_title": "TECHNOLOGY GENERAL NOTES",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 28,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-11",
+      "sheet_title": "TECHNOLOGY DIAGRAMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 29,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-12",
+      "sheet_title": "TECHNOLOGY DIAGRAMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 30,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E0-13",
+      "sheet_title": "GROUNDING AND BONDING INSTALLATION DIAGRAMS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 31,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "ED1-10",
+      "sheet_title": "DEMOLITION ELECTRICAL SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 32,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "ED3-10",
+      "sheet_title": "DEMOLITION TECHNOLOGY AND AUDIO VISUAL SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 33,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E1-10",
+      "sheet_title": "ELECTRICAL SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 34,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E2-10",
+      "sheet_title": "ELECTRICAL AND LIGHTING PLANS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 35,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E3-00",
+      "sheet_title": "OVERALL TECHNOLOGY SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 36,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E3-10",
+      "sheet_title": "TECHNOLOGY SITE PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 37,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E3-20",
+      "sheet_title": "TECHNOLOGY PLANS",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 38,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "E4-10",
+      "sheet_title": "ELECTRICAL ROOF PLAN",
+      "source_file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "page_0idx": 39,
+      "file_tag": "vol2-field"
+    },
+    {
+      "sheet_number": "AD1.11",
+      "sheet_title": "DEMOLITION PLAN - ES",
+      "source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page_0idx": 0,
+      "file_tag": "es-demo"
+    },
+    {
+      "sheet_number": "AD1.12",
+      "sheet_title": "POST-DEMOLITION PLAN - ES",
+      "source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page_0idx": 1,
+      "file_tag": "es-demo"
+    },
+    {
+      "sheet_number": "AD1.13",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 4",
+      "source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page_0idx": 2,
+      "file_tag": "es-demo"
+    },
+    {
+      "sheet_number": "AD1.14",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 5&6",
+      "source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page_0idx": 3,
+      "file_tag": "es-demo"
+    },
+    {
+      "sheet_number": "AD1.15",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 3 & 7",
+      "source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page_0idx": 4,
+      "file_tag": "es-demo"
+    },
+    {
+      "sheet_number": "AD1.16",
+      "sheet_title": "ENLARGED DEMO PLAN BLDG 4 - ALTERNATE",
+      "source_file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "page_0idx": 5,
+      "file_tag": "es-demo"
+    }
+  ],
+  "_corrections": [
+    {
+      "date": "2026-07-31",
+      "note": "Normalized 5 sheet_number values that the PDF bookmark outline emitted twice (e.g. 'L1.03 L1.03' -> 'L1.03'). package-index.json already used the clean form, so no citations were affected, but joins on the catalog's sheet_number silently missed these 5 sheets.",
+      "sheets": [
+        "L1.03 L1.03",
+        "L1.04 L1.04",
+        "L1.05 L1.05",
+        "L1.06 L1.06",
+        "L1.07 L1.07"
+      ]
+    }
+  ]
+}

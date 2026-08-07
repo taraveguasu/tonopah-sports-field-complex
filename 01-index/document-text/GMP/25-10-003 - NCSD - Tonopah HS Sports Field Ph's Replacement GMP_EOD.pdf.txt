@@ -1,0 +1,1396 @@
+
+===== PAGE 1 =====
+ATTACHMENT C
+ENUMERATION OF DOCUMENTS
+GMP
+Project Name: NCSD - Tonopah HS Sports 
+Field Ph's Replacement
+CORE Project No: 25-10-003
+Specification/ 
+Drawing 
+Description
+Spec Date
+Stamp Date
+CORE Received Date
+Revision
+Division 00
+Procurement and Contracting Requirements 
+Cover Sheet Tonopah HS Sports Field Replacement 
+20-Apr-26
+None
+21-Apr-26
+None
+00 01 01 Project Title Page
+20-Apr-26
+None
+21-Apr-26
+None
+00 01 10 Table of Contents 
+6-May-26
+None
+21-Apr-26
+ADD 1
+00 20 08 Form of Non-Collusive Affidavit
+20-Apr-26
+None
+21-Apr-26
+None
+00 31 00 Available Project Information
+20-Apr-26
+None
+21-Apr-26
+None
+00 43 36A Subcontractors Exceeding 1% Listing 
+20-Apr-26
+None
+21-Apr-26
+None
+00 43 36B Subcontractors Exceeding 5% Listing 
+20-Apr-26
+None
+21-Apr-26
+None
+00 43 36C Expanded Subcontractors Listing
+20-Apr-26
+None
+21-Apr-26
+None
+00 45 21 Project Workforce Checklist
+20-Apr-26
+None
+21-Apr-26
+None
+00 45 22 Request for Waiver 
+20-Apr-26
+None
+21-Apr-26
+None
+00 61 13 Performance and Payment Bond
+20-Apr-26
+None
+21-Apr-26
+None
+00 72 00 General Conditions 
+20-Apr-26
+None
+21-Apr-26
+None
+00 73 00 Supplementary Conditions
+20-Apr-26
+None
+21-Apr-26
+None
+00 73 43 Prevailing Wage Rates
+20-Apr-26
+None
+21-Apr-26
+None
+Division 01
+General Requirements
+01 10 00 Summary 
+20-Apr-26
+None
+21-Apr-26
+None
+01 25 00 Substitution Procedures
+20-Apr-26
+None
+21-Apr-26
+None
+01 30 00 Administrative Requirements 
+20-Apr-26
+None
+21-Apr-26
+None
+01 31 17 Contractor Request for Interpretation Procedures 
+20-Apr-26
+None
+21-Apr-26
+None
+01 32 16 Construction Progress Schedule 
+20-Apr-26
+None
+21-Apr-26
+None
+01 40 00 Quality Requirements 
+20-Apr-26
+None
+21-Apr-26
+None
+01 50 00 Temporary Facilities and Controls 
+20-Apr-26
+None
+21-Apr-26
+None
+01 60 00 Product Requirements 
+20-Apr-26
+None
+21-Apr-26
+None
+01 61 16 Volatile Organic Compound (VOC) Content Restrictions
+20-Apr-26
+None
+21-Apr-26
+None
+01 61 16.01 Accessory Material VOC Content Certification Form
+20-Apr-26
+None
+21-Apr-26
+None
+01 70 00 Execution and Closeout Requirements 
+20-Apr-26
+None
+21-Apr-26
+None
+01 78 00 Closeout Submittals 
+20-Apr-26
+None
+21-Apr-26
+None
+Division 02
+Existing Conditions/Site
+02 41 00 Demolition
+20-Apr-26
+None
+21-Apr-26
+None
+Division 03
+Concrete
+03 10 00 Concrete Formwork
+20-Apr-26
+None
+21-Apr-26
+None
+03 20 00 Concrete Reinforcement 
+20-Apr-26
+None
+21-Apr-26
+None
+03 30 00 Cast-in-Place Concrete 
+Division 04
+Masonry
+04 05 03 Masonry Mortaring and Grouting 
+20-Apr-26
+None
+21-Apr-26
+None
+04 20 16 Reinforced Unit Masonry
+20-Apr-26
+None
+21-Apr-26
+None
+Division 05
+Metals
+05 12 23 Structural Steel
+20-Apr-26
+None
+21-Apr-26
+None
+05 21 00 Steel Joists 
+20-Apr-26
+None
+21-Apr-26
+None
+05 31 00 Steel Deck
+20-Apr-26
+None
+21-Apr-26
+None
+05 40 00 Cold-Formed Steel Framing 
+20-Apr-26
+None
+21-Apr-26
+None
+05 50 00 Metal Fabrications
+20-Apr-26
+None
+21-Apr-26
+None
+Division 06
+Wood, Plastics, and Composites
+06 83 16 Fiberglass Reinforced Paneling
+20-Apr-26
+None
+21-Apr-26
+None
+Division 07
+Thermal and Moisture Protection
+07 21 00 Thermal Insulation
+20-Apr-26
+None
+21-Apr-26
+None
+07 25 00 Weather Barriers 
+20-Apr-26
+None
+21-Apr-26
+None
+07 26 00 Vapor Retarders
+20-Apr-26
+None
+21-Apr-26
+None
+07 61 00 Sheet Metal Roofing
+20-Apr-26
+None
+21-Apr-26
+None
+07 62 00 Sheet Metal Flashing and Trim
+20-Apr-26
+None
+21-Apr-26
+None
+07 92 00 Joint Sealants 
+20-Apr-26
+None
+21-Apr-26
+None
+Division 08
+Openings
+08 11 13 Hollow Metal Doors and Frames
+20-Apr-26
+None
+21-Apr-26
+None
+08 31 00 Access Doors and Panels
+20-Apr-26
+None
+21-Apr-26
+None
+PROJECT MANUAL
+Page 1 of 5
+
+
+===== PAGE 2 =====
+ATTACHMENT C
+ENUMERATION OF DOCUMENTS
+GMP
+Project Name: NCSD - Tonopah HS Sports 
+Field Ph's Replacement
+CORE Project No: 25-10-003
+Specification/ 
+Drawing 
+Description
+Spec Date
+Stamp Date
+CORE Received Date
+Revision
+08 33 13 Coiling Counter Doors
+20-Apr-26
+None
+21-Apr-26
+None
+08 33 23 Overhead Coiling Doors 
+20-Apr-26
+None
+21-Apr-26
+None
+08 71 00 Door Hardware
+6-May-26
+None
+6-May-26
+ADD 1
+Division 09
+Finishes
+09 21 16 Gypsum Board Assemblies 
+20-Apr-26
+None
+21-Apr-26
+None
+09 51 00 Acoustical Ceilings 
+20-Apr-26
+None
+21-Apr-26
+None
+09 65 13 Resilient Base and Accessories
+20-Apr-26
+None
+21-Apr-26
+None
+09 91 11 Addendum #1
+6-May-26
+None
+6-May-26
+ADD 1
+09 91 13 Exterior Painting 
+20-Apr-26
+None
+21-Apr-26
+None
+09 91 23 Interior Painting 
+20-Apr-26
+None
+21-Apr-26
+None
+09 96 50 Anti-Graffiti Coatings
+20-Apr-26
+None
+21-Apr-26
+None
+09 97 23 Concrete and Masonry Coatings 
+20-Apr-26
+None
+21-Apr-26
+None
+Division 10
+Specialties
+10 11 00 Visual Display Units 
+20-Apr-26
+None
+21-Apr-26
+None
+10 14 23 Panel Signage
+20-Apr-26
+None
+21-Apr-26
+None
+10 21 13.13 Metal Toilet Compartments 
+20-Apr-26
+None
+21-Apr-26
+None
+10 26 00 Wall and Door Protection 
+20-Apr-26
+None
+21-Apr-26
+None
+10 28 00 Toilet, Bath, and Laundry Accessories 
+20-Apr-26
+None
+21-Apr-26
+None
+10 75 00 Flagpoles
+20-Apr-26
+None
+21-Apr-26
+None
+Division 11
+Equipment
+11 30 13 Residential Appliances
+20-Apr-26
+None
+21-Apr-26
+None
+11 40 00 Foodservice Equipment 
+20-Apr-26
+None
+21-Apr-26
+None
+11 68 43 Football/Track Scoreboard
+20-Apr-26
+None
+21-Apr-26
+None
+Division 12
+Furnishings
+12 93 00 Site Furnishings 
+20-Apr-26
+None
+21-Apr-26
+None
+Division 13
+Special Construction
+13 34 23 Fabricated Structures
+20-Apr-26
+None
+21-Apr-26
+None
+Division 22
+Plumbing
+22 01 00 Basic Plumbing Requirements 
+20-Apr-26
+None
+21-Apr-26
+None
+22 05 00 Common Work Results for Plumbing 
+20-Apr-26
+None
+21-Apr-26
+None
+22 05 19 Meters and Gauges for Plumbing Piping 
+20-Apr-26
+None
+21-Apr-26
+None
+22 05 23 General -Duty Valves for Plumbing Piping 
+20-Apr-26
+None
+21-Apr-26
+None
+22 05 29
+Hangers and Supports for Plumbing Piping and 
+Equipment
+20-Apr-26
+None
+21-Apr-26
+None
+22 05 53 Identification for Plumbing Piping and Equipment 
+20-Apr-26
+None
+21-Apr-26
+None
+22 07 19 Plumbing Piping Insulation
+20-Apr-26
+None
+21-Apr-26
+None
+22 10 05 Plumbing Piping
+20-Apr-26
+None
+21-Apr-26
+None
+22 10 06 Plumbing Piping Specialties
+20-Apr-26
+None
+21-Apr-26
+None
+22 30 00 Plumbing Equipment
+20-Apr-26
+None
+21-Apr-26
+None
+22 40 00 Plumbing Fixtures
+20-Apr-26
+None
+21-Apr-26
+None
+Division 23
+Heating, Ventilating, and Air Conditioning
+23 01 00 Basic HVAC Requirements 
+20-Apr-26
+None
+21-Apr-26
+None
+23 05 00 Common Work Results for HVAC
+20-Apr-26
+None
+21-Apr-26
+None
+23 05 13 Common Motor Requirements for HVAC
+20-Apr-26
+None
+21-Apr-26
+None
+23 05 29 Hangers and Supports for HVAC Piping and Equipment
+20-Apr-26
+None
+21-Apr-26
+None
+23 05 53 Identification for HVAC Piping and Equipment 
+20-Apr-26
+None
+21-Apr-26
+None
+23 05 93 Testing, Adjusting, and Balancing for HVAC
+20-Apr-26
+None
+21-Apr-26
+None
+23 07 13 Duct Insulation
+20-Apr-26
+None
+21-Apr-26
+None
+23 07 19 HVAC Piping Insulation
+20-Apr-26
+None
+21-Apr-26
+None
+23 23 00 Refrigerant Piping
+20-Apr-26
+None
+21-Apr-26
+None
+23 31 00 HVAC Ducts and Casings 
+20-Apr-26
+None
+21-Apr-26
+None
+23 33 00 Air Duct Accessories 
+20-Apr-26
+None
+21-Apr-26
+None
+23 34 16 Centrifugal HVAC Fans 
+20-Apr-26
+None
+21-Apr-26
+None
+23 36 00 Air Terminal Units 
+20-Apr-26
+None
+21-Apr-26
+None
+23 40 00 HVAC Air Cleaning Devices 
+20-Apr-26
+None
+21-Apr-26
+None
+23 81 26.13 Small-Captivity Split-System Air Conditioners 
+20-Apr-26
+None
+21-Apr-26
+None
+23 81 29 Variable Refrigerant Flow HVAC Systems
+20-Apr-26
+None
+21-Apr-26
+None
+Division 26
+Electrical
+26 00 10 General Electrical Requirements 
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 00 Common Work Results for Electrical
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 05 Selective Demolition for Electrical
+20-Apr-26
+None
+21-Apr-26
+None
+Page 2 of 5
+
+
+===== PAGE 3 =====
+ATTACHMENT C
+ENUMERATION OF DOCUMENTS
+GMP
+Project Name: NCSD - Tonopah HS Sports 
+Field Ph's Replacement
+CORE Project No: 25-10-003
+Specification/ 
+Drawing 
+Description
+Spec Date
+Stamp Date
+CORE Received Date
+Revision
+26 05 19 Low-Voltage Electrical Power Conductors and Cables 
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 26 Grounding and Bonding for Electrical Systems 
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 29 Hangers and Supports for Electrical Systems 
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 33.13 Conduit for Electrical Systems 
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 33.16 Boxes for Electrical Systems 
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 53 Identification for Electrical Systems 
+20-Apr-26
+None
+21-Apr-26
+None
+26 05 83 Wiring Connections 
+20-Apr-26
+None
+21-Apr-26
+None
+26 08 00 Electrical Testing and Commisioning Requirements
+20-Apr-26
+None
+21-Apr-26
+None
+26 09 23 Lighting Control Devices 
+20-Apr-26
+None
+21-Apr-26
+None
+26 22 00 Low-Voltage Transformers 
+20-Apr-26
+None
+21-Apr-26
+None
+26 24 16 Panelboards
+20-Apr-26
+None
+21-Apr-26
+None
+26 27 26 Wiring Devices
+20-Apr-26
+None
+21-Apr-26
+None
+26 28 13 Fuses
+20-Apr-26
+None
+21-Apr-26
+None
+26 28 16.16 Enclosed Switches
+20-Apr-26
+None
+21-Apr-26
+None
+26 29 13 Enclosed Controllers
+20-Apr-26
+None
+21-Apr-26
+None
+26 43 00 Surge Protective Devices
+20-Apr-26
+None
+21-Apr-26
+None
+26 51 00 Interior Lighting 
+20-Apr-26
+None
+21-Apr-26
+None
+26 56 00 Exterior Lighting 
+20-Apr-26
+None
+21-Apr-26
+None
+Division 27
+Communications
+27 00 00 Communications-General
+20-Apr-26
+None
+21-Apr-26
+None
+Division 31
+Earthwork
+31 10 00 Site Clearing 
+31-Mar-26
+None
+21-Apr-26
+None
+31 20 00 Earth Moving
+31-Mar-26
+None
+21-Apr-26
+None
+31 50 00 Excavation Support and Protection
+31-Mar-26
+None
+21-Apr-26
+None
+Division 32
+Exterior Improvements
+32 12 16 Asphalt Paving
+31-Mar-26
+None
+21-Apr-26
+None
+32 13 13 Concrete Paving 
+31-Mar-26
+None
+21-Apr-26
+None
+32 13 73 Concrete Paving Joint Sealants
+31-Mar-26
+None
+21-Apr-26
+None
+32 16 23 Sidewalks
+20-Apr-26
+None
+21-Apr-26
+None
+32 18 13 Synthetic Turf
+20-Apr-26
+None
+21-Apr-26
+None
+32 18 23.33 Running Track Surfacing
+20-Apr-26
+None
+21-Apr-26
+None
+32 31 13 Chain Link Fences and Gates
+20-Apr-26
+None
+21-Apr-26
+None
+32 84 00 Landscape Irrigation
+20-Apr-26
+None
+21-Apr-26
+None
+32 91 13 Track & Field Event Inorganic Material Mix
+20-Apr-26
+None
+21-Apr-26
+None
+32 96 50 Invasive Plant Removal
+20-Apr-26
+None
+21-Apr-26
+None
+Division 33
+Utilities
+33 05 00 Common Work Results for Utilities 
+31-Mar-26
+None
+21-Apr-26
+None
+33 10 00 Water Distribution System
+31-Mar-26
+None
+21-Apr-26
+None
+33 12 00 Water Service Connections 
+31-Mar-26
+None
+21-Apr-26
+None
+33 30 00 Sanitary Sewer System
+31-Mar-26
+None
+21-Apr-26
+None
+Specification/ 
+Drawing 
+Description
+Drawing Date
+Stamp Date
+CORE Received Date
+Revision
+G0.00
+Cover Sheet
+6-May-26
+6-May-26
+6-May-26
+ADD 1
+G0.11
+Typical Signage & Accessbility Requirements
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+LS1.10
+Code and Exiting Plan
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+LS1.11
+Envelope Compliance 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+C1
+Cover 
+6-May-26
+6-May-26
+6-May-26
+ADD 1
+C2
+General Notes
+27-Mar-26
+14-Apr-26
+21-Apr-26
+None
+C3
+General Notes
+27-Mar-26
+14-Apr-26
+21-Apr-26
+None
+MG
+Master Grading
+14-Apr-26
+14-Apr-26
+21-Apr-26
+None
+G1
+Grading Plan 1
+14-Apr-26
+14-Apr-26
+21-Apr-26
+None
+G2
+Grading Plan 2
+14-Apr-26
+14-Apr-26
+21-Apr-26
+None
+GD
+Grading Details 
+6-May-26
+6-May-26
+6-May-26
+ADD 1
+UT1
+Utility Plan 1
+14-Apr-26
+14-Apr-26
+21-Apr-26
+None
+UT2
+Utility Plan 2
+14-Apr-26
+14-Apr-26
+21-Apr-26
+None
+L0.00
+Landscape Demolition Legend and Notes
+20-Apr-26
+None
+21-Apr-26
+None
+L0.01
+Landscape Demolition Plan
+20-Apr-26
+None
+21-Apr-26
+None
+L0.02
+Landscape Demolition Plan 
+20-Apr-26
+None
+21-Apr-26
+None
+DRAWINGS
+Page 3 of 5
+
+
+===== PAGE 4 =====
+ATTACHMENT C
+ENUMERATION OF DOCUMENTS
+GMP
+Project Name: NCSD - Tonopah HS Sports 
+Field Ph's Replacement
+CORE Project No: 25-10-003
+Specification/ 
+Drawing 
+Description
+Spec Date
+Stamp Date
+CORE Received Date
+Revision
+L1.00
+Landscape Construction Legend and Notes 
+20-Apr-26
+None
+21-Apr-26
+None
+L1.01
+Landscape Construction Plan
+20-Apr-26
+None
+21-Apr-26
+None
+L1.02
+Landscape Construction Plan
+20-Apr-26
+None
+21-Apr-26
+None
+L1.03
+Landscape Construction Details 
+20-Apr-26
+None
+21-Apr-26
+None
+L1.04
+Landscape Construction Details 
+20-Apr-26
+None
+21-Apr-26
+None
+L1.05
+Landscape Construction Details 
+20-Apr-26
+None
+21-Apr-26
+None
+L1.06
+Landscape Construction Details 
+20-Apr-26
+None
+21-Apr-26
+None
+L1.07
+Landscape Construction Details 
+20-Apr-26
+None
+21-Apr-26
+None
+L2.01
+Irrigation Plan, Legend and Notes
+20-Apr-26
+None
+21-Apr-26
+None
+L2.02
+Irrigation Plan
+20-Apr-26
+None
+21-Apr-26
+None
+L2.03
+Irrigation Details 
+20-Apr-26
+None
+21-Apr-26
+None
+LS1.10
+Code and Exiting Plan
+6-May-26
+6-May-26
+6-May-26
+ADD 1
+AD1.10
+Site Demo Plan
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A1.10
+Site Plan
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A1.12
+Enlarged Site Plan
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A1.13
+Enlarged Site Plan
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A1.20
+Site Details
+6-May-26
+6-May-26
+6-May-26
+ADD 1
+A1.40
+Bleachers and Press Box
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A2.10
+Floor Plan and RCP
+6-May-26
+6-May-26
+6-May-26
+ADD 1
+A2.40
+Partition Schedule 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A4.10
+Roof Plan and Buildings Sections 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A4.20
+Roof Details 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A5.10
+Exterior Elevations 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A7.10
+Wall Sections 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A9.10
+Enlarged Plans - Restrooms 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A9.11
+Enlarged Plans - Restrooms 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A9.20
+Enlarged Plans - Concessions
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A10.10
+Room Finish Schedule and Finish Plan
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+A10.30
+Interior Elevations 
+6-May-26
+6-May-26
+6-May-26
+ADD 1
+A11.10
+Door and Frame Abbreviations and Door Schedule 
+20-Apr-26
+20-Apr-26
+21-Apr-26
+None
+S0.00
+General Notes
+20-Apr-26
+None
+21-Apr-26
+None
+S0.01
+General Notes
+20-Apr-26
+None
+21-Apr-26
+None
+S1.30
+Foundation Plan - Scoreboard
+20-Apr-26
+None
+21-Apr-26
+None
+S1.40
+Foundation Plan - Home Grand Stands
+20-Apr-26
+None
+21-Apr-26
+None
+S2.10
+Foundations and Roof Framing Plan - Concessions 
+20-Apr-26
+None
+21-Apr-26
+None
+S3.00
+Typical Foundation Sections and Schedules
+20-Apr-26
+None
+21-Apr-26
+None
+S3.01
+Typical Foundation Sections and Schedules
+20-Apr-26
+None
+21-Apr-26
+None
+S4.00
+Typical Masonry Sections 
+20-Apr-26
+None
+21-Apr-26
+None
+S4.01
+Typical Masonry Sections 
+20-Apr-26
+None
+21-Apr-26
+None
+M0.00
+Mechanical Cover Sheet 
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+M0.05
+Mechanical Schedules 
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+M0.10
+Mechanical Diagrams 
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+M0.15
+Mechanical Energy Code Compliance 
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+M2.10
+Mechanical Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+M4.10
+Mechanical Roof Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+P0.00
+Plumbing Cover Sheet
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+P0.05
+Plumbing Schedules 
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+P0.10
+Plumbing Diagram
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+P0.15
+Plumbing Energy Code Compliance
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+P1.10
+Plumbing Site Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+P2.10
+Plumbing Plans
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+P4.10
+Plumbing Roof Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.00
+Electrical Cover Sheet
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.01
+Electrical General Notes
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.02
+Lighting Fixture Schedule & IECC Compliance
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.03
+Single Line Diagram, Panel Schedule, and Lighting Fixture 
+Schedule
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+Page 4 of 5
+
+
+===== PAGE 5 =====
+ATTACHMENT C
+ENUMERATION OF DOCUMENTS
+GMP
+Project Name: NCSD - Tonopah HS Sports 
+Field Ph's Replacement
+CORE Project No: 25-10-003
+Specification/ 
+Drawing 
+Description
+Spec Date
+Stamp Date
+CORE Received Date
+Revision
+E0.04
+Field Lighting Diagrams
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.05
+Field Lighting Diagrams
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.10
+Technology General Notes 
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.11
+Technology Diagrams
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.12
+Technology Diagrams
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E0.13
+Grounding and Bonding Installation Diagrams
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+ED1.10
+Demolition Electrical Site Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+ED3.10
+Demolition Technology and Audio Visual Site Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E1.10
+Electrical Site Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E2.10
+Electrical and Lighting Plans 
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E3.00
+Overall Technology Site Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E3.10
+Technology Site Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E3.20
+Technology Plans
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+E4.10
+Electrical Roof Plan
+20-Apr-26
+15-Apr-26
+21-Apr-26
+None
+AD1.11
+Demolition Plan - ES
+20-Apr-26
+21-Apr-26
+21-Apr-26
+None
+AD1.12
+Post Demolition Plan - ES
+20-Apr-26
+21-Apr-26
+21-Apr-26
+None
+AD1.13
+Enlarged Demo Plan BLDG 4
+20-Apr-26
+21-Apr-26
+21-Apr-26
+None
+AD1.14
+Enlarged Demo Plan BLDG 5&6
+20-Apr-26
+21-Apr-26
+21-Apr-26
+None
+AD1.15
+Enlarged Demo Plan BLDG 3&7
+20-Apr-26
+21-Apr-26
+21-Apr-26
+None
+AD1.16
+Enlarged Demo Plan BLDG 4 - Alternate
+20-Apr-26
+21-Apr-26
+21-Apr-26
+None
+Addendums
+Description
+Drawing Date
+Stamp Date
+CORE Received Date
+Revision
+ADD 1
+Addendum #1
+6-May-26
+None
+6-May-26
+ADD 1
+Supplemental 
+Documents
+Description
+Drawing Date
+Stamp Date
+CORE Received Date
+Revision
+GEOTECH
+Geotechnical Report
+21-Jan-26
+22-Jan-26
+12-Mar-26
+None
+ACM REPORT
+Pre-Demolition Asbestos Survey
+3-Oct-23
+None
+9-Oct-23
+None
+AHERA
+Asbestos Management Plan for the NYE County School 
+District
+4-Jan-22
+None
+7-Jul-23
+None
+ADDENDUMS
+SUPPLEMENTAL DOCUMENTS
+Page 5 of 5

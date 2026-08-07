@@ -1,0 +1,2243 @@
+
+===== PAGE 1 =====
+Nye County School District
+Bid Documents
+09 2116
+Tonopah HS Field Replacement
+Gypsum Board Assemblies
+April 20, 2026
+Page 1 of 5
+SECTION 09 2116
+GYPSUM BOARD ASSEMBLIES
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Performance criteria for gypsum board assemblies.
+B.
+Metal stud wall framing.
+C.
+Metal channel ceiling framing.
+D.
+Gypsum wallboard.
+E.
+Joint treatment and accessories.
+F.
+Textured finish system.
+1.02 REFERENCE STANDARDS
+A.
+AISI S100 - North American Specification for the Design of Cold-Formed Steel Structural
+Members; 2016, with Supplement (2020).
+B.
+AISI S240 - North American Standard for Cold-Formed Steel Structural Framing; 2015, with
+Errata (2020).
+C.
+ASCE 7 - Minimum Design Loads and Associated Criteria for Buildings and Other Structures;
+Most Recent Edition Cited by Referring Code or Reference Standard.
+D.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+E.
+ASTM A1003/A1003M - Standard Specification for Steel Sheet, Carbon, Metallic- and
+Nonmetallic-Coated for Cold-Formed Framing Members; 2015.
+F.
+ASTM C475/C475M - Standard Specification for Joint Compound and Joint Tape for Finishing
+Gypsum Board; 2017 (Reapproved 2022).
+G.
+ASTM C665 - Standard Specification for Mineral-Fiber Blanket Thermal Insulation for Light
+Frame Construction and Manufactured Housing; 2023.
+H.
+ASTM C754 - Standard Specification for Installation of Steel Framing Members to Receive
+Screw-Attached Gypsum Panel Products; 2020.
+I.
+ASTM C840 - Standard Specification for Application and Finishing of Gypsum Board; 2020.
+J.
+ASTM C1047 - Standard Specification for Accessories for Gypsum Wallboard and Gypsum
+Veneer Base; 2019.
+K.
+ASTM C1396/C1396M - Standard Specification for Gypsum Board; 2017.
+L.
+ASTM C1658/C1658M - Standard Specification for Glass Mat Gypsum Panels; 2019, with
+Editorial Revision (2020).
+M.
+ASTM D3273 - Standard Test Method for Resistance to Growth of Mold on the Surface of
+Interior Coatings in an Environmental Chamber; 2021.
+N.
+ASTM E90 - Standard Test Method for Laboratory Measurement of Airborne Sound
+Transmission Loss of Building Partitions and Elements; 2009 (Reapproved 2016).
+O.
+ASTM E413 - Classification for Rating Sound Insulation; 2022.
+P.
+GA-216 - Application and Finishing of Gypsum Panel Products; 2021.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data:
+1.
+Provide manufacturer's data on partition head to structure connectors, showing
+compliance with requirements.
+2.
+For gypsum wallboard, submit documentation of recycled content.
+
+
+===== PAGE 2 =====
+Nye County School District
+Bid Documents
+09 2116
+Tonopah HS Field Replacement
+Gypsum Board Assemblies
+April 20, 2026
+Page 2 of 5
+1.04 QUALITY ASSURANCE
+A.
+Provide all accessories including, but not limited to, tracks, clips, web stiffeners, anchors,
+fastening devices, resilient clips, and other accessories required for a complete and proper
+installation, and as recommended by the manufacturer for the steel members used.
+PART 2 PRODUCTS
+2.01 GYPSUM BOARD ASSEMBLIES
+A.
+Provide completed assemblies with all accessories including, but not limited to, tracks, clips,
+web stiffeners, anchors, fastening devices, resilient clips, and other accessories required for a
+complete and proper installation, complying with ASTM C840 and GA-216.
+B.
+Interior Partitions, Indicated as Acoustic: Provide completed assemblies with the following
+characteristics:
+1.
+Acoustic Attenuation: STC as indicated calculated in accordance with ASTM E413, based
+on tests conducted in accordance with ASTM E90.
+C.
+Seismic Performance: Ceiling systems designed to withstand the effects of earthquake
+motions in accordance with ASCE 7 for Seismic Design Category D, E, or F and complying with
+the following:
+1.
+Local authorities having jurisdiction.
+2.02 METAL FRAMING MATERIALS
+A.
+Steel Sheet: ASTM A1003/A1003M, subject to the ductility limitations indicated in AISI S220 or
+equivalent.
+B.
+Manufacturers - Metal Framing, Connectors, and Accessories:
+1.
+ClarkDietrich; ____: www.clarkdietrich.com/#sle.
+2.
+SCAFCO Corporation; _______: www.scafco.com/#sle.
+3.
+Any current member approved and listed by the Steel Stud Manufacturers Association
+(SSMA): www.ssma.com.
+4.
+Any current member approved and listed by the Certified Steel Stud Association (CSSA):
+ certifiedsteelstud.com.
+C.
+Non-Loadbearing Framing System Components: ASTM C645; galvanized sheet steel, of size
+and properties necessary to comply with ASTM C754 for the spacing indicated, with maximum
+deflection of wall framing of L/240 at 5 psf (L/240 at 240 Pa).
+1.
+Studs: "C" shaped with flat or formed webs.
+2.
+Runners: U shaped, sized to match studs.
+3.
+Ceiling Channels: C-shaped.
+4.
+Furring Members: Hat-shaped sections, minimum depth of 7/8 inch (22 mm).
+D.
+Partition Head to Structure Connections: Provide mechanical anchorage devices that
+accommodate deflection and prevent rotation of studs while maintaining structural performance
+of partition.
+1.
+Structural Performance: Maintain lateral load resistance and vertical movement capacity
+required by applicable code, when evaluated in accordance with AISI S100.
+2.
+Material: ASTM A653/A653M steel sheet, SS Grade 50/340, with G60/Z180 hot-dipped
+galvanized coating.
+2.03 BOARD MATERIALS
+A.
+Manufacturers - Gypsum-Based Board:
+1.
+American Gypsum Company: www.americangypsum.com.
+2.
+CertainTeed Corporation: www.certainteed.com.
+3.
+Georgia-Pacific Gypsum: www.gpgypsum.com.
+4.
+National Gypsum Company: www.nationalgypsum.com.
+5.
+PABCO Gypsum: www.pabcogypsum.com.
+6.
+USG Corporation: www.usg.com.
+
+
+===== PAGE 3 =====
+Nye County School District
+Bid Documents
+09 2116
+Tonopah HS Field Replacement
+Gypsum Board Assemblies
+April 20, 2026
+Page 3 of 5
+B.
+General:
+1.
+Recycled Content: Minimum [10] percent post-consumer recycled content, or minimum
+[40] percent pre-consumer recycled content at contractor's option.
+C.
+Gypsum Wallboard: Paper-faced gypsum panels as defined in ASTM C1396/C1396M; sizes to
+minimize joints in place; ends square cut.
+1.
+Application: Use for vertical surfaces and ceilings, unless otherwise indicated.
+2.
+Glass mat faced gypsum panels, as defined in ASTM C1658/C1658M, suitable for paint
+finish, of the same core type and thickness may be substituted for paper-faced board.
+3.
+Mold Resistance: Score of 10, when tested in accordance with ASTM D3273.
+a.
+Mold-resistant board is required whenever board is being installed before the building
+is enclosed and conditioned.
+b.
+Mold resistant board is required ​in all toilet rooms, kitchen, utility rooms, and other
+areas as indicated on Drawings​.
+4.
+Thickness: 
+a.
+Vertical Surfaces: ​5/8 inch (16 mm)​.
+b.
+Ceilings: ​1/2 inch (13 mm)​.
+5.
+Paper-Faced Products:
+a.
+American Gypsum Company; LightRoc Gypsum Wallboard:
+ www.americangypsum.com/#sle.
+b.
+CertainTeed Corporation; Regular Gypsum Board, Type X.
+c.
+Georgia-Pacific Gypsum; ToughRock.
+d.
+National Gypsum Company; Gold Bond, Fire Shield Brand Gypsum Wallboard.
+e.
+Pacific Coast Building Products, Inc; PABCO Flame Curb.
+f.
+__________.
+6.
+Mold-Resistant, Paper-Faced Products:
+a.
+American Gypsum Company; M-Bloc Type X: www.americangypsum.com/#sle.
+b.
+CertainTeed Corporation; M2Tech Moisture & Mold Resistant Gypsum Board.
+c.
+Georgia-Pacific Gypsum; ToughRock Fireguard X Mold-Guard:
+ www.gpgypsum.com/#sle.
+d.
+Gold Bond Building Products, LLC provided by National Gypsum Company; Gold
+Bond XP Gypsum Board: www.goldbondbuilding.com/#sle.
+e.
+Pacific Coast Building Products, Inc; PABCO Mold Curb Gypsum Wallboard.
+7.
+Glass Mat Faced Products:
+a.
+Georgia-Pacific Gypsum; DensArmor Plus: www.gpgypsum.com/#sle.
+b.
+Gold Bond Building Products, LLC provided by National Gypsum Company; Gold
+Bond eXP Interior Extreme Fire-Shield Gypsum Panel:
+ www.goldbondbuilding.com/#sle.
+c.
+USG Corporation; Sheetrock Brand Glass-Mat Panels Mold Tough Regular 1/2 in.
+(12.7 mm): www.usg.com/#sle.
+D.
+Backing Board For Wet Areas: 
+1.
+Application: Surfaces behind tile in wet areas including ​Interior walls of kitchen and wall
+behind and adjacent to drinking fountain​.
+2.
+Mold Resistance: Score of 10, when tested in accordance with ASTM D3273.
+E.
+Backing Board For Non-Wet Areas: Water-resistant gypsum backing board as defined in
+ASTM C1396/C1396M; sizes to minimum joints in place; ends square cut.
+1.
+Application: Vertical surfaces behind thinset tile, except in wet areas.
+2.
+Mold Resistance: Score of 10, when tested in accordance with ASTM D3273.
+3.
+Regular Board Thickness: 1/2 inch (13 mm), minimum.
+4.
+Edges: Tapered.
+5.
+Products:
+a.
+American Gypsum Company; M-Bloc: www.americangypsum.com/#sle.
+b.
+Georgia-Pacific Gypsum; DensArmor Plus: www.gpgypsum.com/#sle.
+
+
+===== PAGE 4 =====
+Nye County School District
+Bid Documents
+09 2116
+Tonopah HS Field Replacement
+Gypsum Board Assemblies
+April 20, 2026
+Page 4 of 5
+c.
+Gold Bond Building Products, LLC provided by National Gypsum Company; Gold
+Bond XP Fire-Shield Gypsum Board: www.goldbondbuilding.com/#sle.
+F.
+Ceiling Board: Special sag resistant gypsum ceiling board as defined in ASTM C1396/C1396M;
+sizes to minimize joints in place; ends square cut.
+1.
+Application: Ceilings, unless otherwise indicated.
+2.
+Thickness: 1/2 inch (13 mm).
+3.
+Edges: Tapered.
+2.04 GYPSUM BOARD ACCESSORIES
+A.
+Acoustic Insulation: ASTM C665; preformed glass fiber, friction fit type, unfaced. Thickness: 2
+inch (51 mm).
+B.
+Finishing Accessories: ASTM C1047, extruded aluminum alloy (6063 T5) or galvanized steel
+sheet ASTM A924/A924M G90, unless noted otherwise.
+1.
+Types: As detailed or required for finished appearance.
+2.
+Special Shapes: In addition to conventional corner bead and control joints, provide L-
+bead at exposed panel edges.
+C.
+Beads, Joint Accessories, and Other Trim: ASTM C1047, galvanized steel or rolled zinc,
+unless noted otherwise.
+1.
+Corner Beads: Low profile, for 90 degree outside corners.
+D.
+Joint Materials: ASTM C475/C475M and as recommended by gypsum board manufacturer for
+project conditions.
+1.
+Tape: 2 inch (50 mm) wide, coated glass fiber tape for joints and corners.
+E.
+Textured Finish Materials: Latex-based compound; plain.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that project conditions are appropriate for work of this section to commence.
+3.02 INDOOR AIR QUALITY
+A.
+Temporary ventilation: Provide temporary ventilation for work of this Section.
+B.
+Multi-layer gypsum board: Screw attach. Adhesive attachment will not be permitted.
+3.03 FRAMING INSTALLATION
+A.
+Metal Framing: Install in accordance with ASTM C1007AISI S220 and manufacturer's
+instructions.
+B.
+Suspended Ceilings and Soffits: Space framing and furring members as permitted by standard.
+1.
+Level ceiling system to a tolerance of 1/1200.
+2.
+Laterally brace entire suspension system.
+3.
+Install bracing as required at exterior locations to resist wind uplift.
+C.
+Studs: Space studs as permitted by standard.
+1.
+Extend partition framing ​to structure where indicated and to 12" above ceiling at locations
+indicated as non-structural. Provide seismic bracing as required by structural engineer​.
+2.
+Partitions Terminating at Structure: Attach top runner to structure, maintain clearance
+between top of studs and structure, and connect studs to track using specified mechanical
+devices in accordance with manufacturer's instructions; verify free movement of top of
+stud connections; do not leave studs unattached to track.
+D.
+Openings: Reinforce openings as required for weight of doors or operable panels, using not
+less than double studs at jambs. 
+E.
+Blocking: Install ​mechanically fastened steel sheet blocking​ for support of:
+1.
+Plumbing fixtures.
+2.
+Toilet partitions.
+
+
+===== PAGE 5 =====
+Nye County School District
+Bid Documents
+09 2116
+Tonopah HS Field Replacement
+Gypsum Board Assemblies
+April 20, 2026
+Page 5 of 5
+3.
+Toilet accessories.
+4.
+Wall-mounted door hardware.
+5.
+​Visual Boards (Marker and Tack Boards)​
+6.
+Kitchen Equipment
+7.
+​Other Specialties or Equipment​
+3.04 BOARD INSTALLATION
+A.
+Comply with ASTM C840, GA-216, and manufacturer's instructions. Install to minimize butt end
+joints, especially in highly visible locations.
+B.
+Single-Layer Nonrated: Install gypsum board in most economical direction, with ends and
+edges occurring over firm bearing.
+1.
+Exception: Tapered edges to receive joint treatment at right angles to framing.
+C.
+Exposed Gypsum Board in Interior Wet Areas: Seal joints, cut edges, and holes with water-
+resistant sealant.
+D.
+Installation on Metal Framing: Use screws for attachment of gypsum board​ ______​.
+3.05 INSTALLATION OF TRIM AND ACCESSORIES
+A.
+Control Joints: Place control joints consistent with lines of building spaces and as follows:
+1.
+Not more than 30 feet (10 meters) apart on walls and ceilings over 50 feet (16 meters)
+long.
+B.
+Corner Beads: Install at external corners, using longest practical lengths. 
+C.
+Edge Trim: Install at locations where gypsum board abuts dissimilar materials.
+3.06 JOINT TREATMENT
+A.
+Glass Mat Faced Gypsum Board and Exterior Glass Mat Faced Sheathing: Use fiberglass joint
+tape, embed and finish with setting type joint compound.
+B.
+Finish gypsum board in accordance with levels defined in ASTM C840, as follows:
+1.
+Level 4: Walls and ceilings to receive paint finish or wall coverings, unless otherwise
+indicated.
+2.
+Level 3: Walls to receive textured wall finish.
+3.
+Level 2: In utility areas, behind cabinetry, and on backing board to receive tile finish.
+4.
+Level 1: Wall areas above finished ceilings, whether or not accessible in the completed
+construction.
+C.
+Tape, fill, and sand exposed joints, edges, and corners to produce smooth surface ready to
+receive finishes.
+1.
+Feather coats of joint compound so that camber is maximum 1/32 inch (0.8 mm).
+2.
+Taping, filling, and sanding are not required at surfaces behind adhesive applied ceramic
+tile and fixed cabinetry.
+3.07 TEXTURE FINISH
+A.
+Apply finish texture coating by means of spraying apparatus in accordance with manufacturer's
+instructions.
+B.
+Texture Required: ​Spatter​.
+3.08 WASTE MANAGMENT
+A.
+As specified in Section 01 7419 - Construction Waste Management and Disposal as follows:
+1.
+Select panel sizes and layout panels to minimize waste; reuse cutoffs to the greatest
+extent possible.
+3.09 TOLERANCES
+A.
+Maximum Variation of Finished Gypsum Board Surface from True Flatness: 1/8 inch in 10 feet
+(3 mm in 3 m) in any direction.
+END OF SECTION
+
+
+===== PAGE 6 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 7 =====
+Nye County School District
+Bid Documents
+09 5100
+Tonopah HS Field Replacement
+Acoustical Ceilings
+April 20, 2026
+Page 1 of 4
+SECTION 09 5100
+ACOUSTICAL CEILINGS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Suspended metal grid ceiling system.
+B.
+Acoustical ceiling panels.
+1.02 RELATED REQUIREMENTS
+A.
+Section 01 6116 - Volatile Organic Compound (VOC) Content Restrictions.
+1.03 REFERENCE STANDARDS
+A.
+ASCE 7 - Minimum Design Loads and Associated Criteria for Buildings and Other Structures;
+Most Recent Edition Cited by Referring Code or Reference Standard.
+B.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+C.
+ASTM C635/C635M - Standard Specification for Manufacture, Performance, and Testing of
+Metal Suspension Systems for Acoustical Tile and Lay-in Panel Ceilings; 2022.
+D.
+ASTM E580/E580M - Standard Practice for Installation of Ceiling Suspension Systems for
+Acoustical Tile and Lay-in Panels in Areas Subject to Earthquake Ground Motions; 2022.
+E.
+ASTM E1264 - Standard Classification for Acoustical Ceiling Products; 2023.
+1.04 ADMINISTRATIVE REQUIREMENTS
+A.
+Sequence work to ensure acoustical ceilings are not installed until building is enclosed,
+sufficient heat is provided, dust generating activities have terminated, and overhead work is
+completed, tested, and approved.
+B.
+Do not install acoustical units until after interior wet work is dry.
+1.05 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Shop Drawings: Indicate grid layout and related dimensioning.
+C.
+Product Data: Provide data on suspension system components and acoustical units.
+D.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 6000 - Product Requirements, for additional provisions.
+2.
+Extra Acoustical Units: Quantity equal to 5 percent of total installed.
+1.06 FIELD CONDITIONS
+A.
+Maintain uniform temperature of minimum 60 degrees F (16 degrees C), and maximum
+humidity of 40 percent prior to, during, and after acoustical unit installation.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Acoustic Tiles/Panels:
+1.
+Armstrong World Industries, Inc; ____: www.armstrongceilings.com/#sle.
+2.
+Certainteed Architectural; ____: www.certainteed.com/ceilings-and-walls/#sle.
+3.
+USG Corporation; ____: www.usg.com/ceilings/#sle.
+4.
+Substitutions: See Section 01 6000 - Product Requirements.
+B.
+Suspension Systems:
+1.
+Same as for acoustical units.
+
+
+===== PAGE 8 =====
+Nye County School District
+Bid Documents
+09 5100
+Tonopah HS Field Replacement
+Acoustical Ceilings
+April 20, 2026
+Page 2 of 4
+2.02 PERFORMANCE REQUIREMENTS
+A.
+Seismic Performance: Ceiling systems designed to withstand the effects of earthquake
+motions determined according to ASCE 7 for Seismic Design Category ​D​ and complying with
+the following:
+1.
+Local authorities having jurisdiction.
+B.
+Surface-Burning Characteristics: Comply with ASTM E84; testing by a qualified testing agency.
+Identify products with appropriate markings of applicable testing agency.
+1.
+Flame-Spread Index: Comply with ASTM E1264 for Class A materials.
+2.
+Smoke-Developed Index: 450 or less.
+2.03 ACOUSTICAL UNITS
+A.
+Recycled Content: Minimum 10 percent post-consumer recycled content, or minimum [40]
+percent pre-consumer recycled content.
+B.
+Acoustical ​Panels​ general​: Painted mineral fiber, with the following characteristics:
+1.
+Application(s): ​General, ACT-1​.
+2.
+Classification: ASTM E1264 Type A.
+3.
+Size: ​24 by 48 inches (610 by 1219 mm)​.
+4.
+Thickness: 3/4 inch (19 mm).
+5.
+Light Reflectance: ​0.81​ percent, determined in accordance with ASTM E1264.
+6.
+NRC Range: 0.50, determined in accordance with ASTM E1264.
+7.
+Ceiling Attenuation Class (CAC): ​35​, determined in accordance with ASTM E1264.
+8.
+Panel Edge: Square.
+9.
+Color: White.
+10.
+Suspension System:  Exposed grid.
+11.
+Products:
+a.
+Armstrong World Industries, Inc​; DUNE Second Look​:
+ www.armstrongceilings.com/#sle.
+b.
+Substitutions: See Section 01 6000 - Product Requirements.
+C.
+Acoustical Panels, Type Clean Room: Mineral fiber with scrubbable vinyl finish, with the
+following characteristics:
+1.
+Application(s): ​Kitchen, ACP-2​.
+2.
+Classification: ASTM E1264 Type A.
+3.
+Size: ​24 by 48 inches (610 by 1219 mm)​.
+4.
+Thickness: ​5/8 inch (16 mm)​.
+5.
+Light Reflectance: ​not less than 0.79​ percent, determined in accordance with ASTM
+E1264.
+6.
+Ceiling Attenuation Class (CAC): ​not less than 35​, determined in accordance with ASTM
+E1264.
+7.
+Panel Edge: Square.
+8.
+Color: White.
+9.
+Suspension System​ Type 15/16" Edge​: Exposed grid.
+10.
+Products:
+a.
+​Armstrong; Clean Room FL:
+https://www.armstrongceilings.com/commercial/en/commercial-ceilings-walls/clean-
+room-fl-ceiling-tiles.html ​.
+2.04 SUSPENSION SYSTEM(S)
+A.
+Metal Suspension Systems - General: Complying with ASTM C635/C635M; die cut and
+interlocking components, with perimeter moldings, hold down clips, stabilizer bars, clips, and
+splices as required.
+1.
+Materials:
+a.
+Steel Grid: ASTM A653/A653M, G30 coating, unless otherwise indicated.
+
+
+===== PAGE 9 =====
+Nye County School District
+Bid Documents
+09 5100
+Tonopah HS Field Replacement
+Acoustical Ceilings
+April 20, 2026
+Page 3 of 4
+2.
+Recycled Content: Minimum 10 percent post-consumer recycled content, or minimum [40]
+percent pre-consumer recycled content.
+B.
+Exposed Suspension System​, Type Typical​: Hot-dipped galvanized steel grid with ​aluminum​
+cap.
+1.
+Structural Classification: Intermediate-duty, when tested in accordance with ASTM
+C635/C635M.
+2.
+Profile:  Tee; 15/16 inch (24 mm) face width.
+3.
+Finish:  Baked enamel.
+4.
+Color: White.
+5.
+Products:
+a.
+​Armstrong; Prelude XL 15/16" Exposed Tee:
+https://www.armstrongceilings.com/commercial/en/suspension-systems/prelude-xl-
+15-16-grid.html​.
+2.05 ACCESSORIES
+A.
+Support Channels and Hangers: Galvanized steel; size and type to suit application, seismic
+requirements, and ceiling system flatness requirement specified.
+B.
+Hanger Wire:  12 gauge, 0.08 inch (2 mm) galvanized steel wire.
+C.
+Perimeter Moldings: Same metal and finish as grid.
+D.
+Touch-up Paint: Type and color to match acoustical and grid units.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify existing conditions before starting work.
+B.
+Verify that layout of hangers will not interfere with other work.
+3.02 INSTALLATION - SUSPENSION SYSTEM
+A.
+Install suspension system in accordance with ASTM E580/E580M and manufacturer's
+instructions and as supplemented in this section.
+B.
+Rigidly secure system, including integral mechanical and electrical components, for maximum
+deflection of 1:360.
+C.
+Locate system on room axis according to reflected plan.
+D.
+Perimeter Molding: Install at intersection of ceiling and vertical surfaces and at junctions with
+other interruptions.
+1.
+Use longest practical lengths.
+E.
+Where structural support is not spaced sufficiently to accomodate hangers provide related
+carring channels, angles, slotted channel framing system or blocking to span between
+structural supports.
+F.
+Do not hang suspension system from metal roof decks.
+G.
+Suspension System, Non-Seismic: Hang suspension system independent of walls, columns,
+ducts, pipes and conduit. Where carrying members are spliced, avoid visible displacement of
+face plane of adjacent members.
+H.
+Do not support components on main runners or cross runners if weight causes total dead load
+to exceed deflection capability.
+I.
+Support fixture loads using supplementary hangers located within 6 inches (152 mm) of each
+corner, or support components independently.
+J.
+Do not eccentrically load system or induce rotation of runners.
+3.03 INSTALLATION - ACOUSTICAL UNITS
+A.
+Install acoustical units in accordance with manufacturer's instructions.
+
+
+===== PAGE 10 =====
+Nye County School District
+Bid Documents
+09 5100
+Tonopah HS Field Replacement
+Acoustical Ceilings
+April 20, 2026
+Page 4 of 4
+B.
+Fit acoustical units in place, free from damaged edges or other defects detrimental to
+appearance and function.
+C.
+Fit border trim neatly against abutting surfaces.
+D.
+Install acoustical units level, in uniform plane, and free from twist, warp, and dents.
+E.
+Cutting Acoustical Units:
+1.
+Cut to fit irregular grid and perimeter edge trim.
+2.
+Make field cut edges of same profile as factory edges.
+3.
+Double cut and field paint exposed reveal edges.
+F.
+Where round obstructions, other radius surfaces, bullnose concrete block corners, other radius
+surfaces, and other radius surfaces occur, provide preformed closures to match perimeter
+molding.
+3.04 TOLERANCES
+A.
+Maximum Variation from Flat and Level Surface: 1/8 inch in 10 feet (3 mm in 3 m).
+B.
+Maximum Variation from Plumb of Grid Members Caused by Eccentric Loads: 2 degrees.
+END OF SECTION
+
+
+===== PAGE 11 =====
+Nye County School District
+Bid Documents
+09 6513
+Tonopah HS Field Replacement
+RESILIENT BASE AND
+ACCESSORIES
+April 20, 2026
+Page 1 of 4
+SECTION 09 6513
+RESILIENT BASE AND ACCESSORIES
+PART 1 - GENERAL
+1.01 REFERENCE STANDARDS
+A.
+ASTM E648 - Standard Test Method for Critical Radiant Flux of Floor-Covering Systems Using
+a Radiant Heat Energy Source; 2019a, with Editorial Revision (2020).
+B.
+ASTM F1861 - Standard Specification for Resilient Wall Base; 2021.
+C.
+ASTM F2169 - Standard Specification for Resilient Stair Treads; 2015 (Reapproved 2020).
+D.
+NFPA 253 - Standard Method of Test for Critical Radiant Flux of Floor Covering Systems Using
+a Radiant Heat Energy Source; 2023.
+1.02 SUMMARY
+A.
+Section Includes:
+1.
+Resilient base (RB).
+a.
+Resilient base is Contractor Furnished Contractor Installed.
+B.
+Related Requirements:
+1.
+Section 01 1000 “Summary” for Owner Furnished Owner Installed scopes of work.
+2.
+Section 01 8113 “Sustainable Design Requirements” and attachment “WSSP Scorecard”
+for applicability of WSSP submittals to this portion of the Project.
+3.
+Section 09 6516 "Resilient Sheet Flooring" for resilient sheet floor coverings.
+4.
+Section 09 6519 "Resilient Tile Flooring" for resilient floor tile.
+5.
+Section 09 9999 “Color Selections” for colors of resilient base and stair accessories.
+1.03 ACTION SUBMITTALS
+A.
+Product Data: For each type of product indicated.
+1.04 MAINTENANCE MATERIAL SUBMITTALS
+A.
+Furnish extra materials, from the same product run, that match products installed and that are
+packaged with protective covering for storage and identified with labels describing contents.
+1.
+Furnish not less than 10 linear feet for every 500 linear feet or fraction thereof, of each
+type, color, pattern, and size of resilient product installed.
+1.05 QUALITY ASSURANCE
+A.
+Fire-Test-Response Characteristics: As determined by testing identical products according to
+ASTM E648 or NFPA 253 by a qualified testing agency.
+1.
+Critical Radiant Flux Classification: Class I, not less than 0.45 W/sq. cm.
+B.
+Mockups: Build mockups to verify selections made under Sample submittals, to demonstrate
+aesthetic effects, and to set quality standards for materials and execution.
+1.
+Coordinate mockups in this Section with mockups specified in other Sections.
+2.
+Approval of mockups does not constitute approval of deviations from the Contract
+Documents contained in mockups unless Architect specifically approves such deviations
+in writing.
+3.
+Subject to compliance with requirements, approved mockups may become part of the
+completed Work if undisturbed at time of Substantial Completion.
+1.06 DELIVERY, STORAGE, AND HANDLING
+A.
+Store resilient products and installation materials in dry spaces protected from the weather, with
+ambient temperatures maintained within range recommended by manufacturer, but not less
+than 50 degrees Fahrenheit (10 degrees Celsius) or more than 90 degrees Fahrenheit (32.22
+degrees Celsius).
+
+
+===== PAGE 12 =====
+Nye County School District
+Bid Documents
+09 6513
+Tonopah HS Field Replacement
+RESILIENT BASE AND
+ACCESSORIES
+April 20, 2026
+Page 2 of 4
+1.07 PROJECT CONDITIONS
+A.
+Maintain ambient temperatures within range recommended by manufacturer, but not less than
+70 degrees Fahrenheit (21.11 degrees Celsius) or more than 95 degrees Fahrenheit (35
+degrees Celsius), in spaces to receive resilient products during the following time periods:
+1.
+48 hours before installation.
+2.
+During installation.
+3.
+48 hours after installation.
+B.
+Until Substantial Completion, maintain ambient temperatures within range recommended by
+manufacturer, but not less than 55 degrees Fahrenheit (12.78 degrees Celsius) or more than
+95 degrees Fahrenheit (35 degrees Celsius).
+C.
+Install resilient products after other finishing operations, including painting, have been
+completed.
+PART 2 - PRODUCTS
+2.01 RESILIENT BASE (RB)
+A.
+Thermoset Rubber Base:
+1.
+Basis of Design: Roppe Corporation; Pinnacle Rubber Base.
+2.
+Other Manufacturers: Subject to compliance with requirements, provide products by one
+of the following:
+a.
+Burke Mercer Flooring Products.
+b.
+Flexco, Inc.
+c.
+Johnsonite.
+3.
+Resilient Base Standard: ASTM F1861, Type TS (rubber, vulcanized thermoset), Group I
+(solid, homogeneous).
+4.
+Style and Location:
+a.
+Style A, Straight: Provide in areas with carpet.
+b.
+Style B, Cove: Provide in areas with resilient floor coverings.
+5.
+Minimum Thickness: 0.125 inch (3.18 mm).
+6.
+Height: 4 inches (101.6 mm).
+7.
+Lengths: Coils in manufacturer's standard length.
+8.
+Outside Corners: Preformed.
+9.
+Inside Corners: Job formed.
+10.
+Surface: Smooth
+11.
+Finish: Matte.
+12.
+FloorScore Certified.
+2.02 INSTALLATION MATERIALS
+A.
+Trowelable Leveling and Patching Compounds: Latex-modified, portland cement based or
+blended hydraulic-cement-based formulation provided or approved by manufacturer for
+applications indicated.
+B.
+Adhesives: Water-resistant type recommended by manufacturer to suit resilient products and
+substrate conditions indicated.
+1.
+Adhesives shall have a VOC content of 50 g/L or less.
+C.
+Metal Edge Strips: Extruded aluminum with mill finish of width shown, of height required to
+protect exposed edges of tiles, and in maximum available lengths to minimize running joints.
+PART 3 - EXECUTION
+3.01 EXAMINATION
+A.
+Examine substrates, with Installer present, for compliance with requirements for maximum
+moisture content and other conditions affecting performance of the Work.
+
+
+===== PAGE 13 =====
+Nye County School District
+Bid Documents
+09 6513
+Tonopah HS Field Replacement
+RESILIENT BASE AND
+ACCESSORIES
+April 20, 2026
+Page 3 of 4
+1.
+Verify that finishes of substrates comply with tolerances and other requirements specified
+in other Sections and that substrates are free of cracks, ridges, depressions, scale, and
+foreign deposits that might interfere with adhesion of resilient products.
+B.
+Proceed with installation only after unsatisfactory conditions have been corrected.
+1.
+Installation of resilient products indicates acceptance of surfaces and conditions.
+3.02 PREPARATION
+A.
+Prepare substrates according to manufacturer's written instructions to ensure adhesion of
+resilient products.
+B.
+Fill cracks, holes, and depressions in substrates with trowelable leveling and patching
+compound and remove bumps and ridges to produce a uniform and smooth substrate.
+C.
+Do not install resilient products until they are same temperature as the space where they are to
+be installed.
+1.
+Move resilient products and installation materials into spaces where they will be installed
+at least 48 hours in advance of installation.
+D.
+Sweep and vacuum clean substrates to be covered by resilient products immediately before
+installation.
+3.03 RESILIENT BASE INSTALLATION
+A.
+Comply with manufacturer's written instructions for installing resilient base.
+B.
+Apply resilient base to walls, columns, pilasters, casework and cabinets in toe spaces, and
+other permanent fixtures in rooms and areas where base is required.
+C.
+Install resilient base in lengths as long as practicable without gaps at seams and with tops of
+adjacent pieces aligned.
+D.
+Tightly adhere resilient base to substrate throughout length of each piece, with base in
+continuous contact with horizontal and vertical substrates.
+E.
+Do not stretch resilient base during installation.
+F.
+On masonry surfaces or other similar irregular substrates, fill voids along top edge of resilient
+base with manufacturer's recommended adhesive filler material.
+G.
+Preformed Corners: Install preformed corners before installing straight pieces.
+H.
+Job-Formed Corners:
+1.
+Outside Corners: Use straight pieces of maximum lengths possible. Form without
+producing discoloration (whitening) at bends.
+a.
+Form without producing discoloration (whitening) at bends.
+2.
+Inside Corners: Use straight pieces of maximum lengths possible and form with returns
+not less than 3 inches (76.2 mm) in length.
+a.
+Miter or cope corners to minimize open joints.
+3.04 RESILIENT ACCESSORY INSTALLATION
+A.
+Comply with manufacturer's written instructions for installing resilient accessories.
+B.
+Resilient Molding Accessories: Butt to adjacent materials and tightly adhere to substrates
+throughout length of each piece. Install reducer strips at edges of resilient floor covering that
+would otherwise be exposed.
+3.05 CLEANING AND PROTECTION
+A.
+Comply with manufacturer's written instructions for cleaning and protection of resilient products.
+B.
+Perform the following operations immediately after completing resilient product installation:
+1.
+Remove adhesive and other blemishes from exposed surfaces.
+2.
+Sweep and vacuum surfaces thoroughly.
+3.
+Damp-mop surfaces to remove marks and soil.
+
+
+===== PAGE 14 =====
+Nye County School District
+Bid Documents
+09 6513
+Tonopah HS Field Replacement
+RESILIENT BASE AND
+ACCESSORIES
+April 20, 2026
+Page 4 of 4
+C.
+Protect resilient products from mars, marks, indentations, and other damage from construction
+operations and placement of equipment and fixtures during remainder of construction period.
+D.
+Cover resilient products until Substantial Completion.
+END OF SECTION
+
+
+===== PAGE 15 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 1 of 8 
+ 
+SECTION 09 91 13 
+EXTERIOR PAINTING 
+ 
+PART 1 - GENERAL 
+1.1 
+RELATED DOCUMENTS 
+A. 
+Drawings and general provisions of the Contract, including General and Supplementary 
+Conditions and Division 01 Specification Sections, apply to this Section. 
+1.2 
+SUMMARY 
+A. 
+Section includes surface preparation and the application of paint systems on the following 
+exterior substrates: 
+1. 
+Concrete masonry units (CMU). 
+2. 
+Metal (ferrous and non-ferrous). 
+B. 
+Related Requirements: 
+1. 
+Section 051200 "Structural Steel Framing" for shop priming of metal substrates with 
+primers specified in this Section. 
+2. 
+Section 099600 "High-Performance Coatings" for special-use coatings. 
+3. 
+Section 099123 "Interior Painting" for surface preparation and the application of paint 
+systems on interior substrates. 
+4. 
+Section 099300 "Staining and Transparent Finishing" for surface preparation and the 
+application of wood stains and transparent finishes on exterior wood substrates. 
+1.3 
+ACTION SUBMITTALS 
+A. 
+Product Data: For each type of product. Include preparation requirements and application 
+instructions. 
+B. 
+Samples for Initial Selection: For each type of topcoat product. 
+C. 
+Samples for Verification: For each type of paint system and each color and gloss of topcoat. 
+1. 
+Submit Samples on rigid backing, 8 inches square. 
+2. 
+Label each coat of each Sample. 
+3. 
+Label each Sample for location and application area. 
+D. 
+Product List: For each product indicated, include the following: 
+1. 
+Cross-reference to paint system and locations of application areas. Use same designations 
+indicated on Drawings and in schedules. 
+2. 
+VOC content. 
+1.4 
+CLOSEOUT SUBMITTALS 
+
+
+===== PAGE 16 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 2 of 8 
+ 
+A. 
+Coating Maintenance Manual: Provide coating maintenance manual including area summary 
+with finish schedule, area detail designating location where each product/color/finish was used, 
+product data pages, material safety data sheets, care and cleaning instructions, touch-up 
+procedures, and color samples of each color and finish used. 
+1.5 
+MAINTENANCE MATERIAL SUBMITTALS 
+A. 
+Furnish extra materials that match products installed and that are packaged with protective 
+covering for storage and identified with labels describing contents. 
+1. 
+Paint: Provide one gallon of each material and color applied. 
+1.6 
+QUALITY ASSURANCE 
+A. 
+Mockups: Apply mockups of each paint system indicated and each color and finish selected to 
+verify preliminary selections made under Sample submittals and to demonstrate aesthetic effects 
+and set quality standards for materials and execution. 
+1. 
+Architect will select one surface to represent surfaces and conditions for application of 
+each paint system specified in Part 3. 
+a. 
+Vertical and Horizontal Surfaces: Provide samples of at least 100 sq. ft. 
+b. 
+Other Items: Architect will designate items or areas required. 
+2. 
+Final approval of color selections will be based on mockups. 
+a. 
+If preliminary color selections are not approved, apply additional mockups of 
+additional colors selected by Architect at no added cost to Owner. 
+3. 
+Approval of mockups does not constitute approval of deviations from the Contract 
+Documents contained in mockups unless Architect specifically approves such deviations 
+in writing. 
+ 
+4. 
+Subject to compliance with requirements, approved mockups may become part of the 
+completed Work if undisturbed at time of Substantial Completion. 
+1.7 
+DELIVERY, STORAGE, AND HANDLING 
+A. 
+Delivery and Handling: Deliver products to Project site in an undamaged condition in 
+manufacturer's original sealed containers, complete with labels and instructions for handling, 
+storing, unpacking, protecting, and installing. Packaging shall bear the manufacture’s label with 
+the following information:  
+1. 
+Product name and type (description). 
+2. 
+Batch date. 
+3. 
+Color number. 
+4. 
+VOC content. 
+5. 
+Environmental handling requirements. 
+6. 
+Surface preparation requirements. 
+
+
+===== PAGE 17 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 3 of 8 
+ 
+7. 
+Application instructions. 
+B. 
+Store materials not in use in tightly covered containers in well-ventilated areas with ambient 
+temperatures continuously maintained at not less than 45 deg F. 
+1. 
+Maintain containers in clean condition, free of foreign materials and residue. 
+2. 
+Remove rags and waste from storage areas daily. 
+1.8 
+FIELD CONDITIONS 
+A. 
+Apply paints only when temperature of surfaces to be painted and ambient air temperatures are 
+between 50 and 95 deg F. 
+B. 
+Do not apply paints in snow, rain, fog, or mist; when relative humidity exceeds 85 percent; at 
+temperatures less than 5 deg F above the dew point; or to damp or wet surfaces. 
+C. 
+Hazardous Materials: It is not expected that hazardous materials will be encountered in the 
+Work. 
+1. 
+If suspected hazardous materials are encountered, do not disturb; immediately notify 
+Architect and Owner. 
+PART 2 - PRODUCTS 
+2.1 
+MANUFACTURERS 
+A. 
+Basis-of-Design Product: Subject to compliance with requirements, provide Sherwin-Williams 
+Company products indicated or comparable product from one of the following: 
+1. 
+Benjamin Moore. 
+2. 
+Or approved equal. 
+B. 
+Comparable Products: Comparable products of approved manufacturers will be considered in 
+accordance with Section 016000 "Product Requirements," and the following: 
+1. 
+Products are approved by manufacturer in writing for application specified. 
+2. 
+Products meet performance and physical characteristics of basis of design product 
+including published ratio of solids by volume, plus or minus two percent. 
+C. 
+Source Limitations: Obtain paint materials from single source from single listed manufacturer. 
+1. 
+Manufacturer's designations listed on a separate color schedule are for color reference 
+only and do not indicate prior approval. 
+2.2 
+PAINT, GENERAL 
+A. 
+Material Compatibility: 
+1. 
+Provide materials for use within each paint system that are compatible with one another 
+and substrates indicated, under conditions of service and application as demonstrated by 
+manufacturer, based on testing and field experience. 
+
+
+===== PAGE 18 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 4 of 8 
+ 
+2. 
+For each coat in a paint system, provide products recommended in writing by 
+manufacturers of topcoat for use in paint system and on substrate indicated. 
+B. 
+VOC Content:  All paints and coatings wet-applied on site must meet the applicable VOC limits 
+of the California Air Resources Board (CARB) 2007, Suggested Control Measure (SCM) for    
+Architectural Coatings, or the South Coast Air Quality Management District (SCAQMD) Rule 
+1113, effective June 3, 2011.  
+1. 
+Colors: As indicated in a color schedule. 
+2.3 
+SOURCE QUALITY CONTROL 
+A. 
+Testing of Paint Materials: Owner reserves the right to invoke the following procedure: 
+1. 
+Owner will engage the services of a qualified testing agency to sample paint materials. 
+Contractor will be notified in advance and may be present when samples are taken. If 
+paint materials have already been delivered to Project site, samples may be taken at 
+Project site. Samples will be identified, sealed, and certified by testing agency. 
+2. 
+Testing agency will perform tests for compliance with product requirements. 
+3. 
+Owner may direct Contractor to stop applying paints if test results show materials being 
+used do not comply with product requirements. Contractor shall remove noncomplying 
+paint materials from Project site, pay for testing, and repaint surfaces painted with 
+rejected materials. Contractor will be required to remove rejected materials from 
+previously painted surfaces if, on repainting with complying materials, the two paints are 
+incompatible. 
+PART 3 - EXECUTION 
+3.1 
+EXAMINATION 
+A. 
+Examine substrates and conditions, with Applicator present, for compliance with requirements 
+for maximum moisture content and other conditions affecting performance of the Work. Verify 
+suitability of substrates, including surface conditions and compatibility with existing finishes 
+and primers. Where acceptability of substrate conditions is in question, apply samples and 
+perform in-situ testing to verify compatibility, adhesion, and film integrity of new paint 
+application.   
+1. 
+Report, in writing, conditions that may affect application, appearance, or performance of 
+paint.  
+B. 
+Substrate Conditions:  
+1. 
+Maximum Moisture Content of Substrates: When measured with an electronic moisture 
+meter as follows: 
+a. 
+Concrete: 12 percent. 
+b. 
+Masonry (Clay and CMU): 12 percent. 
+c. 
+Wood: 15 percent. 
+d. 
+Portland Cement Plaster: 12 percent. 
+e. 
+Gypsum Board: 12 percent. 
+
+
+===== PAGE 19 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 5 of 8 
+ 
+2. 
+Portland Cement Plaster Substrates: Verify that plaster is fully cured. 
+3. 
+Exterior Gypsum Board Substrates: Verify that finishing compound is sanded smooth. 
+C. 
+Proceed with coating application only after unsatisfactory conditions have been corrected; 
+application of coating indicates acceptance of surfaces and conditions. 
+3.2 
+PREPARATION 
+A. 
+Comply with manufacturer's written instructions and recommendations in "MPI Manual" 
+applicable to substrates and paint systems indicated. 
+B. 
+Remove hardware, covers, plates, and similar items already in place that are removable and are 
+not to be painted. If removal is impractical or impossible because of size or weight of item, 
+provide surface-applied protection before surface preparation and painting. 
+1. 
+After completing painting operations, use workers skilled in the trades involved to 
+reinstall items that were removed. Remove surface-applied protection. 
+C. 
+Clean substrates of substances that could impair bond of paints, including dust, dirt, oil, grease, 
+and incompatible paints and encapsulants. 
+1. 
+Remove incompatible primers and reprime substrate with compatible primers or apply tie 
+coat as required to produce paint systems indicated. 
+D. 
+Concrete Substrates: Remove release agents, curing compounds, efflorescence, and chalk. Do 
+not paint surfaces if moisture content or alkalinity of surfaces to be painted exceeds that 
+permitted in manufacturer's written instructions. 
+E. 
+Masonry Substrates: Remove efflorescence and chalk. Do not paint surfaces if moisture content 
+or alkalinity of surfaces or mortar joints exceeds that permitted in manufacturer's written 
+instructions. 
+F. 
+Steel Substrates: Remove rust, loose mill scale, and shop primer if any. Clean using methods 
+recommended in writing by paint manufacturer.  The minimal acceptable level of cleaning is: 
+1. 
+SSPC-SP 2, "Hand Tool Cleaning." 
+2. 
+SSPC-SP 3, "Power Tool Cleaning." 
+G. 
+Shop-Primed Steel Substrates: Clean field welds, bolted connections, and abraded areas of shop 
+paint, and paint exposed areas with the same material as used for shop priming to comply with 
+SSPC-PA 1 for touching up shop-primed surfaces. 
+H. 
+Galvanized-Metal Substrates: Confirm that galvanized metal has not been passivated.  Remove 
+grease and oil residue from galvanized sheet metal fabricated from coil stock by mechanical 
+methods to produce clean, lightly etched surfaces that promote adhesion of subsequently 
+applied paints. 
+I. 
+Aluminum Substrates: Remove loose surface oxidation. 
+J. 
+Wood Substrates: 
+
+
+===== PAGE 20 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 6 of 8 
+ 
+1. 
+Scrape and clean knots. Before applying primer, apply coat of knot sealer recommended 
+in writing by topcoat manufacturer for exterior use in paint system indicated. 
+2. 
+Sand surfaces that will be exposed to view and dust off. 
+3. 
+Prime edges, ends, faces, undersides, and backsides of wood. 
+4. 
+After priming, fill holes and imperfections in the finish surfaces with putty or plastic 
+wood filler. Sand smooth when dried. 
+K. 
+Plastic Trim Fabrication Substrates: Remove dust, dirt, and other foreign material that might 
+impair bond of paints to substrates. 
+3.3 
+APPLICATION 
+A. 
+Apply paints according to manufacturer's written instructions and recommendations in "MPI 
+Manual." 
+1. 
+Use applicators and techniques suited for paint and substrate indicated. 
+2. 
+Paint surfaces behind movable items same as similar exposed surfaces. Before final 
+installation, paint surfaces behind permanently fixed items with prime coat only. 
+3. 
+Paint both sides and edges of exterior doors and entire exposed surface of exterior door 
+frames. 
+4. 
+Paint entire exposed surface of window frames and sashes. 
+5. 
+Do not paint over labels of independent testing agencies or equipment name, 
+identification, performance rating, or nomenclature plates. 
+6. 
+Primers specified in painting schedules may be omitted on items that are factory primed 
+or factory finished if acceptable to topcoat manufacturers. 
+B. 
+If undercoats or other conditions show through topcoat, apply additional coats until cured film 
+has a uniform paint finish, color, and appearance. 
+C. 
+Apply paints to produce surface films without cloudiness, spotting, holidays, laps, brush marks, 
+roller tracking, runs, sags, ropiness, or other surface imperfections. Cut in sharp lines and color 
+breaks. 
+D. 
+Painting Fire Suppression, Plumbing, HVAC, Electrical, Communication, and Electronic Safety 
+and Security Work: 
+1. 
+Paint the following work where exposed to view: 
+a. 
+Equipment, including panelboards. 
+b. 
+Uninsulated metal piping. 
+c. 
+Uninsulated plastic piping. 
+d. 
+Pipe hangers and supports. 
+e. 
+Metal conduit. 
+f. 
+Plastic conduit. 
+g. 
+Tanks that do not have factory-applied final finishes. 
+h. 
+<Insert mechanical items to be painted>. 
+3.4 
+FIELD QUALITY CONTROL 
+
+
+===== PAGE 21 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 7 of 8 
+ 
+A. 
+Dry Film Thickness Testing: Owner may engage the services of a qualified testing and 
+inspecting agency to inspect and test paint for dry film thickness. 
+1. 
+Contractor shall touch up and restore painted surfaces damaged by testing. 
+2. 
+If test results show that dry film thickness of applied paint does not comply with paint 
+manufacturer's written recommendations, Contractor shall pay for testing and apply 
+additional coats as needed to provide dry film thickness that complies with paint 
+manufacturer's written recommendations. 
+3.5 
+CLEANING AND PROTECTION 
+A. 
+At end of each workday, remove rubbish, empty cans, rags, and other discarded materials from 
+Project site. 
+B. 
+After completing paint application, clean spattered surfaces. Remove spattered paints by 
+washing, scraping, or other methods. Do not scratch or damage adjacent finished surfaces. 
+C. 
+Protect work of other trades against damage from paint application. Correct damage to work of 
+other trades by cleaning, repairing, replacing, and refinishing, as approved by Architect, and 
+leave in an undamaged condition. 
+D. 
+At completion of construction activities of other trades, touch up and restore damaged or 
+defaced painted surfaces. 
+3.6 
+EXTERIOR PAINTING SCHEDULE 
+A. 
+CMU Substrates: 
+1. 
+Latex System: 
+a. 
+Block Filler: Block filler, latex, interior/exterior: S-W PrepRite Block Filler, 
+B25W25, at 75 to 125 sq. ft. per gal. 
+b. 
+Intermediate Coat: Latex, exterior, matching topcoat. 
+c. 
+Topcoat: Latex, exterior, flat: S-W A-100 Exterior Latex Flat, A6 Series, at 4.0 
+mils wet, 1.2 mils dry, per coat. 
+d. 
+Topcoat: Latex, exterior, satin: S-W A-100 Exterior Latex Satin, A82 Series, at 4.0 
+mils wet, 1.5 mils dry, per coat. 
+B. 
+Metal Substrates (Doors, Casings, Handrails): 
+ 
+1. 
+Water-Based Light Industrial Coating System: 
+a. 
+Prime Coat: Primer, rust-inhibitive, water based: S-W Pro Industrial Pro-Cryl 
+Universal Primer, B66-310 Series, at 5.0 to 10 mils wet, 2.0 to 4.0 mils dry. 
+b. 
+Intermediate Coat: Water-based hybrid, interior, matching topcoat. 
+c. 
+Topcoat: Water-based hybrid, low sheen: S-W ProIndustrial WB Alkyd Urethane 
+Low Sheen, B53-1250 Series, at 5.0 mils wet, 1.7 mils dry, per coat. 
+d. 
+Topcoat: Water-based acrylic, semi-gloss: S-W ProIndustrial WB Alkyd Urethane 
+Semigloss, B53-1150 Series, at 5.0 mils wet, 1.7 mils dry, per coat. 
+
+
+===== PAGE 22 =====
+Nye County School District 
+Bid Documents 
+00 91 13 
+Tonopah HS Field Replacement 
+ 
+Exterior Painting 
+ 
+April 20, 2026 
+Page 8 of 8 
+ 
+e. 
+Topcoat: Water-based acrylic, gloss: S-W ProIndustrial WB Alkyd Urethane 
+Gloss, B53-1050 Series, at 5.0 mils wet, 1.7 mils dry, per coat. 
+C. 
+Metal Substrates (Miscellaneous Metal): 
+ 
+1. 
+Latex System: 
+a. 
+Prime Coat: Primer, rust-inhibitive, water based: S-W Pro Industrial Pro-Cryl 
+Universal Primer, B66-310 Series, at 5.0 to 10 mils wet, 2.0 to 4.0 mils dry. 
+b. 
+Intermediate Coat: Latex, interior, matching topcoat. 
+c. 
+Topcoat: Latex, exterior, flat: S-W A-100 Exterior Latex Flat, A6 Series, at 4.0 
+mils wet, 1.2 mils dry, per coat. 
+d. 
+Topcoat: Latex, exterior, satin: S-W A-100 Exterior Latex Satin, A82 Series, at 4.0 
+mils wet, 1.5 mils dry, per coat. 
+ 
+END OF SECTION 099113 
+
+
+===== PAGE 23 =====
+Nye County School District
+Bid Documents
+09 9123
+Tonopah HS Field Replacement
+INTERIOR PAINTING
+April 20, 2026
+Page 1 of 5
+SECTION 09 9123
+  INTERIOR PAINTING
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Surface preparation.
+B.
+Field application of paints.
+C.
+Scope: Finish interior surfaces exposed to view, unless fully factory-finished and unless
+otherwise indicated.
+1.
+Both sides and edges of plywood backboards for electrical and telecom equipment before
+installing equipment.
+2.
+Mechanical and Electrical:
+a.
+In finished areas, paint insulated and exposed pipes, conduit, boxes, insulated and
+exposed ducts, hangers, brackets, collars and supports, mechanical equipment, and
+electrical equipment, unless otherwise indicated.
+b.
+In finished areas, paint shop-primed items.
+D.
+Do Not Paint or Finish the Following Items:
+1.
+Items factory-finished unless otherwise indicated; materials and products having factory-
+applied primers are not considered factory finished.
+2.
+Items indicated to receive other finishes.
+3.
+Items indicated to remain unfinished.
+4.
+Fire rating labels, equipment serial number and capacity labels, bar code labels, and
+operating parts of equipment.
+5.
+Stainless steel, anodized aluminum, bronze, terne-coated stainless steel, and lead items.
+6.
+Floors, unless specifically indicated.
+7.
+Glass.
+8.
+Concealed pipes, ducts, and conduits.
+1.02 RELATED REQUIREMENTS
+A.
+Section 01 6116 - Volatile Organic Compound (VOC) Content Restrictions.
+B.
+Section 09 9113 -  EXTERIOR PAINTING.
+1.03 REFERENCE STANDARDS
+A.
+40 CFR 59, Subpart D - National Volatile Organic Compound Emission Standards for
+Architectural Coatings; U.S. Environmental Protection Agency; current edition.
+B.
+ASTM D4442 - Standard Test Methods for Direct Moisture Content Measurement of Wood and
+Wood-Based Materials; 2020.
+C.
+MPI (APSM) - Master Painters Institute Architectural Painting Specification Manual; Current
+Edition.
+D.
+SSPC-SP 1 - Solvent Cleaning; 2015, with Editorial Revision (2016).
+E.
+SSPC-SP 6 - Commercial Blast Cleaning; 2007.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide complete list of products to be used, with the following information for
+each:
+1.
+Manufacturer's name, product name and/or catalog number, and general product category
+(e.g., "alkyd enamel").
+2.
+MPI product number (e.g., MPI #47).
+3.
+Cross-reference to specified paint system products to be used in project; include
+description of each system.
+
+
+===== PAGE 24 =====
+Nye County School District
+Bid Documents
+09 9123
+Tonopah HS Field Replacement
+INTERIOR PAINTING
+April 20, 2026
+Page 2 of 5
+C.
+Samples: Submit three paper "draw down" samples, 8-1/2 by 11 inches (216 by 279 mm) in
+size, illustrating range of colors available for each finishing product specified.
+1.
+Where sheen is specified, submit samples in only that sheen.
+2.
+Where sheen is not specified, discuss sheen options with Architect before preparing
+samples, to eliminate sheens not required.
+D.
+Certification: By manufacturer that paints and finishes comply with VOC limits specified.
+E.
+Manufacturer's Instructions: Indicate special surface preparation procedures.
+F.
+Maintenance Data: Submit data including finish schedule showing where each
+product/color/finish was used, product technical data sheets, material safety data sheets
+(MSDS), care and cleaning instructions, touch-up procedures, repair of painted and finished
+surfaces, and color samples of each color and finish used.
+G.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project.
+1.
+See Section 01 6000 - Product Requirements, for additional provisions.
+2.
+Extra Paint and Finish Materials: 1 gal (4 L) of each color; from the same product run,
+store where directed.
+3.
+Label each container with color in addition to the manufacturer's label.
+1.05 DELIVERY, STORAGE, AND HANDLING
+A.
+Deliver products to site in sealed and labeled containers; inspect to verify acceptability.
+B.
+Container Label: Include manufacturer's name, type of paint, brand name, lot number, brand
+code, coverage, surface preparation, drying time, cleanup requirements, color designation, and
+instructions for mixing and reducing.
+C.
+Paint Materials: Store at minimum ambient temperature of 45 degrees F (7 degrees C) and a
+maximum of 90 degrees F (32 degrees C), in ventilated area, and as required by
+manufacturer's instructions.
+1.06 FIELD CONDITIONS
+A.
+Do not apply materials when surface and ambient temperatures are outside the temperature
+ranges required by the paint product manufacturer.
+B.
+Follow manufacturer's recommended procedures for producing best results, including testing of
+substrates, moisture in substrates, and humidity and temperature limitations.
+C.
+Provide lighting level of 80 fc (860 lux) measured mid-height at substrate surface.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Provide paints and finishes used in any individual system from the same manufacturer; no
+exceptions.
+B.
+Paints:
+1.
+Behr Process Corporation: www.behr.com/#sle.
+2.
+Cloverdale Paint, Brand Products of Rodda Paint Company:
+ www.cloverdalepaint.com/#sle.
+3.
+Pittsburgh Paints: www.ppgpaints.com/#sle.
+4.
+Rodda Paint Co: www.roddapaint.com/#sle.
+5.
+Sherwin-Williams Company: www.sherwin-williams.com/#sle.
+6.
+Glidden Professional, a product of PPG Architectural Coatings:
+ www.gliddenprofessional.com.
+7.
+Vista Paint: www.vistapaint.com.
+C.
+Primer Sealers: Same manufacturer as top coats.
+D.
+Substitutions: See Section 01 6000 - Product Requirements.
+
+
+===== PAGE 25 =====
+Nye County School District
+Bid Documents
+09 9123
+Tonopah HS Field Replacement
+INTERIOR PAINTING
+April 20, 2026
+Page 3 of 5
+2.02 PAINTS AND FINISHES - GENERAL
+A.
+Paints and Finishes: Ready-mixed, unless intended to be a field-catalyzed paint.
+1.
+Provide paints and finishes of a soft paste consistency, capable of being readily and
+uniformly dispersed to a homogeneous coating, with good flow and brushing properties,
+and capable of drying or curing free of streaks or sags.
+2.
+Supply each paint material in quantity required to complete entire project's work from a
+single production run.
+3.
+Do not reduce, thin, or dilute paint or finishes or add materials unless such procedure is
+specifically described in manufacturer's product instructions.
+B.
+Volatile Organic Compound (VOC) Content:
+1.
+Provide paints and finishes that comply with the most stringent requirements specified in
+the following:
+a.
+40 CFR 59, Subpart D--National Volatile Organic Compound Emission Standards for
+Architectural Coatings.
+2.
+Determination of VOC Content: Testing and calculation in accordance with 40 CFR 59,
+Subpart D (EPA Method 24), exclusive of colorants added to a tint base and water added
+at project site; or other method acceptable to authorities having jurisdiction.
+C.
+Colors: As indicated on drawings.
+1.
+In finished areas, finish pipes, ducts, conduit, and equipment the same color as the
+wall/ceiling under which they are mounted.
+2.03 PAINT SYSTEMS - INTERIOR
+A.
+​Interior Surfaces to be Painted, Unless Otherwise Indicated: Including ​gypsum board,
+uncoated steel, shop primed steel, galvanized steel, and aluminum​.
+1.
+Two top coats and one coat primer.
+2.
+Top Coat(s): Interior Latex; MPI #52, 53, 54.
+a.
+Products:
+1)
+Sherwin-Williams ProMar 200 Zero VOC Interior Latex, Flat.
+2)
+Sherwin-Williams ProMar 200 Zero VOC Interior Latex, Semi-Gloss. (MPI #43)
+3)
+Sherwin-Williams ProMar 200 Zero VOC Interior Latex, Eg-Shel. (MPI #52)
+4)
+Substitutions: See Section 01 6000 - Product Requirements
+3.
+Top Coat Sheen:
+a.
+Flat: MPI gloss level 1; use this sheen for ceilings and other overhead surfaces.
+b.
+Eggshell: MPI gloss level 3; use this sheen at all locations.
+c.
+Semi-Gloss: MPI gloss level 5; use this sheen at toilet rooms, mechanical rooms,
+electrical rooms, utility rooms, janitor rooms and similar high abuse areas.
+4.
+Primer: As recommended by top coat manufacturer for specific substrate.
+B.
+Paint I-OP-MD-DT - Medium Duty Door/Trim: For surfaces subject to frequent contact by
+occupants, including metals and wood:
+1.
+Medium duty applications include ​doors, door frames, and balustrades​.
+2.
+Two top coats and one coat primer.
+3.
+Top Coat(s): Interior Alkyd, Water Based; MPI #157, 167, 168, or 169.
+a.
+Products:
+1)
+​Sherwin Williams Pro Industrial Waterbased Alkyd Urethane​.
+2)
+Substitutions: See Section 01 6000 - Product Requirements
+4.
+Top Coat Sheen:
+a.
+Semi-Gloss: MPI gloss level 5; use this sheen at all locations.
+5.
+Primer: As recommended by top coat manufacturer for specific substrate.
+C.
+​Medium Duty ​Vertical and Overhead​: Including ​gypsum board​.
+1.
+Two top coats and one coat primer.
+2.
+Top Coat(s): High Performance Architectural Interior Latex; MPI #139, 141.
+3.
+Top Coat Sheen:
+
+
+===== PAGE 26 =====
+Nye County School District
+Bid Documents
+09 9123
+Tonopah HS Field Replacement
+INTERIOR PAINTING
+April 20, 2026
+Page 4 of 5
+a.
+Eggshell: MPI gloss level 3; use this sheen at all locations.
+b.
+Semi-Gloss: MPI gloss level 5; use this sheen at toilet rooms, mechanical rooms,
+electrical rooms, utility rooms, janitor rooms and similar high abuse areas.
+4.
+Primer: As recommended by top coat manufacturer for specific substrate.
+D.
+Dry Fall: Metals; exposed structure and overhead-mounted servicesin utilitarian spaces,
+including shop primed steel deck, structural steel, metal fabrications, galvanized ducts,
+galvanized conduit, and galvanized piping.
+1.
+Shop primer by others.
+2.
+Two top coats.
+3.
+Top Coat: Latex Dry Fall; MPI #155, 226.
+a.
+Products:
+1)
+Sherwin-Williams Waterborne Acrylic Dryfall, Semi-Gloss. (MPI #226)
+2)
+Substitutions: See Section 01 6000 - Product Requirements
+4.
+Top Coat Sheen:
+a.
+Semi-Gloss: MPI gloss level 5; use this sheen at all locations.
+E.
+Transparent Finish on Concrete Floors.
+1.
+Sealer: Water Based Sealer for Concrete Floors; MPI #99.
+a.
+Products:
+1)
+Sherwin-Williams H&C Clarishield Water-Based Wet-Look Concrete Sealer.
+(MPI #99)
+2)
+Substitutions: See Section 01 6000 - Product Requirements
+2.
+Sealer Sheen:
+a.
+Gloss: MPI gloss level 6; use this sheen at all locations.
+2.04 ACCESSORY MATERIALS
+A.
+Accessory Materials: Provide primers, sealers, cleaning agents, cleaning cloths, sanding
+materials, and clean-up materials as required for final completion of painted surfaces.
+B.
+Patching Material: Latex filler.
+C.
+Fastener Head Cover Material: Latex filler.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Do not begin application of paints and finishes until substrates have been adequately prepared.
+B.
+Verify that surfaces are ready to receive work as instructed by the product manufacturer.
+C.
+Examine surfaces scheduled to be finished prior to commencement of work. Report any
+condition that may potentially affect proper application.
+D.
+If substrate preparation is the responsibility of another installer, notify Architect of unsatisfactory
+preparation before proceeding.
+E.
+Test shop-applied primer for compatibility with subsequent cover materials.
+F.
+Measure moisture content of surfaces using an electronic moisture meter. Do not apply finishes
+unless moisture content of surfaces is below the following maximums:
+1.
+Gypsum Wallboard: 12 percent.
+2.
+Interior Wood: 15 percent, measured in accordance with ASTM D4442.
+3.
+Concrete Floors and Traffic Surfaces: 8 percent.
+3.02 PREPARATION
+A.
+Clean surfaces thoroughly and correct defects prior to application.
+B.
+Prepare surfaces using the methods recommended by the manufacturer for achieving the best
+result for the substrate under the project conditions.
+C.
+Remove or mask surface appurtenances, including electrical plates, hardware, light fixture trim,
+escutcheons, and fittings, prior to preparing surfaces or finishing.
+
+
+===== PAGE 27 =====
+Nye County School District
+Bid Documents
+09 9123
+Tonopah HS Field Replacement
+INTERIOR PAINTING
+April 20, 2026
+Page 5 of 5
+D.
+Seal surfaces that might cause bleed through or staining of topcoat.
+E.
+Concrete Floors and Traffic Surfaces: Remove contamination, acid etch and rinse floors with
+clear water. Verify required acid-alkali balance is achieved. Allow to dry.
+F.
+Gypsum Board: Fill minor defects with filler compound. Spot prime defects after repair.
+G.
+Aluminum: Remove surface contamination and oils and wash with solvent according to SSPC-
+SP 1.
+H.
+Galvanized Surfaces:
+I.
+Ferrous Metal:
+1.
+Solvent clean according to SSPC-SP 1.
+2.
+Shop-Primed Surfaces: Sand and scrape to remove loose primer and rust. Feather edges
+to make touch-up patches inconspicuous. Clean surfaces with solvent. Prime bare steel
+surfaces. Re-prime entire shop-primed item.
+3.
+Remove rust, loose mill scale, and other foreign substances using methods recommended
+in writing by paint manufacturer and blast cleaning according to SSPC-SP 6 Commercial
+Blast Cleaning. Protect from corrosion until coated.
+J.
+Wood Surfaces to Receive Opaque Finish: Wipe off dust and grit prior to priming. Seal knots,
+pitch streaks, and sappy sections with sealer. Fill nail holes and cracks after primer has dried;
+sand between coats. Back prime concealed surfaces before installation.
+K.
+Wood Doors to be Field-Finished: Seal wood door top and bottom edge surfaces with clear
+sealer.
+3.03 APPLICATION
+A.
+Remove unfinished louvers, grilles, covers, and access panels on mechanical and electrical
+components and paint separately.
+B.
+Apply products in accordance with manufacturer's written instructions and recommendations in
+"MPI Architectural Painting Specification Manual".
+C.
+Do not apply finishes to surfaces that are not dry. Allow applied coats to dry before next coat is
+applied.
+D.
+Apply each coat to uniform appearance in thicknesses specified by manufacturer.
+E.
+Sand wood and metal surfaces lightly between coats to achieve required finish.
+F.
+Vacuum clean surfaces of loose particles. Use tack cloth to remove dust and particles just prior
+to applying next coat.
+G.
+Reinstall electrical cover plates, hardware, light fixture trim, escutcheons, and fittings removed
+prior to finishing.
+END OF SECTION
+
+
+===== PAGE 28 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 29 =====
+Nye County School District
+Bid Documents
+09 9650
+Tonopah HS Field Replacement
+ANTI-GRAFFITI COATINGS
+April 20, 2026
+Page 1 of 3
+SECTION 09 9650
+ANTI-GRAFFITI COATINGS
+SUMMARY
+1.01 SECTION INCLUDES
+A.
+Permanent anti-graffiti coating system.
+1.02 RELATED SECTIONS
+A.
+Section 071900 - Water Repellents: Clear water repellent coating for application on unpainted
+masonry or concrete surfaces.
+B.
+Section 099000 - Paints and Coatings: Paint of surfaces on which graffiti coatings are applied.
+1.03 QUALITY ASSURANCE
+A.
+Contractor Qualifications:  Installer shall be a firm with not less than three years of successful
+experience in application of coatings of type required on substrates similar to those of this
+project. The firm shall be approved by the manufacturer of the coating for installation of their
+product.
+B.
+Manufacturer's representative shall inspect substrate conditions including alkalinity and
+moisture content. Obtain written approval from representative before proceeding with work.
+1.04 SUBMITTALS
+A.
+All Submittals shall be in accordance to the General and Special Conditions.
+B.
+ Instructions: Provide instructions bearing manufacturer's name, coating type, and
+recommended installation procedures. Provide methods and material instruction for graffiti
+removal. Include adhesive-backed graffiti removal instruction label suitable for application to
+interior surface.
+C.
+Submit proof of purchase (Invoice of materials purchased) and proof of delivery of coating
+materials.
+D.
+Manufacturer’s Warranty: Submit one copy of manufacturer's warranty for specified materials.
+E.
+Field Sample: Apply graffiti resistant coating to field mock-up sample representing exterior wall
+surface to be coated. Apply coating system over a minimum 3 ft x 3 ft test area and test
+removal of applied spray paint in presence of Construction Manager for approval using removal
+methods recommended by the manufacturer.
+1.
+Obtain Construction Manager inspection and approval of sample panel.
+1.05 EXTRA MATERIALS
+A.
+Furnish the following to the Owner upon completion of the Project.
+1.
+Provide four containers of removal products as recommended by the manufacturer
+accompanied by removal instructions.
+1.06 DELIVERY, STORAGE AND HANDLING
+A.
+Refer to Division 1 for product requirements: Transport, handle, store, and protect products.
+B.
+Paint orders to the manufacturer or supplier shall identify the store number, location, and
+address of project. Contractor shall require a record keeping account be established and
+maintained by the paint supplier, which records graffiti resistant paint type, brand, and quantity
+purchased, for the specific project.
+C.
+Deliver coating materials in sealed original labeled containers, bearing manufacturer's name,
+type of paint, brand name, lot number, brand code, coverage, surface preparation, drying time,
+cleanup requirements, color designation, and instructions for mixing and/or reducing.
+D.
+Store materials at minimum ambient temperature of 45 degrees F and a maximum of 90
+degrees F in ventilated area and as required by manufacturer's instructions.
+E.
+Prevent fire hazards and spontaneous combustion.
+
+
+===== PAGE 30 =====
+Nye County School District
+Bid Documents
+09 9650
+Tonopah HS Field Replacement
+ANTI-GRAFFITI COATINGS
+April 20, 2026
+Page 2 of 3
+1.07 WARRANTY
+A.
+Provide manufacturers written warranty guaranteeing effective graffiti removal for not less than
+10 years and warrant that treated surfaces can be effectively and repeatedly cleaned of graffiti
+without damage or loss of effectiveness of the graffiti resistant coating. Manufacturer shall, for
+the duration of the warranty period, guarantee replacement of product and labor to remove
+graffiti and replace graffiti resistant coating where graffiti removal has shown to be ineffective.
+1.08 PROJECT CONDITIONS
+A.
+ Environmental Requirements: Follow manufacturer's recommendations for temperature range
+in which coating may be applied.
+PART 2 PRODUCTS
+2.01 GRAFFITI RESISTANT COATING
+A.
+Graffiti resistant coating shall be a clear, non-sacrificial graffiti resistant coating which provides
+protection for exterior vertical surfaces from permanent graffiti staining and damage caused by
+spray paint and marking pens. Coating shall be suitable for application to painted and
+unpainted surfaces including masonry, concrete, metals, and EIFS. Product shall be of type
+such that recoating with the underlying paint is possible without removal of the graffiti resistant
+coating. Product shall be a coating that dries clear, non-yellowing, with a low luster.
+1.
+Manufacturer:
+a.
+Rainguard International: VandlGuard Non-Sacrificial Graffiti Coating;
+www.rainguard.com.
+B.
+Water Repellent (For first coat on unpainted concrete and masonry surfaces): As specified in
+Section 071900.
+C.
+Graffiti Remover: Rainguard Vandl Clean Super graffiti remover or other product as
+recommended by the manufacturer.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify all surfaces are ready to receive coating in accordance with manufacturer’s printed
+requirements. Beginning of installation indicates acceptance of substrate.
+B.
+Unpainted Concrete and Masonry: Verify water repellent has been applied in accordance with
+Section 071900 to new or non-painted concrete and masonry surfaces prior to the application
+of the anti-graffiti coating.
+3.02 PREPARATION
+A.
+ Surface shall be free of dirt, dust, contaminants such as curing compounds, hardeners, bond
+breakers, and form release. Allow painted surfaces to cure properly. Do not water blast
+painted surfaces. Assure surfaces are clean and dry.
+B.
+Mask or otherwise protect adjacent surfaces not scheduled to receive coating. If applied on
+unscheduled surfaces such as glass, remove immediately, by approved method.
+C.
+Protect landscaping, property, and vehicles from over spray and drift.
+3.03 APPLICATION
+A.
+Apply coating in accordance with manufacturer's published instructions.
+B.
+Application Rate: Apply each coat at the manufacturers published application rate.
+3.04 SURFACES TO BE COATED
+A.
+Apply graffiti resistant coating to all exterior exposed building surfaces visible from the ground
+level, including concrete, masonry, metal doors and frames, sheet metal items, downspouts,
+EIFS, stucco, wood, painted metal bollards, pneumatic tubing, and metal railing. Apply coating
+to painted and unpainted surfaces. Exclude horizontal surfaces subject to wheel or foot traffic.
+
+
+===== PAGE 31 =====
+Nye County School District
+Bid Documents
+09 9650
+Tonopah HS Field Replacement
+ANTI-GRAFFITI COATINGS
+April 20, 2026
+Page 3 of 3
+B.
+Apply to exterior non-building vertical surfaces including solid or semi-solid fencing, segmental
+block or concrete panel retaining walls, and masonry screening as applicable.
+C.
+On building surfaces, apply coating system to first definitive continuous horizontal demarcation
+including change in paint color or surface material but not less than 12 feet above finish grade.
+ Apply to full height of exterior overhead or coiling door surfaces. Apply to top of building if no
+definitive continuous horizontal demarcation lines exist. Exclude wall and door surfaces behind
+fenced enclosures
+3.05 MAINTENANCE
+A.
+Deliver cleaning products to the Owner for storage and subsequent use for graffiti removal.
+ Apply cleaning instructions label to interior wall location as directed by the Construction
+Manager.
+3.06 FIELD QUALITY CONTROL
+A.
+Verify application rate by periodic on-site inspection and calculation of area covered compared
+to consumption of coating material used. Document inspections showing total area covered
+and number and volume of coating containers used.
+END OF SECTION
+
+
+===== PAGE 32 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 33 =====
+Nye County School District
+Bid Documents
+09 9723
+Tonopah HS Field Replacement
+Concrete and Masonry Coatings
+April 20, 2026
+Page 1 of 1
+SECTION 09 9723
+CONCRETE AND MASONRY COATINGS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Moisture resistant smooth concrete coatings.
+1.02 RELATED REQUIREMENTS
+A.
+Section 01 6116 - Volatile Organic Compound (VOC) Content Restrictions.
+1.03 REFERENCE STANDARDS
+A.
+ASTM D968 - Standard Test Methods for Abrasion Resistance of Organic Coatings by Falling
+Abrasive; 2022.
+B.
+ASTM D1653 - Standard Test Methods for Water Vapor Transmission of Organic Coating
+Films; 2013 (Reapproved 2021).
+C.
+ASTM D2247 - Standard Practice for Testing Water Resistance of Coatings in 100 % Relative
+Humidity; 2015 (Reapproved 2020).
+D.
+ASTM E96/E96M - Standard Test Methods for Gravimetric Determination of Water Vapor
+Transmission Rate of Materials; 2022a, with Editorial Revision (2023).
+E.
+SSPC-SP 7 - Brush-Off Blast Cleaning; 2007.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide data indicating coating materials and ________.
+1.05 WARRANTY
+A.
+See Section 01 7800 - Closeout Submittals, for additional warranty requirements.
+B.
+Correct defective Work within a five year period after Date of Substantial Completion.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Concrete and Masonry Coatings:
+1.
+Textured Coatings of America, Inc; _____: www.texcote.com/#sle.
+2.
+Substitutions: Section 01 6000 - Product Requirements.
+2.02 MATERIALS
+A.
+Coatings - General: Provide complete systems formulated and recommended by manufacturer
+for the applications indicated, in the thicknesses indicated.
+PART 3 EXECUTION
+3.01 PRIMING
+A.
+Apply primer to all surfaces, unless specifically not required by coating manufacturer. Apply in
+accordance with coating manufacturer's instructions.
+3.02 COATING APPLICATION
+A.
+Apply coatings in accordance with manufacturer's instructions, to thicknesses specified.
+B.
+Apply in uniform thickness coats, without runs, drips, pinholes, brush marks, or variations in
+color, texture, or finish. Finish edges, crevices, corners, and other changes in dimension with
+full coating thickness.
+END OF SECTION
+
+
+===== PAGE 34 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank

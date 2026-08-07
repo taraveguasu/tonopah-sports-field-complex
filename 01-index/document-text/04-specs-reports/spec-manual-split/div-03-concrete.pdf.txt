@@ -1,0 +1,2111 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 1000
+Tonopah HS Field Replacement 
+ 
+Concrete Formwork
+ 
+April 20, 2026 
+Page 1 of 6
+ 
+ 
+SECTION 03 10 00 
+CONCRETE FORMWORK 
+PART 1  GENERAL 
+1.01 SECTION INCLUDES 
+A. 
+Design, construction and treatment of formwork and related accessories to confine and shape 
+concrete to the required dimensions. 
+B. 
+Installation of embedded items such as waterstops, flashings and reglets. 
+1.02 RELATED WORK  
+A. 
+Pertinent Sections of Division 01. 
+B. 
+Section 03 20 00 - Concrete Reinforcement. 
+C. 
+Section 03 30 00 - Cast-in-Place Concrete. 
+1.03 REFERENCES 
+A. 
+Codes and Standards: Comply with the provisions of the following codes, specifications, and 
+standards except where more stringent requirements are shown or specified. Where provisions 
+of the pertinent codes and standards conflict with this specification, the more stringent provision 
+shall govern. 
+1. 
+ACI 117 - Specification for Tolerances for Concrete Construction and Materials. 
+2. 
+ACI 301 - Specifications for Structural Concrete. 
+3. 
+ACI 318 - Building Code Requirements for Structural Concrete. 
+4. 
+ACI 347 - Guide to Formwork for Concrete. 
+5. 
+NIST - PS 1: Structural Plywood 
+1.04 DESIGN REQUIREMENTS 
+A. 
+Design and engineering of formwork is the responsibility of the Contractor.  Design, engineer 
+and construct formwork, shoring, and bracing to conform to Contract Documents and in 
+accordance with building code requirements.  Formwork design shall be under direct 
+supervision of a Structural engineer experienced in the design of this work and licensed in the 
+State where the project is located.   Design for construction loads, lateral pressure, and 
+requirements of the applicable building code to conform to the required shape, line and 
+dimensions.  Contractor is responsible for formwork camber calculations. 
+B. 
+Foundation concrete may be placed directly into neat excavations, provided the foundation 
+trench walls are stable as determined by the Geotechnical Engineer. Ensure clean excavations 
+immediately prior to and during the placing of concrete. 
+C. 
+Drawings show the design requirements and dimensions for structural strength, but structural 
+drawings do not show all detail dimensions to fit intricate architectural and mechanical detail.  
+Contractor shall construct the concrete work so that it will conform to the clearance required by 
+the architectural, mechanical, and electrical design. 
+D. 
+Maximum deflection of facing materials forming concrete surfaces exposed to view shall be 
+1/240 of the center-to-center span between structural members of the formwork. 
+E. 
+Carry vertical and lateral loads to the ground by a formwork system and in-place construction 
+that has attained adequate strength for that purpose. 
+1.05 SUBMITTALS 
+A. 
+Product Data: Submit manufacturer's product data, installation instructions and specifications 
+for each of the following: 
+1. 
+Waterstop profiles 
+2. 
+Form sealer 
+3. 
+Form release agent(s), including certification that agent is compatible with finish 
+4. 
+Form ties and spreaders 
+
+
+===== PAGE 2 =====
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 1000
+Tonopah HS Field Replacement 
+ 
+Concrete Formwork
+ 
+April 20, 2026 
+Page 2 of 6
+ 
+ 
+B. 
+Testing for Formwork Removal: When methods other than cylinder tests are proposed for 
+determining time for formwork removal, submit data on methods for approval. 
+C. 
+Shop Drawings: Prepare and submit shop drawings for formwork, including dimensional layout 
+for foundations, walls and  columns. 
+D. 
+Construction Joints: Submit layout of construction joints and details of construction joints. 
+1.06 COORDINATION  
+A. 
+Coordinate with other sections of work that require attachment of components to formwork. 
+B. 
+If formwork is placed after reinforcement, resulting in insufficient concrete cover to 
+reinforcement, request instructions from the Owner's Representative or Architect or Structural 
+Engineer before proceeding. 
+PART 2  PRODUCTS 
+2.01 
+MATERIALS AND ACCESSORIES 
+A. 
+Formwork Accessories: Use commercially manufactured accessories for formwork accessories 
+partially or completely embedded in concrete, including ties and hangers. 
+B. 
+Sealer: Clear, penetrating, synthetic resin sealer. 
+C. 
+Formwork Release Agent: Use commercially manufactured form release agents that will 
+prevent formwork absorption of moisture, prevent bond with concrete, and will not stain the 
+concrete surface. Reapply to cleaned forms before each reuse. Formwork release agent shall 
+be compatible with paint or any other finish applied to the concrete; submit data indicating 
+compatibility. 
+D. 
+Waterstops: Waterstops shall be a flexible butyl rubber and bentonite clay compound that 
+swells upon contact with water.  
+1. 
+Manufacturers: 
+a. 
+CETCO - Waterstop RX 
+b. 
+Greenstreak - Swellstop 
+c. 
+J.P. Specialties - Earth Shield (Type 20 & 23) Waterstop 
+E. 
+Form Material: 
+1. 
+No aluminum shall be allowed in the concrete work unless coated to prevent aluminum-
+concrete reaction. 
+2. 
+Concrete form materials must be used in a manner to provide the surface finish specified. 
+3. 
+Forms for Cylindrical Columns, Pedestals, and Supports: Metal, glass-fiber-reinforced 
+plastic, paper, or fiber tubes that will not produce surfaces with gradual or abrupt 
+irregularities exceeding specified formwork surface class. Provide units with sufficient wall 
+thickness to resist plastic concrete loads without detrimental deformation or securely 
+clamp together providing tight joints. 
+4. 
+Design formwork in accordance with the provisions of the building code or the following 
+standards if not covered in the building code: 
+a. 
+Wood - AWC "National Design Specification". 
+b. 
+Plywood - American Plywood Association "Plywood Design Specification". 
+c. 
+Steel - AISC "Manual of Steel Construction". 
+F. 
+Chamfer Strips: 
+1. 
+Chamfer strips shall be the size as indicated on the drawings as occurs. Provide in 
+maximum possible lengths. 
+G. 
+Keyways: 
+1. 
+Provide keyways as shown on the drawings. Unless noted otherwise, keyways shall be a 
+minimum of 1-1/2 inches deep and 3-1/2 inches wide. Bevel edges of keyways 10 degrees 
+to facilitate stripping. 
+
+
+===== PAGE 3 =====
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 1000
+Tonopah HS Field Replacement 
+ 
+Concrete Formwork
+ 
+April 20, 2026 
+Page 3 of 6
+ 
+ 
+2.02 FORM FINISHES 
+A. 
+Rough Form Finish: 
+1. 
+Concrete surfaces not exposed to view in the finished work shall have a rough-form finish. 
+No form-facing material is specified for rough-form finish. 
+2. 
+Set and maintain forms so finished concrete dimensions shall conform to the tolerances. 
+Rough form finish is Designated Surface Finish-1.0 from ACI 301, except that surface 
+tolerance Class C is required as specified in ACI 117. 
+B. 
+Smooth Form Finish: 
+1. 
+Concrete surfaces exposed to view in the finished work or surfaces to receive finishes of 
+any type (paint, textured paint, etc.) shall have a smooth form finish. Form-facing material 
+shall be plywood, tempered concrete-form-grade hardboard, metal, plastic, paper, or other 
+acceptable material capable of producing the desired finish. Form-facing material shall 
+produce a smooth, uniform texture on the concrete. Do not use form facing material with 
+raised grain, torn surfaces, worn edges, patches, dents, or other defects that might impair 
+the texture of the concrete surfaces. 
+2. 
+Set and maintain forms so finished concrete dimensions shall conform to the tolerances. 
+Smooth form finish is Designated Surface Finish-3.0 from ACI 301, including surface 
+tolerance Class A as specified in ACI 117. 
+C. 
+Patching and repairing concrete finishes are specified under Section 03 30 00. 
+2.03 FABRICATION AND MANUFACTURE 
+A. 
+Form Ties and Spreaders: Factory-fabricated, removable or snap-off metal or glass-fiber-
+reinforced plastic form ties designed to resist lateral pressure of fresh concrete on forms, hold 
+inner and outer forms for vertical concrete together, and to prevent spalling of concrete on 
+removal. 
+1. 
+Furnish units that will leave no corrodible metal closer than 1-1/2 inchto the plane of the 
+exposed concrete surface. 
+2. 
+Furnish ties that, when removed, will leave holes not larger than 1 inch in diameter in the 
+concrete surface. 
+3. 
+Furnish ties with integral water-barrier plates to walls indicated to receive dampproofing or 
+waterproofing. 
+4. 
+At horizontal pour lines, locate ties not more than 6" below the pour lines. Tighten after 
+concrete has set and before the next pour is made. 
+5. 
+For exposed concrete surfaces, provide form ties of removable type with permanent plugs 
+and a system approved by the Architect for fixing the plugs in place. 
+B. 
+Waterstops: Fabricate pieces of premolded waterstop with a maximum practicable length to 
+hold the number of end joints to a minimum. Fabricate joints in waterstops in accordance with 
+the manufacturer's recommendations. 
+PART 3  EXECUTION 
+3.01 CONSTRUCTION OF TEMPORARY FORMWORK 
+A. 
+In accordance with ACI 301, construct formwork: 
+1. 
+Design, erect, shore, brace, and maintain formwork to support vertical, lateral, static, and 
+dynamic loads, and construction loads that might be applied, until the concrete structure 
+can support such loads. 
+2. 
+Obtain approval before framing openings in structural members not indicated on the 
+drawings. 
+B. 
+Fabricate forms for easy removal without hammering or prying against concrete surfaces. 
+1. 
+Provide crush or wrecking plates where stripping may damage cast concrete surfaces. 
+2. 
+Provide top forms for inclined surfaces where slope is too steep to place concrete with 
+bottom forms only. 
+3. 
+Chamfer wood inserts for forming keyways, reglets, recesses, and the like to allow wood 
+to swell without spalling concrete and to ensure easy removal. 
+
+
+===== PAGE 4 =====
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 1000
+Tonopah HS Field Replacement 
+ 
+Concrete Formwork
+ 
+April 20, 2026 
+Page 4 of 6
+ 
+ 
+C. 
+Falsework: 
+1. 
+Verify lines, levels, and centers before proceeding with formwork. Ensure dimensions 
+agree with the drawings. 
+2. 
+Fasten form wedges in place after final adjustment of forms and prior to concrete 
+placement. 
+3. 
+Anchor formwork to shores, supporting surfaces, or members to prevent upward or lateral 
+movement of the formwork system during concrete placement. 
+4. 
+Securely brace and shore forms to prevent displacement and to safely support 
+construction loads. 
+5. 
+Construct forms plumb and straight to conform to slopes, lines, and dimensions shown. 
+6. 
+Set edge forms, bulkheads, and intermediate screed strips for slabs to achieve required 
+elevations and slopes in finished concrete surfaces. Provide and secure units to support 
+screed strips; use strike-off templates or compacting-type screeds. 
+D. 
+Where end-of-work sequence requires a joint in the concrete, provide adequately designed 
+additional formwork. Extend reinforcement through formwork and key joints as indicated on the 
+drawings. Location of the construction joint is subject to approval by the Architect and the 
+Structural Engineer. 
+E. 
+Forms for Exposed Concrete: 
+1. 
+At construction joints, lap contact surface of the form sheathing for flush surfaces exposed 
+to view over the hardened concrete in the previous placement by not more than 1 inch. 
+Ensure formwork is held firmly against hardened concrete to prevent offsets or loss of 
+mortar at construction joints and to maintain a true surface. 
+2. 
+Provide watertight formwork when architectural exposed concrete is specified. 
+3. 
+Unless specified in the Contract Documents, construct formwork so concrete surfaces 
+conform to tolerance limits. The class of surface for offset between adjacent pieces of 
+formwork facing material shall be Class C, unless specified otherwise. 
+4. 
+Do not use metal cover plates for patching holes or defects in forms. 
+5. 
+Provide sharp, clean corners at intersecting plans, without visible edges or offsets. 
+6. 
+Fill all unwanted joint openings with specified joint filler and finish flush to match adjacent 
+form surfaces. 
+F. 
+Do not use rust-stained steel form-facing material. 
+G. 
+Provide temporary openings at the base of column and wall formwork and at other points where 
+necessary to facilitate cleaning and inspection. 
+H. 
+Unless noted otherwise, all footings shall be centered under walls, piers, or columns. 
+I. 
+Provisions for Other Trades: 
+1. 
+Place sleeves, inserts, anchors, and embedded items required for adjoining work or for 
+support of adjoining work prior to concrete placement. 
+2. 
+Position and support expansion joint material and other embedded items to prevent 
+displacement. Fill voids in sleeves, inserts, and anchor slots temporarily with readily 
+removable material to prevent entry of concrete into voids. 
+J. 
+Projecting corners of  walls and columns shall be formed with a 3/4-inch chamfer, unless noted 
+otherwise on architectural drawings. 
+K. 
+Cleaning: 
+1. 
+Clean surfaces of formwork and embedded materials of mortar, grout, and foreign material 
+before concrete is placed. 
+2. 
+Cover surfaces of formwork with acceptable formwork release agent. Apply form release 
+agent before placing reinforcing steel and concrete according to manufacturer's written 
+instructions. Do not allow formwork release agent to puddle in forms. Do not allow 
+formwork release agent to contact reinforcing steel or hardened concrete against which 
+fresh concrete is to be placed. Do not apply form release agent to concrete surfaces 
+receiving special finishes or applied coverings affected by the agent. 
+
+
+===== PAGE 5 =====
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 1000
+Tonopah HS Field Replacement 
+ 
+Concrete Formwork
+ 
+April 20, 2026 
+Page 5 of 6
+ 
+ 
+3. 
+Clean and inspect formwork immediately before concrete is placed. 
+L. 
+Hand trim sides and bottom of earth forms. Remove loose soil prior to placing concrete. 
+3.02 COORDINATION 
+A. 
+Install all required pipe sleeves, cavities or slots. Notify appropriate trades in due time so they 
+may furnish information and make necessary installations. Check sizes, location and alignment 
+of all openings, frames and other work, which are to be built-in including electrical boxes and 
+conduit. 
+B. 
+Core drilling concrete is not permitted unless noted otherwise or approved in writing by the 
+Architect. Notify the Architect in advance of conditions not shown on the drawings. 
+3.03 INSTALLATION OF EMBEDDED ITEMS 
+A. 
+Built-In Items: 
+1. 
+Confirm with Architect that all materials to be embedded are suitable for embedment in 
+concrete. 
+2. 
+Build in anchors, inserts, and other devices indicated or required for various portions of 
+work. 
+3. 
+Build in sleeves, thimbles, and other items furnished or set in place by other trades. 
+4. 
+Accurately position and support all embedded items prior to concrete placement. Secure 
+embedded items against displacement during concrete placement operations. 
+5. 
+Fill voids with readily removable material to prevent entry of concrete into voids. 
+6. 
+Mechanical and Electrical shall provide and set required sleeves. 
+7. 
+Coordinate setting of all embedded items. 
+B. 
+Waterstops: 
+1. 
+Locate waterstops in joints where indicated on the drawings. 
+2. 
+Build in waterstops using longest unbroken lengths possible to hold the number of end 
+splices to a minimum. 
+3. 
+Form splices and intersections strictly according to the manufacturer's instructions so 
+waterstops are continuous and develop an effective watertight joint. 
+4. 
+In general, waterstops should be located just behind outermost layer of reinforcing. Do not 
+place waterstops closer than 2" from face of concrete. 
+3.04 TOLERANCES  
+A. 
+Construction formwork to maintain tolerances required by ACI 301 and ACI 117. 
+3.05 REMOVAL OF FORMS 
+A. 
+When removal of formwork is based on concrete reaching a specified compressive strength, 
+concrete will be presumed to have reached this strength when either of the following 
+requirements has been met: 
+1. 
+Test cylinders, molded and cured under the same conditions for moisture and temperature 
+as used for the concrete they represent, have reached the specified compressive strength. 
+B. 
+Forms shall remain in place for the following periods of time. These periods represent 
+cumulative number days or hours, not necessarily consecutive, during which the temperature of 
+the air surrounding the concrete is above 50°F: 
+1. 
+Walls, Grade Beams, Columns,  and Footings: 67% specified compressive strength or 
+minimum 24 hours. 
+C. 
+When finishing is required, remove forms as soon as removal operations will not damage 
+concrete. 
+3.06 FASTENER REMOVAL 
+A. 
+Remove all protruding fasteners left as a result of securing inserts to forms by Contractor 
+responsible for insert. 
+B. 
+Cutting flush with surface is not acceptable. 
+
+
+===== PAGE 6 =====
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 1000
+Tonopah HS Field Replacement 
+ 
+Concrete Formwork
+ 
+April 20, 2026 
+Page 6 of 6
+ 
+ 
+C. 
+Patch exposed concrete surfaces if damaged during fastener removal process. 
+3.07 REMOVING AND REUSING FORMS 
+A. 
+Clean and repair surfaces of forms to be reused in the Work. Split, frayed, delaminated, or 
+otherwise damaged form-facing material will not be acceptable for exposed surfaces. Apply 
+new form-release agent. 
+B. 
+When forms are reused, clean surfaces, remove fins and laitance, and tighten to close joints. 
+Align and secure joints to avoid offsets. Do not use patched forms for exposed concrete 
+surfaces unless approved by the Architect. 
+ 
+END OF SECTION 
+
+
+===== PAGE 7 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 2000
+Tonopah HS Field Replacement 
+ 
+Concrete Reinforcement
+ 
+April 20, 2026 
+Page 1 of 4
+ 
+SECTION 03 20 00 
+ CONCRETE REINFORCEMENT 
+PART 1 - GENERAL 
+1.01 SECTION INCLUDES 
+A. 
+Fabrication and placement of reinforcing steel for concrete and all related accessories. 
+B. 
+Reinforcing steel for use in , masonry is specified in Division 4 and is not a part of the work in 
+this section. 
+C. 
+Structural notes indicated on the drawings regarding concrete reinforcement shall be 
+considered a part of this specification. 
+1.02 RELATED WORK 
+A. 
+Pertinent Sections of Division 01. 
+B. 
+Section 03 30 00 - Cast-in-Place Concrete. 
+1.03 REFERENCES 
+A. 
+Codes and Standards: Comply with the provisions of the following codes, specifications, and 
+standards, except where more stringent requirements are shown or specified. Where provisions 
+of other pertinent codes and standards conflict with this specification, the more stringent 
+provision shall govern. 
+1. 
+ACI 117 - Specification for Tolerances for Concrete Construction and Materials. 
+2. 
+ACI 301 - Specifications for Structural Concrete. 
+3. 
+ACI 318 - Building Code Requirements for Structural Concrete. 
+4. 
+ACI SP-066 - ACI Detailing Manual. 
+5. 
+ASTM A184 - Standard Specification for Welded Deformed Steel Bar Mats for Concrete 
+Reinforcement. 
+6. 
+ASTM A615 - Standard Specification for Deformed and Plain Carbon-Steel Bars for 
+Concrete Reinforcement. 
+7. 
+ASTM A706 - Standard Specification for Deformed and Plain Low-Allow Steel Bars for 
+Concrete Reinforcement. 
+8. 
+ASTM A1064 - Standard Specification for Carbon-Steel Wire and Welded Wire 
+Reinforcement, Plain and Deformed, for Concrete. 
+9. 
+AWS D1.4 - Structural Welding Code - Reinforcing Steel. 
+10. AWD D1.8 - Structural Welding Code - Seismic Supplement. 
+11. Concrete Reinforcing Steel Institute (CRSI) - Manual of Standard Practice. 
+1.04 SUBMITTALS 
+A. 
+Placing Drawings: Submit placing drawings showing fabrication dimensions and locations for 
+placement of reinforcement and reinforcement accessories. Indicate bar sizes, spacing, 
+locations, and quantities of reinforcing steel, bending and cutting diagrams, anchors, and 
+supporting and spacing devices. Dowels shall be shown in placing drawings for the element 
+that is to be placed first. Reinforcing steel descriptions or shop drawings shall be inch-pound 
+sizes. 
+B. 
+Product Data: Submit product data sheets for all specified products. 
+C. 
+Manufacturer's Certifications: 
+1. 
+Submit mill certifications at time of delivery. 
+2. 
+Submit carbon equivalent (CE) for reinforcing bars to be welded. 
+D. 
+Splices: Submit request for splices not indicated in the Contract Documents. Request shall 
+indicate locations, types, and lengths of splices for approval. 
+
+
+===== PAGE 8 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 2000
+Tonopah HS Field Replacement 
+ 
+Concrete Reinforcement
+ 
+April 20, 2026 
+Page 2 of 4
+ 
+E. 
+Field Bending: Submit requests and procedure for field bending or straightening of 
+reinforcement partially embedded in concrete not described in the Contract Documents. 
+F. 
+Reinforcement Relocation: Submit requests to adjust reinforcement spacing necessitated by 
+conflicts with other reinforcement, conduits, etc. for approval. 
+G. 
+Mechanical Connections: Submit request for the use of mechanical connections not shown on 
+the project drawings. Include engineering data on proprietary connection devices for approval. 
+H. 
+Welding Procedure Specifications: For welding of reinforcing steel, include designations of 
+processes (e.g. SMAW, GAMW, FCAW, etc.), weld symbols, and details. All WPS shall be 
+qualified by current Procedure Qualification Record (PQR) per AWS D1.4 and approved by the 
+Structural Engineer. 
+1.05 COORDINATION 
+A. 
+Coordinate reinforcement installation with the placement of formwork and other embedded 
+items such as inserts, conduit, pipe sleeves, drains, metal supports, anchor rods, etc. 
+1.06 DELIVERY, STORAGE AND HANDLING 
+A. 
+Deliver reinforcement to the jobsite in bundles sorted and labeled with durable tags indicating 
+bar size, length, and shop drawing mark. Bundles shall also bear testing laboratory tags 
+indicating identified steel. 
+B. 
+Store elevated clear of ground and protect at all times from contamination and deterioration. 
+C. 
+Prevent bending, coating with earth, oil, or other material, or otherwise damaging the 
+reinforcement. 
+D. 
+Store welding electrodes in accordance with the requirements of AWS D1.4. 
+PART 2 - PRODUCTS 
+2.01 MATERIALS 
+A. 
+Bar Deformations: Bars used for reinforcement shall be deformed except  welded wire 
+reinforcement, which may be plain. 
+B. 
+Reinforcing Steel: Reinforcing steel shall conform to the ASTM standard and grade indicated in 
+the General Notes on the drawings. 
+C. 
+Welded Wire Reinforcement: Welded wire reinforcement shall conform to the ASTM standard 
+indicated in the General Notes on the drawings. 
+D. 
+Bar Supports: Bolsters, chairs, spacers, and other devices for spacing, supporting, and 
+fastening reinforcing bars and welded wire reinforcement in place. Manufacture bar supports 
+according to CRSI's "Manual of Standard Practice" from steel wire, plastic, precast concrete, or 
+fiber-reinforced concrete of greater compressive strength than concrete.  
+1. 
+Concrete cast against earth: Bars may be supported by precast concrete bricks or 
+approved prefabricated wire bar supports complying with CRSI recommendations with 
+footpads large enough to support the weight of the bars and construction traffic without 
+being pushed into underlying grade. Precast concrete blocks shall have a minimum 
+compressive strength of 6,000 psi. 
+2.02 FABRICATION 
+A. 
+Fabrication Tolerances: Reinforcing steel shall be shop fabricated within tolerances according 
+to ACI 117 and other applicable codes, and shall conform in size, shape, quantity, dimensions, 
+etc. to the construction drawings and approved shop drawings. 
+B. 
+Bar Condition: Bars shall be free from mill scale, excessive rust, and other coatings, which 
+would reduce or destroy the bond with the concrete. Wipe oil from forms before reinforcement 
+is placed on or adjacent to so that oil will not be tracked over or in any way come into contact 
+with the reinforcement. 
+
+
+===== PAGE 9 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 2000
+Tonopah HS Field Replacement 
+ 
+Concrete Reinforcement
+ 
+April 20, 2026 
+Page 3 of 4
+ 
+C. 
+Bars Bending: Bars shall be bent cold, and no method of fabrication shall be used which would 
+be injurious to the material. Heating of bars for bending is not permitted. 
+D. 
+Identification: After fabrication, bars shall be sorted, bundled, and tagged with metal tags 
+bearing the bar mark before delivery to the jobsite. 
+E. 
+Splicing: 
+1. 
+Continuous reinforcing in  grade beams shall be lapped as follows unless noted otherwise: 
+a. 
+Top bars: Midspan 
+b. 
+Bottom bars: Directly over support 
+2. 
+Column splice reinforcing bars shall have shop fabricated offset bends at splices. Column 
+lap splices shall be 30 bar diameters unless noted otherwise. 
+3. 
+Locate reinforcing splices not indicated on drawings at point of minimum stress. Review 
+location of splices with the Structural Engineer and obtain written approval prior to 
+proceeding. 
+F. 
+Where  grade beams are simple span, top bars shall be continuous for full length and hooked 
+down at each end. 
+G. 
+Reinforcing for continuous footings shall extend into spread footings a minimum of 2'-0". 
+H. 
+Dowels between footings and walls or columns shall be the same grade, size and spacing or 
+number as the vertical reinforcing respectively, unless noted otherwise. 
+I. 
+Welding: Do not weld crossing bars (tack welding) for assembly of reinforcement, supports, or 
+embedded items. 
+PART 3 - EXECUTION 
+3.01 PLACING 
+A. 
+Reinforcement Relocation: When necessary to move reinforcement beyond the specified 
+spacing to avoid interference with other reinforcement, or embedded items, submit resulting 
+arrangement of reinforcement to Structural Engineer for approval. 
+B. 
+Reinforcement Cutting: Cutting of reinforcement which conflicts with embedded objects is not 
+acceptable. 
+C. 
+Welded Wire Reinforcement: Extend welded wire reinforcement to within 1 inch of the concrete 
+edge. Lap edges and ends of fabric sheets a minimum of two full mesh squares Insert. Lace 
+edges with 16-gauge tie wire. Support welded wire reinforcement during placing of concrete to 
+assure required positioning in the slab. Do not place wire reinforcement on grade or metal deck 
+and raise into position in freshly-placed concrete. 
+D. 
+Column Dowels: Furnish and use templates for placement of column dowels unless approved 
+in writing by the Structural Engineer. 
+E. 
+Wire Tie Orientation: Set wire ties so ends are directed away from the concrete surface. 
+F. 
+Slab on Grade Reinforcement Placement: Place shrinkage and temperature reinforcement 1/3 
+of the slab thickness from the top surface of the slabs on grade unless noted otherwise on the 
+drawings. 
+G. 
+Do not cut, displace, or puncture vapor retarder. Repair damage and reseal vapor retarder 
+before placing concrete. 
+H. 
+Support for Reinforcement: Unless noted otherwise, supports for reinforcement shall have 
+Class 2 protection as defined in the CRSI Manual of Standard Practice. Submit data on 
+supports indicating class of protection at all different locations for approval. Supports shall not 
+be used as bases for runways for concrete-conveying equipment and similar construction 
+loads. Do not place reinforcing bars more than 2" beyond last leg of any continuous bar 
+support. 
+
+
+===== PAGE 10 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 2000
+Tonopah HS Field Replacement 
+ 
+Concrete Reinforcement
+ 
+April 20, 2026 
+Page 4 of 4
+ 
+I. 
+Support for Bars in Concrete Cast on Ground: Bar supports for slabs on grade, grade beams, 
+footings, and all other concrete cast directly onto grade shall be supported at an average 
+spacing of 4 feet or less in each direction. 
+J. 
+Securing Reinforcing Bars: All bars must be placed, spaced, secured, and supported prior to 
+casting concrete. Bars embedded in hardened or partially hardened concrete shall not be bent 
+unless approved in writing prior to placement by the Structural Engineer. 
+K. 
+Foot Traffic: Restrict foot traffic over the slab on grade reinforcing after it has been properly 
+positioned. 
+L. 
+Reinforcement at Expansion Joints: Do not continue reinforcement or other embedded metal 
+items bonded to concrete through expansion joints. Dowels bonded on only one side of a joint 
+and waterstops may extend through joint. 
+M. 
+Pumping Concrete: When using a pump to place concrete, pump hose shall be supported 
+directly on forms. Do not allow hose to rest on reinforcing bars if doing so could cause 
+displacement of bars. 
+END OF SECTION 
+
+
+===== PAGE 11 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 1 of 15
+ 
+SECTION 03 30 00 
+CAST-IN-PLACE CONCRETE 
+PART 1  GENERAL 
+1.01 SECTION INCLUDES 
+A. 
+All items required for executing and completing the cast-in-place concrete work and related 
+work shown on the drawings or specified herein. Work shall include installation of items 
+furnished in other sections of these specifications. 
+B. 
+Structural notes indicated on the drawings regarding cast-in-place concrete shall be considered 
+a part of this specification. 
+1.02 RELATED WORK  
+A. 
+Pertinent Sections of Division 01. 
+B. 
+Section 03 20 00 - Concrete Reinforcement. 
+1.03 REFERENCES  
+A. 
+Codes and Standards: Comply with the provisions of the following codes, specifications, and 
+standards, except where more stringent requirements are shown or specified. Where any 
+provision of other pertinent codes and standards conflict with this specification, the more 
+stringent provision shall govern. 
+1. 
+ACI 117 - Specification for Tolerances for Concrete Construction and Materials. 
+2. 
+ACI 301 - Specifications for Structural Concrete. 
+3. 
+ACI 302.1R - Guide to Concrete Floor and Slab Construction. 
+4. 
+ACI 302.2R - Guide for Concrete Slabs that Received Moisture-Sensitive Flooring 
+Materials. 
+5. 
+ACI 304R - Guide to Measuring, Mixing, Transporting, and Placing Concrete. 
+6. 
+ACI 305.1 - Specification for Hot Weather Concreting. 
+7. 
+ACI 306.1 - Guide to Cold Weather Concreting. 
+8. 
+ACI 308R - Guide to External Curing of Concrete. 
+9. 
+ACI 309R - Guide for Consolidation of Concrete. 
+10. ACI 318 - Building Code Requirements for Structural Concrete. 
+11. ACI 347R - Guide to Formwork for Concrete. 
+12. ASTM C31 - Standard Practice for Making and Curing Concrete Test Specimens in the 
+Field. 
+13. ASTM C33 - Standard Specification for Concrete Aggregates. 
+14. ASTM C39 - Standard Test Method for Compressive Strength of Cylindrical Concrete 
+Specimens. 
+15. ASTM C42 - Standard Test Method for Obtaining and Testing Drilled Cores and Sawed 
+Beams of Concrete. 
+16. ASTM C94 - Standard Specification for Ready-Mixed Concrete. 
+17. ASTM C138 - Standard Test Method for Density (Unit Weight), Yield, and Air Content 
+(Gravimetric) of Concrete. 
+18. ASTM C143 - Standard Test Method for Slump of Hydraulic Cement Concrete. 
+19. ASTM C150 - Standard Specification for Portland Cement. 
+20. ASTM C171 - Standard Specification for Sheet Materials for Curing Concrete. 
+21. ASTM C172 - Standard Practice for Sampling Freshly Mixed Concrete. 
+22. ASTM C173 - Standard Test Method for Air Content of Freshly Mixed Concrete by the 
+Volumetric Method. 
+23. ASTM C309 - Standard Specification for Liquid Membrane-Forming Compounds for 
+Curing Concrete. 
+24. ASTM C494 - Standard Specification for Chemical Admixtures for Concrete. 
+
+
+===== PAGE 12 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 2 of 15
+ 
+25. ASTM C618 - Standard Specification for Coal Fly Ash and Raw or Calcined Natural 
+Pozzolan for Use in Concrete. 
+26. ASTM C1064 - Standard Test Method for Temperature of Freshly Mixed Hydraulic 
+Cement Concrete. 
+27. ASTM C1077 - Standard Practice for Agencies Testing Concrete and Concrete 
+Aggregates for Use in Construction and Criteria for Testing Agency Evaluation. 
+28. ASTM C1107 - Standard Specification for Packaged Dry, Hydraulic-Cement Grout 
+(Nonshrink). 
+29. ASTM D1751 - Standard Specification for Preformed Expansion Joint Filler for Concrete 
+Paving and Structural Construction (Nonextruding and Resilient Bituminous Types). 
+30. ASTM D2103 - Standard Specification for Polyethylene Film and Sheeting. 
+31. ASTM E154 - Standard Test Methods for Water Vapor Retarders Used in Contact with 
+Earth Under Concrete Slabs, on Walls, or as Ground Cover. 
+32. ASTM E329 - Standard Specification for Agencies Engaged in Construction Inspection, 
+Testing, or Special Inspection. 
+33. ASTM E1155 - Standard Test Method for Determining FF Floor Flatness and FL Floor 
+Levelness Numbers. 
+34. Concrete Reinforcing Steel Institute (CRSI) - Manual of Standard Practice. 
+1.04 SAMPLING AND TESTING REQUIREMENTS 
+A. 
+Maintain records verifying materials used are of the specified and accepted types and sizes 
+and are in conformance with the requirements of the Contract Documents. 
+B. 
+Use of testing services will not relieve the Contractor of the responsibility to furnish materials 
+and construction in full compliance with the Contract Documents. 
+C. 
+Take samples of fresh concrete at the job site for each mix design placed each day. Sampling 
+and testing shall be done after the final addition and proper mixing of any water or admixtures 
+that are added on site. 
+1. 
+Personnel and testing equipment shall meet the requirements of ASTM E329. 
+2. 
+Testing Frequency: Obtain one composite sample for each day's pour of each concrete 
+mixture exceeding 5 cu. yd., but less than 25 cu. yd., plus one set for each additional 50 
+cu. yd. or fraction thereof. 
+3. 
+A strength test shall be the average of the strengths of two 6x12 inch or three 4x8 inch 
+cylinders made from the same sample of concrete and tested at 28 days. 
+D. 
+For each sample of fresh concrete, perform the following duties: 
+1. 
+Measure and record slump in accordance with ASTM C143. 
+2. 
+Measure and record temperature in accordance with ASTM C1064. 
+a. 
+Provide one test hourly when air temperature is 40°F and below and when 80°F and 
+above, and one test for each composite sample. 
+3. 
+Measure and record air content by volume in accordance with either ASTM C231 or ASTM 
+C173. 
+a. 
+Wet cure specimens for a period of seven (7) days (including the period of time the 
+specimens are in the mold). Wet cure may be achieved through storage in a moist 
+cabinet or room in accordance with ASTM C511, or through storage in lime-saturated 
+water. 
+b. 
+Slump of concrete for testing shall match job requirements and need not be limited to 
+the restrictions as stated in ASTM C157. 
+c. 
+Report results in accordance with ASTM C157 at 0, 7, 14 and 28 days of drying. 
+4. 
+Mold three 6x12 inch or four 4x8 inch cylinders (laboratory cylinders) in accordance with 
+ASTM C31 to be laboratory-cured. Protect from moisture loss and maintain at 60°F to 
+80°F for 24 to 48 hours before moving. Deliver cylinders to testing laboratory for curing 
+and testing. 
+
+
+===== PAGE 13 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 3 of 15
+ 
+5. 
+Mold one cylinder (field cylinder) in accordance with ASTM C31 to be field-cured. Field 
+cylinder shall be placed as near as possible to the in-place concrete from which it was 
+taken, protected, and cured in the same manner. Deliver field-cured cylinder to testing 
+laboratory, and measure and record compressive strength in accordance with ASTM C39. 
+Field cylinder shall be used to determine if concrete footings, walls, or piers have reached 
+the required compressive strength for steel erection to begin. 
+E. 
+Measure and record compressive strength in accordance with ASTM C39 for laboratory 
+cylinders. Test one laboratory cylinder at 7 days and all other cylinders at 28 days. Acceptance 
+is based on the average of the two 6x12 inch or three 4x8 inch laboratory cured 28-day tests. 
+Notify Architect in the event strength levels do not meet the acceptance requirements of ACI 
+318. 
+1. 
+Any additional cylinders molded for Contractor to have a compressive strength test done 
+before seven days shall be at the Contractor's expense. 
+F. 
+Prepare and submit test reports to the Architect . Reports shall be completed and furnished 
+within 48 hours of testing. Refer to description in Submittals. 
+G. 
+When strength of field-cured cylinders is less than 85 percent of companion laboratory-cured 
+cylinders, Contractor shall evaluate operations and provide corrective procedures for protecting 
+and curing in-place concrete. 
+H. 
+Should the strength of any grade of concrete for any portion of work, as indicated by molded 
+test cylinders, fall below the minimum 28-day compressive strength specified on the drawings, 
+upon approval of the Structural Engineer, the concrete supplier shall adjust the concrete mix for 
+remaining portion of construction so that the resulting concrete meets the minimum strength 
+requirements. 
+1.05 SUBMITTALS 
+A. 
+Concrete Materials: Submit information on concrete materials as listed below. 
+1. 
+Cementitious materials: Submit type, class, producer name, and certification not more 
+than 90 days old of compliance with applicable ASTM standard. 
+2. 
+Aggregates: Submit type, pit or quarry location, producer name, gradations, specific 
+gravity, water content, and certification not more than 90 days old. 
+3. 
+Admixtures: Submit product data sheet. Product data shall include: dosages and 
+performance data, brand names, producers, chloride ion concentrations, and certifications 
+of compliance with applicable ASTM standard. Certifications shall not be more than 90 
+days old. 
+4. 
+Water: Submit name of source. 
+B. 
+Product Data: Prepare and submit product and performance data for materials and 
+accessories, including patching compounds, joint systems, curing compounds, finish materials, 
+and other concrete related items. 
+C. 
+Testing Agency Qualifications: When requested, the proposed testing agencies shall submit 
+data on qualifications for acceptance. 
+D. 
+Concrete Mix Design: 
+1. 
+Concrete mix design submittals shall be submitted to the Structural Engineer for review 
+and approval at least 14 days prior to placing concrete. 
+2. 
+Obtain Structural Engineer approval for each mix design prior to use, including new mix 
+designs required to be prepared should there be a change in materials being used. 
+3. 
+Submit concrete mixture proportions and characteristics for each concrete mix. Include 
+standard deviation analysis or trial batch data with mix design. Submit historical field test 
+data to demonstrate the average compressive strength for approval. Concrete mix 
+proportions, materials, and handling methods for field test data or trial batches shall be the 
+same as used for the work. Include the following information for each mix design: 
+a. 
+Water/cementitious materials ratio. 
+b. 
+Slump per ASTM C143 
+
+
+===== PAGE 14 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 4 of 15
+ 
+c. 
+Air content per ASTM C231 or ASTM C173 
+d. 
+Unit weight of concrete per ASTM C138 
+e. 
+Compressive strength at 28 days per ASTM C39 
+4. 
+If trial batches are used, submit representative samples of each proposed ingredient to 
+independent testing laboratory for use in preparation of mix design. 
+5. 
+Include alternate mix designs when characteristics of materials, project conditions, 
+weather, test results, or other circumstances warrant adjustments. Indicate amounts of mix 
+water to be withheld for later addition at Project site. 
+6. 
+Provide a record copy of the final mix designs and test results to the testing agency prior 
+to commencement of the concrete work. 
+E. 
+Slab-on-Grade Joint Layout: Submit drawings for proposed slab-on-grade control joint and 
+construction joint layout for approval. 
+F. 
+Test Reports: Submit laboratory test reports for concrete materials, mix design, compressive 
+strength, slump, air content, and temperature. Each report shall indicate date of sampling, date 
+of test, mix design, and location of concrete in structure. 
+G. 
+Repair Methods: When stains, rust, efflorescence, and surface deposits must be removed, 
+submit the proposed method of removal. 
+H. 
+Certificates: Submit written certification regarding the design mix from the ready-mix supplier 
+and the admixture manufacturer stating all concrete and admixtures do not contain chloride 
+ions in excess of concentrations specified herein. 
+I. 
+Record Documents: Accurately record actual locations of embedded utilities and components 
+that are concealed from view. 
+1.06 DELIVERY, STORAGE, AND HANDLING 
+A. 
+Cementitious materials: Store cementitious materials in dry weather tight buildings, bins, or 
+silos that exclude contaminants. 
+B. 
+Aggregates: Store and handle aggregate in a manner that will avoid segregation and prevent 
+contamination with other materials or other sizes of aggregates. Store aggregates so as to 
+drain freely. 
+C. 
+Admixtures: Protect stored admixtures against contamination, evaporation, or damage. Protect 
+liquid admixtures from freezing and temperature changes, which would adversely affect their 
+performance. Handle chemical admixtures in accordance with manufacturer's instructions. 
+PART 2  PRODUCTS 
+2.01 CONCRETE MATERIALS 
+A. 
+Portland Cement: Portland cement shall conform to ASTM C150, Type V Normal, and be a 
+standard brand of Portland cement. Use one brand of cement throughout project, unless 
+approved in writing by the Engineer. . Cement used in concrete shall be of the same brand and 
+type as the cement used in the concrete represented by the submitted field test data or used in 
+the trial mixtures. Maintain consistent cement color throughout project unless directed 
+otherwise by architectural requirements. 
+1. 
+Total replacement of Portland cement by supplementary cementitious materials in design 
+mixture shall not exceed 20% (by weight). 
+B. 
+Supplementary Cementitious Materials 
+1. 
+Fly Ash: Fly ash shall conform to ASTM C618, Class C or Class F. Replacement of 
+Portland cement by fly ash shall not exceed the following (percentages are by weight): 
+a. 
+ 20 percent. 
+b. 
+Concrete to be placed in cold weather as defined herein: No fly ash allowed unless 
+the cold weather procedure submitted has compensated for the increased setting 
+time and decreased rate of strength gain due to cold weather and fly ash. 
+2. 
+Silica Fume: ASTM C1240, amorphous silica. 
+
+
+===== PAGE 15 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 5 of 15
+ 
+a. 
+Silica Fume Limit: 10% by weight of total cementitious materials. 
+C. 
+Coarse Aggregate for Normal Weight Concrete: Comply with ASTM C33. Provide coarse 
+aggregate from a single source for exposed concrete. Gradations shall be similar to that 
+described in the following table: 
+ 
+COARSE AGGREGATE GRADATIONS 
+SIEVE SIZE - PERCENT PASSING 
+Grade No. 
+1-1/2" 
+1" 
+3/4" 
+1/2" 
+3/8" 
+No. 4 
+No. 16 
+4 
+90-100 
+Note 1 
+20-55 
+0-15 
+--- 
+0-5 
+--- 
+--- 
+57 
+100 
+95-100 
+--- 
+25-60 
+0-10 
+0-10 
+--- 
+67 
+--- 
+100 
+90-100 
+--- 
+20-55 
+0-10 
+--- 
+89 
+--- 
+--- 
+--- 
+100 
+90-100 
+20-55 
+0-10 
+ 
+1. 
+Shall be 100 percent passing the 2" sieve. 
+D. 
+Do not use aggregates containing deleterious substances that could cause spalling on any 
+exterior exposed surface. These include, but are not limited to the following: 
+1. 
+Organic impurities. 
+2. 
+Ferrous metals. 
+3. 
+Soluble salts. 
+4. 
+Coal, lignite, or other lightweight materials. 
+5. 
+Soft particles. 
+6. 
+Clay lumps and friable particles. 
+7. 
+Cherts of less than 2.40 specific gravity. 
+E. 
+Water: Mixing water for concrete shall meet the requirements of ASTM C94. Water shall be 
+clean and free from injurious amounts of acids, alkalis, organic materials, chloride ions and oils 
+deleterious to concrete or reinforcing steel. 
+F. 
+Testing agency shall be given access to plants and stockpiles to obtain samples for testing for 
+compliance with the Contract Documents. 
+2.02 ADMIXTURES 
+A. 
+Chemical Admixtures: Provide admixtures certified by manufacturer to be compatible with other 
+admixtures. Calcium chloride thiocyanates or admixtures containing intentionally added 
+chlorides are not permitted. 
+B. 
+Water Reducing Admixture: Material shall comply with ASTM C494, Type A.  
+1. 
+Acceptable: 
+a. 
+BASF Corporation - MasterPozzolith Series or MasterPolyheed Series. 
+b. 
+Chemical Company - Eucon WR Series. 
+c. 
+Sika Chemical Corp. - Plastocrete 161. 
+d. 
+GRT - Polychem 400 NC. 
+e. 
+Grace Construction Products - WRDA 82. 
+C. 
+High Range Water Reducing Admixture (superplasticizer): Material shall comply with ASTM 
+C494, Type F or Type G.  
+1. 
+Acceptable: 
+a. 
+BASF Corporation - MasterRheobuild 1000 or MasterGlenium Series. 
+b. 
+Euclid Chemical Company - Eucon 37 or Plastol Series. 
+c. 
+Sika - ViscoCrete 2100. 
+
+
+===== PAGE 16 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 6 of 15
+ 
+d. 
+GRT - Melchem. 
+e. 
+Grace Construction Products - Mira 110. 
+D. 
+Non-Chloride Accelerator: Material shall comply with ASTM C494, Type C or Type E, and not 
+contain a higher chloride ion concentration than municipal drinking water.  
+1. 
+Acceptable: 
+a. 
+BASF Corporation - MasterSet FP 20 or MasterSet AC 534. 
+b. 
+Euclid Chemical Company - Accelguard Series. 
+c. 
+Sika Chemical Corp. - Sika Rapid-1. 
+d. 
+GRT - Polychem HE. 
+e. 
+Grace Construction Products - Lubricon NCA. 
+E. 
+Admixtures used in concrete shall be the same brand, type, and dosage used in concrete 
+represented by field test data or used in trial mixes. 
+2.03 CURING PRODUCTS 
+A. 
+Moisture Retaining Cover 
+1. 
+Plastic Film: Use 6 mil polyethylene film sheet materials that meet the requirements of 
+ASTM C171. 
+2. 
+White burlap-polyethylene sheet meeting ASTM C171. 
+3. 
+Reinforced curing paper complying with ASTM C171. 
+4. 
+Moisture Retaining Fabric: A naturally colored, non-woven, polypropylene fabric with a 4-
+mil, non-perforated reflective (white) polyethylene coating containing stabilizers to resist 
+degradation from ultraviolet light. Fabric shall exhibit low permeability and high moisture 
+retention. Acceptable manufacturers and products include: 
+a. 
+PNA Construction Technologies, Inc.: Hydracure S16. 
+b. 
+PNA Construction Technologies, Inc.: Hydracure M5. 
+c. 
+Reef Industries Incorporated: Transguard 4000. 
+B. 
+Curing and Sealing Compound: Clear, membrane-forming curing and sealing compound 
+complying with ASTM C309, Type 1, and ASTM C1315, Type 1, Class A. Compound shall dry 
+to a clear finish, resist yellowing due to ultraviolet degradation and provide a long-lasting finish 
+that has high resistance to chemicals, oil, grease, deicing salts, and abrasion. 
+1. 
+Curing and sealing compounds used on interior enclosed environments shall be a water-
+borne product and VOC compliant as required by the U.S. EPA Architectural Coating 
+Rule. 
+2.04 MISCELLANEOUS MATERIALS 
+A. 
+Expansion Joint Material: Preformed, resilient, non-extruding asphalt-impregnated fiber 
+conforming to ASTM D1751. Thickness of expansion joint material shall be 1/2" unless noted 
+otherwise on the drawings. 
+B. 
+Vapor Barrier: ASTM E 1745, Class A, not less than 15 mils thick.  
+1. 
+Acceptable: 
+a. 
+Stego Industries, LLC - Stego Wrap. 
+b. 
+W.R. Meadows, Inc. - Perminator. 
+c. 
+Raven Industries - Vapor Block. 
+d. 
+Insulation Solutions - Viper VaporCheck II. 
+C. 
+Bonding Agent: "Weld-Crete" manufactured by the Larsen Products Corporation or "Nitobond 
+Acrylic" manufactured by Fosroc Inc.. 
+D. 
+Anti-Bonding Agent: "Thompson's Water Seal" as manufactured by A. E. Thompson, Inc., 
+California. 
+E. 
+Control Joint Filler: Flexible, single-component polyurethane sealant with backer rod compliant 
+with ASTM C 920, Type S, Grade P, Class 25. Apply sealant per manufacturers written 
+recommendations.  
+1. 
+Acceptable: 
+
+
+===== PAGE 17 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 7 of 15
+ 
+a. 
+Dayton Superior - Perma 230 SL. 
+b. 
+Euclid Chemical Company - Eucolastic I. 
+c. 
+BASF Corporation - MasterSeal SL 1.  
+2.05 STRENGTH AND PROPERTIES 
+A. 
+Concrete Mix Designs: Refer to the drawings for specified compressive strength. Proportion 
+concrete mixes according to the properties in the following table. The concrete supplier may 
+produce a mix at a lower water-cement ratio to allow for adjustment of slump at the site by 
+adding water. The addition of site water shall be in accordance with ASTM C94, and the total 
+water-cement ratio shall not exceed the value specified below. 
+ 
+Class 
+Coarse 
+Aggregate 
+Gradation 
+Fine 
+Aggregate 
+Gradation 
+Range of 
+Slump 
+Max. 
+w/c 
+A 
+57 or 67 
+FA 
+4" +/- 1" 
+0.45 
+B. 
+Slump of Superplasticized Concrete: Concrete containing high-range water reducing 
+admixtures (superplasticizer) shall have 8" maximum slump, unless otherwise approved by 
+Structural Engineer. 
+C. 
+Accelerators: Add non-chloride accelerator to all concrete slabs placed at air temperatures 
+below 50°°F only when approved in the mix design. Use of admixtures will not relax cold 
+weather placement requirements. 
+D. 
+Water Reducer: Add water reducing admixture or high range water reducing admixtures 
+(superplasticizers) as follows: 
+1. 
+All pumped concrete. 
+2. 
+As required for placement or workability. 
+3. 
+As required by high temperatures, low humidity, or other adverse placement conditions. 
+4. 
+Concrete with water-cementitious materials ratio below 0.50. 
+E. 
+No other admixtures shall be used unless approved by Structural Engineer. 
+F. 
+Chlorides: Admixtures or other ingredients including aggregates containing calcium chloride or 
+more than 0.05% chloride ions by weight shall not be used. 
+G. 
+Workability: Concrete shall have a workability such that it will fill the forms without voids, 
+honeycombs, or rock pockets with proper vibration without permitting materials to separate or 
+excess water to collect on the surface. 
+H. 
+Concrete Temperatures: Minimum concrete temperature of fresh concrete varies in relation to 
+average air temperature over a 24-hour period as follows: 
+1. 
+Air temperature below 0°F 
+ 
+Concrete temperature 70°F min. 
+2. 
+Air temperature 0°F to 30°F 
+ 
+Concrete temperature 65°F min. 
+3. 
+Air temperature 30°F to 50°F 
+ 
+Concrete temperature 50°F min. 
+4. 
+Air temperature above 50°F 
+ 
+No minimum temperature 
+5. 
+The maximum temperature of concrete at the time of delivery shall be 90°F. When 
+concrete temperature exceeds 90°F, concrete supplier shall attempt to reduce 
+temperature by shading aggregates and cement and cooling mix water. When these 
+methods fail to reduce the concrete temperature below 90°F, supplier shall use ice in the 
+water to reduce the concrete temperature. Use set retarding admixtures only when 
+approved in the mix design. 
+PART 3  EXECUTION 
+3.01 PREPARATION 
+A. 
+Verify requirements for concrete cover over reinforcement. 
+
+
+===== PAGE 18 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 8 of 15
+ 
+B. 
+Verify anchors, seats, plates, reinforcement, and other items to be cast into concrete are 
+accurately placed, positioned securely, and will not cause hardship in placing concrete. 
+C. 
+Do not place concrete until data on materials and mix designs have been approved, Architect 
+has been notified, and all other affected trades have coordinated their work. 
+D. 
+Remove snow, ice, frost, water, mud, and other foreign material from surfaces, reinforcing bars 
+and embedded items against which concrete will be placed. 
+E. 
+Prepare previously placed concrete by cleaning with sandblasting, steel brush, or water blast to 
+expose aggregate to minimum 1/4" amplitude. 
+3.02 SLABS 
+A. 
+Slab on Grade: 
+1. 
+All interior slabs on grade shall have a polyethylene vapor retarder conforming to ASTM 
+E1745. Lap all joints minimum 6" and seal edges with adhesive tape. Fit vapor retarder 
+around utilities and seal with adhesive tape as required. Place, protect, and repair vapor-
+retarder sheets according to ASTM E 1643 and manufacturer's written instructions. 
+2. 
+Refer to drawings Section 31 23 00 for required sub-grade preparation beneath slabs on 
+grade. 
+3. 
+Where vapor retarder is not used below the slab on grade, wet sub-grade below slab prior 
+to placing concrete. Subgrade shall be moist with no free water and no muddy or soft 
+spots. 
+4. 
+Saw cut control joints: Cut with power saws equipped with shatterproof abrasive or 
+diamond-rimmed blades. Cut joints into concrete when cutting action will not tear, abrade, 
+or otherwise damage surface and before concrete develops random contraction cracks. 
+Control joints shall be located along column lines, with intermediate joints spaced at a 
+maximum distance indicated on the drawings, unless noted otherwise. Control joints shall 
+be continuous, not staggered or offset. Slab panels shall have a maximum length to width 
+ratio of 1.5 to 1. Provide additional control joints at all reentrant or isolated corners formed 
+in the slab on grade. Refer to the drawings for typical control joint detailing. 
+5. 
+Provide isolation joints around each column, and along foundation walls. Form isolation 
+joints with 1/2" expansion joint material. Extend isolation joint material full width and depth 
+of joint, terminating flush with finished concrete surface, unless otherwise indicated. 
+6. 
+Verify completion of all under slab work with mechanical and electrical trades before 
+placing slabs. 
+7. 
+Slope slabs as indicated on the drawings and to provide positive drainage. Slope slab 
+keeping bottom level and varying top. Maintain minimum thickness of concrete as 
+indicated on the drawings. Refer to floor finishes for tolerances. 
+B. 
+Embedded Items: 
+1. 
+The outside diameter of embedded conduit or pipe shall not exceed one-third of the slab 
+thickness in structural slabs, including at crossovers, and shall be placed between the top 
+and bottom reinforcing with a minimum 3" clear cover. Conduit or pipe running parallel to 
+each other shall be spaced at least 8" apart and no more than 2 runs stacked vertically in 
+the slab. Conduit or pipe shall not be embedded in any supported slab less than 6" thick. 
+No embedded conduit or pipe is allowed in any concrete slab-on-steel deck. 
+3.03 CONSTRUCTION JOINTS 
+A. 
+Slabs: Where slab pour is to receive a subsequent topping or additional concrete, expose 
+aggregate in top surface by brooming in two directions at right angles to each other. 
+B. 
+Vertical: Locate vertical construction joints in walls not farther than a maximum of 100 feet on 
+center. Coordinate joint locations with architectural design. 
+C. 
+Reinforcing: Stop all welded wire reinforcement and/or reinforcing at construction joints in slabs 
+on grade and provide dowel bars as detailed. Provide reinforcement at other construction joints 
+as detailed. Roughen and thoroughly clean the surface of the concrete, remove all laitance, and 
+wet the surface before placing new concrete against the joint.  
+
+
+===== PAGE 19 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 9 of 15
+ 
+D. 
+Exposed Surfaces: Locate construction joints only at predetermined locations approved by the 
+Architect and the Structural Engineer. 
+3.04 CONCRETE PLACEMENT 
+A. 
+Place concrete as continuously as possible until placement is complete. Do not place against 
+concrete that has attained initial set, except at authorized joints. If, for any reason, concrete 
+pour is delayed for more than 45 minutes, bulkhead off pour at last acceptable construction 
+joint. Immediately remove excess concrete and clean forms. 
+B. 
+Do not begin to place concrete during periods of rain, sleet, or snow unless adequate protection 
+is provided. 
+C. 
+No concrete shall be cast onto or against sub-grades containing free water, frost, ice, or snow. 
+If earth at bottom of forms has dried out, rewet so the soil is moist, but free of standing water 
+and mud. 
+D. 
+Notify the Architect in advance if concrete is to be pumped. 
+E. 
+Do not place concrete until all reinforcement is in place, forms have been thoroughly cleaned 
+and approval has been given. 
+F. 
+Do not accept concrete delivered to the job site more than 90 minutes after initial mixing. 
+G. 
+Concrete from its point of release to mixers, hoppers, or conveyances, shall not be permitted to 
+drop more than 5 feet (10 feet for concrete containing high range water reducers). Deposit 
+concrete directly into conveyances and directly from conveyances to final points of deposit. 
+Sufficient transportation equipment in good working order shall be on hand before work begins. 
+All conveying equipment must be clean and kept clean during concreting operations. Take 
+every possible precaution to prevent segregation or loss of ingredients. 
+H. 
+Regulate rate of placement so concrete surface is kept level throughout; a minimum being 
+permitted to flow from one area to another. Use tremie heads spaced at approximately 10-foot 
+intervals for placing concrete in walls. Control rate of placement consistent with form design. 
+I. 
+Deposit concrete in one continuous operation until section being placed has been completed. 
+For slab thicknesses greater than 12 inches, prevent excessive segregation of aggregate and 
+high temperatures in accordance with ACI 304 and ACI 308.Place concrete in wall forms in 
+layers not greater than 12 inches in depth, each layer being compacted by internal vibration 
+before succeeding layer is placed. 
+J. 
+Place concrete as near as possible to its final position to prevent segregation or loss of 
+materials. Do not use vibrators to transport concrete within forms. Consolidate concrete in 
+walls, columns, beams, and slabs or joist construction thicker than 8" with internal vibrators 
+(8,000 to 12,000 VPM). Slabs less than 8" thick may be consolidated with internal vibrators 
+(9,000 to 13,500 VPM) or vibrating screeds supported on forms, boards, or rails, approved by 
+the Structural Engineer, supplement vibration by forking or spading by hand along surfaces 
+adjacent to forms and construction joints. Be sure an adequate number of operating vibrator 
+units are on hand to properly consolidate quantity of concrete to be placed, including spares for 
+emergency use. 
+1. 
+Vertically insert and remove handheld vibrators at constant intervals 18 to 30 inches apart. 
+Vibrate concrete the maximum amount and time required for complete consolidation, 
+without segregation, and release of entrapped air bubbles, but in no instance exceed 15 
+seconds per square foot of exposed surface. 
+K. 
+Place concrete during daylight hours, unless permitted otherwise by the Structural Engineer. 
+L. 
+Re-tempering of concrete shall not be permitted. Concrete that has stood more than 15 minutes 
+after leaving the mixer shall be discarded. 
+M. 
+Exercise care in placing concrete over waterproof membranes, rigid insulation, and/or 
+protection boards to avoid damaging those materials. Report damage immediately, and do not 
+proceed until damage is repaired. 
+
+
+===== PAGE 20 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 10 of 15
+ 
+N. 
+Remove loose debris from hardened surfaces of previous pours by sandblasting surfaces and 
+expose clean coarse aggregate firmly embedded in cement matrix. 
+O. 
+Protect existing concrete work to be exposed to view and other finished materials from damage 
+and staining resulting from concreting operations. Handle concrete carefully to avoid dripping 
+and spillage. Remove spilled concrete from existing surfaces immediately. Covering sills, 
+ledges, and other surfaces with protective coverings may be necessary to protect the work. 
+P. 
+Filling In: Fill in holes and openings left in concrete structures, unless otherwise indicated, after 
+work of other trades is in place. Mix, place, and cure concrete, as specified, to blend with in-
+place construction. Provide other miscellaneous concrete filling indicated or required to 
+complete Work. 
+Q. 
+Equipment Bases and Foundations: Provide machine and equipment bases and foundations as 
+shown on drawings. Set anchor rods for machines and equipment at correct elevations, 
+complying with diagrams or templates from manufacturer furnishing machines and equipment. 
+3.05 CONCRETE FINISHES AND TOLERANCES 
+A. 
+Exposed Smooth Formed Surfaces: Remove forms and perform necessary repairs and patch to 
+produce surface finish-3.0 as specified in ACI 301. Apply the following to smooth-formed 
+finished concrete exposed to view in the finished work. Confirm finishes with the Architect prior 
+to concrete placement by submitting shop drawings indicating locations of all types of finishes. 
+1. 
+Smooth-Rubbed Finish: Not later than one day after form removal, moisten concrete 
+surfaces and rub with carborundum brick or another abrasive until producing a uniform 
+color and texture. Do not apply cement grout other than that created by the rubbing 
+process. 
+B. 
+Related Unformed Surfaces: At tops of walls, horizontal offsets, and similar unformed surfaces 
+adjacent to formed surfaces, strike off smooth and finish with a texture matching adjacent 
+formed surfaces. Continue final surface treatment of formed surfaces uniformly across adjacent 
+unformed surfaces, unless otherwise indicated. 
+3.06 CONCRETE SLAB FINISHES AND TOLERANCES 
+A. 
+Trowel Finish:   
+1. 
+Screed concrete to an even plane, float, then power trowel the surface. 
+2. 
+Hand trowel the surface smooth and free of trowel marks. Continue hand troweling until a 
+ringing sound is produced as the floor is troweled. 
+3. 
+Provide trowel finish as indicated on the drawings or as coordinated with the project 
+Architect: 
+B. 
+Fine Broom Finish: 
+1. 
+Screed concrete to an even plane, float, then power trowel the surface. Provide fine hair 
+broom finish perpendicular to slope, free of loose particles, ridges, projections, voids, and 
+concrete droppings.  
+2. 
+Provide fine broom finish as indicated on the drawings or as coordinated with the project 
+Architect 
+C. 
+Broom Finish: 
+1. 
+Screed concrete to an even plane and then float. Immediately after concrete has received 
+a floated finish, give the concrete surface a coarse transverse scored texture by drawing a 
+coarse broom across the surface. 
+2. 
+Provide broom finish as indicated on the drawings or as coordinated with the project 
+Architect 
+D. 
+Float Finish: 
+1. 
+Screed concrete to an even plane then float. 
+2. 
+Provide float finish as indicated on the drawings or as coordinated with the project 
+Architect. 
+
+
+===== PAGE 21 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 11 of 15
+ 
+E. 
+Floor Finish Tolerances: Floor finish tolerances as measured in accordance with ASTM E1155, 
+Standard Test Method for Determining Floor Flatness and Levelness Using the F-Number 
+System (Inch Pound Units), shall be as follows: 
+Floor Profile Quality 
+Classification 
+Minimum Flatness Number Required 
+Test Area 
+Minimum Local F-Number 
+Flatness FF
+Level FL 
+Flatness FF 
+Level FL 
+Slab on Grade  
+35 
+24 
+25 
+17 
+ 
+F. 
+Floor Finish Tolerances: Floor finish tolerances shall be measured by placing a freestanding 
+(unleveled) 10-foot straightedge anywhere on the slab and allowing it to rest upon two high 
+spots within 72 hours after placement of slab and removal of shoring (if present). The gap at 
+any point between the straightedge and the floor (and between the high spots) shall not 
+exceed: 
+1. 
+Slab on Grade  1/4" 
+G. 
+Slab Drainage: Finish all concrete slabs to proper elevations to ensure that all surface moisture 
+will drain freely to floor drains, and that no puddle areas exist. Contractor shall bear the cost of 
+corrections to provide positive drainage. 
+H. 
+Special Tolerances for Concrete Slabs: No abrupt change in vertical elevation of 1/4" or more is 
+acceptable at the interface between slabs and within areas where pedestrian traffic is expected. 
+3.07 CONCRETE CURING 
+A. 
+Freshly placed concrete shall be protected from premature drying and excessively hot 
+temperatures. 
+B. 
+Concrete other than high-early strength shall be maintained above 50°F and in a moist 
+condition for at least the first 7 days after placement, except when special curing is used. 
+Special curing procedures shall not be used without written permission from the Structural 
+Engineer. 
+C. 
+High-early strength concrete shall be maintained above 50°F and in a moist condition until it 
+has reached 2/3 of the specified 28-day compressive strength, but not less than 3 days unless 
+special curing is used with written permission from the Structural Engineer. 
+D. 
+Protect concrete from excessive changes in temperature during the curing period and at the 
+termination of the curing process. Changes in the temperature of the concrete shall be as 
+uniform as possible and shall not exceed 5°F in any one hour or 50°F in any 24-hour period. 
+E. 
+Protect concrete from injury from the elements until full strength is developed. Protect from 
+mechanical injury. 
+3.08 SLAB CURING 
+A. 
+Begin curing after finishing concrete, but not before free water has disappeared from concrete 
+surface. Use one of the methods described below. 
+B. 
+Moisture-Retaining-Cover Curing for Concrete Floors Not Exposed in Final Condition: Cover 
+concrete surface with waterproof sheet material as soon as finishing operations are complete 
+and the concrete is sufficiently hard to be undamaged by covering. The cover shall be placed 
+flat on the concrete surface, avoiding wrinkles. Sprinkle concrete with water as necessary 
+during application of covering. Place in widest practicable width, with sides and ends lapped at 
+least 12 inches, and seal with waterproof tape or adhesive. Verify the concrete is continuously 
+wet under the sheets; otherwise, add water through soaker hoses under the sheets. Weight 
+down covering to prevent displacement. Immediately repair any holes or tears during the curing 
+period using polyethylene sheet and waterproof tape. Curing process shall be maintained for a 
+minimum of 7 days. 
+
+
+===== PAGE 22 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 12 of 15
+ 
+C. 
+Moisture-Retaining-Fabric Curing for Concrete Floors to Remain Exposed: Cover concrete 
+surface with moisture retaining fabric as soon as finishing operations are complete and the 
+concrete is sufficiently hard to be undamaged by covering. The cover shall be installed in 
+accordance with the manufacturer's written recommendations, in largest practical widths. Wet 
+the slab to rejection, then thoroughly wet fabric side of cover and install with poly side up. Lap 
+over adjacent covers a minimum of 18". Wet all laps and outside edges to prevent 
+displacement and to ensure intimate contact with concrete and adjacent covers. Rewet as 
+necessary and protect covers from damage during curing process. 
+1. 
+After minimum 7-day cure, remove moisture retaining fabric in sections. 
+2. 
+A maximum of 3,500 square feet of concrete curing cover may be removed at any one 
+time. At no time shall the exposed area be permitted to dry prior to completion of the floor 
+scrubbing process. 
+3. 
+Using a high-powered floor scrubber capable of a minimum 80 pounds head pressure, and 
+a mild citrus-based detergent that does not damage or mar the surface in any way, scrub 
+the floor to remove any minerals or soluble salts that may have accumulated at the floor 
+surface. Rinse area thoroughly with clean fresh water. Remove water and allow floor to 
+dry. If whitening occurs during drying, repeat scrubbing process before floor dries until no 
+whitening occurs during drying. 
+4. 
+All areas of the floor shall remain wet during floor scrubbing process. Expose only the 
+amount of floor surface that can be cleaned before any drying occurs without exceeding 
+the maximum allowable exposed area. 
+D. 
+Curing Compound: Apply uniformly in continuous operation by low pressure spray equipment or 
+roller as soon as finishing operations are complete, free water on the surface has disappeared, 
+and no water sheen can be seen. Follow the manufacturer's written instructions. Recoat areas 
+subjected to heavy rainfall within three hours after initial application. Maintain continuity of 
+coating and repair damage during curing period. Verify compatibility of the curing compound 
+with paint, finishes, or toppings that require positive bond to the concrete. If curing compound is 
+not compatible with paint finishes or toppings, utilize a dissipating curing compound and 
+remove in accordance with the manufacturer's recommendations. 
+3.09 JOINT FILLING 
+A. 
+Prepare, clean, and install joint filler according to manufacturer's written instructions. 
+B. 
+Do not fill joints until construction traffic has permanently ceased. 
+C. 
+Remove dirt, debris, saw cuttings, curing compounds, and sealers from joints; leave contact 
+faces of joint clean and dry. 
+3.10 APPLICATION OF FLOOR SEALER - FINISH COAT 
+A. 
+Give concrete floors, as indicated in the Room Finish Schedule and where exposed in finished 
+Work, a second coat of curing and sealing compound immediately prior to Substantial 
+Completion. 
+B. 
+Clean floors and apply sealer strictly according to manufacturer's instructions. Dilution and 
+coverage shall be as recommended by the manufacturer. Apply sealer evenly. 
+3.11 COLD WEATHER CONCRETING 
+A. 
+Definition: Cold weather shall be defined as a period when for more than three successive days 
+the average daily outdoor temperature drops below 40°F. The average daily temperature is the 
+average of the highest and lowest temperature during the period from midnight to midnight. 
+When temperatures above 50°F occur during more than half of any 24-hour duration, the period 
+shall not be regarded as cold weather. 
+B. 
+All cast-in-place concrete work occurring during cold weather shall conform to all requirements 
+of ACI 306.1, "Standard Specification for Cold Weather Concreting", published by the American 
+Concrete Institute, Detroit, Michigan, except as modified by the contract documents or this 
+specification. 
+
+
+===== PAGE 23 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 13 of 15
+ 
+C. 
+Planning: The General Contractor, shall have a pre-construction conference to outline the cold 
+weather concreting operations concerning the placing, finishing, curing and protection of the 
+concrete during cold weather. Pre-construction conference shall occur before cold weather is 
+expected to occur. 
+D. 
+Detailed procedure submittal: Concrete contractor shall prepare and submit for review detailed 
+procedures for the production, transportation placement, protection, curing and temperature 
+monitoring of concrete during cold weather. Include procedures to be implemented upon abrupt 
+changes in weather conditions. Do not begin cold weather concreting until these procedures 
+have been reviewed and approved. 
+E. 
+Mixing: Concrete flatwork poured in cold weather shall be proportioned to obtain a lower slump 
+to minimize the amount of bleed water during finishing. All bleed water should be skimmed off 
+flatwork prior to troweling. Concrete that will be exposed to cycles of freezing and thawing while 
+saturated should be properly air entrained as outlined in this specification. 
+F. 
+Protection of Concrete: Cure and protect concrete against damage from freezing for a minimum 
+period of 72 hours, unless approved by the Structural Engineer. The protection period may be 
+reduced according to ACI 306.1 requirements. Concrete contractor shall submit a letter of 
+request to reduce the protection period, by outlining the method used to achieve the reduction 
+per ACI 306.1. 
+1. 
+When practical for the construction schedule, formwork shall be insulated and remain in 
+place for at least the required protection period. 
+G. 
+Mixing Temperatures: As the ambient air temperature decreases, the concrete mixing 
+temperature shall be increased to compensate for the heat lost in the period between mixing 
+and placement. The concrete supplier shall use one or both of the following methods for 
+increasing the concrete temperature. 
+1. 
+Heating the mixing water to a temperature necessary to offset the temperature losses 
+during transport. Supplier shall not heat water to temperatures in excess of 140°F, without 
+taking special precautions as outlined in ACI 306. 
+H. 
+Temperature measurements: The Contractor shall be responsible for monitoring and recording 
+the concrete temperatures during placement and throughout the protection period. 
+1. 
+Inspection personnel shall keep a record of the date, time, outside air temperature, 
+temperature of concrete as placed, and weather conditions. 
+2. 
+Temperature of the concrete and the outside air shall be recorded at regular intervals but 
+not less than twice in a 24-hour period. The record shall include temperatures at several 
+points within the enclosure and on the concrete surface of sufficient frequency to 
+determine a range of temperatures. 
+3. 
+Inspection agency shall submit the temperature logs to the Architect for permanent job 
+records. 
+3.12 HOT WEATHER PROTECTION 
+A. 
+Definition: Hot weather shall be defined as any combination of high ambient temperature, low 
+relative humidity, high winds, and intense solar radiation that leads to higher than usual 
+evaporation. The table below defines low relative humidity based on air temperature. For a given 
+air temperature, if the relative humidity is equal to or less than the specified minimum, provisions 
+for hot weather concreting shall be as follows: 
+ 
+Air Temperature 
+Minimum Relative Humidity 
+105°F 
+90% 
+100°F 
+80% 
+95°F 
+70% 
+90°F 
+60% 
+85°F 
+50% 
+80°F 
+40% 
+
+
+===== PAGE 24 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 14 of 15
+ 
+Air Temperature 
+Minimum Relative Humidity 
+75°F 
+30% 
+ 
+ 
+B. 
+Mixing: Concrete supplier shall adjust mix designs and admixtures to minimize slump loss. 
+Concrete shall be mixed at a water-cement ratio, which is lower than the specified maximum, to 
+allow for the adjustment of slump by addition of water in the field. Water reduction shall be 
+accomplished without reducing initial slump by increasing dosage of a water reducing admixture. 
+C. 
+Preparation: Do not order concrete earlier than is required to avoid delays. Cool forms, 
+subgrades and reinforcing bars with water spray from fog nozzle prior to concrete placement. 
+D. 
+Delivery: Site traffic shall be coordinated, and delivery times scheduled to minimize waiting times 
+for concrete trucks. 
+E. 
+Placement: Preparations shall be made to place and consolidate the concrete at the fastest 
+possible rate. Maintain a continuous flow of concrete to the job site to avoid development of cold 
+joints, during placement of slabs, apply fog spray to prevent moisture loss without causing 
+surplus water to stand on concrete surface. 
+F. 
+Finishing: Finish concrete as fast as practical. Continue fogging concrete during finishing. Where 
+fogging is not possible, apply sprayable moisture-retaining film between finishing passes. 
+G. 
+Curing: Formed concrete shall be covered with a waterproof material to retain moisture. Flat 
+work shall be moisture cured as described in this specification. Moist curing shall continue for at 
+least 7 days. 
+3.13 FIELD QUALITY ASSURANCE 
+A. 
+Independent Testing Agency Special Inspector shall perform their prescribed inspection, 
+sampling, and testing services as described in Part 1 of this specification section. 
+B. 
+In cases where samples have not been taken or tests conducted as specified or strength of 
+laboratory test cylinders for a particular portion of the structure fails to meet requirements of 
+ACI 301, for evaluation of concrete strength, Structural Engineer shall have the right to order 
+compressive or flexural test specimens or both be taken from the hardened concrete according 
+to ASTM C42, load tests according to ACI 318, or such other tests as may be necessary to 
+clearly establish the strength of the in situ concrete, and such tests shall be paid for by the 
+Contractor. Where cores have been cut from the Work, Contractor shall fill voids with dry-pack 
+and patch the finish to match the adjacent existing surfaces. 
+3.14 REPAIR OF DEFECTIVE AREAS 
+A. 
+All repair of defective areas shall be made, with prior approval of Architect and Structural 
+Engineer as to method and procedure, in accordance with Section 5 of ACI 301, except 
+specified bonding compound must be used. Cosmetic repairs of minor defects in exposed 
+concrete surfaces shall be in a manner acceptable to the Architect. Defective areas shall be 
+deemed when: 
+1. 
+Tests on core or prism specimens fail to show specified strengths. 
+2. 
+Not formed as indicated or detailed. 
+3. 
+Not plumb or level where so indicated or required to receive subsequent work. 
+4. 
+Not true to intended grades and levels. 
+5. 
+Cut, filled, or resurfaced, unless under direction of the Structural Engineer. 
+6. 
+Debris is embedded therein. 
+7. 
+Not fully in conformance with provisions of the drawings. 
+8. 
+Damaged by hot or cold weather conditions. 
+9. 
+Mixing time exceeds 90 minutes from ready-mix plant to the time of deposit. 
+B. 
+Patch form tie holes at the following locations: 
+1. 
+Unfinished exposed concrete (not scheduled for painting, plus at board formed concrete 
+finish). 
+
+
+===== PAGE 25 =====
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+03 3000
+Tonopah HS Field Replacement
+ 
+Cast-In-Place Concrete
+ 
+April 20, 2026 
+            Page 15 of 15
+ 
+2. 
+All other areas: Prime voids with bonding compound and fill with patching mortar. Strike 
+flush without overlap, float to uniform texture to match adjacent surfaces. 
+3. 
+Exposed areas scheduled for spray texture: 
+a. 
+Remove projections and protrusions: 1/16" or larger. 
+b. 
+Remove continuous ridges 1/32" or larger. 
+c. 
+Fill voids and pin holes. 
+4. 
+Exposed areas scheduled for paint or epoxy: 
+a. 
+Remove projections, ridges, and other protrusions 1/32" or larger. 
+b. 
+Fill voids and pin holes 1/16" or larger. 
+5. 
+Exposed areas not scheduled for paint or other finishes: 
+a. 
+Remove projections, ridges and other protrusions not conforming to requirements 
+specified under Section 03 10 00. 
+b. 
+Fill voids and pin holes not conforming to requirements specified under Section 03 10 
+00. 
+C. 
+All structural repairs shall be made, with prior approval of the Architect/Engineer, as to method 
+and procedure, using the specified epoxy adhesive and/or epoxy mortar. 
+D. 
+Repairing Unformed Surfaces: Test unformed surfaces, such as floors and slabs, for finish and 
+verify surface tolerances specified for each surface. Correct low and high areas. Test surfaces 
+sloped to drain for trueness of slope and smoothness; use a sloped template. 
+1. 
+Repair finished surfaces containing defects. Surface defects include spalls, popouts, 
+honeycombs, rock pockets, crazing and cracks in excess of 0.01 inch wide or that 
+penetrate to reinforcement or completely through unreinforced sections regardless of 
+width, and other objectionable conditions. 
+2. 
+After concrete has cured at least 14 days, correct high areas by grinding. 
+3. 
+Correct localized low areas during or immediately after completing surface finishing 
+operations by cutting out low areas and replacing with patching mortar. Finish repaired 
+areas to blend into adjacent concrete. 
+4. 
+Correct other low areas scheduled to receive floor coverings with a repair underlayment. 
+Prepare, mix, and apply repair underlayment and primer according to manufacturer's 
+written instructions to produce a smooth, uniform, plane, and level surface. Feather edges 
+to match adjacent floor elevations. 
+5. 
+Correct other low areas scheduled to remain exposed with a repair topping. Cut out low 
+areas to ensure a minimum repair topping depth of 1/4 inch to match adjacent floor 
+elevations. Prepare, mix, and apply repair topping and primer according to manufacturer's 
+written instructions to produce a smooth, uniform, plane, and level surface. 
+6. 
+Repair defective areas, except random cracks and single holes 1 inch or less in diameter, 
+by cutting out and replacing with fresh concrete. Remove defective areas with clean, 
+square cuts and expose steel reinforcement with at least 3/4-inch clearance all around. 
+Dampen concrete surfaces in contact with patching concrete and apply bonding agent. 
+Mix patching concrete of same materials and mix as original concrete except without 
+coarse aggregate. Place, compact, and finish to blend with adjacent finished concrete. 
+Cure in same manner as adjacent concrete. 
+7. 
+Repair random cracks and single holes 1 inch or less in diameter with patching mortar. 
+Groove top of cracks and cut out holes to sound concrete and clean off dust, dirt, and 
+loose particles. Dampen cleaned concrete surfaces and apply bonding agent. Place 
+patching mortar before bonding agent has dried. Compact patching mortar and finish to 
+match adjacent concrete. Keep patched area continuously moist for at least 72 hours. 
+3.15 CLEANING 
+A. 
+Clean exposed concrete to remove laitance, efflorescence and stains. 
+ 
+END OF SECTION 

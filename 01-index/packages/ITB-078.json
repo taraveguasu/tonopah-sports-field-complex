@@ -1,0 +1,257 @@
+{
+  "_package_id": "ITB-078",
+  "_title": "Flagpoles",
+  "_title_variants_in_source": null,
+  "_list": "Non-1% (ITB)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 078 Flagpoles.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "10 75 00",
+        "title": "Flagpoles",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by ITB-078.",
+        "manual_pages": "260-261",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-10-specialties.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "03 30 00",
+        "title": "Cast-In-Place Concrete",
+        "primary_package": "RFP-030",
+        "note": "Every package with equipment on a footing cites it; RFP-030 builds them all."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {},
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "L1.01",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.01.txt"
+      }
+    ],
+    "leads_to_verify": []
+  },
+  "awarded_sub": {
+    "status": "not-yet-awarded"
+  },
+  "bidders": [
+    {
+      "firm": "Exerplay",
+      "current_document": null,
+      "current_date": null,
+      "superseded_documents": [],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Exerplay (SUPPLY).pdf.txt"
+      ]
+    },
+    {
+      "firm": "Monument Construction",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf.txt",
+      "current_date": "2026-05-15",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Monument Construction.pdf.txt"
+      ],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-14",
+          "inclusions": [
+            "Assume stand tank for a longer time",
+            "Assume minimal SWPPP, includes plan",
+            "Assume cap of utilities by others",
+            "Sprinturf as 2nd tier sub for surfacing",
+            "Track doctor 2nd tier sub for striping",
+            "LCP Tracker",
+            "Nevada 1st requirements",
+            "Skilled and Trained Workforce Requirements",
+            "Apprentice Utilization Requirements",
+            "Includes demo of the field and surrounding areas",
+            "Includes pricing for dumping haul off",
+            "Includes spray dust palliated",
+            "Includes sweal",
+            "Includes raising manholes 9 and 10",
+            "Includes 8\u201d perf pipe",
+            "Includes paving at the track and half moon",
+            "Includes geo-fabric, base, filter, and turf.",
+            "Includes field striping by Sprinturf"
+          ],
+          "exclusions_scope_specific": [
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes demo of other campus",
+            "Excludes abatement",
+            "Excludes caliche hard dig",
+            "Excludes rip rap at sweals",
+            "Excludes paving at the parking lot and street"
+          ],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Pole Tech",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpoles - Pole Tech (SUPPLY).pdf.txt",
+      "current_date": "2026-05-11",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [],
+      "exclusions_scope_specific": [
+        "1) Licensed Engineering not included outside New York.",
+        "2) Quote limited to source listed above.",
+        "3) Please notice any notes / options for each product.",
+        "4) All permits are by others.",
+        "5) Does NOT include installation, unless noted above.",
+        "6) Freight Charge estimated for single shipment.",
+        "7) Orders are subject to 25% cancellation fees.",
+        "8) Prices valid for 90 days.",
+        "Subtotal:",
+        "Freight:",
+        "If the above is acceptable, please sign below, and fax back to our office as notice to",
+        "proceed. Please call if you have any questions. Thank you in advance.",
+        "* Tax is not included.",
+        "Applied to all orders delivered",
+        "in NY, NJ and CT only.",
+        "Respectfully Submitted,",
+        "Carolyn Barbarite",
+        "For established accounts in standing, Terms are Net 30. Payment Terms for All other orders ate Pre-Paid COD.",
+        "You may pre-pay by Check or Credit Card. Please be aware that Lead times vary.",
+        "* Tax is not included. Applied to all orders delivered in NY, NJ and CT only. Resellers must provide a copy of their release certificates.",
+        "Certificates must be on file fro all tax exempt jobs.",
+        "97 Gnarled Hollow Road. East Setauket New York 11733 USA . Web-site: www.poletech.com",
+        "Tel: 631.689.5525 . 800.633.6733 . Fax: 631.689.5528 . E-mail: info@poletech.com"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "YESCO",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - YESCO.pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": null,
+      "inclusions": [
+        "Nevada - Sign Sales",
+        "Complete scope",
+        "#078 Flagpole",
+        "YESCO to provide all labor, material, equipment and supervision to supply and install (1) 30' tall \ufb02ag pole and (1) 4'x6' US Flag",
+        "Nevada - Sign Sales",
+        "Supply \ufb02agpole and set in sleeve. GC to dig the hole and set the YESCO supplied sleeve.",
+        "Nevada - Sign Sales",
+        "Mobilization",
+        "Nevada - Sign Sales",
+        "Add alternate",
+        "YESCO to dig the hole and set the sleeve",
+        "#089 Scoreboards",
+        "YESCO to provide all labor, material, equipment and supervision for the complete scope of work per plans and speci\ufb01cations.",
+        "Includes 9ea Room/Door Signs, 2ea Elec. Room Signs, and 6ea Restroom Signs.",
+        "Includes (1) mobilization",
+        "Supply and install (1) Daktronics FB-2021 Football Scoreboard complete with all steel support structural components.",
+        "Supply and install footings included excavation, back\ufb01ll, compacted subbase, concreate, reinforcing, sleeves, anchors,"
+      ],
+      "exclusions_scope_specific": [
+        "Site Electrical & Low Voltage Systems. Electrical requirements for the scoreboard to be brought within 10' for YESCO to",
+        "make \ufb01nal electrical connections.",
+        "Subtotal",
+        "Tax Total (%)",
+        "This Proposal is subject to acceptance of YESCO's Standard Terms and Conditions, available at www.yesco.com/terms/standardtermsandconditions.pdf. The",
+        "proposed \ufb01nancing terms are only estimates. Final terms are subject to due diligence and formal credit approval by YESCO Financial Solutions."
+      ],
+      "clarifications": [],
+      "priced_line_items": [
+        "Add alternate"
+      ],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Furnish and Install (1) Flagpole. (Owner Accepted Alternate, delete two of three flagpoles shown)"
+    ],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": [
+    {
+      "n": 19,
+      "id": "BID-B05",
+      "severity": "medium",
+      "title": "Exerplay bid ITB-018, ITB-019, ITB-078 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    },
+    {
+      "n": 23,
+      "id": "BID-B09",
+      "severity": "medium",
+      "title": "YESCO bid ITB-072, ITB-078, ITB-089 as one bundled scope",
+      "detail": "This bidder submitted one bundled scope across several packages. Each package's file also describes the others, so neither the price nor the scope splits cleanly by package without a descope."
+    },
+    {
+      "n": 28,
+      "id": "GMP-06",
+      "severity": "medium",
+      "title": "Owner Accepted Alternates supersede drawn details",
+      "detail": "Six Owner Accepted Alternates change scope from the bid set: RCP flared end replaces the CIP concrete headwall detail; access road grading removed; bleacher footings per manufacturer design replace the drawn foundation design; manual galvanized OH doors replace motorized aluminum; sealed concrete replaces epoxy/resinous flooring; one flagpole instead of three. Every exhibit citing the superseded detail must reflect the alternate."
+    }
+  ]
+}

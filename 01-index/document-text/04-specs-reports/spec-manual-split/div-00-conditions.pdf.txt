@@ -1,0 +1,2940 @@
+
+===== PAGE 1 =====
+Nye County School District
+Bid Documents
+00 7200
+Tonopah HS Field Replacement
+General Conditions
+April 20, 2026
+Page 1 of 1 
+SECTION 00 7200
+GENERAL CONDITIONS
+FORM OF GENERAL CONDITIONS
+1.01 THE GENERAL CONDITIONS APPLICABLE TO THIS CONTRACT IS ATTACHED FOLLOWING
+THIS PAGE.
+RELATED REQUIREMENTS
+2.01 SECTION 00 7300 - SUPPLEMENTARY CONDITIONS.
+SUPPLEMENTARY CONDITIONS
+3.01 REFER TO DOCUMENT 00 7300 - SUPPLEMENTARY CONDITIONS FOR AMENDMENTS TO
+THESE GENERAL CONDITIONS.
+END OF SECTION
+
+
+===== PAGE 2 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 3 =====
+®
+MALIA Document A201" - 2007
+General Conditions of the Contract for Construction
+for the following PROJECT:
+Nye County School District, Tonopah HS Sports Field Replacement
+| PWP-NY-2022-200, Ray Tennant Way, Tonopah, NV 89049
+THE OWNER:
+(Name, legal status and address)
+Nye County School District, Other This document has important
+484 S. West Street legal consequences.
+Pahrump, NV 89048 Consultation with an attorney
+is encouraged with respect to
+Pd _
+TABLE OF ARTICLES
+1 GENERAL PROVISIONS
+2 OWNER
+3 CONTRACTOR
+4 ARCHITECT
+§ SUBCONTRACTORS
+6 CONSTRUCTION BY OWNER OR BY SEPARATE CONTRACTORS
+7 CHANGES IN THE WORK
+8 TIME
+9 PAYMENTS AND COMPLETION
+10 PROTECTION OF PERSONS AND PROPERTY
+11 INSURANCE AND BONDS
+ELECTRONIC COPYING of any
+12 UNCOVERING AND CORRECTION OF WORK portion of this AIA® Document
+to another electronic file is
+13 MISCELLANEOUS PROVISIONS rohibited sind constituted
+violation of copyright laws as
+14 TERMINATION OR SUSPENSION OF THE CONTRACT set forth in the footer of this
+document.
+15 CLAIMS AND DISPUTES
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA" Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 4
+reproduction or distribution of this AIA" Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No, 9956512246 which expires on
+12/18/2018, and is not for resale
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 4 =====
+INDEX 2.4, 11.3.1.1, 12.2.1, 13.5.2, 13.5.3, 14.2.4
+(Topics and numbers in bold are section headings.) Architect’s Administration of the Contract
+
+3.1.3, 4.2, 3.7.4, 15.2, 9.4.1, 9.5
+
+Architect’s Approvals
+Acceptance of Nonconforming Work 2.4, 3.1.3, 3.5, 3.10.2, 4.2.7
+9.6.6, 9.9.3, 12.3 Architect’s Authority to Reject Work
+Acceptance of Work 3.5, 4.2.6, 12.1.2, 12.2.1
+9.6.6, 9.8.2, 9.9.3, 9.10.1, 9.10.3, 12.3 Architect’s Copyright
+Access to Work es)
+3.16, 6.2.1, 12.1 Architect’s Decisions
+Accident Prevention 3.7.4, 4.2.6, 4.2.7, 4.2.11, 4.2.12,4.2:13,4.2.14, 6.3,
+10 7.3.7, 7.3.9, 8.1.3, 8.3.1, 9.2, 9.4.1, 9.5, 9.8.4, 9.9.1,
+Acts and Omissions 13.5.2, 15.2, 15:3
+3.2, 3.3.2, 3.12.8, 3.18, 4.2.3, 8.3.1, 9.5.1, 10.2.5, Architect’s Inspections
+10.2.8, 13.4.2, 13.7, 14.1, 15.2 3.7.4, 4.2.2, 4.2.9, 9.4.2, 9.8.3, 9.9.2, 9.10.1, 13.5
+Addenda Architect’s Instructions
+1.1.1, 3.11 3.2.4, 3.3.1, 4.2.6, 4.2.7, 13.5.2
+Additional Costs, Claims for Architect’s Interpretations
+3.7.4, 3.7.5, 6.1.1, 7.3.7.5, 10.3, 15.1.4 4.2.11, 4.2.12
+Additional Inspections and Testing Architect’s Project Representative
+9.4.2, 9.8:3, 12,21, 13.5 4.2.10
+Additional Insured Architect’s Relationship with Contractor
+11.1.4 1.1.2, 1.5, 3.1.3, 3.2.2, 3.2.3, 3.2.4, 3.3.1, 3.4.2, 3.5,
+Additional Time, Claims for 3.7.4, 3.7.5, 3.9.2, 3.9.3, 3.10, 3.11, 3.12, 3.16, 3.18,
+3.2.4, 3.7.4, 3.7.5, 3.10.2, 8.3.2, 15.1.5 4.1.2, 4.1.3, 4.2, 5.2, 6.2.2, 7, 8.3.1, 9.2, 9.3, 9.4, 9.5,
+Administration of the Contract 9.7, 9.8, 9.9, 10.2.6, 10.3, 11.3.7, 12, 13.4.2, 13.5,
+3.1.3, 4.2, 9.4, 9.5 15.2
+Advertisement or Invitation to Bid Architect’s Relationship with Subcontractors
+Lliel 1.1.2, 4.2.3, 4.2.4, 4.2.6, 9.6.3; 9.6.4, 11.3.7
+Aesthetic Effect Architect’s Representations
+4.2.13 9.4.2, 9.5.1, 9.10.1
+Allowances Architect’s Site Visits
+3.8, 7.3.8 3.7.4, 4.2.2, 4.2.9, 9.4.2, 9.5.1, 9.9.2, 9.10.1, 13.5
+All-risk Insurance Asbestos
+Ly3\dy 11321 10.3.1
+Applications for Payment Attorneys’ Fees
+4.2.5, 7.3.9, 9.2, 9.3, 9.4, 9.5.1, 9.6.3, 9.7, 9.10, 3.18.1, 9.10.2, 10.3.3
+11.1.3 Award of Separate Contracts
+Approvals 6.1.1, 6.1.2
+2.1.1, 2.2.2, 2.4, 3.1.3, 3.10.2, 3.12.8, 3.12.9, 3.12.10, Award of Subcontracts and Other Contracts for
+4.2.7, 9.3.2, 13.5.1 Portions of the Work
+Arbitration 5.2
+8.3.1, 11.3.10, 13.1, 15.3.2, 15.4 Basic Definitions
+ARCHITECT 11
+4 Bidding Requirements
+Architect, Definition of 1.1.1, 5.2.1, 11.4.1
+4.1.1 Binding Dispute Resolution
+Architect, Extent of Authority 9.7, 11.3.9, 11.3.10, 13.1, 15.2.5,15.2.6.1, 15.3.1,
+2.4, 3.12.7, 4.1, 4.2, 5.2, 6.3, 7.1.2, 7.3.7, 7.4, 9.2, 15.3.2, 15.4.1
+9.3.1, 9.4, 9.5, 9.6.3, 9.8, 9.10.1, 9.10.3, 12.1, 12.2.1, Boiler and Machinery Insurance
+13.5.1, 13.5.2, 14.2.2, 14.2.4, 15.1.3, 15.2.1 11.3.2
+Architect, Limitations of Authority and Bonds, Lien
+Responsibility 7.3.7.4, 9.10.2, 9.10.3
+2.1.1, 3.12.4, 3.12.8, 3.12.10, 4.1.2, 4.2.1, 4.2.2, Bonds, Performance, and Payment
+4.2.3, 4.2.6, 4.2.7, 4.2.10, 4.2.12, 4.2.13, 5.2.1, 7.4, 7.3.7.4, 9.6.7, 9.10.3, 11.3.9, 11.4
+9.4.2, 9.5.3, 9.6.4, 15.1.3, 15.2 Building Permit
+Architect’s Additional Services and Expenses Sedu
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document Is protected by U.S. Copyright Law and International Treaties. Unauthorized 2
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No, 9956512246 which expires on
+12/18/2018, and is not for resale.
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 5 =====
+Capitalization Compliance with Laws
+
+13 1.6, 3.2.3, 3.6, 3.7, 3.12.10, 3.13, 4.1.1, 9.6.4, 10.2.2,
+Certificate of Substantial Completion 11,1, 11:35 13.1, 134, 13.521, 13.5.2, 13:6; 14,1-1,
+9.8.3, 9.8.4, 9.8.5 14.2.1.3, 15.2.8, 15.4.2, 15.4.3
+
+Certificates for Payment Concealed or Unknown Conditions
+4.2.1, 4.2.5, 4.2.9, 9.3.3, 9.4, 9.5, 9.6.1, 9.6.6, 9.7, 3.7.4, 4.2.8, 8.3.1, 10.3
+
+9.10.1, 9.10.3, 14.1.1.3, 14.2.4, 15.1.3 Conditions of the Contract
+
+Certificates of Inspection, Testing or Approval 1.1.1, 6.1.1, 6.1.4
+
+13.5.4 Consent, Written
+
+Certificates of Insurance 3.4.2, 3.7.4, 3.12.8, 3.14.2, 4.1.2, 9.3.2, 9.8.5, 9.9.1,
+9.10.2; 11,13 9.10.2, 9.10.3, 11.3.1, 13.2, 13.4.2,45.4.4.2
+
+Change Orders Consolidation or Joinder
+
+1.1.1, 2.4, 3.4.2, 3.7.4, 3.8.2.3, 3.11, 3.12.8, 4.2.8, 15.4.4
+
+5.2.3, '7.1.2, 7.1.3, 7.2; 7.3.2; 7.3.6, 7.3.9, 7.3:10, CONSTRUCTION BY OWNER OR BY
+
+8.3.1, 9.3.1.1, 9.10.3, 10.3.2, 11.3.1.2, 11.3.4, 11.3.9, SEPARATE CONTRACTORS
+
+124152, 151.3 1.1.4, 6
+
+Change Orders, Definition of Construction Change Directive, Definition of
+7.241 131
+
+CHANGES IN THE WORK Construction Change Directives
+
+2.2.1, 3.11, 4.2.8, 7, 7.2.1, 7.3.1, 7.4, 8.3.1, 9.3.1.1, 1.1.1, 3.4.2, 3.12.8, 4.2.8, 7.1.1, 7.1.2, 7.1.3, 7.3,
+11.3.9 9.3.1.1
+
+Claims, Definition of Construction Schedules, Contractor’s
+
+15.1.1 3.10, 3.12.1, 3.12.2, 6.1.3, 15.1.5.2
+
+CLAIMS AND DISPUTES Contingent Assignment of Subcontracts
+
+3.2.4, 6.1.1, 6.3, 7.3.9, 9.3.3, 9.10.4, 10.3.3, 15, 15.4 5.4, 14.2.2.2
+
+Claims and Timely Assertion of Claims Continuing Contract Performance
+
+15.4.1 15.1.3
+
+Claims for Additional Cost Contract, Definition of
+
+3.2.4, 3.7.4, 6.1.1, 7.3.9, 10.3.2, 15.1.4 1.1.2
+
+Claims for Additional Time CONTRACT, TERMINATION OR
+
+3.2.4, 3.7.4, 6.1.1, 8.3.2, 10.3.2, 15.1.5 SUSPENSION OF THE
+
+Concealed or Unknown Conditions, Claims for 5.4.1.1, 11.3.9, 14
+
+3.7.4 Contract Administration
+
+Claims for Damages 3.1.3, 4, 9.4, 9.5
+
+3.2.4, 3.18, 6.1.1, 8.3.3, 9.5.1, 9.6.7, 10.3.3, 11.1.1, Contract Award and Execution, Conditions Relating
+11.3.5, 11.3.7, 14.1.3, 14.2.4, 15.1.6 to
+
+Claims Subject to Arbitration 3.7.1, 3.10, 5.2, 6.1, 11.1.3, 11.3.6, 11.4.1
+
+15.31, 15.4.1 Contract Documents, Copies Furnished and Use of
+Cleaning Up 1.5.2, 2.2.5, 5.3
+
+3.15, 6.3 Contract Documents, Definition of
+Commencement of the Work, Conditions Relating to 1.1.1
+
+2.2.1, 352.2; 3.4.1, 3.7.1, 3.10.1, 3.12.6, 5.2.1, 5.2.3, Contract Sum
+
+6.2.2, 8.1.2, 8.2.2, 8.3.1, 11.1, 11.3.1, 11.3.6, 11.4.1, 3.7.4, 3.8, 5.2.3, 7.2, 7.3, 7.4, 9.1, 9.4.2, 9.5.1.4,
+15.1.4 9.6.7, 9.7, 10.3.2, 11.3.1, 14.2.4, 14.3.2, 15.1.4,
+Commencement of the Work, Definition of 15.2.5
+
+8.1.2 Contract Sum, Definition of
+
+Communications Facilitating Contract 9:1
+
+Administration Contract Time
+
+3.9.1, 4.2.4 3.7.4, 3.7.5, 3:10.2; 5.2.3, 7.2.3, LBs, 73:5, 7.45
+Completion, Conditions Relating to 8.1.1, 8.2.1, 8.3.1, 9.5.1, 9.7,/10.3:2, 12.1.1, 14.3.2,
+3.4.1, 3.11, 3.15, 4.2.2, 4.2.9, 8.2, 9.4.2, 9.8, 9.9.1, 1.1.5.1, 15.25
+
+9.10, 12.2, 13.7, 14.1.2 Contract Time, Definition of
+
+COMPLETION, PAYMENTS AND 8.1.1
+
+9 CONTRACTOR
+
+Completion, Substantial 3
+
+4.2.9, 8.1.1, 8.1.3, 8.2.3, 9.4.2, 9.8, 9.9.1, 9.10.3, Contractor, Definition of
+
+12.2, 13.7 3.1, 6.1.2
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 3
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2016 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 6 =====
+Contractor’s Construction Schedules 3.14, 6.2.5
+
+3.10, 3.12.1, 3.12.2, 6.1.3, 15.1.5.2 Damage to Construction of Owner or Separate
+Contractor’s Employees Contractors
+
+3.3.2, 3.4.3, 3.8.1, 3.9, 3.18.2, 4.2.3, 4.2.6, 10.2, 10.3, 3.14.2, 6.2.4, 10.2.1.2, 10.2.5, 10.4, 11.1.1, 11.3,
+L110, 11.3.7, 14.1, 14.2.1.1 12.2.4
+
+Contractor’s Liability Insurance Damage to the Work
+
+11.1 3.14.2, 9.9.1, 10.2.1.2, 10.2.5, 10.4, 11.3.1, 12.2.4
+Contractor’s Relationship with Separate Contractors Damages, Claims for
+
+and Owner’s Forces 3.2.4, 3.18, 6.1.1, 8.3.3, 9.5.1, 9.6.7, 10.3.3, 11.1.1,
+3.12.5, 3.14.2, 4.2.4, 6, 11.3.7, 12.1.2, 12.2.4 11.3.5, 11.3.7, 14.1.3, 14.2.4, 15.1.6
+
+Contractor’s Relationship with Subcontractors Damages for Delay
+
+1.2.2, 3.3.2, 3.18.1, 3.18.2, 5, 9.6.2, 9.6.7, 9.10.2, 6.1.1, 8.3.3, 9.5.1.6, 9.7, 10.3.2
+
+11,3.1.2, 11.3.7, 11.3.8 Date of Commencement of the Work, Definition of
+Contractor’s Relationship with the Architect 8.1.2
+
+14,2, 1:5; 3:13; 3.2.2, 3:23; 3.245331, 3:42,35, Date of Substantial Completion, Definition of
+314,310; 3.11, 3.12, 3.16,:3.18, 4.1.3,4.2, 5.2, 8.1.3
+
+6.2.2, 7, 8.3.1, 9.2, 9.3, 9.4, 9.5, 9.7, 9.8, 9.9, 10.2.6, Day, Definition of
+
+10.3, 11.3.7, 12, 13.5, 15.1.2, 15.2.1 8.1.4
+
+Contractor’s Representations Decisions of the Architect
+
+3\2i1,.3:22; 3,5; 3.12.6; 6.2:2;8.2.1; 9.3.3, 958.2 3.7.4, 4.2.6, 4.2.7, 4.2.11, 4.2.12, 4.2.13, 15.2, 6.3,
+Contractor’s Responsibility for Those Performing the 7.3.7, 7.3.9, 8.1.3, 8.3.1, 9.2, 9.4, 9.5.1, 9.8.4, 9.9.1,
+Work 13.5.2, 14.2.2, 14.2.4, 15.1, 15.2
+
+3.3.2, 3.18, 5.3, 6.1.3, 6.2, 9.5.1, 10.2.8 Decisions to Withhold Certification
+
+Contractor’s Review of Contract Documents 9.4.1, 9.5, 9.7, 14.1.1.3
+
+cw) Defective or Nonconforming Work, Acceptance,
+Contractor’s Right to Stop the Work Rejection and Correction of
+
+97 2.3, 2.4, 3.5, 4.2.6, 6.2.5, 9.5.1, 9.5.2, 9.6,6; 9.8.2,
+Contractor’s Right to Terminate the Contract 9.9.3, 9.10.4, 12.2.1
+
+14.1, 15.1.6 Definitions
+
+Contractor’s Submittals 1.1, 2.1.1, 3.1.1, 3.5, 3.12.1, 3.12:2, 3.12.3, 4.1.1,
+3.10, 3.11, 3.12.4, 4.2.7, 5.2.1, 5.2.3, 9.2, 9.3, 9.8.2, 15.1.1, 5.1, 6.1.2, 7.2.1, 7.3.15 8.1, 9.1, 9.8.1
+
+9.8.3, 9.9.1, 9.10.2, 9.10.3, 11.1.3, 11.4.2 Delays and Extensions of Time
+
+Contractor’s Superintendent 3.2, 3.7.4, 5.2.3, 7.2.1, 7.3.1, 7.4, 8.3, 9.5.1, 9.7,
+
+3.9, 10.2.6 10.3.2, 10.4, 14.3.2, 15.1.5, 15.2.5
+
+Contractor’s Supervision and Construction Disputes
+
+Procedures 6.3, 7.3.9, 15.1, 15.2
+
+1.2.2, 3.3, 3.4, 3.12.10, 4.2.2, 4.2.7, 6.1.3, 6.2.4, Documents and Samples at the Site
+
+7.1.3, 7.3.5, 7.3.7, 8.2, 30, 12, 14,.15.1.3 3.11
+
+Contractual Liability Insurance Drawings, Definition of
+
+11.1.1.8, 11.2 1.1.5
+
+Coordination and Correlation Drawings and Specifications, Use and Ownership of
+1.2, 3.2.1, 3.3.1, 3.10, 3.12.6, 6.1.3, 6.2.1 3.11
+
+Copies Furnished of Drawings and Specifications Effective Date of Insurance
+
+1.5, 2.2.5, 3.11 8.2.2, 11.1.2
+
+Copyrights Emergencies
+
+L5, 3.17 10.4, 14.1.1.2, 15.1.4
+
+Correction of Work Employees, Contractor’s
+
+2.3, 2.4, 3.7.3, 9.4.2, 9.8.2, 9.8.3, 9.9.1, 12.1.2, 12.2 3.3.2, 3.4.3, 3.8.1, 3.9, 3.18.2, 4.2:3, 4.2.6, 10.2,
+Correlation and Intent of the Contract Documents 10.3.3, 11.1.1, 11.3.7, 14.1, 14.2.1.1
+
+1.2 Equipment, Labor, Materials or
+
+Cost, Definition of 1.1.3, 1.1.6,.3.4, 3.5; 3.8.2; 2.8.3 3.12; 3.13, 3.15.1,
+73.7 4.2.6, 4.2:7;,5.2.1, 62.1, 1.317, 9.352, 9.3.3, 9.5.1.3,
+Costs 9.10.2, 10.2.1, 10.2.4, 14.2.1.1, 14.2.1.2
+
+2.4, 3.2.4, 3.7.3, 3.8.2, 3.15.2, 5.4.2, 6.1.1, 6.2.3, Execution and Progress of the Work
+
+7.3.3.3, 7.3.7, 7.3.8, 7.3.9, 9.10.2, 10.3.2, 10.3.6, 1.1.3) 1.2.1, 12:2; 2.2:3,.2:255. 377, 3.3315 satel, oD)
+11.3, 12.1.2, 12.2.1, 12.2.4, 13.5, 14 3.7.1, 3.10.1, 3.12, 3.14, 4.2,.6.2.2,-7.1.3,-7.3.5,-8.2,
+Cutting and Patching 9.5.1, 9.9.1, 10.2, 10.3, 12.2, 14.2, 14.3.1, 15.1.3
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 4
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 7 =====
+Extensions of Time 8.2.2, 11.1.2
+
+3.2.4, 3.7.4, 5.2.3, 7.2.1, 7.3, 7.4, 9.5.1, 9.7, 10.3.2, Insurance, Loss of Use
+
+10.4, 14.3, 15.1.5, 15.2.5 11.3.3
+
+Failure of Payment Insurance, Owner’s Liability
+
+9.5.1.3, 9.7, 9.10.2, 13.6, 14.1.1.3, 14.2.1.2 11.2
+
+Faulty Work Insurance, Property
+
+(See Defective or Nonconforming Work) 10.2.5, 11.3
+
+Final Completion and Final Payment Insurance, Stored Materials
+
+4.2.1, 4.2.9, 9.8.2, 9.10, 11.1.2, 11.1.3, 11.3.1, 11.3.5, 93.2
+
+12.3, 14.2.4, 14.4.3 INSURANCE AND BONDS
+
+Financial Arrangements, Owner’s 11
+
+2.2.1, 13.2.2, 14.1.1.4 Insurance Companies, Consent to Partial Occupancy
+Fire and Extended Coverage Insurance 99:1
+
+11.3.1.1 Intent of the Contract Documents
+
+GENERAL PROVISIONS 1.2.1, 4.2.7, 4.2.12, 4.2.13, 7.4
+
+1 Interest
+
+Governing Law 13.6
+
+13.1 Interpretation
+
+Guarantees (See Warranty) 1.2.3, 1.4, 4.1.1, 5.1, 6.1.2, 15.1.1
+
+Hazardous Materials Interpretations, Written
+
+10.2.4, 10.3 4.2.11, 4.2.12, 15.1.4
+
+Identification of Subcontractors and Suppliers Judgment on Final Award
+
+3.2.1 15.4.2
+
+Indemnification Labor and Materials, Equipment
+
+3.17, 3.18, 9.10.2, 10.3.3, 10.3.5, 10.3.6, 11.3.1.2, 1.1.3, 1.1.6, 3.4, 3.5, 3.8.2, 3.8.3, 3.12, 3.13, 3.15.1,
+11.3.7 4.26, 4.2.7, 52:1,:6:2:1, 734s 93,2, 9.33: 9 Adlsde
+Information and Services Required of the Owner 9.10.2, 10.2.1, 10.2.4, 14.2.1.1, 14.2.1.2
+
+2.1.2, 2.2, 3.2.2, 3.12.4, 3.12.10, 6.1.3, 6.1.4, 6.2.5, Labor Disputes
+
+9.6.1, 9.6.4, 9.9.2, 9.10.3, 10.3.3, 11.2, 11.4, 13.5.1, 8.3.1
+
+13.5.2, 14.1.1.4, 14.1.4, 15.1.3 Laws and Regulations
+
+Initial Decision 1.5, 3.2.3, 3.6, 3.7, 3.12.10, 3313, 4.1.1,°9:6.4, 99.1}
+15.2 10.2.2, 11.1.1, 11.3, 13.1, 13.4, 13.5.1)13.5.2, 13.6,
+Initial Decision Maker, Definition of 14, 15.2.8, 15.4
+
+118 Liens
+
+Initial Decision Maker, Decisions 2.1.2, 9.3.3, 9.10.2, 9.10.4, 15.2.8
+
+14.2.2, 14.2.4, 15.2.1, 15.2.2, 15.2.3, 15.2.4, 15.2.5 Limitations, Statutes of
+
+Initial Decision Maker, Extent of Authority 12.25, 13:7, 15.411
+
+14:2,2,, 14,214, 19.1,3,, 15.2.1, 15.2.2, 15.2.3, 15.2.4, Limitations of Liability
+
+15.2.5 2.3, 3.2.2, 3.5, 3.12.10, 3.17, 3.18.1, 4.2.6,\4.2:7,
+Injury or Damage to Person or Property 4.2.12, 6.2.2, 9.4.2, 9.6.4, 9.6.7, 10.2.5, 10.3.3,
+10.2.8, 10.4 11.1.2, 11.2, 11.3.7, 12.2.5, 13.4.2
+
+Inspections Limitations of Time
+
+3.1.3, 3.3.3, 3.7.1, 4.2.2, 4.2.6, 4.2.9, 9.4.2, 9.8.3, 2.1.2, 2.2, 2.4, 3.2.2, 3.10, 3.11, 3.12.5, 3.15.1, 4.2.7,
+9.9.2, 9.10.1, 12.2.1, 13.5 5.2, 5.3, 5.4.1, 6.2.4, 7.3, 7.4, 8.2, 9.2, 9.3.1, 9.3.3,
+Instructions to Bidders 9.4.1, 9.5, 9.6, 9.7, 9.8, 9.9, 91OSbeh3Sth3eh5;
+1.1.1 11.3.6, 11.3.10, 12.2,, 13.5, 13.7, 14,15
+
+Instructions to the Contractor Loss of Use Insurance
+
+3.2.4, 343.1, 3.8.1, 5:2.1, 7, 8.2.2, 12, 13.5.2 11.3.3
+
+Instruments of Service, Definition of Material Suppliers
+
+1.1.7 1.5, 3.12.1, 4.2.4, 4.2.6, 5.2.1, 9.3, 9.4.2, 9.6, 9.10.5
+Insurance Materials, Hazardous
+
+3.18.1, 6.1.1, 7.3.7, 9.3.2, 9.8.4, 9.9.1, 9.10.2, 11 10.2.4, 10.3
+
+Insurance, Boiler and Machinery Materials, Labor, Equipment and
+
+11.3.2 1.1.3, 1.1.6, 1.5.1, 3.4.1, 3.5] 3.8.2, 3.8.3, 3.12, 3.13,
+Insurance, Contractor’s Liability 3.15.1 ,,4:2:6, 4.2.7, 5.2,15:6:2.1, T1315 Geases Oreos
+11.1 9.5.1.3, 9.10.2, 10.2.1.2, 10.2.4, 14.2.1.1,14.2.1,.2
+Insurance, Effective Date of
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by Ihe American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 5
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 8 =====
+Means, Methods, Techniques, Sequences and Owner’s Financial Capability
+
+Procedures of Construction 2.2.1, 13.2.2, 14.1.1.4
+
+3.3.1, 3.12.10, 4.2.2, 4.2.7, 9.4.2 Owner’s Liability Insurance
+
+Mechanic’s Lien 11.2
+
+2.1.2, 15.2.8 Owner’s Relationship with Subcontractors
+
+Mediation 1.1.2, 5.2, 5.3, 5.4, 9.6.4, 9.10.2; 14.2.2
+
+8.3.1, 10.3.5, 10.3.6, 15.2.1, 15.2.5, 15.2.6, 15.3, Owner’s Right to Carry Out the Work
+
+15.4.1 2.4, 14.2.2
+
+Minor Changes in the Work Owner’s Right to Clean Up
+
+1.1.1, 3.12.8, 4.2.8, 7.1, 7.4 6.3
+
+MISCELLANEOUS PROVISIONS Owner’s Right to Perform Construction-and to
+
+13 Award Separate Contracts
+
+Modifications, Definition of 6.1
+
+1.1.1 Owner’s Right to Stop the Work
+
+Modifications to the Contract 2.3
+
+L.1.1, 1.1.2, 3.11, 4.1.2, 4.2.1, 5.2.3, 7, 8.3.1, 9.7, Owner’s Right to Suspend the Work
+
+10.3.2, 11.3.1 14.3
+
+Mutual Responsibility Owner’s Right to Terminate the Contract
+
+6.2 14.2
+
+Nonconforming Work, Acceptance of Ownership and Use of Drawings, Specifications
+9.6.6, 9.9.3, 12.3 and Other Instruments of Service
+
+Nonconforming Work, Rejection and Correction of Ld, 1.1.6;.1.1,7; 1:5; 225032253514 3217, F202,
+2.3, 2.4, 3.5, 4.2.6, 6.2.4, 9.5.1, 9.8.2, 9.9.3, 9.10.4, 53
+
+12.2.1 Partial Occupancy or Use
+
+Notice 9.6.6, 9.9, 11.3.1.5
+
+2.2.1,.2.3,.2.4, 3.2.4, 3.3.1, 3.7.2, 3.12.9, 5.2.1,.9.7, Patching, Cutting and
+
+9.10, 10.2.2, 11.1.3, 12.2.2.1, 13.3, 13.5.1, 13.5.2, 3.14, 6.2.5
+
+14.1, 14.2, 15.2.8, 15.4.1 Patents
+
+Notice, Written 3.17
+
+2.3, 2.4, 3.3.1, 3.9.2, 3.12.9, 3.12.10, 5.2.1, 9.7, 9.10, Payment, Applications for
+
+10.2.2, 10.3, 11.1.3, 11.3.6, 12.2.2.1, 13.3, 14, 15.2.8, 4.2.5, 7.3.9, 9.2, 9.3, 9.4, 9.5, 9.6.3, 9.7, 9.8.5, 9.10.1,
+15.4.1 14.2.3, 14.2.4, 14.4.3
+
+Notice of Claims Payment, Certificates for
+
+3.7.4, 10.2.8, 15.1.2, 15.4 4.2.5, 4.2.9, 9.3.3, 9.4, 9.5, 9.6.1, 9.6.6, 9.7, 9.10.1,
+Notice of Testing and Inspections 9.10.3, 13.7, 14.1.1.3, 14.2.4
+
+13.5.1, 13.5.2 Payment, Failure of
+
+Observations, Contractor’s 9.5.1.3, 9.7, 9.10.2, 13.6, 14.1.4.3, 14.2.1.2
+
+3.2; 3: T4 Payment, Final
+
+Occupancy 4.2.1, 4.2.9, 9.8.2, 9.10, 11.1.2, 11.1.3, 11.4.1,12.3,
+2.2.2, 9.6.6, 9.8, 11.3.1.5 13.7, 14.2.4, 14.4.3
+
+Orders, Written Payment Bond, Performance Bond and
+
+11.1, 2.3; 3.9.2, 7, 8.2.2, 11.3.9; 12.1, 12.2.2.1, 7.3.7.4, 9.6.7, 9.10.3, 11.4
+
+13.5.2, 14.3.1 Payments, Progress
+
+OWNER 9.3, 9.6, 9.8.5, 9.10.3, 13.6, 14.2.3, 15.1.3
+
+2 PAYMENTS AND COMPLETION
+
+Owner, Definition of 9
+
+2.1.1 Payments to Subcontractors
+
+Owner, Information and Services Required of the 5.4.2, 9.5.1.3, 9.6.2, 9.6.3, 9.6.4, 9.6.7, 14.2.1.2
+2.1.2, 2.2, 3.2.2, 3.12.10, 6.1.3, 6.1.4, 6.2.5, 9.3.2, PCB
+
+9.6.1, 9.6.4, 9.9.2, 9.10.3, 10.3.3, 11.2, 11.3, 13.5.1, 10.3.1
+
+13.5.2, 14.1.1.4, 14.1.4, 15.1.3 Performance Bond and Payment Bond
+
+Owner’s Authority 7.3.7.4, 9.6.7, 9.10.3, 11.4
+
+1.5; 2:1.1, 2:3, 2:4,,3:4.2, 3.8.1, 3.12.10, 3.14.2,.4,1.2, Permits, Fees, Notices and Compliance with Laws
+4.1.3, 4.2.4, 4.2.9, 5.2.1, 5.2.4, 5.4.1, 6.1, 6.3, 7.2.1, 2.2.2, 3.7, 3.13, 7.3.7.4, 10.2.2
+
+7.3.1, 8.2.2, 8.3.1, 9.3.1, 9.3.2, 9.5.1, 9.6.4, 9.9.1, PERSONS AND PROPERTY, PROTECTION
+9.10.2, 10.3.2, 11.1.3, 11.3.3, 11.3.10, 12.2.2, 12.3, OF
+
+13.2.2, 14.3, 14.4, 15.2.7 10
+
+AIA Document A204™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 6
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No, 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 9 =====
+Polychlorinated Bipheny! Samples, Definition of
+
+10.3.1 3.12.3
+
+Product Data, Definition of Samples, Shop Drawings, Product Data and
+3.12.2 3.11, 3.12, 4.2.7
+
+Product Data and Samples, Shop Drawings Samples at the Site, Documents and
+
+3.11, 3.12, 4.2.7 3.11
+
+Progress and Completion Schedule of Values
+
+4.2.2, 8.2, 9.8, 9.9.1, 14.1.4, 15.1.3 9.2,.9.3.1
+
+Progress Payments Schedules, Construction
+
+9,3, 9.6, 9.8.5, 9.10.3, 13.6, 14.2.3, 15.1.3 3.10, 3.12.1, 3.12.2, 6.1.3, 15.1.5.2
+
+Project, Definition of Separate Contracts and Contractors
+
+1.1.4 1.1.4, 3.12.5, 3.14.2, 4.2.4, 4.2.7, 6, 8.3.1, 12.1.2
+Project Representatives Shop Drawings, Definition of
+
+4.2.10 3.12.1
+
+Property Insurance Shop Drawings, Product Data and Samples
+10.2.5, 11.3 3.11, 3.12, 4.2.7
+
+PROTECTION OF PERSONS AND PROPERTY Site, Use of
+
+10 3.13, 6.1.1, 6.2.1
+
+Regulations and Laws Site Inspections
+
+1,5, 3.2.3, 3.6, 3.7, 3.12.10, 3.13, 4.1.1, 9.6.4, 9.9.1, 3.2.2, 3.3.3, 3.7.1, 3.7.4, 4.2, 9.4.2, 9.10.1, 13.5
+10.2.2, 11.1, 11.4, 13.1, 13.4, 13.5.1, 13.5.2, 13.6, 14, Site Visits, Architect’s
+
+15.2.8, 15.4 3.7.4, 4.2.2, 4.2.9, 9.4.2, 9.5.1, 9.9.2, 9.10.1, 13°5
+Rejection of Work Special Inspections and Testing
+
+3.5, 4.2.6, 12.2.1 4.2.6; 12.2.1, 13.5
+
+Releases and Waivers of Liens Specifications, Definition of
+
+9.10.2 1.1.6
+
+Representations Specifications
+
+3.2.1, 3.5, 3.12.6, 6.2.2, 8.2.1, 9.3.3, 9.4.2, 9.5.1, 1.1.1, 1.1.6, 1.2.2, 1.5, 3.11, 3.12,107°3.17, 4.2.14
+9.8.2, 9.10.1 Statute of Limitations
+
+Representatives 13.7, 15.4.1.1
+
+2.1.1, 3.1.1, 3.9, 4.1.1, 4.2.1, 4.2.2, 4.2.10, 5.1.1, Stopping the Work
+
+$.1.2, 13.2.1 2.3, 9.7, 10.3, 14.1
+
+Responsibility for Those Performing the Work Stored Materials
+
+33.2, 3.18, 4.2.3, 5.3, 6.1.3, 6.2, 6.3, 9.5.1, 10 6.2.1, 9.3.2, 10.2.1.2, 10.2.4
+
+Retainage Subcontractor, Definition of
+
+9.3.1, 9.6.2, 9.8.5, 9.9.1, 9.10.2, 9.10.3 5.1.1
+
+Review of Contract Documents and Field SUBCONTRACTORS
+
+Conditions by Contractor 5
+
+3.2, 3.12.7, 6.1.3 Subcontractors, Work by
+
+Review of Contractor’s Submittals by Owner and 1.2.2, 3.3.2, 3.12.1, 4.2.3, 5.2.3,/5.3, 5:4, 98, 1.2¢
+Architect 9.6.7
+
+3.1 0.1,, 3:0:2; 3.11, 312,42, 5.2; 6.1.3, 92, 9.8.2 Subcontractual Relations
+
+Review of Shop Drawings, Product Data and 5.3, 5.4, 9.3.1.2, 9.6, 9.10, 10.2.1, 14.1, 14.2.1
+Samples by Contractor Submittals
+
+3.12 3.10, 3.11, 3.12,,4:2,7, 5.2.1 P2377 33779129935
+Rights and Remedies 9.8, 9.9.1, 9.10.2, 9.10.3, 11.1.3
+
+1.1.2, 2,3, 2.4, 3.5, 3.7.4, 3.15.2, 4.2.6, 5.3, 5.4, 6.1, Submittal Schedule
+
+6.3, 7.3.1, 8.3, 9.5.1, 9.7, 10.2.5, 10.3, 12.2.2, 12.2.4, 3.10.2, 3.12.5, 4.2.7
+
+13.4, 14, 15.4 Subrogation, Waivers of
+
+Royalties, Patents and Copyrights 6.1.1, 11.3.7
+
+3.17 Substantial Completion
+
+Rules and Notices for Arbitration 4.2.9, 8.1.1, 8.1.3, 8.2.3, 9.4.2, 9.8, 9.9.1, 9.10.3,
+15.4.1 12.2, 13.7
+
+Safety of Persons and Property Substantial Completion, Definition of
+
+10.2, 10.4 9.8.1
+
+Safety Precautions and Programs Substitution of Subcontractors
+
+3.3.1, 4.2.2, 4.2.7, 5.3, 10.1, 10.2, 10.4 5.2.3,,5.2.4
+
+AIA Document A204™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 7
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to tho
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 10 =====
+Substitution of Architect 9.4.1, 9.5, 9.6, 9.7, 9.8, 9.9, 9.10, 11.1.3, 12.2, 13.5,
+4.13 13.7, 14, 15.1.2, 15.4
+
+Substitutions of Materials Time Limits on Claims
+
+3.4.2, 3.5, 7.3.8 3.7.4, 10.2.8; 13.7, 15.1.2
+
+Sub-subcontractor, Definition of Title to Work
+
+§,1.2 9.3.2,9:3,3,
+
+Subsurface Conditions Transmission of Data in Digital Form
+
+3.7.4 1.6
+
+Successors and Assigns UNCOVERING AND CORRECTION OF
+
+13.2 WORK
+
+Superintendent 12
+
+3.9, 10.2.6 Uncovering of Work
+
+Supervision and Construction Procedures 21
+
+1.2.2, 3.3, 3.4, 3.12.10, 4.2.2, 4.2.7, 6.1.3, 6.2.4, Unforeseen Conditions, Concealed or Unknown
+7.1.3, 7.3.7, 8.2, 8.3.1, 9.4.2, 10, 12, 14, 15.1.3 3.7.4, 8.3.1, 10.3
+
+Surety Unit Prices
+
+5.4.1.2, 9.8.5, 9.10.2, 9.10.3, 14.2.2, 15.2.7 13:32; 13:4
+
+Surety, Consent of Use of Documents
+
+9.10.2, 9.10.3 1.1.1, 1.5, 2.2.5, 3.12.6, 5.3
+
+Surveys Use of Site
+
+2.2.3 3.13, 6.1.1, 6.2.1
+
+Suspension by the Owner for Convenience Values, Schedule of
+
+14.3 9,2, 9.3.1
+
+Suspension of the Work Waiver of Claims by the Architect
+
+§.4.2, 14.3 13.4.2
+
+Suspension or Termination of the Contract Waiver of Claims by the Contractor
+
+5.4.1.1, 14 9.10.5, 13.4.2, 15.1.6
+
+Taxes Waiver of Claims by the Owner
+
+3.6, 3.8.2.1, 7.3.7.4 9.9.3, 9.10.3, 9.10.4, 12.2.2.1, 13.4.2, 14.2.4, 15.1.6
+Termination by the Contractor Waiver of Consequential Damages
+
+14,1, 15.1.6 14.2.4, 15.1.6
+
+Termination by the Owner for Cause Waiver of Liens
+
+5.4.1.1, 14.2, 15.1.6 9.10.2, 9.10.4
+
+Termination by the Owner for Convenience Waivers of Subrogation
+
+14.4 6.1.1, 11.3.7
+
+Termination of the Architect Warranty
+
+4.1.3 3.5, 4.2.9, 9.3.3, 9.8.4, 9.9.1, 9.10.4, 12.2.2,.13.7
+Termination of the Contractor Weather Delays
+
+14.2.2 15.1.5.2
+
+TERMINATION OR SUSPENSION OF THE Work, Definition of
+
+CONTRACT 1.1.3
+
+14 Written Consent
+
+Tests and Inspections 1.5.2, 3.4.2, 3.7.4, 3.12.8, 3.14.2, 4.1.2, 9.3.2, 9.8.5,
+3.1.3, 3.3.3, 4.2.2, 4.2.6, 4.2.9, 9.4.2, 9.8.3, 9.9.2, 9.9.1, 9.10.2, 9.10.3, 11.4.1, 13.2, 13.4.2, 15.4.4.2
+9.10.1, 10.3.2, 11.4.1, 12.2.1, 13.5 Written Interpretations
+
+TIME 4.2.11, 4.2.12
+
+8 Written Notice
+
+Time, Delays and Extensions of 2:3, 2.4, 3.3.1, 3.9, 3.12.9; 3.12,J075.2.1, 8.2.2, 9:7,
+3.2.4, 3.7.4, 5.2.3, 7.2.1, 7.3.1, 7.4, 8.3, 9.5.1, 9.7, 9.10, 10.2.2, 10.3, 11.1.3, 12.2.2, 12.2.4, 13.3, 14,
+10.3.2, 10.4, 14.3.2, 15.1.5, 15.2.5 15.4.1
+
+Time Limits Written Orders
+
+2.1.2, 2.2, 2.4, 3.2.2, 3.10, 3.11, 3.12.5, 3.15.1, 4.2, 1.1.1, 2.3, 3.9, 7, 8.2.2, 12.1, 12:2, 13.5.2, 14.3.1,
+5,2; 5:3, 5.4, 6.2.4, 7.35 7.4;,8.2, 9.2, 9.3.1, 9.3.3,, 15.1.2
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 8
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No, 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B8ADA2C)
+
+
+===== PAGE 11 =====
+ARTICLE 1 GENERAL PROVISIONS
+
+§ 1.1 BASIC DEFINITIONS
+
+§ 1.1.1 THE CONTRACT DOCUMENTS
+
+The Contract Documents are enumerated in the Agreement between the Owner and Contractor (hereinafter the
+Agreement) and consist of the Agreement, Conditions of the Contract (General, Supplementary and other
+Conditions), Drawings, Specifications, Addenda issued prior to execution of the Contract, other documents listed in
+the Agreement and Modifications issued after execution of the Contract. A Modification is (1) a written amendment
+to the Contract signed by both parties, (2) a Change Order, (3) a Construction Change Directive or (4) a written
+order for a minor change in the Work issued by the Architect. Unless specifically enumerated in the Agreement, the
+Contract Documents do not include the advertisement or invitation to bid, Instructions to Bidders, sample forms,
+other information furnished by the Owner in anticipation of receiving bids or proposals, the Contractor’s bid or
+proposal, or portions of Addenda relating to bidding requirements.
+
+§ 1.1.2 THE CONTRACT
+
+The Contract Documents form the Contract for Construction. The Contract represents the entire and integrated
+agreement between the parties hereto and supersedes prior negotiations, representations or agreements, either written
+or oral, The Contract may be amended or modified only by a Modification. The Contract Documents shall not be
+construed to create a contractual relationship of any kind (1) between the Contractor and the Architect or the
+Architect’s consultants, (2) between the Owner and a Subcontractor or a Sub-subcontractor, (3) between the Owner
+and the Architect or the Architect’s consultants or (4) between any persons or entities other than the Owner and the
+Contractor. The Architect shall, however, be entitled to performance and enforcement of obligations under the
+Contract intended to facilitate performance of the Architect’s duties.
+
+§ 1.1.3 THE WORK
+
+The term “Work” means the construction and services required by the Contract Documents, whether completed or
+partially completed, and includes all other labor, materials, equipment and services provided or to be provided by
+the Contractor to fulfill the Contractor’s obligations. The Work may constitute the whole or a part of the Project.
+
+§ 1.1.4 THE PROJECT
+
+The Project is the total construction of which the Work performed under the Contract Documents may be the whole
+or a part and which may include construction by the Owner and by separate contractors.
+
+§ 1.1.5 THE DRAWINGS
+
+The Drawings are the graphic and pictorial portions of the Contract Documents showing the design, location and
+dimensions of the Work, generally including plans, elevations, sections, details, schedules and diagrams.
+
+§ 1.1.6 THE SPECIFICATIONS
+
+The Specifications are that portion of the Contract Documents consisting of the written requirements for materials,
+equipment, systems, standards and workmanship for the Work, and performance of related services.
+
+§ 1.1.7 INSTRUMENTS OF SERVICE
+
+Instruments of Service are representations, in any medium of expression now known or later developed, of the
+tangible and intangible creative work performed by the Architect and the Architect’s consultants under their
+respective professional services agreements. Instruments of Service may include, without limitation, studies,
+surveys, models, sketches, drawings, specifications, and other similar materials.
+
+§ 1.1.8 INITIAL DECISION MAKER
+
+The Initial Decision Maker is the person identified in the Agreement to render initial decisions on Claims in
+accordance with Section 15.2 and certify termination of the Agreement under Section 14.2.2.
+
+§ 1.2 CORRELATION AND INTENT OF THE CONTRACT DOCUMENTS
+
+§ 1.2.1 The intent of the Contract Documents is to include all items necessary for the proper execution and
+completion of the Work by the Contractor. The Contract Documents are complementary, and what is required by
+one shall be as binding as if required by all; performance by the Contractor shall be required only to the extent
+consistent with the Contract Documents and reasonably inferable from them as being necessary to produce the
+indicated results.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 9
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 12 =====
+§ 1.2.2 Organization of the Specifications into divisions, sections and articles, and arrangement of Drawings shall not
+control the Contractor in dividing the Work among Subcontractors or in establishing the extent of Work to be
+performed by any trade.
+
+§ 1.2.3 Unless otherwise stated in the Contract Documents, words that have well-known technical or construction
+industry meanings are used in the Contract Documents in accordance with such recognized meanings.
+
+§ 1.3 CAPITALIZATION
+
+Terms capitalized in these General Conditions include those that are (1) specifically defined, (2) the titles of
+numbered articles or (3) the titles of other documents published by the American Institute of Architects.
+
+§ 1.4 INTERPRETATION
+
+In the interest of brevity the Contract Documents frequently omit modifying words such as “all” and “any” and
+articles such as “the” and “an,” but the fact that a modifier or an article is absent from one statement and appears in
+another is not intended to affect the interpretation of either statement.
+
+§ 1.5 OWNERSHIP AND USE OF DRAWINGS, SPECIFICATIONS AND OTHER INSTRUMENTS OF SERVICE
+
+§ 1.5.1 The Architect and the Architect’s consultants shall be deemed the authors and owners of their respective
+Instruments of Service, including the Drawings and Specifications, and will retain all common law, statutory and
+other reserved rights, including copyrights. The Contractor, Subcontractors, Sub-subcontractors, and material or
+equipment suppliers shall not own or claim a copyright in the Instruments of Service. Submittal or distribution to
+meet official regulatory requirements or for other purposes in connection with this Project is not to be construed as
+publication in derogation of the Architect’s or Architect’s consultants’ reserved rights.
+
+§ 1.5.2 The Contractor, Subcontractors, Sub-subcontractors and material or equipment suppliers are authorized to use
+and reproduce the Instruments of Service provided to them solely and exclusively for execution of the Work. All
+copies made under this authorization shall bear the copyright notice, if any, shown on the Instruments of Service.
+The Contractor, Subcontractors, Sub-subcontractors, and material or equipment suppliers may not use the
+Instruments of Service on other projects or for additions to this Project outside the scope of the Work without the
+specific written consent of the Owner, Architect and the Architect’s consultants.
+
+§ 1.6 TRANSMISSION OF DATA IN DIGITAL FORM
+
+If the parties intend to transmit Instruments of Service or any other information or documentation in digital form,
+they shall endeavor to establish necessary protocols governing such transmissions, unless otherwise already
+provided in the Agreement or the Contract Documents.
+
+ARTICLE 2 OWNER
+
+§ 2.1 GENERAL
+
+§ 2.1.1 The Owner is the person or entity identified as such in the Agreement and is referred to throughout the
+Contract Documents as if singular in number. The Owner shall designate in writing a representative who shall have
+express authority to bind the Owner with respect to all matters requiring the Owner’s approval or authorization.
+Except as otherwise provided in Section 4.2.1, the Architect does not have such authority. The term “Owner” means
+the Owner or the Owner’s authorized representative.
+
+§ 2.4.2 The Owner shall furnish to the Contractor within fifteen days after receipt of a written request, information
+necessary and relevant for the Contractor to evaluate, give notice of or enforce mechanic’s lien rights. Such
+information shall include a correct statement of the record legal title to the property on which the Project is located,
+usually referred to as the site, and the Owner’s interest therein.
+
+§ 2.2 INFORMATION AND SERVICES REQUIRED OF THE OWNER
+
+§ 2.2.1 Prior to commencement of the Work, the Contractor may request in writing that the Owner provide
+reasonable evidence that the Owner has made financial arrangements to fulfill the Owner’s obligations under the
+Contract. Thereafter, the Contractor may only request such evidence if (1) the Owner fails to make payments to the
+Contractor as the Contract Documents require; (2) a change in the Work materially changes the Contract Sum; or (3)
+the Contractor identifies in writing a reasonable concern regarding the Owner’s ability to make payment when due.
+The Owner shall furnish such evidence as a condition precedent to commencement or continuation of the Work or
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA” Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 10
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B8ADA2C)
+
+
+===== PAGE 13 =====
+the portion of the Work affected by a material change. After the Owner furnishes the evidence, the Owner shall not
+materially vary such financial arrangements without prior notice to the Contractor.
+§ 2.2.2 Except for permits and fees that are the responsibility of the Contractor under the Contract Documents,
+
+including those required under Section 3.7.1, the Owner shall secure and pay for necessary approvals, easements,
+assessments and charges required for construction, use or occupancy of permanent structures or for permanent
+
+changes in existing facilities.
+
+§ 2.2.3 The Owner shall furnish surveys describing physical characteristics, legal limitations and utility locations for
+
+the site of the Project, and a legal description of the site. The Contractor shall be entitled to rely on the accuracy of
+information furnished by the Owner but shall exercise proper precautions relating to the safe performance of the
+
+Work.
+
+§ 2.2.4 The Owner shall furnish information or services required of the Owner by the Contract Documents with
+
+reasonable promptness. The Owner shall also furnish any other information or services under the Owner’s control
+
+and relevant to the Contractor’s performance of the Work with reasonable promptness after receiving the
+
+Contractor’s written request for such information or services.
+
+§ 2.2.5 Unless otherwise provided in the Contract Documents, the Owner shall furnish to the Contractor one copy of
+
+the Contract Documents for purposes of making reproductions pursuant to Section 1.5.2.
+
+§ 2.3 OWNER'S RIGHT TO STOP THE WORK
+
+If the Contractor fails to correct Work that is not in accordance with the requirements of the Contract Documents as
+required by Section 12.2 or repeatedly fails to carry out Work in accordance with the Contract Documents, the
+
+Owner may issue a written order to the Contractor to stop the Work, or any portion thereof, until the cause for such
+
+order has been eliminated; however, the right of the Owner to stop the Work shall not give rise to a duty on the part
+
+of the Owner to exercise this right for the benefit of the Contractor or any other person or entity, except to the extent
+required by Section 6.1.3.
+
+§ 2.4 OWNER’S RIGHT TO CARRY OUT THE WORK
+
+If the Contractor defaults or neglects to carry out the Work in accordance with the Contract Documents and fails
+
+within a ten-day period after receipt of written notice from the Owner to commence and continue correction of such
+default or neglect with diligence and promptness, the Owner may, without prejudice to other remedies the Owner
+
+may have, correct such deficiencies. In such case an appropriate Change Order shall be issued deducting from
+
+payments then or thereafter due the Contractor the reasonable cost of correcting such deficiencies, including
+
+Owner’s expenses and compensation for the Architect’s additional services made necessary by such-default, neglect
+
+or failure. Such action by the Owner and amounts charged to the Contractor are both subject to prior approval of the
+Architect. If payments then or thereafter due the Contractor are not sufficient to cover such amounts, the Contractor
+
+shall pay the difference to the Owner.
+
+ARTICLE 3 CONTRACTOR
+
+§ 3.1 GENERAL
+
+§ 3.1.1 The Contractor is the person or entity identified as such in the Agreement and is referred to throughout the
+Contract Documents as if singular in number. The Contractor shall be lawfully licensed, if required in the
+
+jurisdiction where the Project is located. The Contractor shall designate in writing a representative who shall have
+
+express authority to bind the Contractor with respect to all matters under this Contract. The term “Contractor” means
+
+the Contractor or the Contractor’s authorized representative.
+
+§ 3.1.2 The Contractor shall perform the Work in accordance with the Contract Documents.
+
+§ 3.1.3 The Contractor shall not be relieved of obligations to perform the Work in accordance with the Contract
+Documents either by activities or duties of the Architect in the Architect’s administration of the Contract, or by tests,
+inspections or approvals required or performed by persons or entities other than the Contractor.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 11
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes; (3B9ADA2C)
+
+
+===== PAGE 14 =====
+§ 3.2 REVIEW OF CONTRACT DOCUMENTS AND FIELD CONDITIONS BY CONTRACTOR
+
+§ 3.2.1 Execution of the Contract by the Contractor is a representation that the Contractor has visited the site,
+
+become generally familiar with local conditions under which the Work is to be performed and correlated personal
+observations with requirements of the Contract Documents.
+
+§ 3.2.2 Because the Contract Documents are complementary, the Contractor shall, before starting each portion of the
+Work, carefully study and compare the various Contract Documents relative to that portion of the Work, as well as
+the information furnished by the Owner pursuant to Section 2.2.3, shall take field measurements of any existing
+conditions related to that portion of the Work, and shall observe any conditions at the site affecting it. These
+obligations are for the purpose of facilitating coordination and construction by the Contractor and are not for the
+purpose of discovering errors, omissions, or inconsistencies in the Contract Documents; however, the Contractor
+shall promptly report to the Architect any errors, inconsistencies or omissions discovered by or made known to the
+Contractor as a request for information in such form as the Architect may require. It is recognized that the
+Contractor’s review is made in the Contractor’s capacity as a contractor and not as a licensed design professional,
+unless otherwise specifically provided in the Contract Documents.
+
+§ 3.2.3 The Contractor is not required to ascertain that the Contract Documents are in accordance with applicable
+laws, statutes, ordinances, codes, rules and regulations, or lawful orders of public authorities, but the Contractor
+
+shall promptly report to the Architect any nonconformity discovered by or made known to the Contractor as a
+request for information in such form as the Architect may require.
+
+§ 3.2.4 If the Contractor believes that additional cost or time is involved because of clarifications or instructions the
+Architect issues in response to the Contractor’s notices or requests for information pursuant to Sections 3.2.2 or
+3.2.3, the Contractor shall make Claims as provided in Article 15. If the Contractor fails to perform the obligations
+of Sections 3.2.2 or 3.2.3, the Contractor shall pay such costs and damages to the Owner as would have been
+avoided if the Contractor had performed such obligations. If the Contractor performs those obligations, the
+Contractor shall not be liable to the Owner or Architect for damages resulting from errors, inconsistencies or
+omissions in the Contract Documents, for differences between field measurements or conditions and the Contract
+Documents, or for nonconformities of the Contract Documents to applicable laws, statutes, ordinances, codes, tules
+and regulations, and lawful orders of public authorities.
+
+§ 3.3 SUPERVISION AND CONSTRUCTION PROCEDURES
+
+§ 3.3.1 The Contractor shall supervise and direct the Work, using the Contractor’s best skill and attention. The
+Contractor shall be solely responsible for, and have control over, construction means, methods, techniques,
+sequences and procedures and for coordinating all portions of the Work under the Contract, unless the Contract
+Documents give other specific instructions concerning these matters. If the Contract Documents give specific
+instructions concerning construction means, methods, techniques, sequences or procedures, the Contractor shall
+evaluate the jobsite safety thereof and, except as stated below, shall be fully and solely responsible for the jobsite
+safety of such means, methods, techniques, sequences or procedures. If the Contractor determines that such means,
+methods, techniques, sequences or procedures may not be safe, the Contractor shall give timely written notice to the
+Owner and Architect and shall not proceed with that portion of the Work without further written instructions from
+the Architect. If the Contractor is then instructed to proceed with the required means, methods, techniques,
+sequences or procedures without acceptance of changes proposed by the Contractor, the Owner shall be solely
+responsible for any loss or damage arising solely from those Owner-required means, methods, techniques, sequences
+or procedures.
+
+§ 3.3.2 The Contractor shal! be responsible to the Owner for acts and omissions of the Contractor’s employees,
+Subcontractors and their agents and employees, and other persons or entities performing portions of the Work for, or
+on behalf of, the Contractor or any of its Subcontractors.
+
+§ 3.3.3 The Contractor shall be responsible for inspection of portions of Work already performed to determine that
+such portions are in proper condition to receive subsequent Work.
+
+§ 3.4 LABOR AND MATERIALS
+
+§ 3.4.1 Unless otherwise provided in the Contract Documents, the Contractor shall provide and pay for labor,
+materials, equipment, tools, construction equipment and machinery, water, heat, utilities, transportation, and other
+AIA Document A201™ — 2007, Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and international Treaties. Unauthorized 12
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 15 =====
+facilities and services necessary for proper execution and completion of the Work, whether temporary or permanent
+and whether or not incorporated or to be incorporated in the Work.
+§ 3.4.2 Except in the case of minor changes in the Work authorized by the Architect in accordance with Sections
+3.12.8 or 7.4, the Contractor may make substitutions only with the consent of the Owner, after evaluation by the
+Architect and in accordance with a Change Order or Construction Change Directive.
+§ 3.4.3 The Contractor shall enforce strict discipline and good order among the Contractor’s employees and other
+persons carrying out the Work. The Contractor shall not permit employment of unfit persons or persons not properly
+skilled in tasks assigned to them.
+§ 3.5 WARRANTY
+The Contractor warrants to the Owner and Architect that materials and equipment furnished under the Contract will
+be of good quality and new unless the Contract Documents require or permit otherwise. The Contractor further
+warrants that the Work will conform to the requirements of the Contract Documents and will be free from defects,
+except for those inherent in the quality of the Work the Contract Documents require or permit. Work, materials, or
+equipment not conforming to these requirements may be considered defective. The Contractor’s warranty excludes
+remedy for damage or defect caused by abuse, alterations to the Work not executed by the Contractor, improper or
+insufficient maintenance, improper operation, or normal wear and tear and normal usage. If required by the
+Architect, the Contractor shal! furnish satisfactory evidence as to the kind and quality of materials and equipment.
+§ 3.6 TAXES
+The Contractor shall pay sales, consumer, use and similar taxes for the Work provided by the Contractor that are
+legally enacted when bids are received or negotiations concluded, whether or not yet effective or merely scheduled
+to go into effect.
+§ 3.7 PERMITS, FEES, NOTICES AND COMPLIANCE WITH LAWS
+§ 3.7.1 Unless otherwise provided in the Contract Documents, the Contractor shall secure and pay for the building
+permit as well as for other permits, fees, licenses, and inspections by government agencies necessary for proper
+execution and completion of the Work that are customarily secured after execution of the Contract and legally
+required at the time bids are received or negotiations concluded.
+§ 3.7.2 The Contractor shall comply with and give notices required by applicable laws, statutes, ordinances, codes,
+tules and regulations, and lawful orders of public authorities applicable to performance of the Work.
+§ 3.7.3 If the Contractor performs Work knowing it to be contrary to applicable laws, statutes, ordinances, codes,
+rules and regulations, or lawful orders of public authorities, the Contractor shall assume appropriate responsibility
+for such Work and shall bear the costs attributable to correction.
+§ 3.7.4 Concealed or Unknown Conditions. If the Contractor encounters conditions at the site that are (1)
+subsurface or otherwise concealed physical conditions that differ materially from those indicated in the Contract
+Documents or (2) unknown physical conditions of an unusual nature, that differ materially from those ordinarily
+found to exist and generally recognized as inherent in construction activities of the character provided for in the
+Contract Documents, the Contractor shall promptly provide notice to the Owner and the Architect before conditions
+are disturbed and in no event later than 21 days after first observance of the conditions. The Architect will promptly
+investigate such conditions and, if the Architect determines that they differ materially and cause an increase or
+decrease in the Contractor’s cost of, or time required for, performance of any part of the Work, will recommend an
+equitable adjustment in the Contract Sum or Contract Time, or both. If the Architect determines that the conditions
+at the site are not materially different from those indicated in the Contract Documents and that no change in the
+terms of the Contract is justified, the Architect shall promptly notify the Owner and Contractor in writing, stating the
+reasons. If either party disputes the Architect’s determination or recommendation, that party may proceed as
+provided in Article 15.
+§ 3.7.5 If, in the course of the Work, the Contractor encounters human remains or recognizes the existence of burial
+markers, archaeological sites or wetlands not indicated in the Contract Documents, the Contractor shall immediately
+suspend any operations that would affect them and shall notify the Owner and Architect. Upon receipt of such
+notice, the Owner shall promptly take any action necessary to obtain governmental authorization required to resume
+AIA Document A201™ — 2007. Copyright © 1914, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 200/ by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 13
+reproduction or distribution of this AIA” Document, or any portion of it, may result in severe civil and criminal ponalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+User Notes: (3BSADA2C)
+
+
+===== PAGE 16 =====
+the operations. The Contractor shall continue to suspend such operations until otherwise instructed by the Owner but
+shall continue with all other operations that do not affect those remains or features. Requests for adjustments in the
+Contract Sum and Contract Time arising from the existence of such remains or features may be made as provided in
+Article 15.
+
+§ 3.8 ALLOWANCES
+
+§ 3.8.1 The Contractor shall include in the Contract Sum all allowances stated in the Contract Documents. Items
+covered by allowances shall be supplied for such amounts and by such persons or entities as the Owner may direct,
+but the Contractor shall not be required to employ persons or entities to whom the Contractor has reasonable
+objection.
+
+§ 3.8.2 Unless otherwise provided in the Contract Documents,
+
+1 Allowances shall cover the cost to the Contractor of materials and equipment delivered at the site and
+all required taxes, less applicable trade discounts;
+
+.2. Contractor’s costs for unloading and handling at the site, labor, installation costs, overhead, profit and
+other expenses contemplated for stated allowance amounts shall be included in the Contract Sum but
+not in the allowances; and
+
+3 Whenever costs are more than or less than allowances, the Contract Sum shal] be adjusted accordingly
+by Change Order. The amount of the Change Order shall reflect (1) the difference between actual
+costs and the allowances under Section 3.8.2.1 and (2) changes in Contractor’s costs under Section
+3.8.2.2.
+
+§ 3.8.3 Materials and equipment under an allowance shall be selected by the Owner with reasonable promptness.
+
+§ 3.9 SUPERINTENDENT
+
+§ 3.9.1 The Contractor shall employ a competent superintendent and necessary assistants who shall be in attendance
+
+at the Project site during performance of the Work. The superintendent shall represent the Contractor, and
+
+communications given to the superintendent shall be as binding as if given to the Contractor.
+
+§ 3.9.2 The Contractor, as soon as practicable after award of the Contract, shall furnish in writing to the Owner
+
+through the Architect the name and qualifications of a proposed superintendent. The Architect.may reply within 14
+
+days to the Contractor in writing stating (1) whether the Owner or the Architect has reasonable objection to the
+
+proposed superintendent or (2) that the Architect requires additional time to review. Failure of the Architect to reply
+
+within the 14 day period shall constitute notice of no reasonable objection.
+
+§ 3.9.3 The Contractor shall not employ a proposed superintendent to whom the Owner or Architect has made
+
+reasonable and timely objection. The Contractor shall not change the superintendent without the Owner’s consent,
+
+which shall not unreasonably be withheld or delayed.
+
+§ 3.10 CONTRACTOR'S CONSTRUCTION SCHEDULES
+
+§ 3.10.1 The Contractor, promptly after being awarded the Contract, shall prepare and submit for the Owner’s and
+Architect’s information a Contractor’s construction schedule for the Work. The schedule shall not exceed time limits
+current under the Contract Documents, shall be revised at appropriate intervals as required by the conditions of the
+
+Work and Project, shall be related to the entire Project to the extent required by the Contract Documents, and shall
+
+provide for expeditious and practicable execution of the Work.
+
+§ 3.10.2 The Contractor shall prepare a submittal schedule, promptly after being awarded the Contract and thereafter
+
+as necessary to maintain a current submittal schedule, and shall submit the schedule(s) for the Architect’s approval.
+
+The Architect’s approval shall not unreasonably be delayed or withheld. The submittal schedule shal! (1) be
+
+coordinated with the Contractor’s construction schedule, and (2) allow the Architect reasonable time to review
+
+submittals. If the Contractor fails to submit a submittal schedule, the Contractor shall not be entitled to any increase
+
+in Contract Sum or extension of Contract Time based on the time required for review of submittals.
+
+§ 3.10.3 The Contractor shall perform the Work in general accordance with the most recent schedules submitted to
+
+the Owner and Architect.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA” Document is protected by U.S. Copyright Law and Internationa! Treaties. Unauthorized 14
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 17 =====
+§ 3.11 DOCUMENTS AND SAMPLES AT THE SITE
+
+The Contractor shall maintain at the site for the Owner one copy of the Drawings, Specifications, Addenda, Change
+Orders and other Modifications, in good order and marked currently to indicate field changes and selections made
+during construction, and one copy of approved Shop Drawings, Product Data, Samples and similar required
+submittals. These shall be available to the Architect and shall be delivered to the Architect for submittal to the
+
+Owner upon completion of the Work as a record of the Work as constructed.
+
+§ 3.12 SHOP DRAWINGS, PRODUCT DATA AND SAMPLES
+
+§ 3.12.1 Shop Drawings are drawings, diagrams, schedules and other data specially prepared for the Work by the
+Contractor or a Subcontractor, Sub-subcontractor, manufacturer, supplier or distributor to illustrate some portion of
+the Work.
+
+§ 3.12.2 Product Data are illustrations, standard schedules, performance charts, instructions, brochures, diagrams and
+other information furnished by the Contractor to illustrate materials or equipment for some portion of the Work.
+
+§ 3.12.3 Samples are physical examples that illustrate materials, equipment or workmanship and establish standards
+by which the Work will be judged.
+
+§ 3.12.4 Shop Drawings, Product Data, Samples and similar submittals are not Contract Documents. Their purpose is
+to demonstrate the way by which the Contractor proposes to conform to the information given and the design
+
+concept expressed in the Contract Documents for those portions of the Work for which the Contract Documents
+require submittals. Review by the Architect is subject to the limitations of Section 4.2.7. Informational submittals
+upon which the Architect is not expected to take responsive action may be so identified in the Contract Documents.
+Submittals that are not required by the Contract Documents may be returned by the Architect without action.
+
+§ 3.12.5 The Contractor shall review for compliance with the Contract Documents, approve and submit to the
+Architect Shop Drawings, Product Data, Samples and similar submittals required by the Contract Documents in
+accordance with the submittal schedule approved by the Architect or, in the absence of an approved submittal
+schedule, with reasonable promptness and in such sequence as to cause no delay in the Work or in the activities of
+the Owner or of separate contractors.
+
+§ 3.12.6 By submitting Shop Drawings, Product Data, Samples and similar submittals, the Contractor represents to
+the Owner and Architect that the Contractor has (1) reviewed and approved them, (2) determined and verified
+materials, field measurements and field construction criteria related thereto, or will do so and (3) checked and
+coordinated the information contained within such submittals with the requirements of the Work and of the Contract
+Documents.
+
+§ 3.12.7 The Contractor shall perform no portion of the Work for which the Contract Documents require submittal
+and review of Shop Drawings, Product Data, Samples or similar submittals until the respective submittal has been
+approved by the Architect.
+
+§ 3.12.8 The Work shall be in accordance with approved submittals except that the Contractor shall not be relieved of
+responsibility for deviations from requirements of the Contract Documents by the Architect’s approval of Shop
+Drawings, Product Data, Samples or similar submittals unless the Contractor has specifically informed the Architect
+in writing of such deviation at the time of submittal and (1) the Architect has given written approval to the specific
+deviation as a minor change in the Work, or (2) a Change Order or Construction Change Directive has been issued
+authorizing the deviation. The Contractor shall not be relieved of responsibility for errors or omissions.in Shop
+Drawings, Product Data, Samples or similar submittals by the Architect’s approval thereof.
+
+§ 3.12.9 The Contractor shall direct specific attention, in writing or on resubmitted Shop Drawings, Product Data,
+Samples or similar submittals, to revisions other than those requested by the Architect on previous submittals. In the
+absence of such written notice, the Architect’s approval of a resubmission shall not apply to such revisions.
+
+§ 3.12.10 The Contractor shall not be required to provide professional services that constitute the practice of
+architecture or engineering unless such services are specifically required by the Contract Documents for a portion of
+the Work or unless the Contractor needs to provide such services in order to carry out the Contractor’s
+responsibilities for construction means, methods, techniques, sequences and procedures. The Contractor shall not be
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 15
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 18 =====
+required to provide professional services in violation of applicable law. If professional design services or
+certifications by a design professional related to systems, materials or equipment are specifically required of the
+Contractor by the Contract Documents, the Owner and the Architect will specify all performance and design criteria
+that such services must satisfy. The Contractor shall cause such services or certifications to be provided by a
+properly licensed design professional, whose signature and seal shall appear on all drawings, calculations,
+specifications, certifications, Shop Drawings and other submittals prepared by such professional. Shop Drawings
+and other submittals related to the Work designed or certified by such professional, if prepared by others, shall bear
+such professional’s written approval when submitted to the Architect. The Owner and the Architect shall be entitled
+to rely upon the adequacy, accuracy and completeness of the services, certifications and approvals performed or
+provided by such design professionals, provided the Owner and Architect have specified to the Contractor all
+performance and design criteria that such services must satisfy. Pursuant to this Section 3.12.10, the Architect will
+review, approve or take other appropriate action on submittals only for the limited purpose of checking for
+conformance with information given and the design concept expressed in the Contract Documents. The Contractor
+shall not be responsible for the adequacy of the performance and design criteria specified in the Contract
+Documents.
+
+§ 3.13 USE OF SITE
+
+The Contractor shall confine operations at the site to areas permitted by applicable laws, statutes, ordinances, codes,
+rules and regulations, and lawful orders of public authorities and the Contract Documents and shall not unreasonably
+encumber the site with materials or equipment.
+
+§ 3.144 CUTTING AND PATCHING
+
+§ 3.14.1 The Contractor shall be responsible for cutting, fitting or patching required to complete the Work or to make
+its parts fit together properly. All areas requiring cutting, fitting and patching shall be restored to the condition
+existing prior to the cutting, fitting and patching, unless otherwise required by the Contract Documents.
+
+§ 3.14.2 The Contractor shall not damage or endanger a portion of the Work or fully or partially completed
+construction of the Owner or separate contractors by cutting, patching or otherwise altering such construction, or by
+excavation, The Contractor shall not cut or otherwise alter such construction by the Owner or a separate contractor
+except with written consent of the Owner and of such separate contractor; such consent shall not be unreasonably
+withheld. The Contractor shall not unreasonably withhold from the Owner or a separate contractor the Contractor’s
+consent to cutting or otherwise altering the Work.
+
+§ 3.15 CLEANING UP
+
+§ 3.15.1 The Contractor shall keep the premises and surrounding area free from accumulation of waste materials or
+rubbish caused by operations under the Contract. At completion of the Work, the Contractor shall remove waste
+materials, rubbish, the Contractor’s tools, construction equipment, machinery and surplus materials from and about
+the Project.
+
+§ 3.15.2 If the Contractor fails to clean up as provided in the Contract Documents, the Owner may do so and Owner
+shall be entitled to reimbursement from the Contractor.
+
+§ 3.16 ACCESS TO WORK
+
+The Contractor shall provide the Owner and Architect access to the Work in preparation and progress wherever
+located.
+
+§ 3.17 ROYALTIES, PATENTS AND COPYRIGHTS
+
+The Contractor shall pay all royalties and license fees, The Contractor shall defend suits or claims for infringement
+of copyrights and patent rights and shall hold the Owner and Architect harmless from loss on account thereof, but
+shall not be responsible for such defense or loss when a particular design, process or product of a particular
+manufacturer or manufacturers is required by the Contract Documents, or where the copyright violations are
+contained in Drawings, Specifications or other documents prepared by the Owner or Architect. However, if the
+Contractor has reason to believe that the required design, process or product is an infringement of a copyright or a
+patent, the Contractor shall be responsible for such loss unless such information is promptly furnished to the
+Architect.
+
+AIA Document A204™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S, Copyright Law and International Treaties. Unauthorized 16
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 19 =====
+§ 3.18 INDEMNIFICATION
+
+§ 3.18.1 To the fullest extent permitted by law the Contractor shall indemnify and hold harmless the Owner,
+Architect, Architect’s consultants, and agents and employees of any of them from and against claims, damages,
+losses and expenses, including but not limited to attorneys’ fees, arising out of or resulting from performance of the
+Work, provided that such claim, damage, loss or expense is attributable to bodily injury, sickness, disease or death,
+or to injury to or destruction of tangible property (other than the Work itself), but only to the extent caused by the
+negligent acts or omissions of the Contractor, a Subcontractor, anyone directly or indirectly employed by them or
+anyone for whose acts they may be liable, regardless of whether or not such claim, damage, loss or expense is
+caused in part by a party indemnified hereunder. Such obligation shall not be construed to negate, abridge, or reduce
+other rights or obligations of indemnity that would otherwise exist as to a party or person described in this Section
+3.18.
+
+§ 3.18.2 In claims against any person or entity indemnified under this Section 3.18 by an employee of the Contractor,
+a Subcontractor, anyone directly or indirectly employed by them or anyone for whose acts they may be liable, the
+indemnification obligation under Section 3.18.1 shall not be limited by a limitation on amount or type of damages,
+compensation or benefits payable by or for the Contractor or a Subcontractor under workers’ compensation acts,
+disability benefit acts or other employee benefit acts.
+
+ARTICLE 4 ARCHITECT
+
+§ 4.1 GENERAL
+
+§ 4.1.1 The Owner shall retain an architect lawfully licensed to practice architecture or an entity lawfully practicing
+architecture in the jurisdiction where the Project is located. That person or entity is identified as the Architect in the
+Agreement and is referred to throughout the Contract Documents as if singular in number.
+
+§ 4.1.2 Duties, responsibilities and limitations of authority of the Architect as set forth in the Contract Documents
+shall not be restricted, modified or extended without written consent of the Owner, Contractor and Architect.
+Consent shall not be unreasonably withheld.
+
+§ 4.1.3 If the employment of the Architect is terminated, the Owner shall employ a successor architect as to whom
+the Contractor has no reasonable objection and whose status under the Contract Documents shall be that of the
+Architect.
+
+§ 4.2 ADMINISTRATION OF THE CONTRACT
+
+§ 4.2.1 The Architect will provide administration of the Contract as described in the Contract Documents and will be
+an Owner’s representative during construction until the date the Architect issues the final Certificate for Payment.
+The Architect will have authority to act on behalf of the Owner only to the extent provided in the Contract
+Documents.
+
+§ 4.2.2 The Architect will visit the site at intervals appropriate to the stage of construction, or as otherwise agreed
+with the Owner, to become generally familiar with the progress and quality of the portion of the Work completed,
+and to determine in general if the Work observed is being performed in a manner indicating that the Work, when
+fully completed, will be in accordance with the Contract Documents. However, the Architect will not be required to
+make exhaustive or continuous on-site inspections to check the quality or quantity of the Work, The Architect will
+not have control over, charge of, or responsibility for, the construction means, methods, techniques, sequences or
+procedures, or for the safety precautions and programs in connection with the Work, since these are solely the
+Contractor’s rights and responsibilities under the Contract Documents, except as provided in Section 3.3.1.
+
+§ 4.2.3 On the basis of the site visits, the Architect will keep the Owner reasonably informed about the progress and
+quality of the portion of the Work completed, and report to the Owner (1) known deviations from the Contract
+Documents and from the most recent construction schedule submitted by the Contractor, and (2) defects and
+deficiencies observed in the Work. The Architect will not be responsible for the Contractor’s failure to perform the
+Work in accordance with the requirements of the Contract Documents. The Architect will not have control over or
+charge of and will not be responsible for acts or omissions of the Contractor, Subcontractors, or their agents or
+employees, or any other persons or entities performing portions of the Work.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by Ihe American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is Protected by U.S. Copyright Law and International Treaties. Unauthorized 17
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 20 =====
+§ 4.2.4 COMMUNICATIONS FACILITATING CONTRACT ADMINISTRATION
+Except as otherwise provided in the Contract Documents or when direct communications have been specially
+authorized, the Owner and Contractor shall endeavor to communicate with each other through the Architect about
+matters arising out of or relating to the Contract. Communications by and with the Architect’s consultants shall be
+through the Architect. Communications by and with Subcontractors and material suppliers shall be through the
+Contractor. Communications by and with separate contractors shall be through the Owner.
+
+§ 4.2.5 Based on the Architect’s evaluations of the Contractor’s Applications for Payment, the Architect will review
+and certify the amounts due the Contractor and will issue Certificates for Payment in such amounts.
+
+§ 4.2.6 The Architect has authority to reject Work that does not conform to the Contract Documents. Whenever the
+Architect considers it necessary or advisable, the Architect will have authority to require inspection or testing of the
+Work in accordance with Sections 13.5.2 and 13.5.3, whether or not such Work is fabricated, installed or completed.
+However, neither this authority of the Architect nor a decision made in good faith either to exercise or not to
+exercise such authority shall give rise to a duty or responsibility of the Architect to the Contractor, Subcontractors,
+material and equipment suppliers, their agents or employees, or other persons or entities performing portions of the
+Work.
+
+§ 4.2.7 The Architect will review and approve, or take other appropriate action upon, the Contractor’s submittals
+such as Shop Drawings, Product Data and Samples, but only for the limited purpose of checking for conformance
+with information given and the design concept expressed in the Contract Documents. The Architect’s action will be
+taken in accordance with the submittal schedule approved by the Architect or, in the absence of an approved
+submittal schedule, with reasonable promptness while allowing sufficient time in the Architect’s professional
+judgment to permit adequate review. Review of such submittals is not conducted for the purpose of determining the
+accuracy and completeness of other details such as dimensions and quantities, or for substantiating instructions for
+installation or performance of equipment or systems, all of which remain the responsibility of the Contractor as
+required by the Contract Documents. The Architect’s review of the Contractor’s submittals shall not relieve the
+Contractor of the obligations under Sections 3.3, 3.5 and 3.12. The Architect’s review shall not constitute approval
+of safety precautions or, unless otherwise specifically stated by the Architect, of any construction means, methods,
+techniques, sequences or procedures. The Architect’s approval of a specific item shall not indicate approval of an
+assembly of which the item is a component.
+
+§ 4.2.8 The Architect will prepare Change Orders and Construction Change Directives, and may authorize minor
+changes in the Work as provided in Section 7.4. The Architect will investigate and make determinations and
+recommendations regarding concealed and unknown conditions as provided in Section 3.7.4.
+
+§ 4.2.9 The Architect will conduct inspections to determine the date or dates of Substantial Completion and the date
+of final completion; issue Certificates of Substantial Completion pursuant to Section 9.8; receive and forward to the
+Owner, for the Owner’s review and records, written warranties and related documents required by the Contract and
+assembled by the Contractor pursuant to Section 9.10; and issue a final Certificate for Payment pursuant to Section
+9.10.
+
+§ 4.2.10 If the Owner and Architect agree, the Architect will provide one or more project representatives to assist in
+carrying out the Architect’s responsibilities at the site. The duties, responsibilities and limitations of authority of
+such project representatives shall be as set forth in an exhibit to be incorporated in the Contract Documents.
+
+§ 4.2.11 The Architect will interpret and decide matters concerning performance under, and requirements of, the
+Contract Documents on written request of either the Owner or Contractor. The Architect’s response to such requests
+will be made in writing within any time limits agreed upon or otherwise with reasonable promptness.
+
+§ 4.2.12 Interpretations and decisions of the Architect will be consistent with the intent of, and reasonably inferable
+from, the Contract Documents and will be in writing or in the form of drawings. When making such interpretations
+and decisions, the Architect will endeavor to secure faithful performance by both Owner and Contractor, will not
+show partiality to either and will not be liable for results of interpretations or decisions rendered in good faith.
+
+§ 4.2.13 The Architect’s decisions on matters relating to aesthetic effect will be final if consistent with the intent
+expressed in the Contract Documents.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 18
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 21 =====
+§ 4.2.14 The Architect will review and respond to requests for information about the Contract Documents, The
+Architect’s response to such requests will be made in writing within any time limits agreed upon or otherwise with
+reasonable promptness. If appropriate, the Architect will prepare and issue supplemental Drawings and
+Specifications in response to the requests for information.
+ARTICLE § SUBCONTRACTORS
+§ 5.1 DEFINITIONS
+§ 5.1.1 A Subcontractor is a person or entity who has a direct contract with the Contractor to perform a portion of the
+Work at the site. The term “Subcontractor” is referred to throughout the Contract Documents as if singular in
+number and means a Subcontractor or an authorized representative of the Subcontractor. The term-“Subcontractor”
+does not include a separate contractor or subcontractors of a separate contractor.
+§ 5.1.2 A Sub-subcontractor is a person or entity who has a direct or indirect contract with a Subcontractor to
+perform a portion of the Work at the site. The term “Sub-subcontractor” is referred to throughout the Contract
+Documents as if singular in number and means a Sub-subcontractor or an authorized representative of the Sub-
+subcontractor.
+§ 5.2 AWARD OF SUBCONTRACTS AND OTHER CONTRACTS FOR PORTIONS OF THE WORK
+§ 5.2.1 Unless otherwise stated in the Contract Documents or the bidding requirements, the Contractor, as soon as
+practicable after award of the Contract, shall furnish in writing to the Owner through the Architect the names of
+persons or entities (including those who are to furnish materials or equipment fabricated to a special design)
+proposed for each principal portion of the Work. The Architect may reply within 14 days to the Contractor in
+writing stating (1) whether the Owner or the Architect has reasonable objection to any such proposed person or
+entity or (2) that the Architect requires additional time for review. Failure of the Owner or Architect to reply within
+the 14-day period shall constitute notice of no reasonable objection.
+§ 5.2.2 The Contractor shall not contract with a proposed person or entity to whom the Owner or Architect has made
+reasonable and timely objection. The Contractor shall not be required to contract with anyone to whom the
+Contractor has made reasonable objection.
+§ 5.2.3 If the Owner or Architect has reasonable objection to a person or entity proposed by the Contractor, the
+Contractor shall propose another to whom the Owner or Architect has no reasonable objection. If the proposed but
+rejected Subcontractor was reasonably capable of performing the Work, the Contract Sum and Contract Time shall
+be increased or decreased by the difference, if any, occasioned by such change, and an appropriate Change Order
+shall be issued before commencement of the substitute Subcontractor’s Work. However, no increase in the Contract
+Sum or Contract Time shall be allowed for such change unless the Contractor has acted promptly and responsively
+in submitting names as required.
+§ 5.2.4 The Contractor shall not substitute a Subcontractor, person or entity previously selected if the Owner or
+Architect makes reasonable objection to such substitution.
+§ 5.3 SUBCONTRACTUAL RELATIONS
+By appropriate agreement, written where legally required for validity, the Contractor shall require each
+Subcontractor, to the extent of the Work to be performed by the Subcontractor, to be bound to the Contractor by
+terms of the Contract Documents, and to assume toward the Contractor all the obligations and responsibilities,
+including the responsibility for safety of the Subcontractor’s Work, which the Contractor, by these Documents,
+assumes toward the Owner and Architect. Each subcontract agreement shall preserve and protect the rights of the
+Owner and Architect under the Contract Documents with respect to the Work to be performed by the Subcontractor
+so that subcontracting thereof will not prejudice such rights, and shall allow to the Subcontractor, unless specifically
+provided otherwise in the subcontract agreement, the benefit of all rights, remedies and redress against the
+Contractor that the Contractor, by the Contract Documents, has against the Owner. Where appropriate, the
+Contractor shall require each Subcontractor to enter into similar agreements with Sub-subcontractors. The
+Contractor shall make available to each proposed Subcontractor, prior to the execution of the subcontract agreement,
+copies of the Contract Documents to which the Subcontractor will be bound, and, upon written request of the
+Subcontractor, identify to the Subcontractor terms and conditions of the proposed subcontract agreement that may
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AlA® Document is Protected by U.S. Copyright Law and International Treaties. Unauthorized 19
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 22 =====
+be at variance with the Contract Documents. Subcontractors will similarly make copies of applicable portions of
+such documents available to their respective proposed Sub-subcontractors.
+§ 5.4 CONTINGENT ASSIGNMENT OF SUBCONTRACTS
+§ 5.4.1 Each subcontract agreement for a portion of the Work is assigned by the Contractor to the Owner, provided
+that
+1 assignment is effective only after termination of the Contract by the Owner for cause pursuant to
+Section 14.2 and only for those subcontract agreements that the Owner accepts by notifying the
+Subcontractor and Contractor in writing; and
+.2 assignment is subject to the prior rights of the surety, if any, obligated under bond relating to the
+
+Contract.
+When the Owner accepts the assignment of a subcontract agreement, the Owner assumes the Contractor’s rights and
+obligations under the subcontract.
+§ 5.4.2 Upon such assignment, if the Work has been suspended for more than 30 days, the Subcontractor’s
+compensation shall be equitably adjusted for increases in cost resulting from the suspension.
+§ 5.4.3 Upon such assignment to the Owner under this Section 5.4, the Owner may further assign the subcontract to a
+successor contractor or other entity. If the Owner assigns the subcontract to a successor contractor or other entity,
+the Owner shall nevertheless remain legally responsible for all of the successor contractor’s obligations under the
+subcontract.
+ARTICLE 6 CONSTRUCTION BY OWNER OR BY SEPARATE CONTRACTORS
+§ 6.1 OWNER’S RIGHT TO PERFORM CONSTRUCTION AND TO AWARD SEPARATE CONTRACTS
+§ 6.1.1 The Owner reserves the right to perform construction or operations related to the Project with the Owner’s
+own forces, and to award separate contracts in connection with other portions of the Project or other construction or
+operations on the site under Conditions of the Contract identical or substantially similar to these including those
+portions related to insurance and waiver of subrogation. If the Contractor claims that delay or additional cost is
+involved because of such action by the Owner, the Contractor shall make such Claim as provided in Article 15.
+§ 6.1.2 When separate contracts are awarded for different portions of the Project or other construction or operations
+on the site, the term “Contractor” in the Contract Documents in each case shaJl mean the Contractor who executes
+each separate Owner-Contractor Agreement.
+§ 6.1.3 The Owner shall provide for coordination of the activities of the Owner’s own forces and of each separate
+contractor with the Work of the Contractor, who shall cooperate with them. The Contractor shall participate with
+other separate contractors and the Owner in reviewing their construction schedules. The Contractor shall make any
+revisions to the construction schedule deemed necessary after a joint review and mutual agreement. The construction
+schedules shall then constitute the schedules to be used by the Contractor, separate contractors and the Owner until
+subsequently revised.
+§ 6.1.4 Unless otherwise provided in the Contract Documents, when the Owner performs construction or operations
+related to the Project with the Owner’s own forces, the Owner shall be deemed to be subject to the same obligations
+and to have the same rights that apply to the Contractor under the Conditions of the Contract, including, without
+excluding others, those stated in Article 3, this Article 6 and Articles 10, 11 and 12.
+§ 6.2 MUTUAL RESPONSIBILITY
+§ 6.2.1 The Contractor shall afford the Owner and separate contractors reasonable opportunity for introduction and
+storage of their materials and equipment and performance of their activities, and shall connect and coordinate the
+Contractor’s construction and operations with theirs as required by the Contract Documents.
+§ 6.2.2 If part of the Contractor’s Work depends for proper execution or results upon construction or operations by
+the Owner or a separate contractor, the Contractor shall, prior to proceeding with that portion of the Work, promptly
+report to the Architect apparent discrepancies or defects in such other construction that would render it unsuitable
+for such proper execution and results. Failure of the Contractor so to report shall constitute an acknowledgment that
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 20
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 23 =====
+the Owner’s or separate contractor’s completed or partially completed construction is fit and proper to receive the
+Contractor’s Work, except as to defects not then reasonably discoverable.
+§ 6.2.3 The Contractor shall reimburse the Owner for costs the Owner incurs that are payable to a separate contractor
+because of the Contractor’s delays, improperly timed activities or defective construction. The Owner shall be
+responsible to the Contractor for costs the Contractor incurs because of a separate contractor’s delays, improperly
+timed activities, damage to the Work or defective construction.
+§ 6.2.4 The Contractor shall promptly remedy damage the Contractor wrongfully causes to completed or partially
+completed construction or to property of the Owner or separate contractors as provided in Section 10.2.5.
+§ 6.2.5 The Owner and each separate contractor shall have the same responsibilities for cutting and patching as are
+described for the Contractor in Section 3.14.
+§ 6.3 OWNER’S RIGHT TO CLEAN UP
+Ifa dispute arises among the Contractor, separate contractors and the Owner as to the responsibility under their
+respective contracts for maintaining the premises and surrounding area free from waste materials and rubbish, the
+Owner may clean up and the Architect will allocate the cost among those responsible.
+ARTICLE 7 CHANGES IN THE WORK
+§ 7.1 GENERAL
+§ 7.1.1 Changes in the Work may be accomplished after execution of the Contract, and without invalidating the
+Contract, by Change Order, Construction Change Directive or order for a minor change in the Work, subject to the
+limitations stated in this Article 7 and elsewhere in the Contract Documents.
+§ 7.1.2 A Change Order shall be based upon agreement among the Owner, Contractor and Architect; a Construction
+Change Directive requires agreement by the Owner and Architect and may or may not be agreed to by the
+Contractor; an order for a minor change in the Work may be issued by the Architect alone.
+§ 7.1.3 Changes in the Work shall be performed under applicable provisions of the Contract Documents, and the
+Contractor shall proceed promptly, unless otherwise provided in the Change Order, Construction Change Directive
+or order for a minor change in the Work.
+§ 7.2 CHANGE ORDERS
+§ 7.2.1 A Change Order is a written instrument prepared by the Architect and signed by the Owner, Contractor and
+Architect stating their agreement upon all of the following:
+
+-1 The change in the Work;
+
+.2 The amount of the adjustment, if any, in the Contract Sum; and
+
+3 The extent of the adjustment, if any, in the Contract Time.
+§ 7.3 CONSTRUCTION CHANGE DIRECTIVES
+§ 7.3.1 A Construction Change Directive is a written order prepared by the Architect and signed by the Owner and
+Architect, directing a change in the Work prior to agreement on adjustment, if any, in the Contract Sum or Contract
+Time, or both. The Owner may by Construction Change Directive, without invalidating the Contract, order changes
+in the Work within the general scope of the Contract consisting of additions, deletions or other revisions, the
+Contract Sum and Contract Time being adjusted accordingly.
+§ 7.3.2 A Construction Change Directive shall be used in the absence of total agreement on the terms of a Change
+Order.
+§ 7.3.3 If the Construction Change Directive provides for an adjustment to the Contract Sum, the adjustment shall be
+based on one of the following methods:
+
+14 Mutual acceptance of a lump sum properly itemized and supported by sufficient substantiating data to
+
+permit evaluation;
+.2. Unit prices stated in the Contract Documents or subsequently agreed upon;
+3 Cost to be determined in a manner agreed upon by the parties and a mutually acceptable fixed or
+percentage fee; or
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 21
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 24 =====
+4 As provided in Section 7.3.7.
+§ 7.3.4 If unit prices are stated in the Contract Documents or subsequently agreed upon, and if quantities originally
+contemplated are materially changed in a proposed Change Order or Construction Change Directive so that
+application of such unit prices to quantities of Work proposed will cause substantial inequity to the Owner or
+Contractor, the applicable unit prices shal! be equitably adjusted.
+§ 7.3.5 Upon receipt of a Construction Change Directive, the Contractor shall promptly proceed with the change in
+the Work involved and advise the Architect of the Contractor’s agreement or disagreement with the method, if any,
+provided in the Construction Change Directive for determining the proposed adjustment in the Contract Sum or
+Contract Time.
+§ 7.3.6 A Construction Change Directive signed by the Contractor indicates the Contractor’s agreement therewith,
+including adjustment in Contract Sum and Contract Time or the method for determining them. Such agreement shal!
+be effective immediately and shall be recorded as a Change Order.
+§ 7.3.7 If the Contractor does not respond promptly or disagrees with the method for adjustment in the Contract Sum,
+the Architect shall determine the method and the adjustment on the basis of reasonable expenditures and savings of
+those performing the Work attributable to the change, including, in case of an increase in the Contract Sum, an
+amount for overhead and profit as set forth in the Agreement, or if no such amount is set forth in the Agreement, a
+reasonable amount. In such case, and also under Section 7.3.3.3, the Contractor shall keep and present, in such form
+as the Architect may prescribe, an itemized accounting together with appropriate supporting data. Unless otherwise
+provided in the Contract Documents, costs for the purposes of this Section 7.3.7 shall be limited to the following:
+1 Costs of labor, including social security, old age and unemployment insurance, fringe benefits required
+by agreement or custom, and workers’ compensation insurance;
+.2 Costs of materials, supplies and equipment, including cost of transportation, whether incorporated or
+consumed;
+.3 Rental costs of machinery and equipment, exclusive of hand tools, whether rented from the Contractor
+or others;
+4 Costs of premiums for all bonds and insurance, permit fees, and sales, use or similar taxes related to the
+Work; and
+.5 Additional costs of supervision and field office personnel directly attributable to the change.
+§ 7.3.8 The amount of credit to be allowed by the Contractor to the Owner for a deletion or change that results in a
+net decrease in the Contract Sum shall be actual net cost as confirmed by the Architect. When both additions and
+credits covering related Work or substitutions are involved in a change, the allowance for overhead and profit shall
+be figured on the basis of net increase, if any, with respect to that change.
+§ 7.3.9 Pending final determination of the total cost of a Construction Change Directive to the Owner, the Contractor
+may request payment for Work completed under the Construction Change Directive in Applications for Payment.
+The Architect will make an interim determination for purposes of monthly certification for payment for those costs
+and certify for payment the amount that the Architect determines, in the Architect’s professional judgment, to be
+reasonably justified. The Architect’s interim determination of cost shall adjust the Contract Sum on the same basis
+as a Change Order, subject to the right of either party to disagree and assert a Claim in accordance with Article 15.
+§ 7.3.10 When the Owner and Contractor agree with a determination made by the Architect concerning the
+adjustments in the Contract Sum and Contract Time, or otherwise reach agreement upon the adjustments, such
+agreement shall be effective immediately and the Architect will prepare a Change Order. Change Orders may be
+issued for all or any part of a Construction Change Directive.
+§ 7.4 MINOR CHANGES IN THE WORK
+The Architect has authority to order minor changes in the Work not involving adjustment in the Contract Sum or
+extension of the Contract Time and not inconsistent with the intent of the Contract Documents. Such changes will be
+effected by written order signed by the Architect and shall be binding on the Owner and Contractor.
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 22
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 25 =====
+ARTICLE 8 TIME
+§ 8.1 DEFINITIONS
+
+§ 8.1.1 Unless otherwise provided, Contract Time is the period of time, including authorized adjustments, allotted in
+the Contract Documents for Substantial Completion of the Work.
+
+§ 8.1.2 The date of commencement of the Work is the date established in the Agreement.
+
+§ 8.1.3 The date of Substantial Completion is the date certified by the Architect in accordance with Section 9.8.
+
+§ 8.1.4 The term “day” as used in the Contract Documents shall mean calendar day unless otherwise specifically
+
+defined.
+
+§ 8.2 PROGRESS AND COMPLETION
+
+§ 8.2.1 Time limits stated in the Contract Documents are of the essence of the Contract. By executing the Agreement
+
+the Contractor confirms that the Contract Time is a reasonable period for performing the Work.
+
+§ 8.2.2 The Contractor shall not knowingly, except by agreement or instruction of the Owner in writing, prematurely
+commence operations on the site or elsewhere prior to the effective date of insurance required by Article 11 to be
+furnished by the Contractor and Owner. The date of commencement of the Work shall not be changed by the
+
+effective date of such insurance.
+
+§ 8.2.3 The Contractor shall proceed expeditiously with adequate forces and shall achieve Substantial Completion
+
+within the Contract Time.
+
+§ 8.3 DELAYS AND EXTENSIONS OF TIME
+
+§ 8.3.1 If the Contractor is delayed at any time in the commencement or progress of the Work by an act or neglect of
+
+the Owner or Architect, or of an employee of either, or of a separate contractor employed by the Owner; or by
+
+changes ordered in the Work; or by labor disputes, fire, unusual delay in deliveries, unavoidable casualties or other
+
+causes beyond the Contractor’s control; or by delay authorized by the Owner pending mediation and arbitration; or
+
+by other causes that the Architect determines may justify delay, then the Contract Time shall be extended by Change
+Order for such reasonable time as the Architect may determine.
+
+§ 8.3.2 Claims relating to time shall be made in accordance with applicable provisions of Article 15.
+
+§ 8.3.3 This Section 8.3 does not preclude recovery of damages for delay by either party under other provisions of
+
+the Contract Documents.
+
+ARTICLE 9 PAYMENTS AND COMPLETION
+
+§ 9.1 CONTRACT SUM
+
+The Contract Sum is stated in the Agreement and, including authorized adjustments, is the total amount payable by
+
+the Owner to the Contractor for performance of the Work under the Contract Documents.
+
+§ 9.2 SCHEDULE OF VALUES
+
+Where the Contract is based on a stipulated sum or Guaranteed Maximum Price, the Contractor shall submit to the
+Architect, before the first Application for Payment, a schedule of values allocating the entire Contract Sum to the
+
+various portions of the Work and prepared in such form and supported by such data to substantiate its accuracy as
+
+the Architect may require. This schedule, unless objected to by the Architect, shall be used as a basis for reviewing
+
+the Contractor’s Applications for Payment.
+
+§ 9.3 APPLICATIONS FOR PAYMENT
+
+§ 9.3.1 At least ten days before the date established for each progress payment, the Contractor shall submit to the
+Architect an itemized Application for Payment prepared in accordance with the schedule of values, if required under
+Section 9.2, for completed portions of the Work. Such application shall be notarized, if required, and supported by
+
+such data substantiating the Contractor’s right to payment as the Owner or Architect may require, such as copies of
+requisitions from Subcontractors and material suppliers, and shall reflect retainage if provided for in the Contract
+Documents.
+
+AIA Document A204™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 23
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 26 =====
+§ 9.3.1.1 As provided in Section 7.3.9, such applications may include requests for payment on account of changes in
+the Work that have been properly authorized by Construction Change Directives, or by interim determinations of the
+Architect, but not yet included in Change Orders.
+
+§ 9.3.1.2 Applications for Payment shall not include requests for payment for portions of the Work for which the
+Contractor does not intend to pay a Subcontractor or material supplier, unless such Work has been performed by
+others whom the Contractor intends to pay.
+
+§ 9.3.2 Unless otherwise provided in the Contract Documents, payments shall be made on account of materials and
+equipment delivered and suitably stored at the site for subsequent incorporation in the Work. If approved in advance
+by the Owner, payment may similarly be made for materials and equipment suitably stored off the site at a location
+agreed upon in writing. Payment for materials and equipment stored on or off the site shall be conditioned upon
+compliance by the Contractor with procedures satisfactory to the Owner to establish the Owner’s title to such
+materials and equipment or otherwise protect the Owner’s interest, and shall include the costs of applicable
+insurance, storage and transportation to the site for such materials and equipment stored off the site.
+
+§ 9.3.3 The Contractor warrants that title to all Work covered by an Application for Payment will pass to the Owner
+no later than the time of payment. The Contractor further warrants that upon submittal of an Application for
+Payment all Work for which Certificates for Payment have been previously issued and payments received from the
+Owner shall, to the best of the Contractor’s knowledge, information and belief, be free and clear of liens, claims,
+security interests or encumbrances in favor of the Contractor, Subcontractors, material suppliers, or other persons or
+entities making a claim by reason of having provided labor, materials and equipment relating to the Work.
+
+§ 9.4 CERTIFICATES FOR PAYMENT
+
+§ 9.4.1 The Architect will, within seven days after receipt of the Contractor’s Application for Payment, either issue
+to the Owner a Certificate for Payment, with a copy to the Contractor, for such amount as the Architect determines
+
+is properly due, or notify the Contractor and Owner in writing of the Architect’s reasons for withholding
+certification in whole or in part as provided in Section 9.5.1.
+
+§ 9.4.2 The issuance of a Certificate for Payment will constitute a representation by the Architect to the Owner,
+based on the Architect’s evaluation of the Work and the data comprising the Application for Payment, that, to the
+best of the Architect’s knowledge, information and belief, the Work has progressed to the point indicated and that
+the quality of the Work is in accordance with the Contract Documents. The foregoing representations are subject to
+an evaluation of the Work for conformance with the Contract Documents upon Substantial Completion, to results of
+subsequent tests and inspections, to correction of minor deviations from the Contract Documents prior to completion
+and to specific qualifications expressed by the Architect. The issuance of a Certificate for Payment will further
+constitute a representation that the Contractor is entitled to payment in the amount certified. However, the issuance
+of a Certificate for Payment will not be a representation that the Architect has (1) made exhaustive or continuous on-
+site inspections to check the quality or quantity of the Work, (2) reviewed construction means, methods, techniques,
+sequences or procedures, (3) reviewed copies of requisitions received from Subcontractors and material suppliers
+and other data requested by the Owner to substantiate the Contractor’s right to payment, or (4) made examination to
+ascertain how or for what purpose the Contractor has used money previously paid on account of the Contract Sum.
+
+§ 9.5 DECISIONS TO WITHHOLD CERTIFICATION
+
+§ 9.5.1 The Architect may withhold a Certificate for Payment in whole or in part, to the extent reasonably necessary
+to protect the Owner, if in the Architect’s opinion the representations to the Owner required by Section 9.4.2 cannot
+be made. If the Architect is unable to certify payment in the amount of the Application, the Architect will notify the
+Contractor and Owner as provided in Section 9.4.1. If the Contractor and Architect cannot agree on a revised
+amount, the Architect will promptly issue a Certificate for Payment for the amount for which the Architect is able to
+make such representations to the Owner. The Architect may also withhold a Certificate for Payment or, because of
+subsequently discovered evidence, may nullify the whole or a part of a Certificate for Payment previously issued, to
+such extent as may be necessary in the Architect’s opinion to protect the Owner from loss for which the Contractor
+is responsible, including loss resulting from acts and omissions described in Section 3.3.2, because of
+
+1 defective Work not remedied;
+.2 third party claims filed or reasonable evidence indicating probable filing of such claims unless security
+acceptable to the Owner is provided by the Contractor;
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 24
+reproduction or distribution of this AIA® Decument, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 27 =====
+.3 failure of the Contractor to make payments properly to Subcontractors or for labor, materials or
+equipment;
+
+4 reasonable evidence that the Work cannot be completed for the unpaid balance of the Contract Sum;
+
+5 damage to the Owner or a separate contractor;
+
+6 reasonable evidence that the Work will not be completed within the Contract Time, and that the unpaid
+
+balance would not be adequate to cover actual or liquidated damages for the anticipated delay; or
+
+.7_ repeated failure to carry out the Work in accordance with the Contract Documents.
+§ 9.5.2 When the above reasons for withholding certification are removed, certification will be made for amounts
+previously withheld.
+§ 9.5.3 If the Architect withholds certification for payment under Section 9.5.1.3, the Owner may, at its sole option,
+issue joint checks to the Contractor and to any Subcontractor or material or equipment suppliers to whom the
+Contractor failed to make payment for Work properly performed or material or equipment suitably delivered. If the
+Owner makes payments by joint check, the Owner shall notify the Architect and the Architect will reflect such
+payment on the next Certificate for Payment.
+§ 9.6 PROGRESS PAYMENTS
+§ 9.6.1 After the Architect has issued a Certificate for Payment, the Owner shall make payment in the manner and
+within the time provided in the Contract Documents, and shall so notify the Architect.
+§ 9.6.2 The Contractor shall pay each Subcontractor no later than seven days after receipt of payment from the
+Owner the amount to which the Subcontractor is entitled, reflecting percentages actually retained from payments to
+the Contractor on account of the Subcontractor’s portion of the Work. The Contractor shal!, by appropriate
+agreement with each Subcontractor, require each Subcontractor to make payments to Sub-subcontractors in a similar
+manner.
+§ 9.6.3 The Architect will, on request, furnish to a Subcontractor, if practicable, information regarding percentages of
+completion or amounts applied for by the Contractor and action taken thereon by the Architect and Owner on
+account of portions of the Work done by such Subcontractor.
+§ 9.6.4 The Owner has the right to request written evidence from the Contractor that the Contractor has.properly paid
+Subcontractors and material and equipment suppliers amounts paid by the Owner to the Contractor for subcontracted
+Work, If the Contractor fails to furnish such evidence within seven days, the Owner shall have the right to contact
+Subcontractors to ascertain whether they have been properly paid. Neither the Owner nor Architect shall have an
+obligation to pay or to see to the payment of money to a Subcontractor, except as may otherwise be required by law.
+§ 9.6.5 Contractor payments to material and equipment suppliers shall be treated in a manner similar to that provided
+in Sections 9.6.2, 9.6.3 and 9.6.4.
+§ 9.6.6 A Certificate for Payment, a progress payment, or partial or entire use or occupancy of the Project by the
+Owner shall not constitute acceptance of Work not in accordance with the Contract Documents.
+§ 9.6.7 Unless the Contractor provides the Owner with a payment bond in the full penal sum of the Contract Sum,
+payments received by the Contractor for Work properly performed by Subcontractors and suppliers shall be held by
+the Contractor for those Subcontractors or suppliers who performed Work or furnished materials, or both, under
+contract with the Contractor for which payment was made by the Owner. Nothing contained herein shall require
+money to be placed in a separate account and not commingled with money of the Contractor, shall create any
+fiduciary liability or tort liability on the part of the Contractor for breach of trust or shall entitle any person or entity
+to an award of punitive damages against the Contractor for breach of the requirements of this provision.
+§ 9.7 FAILURE OF PAYMENT
+If the Architect does not issue a Certificate for Payment, through no fault of the Contractor, within seven days after
+receipt of the Contractor’s Application for Payment, or if the Owner does not pay the Contractor within seven days
+after the date established in the Contract Documents the amount certified by the Architect or awarded by binding
+dispute resolution, then the Contractor may, upon seven additional days’ written notice to the Owner and Architect,
+stop the Work until payment of the amount owing has been received. The Contract Time shall be extended
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects, All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties, Unauthorized 25
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No, 9956512246 which expires on
+12/18/2018, and is not for resale
+User Notes: (3BSADA2C)
+
+
+===== PAGE 28 =====
+appropriately and the Contract Sum shall be increased by the amount of the Contractor’s reasonable costs of shut-
+down, delay and start-up, plus interest as provided for in the Contract Documents.
+§ 9.8 SUBSTANTIAL COMPLETION
+§ 9.8.1 Substantial Completion is the stage in the progress of the Work when the Work or designated portion thereof
+is sufficiently complete in accordance with the Contract Documents so that the Owner can occupy or utilize the
+
+Work for its intended use.
+
+§ 9.8.2 When the Contractor considers that the Work, or a portion thereof which the Owner agrees to accept
+separately, is substantially complete, the Contractor shall prepare and submit to the Architect a comprehensive list of
+items to be completed or corrected prior to final payment. Failure to include an item on such list does not-alter-the
+responsibility of the Contractor to complete all Work in accordance with the Contract Documents.
+
+§ 9.8.3 Upon receipt of the Contractor’s list, the Architect will make an inspection to determine whether the Work or
+designated portion thereof is substantially complete. If the Architect’s inspection discloses any item, whether or not
+included on the Contractor’s list, which is not sufficiently complete in accordance with the Contract Documents so
+that the Owner can occupy or utilize the Work or designated portion thereof for its intended use, the Contractor
+
+shall, before issuance of the Certificate of Substantial Completion, complete or correct such item upon notification
+by the Architect. In such case, the Contractor shall then submit a request for another inspection by the Architect to
+determine Substantial Completion.
+
+§ 9.8.4 When the Work or designated portion thereof is substantially complete, the Architect will prepare a
+
+Certificate of Substantial Completion that shall establish the date of Substantial Completion, shall establish
+responsibilities of the Owner and Contractor for security, maintenance, heat, utilities, damage to the Work and
+insurance, and shall fix the time within which the Contractor shall finish all items on the list accompanying the
+Certificate. Warranties required by the Contract Documents shal] commence on the date of Substantial Completion
+of the Work or designated portion thereof unless otherwise provided in the Certificate of Substantial Comptetion.
+
+§ 9.8.5 The Certificate of Substantial Completion shall be submitted to the Owner and Contractor for their written
+acceptance of responsibilities assigned to them in such Certificate. Upon such acceptance and consent of surety, if
+any, the Owner shall make payment of retainage applying to such Work or designated portion thereof. Such payment
+shall be adjusted for Work that is incomplete or not in accordance with the requirements of the Contract Documents.
+§ 9.9 PARTIAL OCCUPANCY OR USE
+
+§ 9.9.1 The Owner may occupy or use any completed or partially completed portion of the Work at any stage when
+such portion is designated by separate agreement with the Contractor, provided such occupancy or use is consented
+to by the insurer as required under Section 11.3.1.5 and authorized by public authorities having jurisdiction over the
+Project. Such partial occupancy or use may commence whether or not the portion is substantially complete, provided
+the Owner and Contractor have accepted in writing the responsibilities assigned to each of them for payments,
+retainage, if any, security, maintenance, heat, utilities, damage to the Work and insurance, and have agreed in
+writing concerning the period for correction of the Work and commencement of warranties required by the Contract
+Documents. When the Contractor considers a portion substantially complete, the Contractor shall prepare and
+
+submit a list to the Architect as provided under Section 9.8.2. Consent of the Contractor to partial occupancy or use
+shall not be unreasonably withheld. The stage of the progress of the Work shall be determined by written agreement
+between the Owner and Contractor or, if no agreement is reached, by decision of the Architect.
+
+§ 9.9.2 Immediately prior to such partial occupancy or use, the Owner, Contractor and Architect shall jointly inspect
+the area to be occupied or portion of the Work to be used in order to determine and record the condition of the
+
+Work.
+
+§ 9.9.3 Unless otherwise agreed upon, partial occupancy or use of a portion or portions of the Work shall not
+constitute acceptance of Work not complying with the requirements of the Contract Documents.
+
+§ 9.10 FINAL COMPLETION AND FINAL PAYMENT
+
+§ 9.10.1 Upon receipt of the Contractor’s written notice that the Work is ready for final inspection and acceptance
+and upon receipt of a final Application for Payment, the Architect will promptly make such inspection and, when the
+Architect finds the Work acceptable under the Contract Documents and the Contract fully performed, the Architect
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document Is protected by U.S. Copyright Law and International Treaties. Unauthorized 26
+reproduction or distribution of this AIA” Document, or any portion of it, may result In severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 29 =====
+will promptly issue a final Certificate for Payment stating that to the best of the Architect’s knowledge, information
+and belief, and on the basis of the Architect’s on-site visits and inspections, the Work has been completed in
+accordance with terms and conditions of the Contract Documents and that the entire balance found to be due the
+Contractor and noted in the final Certificate is due and payable. The Architect’s final Certificate for Payment will
+constitute a further representation that conditions listed in Section 9.10.2 as precedent to the Contractor’s being
+entitled to final payment have been fulfilled.
+
+§ 9.10.2 Neither final payment nor any remaining retained percentage shall become due until the Contractor submits
+to the Architect (1) an affidavit that payrolls, bills for materials and equipment, and other indebtedness connected
+with the Work for which the Owner or the Owner’s property might be responsible or encumbered (less amounts
+withheld by Owner) have been paid or otherwise satisfied, (2) a certificate evidencing that insurance required-by the
+Contract Documents to remain in force after final payment is currently in effect and will not be canceled or allowed
+to expire until at least 30 days’ prior written notice has been given to the Owner, (3) a written statement that the
+Contractor knows of no substantial reason that the insurance will not be renewable to cover the period required by
+the Contract Documents, (4) consent of surety, if any, to final payment and (5), if required by the Owner, other data
+establishing payment or satisfaction of obligations, such as receipts, releases and waivers of liens, claims, security
+interests or encumbrances arising out of the Contract, to the extent and in such form as may be designated by the
+Owner. If a Subcontractor refuses to furnish a release or waiver required by the Owner, the Contractor may furnish a
+bond satisfactory to the Owner to indemnify the Owner against such lien. If such lien remains unsatisfied after
+payments are made, the Contractor shall refund to the Owner all money that the Owner may be compelled to pay in
+discharging such lien, including all costs and reasonable attorneys’ fees.
+
+§ 9.10.3 If, after Substantial Completion of the Work, final completion thereof is materially delayed through no fault
+of the Contractor or by issuance of Change Orders affecting final completion, and the Architect so confirms, the
+Owner shall, upon application by the Contractor and certification by the Architect, and without terminating the
+Contract, make payment of the balance due for that portion of the Work fully completed and accepted. If the
+remaining balance for Work not fully completed or corrected is less than retainage stipulated in the Contract
+Documents, and if bonds have been furnished, the written consent of surety to payment of the balance due for that
+portion of the Work fully completed and accepted shall be submitted by the Contractor to the Architect prior to
+certification of such payment. Such payment shall be made under terms and conditions governing final payment,
+except that it shall not constitute a waiver of claims.
+
+§ 9.10.4 The making of final payment shall constitute a waiver of Claims by the Owner except those arising from
+
+1 liens, Claims, security interests or encumbrances arising out of the Contract and unsettled;
+
+.2 failure of the Work to comply with the requirements of the Contract Documents; or
+
+3 terms of special warranties required by the Contract Documents.
+
+§ 9.10.5 Acceptance of final payment by the Contractor, a Subcontractor or material supplier shall constitute a
+waiver of claims by that payee except those previously made in writing and identified by that payee as unsettled at
+the time of final Application for Payment.
+
+ARTICLE 10 PROTECTION OF PERSONS AND PROPERTY
+
+§ 10.1 SAFETY PRECAUTIONS AND PROGRAMS
+
+The Contractor shall be responsible for initiating, maintaining and supervising all safety precautions and programs
+in connection with the performance of the Contract.
+
+§ 10.2 SAFETY OF PERSONS AND PROPERTY
+
+§ 10.2.1 The Contractor shall take reasonable precautions for safety of, and shall provide reasonable protection to
+prevent damage, injury or loss to
+
+.1_ employees on the Work and other persons who may be affected thereby;
+
+.2. the Work and materials and equipment to be incorporated therein, whether in storage on or off the site,
+under care, custody or control of the Contractor or the Contractor’s Subcontractors or Sub-
+subcontractors; and
+
+.3 other property at the site or adjacent thereto, such as trees, shrubs, lawns, walks, pavements, roadways,
+structures and utilities not designated for removal, relocation or replacement in the course of
+construction.
+
+AIA Document A201™ - 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 27
+reproduction or distribution of this AIA” Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 30 =====
+§ 10.2.2 The Contractor shall comply with and give notices required by applicable laws, statutes, ordinances, codes,
+rules and regulations, and lawful orders of public authorities bearing on safety of persons or property or their
+protection from damage, injury or loss.
+§ 10.2.3 The Contractor shall erect and maintain, as required by existing conditions and performance of the Contract,
+reasonable safeguards for safety and protection, including posting danger signs and other warnings against hazards,
+promulgating safety regulations and notifying owners and users of adjacent sites and utilities.
+§ 10.2.4 When use or storage of explosives or other hazardous materials or equipment or unusual methods are
+necessary for execution of the Work, the Contractor shall exercise utmost care and carry on such activities under
+supervision of properly qualified personnel.
+
+§ 10.2.5 The Contractor shall promptly remedy damage and loss (other than damage or loss insured under property
+insurance required by the Contract Documents) to property referred to in Sections 10.2.1.2 and 10.2.1.3 caused in
+whole or in part by the Contractor, a Subcontractor, a Sub-subcontractor, or anyone directly or indirectly employed
+by any of them, or by anyone for whose acts they may be liable and for which the Contractor is responsible under
+Sections 10.2.1.2 and 10.2.1.3, except damage or loss attributable to acts or omissions of the Owner or Architect or
+anyone directly or indirectly employed by either of them, or by anyone for whose acts either of them may be liable,
+and not attributable to the fault or negligence of the Contractor. The foregoing obligations of the Contractor are in
+addition to the Contractor’s obligations under Section 3.18.
+
+§ 10.2.6 The Contractor shall designate a responsible member of the Contractor’s organization at the site whose duty
+shall be the prevention of accidents. This person shall be the Contractor’s superintendent unless otherwise
+designated by the Contractor in writing to the Owner and Architect.
+
+§ 10.2.7 The Contractor shall not permit any part of the construction or site to be loaded so as to cause damage or
+create an unsafe condition.
+
+§ 10.2.8 INJURY OR DAMAGE TO PERSON OR PROPERTY
+
+If either party suffers injury or damage to person or property because of an act or omission of the other party, or of
+others for whose acts such party is legally responsible, written notice of such injury or damage, whether or not
+insured, shall be given to the other party within a reasonable time not exceeding 21 days after discovery. The notice
+shall provide sufficient detail to enable the other party to investigate the matter.
+
+§ 10.3 HAZARDOUS MATERIALS
+
+§ 10.3.1 The Contractor is responsible for compliance with any requirements included in the Contract Documents
+regarding hazardous materials. If the Contractor encounters a hazardous material or substance not addressed in the
+Contract Documents and if reasonable precautions will be inadequate to prevent foreseeable bodily injury or death
+to persons resulting from a material or substance, including but not limited to asbestos or polychlorinated biphenyl
+(PCB), encountered on the site by the Contractor, the Contractor shall, upon recognizing the condition, immediately
+stop Work in the affected area and report the condition to the Owner and Architect in writing.
+
+§ 10.3.2 Upon receipt of the Contractor’s written notice, the Owner shall obtain the services of a licensed laboratory
+to verify the presence or absence of the material or substance reported by the Contractor and, in the event such
+material or substance is found to be present, to cause it to be rendered harmless. Unless otherwise required by the
+Contract Documents, the Owner shall furnish in writing to the Contractor and Architect the names and qualifications
+of persons or entities who are to perform tests verifying the presence or absence of such material or substance or
+who are to perform the task of removal or safe containment of such material or substance. The Contractor and the
+Architect will promptly reply to the Owner in writing stating whether or not either has reasonable objection to the
+persons or entities proposed by the Owner. If either the Contractor or Architect has an objection to a person or entity
+proposed by the Owner, the Owner shall propose another to whom the Contractor and the Architect have no
+reasonable objection. When the material or substance has been rendered harmless, Work in the affected area shall
+resume upon written agreement of the Owner and Contractor. By Change Order, the Contract Time shall be
+extended appropriately and the Contract Sum shall be increased in the amount of the Contractor’s reasonable
+additional costs of shut-down, delay and start-up.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 28
+reproduction or distribution of this AIA” Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale,
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 31 =====
+§ 10.3.3 To the fullest extent permitted by law, the Owner shall indemnify and hold harmless the Contractor,
+Subcontractors, Architect, Architect’s consultants and agents and employees of any of them from and against
+claims, damages, losses and expenses, including but not limited to attorneys’ fees, arising out of or resulting from
+performance of the Work in the affected area if in fact the material or substance presents the risk of bodily injury or
+death as described in Section 10.3.1 and has not been rendered harmless, provided that such claim, damage, loss or
+expense is attributable to bodily injury, sickness, disease or death, or to injury to or destruction of tangible property
+(other than the Work itself), except to the extent that such damage, loss or expense is due to the fault or negligence
+of the party seeking indemnity.
+§ 10.3.4 The Owner shall not be responsible under this Section 10.3 for materials or substances the Contractor brings
+to the site unless such materials or substances are required by the Contract Documents. The Owner shall be
+responsible for materials or substances required by the Contract Documents, except to the extent of the Contractor’s
+fault or negligence in the use and handling of such materials or substances.
+§ 10.3.5 The Contractor shall indemnify the Owner for the cost and expense the Owner incurs (1) for remediation of
+a material or substance the Contractor brings to the site and negligently handles, or (2) where the Contractor fails to
+perform its obligations under Section 10.3.1, except to the extent that the cost and expense are due to the Owner’s
+fault or negligence.
+§ 10.3.6 If, without negligence on the part of the Contractor, the Contractor is held liable by a government agency for
+the cost of remediation of a hazardous material or substance solely by reason of performing Work as required by the
+Contract Documents, the Owner shall indemnify the Contractor for all cost and expense thereby incurred.
+§ 10.4 EMERGENCIES
+In an emergency affecting safety of persons or property, the Contractor shall act, at the Contractor’s discretion, to
+prevent threatened damage, injury or loss. Additional compensation or extension of time claimed by the Contractor
+on account of an emergency shall be determined as provided in Article 15 and Article 7.
+ARTICLE 11 INSURANCE AND BONDS
+§ 11.1 CONTRACTOR'S LIABILITY INSURANCE
+§ 11.4.1 The Contractor shall purchase from and maintain in a company or companies lawfully authorized to do
+business in the jurisdiction in which the Project is located such insurance as will protect the Contractor from claims
+set forth below which may arise out of or result from the Contractor’s operations and completed operations under
+the Contract and for which the Contractor may be legally liable, whether such operations be by the Contractor or by
+a Subcontractor or by anyone directly or indirectly employed by any of them, or by anyone for whose acts any of
+them may be liable:
+1 Claims under workers’ compensation, disability benefit and other similar employee benefit acts that are
+applicable to the Work to be performed;
+.2 Claims for damages because of bodily injury, occupational sickness or disease, or death of the
+Contractor’s employees;
+.3 Claims for damages because of bodily injury, sickness or disease, or death of any person other than the
+Contractor’s employees;
+4 Claims for damages insured by usual personal injury liability coverage;
+5 Claims for damages, other than to the Work itself, because of injury to or destruction of tangible
+property, including loss of use resulting therefrom;
+.6 Claims for damages because of bodily injury, death of a person or property damage arising out of
+ownership, maintenance or use of a motor vehicle;
+.7 Claims for bodily injury or property damage arising out of completed operations; and
+.8 Claims involving contractual liability insurance applicable to the Contractor’s obligations under
+Section 3.18.
+§ 11.1.2 The insurance required by Section 11.1.1 shall be written for not less than limits of liability specified in the
+Contract Documents or required by law, whichever coverage is greater. Coverages, whether written on an
+occurrence or claims-made basis, shall be maintained without interruption from the date of commencement of the
+Work until the date of final payment and termination of any coverage required to be maintained after final payment,
+and, with respect to the Contractor’s completed operations coverage, until the expiration of the period for correction
+AIA Document A201™ - 2007. Copyright © 1911, 1945, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute-‘of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties, Unauthorized 29
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No, 9956512246 which expires on
+12/18/2018, and is not for resale
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 32 =====
+of Work or for such other period for maintenance of completed operations coverage as specified in the Contract
+Documents.
+§ 11.1.3 Certificates of insurance acceptable to the Owner shall be filed with the Owner prior to commencement of
+the Work and thereafter upon renewal or replacement of each required policy of insurance. These certificates and the
+insurance policies required by this Section 11.1 shall contain a provision that coverages afforded under the policies
+will not be canceled or allowed to expire until at least 30 days’ prior written notice has been given to the Owner. An
+additional certificate evidencing continuation of liability coverage, including coverage for completed operations,
+shall be submitted with the final Application for Payment as required by Section 9.10.2 and thereafter upon renewal
+or replacement of such coverage until the expiration of the time required by Section 11.1.2. Information concerning
+reduction of coverage on account of revised limits or claims paid under the General Aggregate, or both, shall -be
+furnished by the Contractor with reasonable promptness.
+§ 11.1.4 The Contractor shall cause the commercial liability coverage required by the Contract Documents to include
+(1) the Owner, the Architect and the Architect’s consultants as additional insureds for claims Caused in whole or in
+part by the Contractor’s negligent acts or omissions during the Contractor’s operations; and (2) the Owner as an
+additional insured for claims caused in whole or in part by the Contractor’s negligent acts or omissions during the
+Contractor’s completed operations.
+§ 11.2 OWNER’S LIABILITY INSURANCE
+The Owner shall be responsible for purchasing and maintaining the Owner’s usual liability insurance.
+§ 11.3 PROPERTY INSURANCE
+§ 11.3.1 Unless otherwise provided, the Owner shall purchase and maintain, in a company or companies lawfully
+authorized to do business in the jurisdiction in which the Project is located, property insurance written on a builder’s
+risk “all-risk” or equivalent policy form in the amount of the initial Contract Sum, plus value of subsequent Contract
+Modifications and cost of materials supplied or installed by others, comprising total value for the entire Project at
+the site on a replacement cost basis without optional deductibles. Such property insurance shall be maintained,
+unless otherwise provided in the Contract Documents or otherwise agreed in writing by all persons and entities who
+are beneficiaries of such insurance, until final payment has been made as provided in Section 9:10 or until no person
+or entity other than the Owner has an insurable interest in the property required by this Section 11.3 to be covered,
+whichever is later. This insurance shall include interests of the Owner, the Contractor, Subcontractors and Sub-
+subcontractors in the Project.
+§ 11.3.1.1 Property insurance shall be on an “all-risk” or equivalent policy form and shall include, without limitation,
+insurance against the perils of fire (with extended coverage) and physical loss or damage including, without
+duplication of coverage, theft, vandalism, malicious mischief, collapse, earthquake, flood, windstorm, falsework,
+testing and startup, temporary buildings and debris removal including demolition occasioned by enforcement of any
+applicable legal requirements, and shall cover reasonable compensation for Architect’s and Contractor’s services
+and expenses required as a result of such insured loss.
+§ 11.3.1.2 If the Owner does not intend to purchase such property insurance required by the Contract and with all of
+the coverages in the amount described above, the Owner shall so inform the Contractor in writing prior to
+commencement of the Work. The Contractor may then effect insurance that will protect the interests of the
+Contractor, Subcontractors and Sub-subcontractors in the Work, and by appropriate Change Order the cost thereof
+shall be charged to the Owner. If the Contractor is damaged by the failure or neglect of the Owner to purchase or
+maintain insurance as described above, without so notifying the Contractor in writing, then the Owner shall bear-all
+reasonable costs properly attributable thereto.
+§ 11.3.1.3 If the property insurance requires deductibles, the Owner shall pay costs not covered because of such
+deductibles.
+§ 11.3.1.4 This property insurance shall cover portions of the Work stored off the site, and also portions of the Work
+in transit.
+§ 11.3.1.5 Partial occupancy or use in accordance with Section 9.9 shall not commence until the insurance company
+or companies providing property insurance have consented to such partial occupancy or use by endorsement or
+AJA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 30
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+‘ User Notes: (3B9ADA2C)
+
+
+===== PAGE 33 =====
+otherwise. The Owner and the Contractor shall take reasonable steps to obtain consent of the insurance company or
+companies and shall, without mutual written consent, take no action with respect to partial occupancy or use that
+would cause cancellation, lapse or reduction of insurance.
+
+§ 11.3.2 BOILER AND MACHINERY INSURANCE
+
+The Owner shall purchase and maintain boiler and machinery insurance required by the Contract Documents or by
+law, which shall specifically cover such insured objects during installation and until final acceptance by the Owner;
+this insurance shall include interests of the Owner, Contractor, Subcontractors and Sub-subcontractors in the Work,
+and the Owner and Contractor shall be named insureds.
+
+§ 11.3.3 LOSS OF USE INSURANCE
+
+The Owner, at the Owner’s option, may purchase and maintain such insurance as will insure the Owner against loss
+of use of the Owner’s property due to fire or other hazards, however caused. The Owner waives all rights of action
+against the Contractor for loss of use of the Owner’s property, including consequential losses due to fire or other
+hazards however caused.
+
+§ 11.3.4 If the Contractor requests in writing that insurance for risks other than those described herein or other
+
+special causes of loss be included in the property insurance policy, the Owner shall, if possible, include such
+insurance, and the cost thereof shall be charged to the Contractor by appropriate Change Order.
+
+§ 11.3.5 If during the Project construction period the Owner insures properties, real or personal or both, at or adjacent
+to the site by property insurance under policies separate from those insuring the Project, or if after final payment
+property insurance is to be provided on the completed Project through a policy or policies other than those insuring,
+the Project during the construction period, the Owner shall waive all rights in accordance with the terms of Section
+11.3.7 for damages caused by fire or other causes of loss covered by this separate property insurance. All separate
+policies shall provide this waiver of subrogation by endorsement or otherwise.
+
+§ 11.3.6 Before an exposure to loss may occur, the Owner shall file with the Contractor a copy of cach policy that
+includes insurance coverages required by this Section 11.3. Each policy shall contain all generally applicable
+conditions, definitions, exclusions and endorsements related to this Project. Each policy shall contain a provision
+that the policy will not be canceled or allowed to expire, and that its limits will not be reduced,until at least 30 days’
+prior written notice has been given to the Contractor.
+
+§ 11.3.7 WAIVERS OF SUBROGATION
+
+The Owner and Contractor waive al! rights against (1) each other and any of their subcontractors, sub-
+subcontractors, agents and employees, each of the other, and (2) the Architect, Architect’s consultants, separate
+contractors described in Article 6, if any, and any of their subcontractors, sub-subcontractors, agents and employees,
+for damages caused by fire or other causes of loss to the extent covered by property insurance obtained pursuant to
+this Section 11.3 or other property insurance applicable to the Work, except such rights as they have to proceeds of
+such insurance held by the Owner as fiduciary. The Owner or Contractor, as appropriate, shall require of the
+Architect, Architect’s consultants, separate contractors described in Article 6, if any, and the subcontractors, sub-
+subcontractors, agents and employees of any of them, by appropriate agreements, written where legally required for
+validity, similar waivers each in favor of other parties enumerated herein. The policies shall provide such waivers of
+subrogation by endorsement or otherwise. A waiver of subrogation shall be effective as to a person or entity even
+though that person or entity would otherwise have a duty of indemnification, contractual or otherwise, did not pay
+the insurance premium directly or indirectly, and whether or not the person or entity had an insurable interest in the
+property damaged.
+
+§ 11.3.8 A loss insured under the Owner’s property insurance shall be adjusted by the Owner as fiduciary and made
+payable to the Owner as fiduciary for the insureds, as their interests may appear, subject to requirements of any
+applicable mortgagee clause and of Section 11.3.10. The Contractor shall pay Subcontractors their just shares of
+insurance proceeds received by the Contractor, and by appropriate agreements, written where legally required for
+validity, shall require Subcontractors to make payments to their Sub-subcontractors in similar manner.
+
+§ 11.3.9 If required in writing by a party in interest, the Owner as fiduciary shall, upon occurrence of an insured loss,
+give bond for proper performance of the Owner’s duties. The cost of required bonds shall be charged against
+proceeds received as fiduciary. The Owner shall deposit in a separate account proceeds so received, which the
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 31
+reproduction or distribution of this AIA” Document, or any portion of it, may result in severe civil and criminal penaities, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No, 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 34 =====
+Owner shall distribute in accordance with such agreement as the parties in interest may reach, or as determined in
+accordance with the method of binding dispute resolution selected in the Agreement between the Owner and
+Contractor. If after such loss no other special agreement is made and unless the Owner terminates the Contract for
+convenience, replacement of damaged property shall be performed by the Contractor after notification of a Change
+in the Work in accordance with Article 7.
+
+§ 11.3.10 The Owner as fiduciary shall have power to adjust and settle a loss with insurers unless one of the parties in
+interest shall object in writing within five days after occurrence of loss to the Owner’s exercise of this power; if such
+objection is made, the dispute shall be resolved in the manner selected by the Owner and Contractor as the method
+of binding dispute resolution in the Agreement. If the Owner and Contractor have selected arbitration as the method
+of binding dispute resolution, the Owner as fiduciary shall make settlement with insurers or, in the case of a dispute
+over distribution of insurance proceeds, in accordance with the directions of the arbitrators.
+
+§ 11.4 PERFORMANCE BOND AND PAYMENT BOND
+
+§ 11.4.1 The Owner shall have the right to require the Contractor to furnish bonds covering faithful performance of
+the Contract and payment of obligations arising thereunder as stipulated in bidding requirements or specifically
+required in the Contract Documents on the date of execution of the Contract.
+
+§ 11.4.2 Upon the request of any person or entity appearing to be a potential beneficiary of bonds covering payment
+of obligations arising under the Contract, the Contractor shall promptly furnish a copy of the bonds or shall
+authorize a copy to be furnished.
+
+ARTICLE 12 UNCOVERING AND CORRECTION OF WORK
+
+§ 12.1 UNCOVERING OF WORK
+
+§ 12.1.1 Ifa portion of the Work is covered contrary to the Architect’s request or to requirements specifically
+expressed in the Contract Documents, it must, if requested in writing by the Architect, be uncovered for the
+Architect’s examination and be replaced at the Contractor’s expense without change in the Contract Time.
+
+§ 12.1.2 Jf a portion of the Work has been covered that the Architect has not specifically requested to examine priot
+to its being covered, the Architect may request to see such Work and it shall be uncovered by the Contractor. If such
+Work is in accordance with the Contract Documents, costs of uncovering and replacement shall, by appropriate
+Change Order, be at the Owner’s expense. If such Work is not in accordance with the Contract Documents, such
+costs and the cost of correction shall be at the Contractor’s expense unless the condition was caused by the Owner or
+a separate contractor in which event the Owner shall be responsible for payment of such costs.
+
+§ 12.2 CORRECTION OF WORK
+
+§ 12.2.1 BEFORE OR AFTER SUBSTANTIAL COMPLETION
+
+The Contractor shall promptly correct Work rejected by the Architect or failing to conform to the requirements of
+the Contract Documents, whether discovered before or after Substantial Completion and whether or not fabricated,
+installed or completed. Costs of correcting such rejected Work, including additional testing and inspections, the cost
+of uncovering and replacement, and compensation for the Architect’s services and expenses made necessary
+thereby, shall be at the Contractor’s expense.
+
+§ 12.2.2 AFTER SUBSTANTIAL COMPLETION
+
+§ 12.2.2.1 In addition to the Contractor’s obligations under Section 3.5, if, within one year after the date of
+Substantial Completion of the Work or designated portion thereof or after the date for commencement of warranties
+established under Section 9.9.1, or by terms of an applicable special warranty required by the Contract Documents,
+any of the Work is found to be not in accordance with the requirements of the Contract Documents, the Contractor
+shall correct it promptly after receipt of written notice from the Owner to do so unless the Owner has previously
+given the Contractor a written acceptance of such condition. The Owner shall give such notice promptly after
+discovery of the condition. During the one-year period for correction of Work, if the Owner fails to notify the
+Contractor and give the Contractor an opportunity to make the correction, the Owner waives the rights to require
+correction by the Contractor and to make a claim for breach of warranty. If the Contractor fails to correct
+nonconforming Work within a reasonable time during that period after receipt of notice from the Owner or
+Architect, the Owner may correct it in accordance with Section 2.4.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 32
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 35 =====
+§ 12.2.2.2 The one-year period for correction of Work shall be extended with respect to portions of Work first
+performed after Substantial Completion by the period of time between Substantial Completion and the actual
+completion of that portion of the Work.
+§ 12.2.2.3 The one-year period for correction of Work shall not be extended by corrective Work performed by the
+Contractor pursuant to this Section 12.2.
+
+§ 12.2.3 The Contractor shall remove from the site portions of the Work that are not in accordance with the
+requirements of the Contract Documents and are neither corrected by the Contractor nor accepted by the Owner,
+
+§ 12.2.4 The Contractor shall bear the cost of correcting destroyed or damaged construction, whether completed-or
+partially completed, of the Owner or separate contractors caused by the Contractor’s correction or removal of Work
+that is not in accordance with the requirements of the Contract Documents.
+
+§ 12.2.5 Nothing contained in this Section 12.2 shall be construed to establish a period of limitation with respect to
+other obligations the Contractor has under the Contract Documents. Establishment of the one-year period for
+correction of Work as described in Section 12.2.2 relates only to the specific obligation of the Contractor to correct
+the Work, and has no relationship to the time within which the obligation to comply with the Contract Documents
+may be sought to be enforced, nor to the time within which proceedings may be commenced to establish the
+Contractor’s liability with respect to the Contractor’s obligations other than specifically to correct the Work.
+
+§ 12.3 ACCEPTANCE OF NONCONFORMING WORK
+
+If the Owner prefers to accept Work that is not in accordance with the requirements of the Contract Documents, the
+Owner may do so instead of requiring its removal and correction, in which case the Contract Sum will be reduced as
+appropriate and equitable. Such adjustment shall be effected whether or not final payment has been made.
+
+ARTICLE 13 MISCELLANEOUS PROVISIONS
+
+§ 13.1 GOVERNING LAW
+
+The Contract shall be governed by the law of the place where the Project is located except that, if the parties have
+selected arbitration as the method of binding dispute resolution, the Federal Arbitration Act shall govern Section
+15.4.
+
+§ 13.2 SUCCESSORS AND ASSIGNS
+
+§ 13.2.1 The Owner and Contractor respectively bind themselves, their partners, successors, assigns and legal
+representatives to covenants, agreements and obligations contained in the Contract Documents. Except as provided
+in Section 13.2.2, neither party to the Contract shall assign the Contract as a whole without written consent of the
+other. If either party attempts to make such an assignment without such consent, that party shall nevertheless remain
+legally responsible for all obligations under the Contract.
+
+§ 13.2.2 The Owner may, without consent of the Contractor, assign the Contract to a lender providing construction
+financing for the Project, if the lender assumes the Owner’s rights and obligations under the Contract Documents.
+The Contractor shall execute all consents reasonably required to facilitate such assignment.
+
+§ 13.3 WRITTEN NOTICE
+
+Written notice shall be deemed to have been duly served if delivered in person to the individual, to a member of the
+firm or entity, or to an officer of the corporation for which it was intended; or if delivered at, or sent by registered or
+certified mail or by courier service providing proof of delivery to, the last business address known to the party
+giving notice.
+
+§ 13.4 RIGHTS AND REMEDIES
+
+§ 13.4.1 Duties and obligations imposed by the Contract Documents and rights and remedies available thereunder
+shall be in addition to and not a limitation of duties, obligations, rights and remedies otherwise imposed or available
+by law.
+
+§ 13.4.2 No action or failure to act by the Owner, Architect or Contractor shall constitute a waiver of a right or duty
+afforded them under the Contract, nor shall such action or failure to act constitute approval of or acquiescence ina
+breach there under, except as may be specifically agreed in writing.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AlA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 33
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 36 =====
+§ 13.5 TESTS AND INSPECTIONS
+§ 13.5.1 Tests, inspections and approvals of portions of the Work shall be made as required by the Contract
+Documents and by applicable laws, statutes, ordinances, codes, rules and regulations or lawful orders of public
+authorities. Unless otherwise provided, the Contractor shall make arrangements for such tests, inspections and
+approvals with an independent testing laboratory or entity acceptable to the Owner, or with the appropriate public
+authority, and shall bear all related costs of tests, inspections and approvals. The Contractor shall give the Architect
+timely notice of when and where tests and inspections are to be made so that the Architect may be present for such
+procedures. The Owner shall bear costs of (1) tests, inspections or approvals that do not become requirements until
+after bids are received or negotiations concluded, and (2) tests, inspections or approvals where building codes or
+applicable laws or regulations prohibit the Owner from delegating their cost to the Contractor.
+§ 13.5.2 If the Architect, Owner or public authorities having jurisdiction determine that portions of the Work require
+additional testing, inspection or approval not included under Section 13.5.1, the Architect will, upon written
+authorization from the Owner, instruct the Contractor to make arrangements for such additional testing, inspection
+or approval by an entity acceptable to the Owner, and the Contractor shall give timely notice to the Architect of
+when and where tests and inspections are to be made so that the Architect may be present for such procedures. Such
+costs, except as provided in Section 13.5.3, shall be at the Owner’s expense.
+§ 13.5.3 If such procedures for testing, inspection or approval under Sections 13.5.1 and 13.5.2 reveal failure of the
+portions of the Work to comply with requirements established by the Contract Documents, all costs made necessary
+by such failure including those of repeated procedures and compensation for the Architect’s services and expenses
+shail be at the Contractor’s expense.
+§ 13.5.4 Required certificates of testing, inspection or approval shall, unless otherwise required by the Contract
+Documents, be secured by the Contractor and promptly delivered to the Architect.
+§ 13.5.5 If the Architect is to observe tests, inspections or approvals required by the Contract Documents, the
+Architect will do so promptly and, where practicable, at the normal place of testing.
+§ 13.5.6 Tests or inspections conducted pursuant to the Contract Documents shall be made promptly to avoid
+unreasonable delay in the Work.
+§ 13.6 INTEREST
+Payments due and unpaid under the Contract Documents shall bear interest from the date payment is due at such rate
+as the parties may agree upon in writing or, in the absence thereof, at the legal rate prevailing from time to time at
+the place where the Project is located.
+§ 13.7 TIME LIMITS ON CLAIMS
+The Owner and Contractor shall commence all claims and causes of action, whether in contract, tort, breach of
+warranty or otherwise, against the other arising out of or related to the Contract in accordance with the requirements
+of the final dispute resolution method selected in the Agreement within the time period specified by applicable law,
+but in any case not more than 10 years after the date of Substantial Completion of the Work. The Owner and
+Contractor waive all claims and causes of action not commenced in accordance with this Section 13.7.
+ARTICLE 14 TERMINATION OR SUSPENSION OF THE CONTRACT
+§ 14.1 TERMINATION BY THE CONTRACTOR
+§ 14.1.1 The Contractor may terminate the Contract if the Work is stopped for a period of 30 consecutive days
+through no act or fault of the Contractor or a Subcontractor, Sub-subcontractor or their agents or employees or any
+other persons or entities performing portions of the Work under direct or indirect contract with the Contractor, for
+any of the following reasons:
+
+.1_ Issuance of an order of a court or other public authority having jurisdiction that requires all Work to be
+
+stopped;
+.2 Anact of government, such as a declaration of national emergency that requires all Work to be
+stopped;
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 34
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 37 =====
+3 Because the Architect has not issued a Certificate for Payment and has not notified the Contractor of
+the reason for withholding certification as provided in Section 9.4.1, or because the Owner has not
+made payment on a Certificate for Payment within the time stated in the Contract Documents; or
+
+4. The Owner has failed to furnish to the Contractor promptly, upon the Contractor’s request, reasonable
+evidence as required by Section 2.2.1.
+
+§ 14.1.2 The Contractor may terminate the Contract if, through no act or fault of the Contractor or a Subcontractor,
+Sub-subcontractor or their agents or employees or any other persons or entities performing portions of the Work
+under direct or indirect contract with the Contractor, repeated suspensions, delays or interruptions of the entire Work
+by the Owner as described in Section 14.3 constitute in the aggregate more than 100 percent of the total number of
+days scheduled for completion, or 120 days in any 365-day period, whichever is less.
+
+§ 14.1.3 If one of the reasons described in Section 14.1.1 or 14.1.2 exists, the Contractor may, upon seven days’
+written notice to the Owner and Architect, terminate the Contract and recover from the Owner payment for Work
+executed, including reasonable overhead and profit, costs incurred by reason of such termination, and damages.
+
+§ 14.1.4 If the Work is stopped for a period of 60 consecutive days through no act or fault of the Contractor or a
+Subcontractor or their agents or employees or any other persons performing portions of the Work under contract
+with the Contractor because the Owner has repeatedly failed to fulfill the Owner’s obligations under the Contract
+Documents with respect to matters important to the progress of the Work, the Contractor may, upon seven additional
+days’ written notice to the Owner and the Architect, terminate the Contract and recover from the Owner as provided
+in Section 14.1.3.
+
+§ 14.2 TERMINATION BY THE OWNER FOR CAUSE
+
+§ 14.2.1 The Owner may terminate the Contract if the Contractor
+
+.1 repeatedly refuses or fails to supply enough properly skilled workers or proper materials;
+
+.2 fails to make payment to Subcontractors for materials or labor in accordance with the respective
+agreements between the Contractor and the Subcontractors;
+
+.3 repeatedly disregards applicable laws, statutes, ordinances, codes, rules and regulations, or lawful
+orders of a public authority; or
+
+4 otherwise is guilty of substantial breach of a provision of the Contract Documents.
+
+§ 14.2.2 When any of the above reasons exist, the Owner, upon certification by the Initial Decision Maker that
+sufficient cause exists to justify such action, may without prejudice to any other rights or remedies of the Owner and
+after giving the Contractor and the Contractor’s surety, if any, seven days’ written notice, terminate employment of
+the Contractor and may, subject to any prior rights of the surety:
+
+1 Exclude the Contractor from the site and take possession of all materials, equipment, tools, and
+construction equipment and machinery thereon owned by the Contractor;
+
+.2— Accept assignment of subcontracts pursuant to Section 5.4; and
+
+.3. Finish the Work by whatever reasonable method the Owner may deem expedient. Upon written request
+
+of the Contractor, the Owner shall furnish to the Contractor a detailed accounting of the costs
+incurred by the Owner in finishing the Work.
+§ 14.2.3 When the Owner terminates the Contract for one of the reasons stated in Section 14.2.1, the Contractor shall
+not be entitled to receive further payment until the Work is finished.
+§ 14.2.4 If the unpaid balance of the Contract Sum exceeds costs of finishing the Work, including compensation for
+the Architect’s services and expenses made necessary thereby, and other damages incurred by the Owner and not
+expressly waived, such excess shall be paid to the Contractor. If such costs and damages exceed the unpaid balance,
+the Contractor shall pay the difference to the Owner. The amount to be paid to the Contractor or Owner, as the case
+may be, shall be certified by the Initial Decision Maker, upon application, and this obligation for payment shall
+survive termination of the Contract.
+§ 14.3 SUSPENSION BY THE OWNER FOR CONVENIENCE
+§ 14.3.1 The Owner may, without cause, order the Contractor in writing to suspend, delay or interrupt the Work in
+whole or in part for such period of time as the Owner may determine.
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 35
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 38 =====
+§ 14.3.2 The Contract Sum and Contract Time shall be adjusted for increases in the cost and time caused by
+suspension, delay or interruption as described in Section 14.3.1. Adjustment of the Contract Sum shall include
+profit. No adjustment shall be made to the extent
+1 that performance is, was or would have been so suspended, delayed or interrupted by another cause for
+which the Contractor is responsible; or
+.2- that an equitable adjustment is made or denied under another provision of the Contract.
+§ 14.4 TERMINATION BY THE OWNER FOR CONVENIENCE
+§ 14.4.1 The Owner may, at any time, terminate the Contract for the Owner’s convenience and without cause.
+§ 14.4.2 Upon receipt of written notice from the Owner of such termination for the Owner’s convenience, the
+Contractor shall
+.1_ cease operations as directed by the Owner in the notice;
+.2 take actions necessary, or that the Owner may direct, for the protection and preservation of the Work;
+and
+3 except for Work directed to be performed prior to the effective date of termination stated in the notice,
+terminate all existing subcontracts and purchase orders and enter into no further subcontracts and
+purchase orders.
+§ 14.4.3 In case of such termination for the Owner’s convenience, the Contractor shall be entitled to receive payment
+for Work executed, and costs incurred by reason of such termination, along with reasonable overhead and profit on
+the Work not executed.
+ARTICLE 15 CLAIMS AND DISPUTES
+§ 15.1 CLAIMS
+§ 15.1.1 DEFINITION
+A Claim is a demand or assertion by one of the parties secking, as a matter of right, payment of money, or other
+relief with respect to the terms of the Contract. The term “Claim” also includes other disputes and matters in
+question between the Owner and Contractor arising out of or relating to the Contract. The responsibility to
+substantiate Claims shall rest with the party making the Claim.
+§ 15.1.2 NOTICE OF CLAIMS
+Claims by either the Owner or Contractor must be initiated by written notice to the other party and to the Initial
+Decision Maker with a copy sent to the Architect, if the Architect is not serving as the Initial Decision Maker.
+Claims by either party must be initiated within 21 days after occurrence of the event giving rise to such Claim or
+within 21 days after the claimant first recognizes the condition giving rise to the Claim, whichever is later.
+§ 15.1.3 CONTINUING CONTRACT PERFORMANCE
+Pending final resolution of a Claim, except as otherwise agreed in writing or as provided in Section 9.7 and Article
+14, the Contractor shall proceed diligently with performance of the Contract and the Owner shall continue to make
+payments in accordance with the Contract Documents. The Architect will prepare Change Orders and issue
+Certificates for Payment in accordance with the decisions of the Initial Decision Maker.
+§ 15.1.4 CLAIMS FOR ADDITIONAL COST
+If the Contractor wishes to make a Claim for an increase in the Contract Sum, written notice as provided herein shalt
+be given before proceeding to execute the Work. Prior notice is not required for Claims relating to an emergency
+endangering life or property arising under Section 10.4.
+§ 15.1.5 CLAIMS FOR ADDITIONAL TIME
+§ 15.1.5.1 If the Contractor wishes to make a Claim for an increase in the Contract Time, written notice as provided
+herein shall be given. The Contractor’s Claim shall include an estimate of cost and of probable effect of delay on
+progress of the Work. In the case of a continuing delay, only one Claim is necessary.
+§ 15.1.5.2 If adverse weather conditions are the basis for a Claim for additional time, such Claim shall be
+documented by data substantiating that weather conditions were abnormal for the period of time, could not have
+been reasonably anticipated and had an adverse effect on the scheduled construction.
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 36
+reproduction or distribution of this AIA” Document, or any portion of it, may result in severe civil and criminal penaities, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 39 =====
+§ 15.1.6 CLAIMS FOR CONSEQUENTIAL DAMAGES
+The Contractor and Owner waive Claims against each other for consequential damages arising out of or relating to
+this Contract. This mutual waiver includes
+1 damages incurred by the Owner for rental expenses, for losses of use, income, profit, financing,
+business and reputation, and for loss of management or employee productivity or of the services of
+such persons; and
+.2 damages incurred by the Contractor for principal office expenses including the compensation of
+
+personnel stationed there, for losses of financing, business and reputation, and for loss of profit
+
+except anticipated profit arising directly from the Work.
+This mutual waiver is applicable, without limitation, to all consequential damages due to either party’s termination
+in accordance with Article 14. Nothing contained in this Section 15.1.6 shall be deemed to preclude an award of
+liquidated damages, when applicable, in accordance with the requirements of the Contract Documents.
+§ 15.2 INITIAL DECISION
+§ 15.2.1 Claims, excluding those arising under Sections 10.3, 10.4, 11.3.9, and 11.3.10, shall bejreferred to the Initial
+Decision Maker for initial decision. The Architect will serve as the Initial Decision Maker, unless otherwise
+indicated in the Agreement. Except for those Claims excluded by this Section 15.2.1, an initial decision shall be
+required as a condition precedent to mediation of any Claim arising prior to the date final payment is due, unless 30
+days have passed after the Claim has been referred to the Initial Decision Maker with no decision having been
+rendered. Unless the Initial Decision Maker and all affected parties agree, the Initial Decision Maker will not decide
+disputes between the Contractor and persons or entities other than the Owner.
+§ 15.2.2 The Initial Decision Maker will review Claims and within ten days of the receipt of a Claim take one or
+more of the following actions: (1) request additional supporting data from the claimant or a response with supporting
+data from the other party, (2) reject the Claim in whole or in part, (3) approve the Claim, (4) suggest a compromise,
+or (5) advise the parties that the Initial Decision Maker is unable to resolve the Claim if the Initial Decision Maker
+lacks sufficient information to evaluate the merits of the Claim or if the Initial Decision Maker concludes that, in the
+Initial Decision Maker’s sole discretion, it would be inappropriate for the Initial Decision Maker to resolve the
+Claim.
+§ 15.2.3 In evaluating Claims, the Initial Decision Maker may, but shall not be obligated to, consult with or seek
+information from either party or from persons with special knowledge or expertise who may assist the Initial
+Decision Maker in rendering a decision. The Initial Decision Maker may request the Owner to authorize retention of
+such persons at the Owner’s expense.
+§ 15.2.4 If the Initial Decision Maker requests a party to provide a response to a Claim or to furnish additional
+supporting data, such party shall respond, within ten days after receipt of such request, and shall either (1) provide a
+response on the requested supporting data, (2) advise the Initial Decision Maker when the response or supporting
+data will be furnished or (3) advise the Initial Decision Maker that no supporting data will be furnished. Upon
+receipt of the response or supporting data, if any, the Initial Decision Maker will either reject or approve the Claim
+in whole or in part.
+§ 15.2.5 The Initial Decision Maker will render an initial decision approving or rejecting the Claim, or indicating that
+the Initial Decision Maker is unable to resolve the Claim. This initial decision shall (1) be in writing; (2) state the
+reasons therefor; and (3) notify the parties and the Architect, if the Architect is not serving as the Initial Decision
+Maker, of any change in the Contract Sum or Contract Time or both. The initial decision shall be final.and binding
+on the parties but subject to mediation and, if the parties fail to resolve their dispute through mediation, to binding
+dispute resolution.
+§ 15.2.6 Either party may file for mediation of an initial decision at any time, subject to the terms of Section 15.2.6.1.
+§ 15.2.6.1 Either party may, within 30 days from the date of an initial decision, demand in writing that the other party
+file for mediation within 60 days of the initial decision. If such a demand is made and the party receiving the
+demand fails to file for mediation within the time required, then both parties waive their rights to mediate or pursue
+binding dispute resolution proceedings with respect to the initial decision.
+AIA Document A201™ - 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties. Unauthorized 37
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+User Notes; (3B9ADA2C)
+
+
+===== PAGE 40 =====
+§ 15.2.7 In the event of a Claim against the Contractor, the Owner may, but is not obligated to, notify the surety, if
+any, of the nature and amount of the Claim. If the Claim relates to a possibility of a Contractor’s default, the Owner
+may, but is not obligated to, notify the surety and request the surety’s assistance in resolving the controversy.
+
+§ 15.2.8 If a Claim relates to or is the subject of a mechanic’s lien, the party asserting such Claim may proceed in
+accordance with applicable law to comply with the lien notice or filing deadlines.
+
+§ 15.3 MEDIATION
+
+§ 15.3.1 Claims, disputes, or other matters in controversy arising out of or related to the Contract except those
+
+waived as provided for in Sections 9.10.4, 9.10.5, and 15.1.6 shall be subject to mediation as a condition precedent
+to binding dispute resolution.
+
+§ 15.3.2 The parties shall endeavor to resolve their Claims by mediation which, unless the parties mutually agree
+otherwise, shall be administered by the American Arbitration Association in accordance with its Construction
+Industry Mediation Procedures in effect on the date of the Agreement. A request for mediation shall be made in
+writing, delivered to the other party to the Contract, and filed with the person or entity administering the mediation.
+The request may be made concurrently with the filing of binding dispute resolution proceedings but, in such event,
+mediation shall proceed in advance of binding dispute resolution proceedings, which shall be stayed pending
+mediation for a period of 60 days from the date of filing, unless stayed for a longer period by agreement of the
+parties or court order. If an arbitration is stayed pursuant to this Section 15.3.2, the parties may nonetheless proceed
+to the selection of the arbitrator(s) and agree upon a schedule for later proceedings.
+
+§ 15.3.3 The parties shall share the mediator’s fee and any filing fees equally. The mediation shall be held in the
+place where the Project is located, unless another location is mutually agreed upon. Agreements reached in
+mediation shall be enforceable as settlement agreements in any court having jurisdiction thereof.
+
+§ 15.4 ARBITRATION
+
+§ 15.4.1 If the parties have selected arbitration as the method for binding dispute resolution in the Agreement, any
+Claim subject to, but not resolved by, mediation shall be subject to arbitration which, unless the parties mutually
+agree otherwise, shall be administered by the American Arbitration Association in accordance with its Construction
+Industry Arbitration Rules in effect on the date of the Agreement. A demand for arbitration shall be made in writing,
+delivered to the other party to the Contract, and filed with the person or entity administering the arbitration. The
+party filing a notice of demand for arbitration must assert in the demand all Claims then known to that party on
+which arbitration is permitted to be demanded.
+
+§ 15.4.1.1 A demand for arbitration shall be made no earlier than concurrently with the filing of a request for
+mediation, but in no event shall it be made after the date when the institution of legal or equitable proceedings based
+on the Claim would be barred by the applicable statute of limitations. For statute of limitations purposes, receipt of a
+written demand for arbitration by the person or entity administering the arbitration shall constitute the institution of
+legal or equitable proceedings based on the Claim.
+
+§ 15.4.2 The award rendered by the arbitrator or arbitrators shall be final, and judgment may be entered upon it in
+accordance with applicable law in any court having jurisdiction thereof.
+
+§ 15.4.3 The foregoing agreement to arbitrate and other agreements to arbitrate with an additional person or entity
+duly consented to by parties to the Agreement shall be specifically enforceable under applicable law in any court
+having jurisdiction thereof.
+
+§ 15.4.4 CONSOLIDATION OR JOINDER
+
+§ 15.4.4.1 Either party, at its sole discretion, may consolidate an arbitration conducted under this Agreement with any
+other arbitration to which it is a party provided that (1) the arbitration agreement governing the other arbitration
+permits consolidation, (2) the arbitrations to be consolidated substantially involve common questions of law or fact,
+and (3) the arbitrations employ materially similar procedural rules and methods for selecting arbitrator(s).
+
+§ 15.4.4.2 Either party, at its sole discretion, may include by joinder persons or entities substantially involved in a
+common question of law or fact whose presence is required if complete relief is to be accorded in arbitration,
+provided that the party sought to be joined consents in writing to such joinder. Consent to arbitration involving an
+AIA Document A201™ - 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treatles. Unauthorized 38
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 41 =====
+additional person or entity shall not constitute consent to arbitration of any claim, dispute or other matter in question
+
+not described in the written consent.
+
+§ 15.4.4.3 The Owner and Contractor grant to any person or entity made a party to an arbitration conducted under
+
+this Section 15.4, whether by joinder or consolidation, the same rights of joinder and consolidation as the Owner and
+Contractor under this Agreement.
+
+AIA Document A201™ — 2007. Copyright © 1911, 1915, 1918, 1925, 1937, 1951, 1958, 1961, 1963, 1966, 1970, 1976, 1987, 1997 and 2007 by The American
+Institute of Architects. All rights reserved. WARNING: This AIA® Document is protected by U.S. Copyright Law and International Treaties, Unauthorized 39
+reproduction or distribution of this AIA® Document, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. This draft was produced by AIA software at 17:39:26 on 04/04/2018 under Order No. 9956512246 which expires on
+12/18/2018, and is not for resale.
+
+User Notes: (3B9ADA2C)
+
+
+===== PAGE 42 =====
+Nye County School District
+Bid Documents
+00 7300
+Tonopah HS Field Replacement
+Supplementary Conditions
+April 20, 2026
+Page 1 of 1 
+SECTION 00 7300
+SUPPLEMENTARY CONDITIONS
+PART 1 GENERAL
+1.01 SUMMARY
+A.
+The terms used in these Supplementary Conditions that are defined in the General Conditions
+have the meanings assigned to them in the General Conditions.
+B.
+See attached Supplementary Conditions
+PART 2 PRODUCTS - NOT USED
+PART 3 EXECUTION - NOT USED
+END OF SECTION
+
+
+===== PAGE 43 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 44 =====
+Nye County School District 
+Bid Documents 
+00 73 43 
+Tonopah HS Field Replacement 
+ 
+Prevailing Wage Rates 
+ 
+April 20, 2026 
+Page 1 of 1 
+SECTION 00 7343  
+PREVAILING WAGE RATES 
+ 
+ 
+ 
+ 
+ 
+Amendment #04 Effective 4/13/26 
+Applicable for Public Works project over $100,000 bid/awarded 
+October 1, 2025 through September 30, 2026 
+ 
+https://labor.nv.gov/uploadedFiles/labornvgov/content/PrevailingWage/Southern%20Nevada%20Rural
+%20Region%202025-2026-Amendment%2004.pdf 
+ 

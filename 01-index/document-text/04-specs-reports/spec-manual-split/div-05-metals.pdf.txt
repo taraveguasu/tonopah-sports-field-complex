@@ -1,0 +1,1945 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 1223
+Tonopah HS Field Replacement 
+ 
+Structural Steel
+ 
+April 20, 2026 
+Page 1 of 7
+ 
+SECTION 05 12 23 
+STRUCTURAL STEEL 
+PART 1  GENERAL 
+1.01 SECTION INCLUDES 
+A. 
+Fabrication and erection of structural steel work, as shown on the drawings and specified 
+herein. Work shall include, but not be limited to the following items: 
+1. 
+Structural steel. 
+2. 
+Base and bearing plates. 
+3. 
+Deck support angles and framing for roof openings. 
+4. 
+Edge angles and bent plates. 
+5. 
+Connection plates. 
+6. 
+Architecturally Exposed Structural Steel (AESS). 
+7. 
+All other steel items as listed in AISC - "Code of Standard Practice for Steel Buildings and 
+Bridges" as shown on structural and architectural drawings. 
+B. 
+Work shall also include grouting of all structural steel members where indicated. 
+C. 
+Structural notes indicated on the drawings regarding structural steel framing should be 
+considered a part of this specification. 
+1.02 RELATED WORK 
+A. 
+Pertinent Sections of Division 01. 
+B. 
+Section 03 30 00 - Cast-in-Place Concrete. 
+C. 
+Section 05 40 00 - Cold-Formed Steel Framing Systems. 
+D. 
+Section 05 50 00 - Metal Fabrications. 
+1.03 REFERENCES 
+A. 
+Codes and Standards: Comply with the provisions of the following codes, specifications, and 
+standards except where more stringent requirements are shown or specified. Where any 
+provisions of other pertinent codes and standards conflict with this specification, the more 
+stringent provision shall govern. 
+1. 
+AISC - Specification for Structural Joints Using High-Strength Bolts. 
+2. 
+AISC 303 - Code of Standard Practice for Buildings and Bridges. 
+3. 
+AISC 341-16 - Seismic Provisions for Structural Steel Buildings, including any 
+Supplements. 
+4. 
+AISC 358-16 - Prequalified Connections for Special and Intermediate Steel Moment 
+Frames for Seismic Applications. 
+5. 
+AISC 360-16 - Specification for Structural Steel Buildings. 
+6. 
+ASTM A6 - Standard Specification for General Requirements for Rolled Structural Steel 
+Bars, Plates, Shapes, and Sheet Piling. 
+7. 
+ASTM A36 - Standard Specification for Carbon Structural Steel. 
+8. 
+ASTM A53 - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated, 
+Welded and Seamless. 
+9. 
+ASTM A108 - Standard Specification for Steel Bar, Carbon and Alloy, Cold-Finished. 
+10. ASTM A123 - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron and 
+Steel Products. 
+11. ASTM A153 - Standard Specification for Zinc Coating (Hot-Dip) on Iron and Steel 
+Hardware. 
+12. ASTM A307 - Standard Specification for Carbon Steel Bolts, Studs, and Threaded Rod 
+60,000 PSI Tensile Strength. 
+13. ASTM A449 - Standard Specification for Hex Cap Screws, Bolts and Studs, Steel, Heat 
+Treated, 120/105/90 ksi Minimum Tensile Strength, General Use. 
+
+
+===== PAGE 2 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 1223
+Tonopah HS Field Replacement 
+ 
+Structural Steel
+ 
+April 20, 2026 
+Page 2 of 7
+ 
+14. ASTM A500 - Standard Specification for Cold-Formed Welded and Seamless Carbon 
+Steel Structural Tubing in Rounds and Shapes. 
+15. ASTM A563 - Standard Specification for Carbon and Alloy Steel Nuts. 
+16. ASTM A572 - Standard Specification for High-Strength Low-Alloy Columbium-Vanadium 
+Structural Steel. 
+17. ASTM A992 - Standard Specification for Steel for Structural Steel Shapes. 
+18. ASTM A1085 - Standard Specification for Cold-Formed Welded Carbon Steel Hollow 
+Structural Sections (HSS). 
+19. ASTM B633 - Standard Specification for Electrodeposited Coatings of Zinc on Iron and 
+Steel. 
+20. ASTM F436 - Standard Specification for Hardened Steel Washers. 
+21. ASTM F1554 - Standard Specification for Anchor Bolts, Steel, 36, 55, and 105-ksi Yield 
+Strength. 
+22. AWS D1.1 - Structural Welding Code - Steel. 
+23. AWS D1.8 - Structural Welding Code - Seismic Supplement.  
+24. SSPC - Steel Structures Painting Council. 
+1.04 QUALITY ASSURANCE 
+A. 
+Fabrication, Erection, and Welding Qualifications: 
+1. 
+Fabricate structural steel members in accordance with AISC Specification for the design, 
+fabrication, and erection of structural steel for buildings. 
+2. 
+Steel fabricator shall not have less than five (5) years of continuous experience in 
+fabrication of structural steel framing. 
+3. 
+Steel erector shall not have less than five (5) years of continuous experience in the 
+erection of structural steel framing. 
+4. 
+All welding of structural steel shall be performed by operators who have been recently 
+qualified as prescribed in "Qualification Procedures" of the American Welding Society 
+(AWS). 
+5. 
+Tolerances: Tolerances shall be as indicated by the AISC Code of Standard Practice for 
+Buildings and Bridges, except that tolerances for fabricating, rolling, cambering and 
+erection shall not be cumulative. 
+1.05 SUBMITTALS 
+A. 
+Shop Drawings: 
+1. 
+Prepare and submit complete erection and detailed shop drawings for Engineer's 
+approval, including framing plans indicating size, weight, and location of all structural 
+members. Shop drawings shall indicate methods of connecting, anchoring, fastening, 
+bracing, and attaching work of other trades. 
+a. 
+Where contract documents indicate verify in field (VIF) dimensions, shop drawings 
+shall indicate these dimensions and Contractor shall note the dimensions have been 
+verified. 
+b. 
+This specification modifies AISC Code of Standard Practice by deleting the following 
+sentence from 4.4.1(c): "Release by the Owner's Designated Representatives for 
+Design and Construction for the Fabricator to begin fabrication using the approved 
+submittals." Review of the shop drawings by the Engineer shall not relieve the 
+fabricator of this responsibility. 
+2. 
+Furnish both the Engineer and Architect with one copy of the following: 
+a. 
+Final shop drawings containing all review notations. 
+b. 
+Field Use/For Construction drawings. 
+3. 
+The steel fabricator shall submit a setting plan for all embedded items for Engineer's 
+approval. 
+
+
+===== PAGE 3 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 1223
+Tonopah HS Field Replacement 
+ 
+Structural Steel
+ 
+April 20, 2026 
+Page 3 of 7
+ 
+4. 
+Shop drawings shall identify and mark AESS members and items. Specific project 
+requirements for AESS (required blast cleaning, SSPC designation, special handling, etc.) 
+relating to shop fabrication and field erection practices shall be indicated on the shop 
+drawings. 
+5. 
+Welder's Certification: Submit certification for all welders employed on the project 
+demonstrating they have been AWS qualified to perform the welding procedures required 
+for this project. 
+B. 
+Product Data: 
+1. 
+Certified copies of material test reports, commonly called mill test reports, for all structural 
+steel used on the project. Material test reports shall comply with the requirements of 
+ASTM A6, shall cover chemical and physical properties, and shall be accompanied by a 
+Certificate of Compliance from the fabricator. 
+2. 
+Manufacturer specifications, certifications, and installation recommendations for the 
+following products, including laboratory test reports and other data required to prove 
+compliance with these specifications: 
+a. 
+High strength bolts, including nuts and washers. 
+b. 
+Unfinished bolts and nuts 
+3. 
+The Contractor shall submit written procedures for the pre-installation testing, installation, 
+snugging, pretensioning, and post-installation inspection of fasteners. The procedure(s) 
+shall meet all requirements of the RCSC specification and the drawings. Procedures need 
+to be submitted only for the method(s) of installation to be used by the Contractor, which 
+may include the turn-of-nut, calibrated wrench, twist-off type tension control bolt, and 
+direct tension indicator methods. 
+4. 
+Prepare and submit product data for Engineer's approval for, non-shrink grout. 
+1.06 DELIVERY, STORAGE AND HANDLING 
+A. 
+Steel members shall be transported, stored, and erected in a manner that will avoid any 
+damage or deformation. Materials should be stored to allow easy access for inspection and 
+identification. Bent or deformed members will be rejected and shall be replaced or repaired at 
+the expense of the responsible party. Store clear of the ground and in such a manner as to 
+eliminate excessive handling. 
+B. 
+Store fasteners in a protected location. Clean and re-lubricate bolts and nuts before use. 
+PART 2  PRODUCTS 
+2.01 MATERIALS 
+A. 
+Structural Steel: 
+1. 
+All structural steel shall be free from defects impairing strength, durability, or appearance. 
+All structural steel shall meet the latest minimum requirements as follows: 
+a. 
+Structural steel wide flange shapes shall: 
+1) 
+Conform to the ASTM designations listed in the General Notes of the drawings, 
+unless noted otherwise. 
+2) 
+Shapes of ASTM A572, Grade 50, mill certified to AISC Technical Bulletin #3 
+requirements, may be substituted for A992 with approval from the Structural 
+Engineer. 
+3) 
+Grade 50 steel shall have a minimum yield stress of 50 ksi and the yield stress, 
+Fy, that is reported from tests shall be based on the yield strength definition in 
+ASTM A370, using the offset method at 0.002 strain. 
+b. 
+Structural steel angles, channels, bars, plates and miscellaneous steel shall conform 
+to the ASTM designations listed in the General Notes of the drawings. 
+c. 
+Square and rectangular structural tubing shall be cold formed conforming to the 
+ASTM designations listed in the General Notes of the drawings. 
+
+
+===== PAGE 4 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 1223
+Tonopah HS Field Replacement 
+ 
+Structural Steel
+ 
+April 20, 2026 
+Page 4 of 7
+ 
+d. 
+Round structural tubing shall be cold formed conforming to the ASTM designations 
+listed in the General Notes of the drawings. 
+e. 
+Steel pipe shall conform to the ASTM designations listed in the General Notes of the 
+drawings. 
+B. 
+High Strength Structural Bolts: 
+1. 
+High strength structural bolts shall conform to the ASTM designations listed in the General 
+Notes of the drawings. 
+2. 
+High strength bolts shall be detailed and installed in accordance with AISC - "Specification 
+for Structural Joints Using ASTM A325 or A490 Bolts." 
+3. 
+Manufacturer's symbol and grade markings shall appear on all bolts and nuts. 
+C. 
+Welding Materials: 
+1. 
+Type required for material being welded in conformance with AWS D1.1. 
+D. 
+Steel Stud Connectors: 
+1. 
+For threaded studs that are being used to connect steel beams to embed plates, use 
+ASTM A108, Type A, Grades 1010 through 1020 forged steel, headed uncoated with a 
+minimum tensile strength of 61,000 psi. Fabricated within the tolerances set forth in AWS 
+D1.1. 
+2. 
+Studs applied by means of the electric arc welding process and shall use an arc shield 
+ferrules of heat resistant ceramic. 
+E. 
+Paints and Primers: 
+1. 
+Fabricator's standard lead- and chromate-free, non-asphaltic, rust-inhibiting primer. 
+2. 
+Refer to Specification Section 09 90 00 for additional paint requirements. 
+F. 
+Non-Shrink Grout for Base and Bearing Plates: Non-shrink grout, conforming to ASTM C1107, 
+shall be pre-mixed, non-metallic, non-corrosive, non-staining product containing selected silica 
+sand, Portland cement, shrinkage compensating agents, plasticizing and water reducing 
+agents. All constituents shall meet the requirements of these specifications. Minimum 
+compressive strength at 28-days shall be 7,000 psi as determined by ASTM C109. Follow 
+manufacturer's instructions for handling, mixing, placing, and curing. Acceptable products are: 
+1. 
+Euclid Chemical Company - Euco N.S. Grout 
+2. 
+L&M Construction Chemical - Crystex. 
+3. 
+Master Builders - Masterflow 713. 
+4. 
+Sonneborn - Sonnogrout. 
+5. 
+Five Star Products Inc. - Five Star Grout. 
+6. 
+Dayton Superior - Sure-Grip High Performance Grout. 
+7. 
+Dayton Superior - 1107 Advantage Grout. 
+2.02 FABRICATION AND MANUFACTURE 
+A. 
+Fabrication Procedures (non-AESS): 
+1. 
+Fabricate all structural steel items in accordance with AISC Specifications and as 
+indicated on the approved shop drawings. 
+2. 
+Provide camber in structural members where indicated. 
+3. 
+Properly mark materials for field assembly and location for which intended. Fabricate for 
+delivery sequence that will expedite erection and minimize handling of materials. 
+4. 
+Complete structural steel assemblies before shop priming or galvanizing. 
+B. 
+Shop Connections: 
+1. 
+All shop connections shall be welded, unless noted otherwise on drawings. Connections 
+shall develop the full strength of the adjoining members unless detailed otherwise. 
+2. 
+All holes shall be either drilled or punched, as no burning of holes will be permitted, 
+including the enlargement of holes. Provide all holes required for connections and for 
+attaching the work of other trades where such holes are shown if furnished prior to 
+fabrication. 
+
+
+===== PAGE 5 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 1223
+Tonopah HS Field Replacement 
+ 
+Structural Steel
+ 
+April 20, 2026 
+Page 5 of 7
+ 
+3. 
+Connections shall be detailed as standard framed beam connections (bearing type) in 
+accordance with the AISC Manual of Steel Construction.  
+4. 
+All full and partial penetration welds shall be fully detailed on the shop drawings. Use 
+backing for all full penetration welds. 
+5. 
+Weld access holes shall be fabricated in accordance with the recommendations of AWS 
+D1.1 and AISC Specification. 
+C. 
+Steel Stud Connectors: 
+1. 
+Steel stud connectors for embedded plates and angles shall be welded in the fabrication 
+shop in accordance with AWS D1.1. 
+D. 
+Shop Priming:  
+1. 
+Unless noted otherwise below, structural steel shall not be shop primed. 
+2. 
+The following are steel surfaces to receive shop priming: 
+a. 
+Surfaces to be painted per Architect's drawings. 
+3. 
+If the steel pieces are to be shop primed, the following surfaces are exceptions to shop 
+priming: 
+a. 
+Surfaces embedded in concrete or mortar. Extend priming of partially embedded 
+members to a depth of 2 inches. 
+b. 
+Surfaces to be field welded. 
+c. 
+Surfaces to be high-strength bolted with slip-critical connections. 
+d. 
+Top flanges of beams supporting composite steel decking. 
+e. 
+Surfaces to receive sprayed fire-resistive materials. 
+f. 
+Galvanized surfaces. 
+4. 
+Surface Preparation: Clean Surfaces to be painted. Remove loose rust and mill scale and 
+spatter, slag, or flux deposits. Prepare surfaces according to the following specifications 
+and standards: 
+a. 
+SSPC-SP 3, "Power Tool Cleaning." 
+5. 
+Priming: Apply primer in accordance with paint manufacturer's recommendations, and at a 
+rate recommended by SSPC to provide a dry film thickness of not less than 1.5 mils. Use 
+priming methods that result in full coverage of joints, corners, edges, and exposed 
+surfaces. 
+E. 
+Finished Paint System for Exposed Structural Steel: Structural steel exposed to the elements of 
+weather shall be painted as follows: 
+1. 
+Apply one coat of steel primer in shop as specified above. 
+2. 
+Apply two coats of alkyd enamel paint to a minimum dry film thickness of 1.5 mils for each 
+coat. Paint shall be applied according to the manufacturer's recommendations. 
+3. 
+Paint shall be free of sags, runs, drips or other defects. Allow ample drying time before 
+handling to prevent damage to coatings. 
+PART 3  EXECUTION 
+3.01 SURFACE CONDITIONS 
+A. 
+Examine the areas and conditions under which work of this Section will be performed. Correct 
+conditions detrimental to timely and proper completion of the Work. Do not proceed until 
+unsatisfactory conditions have been corrected. 
+ 
+ 
+3.02 ERECTION 
+A. 
+Erection Procedures: 
+1. 
+The erector and not the Structural Engineer shall be responsible for the means, methods, 
+and safety of erection of the structural steel framing. 
+
+
+===== PAGE 6 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 1223
+Tonopah HS Field Replacement 
+ 
+Structural Steel
+ 
+April 20, 2026 
+Page 6 of 7
+ 
+2. 
+Erection of all structural steel items shall meet the requirements of AISC "Specification 
+and Code of Standard Practice." 
+3. 
+All work shall be erected square, plumb, straight and true, accurately fitted and with tight 
+joints and intersections, by mechanics experienced in the erection of structural steel. Make 
+allowances for difference between temperature at time of erection and mean temperature 
+when structure is completed and in service. 
+4. 
+Clean the bearing surface and other surfaces that will be in permanent contact before 
+assembly. 
+5. 
+All base plates shall be supported on steel wedges, steel shims or heavy-duty leveling 
+nuts until the supported members have been leveled and plumbed. 
+a. 
+Snug tighten anchor rods after supported members have been positioned and plumb. 
+Do not remove wedges or shims but, if protruding, cut off flush with edge of base 
+plate before packing with grout. 
+b. 
+Promptly place non-shrink grout between bearing surfaces and base plates so no 
+voids remain. Neatly finish exposed surfaces; protect grout and allow to cure. Comply 
+with manufacturers written installation instructions for shrinkage-resistant grouts. 
+6. 
+Field connections of structural work shall be made with either high strength bolts (bearing 
+type) or by welding. Proper precaution shall be taken to ensure anchored items will not be 
+distorted or overstressed due to improperly fabricated items. 
+7. 
+Splice members only where indicated unless, with the Structural Engineer's approval, 
+splices not indicated would result in lower costs due to reduced shipping expense. For 
+splices not indicated, submit structural calculations prepared under direct supervision of 
+and signed by a Structural Engineer licensed in the state where the project is located. 
+8. 
+Do not use thermal cutting during erection unless approved by the Engineer/Architect in 
+writing. 
+9. 
+Steel erection shall not proceed without concrete in footings, piers, and walls attaining 
+75% of the intended minimum compressive design strength. Documentation must be 
+provided indicating compliance with this requirement. 
+B. 
+Bracing and Protection: 
+1. 
+Steel shall be well plumbed, leveled and braced to prevent any movement. 
+a. 
+Contractor shall provide and maintain all necessary temporary guying of steel frame 
+to safely resist all wind and construction loads during erection and to assure proper 
+alignment of all parts of the steel frame. 
+2. 
+Provide all temporary flooring, bracing, shoring and guards necessary to prevent damage 
+or injury. All partially erected steel shall be secured in an approved manner during 
+interruptions of work. 
+3.03 FIELD WELDING 
+A. 
+Welding Procedures: 
+1. 
+All field welding shall be in accordance with AISC Specifications and conform to AWS 
+D1.1 "Structural Welding Code - Steel". 
+a. 
+Comply with AISC's "Code of Standard Practice for Steel Buildings and Bridges" for 
+bearing, adequacy of temporary connections, alignment, and removal of paint on 
+surfaces adjacent to field welds. 
+b. 
+Assemble and weld built-up sections by methods that will maintain true alignment of 
+axes without exceeding tolerances of AISC's "Code of Standard Practice" for Steel 
+Buildings and Bridges" for mill material. 
+2. 
+Contractor shall remove ceramic ferrules from shear stud connectors in sufficient time to 
+allow for inspection of welds prior to placement of the concrete. 
+
+
+===== PAGE 7 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 1223
+Tonopah HS Field Replacement 
+ 
+Structural Steel
+ 
+April 20, 2026 
+Page 7 of 7
+ 
+3.04 REPAIRS, PROTECTION, AND TOUCH UP 
+A. 
+Touch up Painting: After installation, promptly clean, prepare, and prime or reprime field welds, 
+final connections, rust spots, and abraded surfaces of prime-painted joists, bearing plates and 
+abutting structural steel. 
+1. 
+Clean and prepare surfaces by  SSPC-SP 3 power-tool cleaning. 
+2. 
+Apply a compatible primer of the same type as shop primer used on adjacent surfaces. 
+3. 
+Secure approval by the Architect prior to field painting. 
+3.05 GROUTING 
+A. 
+Grouting under structural framing members shall be completed after all members have been 
+plumbed and braced and before imposed loads are placed thereon. 
+B. 
+Remove all defective concrete, dirt, oil, grease, and other foreign matter from surfaces to which 
+grout will be placed. 
+3.06 MISCELLANEOUS STEEL AND STEEL LINTELS 
+A. 
+Furnish and install all miscellaneous steel as detailed in architectural and structural drawings. 
+B. 
+Provide additional steel framing for continuous support of steel deck edges at openings and 
+column interruptions. 
+C. 
+All exterior exposed steel shall be painted in accordance with Division 9 after fabrication. 
+ 
+END OF SECTION 
+
+
+===== PAGE 8 =====
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 2100
+Tonopah HS Field Replacement 
+ 
+Steel Joists
+ 
+April 20, 2026 
+Page 1 of 6
+ 
+SECTION 05 21 00 - STEEL JOISTS 
+PART 1 - GENERAL 
+1.1 
+RELATED DOCUMENTS 
+A. 
+Drawings and general provisions of the Contract, including General and Supplementary 
+Conditions and Division 1 Specification Sections, apply to this Section. 
+1.2 
+SUMMARY 
+A. 
+Furnish all labor and materials required to fabricate, deliver, and erect steel joists and joist girders, 
+including all bridging, ceiling extensions, bearing plates, side wall anchors, and extended ends. 
+B. 
+This Section includes the following: 
+1. 
+K-series steel joists. 
+2. 
+KCS-type K-series steel joists. 
+3. 
+K-series steel joist substitutes. 
+4. 
+Long-span steel joists. 
+C. 
+Related Sections include the following: 
+1. 
+Division 3 Section "Cast-in-Place Concrete" for installing bearing plates in concrete. 
+2. 
+Division 4 Section "Unit Masonry Assemblies" for installing bearing plates in unit masonry. 
+1.3 
+DEFINITIONS 
+A. 
+SJI "Specifications":  Steel Joist Institute's "Standard Specifications, Load Tables and Weight 
+Tables for Steel Joists and Joist Girders." 
+B. 
+Special Joists:  Steel joists requiring modification by manufacturer to support nonuniform, 
+unequal, or special loading conditions that invalidate load tables in SJI's "Specifications." 
+1.4 
+PERFORMANCE REQUIREMENTS 
+A. 
+Structural Performance:  Provide special joists and connections capable of withstanding design 
+loads indicated. 
+B. 
+Design special joists to withstand design loads with live load deflections no greater than the 
+following: 
+1. 
+Roof Joists:  Vertical deflection of 1/360 of the span. 
+1.5 
+SUBMITTALS 
+A. 
+Submit in accordance with Division 1 Section “Submittals.” 
+
+
+===== PAGE 9 =====
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 2100
+Tonopah HS Field Replacement 
+ 
+Steel Joists
+ 
+April 20, 2026 
+Page 2 of 6
+ 
+B. 
+Submittals for Review: 
+ 
+1. 
+Shop Drawings:  Show layout, designation, number, type, location, and spacings of joists.  
+Include joining and anchorage details, bracing, bridging, camber, coatings, material 
+properties, configuration, joist accessories; splice and connection locations and details; 
+and attachments to other construction. 
+C. 
+Submittals for Information: 
+ 
+1. 
+Design calculations for all joists for which the standard load tables are not applicable. 
+Submit prior to, or with the shop drawings. Calculations shall bear the seal of a Registered 
+Professional Engineer, licensed in the State that the project is being constructed . Shop 
+drawings submitted without corresponding calculations will be returned unchecked as an 
+incomplete submittal. Calculations will be reviewed for loading conditions and deflection 
+criteria. Any exceptions will be noted and the applicable pages will be returned to the 
+manufacturer for correction or clarification. 
+ 
+2. 
+Welders Certificates:  Submit certificates to Owner's Testing Laboratory, certifying that 
+welders to be employed on the project have passed AWS qualification tests within the 
+previous 12 months. If recertification of welders is required, recertification shall be 
+contractor's responsibility. 
+ 
+3. 
+Product Data:  For each type of joist, accessory, and product indicated. 
+a. 
+Indicate locations and details of bearing plates to be embedded in other 
+construction. 
+4. 
+Manufacturer Certificates:  Signed by manufacturers certifying that joists comply with 
+requirements. 
+ 
+5. 
+Mill Certificates:  Signed by bolt manufacturers certifying that bolts comply with 
+requirements. 
+6. 
+Field quality-control test and inspection reports. 
+1.6 
+QUALITY ASSURANCE 
+A. 
+Manufacturer Qualifications:  A manufacturer certified by SJI to manufacture joists, including 
+headers and other supplemental framing, complying with applicable standard specifications and 
+load tables of SJI "Specifications." Manufacturer shall have a minimum of five years documented 
+experience in the design and fabrication of open-web joists and joist girders 
+1. 
+Manufacturer's responsibilities include providing professional engineering services for 
+designing special joists to comply with performance requirements. 
+B. 
+SJI Specifications:  Comply with standard specifications in SJI's "Specifications" that are 
+applicable to types of joists indicated. 
+C. 
+Welding:  Qualify procedures and personnel according to AWS D1.1/D1.1M, "Structural Welding 
+Code - Steel." 
+1.7 
+DELIVERY, STORAGE, AND HANDLING 
+A. 
+Deliver, store, and handle joists as recommended in SJI's "Specifications." 
+
+
+===== PAGE 10 =====
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 2100
+Tonopah HS Field Replacement 
+ 
+Steel Joists
+ 
+April 20, 2026 
+Page 3 of 6
+ 
+B. 
+Protect joists from corrosion, deformation, and other damage during delivery, storage, and 
+handling. 
+1.8 
+SEQUENCING 
+A. 
+Deliver steel bearing plates to be built into cast-in-place concrete and/or masonry construction. 
+PART 2 - PRODUCTS 
+2.1 
+MATERIALS 
+A. 
+Source of Steel Producers:  In accordance with Section 2252.202 of the Texas Government Code 
+steel shall be produced in the United States. 
+B. 
+Steel:  Comply with SJI's "Specifications" for web and steel-angle chord members. 
+C. 
+Structural Steel For Supplementary Framing and Joist Leg Extensions:  ASTM A36, minimum 
+D. 
+Steel Bearing Plates:  ASTM A 36/A 36M. 
+E. 
+Carbon-Steel Bolts and Threaded Fasteners:  ASTM A 307, Grade A, carbon-steel, hex-head 
+bolts and threaded fasteners; carbon-steel nuts; and flat, unhardened steel washers.7 
+1. 
+Finish:  Plain, uncoated. 
+F. 
+High-Strength Bolts, Nuts, and Washers:  ASTM F3125, grade A 325, Type 1, heavy hex steel 
+structural bolts; ASTM A 563 heavy hex carbon-steel nuts; and ASTM F 436 hardened carbon-
+steel washers. 
+1. 
+Finish:  Plain. 
+G. 
+Welding Electrodes:  Comply with AWS standards. 
+2.2 
+PRIMERS 
+ 
+A. 
+Primer:  SSPC-Paint 15, Type 1 red oxide , or manufacturer's standard shop primer complying 
+with performance requirements in SSPC-Paint 15. 
+2.3 
+K-SERIES STEEL JOISTS 
+A. 
+Manufacture steel joists of type indicated according to "Standard Specifications for Open Web 
+Steel Joists, K-Series" in SJI's "Specifications," with steel-angle top- and bottom-chord members, 
+underslung ends, and parallel top chord. 
+1. 
+Joist Type:  K-series steel joists and KCS-type K-series steel joists. 
+
+
+===== PAGE 11 =====
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 2100
+Tonopah HS Field Replacement 
+ 
+Steel Joists
+ 
+April 20, 2026 
+Page 4 of 6
+ 
+B. 
+Comply with AWS requirements and procedures for shop welding, appearance, quality of welds, 
+and methods used in correcting welding work. Refer to Section 2.7 C. for additional welding 
+requirements. 
+C. 
+Top-Chord Extensions:  Extend top chords of joists with SJI's Type S top-chord extensions where 
+indicated, complying with SJI's "Specifications." 
+D. 
+Extended Ends:  Extend bearing ends of joists with SJI's Type R extended ends where indicated, 
+complying with SJI's "Specifications." 
+E. 
+Camber joists according to SJI's "Specifications."Equip bearing ends of joists with manufacturer's 
+standard beveled ends or sloped shoes if joist slope exceeds 1/4 inch per 12 inches. 
+2.4 
+JOIST ACCESSORIES 
+A. 
+Bridging:  Provide bridging anchors and number of rows of horizontal or diagonal bridging of 
+material, size, and type required by SJI's "Specifications" for type of joist, chord size, spacing, 
+and span.  Furnish additional erection bridging if required for stability. 
+B. 
+Fabricate steel bearing plates with integral anchorages of sizes and thicknesses indicated.  Shop 
+prime paint. 
+C. 
+Supply ceiling extensions, either extended bottom-chord elements or a separate extension unit 
+of enough strength to support ceiling construction.  Extend ends to within 1/2 inch of finished wall 
+surface, unless otherwise indicated. 
+D. 
+Supply miscellaneous accessories, including splice plates and bolts required by joist 
+manufacturer to complete joist installation. 
+2.5 
+FABRICATION 
+A. 
+Splices: Shop splices may occur in chord or web members. Members containing a butt weld splice 
+shall develop an ultimate tensile force of at least 57,000 psi times the full design area of the chord 
+or web. 
+B. 
+Holes shall not be made or enlarged by burning with a torch. 
+C. 
+Welds shall meet the following criteria for acceptance: 
+1. 
+Remove slag from welds prior to inspection. 
+2. 
+Cracked welds are not acceptable and must be repaired. 
+3. 
+Thorough fusion shall exist between the weld and base metal, as determined by visual 
+inspection. 
+4. 
+Unfilled weld craters shall not be included in the design length of the weld. 
+5. 
+Undercut shall not exceed 1/16" provided that it is oriented parallel to the principal stress. 
+6. 
+The sum of surface (piping) porosity diameters shall not exceed 1/16" in any 1" of design 
+weld length. 
+7. 
+Weld spatter that does not interfere with paint coverage is acceptable. 
+
+
+===== PAGE 12 =====
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 2100
+Tonopah HS Field Replacement 
+ 
+Steel Joists
+ 
+April 20, 2026 
+Page 5 of 6
+ 
+2.6 
+CLEANING AND SHOP PAINTING 
+A. 
+Clean and remove loose scale, heavy rust, and other foreign materials from fabricated joists and 
+accessories by hand-tool cleaning, SSPC-SP 2 or power-tool cleaning, SSPC-SP 3. 
+B. 
+Apply 1 coat of shop primer to joists and joist accessories to be primed to provide a continuous, 
+dry paint film not less than 1 mil thick. 
+PART 3 - EXECUTION 
+3.1 
+EXAMINATION 
+A. 
+Examine supporting substrates, embedded bearing plates, and abutting structural framing for 
+compliance with requirements for installation tolerances and other conditions affecting 
+performance. 
+1. 
+Proceed with installation only after unsatisfactory conditions have been corrected. 
+3.2 
+INSTALLATION 
+A. 
+Do not install joists until supporting construction is in place and secured. 
+B. 
+Install joists and accessories plumb, square, and true to line; securely fasten to supporting 
+construction according to SJI's "Specifications," joist manufacturer's written recommendations, 
+and requirements in this Section. 
+1. 
+Before installation, splice joists delivered to Project site in more than one piece. 
+2. 
+Space, adjust, and align joists accurately in location before permanently fastening. 
+3. 
+Minimum bearings and anchorage shall conform to referenced SJI standards and the 
+Drawings. 
+4. 
+Allow for erection loads.  Install temporary bracing and erection bridging, connections, and 
+anchors to ensure that joists are stabilized during construction.  Construction loads shall 
+not be applied until joists are permanently fastened to supports and all bridging has been 
+installed. 
+C. 
+Field weld joists to supporting steel bearing plates and framework.  Coordinate welding sequence 
+and procedure with placement of joists.  Comply with AWS requirements and procedures for 
+welding, appearance and quality of welds, and methods used in correcting welding work. 
+D. 
+Bolt joists to supporting steel framework using ASTM A 307 carbon-steel bolts. 
+E. 
+ F3125, gradegrade Bridging shall conform to SJI standards and the shop drawings. Provide and 
+install extra bridging, where indicated or where required due to loading, in addition to the minimum 
+SJI requirements.  Install and connect bridging concurrently with joist erection, before construction 
+loads are applied.  Anchor ends of bridging lines at top and bottom chords if terminating at walls 
+or beams. 
+
+
+===== PAGE 13 =====
+ 
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 2100
+Tonopah HS Field Replacement 
+ 
+Steel Joists
+ 
+April 20, 2026 
+Page 6 of 6
+ 
+3.3 
+FIELD QUALITY CONTROL 
+A. 
+Testing Agency:  Owner will engage a qualified independent testing and inspecting agency to 
+inspect field welds and bolted connections and to perform field tests and inspections and prepare 
+test and inspection reports. 
+B. 
+Field welds will be visually inspected according to AWS D1.1/D1.1M. 
+C. 
+In addition to visual inspection, field welds will be tested according to AWS D1.1/D1.1M and the 
+following procedures, as applicable: 
+1. 
+Radiographic Testing:  ASTM E 94. 
+2. 
+Magnetic Particle Inspection:  ASTM E 709. 
+3. 
+Ultrasonic Testing:  ASTM E 164. 
+4. 
+Liquid Penetrant Inspection:  ASTM E 165. 
+D. 
+Bolted connections will be visually inspected. 
+E. 
+High-strength, field-bolted connections will be tested and verified according to procedures in 
+RCSC's "Specification for Structural Joints Using ASTM F3125, grade A 325 or grade 
+ASTM A 490 Bolts." 
+F. 
+Correct deficiencies in Work that test and inspection reports have indicated are not in compliance 
+with specified requirements. 
+G. 
+Additional testing will be performed to determine compliance of corrected Work with specified 
+requirements. 
+3.4 
+REPAIRS AND PROTECTION 
+A. 
+Provide final protection and maintain conditions, in a manner acceptable to manufacturer and 
+Installer, that ensure that joists and accessories are without damage or deterioration at time of 
+Substantial Completion. 
+END OF SECTION 05 21 00 
+
+
+===== PAGE 14 =====
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 3100
+Tonopah HS Field Replacement 
+ 
+Steel Deck
+ 
+April 20, 2026 
+Page 1 of 6
+ 
+SECTION 05 31 00 - STEEL DECK 
+PART 1 - GENERAL 
+1.1 
+RELATED DOCUMENTS 
+A. 
+Drawings and general provisions of the Contract, including General and Supplementary 
+Conditions and Division 1 Specification Sections, apply to this Section. 
+1.2 
+SUMMARY 
+A. 
+This Section includes the following: 
+1. 
+Roof deck. 
+2. 
+Composite floor deck. 
+3. 
+Noncomposite form deck. 
+B. 
+Work Included 
+1. 
+Furnish all labor and materials required to fabricate, deliver and install steel roof deck and 
+accessories including formed steel cant strips, eave strips, valley strips, sump pans, edge 
+closures, pour stops, reinforcing plates and related accessories. 
+2. 
+Furnish all labor and materials required to fabricate, deliver and install steel floor deck and 
+accessories including formed steel end closures, edge forms, flashings, and reinforcing 
+plates, headed shear studs, and related accessories. 
+C. 
+Related Sections include the following: 
+1. 
+Division 3 Section "Cast-in-Place Concrete" for structural concrete fill over steel deck. 
+2. 
+Division 5 Section "Structural Steel" for shop- and field-welded shear connectors. 
+3. 
+Division 5 Section "Metal Fabrications" for framing deck openings with miscellaneous steel 
+shapes. 
+1.3 
+SUBMITTALS 
+A. 
+Submittals for Review: 
+1. 
+Shop Drawings:  Show layout and types of deck panels, anchorage details, reinforcing 
+channels, pans, cut deck openings, special jointing, accessories, and attachments to other 
+construction. 
+2. 
+Product Data:  For each type of deck, accessory, and product indicated. Provide deck 
+dimensions, sectional properties, uplift resistance and diaphragm capacity for specified 
+fastener layout and support spacing, and finishes. 
+B. 
+Submittals for Information: 
+1. 
+Product Certificates:  For each type of steel deck, signed by product manufacturer.  Certify 
+that products comply with SDI, UL and ICC standards as specified. 
+2. 
+Manufacturer’s installation instructions. 
+
+
+===== PAGE 15 =====
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 3100
+Tonopah HS Field Replacement 
+ 
+Steel Deck
+ 
+April 20, 2026 
+Page 2 of 6
+ 
+3. 
+Welding certificates: For each welder employed on the Work. 
+4. 
+Field quality-control test and inspection reports. 
+5. 
+Product Test Reports:  Based on evaluation of comprehensive tests performed by a 
+qualified testing agency, indicating that each of the following complies with requirements: 
+a. 
+Power-actuated mechanical fasteners.  
+6. 
+ICC Evaluation Service Reports: Deck units shall be approved by the International Code 
+Council and shall have a corresponding report from ICC. 
+7. 
+Deck units shall be classified by Underwriter's Laboratory, Inc. and shall be labeled and 
+marked as required by UL, indicating manufacturer testing and inspection. 
+1.4 
+QUALITY ASSURANCE 
+A. 
+Installer:  Company specializing in performing the work of this Section with minimum 5 years 
+documented experience. 
+B. 
+Testing Agency Qualifications:  An independent agency qualified according to ASTM E 329 for 
+testing indicated. 
+C. 
+Welding:  Qualify procedures and personnel according to AWS D1.3, "Structural Welding 
+Code - Sheet Steel." 
+D. 
+Fire-Test-Response Characteristics:  Where indicated, provide steel deck units identical to those 
+tested for fire resistance per ASTM E 119 by a testing and inspecting agency acceptable to 
+authorities having jurisdiction. 
+1. 
+Fire-Resistance Ratings:  Indicated by design designations of applicable testing and 
+inspecting agency. 
+2. 
+Steel deck units shall be identified with appropriate markings of applicable testing and 
+inspecting agency. 
+E. 
+Comply with applicable provisions of the following specifications and documents. 
+1. 
+AISI Specifications:  Comply with calculated structural characteristics of steel deck 
+according to AISI's "North American Specification for the Design of Cold-Formed Steel 
+Structural Members." 
+2. 
+FM Global Listing:  Provide steel roof deck evaluated by FM Global and listed in its 
+"Approval Guide, Building Materials" for Class 1 fire rating and Class 1-90 windstorm 
+ratings. 
+3. 
+SDI (Steel Deck Institute) - Design Manual for Composite Decks, Form Decks, Roof Decks. 
+4. 
+UL - Fire Resistance Directory. 
+F. 
+Recycled Content of Steel Products:  Provide products with an average recycled content of steel 
+products so postconsumer recycled content plus one-half of preconsumer recycled content is not 
+less than 25 percent. 
+1.5 
+DELIVERY, STORAGE, AND HANDLING 
+A. 
+Protect steel deck from corrosion, deformation, and other damage during delivery, storage, and 
+handling. 
+
+
+===== PAGE 16 =====
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 3100
+Tonopah HS Field Replacement 
+ 
+Steel Deck
+ 
+April 20, 2026 
+Page 3 of 6
+ 
+B. 
+Stack steel deck on platforms or pallets and slope to provide drainage.  Protect with a waterproof 
+covering and ventilate to avoid condensation. 
+PART 2 - PRODUCTS 
+2.1 
+MANUFACTURERS 
+A. 
+Source of Steel Producers:  In accordance with Section 2252.202 of the Texas Government Code 
+steel shall be produced in the United States. 
+B. 
+Available Manufacturers:  Subject to compliance with requirements, manufacturers offering 
+products that may be incorporated into the Work include, but are not limited to, the following: 
+C. 
+Manufacturers:  Subject to compliance with requirements, provide products by one of the 
+following: 
+1. 
+Steel Deck: 
+a. 
+Canam Steel Corp.;The Canam Manac Group. 
+b. 
+Consolidated Systems, Inc. 
+c. 
+Epic Metals Corporation. 
+d. 
+New Millennium Building Systems, LLC. 
+e. 
+Nucor Corp.; Vulcraft Division. 
+f. 
+Verco Manufacturing Co. 
+2.2 
+ROOF DECK 
+A. 
+Steel Roof Deck:  Fabricate panels, without top-flange stiffening grooves, to comply with "SDI 
+Specifications and Commentary for Steel Roof Deck," in SDI Publication No. 30, and with the 
+following: 
+1. 
+Galvanized Steel Sheet:  ASTM A 653/A, Structural Steel (SS), Grade as indicated, G60 
+zinc coating. 
+2. 
+Deck Profile:  As indicated. 
+3. 
+Profile Depth:  As indicated. 
+4. 
+Design Uncoated-Steel Thickness:  As indicated. 
+5. 
+Span Condition:  As indicated. 
+6. 
+Side Laps:  Overlapped. 
+2.3 
+ACCESSORIES 
+A. 
+General:  Provide manufacturer's standard accessory materials for deck that comply with 
+requirements indicated. 
+B. 
+Mechanical Fasteners:  Corrosion-resistant, low-velocity, power-actuated or pneumatically driven 
+carbon-steel fasteners; or self-drilling, self-threading screws. 
+1. 
+Mechanical Fasteners:  Galvanized hardened steel, self-tapping "Teks" screws, 
+manufactured by Illinois Tool Works, Inc., Buildex Division, or equal.  Size shall be #10 
+minimum, unless noted otherwise. 
+
+
+===== PAGE 17 =====
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 3100
+Tonopah HS Field Replacement 
+ 
+Steel Deck
+ 
+April 20, 2026 
+Page 4 of 6
+ 
+2. 
+Powder Actuated Fasteners:  Zinc coated fastener with .145 inch shank diameter and 1 
+1/4 inch shank length.  X-ENP-19 pin as manufacturer by Hilti, or equal. 
+C. 
+Side-Lap Fasteners:  Corrosion-resistant, hexagonal washer head; self-drilling, carbon-steel 
+screws, No. 10 minimum diameter. 
+D. 
+Flexible Closure Strips:  Vulcanized, closed-cell, synthetic rubber. 
+E. 
+Miscellaneous Sheet Metal Deck Accessories:  Steel sheet, minimum yield strength of 33,000 
+psi, not less than 0.0359-inch design uncoated thickness, of same material and finish as deck; of 
+profile indicated or required for application. 
+F. 
+Pour Stops and Girder Fillers:  Steel sheet, minimum yield strength of 33,000 psi, of same material 
+and finish as deck, and of thickness and profile recommended by SDI Publication No. 30 for 
+overhang and slab depth. 
+G. 
+Column Closures, End Closures, Z-Closures, and Cover Plates:  Steel sheet, of same material, 
+finish, and thickness as deck, unless otherwise indicated. 
+H. 
+Piercing Hanger Tabs:  Piercing steel sheet hanger attachment devices for use with floor deck. 
+I. 
+Flat Sump Plate:  Single-piece steel sheet, 0.0747 inch thick, of same material and finish as deck, 
+sealed watertight.  For drains, cut holes in the field. 
+J. 
+Galvanizing Repair Paint:  ASTM A780. 
+PART 3 - EXECUTION 
+3.1 
+EXAMINATION 
+A. 
+Examine supporting frame and field conditions for compliance with requirements for installation 
+tolerances and other conditions affecting performance. 
+3.2 
+INSTALLATION, GENERAL 
+A. 
+Install deck panels and accessories according to applicable specifications and commentary in 
+SDI Publication No. 30, manufacturer's written instructions, and requirements in this Section. 
+B. 
+Locate deck bundles to prevent overloading of supporting members. 
+C. 
+Place deck panels on supporting frame and adjust to final position with ends accurately aligned 
+and bearing on supporting frame before being permanently fastened.  Do not stretch or contract 
+side-lap interlocks. 
+D. 
+Place deck panels flat and square and fasten to supporting frame without warp or deflection. 
+E. 
+Cut and neatly fit deck panels and accessories around openings and other work projecting 
+through or adjacent to deck. 
+
+
+===== PAGE 18 =====
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 3100
+Tonopah HS Field Replacement 
+ 
+Steel Deck
+ 
+April 20, 2026 
+Page 5 of 6
+ 
+F. 
+Provide additional reinforcement and closure pieces at openings as required for strength, 
+continuity of deck, and support of other work. 
+G. 
+Comply with AWS requirements and procedures for manual shielded metal arc welding, 
+appearance and quality of welds, and methods used for correcting welding work. 
+H. 
+Mechanical fasteners may be used in lieu of welding to fasten deck.  Locate mechanical fasteners 
+and install according to deck manufacturer's written instructions. 
+3.3 
+ROOF-DECK INSTALLATION 
+A. 
+Fasten roof-deck panels to steel supporting members by arc spot (puddle) welds of the surface 
+diameter indicated or arc seam welds with an equal perimeter that is not less than 1-1/2 inches 
+long, and as follows: 
+1. 
+Weld Diameter:  As indicated. 
+2. 
+Weld Spacing:  Weld edge and interior ribs of deck units with a minimum of two welds per 
+deck unit at each support.  Space welds  as indicated. 
+B. 
+Side-Lap and Perimeter Edge Fastening:  Fasten side laps and perimeter edges of panels 
+between supports, at intervals not exceeding the lesser of 1/2 of the span or [18 inches] [36 
+inches], and as follows: 
+1. 
+Mechanically fasten with self-drilling, No. 10 diameter or larger, carbon-steel screws. 
+2. 
+Mechanically clinch or button punch. 
+3. 
+Fasten with a minimum of 1-1/2-inch- long welds. 
+C. 
+End Bearing:  Install deck ends over supporting frame with a minimum end bearing of 1-1/2 
+inches, with end joints as follows: 
+1. 
+End Joints:  Lapped 2 inches minimum. 
+D. 
+Miscellaneous Roof-Deck Accessories:  Install ridge and valley plates, finish strips, end closures, 
+and reinforcing channels according to deck manufacturer's written instructions.  Weld or 
+mechanically fasten to substrate to provide a complete deck installation. 
+1. 
+Weld cover plates at changes in direction of roof-deck panels, unless otherwise indicated. 
+E. 
+Flexible Closure Strips:  Install flexible closure strips over partitions, walls, and where indicated.  
+Install with adhesive according to manufacturer's written instructions to ensure complete closure. 
+F. 
+Architectural finishes and mechanical, electrical, and plumbing equipment shall not be hung 
+directly from the metal deck. 
+3.4 
+FIELD QUALITY CONTROL 
+A. 
+Testing Agency:  Owner will engage a qualified independent testing and inspecting agency to 
+perform field tests and inspections and prepare test reports. 
+B. 
+Field welds will be subject to inspection. 
+
+
+===== PAGE 19 =====
+ 
+ 
+Nye County School District 
+Bid Documents 
+05 3100
+Tonopah HS Field Replacement 
+ 
+Steel Deck
+ 
+April 20, 2026 
+Page 6 of 6
+ 
+C. 
+Testing agency will report inspection results promptly and in writing to Contractor and Architect. 
+D. 
+Remove and replace work that does not comply with specified requirements. 
+E. 
+Additional inspecting, at Contractor's expense, will be performed to determine compliance of 
+corrected work with specified requirements. 
+3.5 
+REPAIRS AND PROTECTION 
+A. 
+Galvanizing Repairs:  Prepare and repair damaged galvanized coatings on both surfaces of deck 
+with galvanized repair paint according to ASTM A 780 and manufacturer's written instructions. 
+B. 
+Provide final protection and maintain conditions to ensure that steel deck is without damage or 
+deterioration at time of Substantial Completion. 
+END OF SECTION 05 31 00 
+
+
+===== PAGE 20 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+05 4000
+Tonopah HS Field Replacement 
+ 
+Cold Formed Steel Framing 
+ 
+April 20, 2026 
+Page 1 of 4
+ 
+SECTION 05 40 00 
+COLD-FORMED STEEL FRAMING 
+PART 1 GENERAL 
+1.01 SECTION INCLUDES 
+A. 
+Load bearing and non-load bearing structural steel stud, and  joist framing system of 20 to 12-
+gauge (33 mil to 97 mil) members along with fasteners and related accessories. Furnish and 
+install cold-form steel framing, as shown on the drawings and specified herein. Work shall 
+include, but not be limited to the following items: 
+1. 
+Non-load bearing formed steel studs. 
+2. 
+Formed steel joist framing and bridging. 
+3. 
+Provide tracks, blocking, lintels, clips angles, bridging, shoes, reinforcements, fasteners, 
+and accessories to construct a complete steel framing system. 
+B. 
+Structural notes indicated on the drawings regarding cold-formed steel framing system shall be 
+considered a part of this Specification. 
+1.02 RELATED WORK  
+A. 
+Pertinent Sections of Division 01. 
+B. 
+Section 05 12 23 - Structural Steel. 
+C. 
+Division 9 for non-load bearing studs of 20 gauge (33 mil) or lighter. 
+1.03 REFERENCES 
+A. 
+Codes and Standards: Comply with the provisions of the following codes, specifications, and 
+standards, except where more stringent requirements are shown or specified. Where any 
+provisions of other pertinent codes and standards conflict with this specification, the more 
+stringent provision shall govern. 
+1. 
+AISI S100 - North American Specification for the Design of Cold-Formed Steel Structural 
+Members. 
+2. 
+AISI S200 - North American Standard for Cold-Formed Steel Framing - General 
+Provisions. 
+3. 
+AISI S202 - North American Standard for Cold-Formed Steel Structural Framing. 
+4. 
+AISI S213 - North American Standard for Cold-Formed Steel Framing - Lateral Design. 
+5. 
+ASTM A653 - Standard Specification for Steel Sheet, Zinc Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process. 
+6. 
+ASTM A1008 - Standard Specification for Steel, Sheet, Cold-Rolled, Carbon, Structural, 
+High-Strength Low-Alloy, High-Strength Low-Alloy with Improved Formability, Solution 
+Hardened, and Bake Hardenable. 
+7. 
+ASTM C955 - Standard Specification for Cold-Formed Steel Structural Framing Members. 
+8. 
+AWS D1.3 - Structural Welding Code - Sheet Steel. 
+9. 
+SSMA - Steel Stud Manufacturers Association. 
+1.04 QUALITY ASSURANCE 
+A. 
+Workmen Qualifications: 
+1. 
+For the actual erection of cold-formed steel framing system, use only skilled journeymen 
+steel framing erectors who are thoroughly experienced with the materials and methods 
+specified. 
+2. 
+Use qualified welders and comply with AWS standards. 
+
+
+===== PAGE 21 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+05 4000
+Tonopah HS Field Replacement 
+ 
+Cold Formed Steel Framing 
+ 
+April 20, 2026 
+Page 2 of 4
+ 
+B. 
+Manufacturer: Company specializing in performing the work of this section with a minimum of 
+five (5) years documented experience at manufacturing cold-formed steel and framing systems 
+and related accessories. Manufacturer shall be a current and "full" member of the Steel Stud 
+Manufacturers Association (SSMA) or Steel Framing Industry Association (SFIA). 
+1.05 SYSTEM PERFORMANCE REQUIREMENTS  
+A. 
+Structural Performance: 
+1. 
+Provide cold-formed steel framing (CFSF) capable of withstanding design loads indicated 
+on the plans. 
+2. 
+Design CFSF to provide for movement of framing members without damage or 
+overstressing, sheathing failure, connection failure, undue strain on fasteners and 
+anchors, or other detrimental effects when subject to a maximum ambient temperature 
+change of 120°°F. 
+3. 
+Design system to accommodate construction tolerances, deflection of building structural 
+members , and clearances of intended openings. 
+4. 
+CFSF shall be designed in accordance with all AISI Standards. 
+1.06 SUBMITTALS 
+A. 
+Shop Drawings: 
+1. 
+Prepare and submit complete erection and detailed shop drawings for Engineer's 
+approval, including framing plans indicating size, gauge, weight, and location of all framing 
+members. Shop drawings shall indicate the following: 
+a. 
+Component details, framed openings, bearing, anchorage, loading, welds, type and 
+location of fasteners, bracing, bridging, strapping, connections, and accessories or 
+items required of other related work. Provide stud, and  ceiling joist layout. 
+b. 
+Provide calculations for loadings and stresses of the steel framing system, including 
+specially fabricated components and roof trusses, prepared by a registered Structural 
+Engineer, with registration from the State in which the project is located. 
+B. 
+Product Data: 
+1. 
+Provide product data on standard framing members. Describe materials and finish, 
+product criteria and limitations. Submit manufacturer's installation instructions. 
+1.07 DELIVERY, STORAGE AND HANDLING 
+A. 
+Steel members shall be transported, stored, and erected in a manner that will avoid any 
+damage or deformation. Bent or deformed members will be rejected and shall be replaced or 
+repaired at the expense of the responsible party. Store clear of ground and in such a manner 
+so as to eliminate excessive handling. 
+PART 2 - PRODUCTS 
+2.01 MATERIALS 
+A. 
+Framing Materials: 
+1. 
+Studs shall conform to the ASTM designations listed in the General Notes of the drawings, 
+unless noted otherwise, and be formed to channel shape, punched web, with nominal size 
+as indicated on the drawings. 
+2. 
+Joists shall conform to the ASTM designations listed in the General Notes of the drawings, 
+unless noted otherwise, and be formed of channel or open box shape, solid or punched 
+web with nominal depths as noted on the drawings. All joists shall be single length span 
+(without splices) with a minimum 8-inch bearing on each end, unless otherwise indicated. 
+3. 
+Track shall be minimum 18 gauge (43 mil) thick sheet steel, channel shaped, solid web, 
+same width as studs. Track shall provide a tight fit for studs. 
+
+
+===== PAGE 22 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+05 4000
+Tonopah HS Field Replacement 
+ 
+Cold Formed Steel Framing 
+ 
+April 20, 2026 
+Page 3 of 4
+ 
+ 
+ 
+B. 
+Accessories: 
+1. 
+Bracing, furring, and bridging shall consist of formed sheet steel with thickness determined 
+for conditions encountered. Provide manufacturer's standard shapes, complete with finish 
+same as framing members. 
+2. 
+Plates, gussets, and clips shall consist of formed sheet steel with thickness determined for 
+conditions encountered. Provide manufacturer's standard shapes, complete with finish 
+same as framing members. 
+C. 
+Fasteners: 
+1. 
+Self-drilling, self-tapping screws, bolts, nuts, and washers shall conform to ASTM A90, 
+complete with hot-dip galvanized coating. 
+2. 
+All other fasteners shall be as indicated on drawings or as recommended by the  cold-form 
+manufacturer. 
+D. 
+Finishes: 
+1. 
+Furnish all studs, joists, and  system components with a factory  galvanized (G60), finish. 
+2.02 FABRICATION 
+A. 
+Fabricate assemblies of framed sections, of sizes and profiles required with framing members 
+fitted, reinforced, and braced to suit design requirements. 
+B. 
+Fit and assemble in largest practical sections for delivery to Worksite, ready for installation. 
+C. 
+Bearing studs must be fabricated with full stud end seated against track web. Do not use studs 
+that have been cut at punchouts. 
+PART 3 - EXECUTION 
+3.01 
+INSPECTION 
+A. 
+Verify substrate surfaces and building framing components are ready to receive work. 
+B. 
+Beginning of installation means acceptance of existing conditions and substrate. 
+3.02 INSTALLATION 
+A. 
+General: 
+1. 
+Cold-formed steel framing system shall consist of structural steel studs and joists with 
+locations as shown on the drawings. All work shall be in accordance with approved shop 
+drawings and manufacturer's latest printed specifications. Framing members shall be 
+securely attached by mechanical fasteners as indicated on the drawings and as 
+recommended by the manufacturer. 
+a. 
+All field welding shall be in accordance with AWS previously cited. 
+b. 
+Complete framing system ready to receive subsequent facing material. 
+2. 
+Provision shall be made in the studs for rigid fastening of all blocking and special braces 
+or framing and for attachment and support of electrical outlets or other equipment 
+indicated to be supported by stud construction. 
+a. 
+All anchorage, bracing and blocking shall be in accordance with approved shop 
+drawings and as recommended by the manufacturer. 
+3. 
+Surfaces abraded by handling, weld locations and other miscellaneous defects shall be 
+touched-up with zinc-rich galvanizing compound (ZRC) coating. 
+B. 
+Erection of Studding: 
+
+
+===== PAGE 23 =====
+ 
+ 
+ 
+ 
+ 
+ 
+Nye County School District
+Bid Documents 
+05 4000
+Tonopah HS Field Replacement 
+ 
+Cold Formed Steel Framing 
+ 
+April 20, 2026 
+Page 4 of 4
+ 
+1. 
+Top and bottom track members shall be the same size and gauge as the stud and be 
+continuous for the total length of the framing system or as long as practical and shall be 
+securely attached a maximum of 24 inches on center with approved fastening devices. 
+Studs shall extend in one piece full height vertically between tracks, spaced no greater 
+than 24 inches on center, with all web cut-outs in perfect alignment. Studs shall provide 
+solid backing at corners and jambs. Install studs with all components properly aligned and 
+braced with all work plumb and true, ready and acceptable to receive surface materials. 
+a. 
+Coordinate installation of sealant with floor and ceiling tracks. 
+b. 
+Field cutting of studs shall be done by sawing. 
+c. 
+Splices in axially loaded studs will not be permitted. 
+d. 
+Erect load bearing studs, brace and reinforce to develop full strength to meet design 
+requirements. 
+e. 
+Extend stud framing through ceiling to underside of floor or roof structure above. 
+f. 
+Install intermediate studs above and below openings with studs equally spaced to 
+correspond to adjacent stud spacing. 
+g. 
+Provide deflection allowance in stud track, directly below horizontal building framing 
+for non-load bearing framing. 
+h. 
+Framing fabricator shall ensure punchout alignment when assembling framing and 
+field cutting to length. 
+i. 
+All framing components shall be cut squarely for attachment to perpendicular 
+members. 
+j. 
+In the event a track butt joint occurs within a panel, abutting pieces of track shall be 
+butt welded or spliced together. No such splices shall occur at any head or sill 
+condition. 
+2. 
+Steel studs shall be located not more than 2 inches from all doors, abutting partitions, 
+partition corners and other construction. Unless detailed otherwise, track or stud member 
+shall be used as a runner over door frames. Structural studs and joists shall be securely 
+and rigidly anchored in place to give total and complete support to subsequent materials 
+attached thereto. All studs shall be securely attached to jamb and head anchor clips of 
+each door frame by manufacturer's recommended method. 
+a. 
+Construct corners using minimum three studs. Jamb studs at doors, windows, and 
+other wall openings shall be designed to resist the tributary load of the opening and 
+meet specified performance requirements. 
+b. 
+Cold-rolled steel channel stiffeners or bridging shall be provided and installed 
+horizontally every 60 inches in all framing systems through stud web cut-outs with 
+clips welded in place at each stud. 
+C. 
+Erection of Joists: 
+1. 
+Place joist at spacing indicated on drawings. 
+2. 
+Make provisions for erection stresses. Provide temporary alignment and bracing. 
+3. 
+Locate joist end bearing directly over load bearing studs or provide load distributing 
+member to top of stud track. 
+4. 
+Provide web stiffeners at reaction points. 
+ 
+END OF SECTION 
+
+
+===== PAGE 24 =====
+Nye County School District
+Bid Documents
+05 5000
+Tonopah HS Field Replacement
+Metal Fabrications
+April 20, 2026
+Page 1 of 4
+SECTION 05 5000
+METAL FABRICATIONS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Shop fabricated steel items.
+1.
+Rough hardware.
+2.
+Loose bearing and leveling plates.
+3.
+Miscellaneous framing and supports.
+4.
+Products furnished, but not installed, under this Section include the following:
+a.
+Anchor bolts, steel pipe sleeves, and wedge-type inserts indicated to be cast into
+concrete.
+1.02 RELATED REQUIREMENTS
+A.
+Section 03 3000 - Cast-in-Place Concrete: Placement of metal fabrications in concrete.
+B.
+Section 05 1250 - Architecturally Exposed Structural Steel.
+C.
+Section 05 5213 - Pipe and Tube Railings.
+1.03 PERFORMANCE REQUIREMENTS
+A.
+Thermal Movements: Provide exterior metal fabrications that allow for thermal movements
+resulting from the following maximum change (range) in ambient and surface temperatures by
+preventing buckling, opening of joints, overstressing of components, failure of connections, and
+other detrimental effects. Base engineering calculation on surface temperatures of materials
+due to both solar heat gain and nighttime-sky heat loss.
+B.
+Temperature Change (Range): 120 deg F, ambient; 180 deg F, material surfaces.
+1.04 REFERENCE STANDARDS
+A.
+ASTM A36/A36M - Standard Specification for Carbon Structural Steel; 2019.
+B.
+ASTM A53/A53M - Standard Specification for Pipe, Steel, Black and Hot-Dipped, Zinc-Coated,
+Welded and Seamless; 2022.
+C.
+ASTM A283/A283M - Standard Specification for Low and Intermediate Tensile Strength Carbon
+Steel Plates; 2018.
+D.
+ASTM A501/A501M - Standard Specification for Hot-Formed Welded and Seamless Carbon
+Steel Structural Tubing; 2021.
+E.
+ASTM F3125/F3125M - Standard Specification for High Strength Structural Bolts and
+Assemblies, Steel and Alloy Steel, Heat Treated, Inch Dimensions 120 ksi and 150 ksi
+Minimum Tensile Strength, and Metric Dimensions 830 MPa and 1040 MPa Minimum Tensile
+Strength; 2022.
+F.
+AWS A2.4 - Standard Symbols for Welding, Brazing, and Nondestructive Examination; 2020.
+G.
+AWS B2.1/B2.1M - Specification for Welding Procedure and Performance Qualification; 2021.
+H.
+AWS D1.1/D1.1M - Structural Welding Code - Steel; 2020, with Errata (2023).
+I.
+SSPC-Paint 15 - Steel Joist Shop Primer/Metal Building Primer; 2004.
+J.
+SSPC-Paint 20 - Zinc-Rich Coating (Type I - Inorganic, and Type II - Organic); 2019.
+1.05 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Shop Drawings - Fabricated Items: Indicate profiles, sizes, connection attachments,
+reinforcing, anchorage, size and type of fasteners, and accessories. Include erection drawings,
+elevations, and details where applicable.
+1.
+Indicate welded connections using standard AWS A2.4 welding symbols. Indicate net
+weld lengths.
+
+
+===== PAGE 25 =====
+Nye County School District
+Bid Documents
+05 5000
+Tonopah HS Field Replacement
+Metal Fabrications
+April 20, 2026
+Page 2 of 4
+C.
+Welders' Qualification Statement: Welders' certificates in accordance with AWS B2.1/B2.1M
+and dated no more than 12 months before start of scheduled welding work.
+D.
+Structural Calculations - Fabricated Items: by a Registered Professional or Structural Engineer
+in the State of the Project' s location for approval by the Professional of Record. Calculations
+may include, but are not limited to:
+1.
+Description of design criteria
+2.
+Stress and deflection analysis
+3.
+Selection of framing members, fittings, and accessories
+1.06 QUALITY ASSURANCE
+A.
+Fabricator Qualifications: Firm experienced in producing metal fabrications similar to those
+indicated for this Project with a record of successful in-service performance, and with sufficient
+production capacity to produce required units without delaying the Work. This fabrication firm
+shall meet all applicable provisions of the Welding Standards as listed in the following
+paragraph.
+B.
+Design ______ under direct supervision of a ProfessionalStructural Engineer experienced in
+design of this Work and licensed in Nevada.
+1.07
+A.
+Field Measurements: Check actual locations of walls and other construction to which metal
+fabrications must fit by accurate field measurements before fabrication. Show recorded
+measurements on final shop drawings. Coordinate fabrication schedule with construction
+progress to avoid delaying the Work.
+1.
+Where field measurements cannot be made without delaying the Work, guarantee
+dimensions and proceed with fabricating products without field measurements. Coordinate
+construction to ensure that actual dimensions correspond to guaranteed dimensions.
+a.
+Allow for trimming and fitting at site.
+1.08 COORDINATION
+A.
+Coordinate installation of anchorages for metal fabrications. Furnish setting drawings,
+templates, and directions for installing anchorages, including sleeves, concrete inserts, anchor
+B.
+Coordinate installation of steel weld plates and angles for casting into concrete that are
+specified in this Section but required for work of another Section. Deliver such items to Project
+site in time for installation.
+PART 2 PRODUCTS
+2.01 MATERIALS - STEEL
+A.
+Steel Sections: ASTM A36/A36M.
+B.
+Steel Tubing: ASTM A501/A501M hot-formed structural tubing.
+C.
+Plates: ASTM A283/A283M.
+D.
+Pipe: ASTM A53/A53M, Grade B Schedule 40, black finish.
+E.
+Mechanical Fasteners: Same material as or compatible with materials being fastened; type
+consistent with design and specified quality level.
+F.
+Bolts, Nuts, and Washers: ASTM F3125/F3125M, Type 1, plain.
+G.
+Welding Materials: AWS D1.1/D1.1M; type required for materials being welded.
+H.
+Shop and Touch-Up Primer: SSPC-Paint 15, complying with VOC limitations of authorities
+having jurisdiction.
+I.
+Touch-Up Primer for Galvanized Surfaces: SSPC-Paint 20, Type I - Inorganic, complying with
+VOC limitations of authorities having jurisdiction.
+2.02 FABRICATION
+A.
+Fit and shop assemble items in largest practical sections, for delivery to site.
+
+
+===== PAGE 26 =====
+Nye County School District
+Bid Documents
+05 5000
+Tonopah HS Field Replacement
+Metal Fabrications
+April 20, 2026
+Page 3 of 4
+B.
+Fabricate items with joints tightly fitted and secured.
+C.
+Continuously seal joined members by continuous welds.
+D.
+Grind exposed joints flush and smooth with adjacent finish surface. Make exposed joints butt
+tight, flush, and hairline. Ease exposed edges to small uniform radius.
+E.
+Exposed Mechanical Fastenings: Flush countersunk screws or bolts; unobtrusively located;
+consistent with design of component, except where specifically noted otherwise.
+F.
+Furnish components required for anchorage of fabrications. Fabricate anchors and related
+components of same material and finish as fabrication, except where specifically noted
+otherwise.
+2.03 FABRICATED ITEMS
+A.
+Bumper Posts and Guard Rails: As detailed; prime paint finish.
+B.
+Bollards: Steel pipe, concrete filled, crowned cap, as detailed; prime paint finish.
+C.
+Joist Hangers: Strap anchors, fabricated with sheet steel, 18 gauge, 0.0478 inch (1.21 mm)
+minimum base metal thickness; galvanized finish.
+D.
+Ledge Angles, Shelf Angles, Channels, and Plates Not Attached to Structural Framing: For
+support of metal decking; prime paint finish.
+E.
+Door Frames for Overhead Door Openings, Wall Openings, and _____: Channel sections;
+prime paint finish.
+F.
+Slotted Channel Framing: Fabricate channels and fittings from structural steel complying with
+the referenced standards; manufacturer's standard finish.
+2.04 FINISHES - STEEL
+A.
+Prime paint steel items.
+1.
+Exceptions: Do not prime surfaces in direct contact with concrete, where field welding is
+required, and items to be covered with sprayed fireproofing.
+B.
+Clean surfaces of rust, scale, grease, and foreign matter prior to finishing.
+C.
+Prime Painting: One coat.
+2.05 FABRICATION TOLERANCES
+A.
+Squareness: 1/8 inch (3 mm) maximum difference in diagonal measurements.
+B.
+Maximum Offset Between Faces: 1/16 inch (1.5 mm).
+C.
+Maximum Misalignment of Adjacent Members: 1/16 inch (1.5 mm).
+D.
+Maximum Bow: 1/8 inch (3 mm) in 48 inches (1.2 m).
+E.
+Maximum Deviation From Plane: 1/16 inch (1.5 mm) in 48 inches (1.2 m).
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that field conditions are acceptable and are ready to receive work.
+3.02 PREPARATION
+A.
+Clean and strip primed steel items to bare metal where site welding is required.
+3.03 INSTALLATION
+A.
+Install items plumb and level, accurately fitted, free from distortion or defects.
+B.
+Provide for erection loads, and for sufficient temporary bracing to maintain true alignment until
+completion of erection and installation of permanent attachments.
+C.
+Obtain approval prior to site cutting or making adjustments not scheduled.
+
+
+===== PAGE 27 =====
+Nye County School District
+Bid Documents
+05 5000
+Tonopah HS Field Replacement
+Metal Fabrications
+April 20, 2026
+Page 4 of 4
+3.04 TOLERANCES
+A.
+Maximum Variation From Plumb: 1/4 inch (6 mm) per story, non-cumulative.
+B.
+Maximum Offset From True Alignment: 1/4 inch (6 mm).
+C.
+Maximum Out-of-Position: 1/4 inch (6 mm).
+END OF SECTION

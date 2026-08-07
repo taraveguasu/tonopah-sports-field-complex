@@ -1,0 +1,2598 @@
+{
+  "_generated": "2026-07-31",
+  "_purpose": "Confirm every project document is processed and indexed, or name the ones that are not.",
+  "_totals": {
+    "files_total": 378,
+    "processed": 278,
+    "derived_artifacts": 58,
+    "NOT_PROCESSED": 42
+  },
+  "gaps_by_severity": {
+    "HIGH": [
+      {
+        "file": "02-trade-scopes-bidform/02.0 - Subcontractor Proposal (Bid) Form (1%).pdf",
+        "blocks": "Defines the bid line items and alternate structure every exhibit must mirror. package-index-v2.json currently has NO bid_form_line_items field -- the v1 index had one."
+      },
+      {
+        "file": "02-trade-scopes-bidform/Subcontractor Proposal (Bid) Form (1%).pdf",
+        "blocks": "Defines the bid line items and alternate structure every exhibit must mirror. package-index-v2.json currently has NO bid_form_line_items field -- the v1 index had one."
+      },
+      {
+        "file": "04-specs-reports/04.02 - Geotech Report 012125.pdf",
+        "blocks": "Scope narratives reference the Geotechnical Report 25 times (backfill, hard dig, caliche, compaction). Drives RFP-008 earthwork and RFP-030 foundations. Never opened."
+      },
+      {
+        "file": "04-specs-reports/04.03 - Asbestos Survey_EICS 100323.pdf",
+        "blocks": "Defines the actual abatement scope for RFP-002. Never opened."
+      },
+      {
+        "file": "04-specs-reports/04.04 - Asbestos Mgmt Plan & Inspection Reports_EISC 010422.pdf",
+        "blocks": "Defines the actual abatement scope for RFP-002. Never opened."
+      },
+      {
+        "file": "05-supplemental/05.7 - Preliminary Construction Schedule (04.21.26).pdf",
+        "blocks": "Scope docs bind subs to these by reference ('multiple mobilizations per the Preliminary Construction Schedule and Logistics Plan'). Never opened."
+      },
+      {
+        "file": "05-supplemental/Logistics Plan Template.pdf",
+        "blocks": "Scope docs bind subs to these by reference ('multiple mobilizations per the Preliminary Construction Schedule and Logistics Plan'). Never opened."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/001_Attach A_PA DS Template_04-03-25.docx",
+        "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/002_ Attach A_ Subcontract DS Template_05-09-25.docx",
+        "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/NV_Attach A Review Log Cover Bluebeam Template_11-14-25.xls",
+        "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/PrePreparatory Phase Checklist.docx",
+        "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Consultant DS Template  07-11-16.pdf",
+        "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Subcontract Gen Prov DS TEMPLATE_01.28.23.pdf",
+        "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/ACO Sport - System 3000 Slot Channel Trench Drain System Spec Sheet.pdf",
+        "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/DCHS-35BN Discuss Cage.pdf",
+        "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/Pole Vault.pdf",
+        "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf",
+        "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+      }
+    ],
+    "LOW": [
+      {
+        "file": "01-rfp-itb/01.1 - Notice of Request for Proposals (1%).pdf",
+        "blocks": "PDF of the RFP notice / ITB. Same content extracted from the .docx equivalents in 02-trade-scopes-bidform/_extracted/."
+      },
+      {
+        "file": "01-rfp-itb/01.2 - Invitation to Bid (Non-1%).pdf",
+        "blocks": "PDF of the RFP notice / ITB. Same content extracted from the .docx equivalents in 02-trade-scopes-bidform/_extracted/."
+      },
+      {
+        "file": "05-supplemental/05.1 - CORE Subcontract Agreement Template (10.20.25).pdf",
+        "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+      },
+      {
+        "file": "05-supplemental/05.2 - Insurance Requirements (01.29.26).pdf",
+        "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+      },
+      {
+        "file": "05-supplemental/05.3 - Billing Procedures (02.04.25).pdf",
+        "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+      },
+      {
+        "file": "05-supplemental/05.4 - Textura Enrollment Information (01.19.23).pdf",
+        "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+      },
+      {
+        "file": "05-supplemental/05.5 - Non-Collusive Affidavit.pdf",
+        "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+      },
+      {
+        "file": "05-supplemental/05.6 - Affidavit of Compliance (09.21.16).pdf",
+        "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+      },
+      {
+        "file": "06-addenda/Addendum #1 (05.06.26)/00 01 10 - Table of Contents (ADD 1).pdf",
+        "blocks": "Addendum #1 spec table of contents; its substantive change (adding 08 71 00) is already captured in the supersession map."
+      },
+      {
+        "file": "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GC's.xlsx",
+        "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+      },
+      {
+        "file": "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GR's.xlsx",
+        "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+      },
+      {
+        "file": "GMP/Copy of NCSD THS Field - GMP - DRAFT_JC_5.26.2026.xlsm",
+        "blocks": "Superseded working draft of the GMP (05.26.26); GMP R2 (07.01.26) is current."
+      },
+      {
+        "file": "GMP/THS_BidLeveling_JC_2026-05-13.xlsx",
+        "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+      },
+      {
+        "file": "GMP/Tonopah Field Replacement - GMP Schedule.pdf",
+        "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+      }
+    ],
+    "MEDIUM": [
+      {
+        "file": "GMP/25-10-003 - NCSD - Tonopah HS Sports Field Ph's Replacement GMP_EOD.pdf",
+        "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+      },
+      {
+        "file": "GMP/Basis of Proposal 07.01.26 Rev2.docx",
+        "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+      },
+      {
+        "file": "GMP/NCSD THS Field - GMP R2 - 070126.pdf",
+        "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+      },
+      {
+        "file": "GMP/NCSD THS Field - GMP R2 - 070126.xlsm",
+        "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+      },
+      {
+        "file": "GMP/NCSD Tonopah High School Field Replacement - GMP-R2_070126.pdf",
+        "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/NCSD THS Field + TES Demo_RFI Log_Bidding 051226 - RESPONSES 050626.xlsx",
+        "blocks": "RFI log may contain responses beyond the 25 carried in Clarification No. 1."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/RFI #1-2 Asphalt (NDX).pdf",
+        "blocks": "RFI log may contain responses beyond the 25 carried in Clarification No. 1."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/1213PC - Bid Tab Sheet - 2-28-13.xlsx",
+        "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Commitments (NCSD THS Field & ES Demo)__as of 04-30-26.pdf",
+        "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Summary (NCSD THS Field & ES Demo)__05-12-26.pdf",
+        "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+      },
+      {
+        "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).xlsx",
+        "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+      }
+    ]
+  },
+  "gaps_by_folder": {
+    "01-rfp-itb": [
+      "01-rfp-itb/01.1 - Notice of Request for Proposals (1%).pdf",
+      "01-rfp-itb/01.2 - Invitation to Bid (Non-1%).pdf"
+    ],
+    "02-trade-scopes-bidform": [
+      "02-trade-scopes-bidform/02.0 - Subcontractor Proposal (Bid) Form (1%).pdf",
+      "02-trade-scopes-bidform/Subcontractor Proposal (Bid) Form (1%).pdf"
+    ],
+    "04-specs-reports": [
+      "04-specs-reports/04.02 - Geotech Report 012125.pdf",
+      "04-specs-reports/04.03 - Asbestos Survey_EICS 100323.pdf",
+      "04-specs-reports/04.04 - Asbestos Mgmt Plan & Inspection Reports_EISC 010422.pdf"
+    ],
+    "05-supplemental": [
+      "05-supplemental/05.1 - CORE Subcontract Agreement Template (10.20.25).pdf",
+      "05-supplemental/05.2 - Insurance Requirements (01.29.26).pdf",
+      "05-supplemental/05.3 - Billing Procedures (02.04.25).pdf",
+      "05-supplemental/05.4 - Textura Enrollment Information (01.19.23).pdf",
+      "05-supplemental/05.5 - Non-Collusive Affidavit.pdf",
+      "05-supplemental/05.6 - Affidavit of Compliance (09.21.16).pdf",
+      "05-supplemental/05.7 - Preliminary Construction Schedule (04.21.26).pdf",
+      "05-supplemental/Logistics Plan Template.pdf"
+    ],
+    "06-addenda": [
+      "06-addenda/Addendum #1 (05.06.26)/00 01 10 - Table of Contents (ADD 1).pdf"
+    ],
+    "GMP": [
+      "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GC's.xlsx",
+      "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GR's.xlsx",
+      "GMP/25-10-003 - NCSD - Tonopah HS Sports Field Ph's Replacement GMP_EOD.pdf",
+      "GMP/Basis of Proposal 07.01.26 Rev2.docx",
+      "GMP/Copy of NCSD THS Field - GMP - DRAFT_JC_5.26.2026.xlsm",
+      "GMP/NCSD THS Field - GMP R2 - 070126.pdf",
+      "GMP/NCSD THS Field - GMP R2 - 070126.xlsm",
+      "GMP/NCSD Tonopah High School Field Replacement - GMP-R2_070126.pdf",
+      "GMP/THS_BidLeveling_JC_2026-05-13.xlsx",
+      "GMP/Tonopah Field Replacement - GMP Schedule.pdf"
+    ],
+    "SUBCONTRACTOR FILES": [
+      "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/001_Attach A_PA DS Template_04-03-25.docx",
+      "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/002_ Attach A_ Subcontract DS Template_05-09-25.docx",
+      "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/NV_Attach A Review Log Cover Bluebeam Template_11-14-25.xls",
+      "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/PrePreparatory Phase Checklist.docx",
+      "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Consultant DS Template  07-11-16.pdf",
+      "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Subcontract Gen Prov DS TEMPLATE_01.28.23.pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/ACO Sport - System 3000 Slot Channel Trench Drain System Spec Sheet.pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/DCHS-35BN Discuss Cage.pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/Pole Vault.pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/NCSD THS Field + TES Demo_RFI Log_Bidding 051226 - RESPONSES 050626.xlsx",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/RFI #1-2 Asphalt (NDX).pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/1213PC - Bid Tab Sheet - 2-28-13.xlsx",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Commitments (NCSD THS Field & ES Demo)__as of 04-30-26.pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Summary (NCSD THS Field & ES Demo)__05-12-26.pdf",
+      "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).xlsx"
+    ]
+  },
+  "files": [
+    {
+      "file": "01-rfp-itb/01.1 - Notice of Request for Proposals (1%).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "PDF of the RFP notice / ITB. Same content extracted from the .docx equivalents in 02-trade-scopes-bidform/_extracted/."
+    },
+    {
+      "file": "01-rfp-itb/01.2 - Invitation to Bid (Non-1%).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "PDF of the RFP notice / ITB. Same content extracted from the .docx equivalents in 02-trade-scopes-bidform/_extracted/."
+    },
+    {
+      "file": "02-trade-scopes-bidform/02.0 - Subcontractor Proposal (Bid) Form (1%).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Defines the bid line items and alternate structure every exhibit must mirror. package-index-v2.json currently has NO bid_form_line_items field -- the v1 index had one."
+    },
+    {
+      "file": "02-trade-scopes-bidform/Invitation to Bid (Non-1%).docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Notice of Request for Proposals (1%).docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 002 Abatement & Building Wrecking.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 007 Surveying & Staking.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 016 Landscaping & Irrigation.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 018 Site Furnishings.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 019 Track & Field Athletic Equipment.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 021 Running Track Surfacing.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 022 Synthetic Turf Sports Field.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 023 Fencing & Gates.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 030 Concrete.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 031 Masonry.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 033 Structural Steel & Ornamental Metals.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 040 Moisture Protection & Sealants.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 044 Insulation.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 054 Special Doors.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 056 Doors, Frames & Hardware.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 062 Acoustical Ceilings Treatments.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 066 Fluid-Applied Floors.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 067 Concrete Finishing.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 071 Visual Display Boards & Menu Display Case.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 072 Building Signage.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 074 Building & Fire Protection Specialties.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 077 Lockers.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 078 Flagpoles.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 085 Warming Kitchen Food Service Equipment.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 089 Scoreboards.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 094 Bleachers & Press Box.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 098 Plumbing Systems.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 099 HVAC & Building Controls Systems.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 103 Electrical & Low Voltage Systems.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Scope of Work - 109 Prefabricated Ticket Booth.docx",
+      "status": "processed",
+      "category": "scope_docs",
+      "reason": "Extracted to _extracted/*.txt and parsed verbatim into package-index-v2.json"
+    },
+    {
+      "file": "02-trade-scopes-bidform/Subcontractor Proposal (Bid) Form (1%).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Defines the bid line items and alternate structure every exhibit must mirror. package-index-v2.json currently has NO bid_form_line_items field -- the v1 index had one."
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Invitation to Bid (Non-1%).txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Notice of Request for Proposals (1%).txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 002 Abatement & Building Wrecking.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 007 Surveying & Staking.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 008 Demo, Earthwork, Paving, Utilities, & Striping.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 016 Landscaping & Irrigation.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 018 Site Furnishings.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 019 Track & Field Athletic Equipment.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 021 Running Track Surfacing.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 022 Synthetic Turf Sports Field.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 023 Fencing & Gates.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 030 Concrete.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 031 Masonry.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 033 Structural Steel & Ornamental Metals.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 040 Moisture Protection & Sealants.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 044 Insulation.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 045 Metal Roofing, Fascia & Soffit Panels.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 054 Special Doors.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 056 Doors, Frames & Hardware.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 060 Metal Stud Framing, Drywall & Painting.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 062 Acoustical Ceilings Treatments.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 066 Fluid-Applied Floors.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 067 Concrete Finishing.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 071 Visual Display Boards & Menu Display Case.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 072 Building Signage.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 074 Building & Fire Protection Specialties.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 077 Lockers.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 078 Flagpoles.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 085 Warming Kitchen Food Service Equipment.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 089 Scoreboards.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 094 Bleachers & Press Box.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 098 Plumbing Systems.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 099 HVAC & Building Controls Systems.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 103 Electrical & Low Voltage Systems.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "02-trade-scopes-bidform/_extracted/Scope of Work - 109 Prefabricated Ticket Booth.txt",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Plain-text extraction of a Scope of Work .docx, produced by scripts/extract-scope-docs.py"
+    },
+    {
+      "file": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf",
+      "status": "processed",
+      "category": "drawings",
+      "reason": "Sheet-level catalog in drawing-sheet-catalog.json (91 sheets) plus vision reads"
+    },
+    {
+      "file": "03-drawings/03.01 - Bid Plans Vol 2 - 042026 (FIELD).pdf",
+      "status": "processed",
+      "category": "drawings",
+      "reason": "Sheet-level catalog in drawing-sheet-catalog.json (91 sheets) plus vision reads"
+    },
+    {
+      "file": "03-drawings/03.02 - Bid Plans 042026 (ES DEMO).pdf",
+      "status": "processed",
+      "category": "drawings",
+      "reason": "Sheet-level catalog in drawing-sheet-catalog.json (91 sheets) plus vision reads"
+    },
+    {
+      "file": "04-specs-reports/04.01 - Bid Specification Manual 042026.pdf",
+      "status": "processed",
+      "category": "spec_manual",
+      "reason": "Split into 22 per-division PDFs under spec-manual-split/"
+    },
+    {
+      "file": "04-specs-reports/04.02 - Geotech Report 012125.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Scope narratives reference the Geotechnical Report 25 times (backfill, hard dig, caliche, compaction). Drives RFP-008 earthwork and RFP-030 foundations. Never opened."
+    },
+    {
+      "file": "04-specs-reports/04.03 - Asbestos Survey_EICS 100323.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Defines the actual abatement scope for RFP-002. Never opened."
+    },
+    {
+      "file": "04-specs-reports/04.04 - Asbestos Mgmt Plan & Inspection Reports_EISC 010422.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Defines the actual abatement scope for RFP-002. Never opened."
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/_manifest.json",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Manifest for the spec-manual split"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-00-conditions.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-00-procurement-contracting.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-01-general-requirements.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-02-existing-conditions.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-03-concrete.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-04-masonry.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-05-metals.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-06-wood-plastics-composites.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-07-thermal-moisture.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-08-openings.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-09-finishes.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-10-specialties.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-11-equipment.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-12-furnishings.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-13-special-construction.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-22-plumbing.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-23-hvac.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-26-electrical.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-27-communications.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-31-earthwork.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-32-exterior-improvements.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "04-specs-reports/spec-manual-split/div-33-utilities.pdf",
+      "status": "derived_artifact",
+      "category": "derived",
+      "reason": "Per-division split of the Bid Specification Manual, produced from its bookmark outline"
+    },
+    {
+      "file": "05-supplemental/05.1 - CORE Subcontract Agreement Template (10.20.25).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+    },
+    {
+      "file": "05-supplemental/05.2 - Insurance Requirements (01.29.26).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+    },
+    {
+      "file": "05-supplemental/05.3 - Billing Procedures (02.04.25).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+    },
+    {
+      "file": "05-supplemental/05.4 - Textura Enrollment Information (01.19.23).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+    },
+    {
+      "file": "05-supplemental/05.5 - Non-Collusive Affidavit.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+    },
+    {
+      "file": "05-supplemental/05.6 - Affidavit of Compliance (09.21.16).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Flow-down commercial terms. Belong to Attachment B, not the Attachment A scope exhibit."
+    },
+    {
+      "file": "05-supplemental/05.7 - Preliminary Construction Schedule (04.21.26).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Scope docs bind subs to these by reference ('multiple mobilizations per the Preliminary Construction Schedule and Logistics Plan'). Never opened."
+    },
+    {
+      "file": "05-supplemental/Logistics Plan Template.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Scope docs bind subs to these by reference ('multiple mobilizations per the Preliminary Construction Schedule and Logistics Plan'). Never opened."
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/00 01 10 - Table of Contents (ADD 1).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Addendum #1 spec table of contents; its substantive change (adding 08 71 00) is already captured in the supersession map."
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/00 91 11 - Addendum #1 (ADD 1).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/08 71 00 - Door Hardware (ADD 1).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "06-addenda/Addendum #1 (05.06.26)/Revised Civil Sheets (ADD 1).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "06-addenda/Clarification No. 1 (050626).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "06-addenda/Clarification No. 2 (050726).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "06-addenda/Contour_Map_South_EastHampton.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "06-addenda/Responses to RFIs (CLAR 1).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GC's.xlsx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+    },
+    {
+      "file": "GMP/02 - OPS GC's & GR's/Tonopah Field Replacement GR's.xlsx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+    },
+    {
+      "file": "GMP/1% Subcontractor Listing.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "GMP/25-10-003 - NCSD - Tonopah HS Sports Field Ph's Replacement GMP_EOD.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+    },
+    {
+      "file": "GMP/Basis of Proposal 07.01.26 Rev2.docx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+    },
+    {
+      "file": "GMP/Copy of NCSD THS Field - GMP - DRAFT_JC_5.26.2026.xlsm",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "Superseded working draft of the GMP (05.26.26); GMP R2 (07.01.26) is current."
+    },
+    {
+      "file": "GMP/NCSD THS Field - GMP R2 - 070126.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+    },
+    {
+      "file": "GMP/NCSD THS Field - GMP R2 - 070126.xlsm",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+    },
+    {
+      "file": "GMP/NCSD Tonopah High School Field Replacement - GMP-R2_070126.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "The negotiated GMP -- the money the exhibits must reconcile to."
+    },
+    {
+      "file": "GMP/THS_BidLeveling_JC_2026-05-13.xlsx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+    },
+    {
+      "file": "GMP/Tonopah Field Replacement - GMP Schedule.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "LOW",
+      "blocks": "CORE-internal cost and schedule workbooks; not scope sources for subcontract exhibits."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/001_Attach A_PA DS Template_04-03-25.docx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/002_ Attach A_ Subcontract DS Template_05-09-25.docx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/NV_Attach A Review Log Cover Bluebeam Template_11-14-25.xls",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT A - Scope of Work/PrePreparatory Phase Checklist.docx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Consultant DS Template  07-11-16.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/0 - ATTACHMENT B - Gen Prov Template/NV Attach B_Subcontract Gen Prov DS TEMPLATE_01.28.23.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "The Attachment A and B templates -- the output format for Stage 7. Never opened."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - GGG Demolition (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - Northstar (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Action Solutions (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Alliance (backup, no Form) (LATE - not submitted to BC).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Earth Resource Group (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Environmental Protection Services (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - Monument Co (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NDX (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving - NDX (backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Wet Utilities - NDX (backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Black Canyon (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - BrightView (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Monument Co (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - AstroTurf Corp (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - BrightView (LATE - DO NOT USE).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - CG & B Enterprises (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Green Living Services (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Monument Co (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Sprinturf (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Tand (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Al 5s (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Fencing Specialists (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Golden Bay Fence (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Red Star (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tahoe Fence Co (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tiberti (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Cheek Construction (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Monument Co (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - XL Concrete Masonry (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Henderson (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - John Jackson (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Kemper (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Marnell (LATE - EMAILED 2 days after bid opening - DO NOT USE, reference only).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Monument Construction (LATE).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - XL Concrete Masonry (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Adams & Smith (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Corona Steel (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Canyon State (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Division 09 (no backup or Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Jetstream (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - M & H (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (Images+Video).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (backup, no Form) (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - JW McClenahan Co (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - US Mechanical (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Universal Plumbing & Heating (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/016, 022 Irrigation + Synthetic Turf Sports Field - Sprinturf (Descope Qs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope - Track Asphalt Info).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (R1, Descoped).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/023 Fencing & Gates - Red Star (R1, Descoped).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/030 Concrete - Cheek (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R1, Descoped).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R2, Descope ALTs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/094 Bleachers & Press  Box - California Bleachers NATA (Descope Qs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Black Canyon Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/CG&B Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cali. Bleachers Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cheeck Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Corona Steel Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/ACO Sport - System 3000 Slot Channel Trench Drain System Spec Sheet.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/DCHS-35BN Discuss Cage.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/Pole Vault.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cut Sheets/SEF305P Goal Post.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "HIGH",
+      "blocks": "Product basis-of-design cut sheets tied to specific packages: ACO Sport trench drain (RFP-030), discus cage / pole vault / goal post (ITB-019, RFP-030 footings)."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Elite Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Foursquare Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Henderson Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 2.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 3.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT 2).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cali. Bleachers Homeowork Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cheek (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response (Bollards).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports - Track Asphalt Info.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Foursquare Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/GTI Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Henderson ALT block Pricing.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R2, Descope ALTs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R3, Descope ALTs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R4, Descope ALTs).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream Homeowork Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/M&H Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Northstar Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric - OH Door 106A Power.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse R3.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Response R4 (Delete LV Pathway to HS).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Red Star Fence Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response R2.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tahoe Fence (descope Adds).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tonopah HS Field - Homework Tracker.xlsx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Wheelers Eletric Homework Response.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/JW Electric Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Jet Stream Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Utilities Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda R1.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Quantum Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Red Star  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sahara  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sprinturf  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sunrise Air  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tahoe Fence Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Universal Mech.  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Wheelers  Scope Review Meeting Agenda.docx",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - US Mechanical (Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Conti (value only).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - JW Electric (backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Kill A Watt (no backup, no Form).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Quantum (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 SPORTS LIGHTING - Musco (Footing info).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_6x8.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Par-Kut International (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Port-a-King (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/NCSD THS Field + TES Demo_RFI Log_Bidding 051226 - RESPONSES 050626.xlsx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "RFI log may contain responses beyond the 25 carried in Clarification No. 1."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid RFIs/RFI #1-2 Asphalt (NDX).pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "RFI log may contain responses beyond the 25 carried in Clarification No. 1."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/1213PC - Bid Tab Sheet - 2-28-13.xlsx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Commitments (NCSD THS Field & ES Demo)__as of 04-30-26.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/Bid Summary (NCSD THS Field & ES Demo)__05-12-26.pdf",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Bid Tabulation Sheet/NCSD THS Field & TES Demo - Bid Tab Sheet - (05.12.2026).xlsx",
+      "status": "NOT_PROCESSED",
+      "category": "unreferenced",
+      "reason": "No index artifact references this file",
+      "severity": "MEDIUM",
+      "blocks": "Basis of award. Used to build awarded-sub-mapping.json but not re-verified in this pass."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Prewitt.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Rosevear.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY) (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Monument Construction.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Exerplay (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Great Western (INSTALL).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Monument Construction.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY, R1, descoped (soccer)).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - Western Sealants.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Moisture Protection & Sealants - Gleeson Powers.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Waterproofing & Joint Sealants - Western Sealants (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040, 044 Sealants + Insulation - Gleeson Powers (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09 (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gale.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gleeson Powers.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gold Star.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (ALT finish).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (Door 106A Manual ALT).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Frontier.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (CD Substitution Comparison).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (OHD Substitution Comparison).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - ADI.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - All 5s.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09 (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Hallgren (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - SNV Specialties (INSTALL).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09 (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Grani.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Red Cap.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/065 Sealed Concrete - SI Legacy (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - NRC (ALT).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - Ryerson (ALT).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy (ALT).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/071 Marker Boards - ADP Lemco.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Image360.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Y C Signs.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Image360 (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Y C Signs (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/077 Lockers - IISI.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Exerplay (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Monument Construction.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - YESCO.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpoles - Pole Tech (SUPPLY).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - Culinary Depot.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - RESCO.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - Monument Construction.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO (descope).pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - American Air Balance.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Integra.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Raglen.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Tabitt.pdf",
+      "status": "processed",
+      "category": "referenced_by_index",
+      "reason": "Path or filename cited in an 01-index artifact"
+    }
+  ]
+}

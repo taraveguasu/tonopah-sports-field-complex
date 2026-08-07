@@ -1,0 +1,2255 @@
+{
+  "_generated": "2026-07-31",
+  "_purpose": "Every bidder's proposal per package, not just the awarded sub's. Proposals are NOT an authority tier -- they never override the contract documents. They are read to surface the assumptions bidders made where the documents were ambiguous, and to expose scope gaps. Boilerplate general exclusions are ignored. Any proposal that contradicts a contract document is flagged for PM, never silently adopted.",
+  "_totals": {
+    "packages_with_proposals": 33,
+    "proposal_files": 154,
+    "supporting_files": 103
+  },
+  "packages": {
+    "ITB-008": {
+      "bidder_count": 2,
+      "bidders": [
+        "Prewitt",
+        "Rosevear"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Prewitt.pdf",
+          "subcontractor": "Prewitt",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/007 Surveying - Rosevear.pdf",
+          "subcontractor": "Rosevear",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-018": {
+      "bidder_count": 3,
+      "bidders": [
+        "Exerplay",
+        "Great Western Installations",
+        "Monument Construction"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY) (descope).pdf",
+          "subcontractor": "Exerplay",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document",
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Exerplay (SUPPLY).pdf",
+          "subcontractor": "Exerplay",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations (descope).pdf",
+          "subcontractor": "Great Western Installations",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Great Western Installations.pdf",
+          "subcontractor": "Great Western Installations",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/018 Site Furnishings - Monument Construction.pdf",
+          "subcontractor": "Monument Construction",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "ITB-019": {
+      "bidder_count": 4,
+      "bidders": [
+        "Exerplay",
+        "Great Western",
+        "Monument Construction",
+        "SportsEdge"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Exerplay (SUPPLY).pdf",
+          "subcontractor": "Exerplay",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Great Western (INSTALL).pdf",
+          "subcontractor": "Great Western",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "install_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - Monument Construction.pdf",
+          "subcontractor": "Monument Construction",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY).pdf",
+          "subcontractor": "SportsEdge",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/019 Track & Field Athletic Equpt - SportsEdge (SUPPLY, R1, descoped (soccer)).pdf",
+          "subcontractor": "SportsEdge",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document",
+            "revised_submission",
+            "supply_only"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "ITB-040": {
+      "bidder_count": 3,
+      "bidders": [
+        "Gleeson Powers",
+        "SI Legacy",
+        "Western Sealants"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy (descope).pdf",
+          "subcontractor": "SI Legacy",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - SI Legacy.pdf",
+          "subcontractor": "SI Legacy",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Joint Sealants - Western Sealants.pdf",
+          "subcontractor": "Western Sealants",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Moisture Protection & Sealants - Gleeson Powers.pdf",
+          "subcontractor": "Gleeson Powers",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040 Waterproofing & Joint Sealants - Western Sealants (descope).pdf",
+          "subcontractor": "Western Sealants",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040, 044 Sealants + Insulation - Gleeson Powers (descope).pdf",
+          "subcontractor": "Gleeson Powers",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-040",
+            "ITB-044"
+          ]
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-044": {
+      "bidder_count": 6,
+      "bidders": [
+        "Division 09",
+        "G&R",
+        "Gale",
+        "Gleeson Powers",
+        "Gold Star",
+        "Red Rock"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/040, 044 Sealants + Insulation - Gleeson Powers (descope).pdf",
+          "subcontractor": "Gleeson Powers",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-040",
+            "ITB-044"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09 (descope).pdf",
+          "subcontractor": "Division 09",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Division 09.pdf",
+          "subcontractor": "Division 09",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R (descope).pdf",
+          "subcontractor": "G&R",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - G&R.pdf",
+          "subcontractor": "G&R",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gale.pdf",
+          "subcontractor": "Gale",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gleeson Powers.pdf",
+          "subcontractor": "Gleeson Powers",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Gold Star.pdf",
+          "subcontractor": "Gold Star",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock (descope).pdf",
+          "subcontractor": "Red Rock",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/044 Insulation - Red Rock.pdf",
+          "subcontractor": "Red Rock",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-054": {
+      "bidder_count": 4,
+      "bidders": [
+        "Crawford",
+        "Frontier",
+        "Lawrence Doors",
+        "McKeon"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (ALT finish).pdf",
+          "subcontractor": "Crawford",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "alternate_pricing"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (Door 106A Manual ALT).pdf",
+          "subcontractor": "Crawford",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "alternate_pricing"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford (descope).pdf",
+          "subcontractor": "Crawford",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Crawford.pdf",
+          "subcontractor": "Crawford",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Frontier.pdf",
+          "subcontractor": "Frontier",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (CD Substitution Comparison).pdf",
+          "subcontractor": "Lawrence Doors",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "substitution_request"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors (OHD Substitution Comparison).pdf",
+          "subcontractor": "Lawrence Doors",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "substitution_request"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - Lawrence Doors.pdf",
+          "subcontractor": "Lawrence Doors",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon (descope).pdf",
+          "subcontractor": "McKeon",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/054 OH Doors - McKeon.pdf",
+          "subcontractor": "McKeon",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-056": {
+      "bidder_count": 5,
+      "bidders": [
+        "ADI",
+        "All 5s",
+        "Division 09",
+        "Hallgren",
+        "SNV Specialties"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - ADI.pdf",
+          "subcontractor": "ADI",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - All 5s.pdf",
+          "subcontractor": "All 5s",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09 (descope).pdf",
+          "subcontractor": "Division 09",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Division 09.pdf",
+          "subcontractor": "Division 09",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - Hallgren (SUPPLY).pdf",
+          "subcontractor": "Hallgren",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/056 Doors, Frames & Hardware - SNV Specialties (INSTALL).pdf",
+          "subcontractor": "SNV Specialties",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "install_only"
+          ]
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-062": {
+      "bidder_count": 3,
+      "bidders": [
+        "Division 09",
+        "Grani",
+        "Red Cap"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09 (descope).pdf",
+          "subcontractor": "Division 09",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Division 09.pdf",
+          "subcontractor": "Division 09",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Grani.pdf",
+          "subcontractor": "Grani",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/062 ACT - Red Cap.pdf",
+          "subcontractor": "Red Cap",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-066": {
+      "bidder_count": 4,
+      "bidders": [
+        "FW Specialties",
+        "NRC",
+        "Ryerson",
+        "SI Legacy"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - NRC (ALT).pdf",
+          "subcontractor": "NRC",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "alternate_pricing"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - Ryerson (ALT).pdf",
+          "subcontractor": "Ryerson",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "alternate_pricing"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy (ALT).pdf",
+          "subcontractor": "SI Legacy",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "alternate_pricing"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066 Sealed Concrete - SI Legacy.pdf",
+          "subcontractor": "SI Legacy",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf",
+          "subcontractor": "FW Specialties",
+          "source_folder": "Other Proposals",
+          "flags": [],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC (descope).pdf",
+          "subcontractor": "NRC",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC.pdf",
+          "subcontractor": "NRC",
+          "source_folder": "Other Proposals",
+          "flags": [],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf",
+          "subcontractor": "Ryerson",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf",
+          "subcontractor": "Ryerson",
+          "source_folder": "Other Proposals",
+          "flags": [],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-067": {
+      "bidder_count": 4,
+      "bidders": [
+        "FW Specialties",
+        "NRC",
+        "Ryerson",
+        "SI Legacy"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - FW Specialties.pdf",
+          "subcontractor": "FW Specialties",
+          "source_folder": "Other Proposals",
+          "flags": [],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC (descope).pdf",
+          "subcontractor": "NRC",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - NRC.pdf",
+          "subcontractor": "NRC",
+          "source_folder": "Other Proposals",
+          "flags": [],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson (descope).pdf",
+          "subcontractor": "Ryerson",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/066, 067 Fluid Applied Floor + Sealed Concrete - Ryerson.pdf",
+          "subcontractor": "Ryerson",
+          "source_folder": "Other Proposals",
+          "flags": [],
+          "spans_multiple_packages": [
+            "ITB-066",
+            "ITB-067"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy (descope).pdf",
+          "subcontractor": "SI Legacy",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/067 Fluid Applied Floor - SI Legacy.pdf",
+          "subcontractor": "SI Legacy",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-071": {
+      "bidder_count": 1,
+      "bidders": [
+        "ADP Lemco"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/071 Marker Boards - ADP Lemco.pdf",
+          "subcontractor": "ADP Lemco",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-072": {
+      "bidder_count": 3,
+      "bidders": [
+        "Image360",
+        "Y C Signs",
+        "YESCO"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Image360.pdf",
+          "subcontractor": "Image360",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - Y C Signs.pdf",
+          "subcontractor": "Y C Signs",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO (descope).pdf",
+          "subcontractor": "YESCO",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072 Signage - YESCO.pdf",
+          "subcontractor": "YESCO",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Image360 (descope).pdf",
+          "subcontractor": "Image360",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-072",
+            "ITB-089"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Y C Signs (descope).pdf",
+          "subcontractor": "Y C Signs",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-072",
+            "ITB-089"
+          ]
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-074": {
+      "bidder_count": 1,
+      "bidders": [
+        "Henri"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri (descope).pdf",
+          "subcontractor": "Henri",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/074 Building Specialties - Henri.pdf",
+          "subcontractor": "Henri",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-077": {
+      "bidder_count": 1,
+      "bidders": [
+        "IISI"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/077 Lockers - IISI.pdf",
+          "subcontractor": "IISI",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-078": {
+      "bidder_count": 4,
+      "bidders": [
+        "Exerplay",
+        "Monument Construction",
+        "Pole Tech",
+        "YESCO"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Exerplay (SUPPLY).pdf",
+          "subcontractor": "Exerplay",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - Monument Construction.pdf",
+          "subcontractor": "Monument Construction",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpole - YESCO.pdf",
+          "subcontractor": "YESCO",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/078 Flagpoles - Pole Tech (SUPPLY).pdf",
+          "subcontractor": "Pole Tech",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "ITB-085": {
+      "bidder_count": 2,
+      "bidders": [
+        "Culinary Depot",
+        "RESCO"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - Culinary Depot.pdf",
+          "subcontractor": "Culinary Depot",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/085 Warming Kitchen Equipment - RESCO.pdf",
+          "subcontractor": "RESCO",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": []
+    },
+    "ITB-089": {
+      "bidder_count": 4,
+      "bidders": [
+        "Image360",
+        "Monument Construction",
+        "Y C Signs",
+        "YESCO"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Image360 (descope).pdf",
+          "subcontractor": "Image360",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-072",
+            "ITB-089"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/072, 089  Signage + Scoreboards - Y C Signs (descope).pdf",
+          "subcontractor": "Y C Signs",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ],
+          "spans_multiple_packages": [
+            "ITB-072",
+            "ITB-089"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - Monument Construction.pdf",
+          "subcontractor": "Monument Construction",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO (descope).pdf",
+          "subcontractor": "YESCO",
+          "source_folder": "Other Proposals",
+          "flags": [
+            "descope_document"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/089 Scoreboard - YESCO.pdf",
+          "subcontractor": "YESCO",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-002": {
+      "bidder_count": 6,
+      "bidders": [
+        "Action Solutions",
+        "Alliance",
+        "Earth Resource Group",
+        "Environmental Protection Services",
+        "GGG Demolition",
+        "Northstar"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - GGG Demolition (w backup).pdf",
+          "subcontractor": "GGG Demolition",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement & Building Wrecking - Northstar (w backup).pdf",
+          "subcontractor": "Northstar",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Action Solutions (backup, no Form).pdf",
+          "subcontractor": "Action Solutions",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Alliance (backup, no Form) (LATE - not submitted to BC).pdf",
+          "subcontractor": "Alliance",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form",
+            "late_submission",
+            "not_submitted_via_building_connected"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Earth Resource Group (w backup).pdf",
+          "subcontractor": "Earth Resource Group",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/002 Abatement (ONLY) - Environmental Protection Services (backup, no Form).pdf",
+          "subcontractor": "Environmental Protection Services",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Northstar Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda R1.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/North Star Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-008": {
+      "bidder_count": 3,
+      "bidders": [
+        "Monument Co",
+        "NDX",
+        "NewCom TAB"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - Monument Co (Form).pdf",
+          "subcontractor": "Monument Co",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NDX (Form).pdf",
+          "subcontractor": "NDX",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf",
+          "subcontractor": "NewCom TAB",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving - NDX (backup).pdf",
+          "subcontractor": "NDX",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Wet Utilities - NDX (backup).pdf",
+          "subcontractor": "NDX",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Utilities Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-016": {
+      "bidder_count": 3,
+      "bidders": [
+        "Black Canyon",
+        "BrightView",
+        "Tand"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Black Canyon (w backup).pdf",
+          "subcontractor": "Black Canyon",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - BrightView (w backup).pdf",
+          "subcontractor": "BrightView",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/016 Irrigation - Tand (w backup).pdf",
+          "subcontractor": "Tand",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/016, 022 Irrigation + Synthetic Turf Sports Field - Sprinturf (Descope Qs).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Black Canyon Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/GTI  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 2.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response 3.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Black Canyon Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/GTI Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-021": {
+      "bidder_count": 2,
+      "bidders": [
+        "Elite Sports Builders",
+        "Monument Co"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Elite Sports Builders (backup, no Form).pdf",
+          "subcontractor": "Elite Sports Builders",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/021 Running Track Surfacing - Monument Co (Form).pdf",
+          "subcontractor": "Monument Co",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope - Track Asphalt Info).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (Descope Qs).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/021 Running Track Surfacing - Elite Sports Builders (R1, Descoped).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Elite Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports - Track Asphalt Info.pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Elite Sports Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-022": {
+      "bidder_count": 7,
+      "bidders": [
+        "AstroTurf Corp",
+        "BrightView",
+        "CG & B Enterprises",
+        "Green Living Services",
+        "Monument Co",
+        "Sprinturf",
+        "Tand"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - AstroTurf Corp (w backup).pdf",
+          "subcontractor": "AstroTurf Corp",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - BrightView (LATE - DO NOT USE).pdf",
+          "subcontractor": "BrightView",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "late_submission",
+            "marked_do_not_use"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - CG & B Enterprises (w backup).pdf",
+          "subcontractor": "CG & B Enterprises",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Green Living Services (w backup).pdf",
+          "subcontractor": "Green Living Services",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Monument Co (Form).pdf",
+          "subcontractor": "Monument Co",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Sprinturf (w backup).pdf",
+          "subcontractor": "Sprinturf",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/022 Synthetic Turf Sports Field - Tand (w backup).pdf",
+          "subcontractor": "Tand",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/016, 022 Irrigation + Synthetic Turf Sports Field - Sprinturf (Descope Qs).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/CG&B Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT 2).pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response (VE ALT).pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/CG&B Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tand Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sprinturf  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tand  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-023": {
+      "bidder_count": 6,
+      "bidders": [
+        "Al 5s",
+        "Fencing Specialists",
+        "Golden Bay Fence",
+        "Red Star",
+        "Tahoe Fence Co",
+        "Tiberti"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Al 5s (w backup).pdf",
+          "subcontractor": "Al 5s",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Fencing Specialists (w backup).pdf",
+          "subcontractor": "Fencing Specialists",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Golden Bay Fence (backup, no Form).pdf",
+          "subcontractor": "Golden Bay Fence",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Red Star (Form).pdf",
+          "subcontractor": "Red Star",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tahoe Fence Co (w backup).pdf",
+          "subcontractor": "Tahoe Fence Co",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/023 Fencing & Gates - Tiberti (backup, no Form).pdf",
+          "subcontractor": "Tiberti",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/023 Fencing & Gates - Red Star (R1, Descoped).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Red Star Fence Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tahoe Fence (descope Adds).pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Red Star  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Tahoe Fence Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-030": {
+      "bidder_count": 4,
+      "bidders": [
+        "Cheek Construction",
+        "Monument Co",
+        "Sahara Concrete",
+        "XL Concrete Masonry"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Cheek Construction (w backup).pdf",
+          "subcontractor": "Cheek Construction",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Monument Co (Form).pdf",
+          "subcontractor": "Monument Co",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - Sahara Concrete (w backup).pdf",
+          "subcontractor": "Sahara Concrete",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/030 Concrete - XL Concrete Masonry (w backup).pdf",
+          "subcontractor": "XL Concrete Masonry",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/030 Concrete - Cheek (descope).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cheeck Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cheek (descope).pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response R2.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Sahara Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sahara  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-031": {
+      "bidder_count": 6,
+      "bidders": [
+        "Henderson",
+        "John Jackson",
+        "Kemper",
+        "Marnell",
+        "Monument Construction",
+        "XL Concrete Masonry"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Henderson (backup, no Form).pdf",
+          "subcontractor": "Henderson",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - John Jackson (backup, no Form).pdf",
+          "subcontractor": "John Jackson",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Kemper (w backup).pdf",
+          "subcontractor": "Kemper",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Marnell (LATE - EMAILED 2 days after bid opening - DO NOT USE, reference only).pdf",
+          "subcontractor": "Marnell",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "late_submission",
+            "marked_do_not_use"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - Monument Construction (LATE).pdf",
+          "subcontractor": "Monument Construction",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "late_submission"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/031 Masonry - XL Concrete Masonry (w backup).pdf",
+          "subcontractor": "XL Concrete Masonry",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Henderson Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Henderson ALT block Pricing.pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Monument Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Monument Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-033": {
+      "bidder_count": 2,
+      "bidders": [
+        "Adams & Smith",
+        "Corona Steel"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Adams & Smith (backup, no Form).pdf",
+          "subcontractor": "Adams & Smith",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/033 Structural Steel - Corona Steel (w backup).pdf",
+          "subcontractor": "Corona Steel",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Corona Steel Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response (Bollards).pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Corona Steel Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-045": {
+      "bidder_count": 2,
+      "bidders": [
+        "Canyon State",
+        "Foursquare"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Canyon State (backup, no Form).pdf",
+          "subcontractor": "Canyon State",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/045 Metal Roofing - Foursquare (backup, no Form) (LATE - not submitted to BC).pdf",
+          "subcontractor": "Foursquare",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form",
+            "late_submission",
+            "not_submitted_via_building_connected"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Foursquare Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Foursquare Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-060": {
+      "bidder_count": 3,
+      "bidders": [
+        "Division 09",
+        "Jetstream",
+        "M & H"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Division 09 (no backup or Form).pdf",
+          "subcontractor": "Division 09",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - Jetstream (w backup).pdf",
+          "subcontractor": "Jetstream",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/061 Framing Drywall & Painting - M & H (w backup).pdf",
+          "subcontractor": "M & H",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (Descope Qs).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R1, Descoped).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/061 Framing Drywall & Painting - Jetstream (R2, Descope ALTs).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R2, Descope ALTs).pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R3, Descope ALTs).pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream (R4, Descope ALTs).pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Jetstream Homeowork Response.pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/M&H Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse R3.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Jet Stream Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/M&H Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-094": {
+      "bidder_count": 1,
+      "bidders": [
+        "California Bleachers NATA"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (Images+Video).pdf",
+          "subcontractor": "California Bleachers NATA",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "supplemental_media"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (backup, no Form) (SUPPLY).pdf",
+          "subcontractor": "California Bleachers NATA",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form",
+            "supply_only"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/094 Bleachers & Press  Box - California Bleachers NATA (Descope Qs).pdf",
+          "kind": "descope",
+          "matched_by": "package_number"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cali. Bleachers Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cali. Bleachers Homeowork Response.pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-098": {
+      "bidder_count": 4,
+      "bidders": [
+        "Bombard Mechanical",
+        "JW McClenahan Co",
+        "US Mechanical",
+        "Universal Plumbing & Heating"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Bombard Mechanical (backup, no Form).pdf",
+          "subcontractor": "Bombard Mechanical",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - JW McClenahan Co (w backup).pdf",
+          "subcontractor": "JW McClenahan Co",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - US Mechanical (Form).pdf",
+          "subcontractor": "US Mechanical",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/098 Plumbing - Universal Plumbing & Heating (Form).pdf",
+          "subcontractor": "Universal Plumbing & Heating",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Universal Mech.  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-100": {
+      "bidder_count": 7,
+      "bidders": [
+        "American Air Balance",
+        "Bombard Mechanical",
+        "Integra",
+        "Raglen",
+        "Sunrise Air Systems",
+        "Tabitt",
+        "US Mechanical"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Bombard Mechanical (w backup).pdf",
+          "subcontractor": "Bombard Mechanical",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - Sunrise Air Systems (backup, no Form).pdf",
+          "subcontractor": "Sunrise Air Systems",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/100 HVAC - US Mechanical (Form).pdf",
+          "subcontractor": "US Mechanical",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "signed_form_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - American Air Balance.pdf",
+          "subcontractor": "American Air Balance",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Integra.pdf",
+          "subcontractor": "Integra",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Raglen.pdf",
+          "subcontractor": "Raglen",
+          "source_folder": "Other Proposals",
+          "flags": []
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/102 TAB - Tabitt.pdf",
+          "subcontractor": "Tabitt",
+          "source_folder": "Other Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Bombard  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Bombard Homeowork Response.pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response 2.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/US Mechanical Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Sunrise Air  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/US Mech  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-103": {
+      "bidder_count": 6,
+      "bidders": [
+        "Conti",
+        "JW Electric",
+        "Kill A Watt",
+        "Musco",
+        "Quantum",
+        "Wheelers"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Conti (value only).pdf",
+          "subcontractor": "Conti",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "value_only_no_scope_detail"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - JW Electric (backup, no Form).pdf",
+          "subcontractor": "JW Electric",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "backup_but_no_signed_bid_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Kill A Watt (no backup, no Form).pdf",
+          "subcontractor": "Kill A Watt",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "no_backup_no_form"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Quantum (w backup).pdf",
+          "subcontractor": "Quantum",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 Electrical & Low Voltage - Wheelers (w backup).pdf",
+          "subcontractor": "Wheelers",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "has_backup"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/103 SPORTS LIGHTING - Musco (Footing info).pdf",
+          "subcontractor": "Musco",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": []
+        }
+      ],
+      "supporting_docs": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric - OH Door 106A Power.pdf",
+          "kind": "descope",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse R3.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Resopnse.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Quantum Electric Homework Response R4 (Delete LV Pathway to HS).pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Wheelers Eletric Homework Response.pdf",
+          "kind": "homework_response",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/JW Electric Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Quantum Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Wheelers  Scope Review Meeting Agenda.docx",
+          "kind": "scope_review_agenda",
+          "matched_by": "subcontractor_name"
+        }
+      ]
+    },
+    "RFP-109": {
+      "bidder_count": 3,
+      "bidders": [
+        "Guardian Booth",
+        "Par-Kut International",
+        "Port-a-King"
+      ],
+      "proposals": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_4x6.pdf",
+          "subcontractor": "Guardian Booth",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Guardian Booth (SUPPLY)_6x8.pdf",
+          "subcontractor": "Guardian Booth",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Par-Kut International (SUPPLY).pdf",
+          "subcontractor": "Par-Kut International",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/109 Prefab Ticket Booth - Port-a-King (SUPPLY).pdf",
+          "subcontractor": "Port-a-King",
+          "source_folder": "1% Subcontractor Proposals",
+          "flags": [
+            "supply_only"
+          ]
+        }
+      ],
+      "supporting_docs": []
+    }
+  },
+  "_entity_aliases": {
+    "GTI 1 Inc.": {
+      "same_as": "BrightView",
+      "confirmed_by": "PM, 2026-07-31",
+      "appears_as_gti_in": [
+        "1% Descopes/GTI  Scope Review Meeting Agenda.docx",
+        "1% Descopes/Homework Responses/GTI Homework Response.pdf"
+      ],
+      "appears_as_brightview_in": [
+        "Other/1% proposals for RFP-016 (Irrigation) and RFP-022 (Synthetic Turf)"
+      ],
+      "note": "Bidder counts must not double-count these as separate firms."
+    }
+  },
+  "_findings_for_pm": [
+    {
+      "id": "PI-01",
+      "severity": "resolved",
+      "title": "GTI 1 Inc. is BrightView -- same entity, two filing names",
+      "detail": "'GTI  Scope Review Meeting Agenda.docx' records a 5/15/2026 scope review, scopes 'Landscape, Irrigation'. No proposal is filed under GTI. PM confirmed 07.31.26 that GTI 1 Inc. and BrightView are the same firm; BrightView's proposals cover RFP-016 (Irrigation) and RFP-022 (Synthetic Turf, marked LATE - DO NOT USE). Recorded in _entity_aliases so bidder counts do not treat them as two firms.",
+      "why_it_still_matters": "BrightView/GTI did NOT win RFP-016 -- Black Canyon did. Per PM direction, a losing bidder's scope review is the most valuable kind, and this one is unusually explicit about what the documents left ambiguous. GTI stated these EXCLUSIONS: tree demo, ground treatment, pole vault, discus and shot put pads, trench drains, concrete pads. And these INCLUSIONS/ASSUMPTIONS: temporary irrigation (assumed surface-mounted), site amenities, prevailing wage. Every one of those is a boundary RFP-016's Attachment A should state explicitly. Note the exclusions corroborate PM rulings already made -- trench drains and concrete pads to RFP-030, tree demo to RFP-008 (SOW-008 includes 'tree removal, including stump grinding'), pole vault and shot put to ITB-019/RFP-030.",
+      "pm_action": "None outstanding. Feed GTI's exclusion list into RFP-016 drafting."
+    },
+    {
+      "id": "PI-02",
+      "severity": "high",
+      "title": "'070 Final Cleaning' has four proposals but no package in the project package list",
+      "detail": "Proposals from CSI, Lady Lux, and Nevada Angels (plus a Nevada Angels descope) are filed under number 070 'Final Cleaning'. Neither the 1% list nor the ITB list in CLAUDE.md contains a Final Cleaning package.",
+      "why_it_matters": "Either the 33-package list is incomplete, or final cleaning is being self-performed by CORE. Final cleaning is commonly assumed by every trade to be someone else's -- if it is neither a package nor an explicit CORE scope, it is an uncovered cost.",
+      "pm_action": "Confirm whether Final Cleaning is a 34th package, a CORE general-conditions scope, or folded into another package."
+    },
+    {
+      "id": "PI-03",
+      "severity": "medium",
+      "title": "'065 Sealed Concrete' overlaps ITB-066 and ITB-067 with the same bidders",
+      "detail": "SI Legacy's sealed-concrete descope is filed under 065, while the same scope also appears under 066 (Sealed Concrete), 067 (Fluid Applied Floor) and combined '066, 067' filenames from NRC, Ryerson and FW Specialties. ITB-066 is Fluid-Applied Flooring and ITB-067 is Concrete Finishing.",
+      "why_it_matters": "ITB-066 and ITB-067 currently show the identical four bidders. The boundary between fluid-applied flooring, sealed concrete and concrete finishing is not established by the numbering, and ITB-066 has no spec section in the manual.",
+      "pm_action": "Rule on which package carries sealed concrete before either exhibit is drafted."
+    },
+    {
+      "id": "PI-04",
+      "severity": "medium",
+      "title": "Bidders priced across package boundaries -- relevant to planned package combinations",
+      "detail": "Combined proposals on file: '016, 022' (Sprinturf, irrigation + synthetic turf), '040, 044' (Gleeson Powers, sealants + insulation), '066, 067' (NRC, Ryerson, FW Specialties), '072, 089' (Image360, Y C Signs, signage + scoreboards).",
+      "why_it_matters": "These are the seams where the market itself combines scope. Worth weighing against the package combinations the PM intends, since a combination the bidders already priced together carries less leveling risk.",
+      "pm_action": "Cross-check against the forthcoming package combination list."
+    },
+    {
+      "id": "PI-05",
+      "severity": "medium",
+      "title": "Supply/install splits appear inside single packages",
+      "detail": "ITB-019: Exerplay and SportsEdge bid SUPPLY, Great Western bid INSTALL. ITB-056: Hallgren bid SUPPLY, SNV Specialties bid INSTALL. ITB-018 and ITB-078 also carry SUPPLY-only bids from Exerplay. RFP-094 and RFP-109 received SUPPLY-only proposals.",
+      "why_it_matters": "A package awarded to a supply-only bidder leaves installation uncovered unless the exhibit names who installs. Sheet A1-20's Site Equipment Matrix designates Scoreboard, Bleachers, Press Box, Trash Receptacle and Ticket Booth as CFCI (contractor furnished, contractor installed), so those cannot be left supply-only.",
+      "pm_action": "For each split package, confirm the install side is carried by a named package."
+    },
+    {
+      "id": "PI-06",
+      "severity": "medium",
+      "title": "Proposals with no signed Bid Form, late submissions, and value-only bids",
+      "detail": "Flags parsed from filenames across all packages: 'backup, no Form' (no signed bid form), 'LATE', 'not submitted to BC' (bypassed Building Connected), 'DO NOT USE', and 'value only' (RFP-103 Conti -- a price with no scope detail). Per-file flags are in each package's proposals array.",
+      "why_it_matters": "NRS 338.16995 governs the 1% list. A proposal that never came through Building Connected or lacks a signed bid form is a procurement-process exposure, not just a paperwork gap. RFP-045's awarded sub, Foursquare, is flagged both 'no Form' and 'LATE - not submitted to BC'.",
+      "pm_action": "Review the flagged proposals for procurement compliance before those subcontracts issue."
+    },
+    {
+      "id": "PI-07",
+      "severity": "low",
+      "title": "CLAUDE.md's claim that ITB packages have no proposals on hand is wrong",
+      "detail": "CLAUDE.md states 'Non-1% (ITB) packages have no awarded-sub proposal on hand yet in SUBCONTRACTOR FILES -- those still draft from generic RFP/ITB/spec scope.' In fact all 17 ITB packages have proposals in 'Other Proposals', 86 files total.",
+      "why_it_matters": "Every ITB exhibit can be informed by real bidder assumptions, not generic scope language.",
+      "pm_action": "None -- CLAUDE.md corrected as part of this pass."
+    }
+  ],
+  "_unmapped_files": [
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/065 Sealed Concrete - SI Legacy (descope).pdf",
+      "subcontractor": "SI Legacy",
+      "source_folder": "Other Proposals",
+      "flags": [
+        "descope_document"
+      ],
+      "filename_number": "065",
+      "reason": "'Sealed Concrete' -- overlaps ITB-066 (Fluid-Applied Flooring) and ITB-067 (Concrete Finishing); the same scope also appears under 066 and 067 filenames. Which package carries sealed concrete is unresolved."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - CSI.pdf",
+      "subcontractor": "CSI",
+      "source_folder": "Other Proposals",
+      "flags": [],
+      "filename_number": "070",
+      "reason": "'Final Cleaning' -- NO corresponding package exists in either the 1% list or the ITB list in CLAUDE.md. Four proposals were solicited and received. Either a package is missing from the project's package list, or this scope is being carried directly by CORE."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Lady Lux.pdf",
+      "subcontractor": "Lady Lux",
+      "source_folder": "Other Proposals",
+      "flags": [],
+      "filename_number": "070",
+      "reason": "'Final Cleaning' -- NO corresponding package exists in either the 1% list or the ITB list in CLAUDE.md. Four proposals were solicited and received. Either a package is missing from the project's package list, or this scope is being carried directly by CORE."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels (descope).pdf",
+      "subcontractor": "Nevada Angels",
+      "source_folder": "Other Proposals",
+      "flags": [
+        "descope_document"
+      ],
+      "filename_number": "070",
+      "reason": "'Final Cleaning' -- NO corresponding package exists in either the 1% list or the ITB list in CLAUDE.md. Four proposals were solicited and received. Either a package is missing from the project's package list, or this scope is being carried directly by CORE."
+    },
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/Other Proposals/070 Final Cleaning - Nevada Angels.pdf",
+      "subcontractor": "Nevada Angels",
+      "source_folder": "Other Proposals",
+      "flags": [],
+      "filename_number": "070",
+      "reason": "'Final Cleaning' -- NO corresponding package exists in either the 1% list or the ITB list in CLAUDE.md. Four proposals were solicited and received. Either a package is missing from the project's package list, or this scope is being carried directly by CORE."
+    }
+  ],
+  "_unmatched_supporting_docs": [],
+  "_non_subcontractor_support_files": [
+    {
+      "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Tonopah HS Field - Homework Tracker.xlsx",
+      "note": "project-level tracker, not subcontractor-specific"
+    }
+  ]
+}

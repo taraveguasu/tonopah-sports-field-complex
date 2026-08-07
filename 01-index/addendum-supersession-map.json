@@ -1,0 +1,348 @@
+{
+  "_generated": "2026-07-31",
+  "_method": "Every file in 00-source-docs/06-addenda/ opened. Each reissued sheet was read and OVERLAID against its base-bid counterpart to diff what changed (PM-prescribed method, 07.31.26). Revision clouds, delta triangles and title-block revision entries were used to locate changes.",
+  "_authority_note": "Addenda and clarifications supersede everything they touch. Index the revised sheet, never the base-bid sheet. Every drawing citation must name the revision actually read.",
+
+  "addendum_1": {
+    "date": "2026-05-06",
+    "source_folder": "06-addenda/Addendum #1 (05.06.26)/",
+    "narrative_file": "00 91 11 - Addendum #1 (ADD 1).pdf",
+
+    "_CRITICAL_DISCREPANCY": {
+      "finding": "Addendum #1's narrative change list (section 5.01) names only FIVE reissued sheets: C1, GD, G0-00, LS1-10, A1-20. Seven sheets were actually reissued -- A2-10 and A10-30 are omitted from that list.",
+      "CORRECTION_2026_07_31": "An earlier version of this entry claimed the two sheets were reissued with no announcement anywhere, and that only a folder listing plus overlay could catch them. That was wrong. The REVISED G0-00 cover sheet carries an updated INDEX OF DRAWINGS with a new column headed '2026.05.06 - ADDENDUM #1', and that column is dotted on all SEVEN reissued sheets, A2-10 and A10-30 included. The revision delta on G0-00 is that index. So the information WAS disclosed in the contract documents -- just not in the addendum's narrative.",
+      "why_it_still_matters": "The addendum narrative and the revised drawing index disagree with each other. A bidder working from the addendum text alone gets five sheets; a bidder cross-checking the revised cover sheet index gets seven. Both A2-10 and A10-30 carry real scope changes (locker re-layout, new filler keynote, restroom partition changes). That is a live source of bid-scope variance between subcontractors.",
+      "pm_action": "Confirm with KNIT that section 5.01's list is simply incomplete and that all seven sheets were intentionally reissued. Worth noting in the subcontract that the revised drawing index on G0-00 governs the list of current sheet revisions.",
+      "detection_methods_that_work": [
+        "Read the revised G0-00 INDEX OF DRAWINGS revision columns -- authoritative and complete",
+        "List the addenda folder and open every revised-sheet PDF",
+        "Overlay each revised sheet against its base counterpart",
+        "Read each sheet's own title-block revision entry"
+      ]
+    },
+
+    "specifications_added": [
+      {
+        "section": "08 71 00",
+        "title": "Door Hardware",
+        "file": "06-addenda/Addendum #1 (05.06.26)/08 71 00 - Door Hardware (ADD 1).pdf",
+        "pages": 14,
+        "affects_packages": ["ITB-056", "ITB-054", "RFP-023"],
+        "note": "New section, not in the 04.20.2026 bid set. Section Includes: door hardware incl. electric hardware; storefront and entrance door hardware. Clarification No.1 RFI #18 puts the gate locking device in 08 71 00 art. 2.04, cross-referenced to 32 31 13 (RFP-023 Fencing) -- a live boundary between ITB-056 and RFP-023."
+      }
+    ],
+    "specifications_modified": [
+      { "section": "00 01 10", "title": "Table of Contents", "affects_packages": [] }
+    ],
+
+    "sheets_reissued": [
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "announced_in_addendum": true,
+        "base_location": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf p.32",
+        "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf p.3",
+        "overlay_diff": [
+          {
+            "element": "SITE EQUIPMENT MATRIX -- SCOREBOARD row",
+            "base": "WATCHFIRE / WF-FB-11824",
+            "revised": "DAKTRONICS / FB-2021",
+            "delta_marker": "Revision triangle 'A' on the matrix",
+            "affects_packages": ["ITB-089"],
+            "consequence": "Scoreboard basis-of-design changed manufacturer AND model. Any scope written from the base sheet names the wrong product. Consistent with Clarification No.1 RFI #5 ('FB-2022 discontinued; BOD changed to FB-2021')."
+          }
+        ],
+        "unchanged_but_still_authoritative": "Site Equipment Matrix remains the CFCI responsibility table for Scoreboard (ITB-089), Bleachers + Press Box (RFP-094), Trash Receptacle (ITB-018), Ticket Booth (RFP-109). Gate Schedule (14 gates, 001-014) and chainlink/gate details remain RFP-023. Flag pole base detail remains ITB-078. Expansion/control joint details remain RFP-030.",
+        "packages_citing_dead_revision": ["ITB-018", "ITB-078", "ITB-089", "RFP-023", "RFP-030", "RFP-094", "RFP-109"]
+      },
+      {
+        "sheet": "A10-30",
+        "title": "INTERIOR ELEVATIONS",
+        "announced_in_addendum": false,
+        "base_location": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf p.44",
+        "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf p.5",
+        "overlay_diff": [
+          {
+            "element": "Keynote 9-08",
+            "base": "15' W x 18\" D METAL LOCKERS, B.O.D. ASI STORAGE SOLUTIONS SINGLE TIER LOCKER COMPETITOR COLLECTION, CFCI",
+            "revised": "METAL LOCKERS, CFCI",
+            "affects_packages": ["ITB-077"],
+            "consequence": "The drawn basis-of-design and the locker dimensions were DELETED. The prior index claimed this keynote 'resolves ITB-077's missing spec section 10 51 13' -- that claim is now void. ITB-077 has no spec section AND no drawn BOD. The only surviving BOD is Clarification No.1 RFI #3."
+          },
+          {
+            "element": "Keynote 9-07",
+            "base": "(did not exist)",
+            "revised": "FILLER, PAINT COLOR TO MATCH METAL LOCKERS",
+            "affects_packages": ["ITB-077"],
+            "consequence": "NEW SCOPE added by addendum. Filler panels at locker bank ends.",
+            "_RESOLVED_BY_PM_2026_07_31": {
+              "ruling": "Filler panels belong to ITB-077 Lockers. NOT RFP-060.",
+              "attachment_a_language_required": "Fillers are delivered with the lockers and cut to size in the field. Subcontractor shall FIELD-MEASURE prior to placing the order, or field-cut, to ensure a tight fit. This execution requirement must appear explicitly in ITB-077's Attachment A -- it is the kind of item a supplier-driven locker sub will otherwise treat as excluded.",
+              "paint_note": "'PAINT COLOR TO MATCH METAL LOCKERS' is a factory finish characteristic of the filler, not a field painting operation by RFP-060."
+            }
+          },
+          {
+            "element": "Team 1 North / East / South elevations",
+            "base": "Locker bank shown without dimension string or fillers",
+            "revised": "Re-laid-out to a 2'-0\" module (EQ / 2'-0\" x4 / EQ) with 9-07 fillers at bank ends; three revision clouds with delta 'A'",
+            "affects_packages": ["ITB-077"],
+            "consequence": "Locker quantity/configuration changed. Any takeoff from the base sheet is wrong."
+          }
+        ],
+        "packages_citing_dead_revision": ["ITB-071", "ITB-077"]
+      },
+      {
+        "sheet": "A2-10",
+        "title": "FLOOR PLAN AND RCP",
+        "announced_in_addendum": false,
+        "base_location": "03-drawings/03.01 - Bid Plans Vol 1 - 042026 (FIELD).pdf (Concession Floor Plan + RCP)",
+        "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf p.4",
+        "overlay_diff": [
+          {
+            "element": "Team 1 room, locker wall",
+            "revised": "Revision cloud around locker run, consistent with the A10-30 locker re-layout",
+            "affects_packages": ["ITB-077"],
+            "consequence": "Confirms the locker change is a plan change, not just an elevation change."
+          },
+          {
+            "element": "Mens / Womens restroom area (grids 4-5)",
+            "revised": "Revision cloud around toilet partition / fixture layout",
+            "affects_packages": ["ITB-074", "RFP-098", "RFP-060"],
+            "consequence": "Toilet partition and fixture layout changed. ITB-074 (Building & Fire Protection Specialties) carries partitions/accessories; RFP-098 carries fixtures. Extent of change needs a detailed read before scope is written."
+          }
+        ],
+        "packages_citing_dead_revision": ["ITB-062", "RFP-060"],
+        "pm_note": "PM observed (worksheet row 5) that Section A is a cut through both doors as shown on this sheet -- relevant to the ITB-054 coiling door location question."
+      },
+      {
+        "sheet": "G0-00",
+        "title": "COVER SHEET",
+        "announced_in_addendum": true,
+        "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf p.1",
+        "overlay_diff": [
+          {
+            "element": "INDEX OF DRAWINGS",
+            "base": "Single revision column: '2026.04.20 - BID DOCS'",
+            "revised": "Second column added: '2026.05.06 - ADDENDUM #1', dotted on all seven reissued sheets (G0-00, LS1-10, C1, GD, A1-20, A2-10, A10-30). Delta 'A' marker sits on the index itself.",
+            "affects_packages": "ALL",
+            "consequence": "THIS is the change to G0-00. The revised index is the authoritative, complete list of which sheets carry an Addendum #1 revision -- more complete than the addendum's own narrative section 5.01, which names only five. Use this index to validate every drawing citation's revision field."
+          }
+        ],
+        "unchanged_but_still_authoritative": [
+          "Deferred Submittals list unchanged: PRESSBOX / BLEACHERS / SCOREBOARD / GOAL POST STRUCTURAL DESIGN. Goal Post structural/footing design resolved to RFP-030 by PM 07.31.26.",
+          "Project narrative lists sports field improvements: field lights, scoreboard, home bleachers and pressbox, turf and track, shot put and discus, concessions and restrooms, ticket booth. Concession stand is ~2,800 SF rectangular CMU.",
+          "Owner project number PWP #NY-2022-200 -- useful for prevailing wage / public works filings.",
+          "Project team: KNIT (architect), Taney Engineering (civil), SLA Land Architects (landscape), IMEG (structural), HPA Consulting Engineers (MEP)."
+        ],
+        "packages_citing_dead_revision": ["ITB-089", "RFP-094"],
+        "resolved_by_pm": "Goal Post structural/footing design belongs to RFP-030 Concrete (PM ruling 07.31.26, corroborated by RFP-030's own scope doc: 'Athletic Equipment footings (including football goal posts, high jump posts, etc.)')."
+      },
+      {
+        "sheet": "LS1-10",
+        "title": "CODE AND EXITING PLAN",
+        "announced_in_addendum": true,
+        "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Architectural Sheets (ADD 1).pdf p.2",
+        "overlay_diff": [
+          {
+            "element": "Code Analysis block -- FIRE ALARM",
+            "revised": "Still reads 'FIRE ALARM: NO' on the ADDENDUM #1 revision dated 05.06.26",
+            "affects_packages": ["RFP-103"],
+            "_CONFLICT": "Clarification No.1 RFI #4, answered 05/05/26 -- one day BEFORE this sheet was reissued -- states a fire alarm system IS required, and asks whether it ties back to the campus/high school FAP. The current revision of the code sheet still says NO. This is a live contradiction between the newest drawing and the clarification, on a scope item worth real money to RFP-103 (Electrical & Low Voltage). FLAG FOR PM -- do not write RFP-103's Attachment A until resolved.",
+            "note": "RFI #4 cites sheet 'LS1-01'; the drawing set contains LS1-10 and LS1-11. Likely a typo for LS1-10, but confirm."
+          },
+          {
+            "element": "Plan area near grid 3",
+            "revised": "Delta 'A' revision marker present; exact geometric change not isolated",
+            "affects_packages": ["RFP-060", "ITB-074"],
+            "status": "Marker located, specific change not yet pinned. Needs a close side-by-side against base p.3 of Vol 1 before RFP-060/ITB-074 scope is written."
+          }
+        ],
+        "unchanged_but_still_authoritative": [
+          "ROOF CLASSIFICATIONS PER IBC 1505.1: MINIMUM CLASS C ROOF COVERING MATERIAL (RFP-045).",
+          "Symbol legend defines FEB (fire extinguisher bracket) and KFEB (bracket mounted, kitchen) -- the fire-extinguisher content for ITB-074, whose spec section 10 44 13 does not exist in the manual.",
+          "AUTOMATIC SPRINKLER SYSTEM: NO. Type VB construction, Group E occupancy, occupant load 110.",
+          "Plumbing fixture counts (RFP-098): required WC/LAV M 4/2, F 7/2, DF 1, SS 1; provided M 7/5, F 8/6, DF 2, SS 1."
+        ],
+        "packages_citing_dead_revision": ["ITB-074", "RFP-045"]
+      },
+      {
+        "sheet": "C1",
+        "title": "COVER",
+        "announced_in_addendum": true,
+        "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Civil Sheets (ADD 1).pdf p.1",
+        "overlay_diff": "PARTIAL -- text-compared only, not yet visually overlaid. Text carries legal description, NDOT benchmark/basis of bearing, developer (KNIT) and engineer (Taney) blocks, utility disclaimer, and a construction access point note reading 'THE DESIGNATED CONSTRUCTION ACCESS POINT SHALL BE XXXXX' -- an unfilled placeholder in the issued document, worth flagging to PM for RFP-008 site logistics. Visual overlay still required.",
+        "packages_citing_dead_revision": ["RFP-008"]
+      },
+      {
+        "sheet": "GD",
+        "title": "GRADING DETAILS",
+        "announced_in_addendum": true,
+        "revised_location": "06-addenda/Addendum #1 (05.06.26)/Revised Civil Sheets (ADD 1).pdf p.2",
+        "overlay_diff": [
+          {
+            "element": "Detail A - TRACK (west side) and Detail B - TRACK (east side)",
+            "revised": "Red revision cloud + delta 'A': 'TRACK DESIGNED BY OTHERS, 4\" AC OVER TYPE II'",
+            "affects_packages": ["RFP-008", "RFP-021"],
+            "consequence": "Pins the track subbase build-up: RFP-008 places 4\" AC over Type II aggregate; RFP-021 surfaces the track on top ('designed by others'). Implements Clarification No.1 RFI #6."
+          },
+          {
+            "element": "Detail C - FOOTBALL FIELD WITH MOW CURB",
+            "revised": "Red revision cloud + delta 'A': '4\" TYPE II AGGREGATE (FOOTBALL FIELD SURFACE AND SUBSURFACE TYPE DESIGNED BY OTHERS)'",
+            "affects_packages": ["RFP-008", "RFP-022"],
+            "consequence": "Confirms the RFI #14 handoff -- RFP-008 provides compacted subgrade and gravel subbase, RFP-022 takes it from geotextile up."
+          },
+          {
+            "element": "Detail L - ASPHALT PAVING SECTION",
+            "revised": "Red revision cloud + delta 'A': '4\" TYPE II AC PAVEMENT SURFACE TYPE AND FINISH PER ARCHITECTURAL PLANS'",
+            "base": "Labeled concrete",
+            "affects_packages": ["RFP-008", "RFP-030"],
+            "consequence": "Implements Clarification No.1 RFI #2 -- Detail L changed from CONCRETE to ASPHALT. Work moves from RFP-030 to RFP-008. Any scope written from the base sheet puts this in the wrong package."
+          }
+        ],
+        "unchanged_but_high_value": [
+          "Detail J 'INLINE DRAINAGE STRUCTURE' carries a full SPECIFICATION CLAUSE for ACO Polymer Products SYSTEM 3000 / ACO SPORT channel drain (polymer concrete, 14,000 PSI compressive, 4.25\" internal width, interlocking male/female joint, complete system by ACO or warranty void). This is the basis-of-design for the slot/trench drain the PM assigned to RFP-030, and RFP-030 has no other spec source for it -- cite directly.",
+          "Detail # 'TYPICAL FIELD TRENCH' -- 8\" HDPE perforated storm drain, non-woven geotextile (Mirafi 140N or equal), 3/4\" clean crushed angular stone, scarified/compacted subgrade at 90%. Supports RFP-022's storm drainage alternate.",
+          "Detail K '8\" PERFORATED HDPE STORM DRAIN SYSTEM - NYLOPLAST DRAIN'.",
+          "Detail I 'WEST BLEACHER ADA RAMP' -- relevant to RFP-094 and RFP-030.",
+          "Details F/G/H -- driving range access road, north and south swales (RFP-008)."
+        ],
+        "packages_citing_dead_revision": ["RFP-008", "RFP-021", "RFP-022"],
+        "pm_note": "PM ruling (worksheet row 22): concrete curb and slot/trench drains at track perimeter belong to RFP-030, corroborated by RFP-030's scope doc citing detail D/L1.03. Note the trench-drain BASIS OF DESIGN lives on this sheet (Detail J), not in any spec section."
+      }
+    ]
+  },
+
+  "clarification_1": {
+    "date": "2026-05-06",
+    "file": "06-addenda/Clarification No. 1 (050626).pdf",
+    "rfi_log": "06-addenda/Responses to RFIs (CLAR 1).pdf",
+    "status": "RFI log read; individual RFI responses to be mapped to packages during the re-index.",
+    "key_overrides": [
+      {
+        "rfi": 1,
+        "subject": "Parking Area Paving",
+        "response": "Disregard G1 Note 1. No paving at parking area or driveway -- graded earth only. Only asphalt paving is at the running track per detail J/GD.",
+        "affects_packages": ["RFP-008", "RFP-021"],
+        "overrides": "Drawing G1 Note 1"
+      },
+      {
+        "rfi": 2,
+        "subject": "Paving Section",
+        "response": "Drawing GD Detail L changed from concrete to asphalt.",
+        "affects_packages": ["RFP-008", "RFP-030"],
+        "overrides": "Drawing GD Detail L"
+      },
+      {
+        "rfi": 3,
+        "subject": "Locker Specs",
+        "response": "BOD: ASI Storage Solutions, LLC, PRO Collection. Configuration: Security Box and Foot Locker. Width 24\", Depth 18\", Enclosed Locker Height 72\". Color Black #11. Heavy-duty formed sheet metal, edges finished smooth without burrs. Ventilation: diamond-perforated side openings. Accessories: shelf, wall hook, coat rod.",
+        "affects_packages": ["ITB-077"],
+        "overrides": "Base-bid A10-30 keynote 9-08",
+        "_RESOLVED_BY_PM_2026_07_31": {
+          "ruling": "RFI #3 was issued with the Addendum and IS a contract document. It holds the subcontractor responsible and contains all information needed. No further clarification required -- this is NOT a gap.",
+          "consequence_for_ITB_077": "RFI #3 is the governing basis-of-design and specification for ITB-077 Lockers: ASI Storage Solutions LLC, PRO Collection, Security Box and Foot Locker configuration, 24\"W x 18\"D x 72\"H enclosed height, Color Black #11, heavy-duty formed sheet metal with edges finished smooth without burrs, diamond-perforated side ventilation, accessories shelf / wall hook / coat rod. Cite RFI #3 directly in Attachment A -- do not treat the missing spec section 10 51 13 as an open item.",
+          "supersedes_note": "The deleted base-bid keynote (COMPETITOR Collection, 15'W) is dead and must not be cited."
+        }
+      },
+      {
+        "rfi": 4,
+        "subject": "Fire Alarm System",
+        "response": "Fire alarm required (LS1-01 said NO FIRE ALARM; E0-01 included it). Response confirms required.",
+        "affects_packages": ["RFP-103"],
+        "overrides": "Sheet LS1-01",
+        "verbatim_response": "Fire Alarm required per code. See Sheet E3-00 for tie-in to existing FAP at existing High School",
+        "_PM_DIRECTION_2026_07_31": {
+          "ruling": "There is NO fire alarm system.",
+          "basis": "Verbally confirmed with the design team. Formal written instrument (ASI / clarification) is FORTHCOMING and not yet in hand as of 07.31.26.",
+          "index_treatment": "Index proceeds on the basis of NO fire alarm system. RFP-103 does not carry a fire alarm system, devices, conduit, wire, cable, or tie-in to the existing High School FAP.",
+          "_OPEN_ITEM": {
+            "status": "Scope question is DECIDED -- no fire alarm. The only thing outstanding is the paperwork, which the PM has confirmed is forthcoming.",
+            "action": "Insert the ASI/Clarification number into RFP-103's Attachment A exclusion language once issued. When it arrives, confirm it supersedes all three documents listed below, not only RFI #4.",
+            "attachment_a_language_required": "Fire alarm system is EXCLUDED from this package. Notwithstanding Clarification No.1 RFI #4, Sheet E0-01 General Note 81, and Sheet E3-00 Keynote 5, no fire alarm system, devices, conduit, wire, cable, or tie-in to the existing High School fire alarm panel is required under this Subcontract, per [ASI/Clarification No. ___ , date ___ ] to be inserted upon issuance.",
+            "owner": "PM",
+            "status": "AWAITING FORMALIZATION"
+          }
+        },
+        "_DOCUMENT_EVIDENCE_ON_RECORD": {
+          "status": "Retained so the forthcoming ASI can be checked against everything it must supersede. The ASI needs to void all three of the documents below, not just one.",
+          "documents_requiring_a_fire_alarm": [
+            "Clarification No.1 RFI #4, answered by KNIT 05/05/26: 'Fire Alarm required per code. See Sheet E3-00 for tie-in to existing FAP at existing High School.' Per PM's own 07.31.26 ruling, RFI responses issued with the Addendum ARE contract documents that hold the subcontractor responsible.",
+            "Sheet E3-00 (Overall Technology Site Plan, Vol 2 p.37) keynote 5: 'ROUTE TO LOCATION OF EXISTING FIRE ALARM PANEL IN OFFICE' -- the tie-in the RFI points to actually exists on the drawing.",
+            "Sheet E0-01 (Electrical General Notes, Vol 2 p.24) note 81: 'FIRE ALARM SYSTEM. CONTRACTOR SHALL PROVIDE DEVICES, CONDUIT, WIRES AND CABLE AS DIRECTED BY...' plus note 80 'FIRE ALARM' and conduit color-code 'E. FIRE ALARM - RED'."
+          ],
+          "documents_stating_no_fire_alarm": [
+            "Sheet LS1-10 (Code and Exiting Plan), ADDENDUM #1 revision dated 05.06.26, Code Analysis block: 'FIRE ALARM: NO'. Same block also lists 'AUTOMATIC SPRINKLER SYSTEM: NO' and 'STATE FIRE MARSHAL: SFM (NAC 477: NEVADA STATE FIRE MARSHAL)'. Occupancy Group E, Type VB, occupant load 110."
+          ],
+          "exposure": "Three-to-one against the no-fire-alarm reading, and the one supporting document is a code-analysis summary block rather than a scope drawing. If RFP-103's subcontract excludes the fire alarm and the State Fire Marshal requires it on a Group E occupancy, this becomes a change order on a life-safety system during construction.",
+          "required_action_either_way": "Whichever way this lands, the documents must be reconciled rather than left contradictory. If NO fire alarm: obtain an ASI or written clarification voiding RFI #4, E0-01 note 81 and E3-00 keynote 5, and write an explicit exclusion into RFP-103's Attachment A. If fire alarm IS required: LS1-10's code block needs correcting and RFP-103 carries the system including tie-in to the existing High School FAP."
+        }
+      },
+      {
+        "rfi": 5,
+        "subject": "Scoreboard",
+        "response": "Model FB-2022 discontinued; Basis of Design changed to FB-2021 (sheet A1-20).",
+        "affects_packages": ["ITB-089"],
+        "overrides": "Base-bid A1-20 Site Equipment Matrix"
+      },
+      {
+        "rfi": 6,
+        "subject": "Running track asphalt",
+        "response": "Designed by others (RFP-021); asphalt to be 4\" Type II installed under package 008.",
+        "affects_packages": ["RFP-008", "RFP-021"]
+      },
+      {
+        "rfi": 14,
+        "subject": "Turf subbase",
+        "response": "Finished subgrade (compacted earth) and gravel subbase by SOW 008; turf sub (RFP-022) provides geotextile underlayment up.",
+        "affects_packages": ["RFP-008", "RFP-022"]
+      },
+      {
+        "rfi": 18,
+        "subject": "Gate locking device",
+        "response": "Located in Section 08 71 00 art. 2.04, cross-referenced with Section 32 31 13 art. 2.04.",
+        "affects_packages": ["ITB-056", "RFP-023"]
+      },
+      {
+        "rfi": 23,
+        "subject": "Roof spec conflict",
+        "response": "Metal roofing spec 07 61 00 (MBCI PBR panel BOD) takes precedence over plan callout of Berridge Cee-lock standing seam.",
+        "affects_packages": ["RFP-045"],
+        "overrides": "Plan callout"
+      },
+      {
+        "rfi": 25,
+        "subject": "Eave sheathing",
+        "response": "Sheet A4-20: assume 5/8\" Dens Glass, no wood, at all eaves.",
+        "affects_packages": ["RFP-045", "RFP-060"],
+        "overrides": "Sheet A4-20"
+      }
+    ]
+  },
+
+  "clarification_2": {
+    "date": "2026-05-07",
+    "file": "06-addenda/Clarification No. 2 (050726).pdf",
+    "scope": "Contract-wide, applies to ALL 33 packages -- not a drawing change.",
+    "changes": [
+      {
+        "item": "PREVAILING WAGES",
+        "action": "Section in RFP and ITB documents replaced in its entirety.",
+        "content": "Project subject to prevailing wage rates (CL-2026-100). Refer to NV Labor Commissioner website for current rates. Current prevailing wage rates must be included in bid.",
+        "_FLAG": "Clarification No. 2 text says to use CLARK COUNTY prevailing wage rates. CLAUDE.md records the project as Southern Nevada RURAL Region, and the project is in Nye County, not Clark County. Verify which rate schedule governs before any subcontract is issued -- this is a direct cost and compliance exposure on all 33 packages."
+      },
+      {
+        "item": "SPECIAL PROVISIONS - APPRENTICESHIP UTILIZATION ACT (SB 82)",
+        "action": "Section in RFP and ITB documents replaced in its entirety.",
+        "affects_packages": "ALL"
+      }
+    ]
+  },
+
+  "other_files": [
+    {
+      "file": "06-addenda/Contour_Map_South_EastHampton.pdf",
+      "status": "No extractable text (1 page, graphic only). Filename references 'South EastHampton' which does not obviously relate to Tonopah -- verify relevance with PM before citing.",
+      "affects_packages": ["RFP-008"]
+    }
+  ]
+}

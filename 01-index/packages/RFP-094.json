@@ -1,0 +1,318 @@
+{
+  "_package_id": "RFP-094",
+  "_title": "Bleachers & Press Box",
+  "_title_variants_in_source": [
+    "Bleacher & Press Box (SUPPLY)"
+  ],
+  "_list": "1% (RFP \u2014 NRS 338.16995)",
+  "_generated": "2026-08-06",
+  "_how_to_use": "Pointers plus bidder scope language. OPEN the scope narrative, the spec sections and the sheets -- do not draft from this record's titles alone. Do NOT enumerate drawings in the exhibit; the sheet lists here tell you what to read, not what to write.",
+  "document_authority_hierarchy": [
+    "1. Addenda & Clarifications supersede everything they touch. Addendum #1 (05.06.26) reissued G0-00, LS1-10, A1-20, A2-10, A10-30, C1 and GD. Exhibit B Basis of GMP (07.01.26) is a contract document treated as an addendum (PM ruling 08.04.26).",
+    "2. The Scope of Work narrative decides WHICH PACKAGE carries an item. It is the trade-boundary authority.",
+    "3. Specifications decide HOW the work is executed.",
+    "4. Drawings show extent and location. Weakest authority for assignment.",
+    "Subcontractor proposals are NOT in this hierarchy. They surface the assumptions a bidder made and expose gaps. Where a proposal contradicts a contract document, FLAG it -- never silently adopt the proposal's position or narrow the subcontract to match it. Ignore general/boilerplate exclusions."
+  ],
+  "scope_narrative": {
+    "file": "00-source-docs/02-trade-scopes-bidform/_extracted/Scope of Work - 094 Bleachers & Press Box.txt",
+    "note": "PRIMARY trade-boundary authority. Read this first and in full."
+  },
+  "removed_by_owner": null,
+  "combined_subcontract": null,
+  "spec_sections": {
+    "primary": [
+      {
+        "section": "13 34 23",
+        "title": "Fabricated Shade Structures",
+        "basis": "scope_doc",
+        "rationale": "Cited solely by RFP-094. This is a generic fabricated-structures section standing in for the bleacher-specific section the scope doc cites (13 12 50), which does not exist in this manual. Applies to the press box; the bleachers themselves rely on the written spec block on sheet A1-40.",
+        "manual_pages": "273-274",
+        "division_pdf": "00-source-docs/04-specs-reports/spec-manual-split/div-13-special-construction.pdf",
+        "conflict": false,
+        "also_cited_by": []
+      }
+    ],
+    "added_by_pm_ruling": [],
+    "flow_down_from_other_packages": [
+      {
+        "section": "03 30 00",
+        "title": "Cast-In-Place Concrete",
+        "primary_package": "RFP-030",
+        "note": "Every package with equipment on a footing cites it; RFP-030 builds them all."
+      }
+    ],
+    "cited_by_this_scope_doc_but_absent_from_manual": {
+      "13 12 50": {
+        "title_per_scope_doc": "Permanent Outdoor Bleacher",
+        "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
+        "note": "Permanent Outdoor Bleacher. No bleacher section exists. Sheet A1-40 carries a written 'PRE-MANUFACTURED ALUMINUM BLEACHERS SPECS' block that must be quoted into Attachment A in its place. 13 34 23 Fabricated Shade Structures covers the press box only.",
+        "carried_by": "RFP-094",
+        "ownership_ruling": "The only specifications available are the written blocks on sheet A1-40 (PRE-MANUFACTURED ALUMINUM BLEACHERS / PRESS BOX SPECS).",
+        "how_to_write_it": "Do NOT cite 13 12 50. Put the words \"Permanent Outdoor Bleacher\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
+        "candidates": []
+      }
+    },
+    "division_00_01": "Bind every subcontract; not listed per package."
+  },
+  "drawings": {
+    "_warning": "RETRIEVAL ONLY. Never reproduce a sheet list in the exhibit.",
+    "draft_from": [
+      {
+        "sheet": "A1-13",
+        "title": "ENLARGED SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-13.txt"
+      },
+      {
+        "sheet": "A1-20",
+        "title": "SITE DETAILS",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/A1-20.txt"
+      },
+      {
+        "sheet": "A1-40",
+        "title": "BLEACHERS AND PRESS BOX",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/A1-40.txt"
+      },
+      {
+        "sheet": "AD1-10",
+        "title": "SITE DEMO PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/AD1-10.txt"
+      },
+      {
+        "sheet": "E0-00",
+        "title": "ELECTRICAL COVER SHEET",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-00.txt"
+      },
+      {
+        "sheet": "E0-03",
+        "title": "SINGLE LINE DIAGRAM, PANEL SCHEDULE, AND LIGHTING FIXTURE SCHEDULE",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E0-03.txt"
+      },
+      {
+        "sheet": "E1-10",
+        "title": "ELECTRICAL SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E1-10.txt"
+      },
+      {
+        "sheet": "E3-00",
+        "title": "OVERALL TECHNOLOGY SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-00.txt"
+      },
+      {
+        "sheet": "E3-10",
+        "title": "TECHNOLOGY SITE PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/E3-10.txt"
+      },
+      {
+        "sheet": "G1",
+        "title": "GRADING PLAN 1",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G1.txt"
+      },
+      {
+        "sheet": "G2",
+        "title": "GRADING PLAN 2",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/G2.txt"
+      },
+      {
+        "sheet": "L1.01",
+        "title": "LANDSCAPE CONSTRUCTION PLAN",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/L1.01.txt"
+      },
+      {
+        "sheet": "LS1-10",
+        "title": "CODE AND EXITING PLAN",
+        "revision": "ADDENDUM #1 (05.06.26)",
+        "file": "01-index/sheets/LS1-10.txt"
+      },
+      {
+        "sheet": "P0-05",
+        "title": "PLUMBING SCHEDULES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-05.txt"
+      },
+      {
+        "sheet": "P0-10",
+        "title": "PLUMBING DIAGRAMS",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/P0-10.txt"
+      },
+      {
+        "sheet": "S0-00",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-00.txt"
+      },
+      {
+        "sheet": "S0-01",
+        "title": "GENERAL NOTES",
+        "revision": "BID DOCS (04.20.26)",
+        "file": "01-index/sheets/S0-01.txt"
+      }
+    ],
+    "leads_to_verify": [
+      "A1-12",
+      "G0-00",
+      "L0.00",
+      "L0.01",
+      "S3-00"
+    ]
+  },
+  "awarded_sub": {
+    "title": "Bleachers & Press Box",
+    "awarded_sub": null,
+    "status": "NOT YET AWARDED as of 1% Subcontractor Listing (05.27.26)",
+    "bid_tab_bidders": [
+      "American Press Box (Whitley Manufacturing) -- NO BID",
+      "California Bleachers (Nata Construction) -- SUPPLY ONLY, $395,379",
+      "Great Western Installations -- TBD, no price"
+    ],
+    "descope_files_present": true,
+    "descope_file_hint": "094 Bleachers & Press Box - California Bleachers NATA (Descope Qs).pdf; Cali. Bleachers Scope Review Meeting Agenda.docx -- descope activity exists for California Bleachers even though no award is reflected yet in the 1% Listing",
+    "note": "Draft from generic RFP/spec scope until a subcontractor is confirmed. Flag to PM: California Bleachers proposal is SUPPLY ONLY per bid tab -- if awarded, Attachment A will need an install-scope split (who installs if California Bleachers only supplies)."
+  },
+  "bidders": [
+    {
+      "firm": "Cali. Bleachers",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/Cali. Bleachers Homeowork Response.pdf.txt",
+      "current_date": "2026-05-29",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "homework_response",
+      "price": null,
+      "inclusions": [
+        "Roof is a 1/8th inch steel plate",
+        "Elastomeric coating for water proofing",
+        "All the seams are welded together",
+        "Exterior panels are welded down to support members (Corrugated panels)",
+        "Only penetration will be at the roof for outlets on roof",
+        "Assume all penetrations to be brought up from the floor.",
+        "No slab is required",
+        "Assume 6 footings at 6'x6'x15\"",
+        "Assume 3 penetration through the roof",
+        "Roof hatch and access ladder is included",
+        "Electrical - Includes junctions boxes in the front wall (in the wall)",
+        "Includes all interior lighting, fixtures and switches (includes wire)",
+        "Provide power requirements",
+        "Low Volt - Included in the floor junction box stub up",
+        "Lead time - 10 week lead time assume June 2027 install",
+        "2 day install assume crane and structure is ready",
+        "Includes Vinyl faced sheet rock as interior finish",
+        "Includes ceiling is R19 finish",
+        "Includes Flooring is R19 insulation",
+        "Includes footing and structure engineering",
+        "Includes panel board (Assume 100 amp panel)",
+        "Includes through wall AC/Heater unit"
+      ],
+      "exclusions_scope_specific": [
+        "Sequence of press box and bleacher can be coordinated",
+        "(Press box to be installed first)"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    },
+    {
+      "firm": "California Bleachers NATA",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Cali. Bleachers Scope Review Meeting Agenda.docx.txt",
+      "current_date": "2026-05-19",
+      "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/094 Bleachers & Press  Box - California Bleachers NATA (Descope Qs).pdf.txt"
+      ],
+      "undated_not_sequenced": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (Images+Video).pdf.txt"
+      ],
+      "kind": "scope_review_agenda",
+      "price": null,
+      "inclusions": [
+        "Assumes 87ft bleacher height",
+        "Assume slab for bleachers, below frost line",
+        "Assume concrete going up for the ramp",
+        "Bleachers are tied to the press box",
+        "Assume 8 footings for press box",
+        "Assume one unit for the press box to be installed by crane",
+        "Press box roof is walkable with fencing around",
+        "Press box includes vinyl frame windows, partitions, vinyl-coated gypsum board, vinyl plank flooring on plywood, steel counter-top, fencing on the roof, grid ceiling, mini-split, and outlet receptacle",
+        "Includes ADA ramp, handrail, and seating",
+        "Includes 343 total seats",
+        "Includes hardware",
+        "Includes design for slab for bleachers",
+        "Includes anchor bolts",
+        "Includes exterior corrugated metal for press box"
+      ],
+      "exclusions_scope_specific": [
+        "Only for supply. No Nevada contractor license",
+        "Deviations from specifications",
+        "Deviations from plans or details",
+        "Specific or Unique scope",
+        "Scope holes from past experience on this type of project",
+        "Inclusions or assumptions to cover grey areas in the scope",
+        "Excludes ticket booth",
+        "Excludes fencing and gate on the bottom sides"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": [],
+      "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/094 Bleachers & Press  Box - California Bleachers NATA (Descope Qs).pdf.txt",
+          "date": "2026-05-19",
+          "inclusions": [
+            "\u2022 Includes 343 total seats"
+          ],
+          "exclusions_scope_specific": [],
+          "priced_line_items": []
+        }
+      ]
+    },
+    {
+      "firm": "Nata Construction, Inc. DBA California Bleachers",
+      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/094 Bleachers & Press  Box - California Bleachers NATA (backup, no Form) (SUPPLY).pdf.txt",
+      "current_date": "2026-05-12",
+      "superseded_documents": [],
+      "undated_not_sequenced": [],
+      "kind": "proposal",
+      "price": 395379,
+      "inclusions": [
+        "INCLUDES COMPLETE INSTALL OF PRESS-BOX (STRUCTURE AND SETTING)",
+        "INCLUDES INSTALL OF ALL RAMPS AND STAIRS",
+        "INCLUDES ANCHORING PER MANUFACTURE APPROVED SPECS/DIRECTIONS"
+      ],
+      "exclusions_scope_specific": [
+        "QUOTE NO.",
+        "EXCLUDES CONCRETE FOUNDATION WORK (BLEACHER / PRESS-BOX)",
+        "EXCLUDES ANY SITE PREP WORK"
+      ],
+      "clarifications": [],
+      "priced_line_items": [],
+      "priced_scope_groups": []
+    }
+  ],
+  "bidder_note": "Read EVERY bidder, not only the awarded sub. A losing bidder's clarification is often the clearest signal of what the documents left ambiguous, and is a primary source of Attachment A inclusions.",
+  "gmp_basis_exhibit_b": {
+    "_authority": "Contract document, treated as an addendum (PM ruling 08.04.26).",
+    "scope_assumptions": [
+      "Low voltage junction boxes, only (Low Voltage systems by 103 Electrical & Low Voltage Systems).",
+      "26 gauge sheet metal siding over steel framing.",
+      "Gypsum wall board at interior face of walls, vinyl faced, with R-13 insulation.",
+      "R-19 insulation at floor & roof.",
+      "Roof to be 1/8\" thick steel plate, fully welded, with elastomeric coating, flashing and sealants as required around perimeter where meets vertical siding system.",
+      "100A breaker panel."
+    ],
+    "possibly_relevant_exclusions": [],
+    "prevailing_wage": "2025-2026 SOUTHERN NEVADA RURAL REGION prevailing wage rates.",
+    "sales_tax": "Includes Nevada State Sales Tax."
+  },
+  "open_pm_items": []
+}

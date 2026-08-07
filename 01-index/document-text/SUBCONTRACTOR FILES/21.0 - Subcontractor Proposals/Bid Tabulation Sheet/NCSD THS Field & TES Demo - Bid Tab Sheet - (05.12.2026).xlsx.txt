@@ -1,0 +1,295 @@
+=== SHEET: Bid Tab (02.24.2026) ===
+		BID TABULATION SHEET
+		NCSD Tonopah High School Sports Field Replacement
+		2026-05-12 00:00:00
+	Trade Description	Name of Subcontractor	Addendum #1	Clarification #1	Clarification #2	Clarification #3		Proposal Price
+	Abatement & Building Wrecking
+		Action Solutions	False	False	False	False		304455
+		Earth Resource Group	False	False	False	False		337395
+		Environmental Protection Services	False	False	False	False		40000
+		GGG Demolition	False	False	False	False		1256279
+		Northstar Contracting Group	False	False	False	False		718623
+	Site Demo/Clearing, Salvage, Earthwork, Asphalt Pavement, & Wet Utilities
+		NDX	False	False	False	False		1924851
+		New-Com (TAB Contractors)	False	False	False	False		3152033
+		The Monument Company	False	False	False	False		2296000
+	Landscaping & Irrigation
+		Black Canyon Construction	False	False	False	False		111275
+		Brightview Landscape	False	False	False	False		131300
+		Sprinturf	False	False	False	False		1022155
+		Tand	False	False	False	False		256800
+	Running Track Surfacing
+		Great Western Installations	False	False	False	False	TBD	-
+		Elite Sports Builders	False	False	False	False		434504
+		The Monument Company	False	False	False	False		756154
+				False	False	False
+	Synthetic Turf Sports Field
+		AstroTurf Corporation	False	False	False	False		609151
+		CG&B Enterprises	False	False	False	False		1139000
+		Green Living Services	False	False	False	False		1277013
+		Tand	False	False	False	False		799600
+		The Monument Company	False	False	False	False		1281315
+	Fencing & Gates
+		All 5's Construction	False	False	False	False		399056
+		Fencing Specialists	False	False	False	False		355724
+		Golden Bay Fence Plus Iron Works	False	False	False	False		359360
+		Red Star Fence	False	False	False	False		199500
+		Tahoe Fence Co.	False	False	False	False		215392
+		Tiberti Fence Co.	False	False	False	False		277984
+				False	False	False
+	Concrete
+		Cheek Construction	False	False	False	False		1294656
+		Sahara Concrete	False	False	False	False		1518456
+		The Monument Company	False	False	False	False		1113208
+		XL Concrete Masonry	False	False	False	False		1605417
+	Masonry
+		Henderson Masonry	False	False	False	False		189449
+		John Jackson Masonry	False	False	False	False		425394
+		Kemper Masonry	False	False	False	False		355230
+		XL Concrete Masonry	False	False	False	False		267417
+	Structural Steel & Ornamental Metals
+		Adams & Smith	False	False	False	False		282164
+		Corona Steel	False	False	False	False		145468
+	Metal Roofing, Fascia & Soffit Panels
+		Canyon State Enterprises	False	False	False	False		49700
+		Foursquare Roofs & Walls	False	False	False	False	(EMAILED)	135698
+		The Original Roofing Company (TORC)	False	False	False	False	TBD	-
+	Framing, Drywall & Painting
+		Division 09	False	False	False	False		180942
+		Jetstream	False	False	False	False		257848
+		M&H Building Specialties	False	False	False	False		275259
+	Bleachers & Pressbox
+		American Press Box (Whitley Manufacturing)	False	False	False	False	NO BID	-
+		California Bleachers (Nata Construction)	False	False	False	False	(SUPPLY)	395379
+		Great Western Installations	False	False	False	False	TBD	-
+	Plumbing Systems
+		Bombard Mechanical	False	False	False	False		390755
+		J.W. McClenahan Co.	False	False	False	False		515000
+		Universal Plumbing & Heating	False	False	False	False		375000
+		US Mechanical	False	False	False	False		383000
+	HVAC & Building Controls Systems
+		Bombard Mechanical	False	False	False	False		321320
+		Sunrise Air Systems	False	False	False	False		285228
+		US Mechanical	False	False	False	False		241300
+	Electrical & Low Voltage Systems
+		Conti	False	False	False	False		1402936
+		JW Electric	False	False	False	False		807250
+		Kill A Watt	False	False	False	False		2033200
+		Quantum Electric	False	False	False	False		937714
+		Wheeler's Electric	False	False	False	False		1286010
+	Prefabricated Ticket Booth
+		American Press Box (Whitley Manufacturing)	False	False	False	False	NO BID	-
+		Guardian Booth	False	False	False	False	(SUPPLY)	74763
+		Par-Kut International	False	False	False	False	(SUPPLY)	21635
+		Porta-King Building Systems	False	False	False	False	(SUPPLY)	17019
+	CMAR	Dawn Duranleau	Owner Representative:	Dawn Duranleau			Owner
+	Representative:	Name (Print)		Name (Print)			Representative:	Name (Print)
+		Signature		Signature				Signature
+		2026-05-12 00:00:00		00:00:00				2026-05-12 00:00:00
+		Date		Date				Date
+	Other Attendee:		Other Attendee:
+		Signature		Signature
+	Other Attendee:		Other Attendee:
+		Signature		Signature
+=== SHEET: Bid Tab - Phase 2 ===
+	BID TABULATION SHEET
+	The Shaquille O'Neal Foundation Youth Development Complex - PHASE 2
+	2025-04-09 00:00:00
+	Trade Description	Name of Subcontractor	Contact	Phone 	Email	Qualified per NRS	Attend Site Walk	Bid Bond	Addendum #1	Clar. #x	Proposal Price
+	Surveying							N/A
+								N/A
+								N/A
+								N/A
+								N/A
+								N/A
+	Wet Utilities	JBM Underground	Jerrad Martin	(702) 696-1362	jmartin@jbmunderground.com			N/A
+		TAND Inc.	Don Meyers	(702) 889-4676	dmyers@tandinc.com			N/A
+		Urban Jungle Contractors Ltd.	Mike Bird	(702) 293-1427	mbbird@embarqmail.com			N/A
+	Landscaping	Amazon Masonry DBA AMI Landscape	Chad Norton	(702) 253-1105	cnorton@amazonconstruction.com			N/A
+		TAND, Inc.	Mike Barney	(702) 889-4676	mbarney@tandinc.com			N/A
+		T.M. Barth Landscape Construction	Tom Barth	(702) 876-2577	Tom@tmbarthlandscape.com			N/A
+		Southwest Lawn Shaping	Nick Crockett	(702) 515-7514	nick@southwestlawnshaping.com			N/A
+		Instant Jungle / Jungle Fever	Launa Spendlove	(702) 367-9453	Instantjunglelv@aol.com			N/A
+	Playground Equipment							N/A
+								N/A
+								N/A
+								N/A
+								N/A
+								N/A
+	Fabric Shade Structures							N/A
+								N/A
+								N/A
+								N/A
+								N/A
+								N/A
+	Exterior Scoreboard & Bleachers							N/A
+								N/A
+								N/A
+								N/A
+								N/A
+								N/A
+	Athletic & Play Surfacing							N/A
+								N/A
+								N/A
+								N/A
+								N/A
+								N/A
+	Fencing & Gates							N/A
+								N/A
+								N/A
+								N/A
+								N/A
+								N/A
+	Concrete	Design Concrete of NV	Don Dawley	(702) 655-1019	don@dcinevada.com			N/A
+		Frazier Masonry Corporation	Chad Stepanek	(702) 432-2902	ChadS@Fraziermasonry.com 			N/A
+		WGDL	Warren Hafen	(702) 361-9734	warren-wgdl@earthlink.net			N/A
+		JPM Construction LLC	John Malony	(702) 367-6117	jpm.johnmalony@gmail.com			N/A
+	Masonry	Amazon Masonry DBA AMI Landscape	Jim Altwegg	(702) 248-4866	jaltwegg@amilv.com			N/A
+		Frazier Masonry Corporation	Chad Stepanek	(702) 432-2902	ChadS@Fraziermasonry.com			N/A
+		Hirschi Masonry	John Musser	(702) 399-2211	jmusser@hirschimasonry.com			N/A
+		Marnell Masonry	Chad Wallace/Greg Jorgensen	(702) 739-6701	marnell@marnellmasonry.com			N/A
+		Scott Zemp Masonry	Al Krshul	(702) 876-6750	scottzempmasonry@embarqmail.com			N/A
+		Henderson Masonry	Mike McComb	(702) 567-1536	mmccomb@hendersonmasonry.com			N/A
+		David Masonry	Charlie David	(702) 641-6883	masonrydavid@yahoo.com			N/A
+	Steel	Adams & Smith, Inc.	Porter Rockwell	(801) 785-6900	porter@adamsandsmith.com			N/A
+		Richardson Construction, Inc.	Lou Richardson	(702) 647-2200	lou@rclv.net			N/A
+		MDI Steel	Angelo Infante	(702) 450-2221	aei58@cox.net			N/A
+		Tandem Industries	Kevin Schaper	(702) 303-5410	kschaper@tandemlv.com			N/A
+	Dampproofing							N/A
+								N/A
+								N/A
+								N/A
+	Caulking, Sealants & Firestopping							N/A
+								N/A
+								N/A
+								N/A
+	Fire Proofing							N/A
+								N/A
+								N/A
+								N/A
+	Insulation							N/A
+								N/A
+								N/A
+								N/A
+	Membrane Roofing	Commercial Roofers	Dennis Perry	(702) 876-1777	dperry1@me.com			N/A
+		Noorda Sheet Metal Company	Lamar Noorda/Chad Shirley	(702) 651-1955	chad.shirley@noordametals.com			N/A
+		The Original Roofing Company	Larry Heilman/Toni Lumpkin	(702) 798-6757	toni@trclv.com			N/A
+	Metal Panels							N/A
+								N/A
+								N/A
+								N/A
+	EIFS							N/A
+								N/A
+								N/A
+								N/A
+	Aluminum, Glass & Glazing							N/A
+								N/A
+								N/A
+								N/A
+	Skylights							N/A
+								N/A
+								N/A
+								N/A
+	OH Doors							N/A
+								N/A
+								N/A
+								N/A
+	Doors, Frames & Hardware							N/A
+								N/A
+								N/A
+								N/A
+	Casework							N/A
+								N/A
+								N/A
+								N/A
+	Drywall & Painting							N/A
+								N/A
+								N/A
+								N/A
+	ACT							N/A
+								N/A
+								N/A
+								N/A
+	AWT							N/A
+								N/A
+								N/A
+								N/A
+	Tile							N/A
+								N/A
+								N/A
+								N/A
+	Carpet & Resilient Flooring							N/A
+								N/A
+								N/A
+								N/A
+	Concrete Finishing							N/A
+								N/A
+								N/A
+								N/A
+	Wood Flooring							N/A
+								N/A
+								N/A
+								N/A
+	Visual Display Boards							N/A
+								N/A
+								N/A
+								N/A
+	Signage							N/A
+								N/A
+								N/A
+								N/A
+	Building Accessories							N/A
+								N/A
+								N/A
+								N/A
+	Operable Partition							N/A
+								N/A
+								N/A
+								N/A
+	Window Shades							N/A
+								N/A
+								N/A
+								N/A
+	Interior Athletic Equipment							N/A
+								N/A
+								N/A
+								N/A
+	Fire Sprinkler							N/A
+								N/A
+								N/A
+								N/A
+	Plumbing	Big Town Mechanical LLC (HVAC also)	Carrie Burgess	(702) 382-3520	cburgess@bigtownmechanical.com			N/A
+		O'Rourke Plumbing	Pauline Dabbs	(702) 870-1053	estimating@ugincorporated.com			N/A
+		MMC Contractors West, Inc. (HVAC also)	Paul Salisbury	(702) 889-6800	estimatinglv@mmccontractors.com			N/A
+		Ryan Mechanical (HVAC also)	Kris Pool	(702) 631-7777	krispool@ryan-mechanical.com			N/A
+		US Mechanical - L.V. Office	Justun Bylund	(702) 870-9609	jbylund@usmechanicalllc.com			N/A
+		Universal Plumbing & Heating Co.	Brian Kerzetski	(702) 914-8100	bkerzetski@universalplumbing.net			N/A
+		Gallagher Plumbing	Tim Gallagher	(702) 597-9777	tim@gallagherplumbinglv.com			N/A
+	HVAC & Controls							N/A
+								N/A
+								N/A
+								N/A
+	TAB							N/A
+								N/A
+								N/A
+								N/A
+	Electrical & Low Voltage	American SW Elec	Jim Thomson	(702) 643-2900	asenec@aol.com			N/A
+		GSL Electric	Nathan Cartwright	(702) 364-5313	lvestimating@gslelectric.com			N/A
+		Helix Electric	Darren Vanderford	(702) 732-1188	dvanderford@helixElectric.com			N/A
+		Robco Electric	Chris Hybarger	(702) 614-4900	chris@robcoelectriclv.com			N/A
+		Brundage Electric Inc	James Brundage	(702) 568-9669	wired4excellence@aol.com			N/A
+		Robertson Bright Industries	Greg Crader	(702) 914-2290	gregc@rbigroup.net			N/A
+	Owner Representative:			CMAR Representative:
+		Name (Print)			Name (Print)
+		Signature			Signature
+		2025-04-09 00:00:00			2025-04-09 00:00:00
+		Date			Date
+	Architect Representative:			Other Attendee:
+		Name (Print)			Signature
+				Other Attendee:
+					Signature
+		Signature
+				Other Attendee:
+					Signature
+		2025-04-09 00:00:00
+		Date

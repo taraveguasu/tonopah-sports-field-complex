@@ -1,0 +1,883 @@
+
+===== PAGE 1 =====
+Nye County School District
+Bid Documents
+10 1100
+Tonopah HS Field Replacement
+Visual Display Units
+April 20, 2026
+Page 1 of 2
+SECTION 10 1100
+VISUAL DISPLAY UNITS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Porcelain enamel steel markerboards.
+1.02 REFERENCE STANDARDS
+A.
+ANSI A208.1 - American National Standard for Particleboard; 2022.
+B.
+ASTM A424/A424M - Standard Specification for Steel, Sheet, for Porcelain Enameling; 2018.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide manufacturer's data on markerboard, trim, and accessories.
+C.
+Maintenance Data: Include data on regular cleaning, stain removal .
+1.04 WARRANTY
+A.
+See Section 01 7800 - Closeout Submittals, for additional warranty requirements.
+B.
+Provide five year warranty for markerboard to include warranty against discoloration due to
+cleaning, crazing or cracking, and staining.
+PART 2 PRODUCTS
+2.01 VISUAL DISPLAY UNITS
+A.
+Porcelain Enamel Steel Markerboards:
+1.
+Color: White.
+2.
+Steel Face Sheet Thickness: 24 gauge, 0.0239 inch (0.61 mm).
+3.
+Core: Particleboard, manufacturer's standard thickness, laminated to face sheet.
+4.
+Backing: Aluminum foil, laminated to core.
+5.
+Size: As indicated on drawings.
+6.
+Frame: Extruded aluminum , with concealed fasteners.
+7.
+Frame Finish: Anodized, natural.
+8.
+Accessories: Provide marker tray and map rail.
+B.
+​Units Made of More Than One Panel​: Factory-assembled ​outdoor enclosed aluminum directory
+board​ in a single frame, of materials specified above.
+1.
+Manufacturers:
+a.
+​Basis of design: Aarco Products, Inc.; OADC3672-3H: WWW.aarcoproducts.com​.
+b.
+Length: 6 feet (1830 mm) , in one piece.
+c.
+Frame: Extruded aluminum, with concealed fasteners.
+d.
+Frame Finish: Anodized, natural.
+2.02 MATERIALS
+A.
+Porcelain Enameled Steel Sheet: ASTM A424/A424M, Type I, Commercial Steel, with fired-on
+vitreous finish.
+B.
+Particleboard: ANSI A208.1; wood chips, set with waterproof resin binder, sanded faces.
+C.
+Foil Backing: Aluminum foil sheet, 0.005 inch thick (0.13 mm thick).
+2.03 ACCESSORIES
+A.
+Map Rail: Extruded aluminum, manufacturer's standard profile, with cork insert and runners for
+accessories; 1 inch wide overall (; 25 mm wide overall) , full width of frame.
+B.
+Marker Tray: Aluminum, manufacturer's standard profile, one piece full length of markerboard,
+molded ends, concealed fasteners, same finish as frame.
+C.
+Mounting Brackets: Concealed.
+
+
+===== PAGE 2 =====
+Nye County School District
+Bid Documents
+10 1100
+Tonopah HS Field Replacement
+Visual Display Units
+April 20, 2026
+Page 2 of 2
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that field measurements are as indicated.
+B.
+Verify that internal wall blocking is ready to receive work and positioning dimensions are as
+instructed by the manufacturer.
+3.02 INSTALLATION
+A.
+Install boards in accordance with manufacturer's instructions.
+B.
+Install with top of chalk tray at 30 inches (760 mm) above finished floor unless noted otherwise.
+C.
+Secure units level and plumb.
+3.03 CLEANING
+A.
+Clean board surfaces in accordance with manufacturer's instructions.
+END OF SECTION
+
+
+===== PAGE 3 =====
+Nye County School District
+Bid Documents
+10 1423
+Tonopah HS Field Replacement
+Panel Signage
+April 20, 2026
+Page 1 of 2
+SECTION 10 1423
+PANEL SIGNAGE
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Panel signage.
+1.02 REFERENCE STANDARDS
+A.
+ADA Standards - 2010 ADA Standards for Accessible Design; 2010.
+B.
+ICC A117.1 - Accessible and Usable Buildings and Facilities; 2017.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Manufacturer's product literature for each type of panel sign, indicating styles,
+font, foreground and background colors, locations, and overall dimensions of each sign.
+C.
+Shop Drawings:
+1.
+Include dimensions, locations, elevations, materials, text and graphic layout, attachment
+details, and schedules.
+2.
+Schedule: Provide information sufficient to completely define each panel sign for
+fabrication, including room number, room name, other text to be applied, sign and letter
+sizes, fonts, and colors.
+a.
+When room numbers to appear on signs differ from those on drawings, include the
+drawing room number on schedule.
+b.
+When content of signs is indicated to be determined later, request such information
+from Owner through Architect at least 2 months prior to start of fabrication; upon
+request, submit preliminary schedule.
+c.
+Submit for approval by Owner through Architect prior to fabrication.
+D.
+Manufacturer's qualification statement.
+1.04 QUALITY ASSURANCE
+A.
+Manufacturer Qualifications: Company specializing in manufacturing the products specified in
+this section with minimum three years of documented experience.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+2.02 REGULATORY REQUIREMENTS
+A.
+Accessibility Requirements: Comply with ADA Standards and ICC A117.1 and applicable
+building codes, unless otherwise indicated; in the event of conflicting requirements, comply with
+the most restrictive requirements.
+2.03 PANEL SIGNAGE
+A.
+Panel Signage​ Type A​:
+1.
+Application: Room and door signs.
+2.
+Description: Flat signs with engraved panel media, tactile characters.
+3.
+Sign Size: 4 inches by 6 inches (100 mm by 152 mm).
+4.
+Total Thickness: 1/8 inch (3 mm).
+5.
+Color and Font, unless otherwise indicated:
+a.
+Character Font: Helvetica, Arial, or other sans serif font.
+b.
+Character Case: Upper and lower case (title case).
+c.
+Background Color: As scheduled.
+d.
+Character Color: Contrasting color.
+6.
+Material: Laminated colored plastic engraved through face to expose core as background
+color.
+
+
+===== PAGE 4 =====
+Nye County School District
+Bid Documents
+10 1423
+Tonopah HS Field Replacement
+Panel Signage
+April 20, 2026
+Page 2 of 2
+7.
+Profile: Flat panel in aluminum frame.
+a.
+Frame Finish: Black anodized.
+8.
+Tactile Letters: Raised 1/32 inch minimum.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that substrate surfaces are ready to receive work.
+B.
+Notify Architect if conditions are not suitable for installation of signs; do not proceed until
+conditions are satisfactory.
+3.02 INSTALLATION
+A.
+Install in accordance with manufacturer's instructions.
+B.
+Install with horizontal edges level.
+C.
+Locate panel signs and mount at heights indicated on drawings and in accordance with ADA
+Standards and ICC A117.1.
+D.
+Protect from damage until 11-05-2025; repair or replace damaged items.
+END OF SECTION
+
+
+===== PAGE 5 =====
+Nye County School District
+Bid Documents
+10 2113.13
+Tonopah HS Field Replacement
+Metal Toilet Compartments
+April 20, 2026
+Page 1 of 2
+SECTION 10 2113.13
+METAL TOILET COMPARTMENTS
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Metal toilet compartments.
+B.
+Urinal screens.
+1.02 REFERENCE STANDARDS
+A.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+B.
+ASTM A666/A666M - Standard Specification for Annealed or Cold-Worked Austenitic Stainless
+Steel Sheet, Strip, Plate, and Flat Bar; 2024.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Shop Drawings: Indicate partition plan, elevation views, dimensions, details of wall supports,
+door swings.
+C.
+Product Data: Provide data on panel construction, hardware, and accessories.
+D.
+Samples: Submit two samples of partition panels, ____x____ inch (____x____ mm) in size
+illustrating panel finish, color, and sheen.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Metal Toilet Compartments:
+1.
+Ampco Products, Inc: www.ampco.com.
+2.
+ASI Global Partitions; Stainless Steel: www.asi-globalpartitions.com/#sle.
+3.
+Metpar Corp: www.metpar.com/#sle.
+4.
+Sanymetal, A Crane Plumbing Company: www.sanymetal.com.
+2.02 MATERIALS
+A.
+Steel Sheet: Hot-dipped galvanized steel sheet, ASTM A653/A653M, with G90/Z275 coating.
+2.03 COMPONENTS
+A.
+Toilet Compartments: Powder coated steel, floor-mounted headrail-braced.
+B.
+Doors, Panels, and Pilasters: Sheet steel faces, pressure bonded to sound deadening core,
+formed and closed edges; corners made with corner clips or mitered, welded, and ground
+smooth.
+1.
+Panel Faces: 20 gauge, 0.0359 inch (0.91 mm).
+2.
+Door Faces: 22 gauge, 0.0299 inch (0.76 mm).
+3.
+Pilaster Faces: 20 gauge, 0.0359 inch (0.91 mm).
+4.
+Reinforcement: 12 gauge, 0.1046 inch (2.66 mm).
+5.
+Internal Reinforcement: Provide in areas of attached hardware and fittings. Mark
+locations of reinforcement for partition mounted washroom accessories.
+C.
+Door and Panel Dimensions:
+1.
+Thickness: 1 inch (25 mm).
+2.
+Door Width: 24 inch (610 mm).
+3.
+Door Width for Handicapped Use: 36 inch (915 mm) , out-swinging.
+4.
+Height: 58 inch (1473 mm).
+D.
+Pilasters: 1-1/4 inch (32 mm) thick, of sizes required to suit compartment width and spacing.
+E.
+Urinal Screens: Wall mounted with continuous panel brackets.
+
+
+===== PAGE 6 =====
+Nye County School District
+Bid Documents
+10 2113.13
+Tonopah HS Field Replacement
+Metal Toilet Compartments
+April 20, 2026
+Page 2 of 2
+2.04 ACCESSORIES
+A.
+Pilaster Shoes: Formed ASTM A666 Type 304 stainless steel with No. 4 finish, 3 inch (175
+mm) high, concealing floor fastenings.
+1.
+Provide adjustment for floor variations with screw jack through steel saddles integral with
+pilaster.
+B.
+Head Rails: Hollow chrome-plated steel tube, 1 by 1-5/8 inch (25 by 41 mm) size, with anti-grip
+strips and cast socket wall brackets.
+C.
+Brackets: Polished chrome-plated non-ferrous cast metal.
+D.
+Attachments, Screws, and Bolts: Stainless steel , tamper proof type.
+1.
+For attaching panels and pilasters to brackets: Through-bolts and nuts ; tamper proof.
+E.
+Hardware: Polished chrome plated non-ferrous cast metal:
+1.
+Pivot hinges, gravity type, adjustable for door close positioning; two per door.
+2.
+3.
+Thumb turn or sliding door latch with exterior emergency access feature.
+4.
+Door strike and keeper with rubber bumper; mounted on pilaster in alignment with door
+latch.
+5.
+Coat hook with rubber bumper; one per compartment, mounted on door.
+6.
+Provide door pull for outswinging doors.
+2.05 FINISHING
+A.
+Powder Coated Steel Compartments: Clean, degrease, and neutralize. Follow immediately
+with a phosphatizing treatment, prime coat and two finish coats powder coat enamel.
+B.
+Color: ​Single color as selected​.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify existing conditions before starting work.
+B.
+Verify that field measurements are as indicated.
+C.
+Verify correct spacing of and between plumbing fixtures.
+D.
+Verify correct location of built-in framing, anchorage, and bracing.
+3.02 INSTALLATION
+A.
+Install partitions secure, rigid, plumb, and level in accordance with manufacturer's instructions.
+B.
+Maintain 3/8 to 1/2 inch (9 to 13 mm) space between wall and panels and between wall and
+end pilasters.
+C.
+Attach panel brackets securely to walls using anchor devices.
+D.
+Attach panels and pilasters to brackets. Locate head rail joints at pilaster center lines.
+3.03 TOLERANCES
+A.
+Maximum Variation From True Position: 1/4 inch (6 mm).
+B.
+Maximum Variation From Plumb: 1/8 inch (3 mm).
+3.04 ADJUSTING
+A.
+Adjust and align hardware to uniform clearance at vertical edge of doors, not exceeding 3/16
+inch (5 mm).
+B.
+Adjust hinges to position doors in partial opening position when unlatched. Return out swinging
+doors to closed position.
+END OF SECTION
+
+
+===== PAGE 7 =====
+Nye County School District
+Bid Documents
+10 2600
+Tonopah HS Field Replacement
+Wall and Door Protection
+April 20, 2026
+Page 1 of 2
+SECTION 10 2600
+WALL AND DOOR PROTECTION
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Corner guards.
+1.02 REFERENCE STANDARDS
+A.
+ASTM D256 - Standard Test Methods for Determining the Izod Pendulum Impact Resistance of
+Plastics; 2023, with Editorial Revision.
+B.
+ASTM F476 - Standard Test Methods for Security of Swinging Door Assemblies; 2023.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements for submittal procedures.
+B.
+Product Data: Indicate physical dimensions, features, wall mounting brackets with mounted
+measurements, anchorage details, and rough-in measurements.
+C.
+Samples: Submit samples illustrating component design, configurations, joinery, color and
+finish.
+1.
+Submit two sections of corner guards, bumper rails, and protective corridor handrails, 24
+inches (610 mm) long.
+D.
+Maintenance Materials: Furnish the following for Owner's use in maintenance of project:
+1.
+See Section 01 6000 - Product Requirements, for additional provisions.
+2.
+Extra Stock Materials: Onepackage(s) of minimum 96 inches (2438 mm) long unitof each
+kind of covers for corner guards and bumper rails.
+E.
+Maintenance Data: Manufacturer's instructions for care and cleaning of each type of product.
+ Include information about both recommended and potentially detrimental cleaning materials
+and methods.
+1.04 DELIVERY, STORAGE, AND HANDLING
+A.
+Deliver wall and door protection items in original, undamaged protective packaging. Label
+items to designate installation locations.
+B.
+Protect work from moisture damage.
+C.
+Protect work from UV light damage.
+D.
+Do not deliver products to project site until areas for storage and installation are fully enclosed,
+and interior temperature and humidity are in compliance with manufacturer's recommendations
+for each type of item.
+E.
+Store products in either horizontal or vertical position, in compliance with manufacturer's
+instructions.
+PART 2 PRODUCTS
+2.01 PERFORMANCE CRITERIA
+A.
+Impact Strength: Unless otherwise noted, provide protection products and assemblies that
+have been successfully tested for compliance with applicable provisions of ASTM D256 and/or
+ASTM F476.
+2.02 PRODUCT TYPES
+A.
+Corner Guards - Surface Mounted:
+1.
+Material: High impact vinyl with full height extruded aluminum retainer.
+2.
+Width of Wings: 2 inches (51 mm).
+3.
+Corner: ​Radiused​.
+4.
+Color: As selected from manufacturer's standard colors.
+5.
+Length: One piece.
+
+
+===== PAGE 8 =====
+Nye County School District
+Bid Documents
+10 2600
+Tonopah HS Field Replacement
+Wall and Door Protection
+April 20, 2026
+Page 2 of 2
+2.03 FABRICATION
+A.
+Fabricate components with tight joints, corners and seams.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that rough openings, concealed blocking, and anchors are correctly sized and located.
+B.
+Verify that substrate surfaces for adhered items are clean and smooth.
+3.02 INSTALLATION
+A.
+Install components in accordance with manufacturer's instructions, level and plumb, secured
+rigidly in position to supporting construction.
+B.
+Position corner guard ​4 inches (102 mm)​ above finished floor to ​74 inches high (____ mm
+high)​.
+3.03 TOLERANCES
+A.
+Maximum Variation From Required Height: 1/4 inch (6 mm).
+B.
+Maximum Variation From Level or Plane For Visible Length: 1/4 inch (6 mm).
+3.04 CLEANING
+A.
+Clean wall and door protection items of excess adhesive, dust, dirt, and other contaminants.
+END OF SECTION
+
+
+===== PAGE 9 =====
+Nye County School District
+Bid Documents
+10 2800
+Tonopah HS Field Replacement
+Toilet, Bath, and Laundry
+Accessories
+April 20, 2026
+Page 1 of 3
+SECTION 10 2800
+TOILET, BATH, AND LAUNDRY ACCESSORIES
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Commercial shower and bath accessories.
+B.
+Under-lavatory pipe supply covers.
+C.
+Diaper changing stations.
+D.
+Utility room accessories.
+1.02 RELATED REQUIREMENTS
+A.
+Section ​09 2116 - Gypsum Board Assemblies​: Concealed supports for accessories, including
+​in wall framing and plates​.
+1.03 REFERENCE STANDARDS
+A.
+ASTM A123/A123M - Standard Specification for Zinc (Hot-Dip Galvanized) Coatings on Iron
+and Steel Products; 2017.
+B.
+ASTM A269/A269M - Standard Specification for Seamless and Welded Austenitic Stainless
+Steel Tubing for General Service; 2022.
+C.
+ASTM A653/A653M - Standard Specification for Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process; 2023.
+D.
+ASTM A666/A666M - Standard Specification for Annealed or Cold-Worked Austenitic Stainless
+Steel Sheet, Strip, Plate, and Flat Bar; 2024.
+E.
+ASTM B456 - Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus
+Chromium and Nickel Plus Chromium; 2017 (Reapproved 2022).
+F.
+ASTM C1036 - Standard Specification for Flat Glass; 2021.
+G.
+ASTM C1048 - Standard Specification for Heat-Strengthened and Fully Tempered Flat Glass;
+2018.
+H.
+ASTM F2285 - Standard Consumer Safety Performance Specification for Diaper Changing
+Tables for Commercial Use; 2022.
+1.04 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Submit data on accessories describing size, finish, details of function, and
+attachment methods.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Commercial Toilet, Shower, and Bath Accessories:
+1.
+ASI - American Specialties, Inc: www.americanspecialties.com.
+2.
+Bradley Corporation: www.bradleycorp.com.
+3.
+Georgia-Pacific Professional; _____: www.gppro.com/#sle.
+4.
+Substitutions: Section 01 6000 - Product Requirements.
+2.02 MATERIALS
+A.
+Accessories - General: Shop assembled, free of dents and scratches and packaged complete
+with anchors and fittings, steel anchor plates, adapters, and anchor components for installation.
+B.
+Keys: Provide 4 keys for each accessory to Architect; master key lockable accessories.
+C.
+Stainless Steel Sheet: ASTM A666/A666M.
+
+
+===== PAGE 10 =====
+Nye County School District
+Bid Documents
+10 2800
+Tonopah HS Field Replacement
+Toilet, Bath, and Laundry
+Accessories
+April 20, 2026
+Page 2 of 3
+D.
+Stainless Steel Tubing: ASTM A269/A269M, Grade TP304 or TP316.
+E.
+Galvanized Sheet Steel: Hot-dipped galvanized steel sheet, ASTM A653/A653M, with
+G90/Z275 coating.
+F.
+Mirror Glass: Tempered safety glass, ASTM C1048; and ASTM C1036 Type I, Class 1, Quality
+Q2, with silvering as required.
+G.
+Fasteners, Screws, and Bolts: Hot dip galvanized; tamper-proof; security type.
+H.
+Expansion Shields: Fiber, lead, or rubber as recommended by accessory manufacturer for
+component and substrate.
+2.03 FINISHES
+A.
+Stainless Steel: No. 4 Brushed finish.
+B.
+Chrome/Nickel Plating: ASTM B456, SC 2, satin finish.
+C.
+Galvanizing for Items Other than Sheet: Comply with ASTM A123/A123M; galvanize ferrous
+metal and fastening devices.
+D.
+Shop Primed Ferrous Metals: Pretreat and clean, spray apply one coat primer and bake.
+E.
+Back paint components where contact is made with building finishes to prevent electrolysis.
+2.04 COMMERCIAL TOILET ACCESSORIES
+A.
+See accessories schedule on drawings.
+B.
+Waste Receptacle: Recessed, stainless steel, seamless lower door for access to container,
+with tumbler lock, reinforced panel full height of door, push-in self-closing top door,
+continuously welded bottom pan and seamless exposed flanges.
+1.
+Liner: Removable seamless stainless steel receptacle.
+2.
+Minimum capacity: 4 gallons (15 liters).
+C.
+Mirrors: Stainless steel framed, 1/4 inch (6 mm) thick tempered safety glass; ASTM C1048.
+1.
+Size: 24" x 36".
+2.
+Frame: 0.05 inch (1.3 mm)angle shapes, with mitered and welded and ground corners,
+and tamperproof hanging system; satin finish.
+D.
+Grab Bars: Stainless steel, nonslip grasping surface finish.
+1.
+Standard Duty Grab Bars:
+a.
+Push/Pull Point Load: 250 pound-force (1112 N), minimum.
+b.
+Dimensions: 1-1/4 inch (32 mm) outside diameter, minimum 0.05 inch (1.3 mm) wall
+thickness, exposed flange mounting, 1-1/2 inch (38 mm) clearance between wall and
+inside of grab bar.
+c.
+Finish: Satin.
+2.
+Heavy Duty Grab Bars: Floor supports are acceptable if necessary to achieve load rating.
+a.
+Push/Pull Point Load: Minimum 1000 pound-force (4448.2 N), minimum.
+b.
+Dimensions: 1-1/2 inch (38 mm) outside diameter, minimum 0.125 inch (3.17 mm)
+wall thickness, exposed flange mounting, 1-1/2 inch (38 mm) clearance between wall
+and inside of grab bar.
+E.
+Sanitary Napkin Disposal Unit: Stainless steel, surface-mounted, self-closing door, locking
+bottom panel with full-length stainless steel piano-type hinge, removable receptacle.
+2.05 UNDER-LAVATORY PIPE AND SUPPLY COVERS
+A.
+Under-Lavatory Pipe and Supply Covers:
+2.06 DIAPER CHANGING STATIONS
+A.
+Diaper Changing Station: Wall-mounted folding diaper changing station for use in commercial
+toilet facilities, meeting or exceeding ASTM F2285.
+1.
+Material: Polyethylene.
+
+
+===== PAGE 11 =====
+Nye County School District
+Bid Documents
+10 2800
+Tonopah HS Field Replacement
+Toilet, Bath, and Laundry
+Accessories
+April 20, 2026
+Page 3 of 3
+2.
+Mounting: Surface.
+3.
+Color: Gray.
+4.
+Minimum Rated Load: 250 pounds (113.4 kg).
+2.07 UTILITY ROOM ACCESSORIES
+A.
+Combination Utility Shelf/Mop and Broom Holder: 0.05 inch (1.3 mm) thick stainless steel,
+Type 304, with 1/2 inch (12 mm) returned edges, 0.06 inch (1.6 mm) steel wall brackets.
+1.
+Hooks: ​Four​, ​0.06 inch (1.6 mm)​ stainless steel rag hooks at shelf front.
+2.
+Mop/broom holders: Three spring-loaded rubber cam holders at shelf front.
+3.
+Length: 36 inches (900 mm).
+4.
+Products:
+a.
+American Specialties, Inc​; #1308-3​: www.americanspecialties.com/#sle.
+b.
+Substitutions: 01 6000 - Product Requirements.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify existing conditions before starting work.
+B.
+Verify exact location of accessories for installation.
+C.
+Verify blocking and backing in walls is installed in accordance with manufactures instructions.
+3.02 PREPARATION
+A.
+Deliver inserts and rough-in frames to site for timely installation.
+B.
+Provide templates and rough-in measurements as required.
+3.03 INSTALLATION
+A.
+Install accessories in accordance with manufacturers' instructions in locations indicated on
+drawings.
+B.
+Install plumb and level, securely and rigidly anchored to substrate.
+C.
+Mounting Heights: As required by accessibility regulations, unless otherwise indicated.
+END OF SECTION
+
+
+===== PAGE 12 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank
+
+
+===== PAGE 13 =====
+Nye County School District
+Bid Documents
+10 7500
+Tonopah HS Field Replacement
+Flagpoles
+April 20, 2026
+Page 1 of 2
+SECTION 10 7500
+FLAGPOLES
+PART 1 GENERAL
+1.01 SECTION INCLUDES
+A.
+Aluminum Flagpoles.
+1.02 REFERENCE STANDARDS
+A.
+ASTM B221 - Standard Specification for Aluminum and Aluminum-Alloy Extruded Bars, Rods,
+Wire, Profiles, and Tubes; 2021.
+B.
+ASTM B221M - Standard Specification for Aluminum and Aluminum-Alloy Extruded Bars, Rods,
+Wire, Profiles, and Tubes (Metric); 2021.
+C.
+NAAMM FP 1001 - Guide Specifications for Design Loads of Metal Flagpoles; 2007.
+1.03 SUBMITTALS
+A.
+See Section 01 3000 - Administrative Requirements, for submittal procedures.
+B.
+Product Data: Provide data on pole, accessories, and configurations.
+C.
+Shop Drawings: Indicate detailed dimensions, base details, anchor requirements, and imposed
+loads.
+D.
+Maintenance Data: Provide lubrication and periodic maintenance requirement schedules and
+instructions.
+1.04 QUALITY ASSURANCE
+A.
+Designer Qualifications: Design flagpole foundation under direct supervision of a Professional
+Structural Engineer experienced in design of this Work and licensed Nevada.
+1.05 DELIVERY, STORAGE, AND HANDLING
+A.
+Spiral wrap flagpole with protective covering and pack in protective shipping tubes or
+containers.
+B.
+Protect flagpole and accessories from damage or moisture.
+PART 2 PRODUCTS
+2.01 MANUFACTURERS
+A.
+Flagpoles:
+1.
+Acme Flagpoles Company, Division of Lingo, Inc.: www.lingoinc.com
+2.
+Concord Industries, Inc: www.concordindustries.com.
+3.
+Ewing Flagpoles: www.ewingflagpole.com.
+4.
+Morgan-Francis: www.morgan-francis.com.
+5.
+National Flag and Flagpoles: nationalflagandflagpole.com
+6.
+Pole-Tech Co, Inc: www.poletech.com.
+2.02 FLAGPOLES
+A.
+Flagpoles: Designed in accordance with NAAMM FP 1001
+1.
+Material: Aluminum.
+2.
+Design: Cone tapered.
+3.
+Mounting: Ground mounted type.
+4.
+Nominal Height: ​30 ft (____ m)​; measured from ​nominal ground elevation.​
+5.
+Halyard: ​Internal​ type​, manual winch operation​.
+2.03 POLE MATERIALS
+A.
+Aluminum: ASTM B221 (ASTM B221M) , 6063 alloy , T6 temper.
+2.04 ACCESSORIES
+A.
+Finial ​Ball​: ​Gold​, ​6 inch (150 mm)​ diameter.
+
+
+===== PAGE 14 =====
+Nye County School District
+Bid Documents
+10 7500
+Tonopah HS Field Replacement
+Flagpoles
+April 20, 2026
+Page 2 of 2
+B.
+Truck Assembly: Cast aluminum; revolving, stainless steel ball bearings, non-fouling.
+C.
+Flag: ​________​ design, ​4 ft by 6 ft (1.21 m by 1.83 m)​ size, ​nylon​ fabric, ​brass​ grommets,
+hemmed edges.
+D.
+Cleats: 9 inch (230 mm) size, aluminum with galvanized steel fastenings, one per halyard.
+E.
+Cleat Box: Aluminum, with built-in hinge and hasp assembly, attached to pole with tamper
+proof screws inside box, key access.
+F.
+Halyard: 5/16 inch (8 mm) diameter nylon, braided, white.
+G.
+Connecting Sleeve For Multiple Section Poles: Same material as pole, precision fit for field
+assembly of pole, concealed fasteners.
+2.05 OPERATORS
+A.
+Hand Crank: Removable ________ type.
+2.06 MOUNTING COMPONENTS
+A.
+Pole Base Attachment: Flush; aluminum basewith base cover.
+B.
+Lightning Ground Cable: Copper No. 6 AWG, soft drawn.
+2.07 FINISHING
+A.
+Metal Surfaces in Contact With Concrete: Asphaltic paint.
+B.
+Aluminum: Mill finish.
+C.
+Finial: Gold anodized finish.
+PART 3 EXECUTION
+3.01 EXAMINATION
+A.
+Verify that concrete foundation is ready to receive work and dimensions are as indicated on
+shop drawings.
+3.02 PREPARATION
+A.
+Coat metal sleeve surfaces below grade and surfaces in contact with dissimilar materials with
+asphaltic paint.
+3.03 INSTALLATION
+A.
+Install flagpole , base assembly, and fittings in accordance with manufacturer's instructions.
+B.
+Coordinate installation of conduit for security through base of flag pole.
+3.04 TOLERANCES
+A.
+Maximum Variation From Plumb: 1 inch (25 mm).
+3.05 ADJUSTING
+A.
+Adjust operating devices so that halyard and flag function smoothly.
+3.06 SCHEDULES
+A.
+Pavillion Poles: One 30 feet (9.1 m) with U.S. flag, one 30 feet (9.1 m) with Nevada state flag,
+one 30 feeet (9.1 m) with Nye County School District flag
+END OF SECTION
