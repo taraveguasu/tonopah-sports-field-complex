@@ -7,6 +7,26 @@ exhibit — an Attachment A is not the place to record a question.
 
 ---
 
+## Rulings received 08.07.26 — applied to the exhibit
+
+| Ruling | What changed in the exhibit |
+|---|---|
+| **The dedication plaque and emergency evacuation map were incorrect on the Scope of Work** — ignore them | Both inclusions removed. Added as an **exclusion** rather than dropped silently: the narrative is still a contract document and still names them, so YESCO needs to be told in writing that they are out. Closes item 3 below in full. |
+| **The mascot mural is painted by the Owner after the Project is complete** | Exclusion reworded from "painted by others" to name the Owner and the timing. Closes item 4 below. |
+| **Type A and Type B are the same price, no contract effect, addressed at shop drawing review** | Both configurations now expressly included, with the determination moved to shop drawing review **at no adjustment to the Subcontract Amount** — so the missing Type B specification cannot become a change order. Closes the first half of item 6. |
+
+**Contract amount is unaffected: still $22,450.** The plaque and evacuation map
+were never in anyone's price, so removing them takes nothing out of the number.
+
+**One thing I did not extend.** I read "this will be addressed during shop drawing
+review" as applying to the Type A / Type B question you were answering, not to the
+four untagged sign types in item 1. Shop drawing review would certainly *surface*
+those, but it would not resolve the commercial exposure — YESCO priced 17 signs and
+the exhibit requires every type on G0-11. If you meant the direction more broadly,
+say so and I will close item 1 too; otherwise it still needs a decision.
+
+---
+
 ## 1. The carried price covers three of the seven sign types on G0-11
 
 G0-11 details seven sign types: **1** Room/Door, **2** Elec. Room, **3** Restroom,
@@ -29,17 +49,20 @@ Each bidder's own itemization, from their own document:
 No bidder priced all seven. Worth noting separately that CORE's leveling row 23
 recorded these as 17 / **15** / 20 — the Image360 figure does not reconcile with
 their own line items, which sum to 30. If that row was used to compare bidders,
-it understated the only bidder who caught the exit signs. Nobody priced the **dedication plaque** or the
-**emergency evacuation map**, both of which the scope narrative names explicitly.
+it understated the only bidder who caught the exit signs.
+
 YESCO's #072 line also carries **no permit**, while Image360 priced $1,675 and
 Y C Signs folded a permit into their $34,000 install line — and the narrative
 requires "all deferred submittals, including engineering and permits."
 
-The exhibit carries the full contract-document scope: all seven sign types, the
-plaque, the evacuation map, and the permits. That is the authority hierarchy
-working correctly — the documents govern, not the proposal. **But it means the
-$22,450 and the exhibit do not describe the same quantity of work**, and YESCO
-will say so at the first submittal. Get this priced or descoped before execution.
+The exhibit carries the full contract-document scope: all seven sign types and the
+permits. That is the authority hierarchy working correctly — the documents govern,
+not the proposal. **But it means the $22,450 and the exhibit do not describe the
+same quantity of work**, and YESCO will say so at the first submittal. Get this
+priced or descoped before execution.
+
+*(The plaque and evacuation map were also unpriced by everyone, but they are out
+per your 08.07.26 ruling and no longer part of this gap.)*
 
 ---
 
@@ -76,31 +99,31 @@ bidder priced — flagging it because the spec disagrees.
 
 ---
 
-## 3. The dedication plaque and the evacuation map exist only in the narrative
+## 3. ~~The dedication plaque and the evacuation map exist only in the narrative~~ — CLOSED 08.07.26
 
-I searched all 91 sheets and Section 10 1423. Neither the dedication plaque nor the
-emergency evacuation map appears anywhere except the scope narrative — no detail, no
-size, no material, no location, no copy. No bidder priced either one.
+I searched all 91 sheets and Section 10 1423. Neither appeared anywhere except the
+scope narrative — no detail, no size, no material, no location, no copy — and no
+bidder priced either one. **You ruled the narrative was wrong and both are out.**
 
-Both are in the exhibit, because the narrative is the trade-boundary authority and
-it names them. But a sub cannot fabricate a plaque from that. Either an allowance
-and a copy source are needed, or the Architect owes a detail.
+Recorded here because the finding explains *why* they were unpriced, and because the
+Scope of Work narrative on file still names them. The exhibit therefore excludes
+them by name rather than staying silent.
 
 ---
 
-## 4. The mascot mural has no home
+## 4. ~~The mascot mural has no home~~ — CLOSED 08.07.26
 
 Keynote 6-10 on A5-10 reads **"MASCOT MURAL, PAINTED BY OTHERS."** YESCO repeated
 that back — "the mascot to be painted by others and is not included in this scope."
 Meanwhile CORE's own D.B. estimate for #072 carries **"School Logo Graphic — 119 SF
 @ $25 = $2,975"** inside this package's $10,850.
 
-RFP-060's narrative (Metal Stud Framing, Drywall & Painting) says nothing about a
-mural or graphic. So "others" is currently nobody.
+**You ruled the Owner paints it after the Project is complete**, so "others" now has
+a name and the exhibit says so.
 
-I excluded it here — the drawing itself says painted by others, so this is not me
-adopting a proposal's position. But $2,975 of estimated scope is now unassigned and
-the wall will be blank unless somebody carries it.
+One loose end for the estimate rather than the subcontract: the $2,975 sits inside
+#072's $10,850 D.B. line for work no subcontractor will perform. If that carries
+forward it is buy-out savings, not scope.
 
 ---
 
@@ -130,13 +153,21 @@ $18,200 assumes the cheapest of the three.
 
 ## 6. Two more places the documents fight themselves
 
-**Only one panel type is specified.** Section 10 1423 ¶2.03 publishes **Type A** only
-— laminated plastic, 1/8", aluminum frame. G0-11 details both **Type A and Type B**,
-and there is no Type B in the manual. The spec also sets no exterior-grade
-requirement, though roughly half the signs are on exterior walls; Image360 was the
-only bidder to catch this and priced 1/4" aluminum outside against 1/8" acrylic
-inside. I wrote an exterior-rated materials requirement as reasonably inferable.
-Confirm, or get Type B issued.
+**Only one panel type is specified — resolved commercially 08.07.26, still a
+documentation gap.** Section 10 1423 ¶2.03 publishes **Type A** only — laminated
+plastic, 1/8", aluminum frame. G0-11 details both **Type A and Type B**, and there
+is no Type B in the manual. **You ruled the two carry the same price**, so the
+exhibit now includes both configurations expressly and sends the determination to
+shop drawing review at no adjustment to the Subcontract Amount. That removes the
+change-order exposure without waiting on the Architect.
+
+Still open underneath it: **the spec sets no exterior-grade requirement**, though
+roughly half the signs are on exterior walls. Image360 was the only bidder to catch
+this and priced 1/4" aluminum outside against 1/8" acrylic inside — YESCO did not
+distinguish. I wrote an exterior-rated materials requirement into the exhibit as
+reasonably inferable. If Type A and Type B are the same price *because both are the
+interior plastic product*, that requirement is the one that will cost money, not the
+type designation. Worth confirming at the same shop drawing review.
 
 **Sign type 6 is a fire department connection sign, and there is no fire department
 connection.** Its own note says "to be mounted on all bldg. fire department

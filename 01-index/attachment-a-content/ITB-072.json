@@ -15,6 +15,11 @@
     "GMP R2 leveling tab '71' row 29 - CORE routed the Menu Display Case to SOW 072",
     "YESCO proposal 05.12.26 and its descope version; Image360 estimate E-20177; Y C Signs proposal 05.11.26 and descope - all three read for what the documents left ambiguous"
   ],
+  "_pm_rulings_applied": [
+    "08.07.26 - The dedication plaque and emergency evacuation map were incorrect on the Scope of Work narrative. Removed from the inclusions and named in the exclusions, since the narrative is still on file and names them.",
+    "08.07.26 - The mascot mural is painted by the Owner after completion of the Project. Exclusion reworded from 'by others' to name the Owner and the timing.",
+    "08.07.26 - Type A and Type B panel signs carry the same price, so the missing Type B specification does not affect the Subcontract Amount. Both configurations are included and the determination moves to shop drawing review."
+  ],
   "simple": {
     "8": "YESCO",
     "9": [
@@ -51,14 +56,13 @@
       "items": [
         "Supply and install all interior and exterior building signage, including identification, wayfinding, and Code compliant signage, of every sign type detailed on the typical signage and accessibility requirements sheet, including room and door signs, electrical room signs, restroom signs, exit signs, room maximum occupancy signs, no smoking signs, and fire department connection signs, in the types, sizes, character heights, and configurations detailed.",
         "Provide panel signage consisting of flat signs with engraved panel media and tactile characters, four inches by six inches, one eighth inch total thickness, of laminated colored plastic engraved through the face to expose the core as the background color, in a flat panel black anodized aluminum frame, with tactile letters raised one thirty-second inch minimum, sans serif upper and lower case characters in a contrasting color, and Braille as detailed.",
+        "Provide both Type A and Type B panel sign configurations as detailed. Final sign types, quantities, and copy shall be determined during shop drawing review, and both configurations are included at no adjustment to the Subcontract Amount.",
         "Provide exterior rated sign materials, substrates, adhesives, and finishes at all signage mounted on exterior walls and in all exterior locations.",
         "Provide coated or digitally printed plastic or metal signs with Braille at all exterior electrical rooms, and signs of the same type as the room and door signs at all interior electrical rooms, as detailed.",
         "Provide coated or digitally printed plastic or metal signs at all building fire department connection locations as detailed.",
         "Provide the room maximum occupancy load notice, posted conspicuously by the main exit, in compliance with the International Building Code and all local requirements as detailed.",
         "Provide exit signage at each door serving exit stairways, ramps, passageways, and discharges as detailed.",
         "Locate and mount all panel signs at the wall on the strike side of the door, or at the door where no adequate wall space exists, at the mounting heights detailed and in accordance with the 2010 ADA Standards for Accessible Design and ICC A117.1.",
-        "Supply and install the emergency evacuation map.",
-        "Supply and install the dedication plaque.",
         "Provide all adhesives, profiles, etching, anchors, fasteners, and final adjustments."
       ]
     },
@@ -110,7 +114,8 @@
     "Exhibit B - Basis of Guaranteed Maximum Price (07.01.26)"
   ],
   "exclusions": [
-    "Mascot mural and painted school logo graphics, which are painted by others",
+    "Mascot mural and painted school logo graphics, which are painted by the Owner following completion of the Project",
+    "Dedication plaque and emergency evacuation map",
     "Wall backing, blocking, and structural supports for signage, which are provided by the Framing Subcontractor",
     "Painting and finishing of walls and substrates scheduled to receive signage",
     "All electrical work, including power, conduit, junction boxes, and final connections for illuminated signage",

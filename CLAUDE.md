@@ -180,30 +180,41 @@ Findings that only surface when a package is actually written. Full write-up per
 
 **From ITB-072 Building Signage (08.07.26):**
 
+**Three of these were closed by PM ruling 08.07.26** — see the rulings log. The plaque and
+evacuation map are out, the mural belongs to the Owner post-completion, and Type A/Type B is a
+same-price question resolved at shop drawing review. Items 2 and 3 below are struck; the
+exhibit and `02-drafts/ITB-072/PM-NOTES.md` are updated and the amount is unchanged at $22,450.
+
 1. **The carried price covers three of the seven sign types.** G0-11 details seven types, but
    only types 1 (room/door), 2 (elec. room) and 3 (restroom) are tagged on the signage floor
    plan — sixteen tags, matching CORE's own "Room ID Signs — 16 EA" takeoff. Types 4 (exit),
    5 (max occupancy), 6 (FDC) and 7 (no smoking) are drawn but never tagged, so bidders
    counting tags never saw them. YESCO priced 17 signs across types 1/2/3 only; Image360 was
    the only bidder to catch the exit signs (10 ea, 30 total); Y C Signs caught max occupancy
-   (2 ea). **Nobody priced the dedication plaque or the emergency evacuation map**, both named
-   in the scope narrative, and **YESCO's line carries no permit** though the narrative requires
-   permits and two competitors priced them. The exhibit carries the full document scope; the
-   $22,450 does not.
-2. **The dedication plaque and emergency evacuation map appear nowhere but the scope narrative**
-   — not on any of the 91 sheets, not in 10 14 23. No detail, size, material, location or copy.
-   Needs an allowance and a copy source, or a detail from the Architect.
-3. **The mascot mural has no home.** Keynote 6-10 on A5-10 says "MASCOT MURAL, PAINTED BY
-   OTHERS"; CORE's D.B. estimate carries "School Logo Graphic — 119 SF @ $25 = $2,975" *inside*
-   #072; RFP-060's narrative has no mural or graphic scope. "Others" is currently nobody.
+   (2 ea). **YESCO's line also carries no permit** though the narrative requires permits and
+   two competitors priced them. The exhibit carries the full document scope; the $22,450 does
+   not. **STILL OPEN** — the 08.07.26 shop-drawing-review direction was read as applying to the
+   Type A/B question, not to this commercial gap.
+2. ~~**The dedication plaque and emergency evacuation map appear nowhere but the scope
+   narrative**~~ — **CLOSED 08.07.26, both incorrect on the narrative and out of scope.** They
+   appeared on no sheet and in no spec, which is why no bidder priced them.
+3. ~~**The mascot mural has no home.**~~ — **CLOSED 08.07.26, painted by the Owner after
+   completion.** Keynote 6-10 on A5-10 said "PAINTED BY OTHERS"; "others" is the Owner. CORE's
+   D.B. estimate still carries "School Logo Graphic — 119 SF @ $25 = $2,975" *inside* #072,
+   which is now buy-out savings rather than scope.
 4. **Exterior building letters: quantity and construction both unsettled.** CORE's estimate says
    40 EA, the leveling row says 27 EA, Image360's own line items sum to 32. There is no
    lettering specification at all — keynote 6-04 says only "24" H METAL SIGNAGE" — and on
    leveling tab `45` a bidder offered the same work as 1/8" powder-coated ($6,780) or 2"-deep
    metal channel ($12,892), an 89% spread. Drafted by description per ruling D, with no count.
-5. **Section 10 14 23 publishes only Type A**, but G0-11 details Type A *and* Type B, and the
-   spec sets no exterior-grade requirement though roughly half the signs are outdoors. Image360
-   was the only bidder to price exterior signs differently (1/4" aluminum vs 1/8" acrylic).
+5. **Section 10 14 23 publishes only Type A**, but G0-11 details Type A *and* Type B — **the
+   commercial half is CLOSED 08.07.26** (same price, both included, determined at shop drawing
+   review, no adjustment), leaving the documentation gap. **Still open underneath it:** the spec
+   sets no exterior-grade requirement though roughly half the signs are outdoors, and Image360
+   was the only bidder to price exterior signs differently (1/4" aluminum vs 1/8" acrylic). The
+   exhibit requires exterior-rated materials as reasonably inferable — if Type A and Type B are
+   the same price because both are the interior plastic product, that requirement is what will
+   cost money, not the type designation.
 6. **Track and field signage is now excluded by both RFP-008 and ITB-072** and has no home in
    any package. Going the other way, BackSheet #015 "Site Signage, Striping, & Parking
    Accessories" carries $0 behind "(SEE LINE #008)", which answers the site-signage half of
@@ -355,6 +366,9 @@ entire demolition scope is RFP-008.
 | 08.06.26 | **E2** — ITB-066 Fluid-Applied Flooring: **scope removed by the Owner in a value engineering exercise** |
 | 08.06.26 | **F1/F2/F3** — RFP-008 tab reversal, 07 25 00 shared RFP-045/ITB-040, and no firestopping obligation: all confirmed |
 | 08.05.26 | **07 84 00 Firestopping needs no action — there are no fire-rated assemblies on this project** (all three partition types rate 0; LS1-10 shows 0 HR throughout) |
+| 08.07.26 | **ITB-072 — the dedication plaque and emergency evacuation map were incorrect on the Scope of Work narrative.** Both are out of scope. The narrative on file still names them, so exhibits exclude them by name rather than staying silent |
+| 08.07.26 | **The mascot mural is painted by the OWNER after the Project is complete** — closes keynote 6-10's "PAINTED BY OTHERS". Not RFP-060, not ITB-072. CORE's D.B. estimate still carries $2,975 of it inside #072, which is now buy-out savings rather than scope |
+| 08.07.26 | **ITB-072 — panel sign Type A and Type B carry the same price**, so the absent Type B specification does not affect the Subcontract Amount. Both configurations are included and the determination moves to shop drawing review at no adjustment |
 
 ### `package-index.json` summary — ⚠️ SUPERSEDED, describes the rejected index
 Kept for provenance. Findings below that came from the vision pass are still useful as leads,
