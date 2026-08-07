@@ -40,6 +40,9 @@
         "title_per_scope_doc": "Transportation and Disposal of Misc. Hazardous Materials",
         "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Transportation and Disposal of Misc. Hazardous Materials. Absent from the manual. Abatement requirements come from the Asbestos Survey and Asbestos Management Plan, which are staged in 04-specs-reports but are not spec sections -- cite those documents directly in RFP-002's Attachment A.",
+        "carried_by": "RFP-002",
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 02 81 00. Put the words \"Transportation and Disposal of Misc. Hazardous Materials\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
         "candidates": []
       }
     },

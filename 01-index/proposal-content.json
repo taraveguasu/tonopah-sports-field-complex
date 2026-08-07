@@ -1463,10 +1463,12 @@
       "current_per_firm": {
         "newcomtabandmmc": {
           "firm": "New-Com, Inc. (TAB Contractors and MMC, Inc.)",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
-          "current_date": "2026-05-19",
+          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf.txt",
+          "current_date": "2026-05-29",
           "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt"
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
+            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt"
           ],
           "undated_not_sequenced": []
         },
@@ -1490,15 +1492,6 @@
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Wet Utilities - NDX (backup).pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/NDX Homework Response.pdf.txt",
             "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/NDX Scope Review Meeting Agenda.docx.txt"
-          ],
-          "undated_not_sequenced": []
-        },
-        "tab": {
-          "firm": "TAB",
-          "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf.txt",
-          "current_date": "2026-05-29",
-          "superseded": [
-            "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt"
           ],
           "undated_not_sequenced": []
         }

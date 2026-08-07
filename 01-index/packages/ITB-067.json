@@ -74,6 +74,9 @@
         "title_per_scope_doc": "Concrete Finishing",
         "status": "CLOSED BY PM RULING",
         "note": "Concrete Finishing -- ITB-067's own title section, absent from the manual. CLOSED BY PM RULING 08.05.26: ITB-067 references 03 30 00 Cast-In-Place Concrete instead, whose Part 3 carries the finishing requirements.",
+        "carried_by": null,
+        "ownership_ruling": null,
+        "how_to_write_it": null,
         "candidates": []
       }
     },

@@ -128,6 +128,9 @@
         "title_per_scope_doc": "Aggregate Base Courses",
         "status": "CLOSED BY PM RULING",
         "note": "Aggregate Base Courses. Absent. CLOSED BY PM RULING 08.05.26: aggregate base courses are covered in 31 20 00 Earth Moving, which is RFP-008's section -- consistent with TAB pricing the Type II deducts under the turf field, building pad and concrete paving. RFP-030 references it for base under its flatwork.",
+        "carried_by": null,
+        "ownership_ruling": null,
+        "how_to_write_it": null,
         "candidates": []
       }
     },

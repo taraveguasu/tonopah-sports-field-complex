@@ -134,6 +134,9 @@
         "title_per_scope_doc": "Access Doors and Panels",
         "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Access Doors and Panels. 08 31 00 is the published number for the same title. Near-certain renumbering.",
+        "carried_by": "RFP-060",
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 08 31 13. Put the words \"Access Doors and Panels\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
         "candidates": [
           "08 31 00"
         ]

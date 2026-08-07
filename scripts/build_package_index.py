@@ -324,6 +324,10 @@ def main():
                 "cited_by_this_scope_doc_but_absent_from_manual": {
                     k: {"title_per_scope_doc": v.get("title_per_scope_doc"),
                         "status": v["status"], "note": v["note"],
+                        "carried_by": v.get("carried_by"),
+                        "ownership_ruling": v.get("ownership_ruling"),
+                        # The drafter needs the instruction, not just the flag.
+                        "how_to_write_it": v.get("how_to_write_it"),
                         "candidates": v.get("candidate_sections_in_manual")}
                     for k, v in spec.get("cited_but_absent_from_manual", {}).items()
                     if pkg in v.get("cited_by", [])},

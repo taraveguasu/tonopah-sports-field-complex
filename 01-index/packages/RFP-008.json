@@ -122,6 +122,9 @@
         "title_per_scope_doc": "Selective Site Demolition",
         "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Selective Site Demolition. 02 41 00 Demolition is the published section and is assigned to RFP-008 by PM ruling; the cited number is almost certainly that section, but the numbers are not treated as equivalent without confirmation.",
+        "carried_by": "RFP-008",
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 02 41 13. Put the words \"Selective Site Demolition\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
         "candidates": [
           "02 41 00"
         ]
@@ -626,76 +629,11 @@
     },
     {
       "firm": "New-Com, Inc. (TAB Contractors and MMC, Inc.)",
-      "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
-      "current_date": "2026-05-19",
-      "superseded_documents": [
-        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt"
-      ],
-      "undated_not_sequenced": [],
-      "kind": "scope_review_agenda",
-      "price": null,
-      "inclusions": [
-        "Assume cut on the new parking lot",
-        "Assume use trucks for hauling off",
-        "Will dump holes on SPWD land",
-        "Dump trash in the local landfill",
-        "Assume 4\u201d type 2 base at turf.",
-        "Assume 6\u201d aggregate base and 4\u201d of asphalt.",
-        "Assume the slot drain on half moons",
-        "Assume 8\u201d slot drain at 3ft deep",
-        "Assume 18\u201d cut for slot drain.",
-        "Assume 1ft cut for concrete curb",
-        "Assume 6\u201d of type 2 at the building pad concrete",
-        "Assume D4/5 dozer",
-        "Value Engineering",
-        "Mock Ups",
-        "Weather Protection",
-        "Hoisting",
-        "Permits",
-        "Testing",
-        "Includes sweal on east elevation",
-        "Includes head wall and rip rap",
-        "Includes concessions",
-        "Includes caliche unit rate of $40/CY"
-      ],
-      "exclusions_scope_specific": [
-        "Assume the dust palliative is not included",
-        "Deviations from specifications",
-        "Deviations from plans or details",
-        "Specific or Unique scope",
-        "Scope holes from past experience on this type of project",
-        "Inclusions or assumptions to cover grey areas in the scope",
-        "Excludes leveling sand",
-        "Excludes 3/8\u201dx1/2\u201d fractured rock",
-        "Excludes slope stabilization",
-        "Excludes track and field signage",
-        "Excludes DG at shot put and discus area"
-      ],
-      "clarifications": [],
-      "priced_line_items": [],
-      "priced_scope_groups": [],
-      "superseded_content": [
-        {
-          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt",
-          "date": "2026-05-12",
-          "inclusions": [],
-          "exclusions_scope_specific": [
-            "Exclude Propane Gas System at abandoned elementary school."
-          ],
-          "priced_line_items": [
-            "Base Bid Proposal - $ 1,924,851.00",
-            "Alt \u2014 Site Demo at Elementary School - $ 45,000.00",
-            "Alt \u2014 Propane Gas System Abandon \u2014 No Bid",
-            "Alt \u2014 Caliche Unit Rate - $40 per CY"
-          ]
-        }
-      ]
-    },
-    {
-      "firm": "TAB",
       "current_document": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB  Homework Response Additional Info.pdf.txt",
       "current_date": "2026-05-29",
       "superseded_documents": [
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt",
+        "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
         "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt"
       ],
       "undated_not_sequenced": [],
@@ -726,6 +664,60 @@
       ],
       "priced_scope_groups": [],
       "superseded_content": [
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/008 Demo, Earthwork AC Paving & Utilities - NewCom TAB (w backup).pdf.txt",
+          "date": "2026-05-12",
+          "inclusions": [],
+          "exclusions_scope_specific": [
+            "Exclude Propane Gas System at abandoned elementary school."
+          ],
+          "priced_line_items": [
+            "Base Bid Proposal - $ 1,924,851.00",
+            "Alt \u2014 Site Demo at Elementary School - $ 45,000.00",
+            "Alt \u2014 Propane Gas System Abandon \u2014 No Bid",
+            "Alt \u2014 Caliche Unit Rate - $40 per CY"
+          ]
+        },
+        {
+          "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/TAB Scope Review Meeting Agenda.docx.txt",
+          "date": "2026-05-19",
+          "inclusions": [
+            "Assume cut on the new parking lot",
+            "Assume use trucks for hauling off",
+            "Will dump holes on SPWD land",
+            "Dump trash in the local landfill",
+            "Assume 4\u201d type 2 base at turf.",
+            "Assume 6\u201d aggregate base and 4\u201d of asphalt.",
+            "Assume the slot drain on half moons",
+            "Assume 8\u201d slot drain at 3ft deep",
+            "Assume 18\u201d cut for slot drain.",
+            "Assume 1ft cut for concrete curb",
+            "Assume 6\u201d of type 2 at the building pad concrete",
+            "Assume D4/5 dozer",
+            "Value Engineering",
+            "Mock Ups",
+            "Weather Protection",
+            "Hoisting",
+            "Permits",
+            "Testing",
+            "Includes sweal on east elevation",
+            "Includes head wall and rip rap"
+          ],
+          "exclusions_scope_specific": [
+            "Assume the dust palliative is not included",
+            "Deviations from specifications",
+            "Deviations from plans or details",
+            "Specific or Unique scope",
+            "Scope holes from past experience on this type of project",
+            "Inclusions or assumptions to cover grey areas in the scope",
+            "Excludes leveling sand",
+            "Excludes 3/8\u201dx1/2\u201d fractured rock",
+            "Excludes slope stabilization",
+            "Excludes track and field signage",
+            "Excludes DG at shot put and discus area"
+          ],
+          "priced_line_items": []
+        },
         {
           "file": "SUBCONTRACTOR FILES/21.0 - Subcontractor Proposals/1% Subcontractor Proposals/1% Descopes/Homework Responses/TAB Homework Response.pdf.txt",
           "date": "2026-05-22",

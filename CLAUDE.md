@@ -5,7 +5,7 @@
 - Delivery method: CMAR/GMP
 - Jurisdiction / applicable statutes: Nevada public works — NRS 338.16995 (1% list), NRS 338.0117 (bidder preference), SB 82 (Apprenticeship Utilization Act), Southern Nevada Rural Region prevailing wage
 - Total budget: $12,000,000 (includes THS Sports Complex + Tonopah Elementary School Demolition)
-- CORE job number: likely **25-10-003** (per `00-source-docs/GMP/25-10-003 - NCSD - Tonopah HS Sports Field Ph's Replacement GMP_EOD.pdf`) — CONFIRM
+- CORE job number: **26-01-019** — CONFIRMED 08.06.26 from the Attachment A template header and the Procore project name. The earlier "likely 25-10-003" came from the GMP EOD filename and was wrong.
 
 ## Key Dates
 - Notice dated: April 21, 2026

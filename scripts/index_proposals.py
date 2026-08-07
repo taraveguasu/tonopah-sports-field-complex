@@ -646,10 +646,21 @@ def main():
         # date governs" runs on two half-chains and can report a stale document as
         # current. Within a single package, one key being a prefix of another is a
         # naming variant, not two firms.
+        # Firms that trade under two unrelated names. New-Com and TAB Contractors
+        # are one joint venture on RFP-008 -- the proposal letterhead reads
+        # "new-com" while the letter signs off "TAB Contractors, Inc." -- so prefix
+        # matching alone leaves them as two chains and the supersession runs twice.
+        SAME_FIRM = [{"tab", "newcom"}]
+
+        def same_firm(a, b):
+            if a.startswith(b) or b.startswith(a):
+                return True
+            return any(any(a.startswith(x) for x in grp) and
+                       any(b.startswith(y) for y in grp) for grp in SAME_FIRM)
+
         merged = {}
         for key in sorted(chains, key=len, reverse=True):
-            target = next((m for m in merged
-                           if m.startswith(key) or key.startswith(m)), None)
+            target = next((m for m in merged if same_firm(m, key)), None)
             if target:
                 merged[target] += chains[key]
             else:

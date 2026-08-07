@@ -62,6 +62,9 @@
         "title_per_scope_doc": "Toilet Compartments",
         "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Toilet Compartments. The manual publishes 10 21 13.13 Metal Toilet Compartments, a child of the cited number. Cite the published number.",
+        "carried_by": "ITB-074",
+        "ownership_ruling": null,
+        "how_to_write_it": "Do NOT cite 10 21 00. Put the words \"Toilet Compartments\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
         "candidates": [
           "10 21 13.13"
         ]
@@ -70,6 +73,9 @@
         "title_per_scope_doc": "Fire Protection Cabinets",
         "status": "CLOSED BY GLOBAL RULE \u2014 cite by title, never by number",
         "note": "Fire Protection Cabinets. Absent, though ITB-074's title carries fire protection specialties and Henri's quote prices 'FIRE EXTINGUISHERS, WALL SAFES, KEY CABINET & KNOX BOXES -- furnished and installed -- $6,313'. The bidders priced work that has no spec section.",
+        "carried_by": "ITB-074",
+        "ownership_ruling": "ITB-074 owns the fire protection cabinets.",
+        "how_to_write_it": "Do NOT cite 10 44 13. Put the words \"Fire Protection Cabinets\" into the scope verbiage, and draft the obligation from the scope narrative, the drawings and the bidders' proposals.",
         "candidates": []
       }
     },
