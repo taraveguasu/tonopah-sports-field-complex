@@ -100,7 +100,39 @@ Full design doc: `Tonopah-Attachment-A-System-Master-Plan.md` (repo root). Summa
 | Proposal / descope / homework content indexed | ✅ Done (08.05.26) — `01-index/proposal-content.json`, built by `scripts/index_proposals.py`. All 246 bidder documents read, not just filenames: 2,246 inclusions, 2,041 scope-specific exclusions, 645 clarifications, 138 priced add/deduct line items, 14 priced product groups. **All 33 packages now have at least one scope-bearing document.** Supersession chain per firm per package (latest date governs; 47 undated documents are flagged, never sequenced by guess). Bid tabulation reconciled against every bidder's own stated price. 8 proposal probes added to `scripts/verify_extraction.py`; **33/33 probes pass.** |
 | Spec sections cataloged & assigned | ✅ Done (08.05.26) — `01-index/spec-section-catalog.json` + `package-spec-citations.json`, built by `scripts/index_spec_sections.py`. 131 sections from the manual's own bookmark outline; **all 106 technical sections have a primary package** — 30 by scope-doc citation, 5 by PM ruling, 71 by trade judgment (flagged as judgment, never as citation). Division-level citations expanded to real sections: RFP-031 now has 04 05 03 / 04 20 16, RFP-098 all 11 Div-22, RFP-100 all 16 Div-23, RFP-103 all 22 Div-26/27. 3 flow-down sections separated from 5 genuine conflicts. 19 cited-but-absent sections written up individually. 14 spec probes added; **47/47 probes pass.** |
 | Sheet → package assignments | ✅ Done (08.06.26) — `01-index/sheet-package-assignments.json`, built by `scripts/assign_sheets.py`. **Re-derived from the scope docs, not from reading the drawings** — closing the third root cause of the 07.31.26 rejection. 91 sheets, 783 assignments, each carrying its evidence. Four signals: scope doc naming the sheet (12), spec section whose owner is known, distinctive scope vocabulary, discipline prefix (last resort, marked weak). Output splits `draft_from` from `leads_to_verify`. **Every sheet reaches a package and every package reaches a sheet.** 13 assignment probes added; **68/68 probes pass.** |
+| Buy-out log & release priority | ✅ Done (08.07.26) — `01-index/buyout-log.json`, `04-output/Buyout Log & Subcontract Release Priority.xlsx`, `04-output/Subcontract Release Priority.md`. Built by `scripts/build_buyout_log.py` + `scripts/write_release_priority_md.py`. 33 packages ranked by a backward pass through the 04.21.26 schedule; 50 long-lead chains evaluated, binding chain reported per package. **Reconciles exactly**: $9,675,291 + $201,725 CORE self-perform = the GMP BackSheet subtotal $9,877,015.55. |
 | Drawing sheet indexing | ⚠️ Partially valid — 91 base-bid sheets cataloged (`01-index/drawing-sheet-catalog.json`) and vision-read (`drawing-vision-{vol1,vol2,esdemo}.json`). Independent spot-check confirmed the readings are verbatim-accurate **for the revision they read**, but the pass consumed the base bid set only. The 7 sheets revised by Addendum #1 (G0-00, LS1-10, A1-20, A2-10, A10-30, C1, GD) were never opened. Sheet content is reusable; package assignments are not, having been made from drawings rather than from scope docs. |
+
+### Carried-sub authority — CORRECTED 08.07.26
+The **GMP R2 `BackSheet` (rows 16–146) is the authority for who is carried on each package
+and at what value.** It is not the 05.12.26 bid tabulation (a transcription, known to reverse
+RFP-008's two low rows) and it is not `awarded-sub-mapping.json` (built 07.10.26, predates the
+GMP). Reading the BackSheet corrected five packages:
+
+| Package | Old record | GMP BackSheet |
+|---|---|---|
+| ITB-077 Lockers | Henri | **Jetstream Construction $20,566** |
+| RFP-103 Electrical | JW Electric on the leveling tab | **Quantum Electric $1,074,541** |
+| ITB-067 Concrete Finishing | FW Specialties on the leveling tab | **Ryerson Concrete $35,993** |
+| RFP-094 Bleachers | "not yet awarded" | **California Bleachers (Nata) $400,879.40** |
+| RFP-109 Ticket Booth | "not yet awarded" | **Porta-King Building Systems $27,019.32** |
+| RFP-016 Landscape & Irrigation | proposal $111,275 | **carried $350,200** — 3.1x delta, ⚠️ reconcile before release |
+
+The BackSheet also confirms ruling D from the money side: **ITB-044 and ITB-062 are carried at
+$0 with the note "(SEE LINE #060)"** — their money is inside Jetstream's $266,211. Eight other
+lines carry $0 behind a "(SEE LINE #xxx)" pointer and must never be bought twice: #004→002,
+#009 and #015→008, #024→030, #026→033, #049→045, #075→074, #102→100, #107→103.
+
+### Schedule findings (08.07.26)
+- **The buy-out window has closed.** Schedule ID 19 "Procure Subcontractor Contracts" ran
+  Tue 7/21/26 – Mon 7/27/26 and every submittal was to start 7/28/26. Nothing has issued.
+- **$2.6M of sports-field scope has no procurement activity in the schedule at all** —
+  RFP-022 turf, RFP-021 track, RFP-016 landscape, ITB-019 athletic equipment, RFP-023
+  fencing, ITB-089 scoreboard, RFP-109 ticket booth. RFP-022 has a 20-day product-data
+  submittal (ID 39) and then nothing.
+- **Two stale lines still sit on the procurement critical path**: fire alarm (80 d procure)
+  and fire sprinkler (20 d procure). Fire alarm is an express GMP Exclusion; fire suppression
+  is carried N/A at $0. Neither is a bid package.
 
 ### Open items raised by the proposal index (08.05.26) — need PM decisions
 All confirmed by reading the source document, not inferred from a count.
