@@ -1,0 +1,137 @@
+{
+  "_package": "ITB-072",
+  "_title": "Building Signage",
+  "_subcontractor": "YESCO",
+  "_contract_amount": 22450,
+  "file_stem": "YESCO",
+  "_sources": [
+    "Scope of Work #072 narrative (primary trade-boundary authority)",
+    "Project Manual: Section 10 1423 Panel Signage (div-10-specialties, manual pages 250-251); Section 07 9200 Joint Sealants",
+    "Sheet G0-11 Typical Signage & Accessibility Requirements (BID DOCS 04.20.26) - the seven sign type details, the signage floor plan and the ADA mounting requirements",
+    "Sheet A5-10 Exterior Elevations (BID DOCS 04.20.26) - keynote 6-01 enclosed bulletin cabinet, 6-04 24-inch high metal signage, 6-10 mascot mural painted by others",
+    "Addendum #1 (05.06.26) - reissued Table of Contents carries 10 1423; revised sheet A10-30 refers to G0-11. G0-11 itself was NOT revised, so the base-bid revision governs",
+    "Exhibit B Basis of GMP (07.01.26) - contract document per PM ruling 08.04.26",
+    "GMP R2 BackSheet row 100 (#072 Building Signage - YESCO $22,450) and leveling tab '72'",
+    "GMP R2 leveling tab '71' row 29 - CORE routed the Menu Display Case to SOW 072",
+    "YESCO proposal 05.12.26 and its descope version; Image360 estimate E-20177; Y C Signs proposal 05.11.26 and descope - all three read for what the documents left ambiguous"
+  ],
+  "simple": {
+    "8": "YESCO",
+    "9": [
+      "800 B Bennie Lane",
+      "Reno, NV 89512"
+    ],
+    "10": "775-284-8127",
+    "11": "Karen Munson",
+    "12": "kmunson@yesco.com",
+    "14": "22,450.00",
+    "23": "Building Signage",
+    "94": [
+      "",
+      "mobilizations"
+    ],
+    "98": [
+      "Contractor may",
+      " also",
+      " request up to",
+      " ",
+      "six (6) physical hard copies of all submittals.",
+      ""
+    ]
+  },
+  "standard_clauses": {
+    "26": false,
+    "27": true,
+    "28": false,
+    "100": true
+  },
+  "scope_groups": [
+    {
+      "header": "Interior & Exterior Panel Signage - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Supply and install all interior and exterior building signage, including identification, wayfinding, and Code compliant signage, of every sign type detailed on the typical signage and accessibility requirements sheet, including room and door signs, electrical room signs, restroom signs, exit signs, room maximum occupancy signs, no smoking signs, and fire department connection signs, in the types, sizes, character heights, and configurations detailed.",
+        "Provide panel signage consisting of flat signs with engraved panel media and tactile characters, four inches by six inches, one eighth inch total thickness, of laminated colored plastic engraved through the face to expose the core as the background color, in a flat panel black anodized aluminum frame, with tactile letters raised one thirty-second inch minimum, sans serif upper and lower case characters in a contrasting color, and Braille as detailed.",
+        "Provide exterior rated sign materials, substrates, adhesives, and finishes at all signage mounted on exterior walls and in all exterior locations.",
+        "Provide coated or digitally printed plastic or metal signs with Braille at all exterior electrical rooms, and signs of the same type as the room and door signs at all interior electrical rooms, as detailed.",
+        "Provide coated or digitally printed plastic or metal signs at all building fire department connection locations as detailed.",
+        "Provide the room maximum occupancy load notice, posted conspicuously by the main exit, in compliance with the International Building Code and all local requirements as detailed.",
+        "Provide exit signage at each door serving exit stairways, ramps, passageways, and discharges as detailed.",
+        "Locate and mount all panel signs at the wall on the strike side of the door, or at the door where no adequate wall space exists, at the mounting heights detailed and in accordance with the 2010 ADA Standards for Accessible Design and ICC A117.1.",
+        "Supply and install the emergency evacuation map.",
+        "Supply and install the dedication plaque.",
+        "Provide all adhesives, profiles, etching, anchors, fasteners, and final adjustments."
+      ]
+    },
+    {
+      "header": "Exterior Wall Mounted Building Lettering - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Supply and install all exterior wall mounted metal building lettering at the concessions building, twenty-four inches in character height, reading TONOPAH HIGH SCHOOL and HOME OF THE MUCKERS as shown on the exterior elevations.",
+        "Provide flush stud mounted installation, including all drilled holes, mounting studs, anchors, fasteners, adhesives, and sealants required for a complete exterior installation.",
+        "Provide the painted finish in the color and sheen selected by the Architect from the manufacturer's full range.",
+        "Provide field verification of all dimensions, full size mounting templates, and layout of all lettering prior to drilling, and provide final adjustment and alignment of all letters.",
+        "Seal all fastener penetrations and perimeter joints at exterior signage weathertight in accordance with Section 07 9200, and repair or refinish all adjacent surfaces disturbed by this Scope of Work."
+      ]
+    },
+    {
+      "header": "Menu Display Case - Provide all materials, labor, equipment, and supervision for a complete Scope of Work per plans and specifications. This Scope of Work shall include, but not be limited to:",
+      "items": [
+        "Supply and install one exterior wall mounted enclosed bulletin cabinet, five feet zero inches wide by three feet zero inches high, basis of design Aarco Products ODCC outdoor enclosed bulletin cabinet, as keynoted on the exterior elevations.",
+        "Provide all bracing, mounting brackets, trim pieces, anchorage, fasteners, and all associated hardware and accessories required for a complete exterior installation, and in accordance with approved submittals.",
+        "Seal the perimeter of the cabinet and all fastener penetrations weathertight in accordance with Section 07 9200."
+      ]
+    },
+    {
+      "header": "Submittals, Permits, Testing & General Scope Requirements - The following requirements shall apply to all work under this Scope of Work package:",
+      "items": [
+        "Provide Shop Drawings including dimensions, locations, elevations, materials, text and graphic layout, and attachment details, together with a sign schedule providing information sufficient to completely define each sign for fabrication, including room number, room name, all other text to be applied, sign and letter sizes, fonts, and colors. Where the room numbers to appear on signs differ from those shown on the drawings, include the drawing room number on the schedule.",
+        "Where the content of signs is indicated to be determined later, request that information from the Owner through the Architect not less than two months prior to the start of fabrication, and submit a preliminary schedule upon request. Submit all sign schedules for approval by the Owner through the Architect prior to fabrication.",
+        "Provide manufacturer's product data for each type of sign, indicating styles, font, foreground and background colors, locations, and overall dimensions of each sign, and provide the manufacturer's qualification statement evidencing a minimum of three years of documented experience manufacturing the products specified.",
+        "Provide all deferred submittals, engineering, and sign permits required for this Scope of Work, including all fees.",
+        "All materials shall comply with flame spread ratings as required; provide manufacturer's certifications.",
+        "All materials and installations shall be compliant with all applicable ANSI, ADA, and IBC requirements, and with the 2010 ADA Standards for Accessible Design and ICC A117.1. In the event of conflicting requirements, comply with the most restrictive requirement.",
+        "Provide all field measurements, and coordinate the layout of all signage, building lettering, and the menu display case with the Framing Subcontractor for placement of proper backing and blocking prior to closing in of the wall assemblies.",
+        "Verify that all substrate surfaces are ready to receive the work prior to commencing, and notify the Architect if conditions are not suitable for the installation of signs; do not proceed until conditions are satisfactory.",
+        "Install all work in accordance with the manufacturer's instructions, with horizontal edges level, secured level and plumb.",
+        "Provide all tests and certifications required for complete and operational systems, and provide a qualified representative onsite for all tests and inspections as required. Subcontractor is responsible for scheduling testing and walking with inspectors to get systems signed off for final approval.",
+        "Protect all work of this Scope of Work from damage until Substantial Completion, and repair or replace all damaged items.",
+        "Repair all related work at completion of the Project as needed prior to acceptance.",
+        "Include multiple mobilizations as may be required per the Preliminary Construction Schedule and Logistics Plan."
+      ]
+    }
+  ],
+  "scope_options": [],
+  "spec_sections": [
+    "Section 10 1423 - Panel Signage - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work.",
+    "Section 07 9200 - Joint Sealants - Provide all labor, material, equipment, and services required to furnish and install all items included in this section of the Project Manual, as it relates to Subcontractor's Scope of Work."
+  ],
+  "directives": [
+    "Addendum #1 (05.06.26), including the revised Architectural sheets issued therewith",
+    "Clarification No. 1 (05.06.26) and Clarification No. 2 (05.07.26), including all RFI responses issued therewith",
+    "Exhibit B - Basis of Guaranteed Maximum Price (07.01.26)"
+  ],
+  "exclusions": [
+    "Mascot mural and painted school logo graphics, which are painted by others",
+    "Wall backing, blocking, and structural supports for signage, which are provided by the Framing Subcontractor",
+    "Painting and finishing of walls and substrates scheduled to receive signage",
+    "All electrical work, including power, conduit, junction boxes, and final connections for illuminated signage",
+    "Concrete footings, foundations, and all cast-in-place concrete",
+    "Site signage, traffic signage, parking accessory signage, and pavement striping",
+    "Track and field signage, athletic field markings, and turf inlaid lettering, numbers, and logos",
+    "Scoreboards and scoreboard support structures, which are included in the Scoreboards Scope of Work",
+    "Flagpoles and flags, which are included in the Flagpoles Scope of Work",
+    "Marker boards and visual display units under Section 10 1100, which are included in the Visual Display Boards Scope of Work"
+  ],
+  "phase_code": "10-3070-10000",
+  "_phase_code_note": "Signage Package, from the GMP's own phase code library. Chosen over the narrower Door Signs (10-3060), Exterior Lettering (10-3090), Plaques (10-3100) and Display Cases (11-0030) codes because the note under B19 allows one phase code per subcontractor and this scope spans all four.",
+  "_leveling_sheet": "tab '72' (Building Signage)",
+  "_amount_buildup": [
+    [
+      "Base Bid - YESCO proposal 05.12.26, building signage (leveling tab '72' row 19)",
+      18200
+    ],
+    [
+      "Add: Menu Display Case - Alternate 072.01, Aarco ODCC 5'-0\" x 3'-0\" enclosed bulletin cabinet (leveling tab '72' row 27)",
+      4250
+    ]
+  ]
+}

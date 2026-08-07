@@ -88,7 +88,11 @@ def set_para_text(p, new):
     for m in runs:
         out.append(p[last:m.start()])
         r = m.group(0)
-        if is_highlighted(r):
+        # A highlighted run with no <w:t> carries no text -- in the address
+        # paragraph it is the line break between "Address" and "City, ST, Zip".
+        # Counting it would shift every following value by one and blank the
+        # last real run, which silently dropped the city line.
+        if is_highlighted(r) and T_RE.search(r):
             r = fill(r, vals[n] if n < len(vals) else "")
             n += 1
         out.append(r)
