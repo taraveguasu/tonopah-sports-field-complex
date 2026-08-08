@@ -58,6 +58,10 @@ PLANNED_BUYOUT = (date(2026, 7, 21), date(2026, 7, 27))
 EXEC_DAYS = 15          # issue -> executed, incl. bonds and insurance certs
 PM_REVIEW_DAYS = 10     # Attachment A draft -> PM review, revision, packet assembly
 
+# Packages whose Attachment A has been drafted and sent to the PM for review.
+# Add the package_id here when its exhibit lands in 02-drafts/.
+ATT_A_DRAFTED = {"RFP-008", "ITB-072"}
+
 # --------------------------------------------------------------------------
 # Which GMP BackSheet lines roll into which bid package.
 # The "(SEE LINE #xxx)" pointers in the BackSheet are the source for the
@@ -658,7 +662,8 @@ def build():
             other_factors=FACTORS.get(pkg, []),
             open_items=opens.get(pkg, []),
             combined=COMBINED.get(pkg, ""),
-            att_a_status="DRAFTED — with PM" if pkg == "RFP-008" else "not started",
+            att_a_status=("DRAFTED — with PM" if pkg in ATT_A_DRAFTED
+                          else "not started"),
             subcontract_status="not issued",
         ))
 

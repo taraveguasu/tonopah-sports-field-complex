@@ -174,6 +174,61 @@ All confirmed by reading the source document, not inferred from a count.
    attendees all unfilled. Either the meeting record was never completed or the wrong file was
    saved.
 
+### Open items raised by drafting — need PM decisions
+Findings that only surface when a package is actually written. Full write-up per package in
+`02-drafts/<package_id>/PM-NOTES.md`.
+
+**From ITB-072 Building Signage (08.07.26):**
+
+**Three of these were closed by PM ruling 08.07.26** — see the rulings log. The plaque and
+evacuation map are out, the mural belongs to the Owner post-completion, and Type A/Type B is a
+same-price question resolved at shop drawing review. Items 2 and 3 below are struck; the
+exhibit and `02-drafts/ITB-072/PM-NOTES.md` are updated and the amount is unchanged at $22,450.
+
+1. **The carried price covers three of the seven sign types.** G0-11 details seven types, but
+   only types 1 (room/door), 2 (elec. room) and 3 (restroom) are tagged on the signage floor
+   plan — sixteen tags, matching CORE's own "Room ID Signs — 16 EA" takeoff. Types 4 (exit),
+   5 (max occupancy), 6 (FDC) and 7 (no smoking) are drawn but never tagged, so bidders
+   counting tags never saw them. YESCO priced 17 signs across types 1/2/3 only; Image360 was
+   the only bidder to catch the exit signs (10 ea, 30 total); Y C Signs caught max occupancy
+   (2 ea). **YESCO's line also carries no permit** though the narrative requires permits and
+   two competitors priced them. The exhibit carries the full document scope; the $22,450 does
+   not. **STILL OPEN** — the 08.07.26 shop-drawing-review direction was read as applying to the
+   Type A/B question, not to this commercial gap.
+2. ~~**The dedication plaque and emergency evacuation map appear nowhere but the scope
+   narrative**~~ — **CLOSED 08.07.26, both incorrect on the narrative and out of scope.** They
+   appeared on no sheet and in no spec, which is why no bidder priced them.
+3. ~~**The mascot mural has no home.**~~ — **CLOSED 08.07.26, painted by the Owner after
+   completion.** Keynote 6-10 on A5-10 said "PAINTED BY OTHERS"; "others" is the Owner. CORE's
+   D.B. estimate still carries "School Logo Graphic — 119 SF @ $25 = $2,975" *inside* #072,
+   which is now buy-out savings rather than scope.
+4. **Exterior building letters: quantity and construction both unsettled.** CORE's estimate says
+   40 EA, the leveling row says 27 EA, Image360's own line items sum to 32. There is no
+   lettering specification at all — keynote 6-04 says only "24" H METAL SIGNAGE" — and on
+   leveling tab `45` a bidder offered the same work as 1/8" powder-coated ($6,780) or 2"-deep
+   metal channel ($12,892), an 89% spread. Drafted by description per ruling D, with no count.
+5. **Section 10 14 23 publishes only Type A**, but G0-11 details Type A *and* Type B — **the
+   commercial half is CLOSED 08.07.26** (same price, both included, determined at shop drawing
+   review, no adjustment), leaving the documentation gap. **Still open underneath it:** the spec
+   sets no exterior-grade requirement though roughly half the signs are outdoors, and Image360
+   was the only bidder to price exterior signs differently (1/4" aluminum vs 1/8" acrylic). The
+   exhibit requires exterior-rated materials as reasonably inferable — if Type A and Type B are
+   the same price because both are the interior plastic product, that requirement is what will
+   cost money, not the type designation.
+6. **Track and field signage is now excluded by both RFP-008 and ITB-072** and has no home in
+   any package. Going the other way, BackSheet #015 "Site Signage, Striping, & Parking
+   Accessories" carries $0 behind "(SEE LINE #008)", which answers the site-signage half of
+   RFP-008's open question 1 from the money side.
+7. **ITB-072's record still says "not-yet-awarded"** (`01-index/packages/ITB-072.json`), which
+   predates the GMP; the BackSheet carries YESCO at $22,450. Same pattern as RFP-094 and
+   RFP-109. Its YESCO supersession is also recorded backwards — the *descope* is the strict
+   superset (it carries the $4,250 menu display case line the GMP bought) and both files are
+   dated 05.12.26.
+8. **YESCO commercial items:** no legal entity name appears anywhere on file (only "YESCO" /
+   "YESCO - Reno"); their price expired 06.11.26 with a stated 10-day validity while this
+   package's latest release is 04.12.27; their standard terms reserve a post-award "Right to
+   Review" of the subcontract and convert in-wall obstructions to time and material.
+
 ### Spec gaps (08.05.26) — 4 closed by ruling, 15 open
 Nineteen sections are cited by a scope doc but absent from the manual. Five are near-certain
 renumberings (02 41 13→02 41 00, 05 31 12→05 31 00, 08 31 13→08 31 00, 10 21 00→10 21 13.13,
@@ -222,7 +277,14 @@ Listing". Page 15's own section heading reads **SECTION 00 4336C**, and it is fi
 - [x] Stage 2: **REBUILT (08.06.26).** All three root causes of the 07.31.26 rejection are closed: the 33 scope narratives are extracted and are the primary authority; Addendum #1 is applied as supersession and sheets are read at their current revision; all 246 bidder documents are read, not just mapped. Spec sections cataloged and every technical section assigned. Sheet→package assignments re-derived from the scope docs. **68/68 verification probes pass.** Open PM decisions collected in `01-index/pm-open-items.md`.
 - [ ] Stage 3b: **YOU ARE HERE** — the rebuilt index must clear the same PM review that failed on 07.31.26 before drafting starts.
 - [x] Stage 3: Index reviewed by PM — done, and it failed. Verdicts and root causes in `01-index/pm-review-2026-07-31.md`. The re-index must clear this same review before Stage 4.
-- [ ] Stage 4: Drafts generated (`02-drafts/`)
+- [ ] Stage 4: Drafts generated (`02-drafts/`) — **2 of 33 drafted, both with PM.** RFP-008
+  (New-Com/TAB, $1,741,321) and ITB-072 (YESCO, $22,450). Each package ships three files:
+  `<Sub> Draft Att A.docx`, `<Sub> - Att A Review Cover Sheet.xlsx`, and `PM-NOTES.md` for the
+  judgment calls that do not belong in an exhibit. Content record per package lives in
+  `01-index/attachment-a-content/<package_id>.json`; build with
+  `scripts/build_attachment_a.py <id>` then `scripts/build_att_a_cover.py <id>`. Add the
+  package_id to `ATT_A_DRAFTED` in `scripts/build_buyout_log.py` and rerun it so the buy-out
+  log tracks status.
 - [ ] Stage 5: QA leveling register generated (`03-qa/`)
 - [ ] Stage 6: Gaps/overlaps resolved by PM
 - [ ] Stage 7: Final exhibits generated (`04-output/`)
@@ -304,6 +366,9 @@ entire demolition scope is RFP-008.
 | 08.06.26 | **E2** — ITB-066 Fluid-Applied Flooring: **scope removed by the Owner in a value engineering exercise** |
 | 08.06.26 | **F1/F2/F3** — RFP-008 tab reversal, 07 25 00 shared RFP-045/ITB-040, and no firestopping obligation: all confirmed |
 | 08.05.26 | **07 84 00 Firestopping needs no action — there are no fire-rated assemblies on this project** (all three partition types rate 0; LS1-10 shows 0 HR throughout) |
+| 08.07.26 | **ITB-072 — the dedication plaque and emergency evacuation map were incorrect on the Scope of Work narrative.** Both are out of scope. The narrative on file still names them, so exhibits exclude them by name rather than staying silent |
+| 08.07.26 | **The mascot mural is painted by the OWNER after the Project is complete** — closes keynote 6-10's "PAINTED BY OTHERS". Not RFP-060, not ITB-072. CORE's D.B. estimate still carries $2,975 of it inside #072, which is now buy-out savings rather than scope |
+| 08.07.26 | **ITB-072 — panel sign Type A and Type B carry the same price**, so the absent Type B specification does not affect the Subcontract Amount. Both configurations are included and the determination moves to shop drawing review at no adjustment |
 
 ### `package-index.json` summary — ⚠️ SUPERSEDED, describes the rejected index
 Kept for provenance. Findings below that came from the vision pass are still useful as leads,
@@ -322,7 +387,7 @@ but every package assignment must be re-derived from the hierarchy above.
   - **Spec sections cited by scope docs that don't exist in the manual**: 02 81 00 (RFP-002), 07 13 00 (ITB-040), 09 82 00 (ITB-044), 10 44 13 (ITB-074), 10 51 13 (ITB-077), 11 68 33 (ITB-019), 13 12 50 (RFP-094 Bleachers). Left uncited rather than guessed — these are real spec gaps, not indexing failures.
   - **Section 12 93 00 (Site Furnishings)** spans both ITB-018 (benches/waste receptacles) and ITB-019 (Track & Field Athletic Equipment — NFHS goals/cages/pits) per its own Section Includes — scope-qa needs to verify the two awarded subs don't both claim the athletic-equipment portion.
   - **Section 08 31 00 (Access Doors and Panels)** exists in the spec manual but is claimed by no package — a real gap-zone hit.
-  - Duplicate "ADD Menu Display Case" alternate is worded identically in both ITB-072 (Building Signage) and ITB-085 (Warming Kitchen Food Service Equipment) — plus ITB-071's own title ("Visual Display Boards & Menu Display Case") also implies this scope, so three packages may be touching it. Needs PM resolution on which one actually carries it.
+  - ~~Duplicate "ADD Menu Display Case" alternate is worded identically in both ITB-072 (Building Signage) and ITB-085 (Warming Kitchen Food Service Equipment) — plus ITB-071's own title ("Visual Display Boards & Menu Display Case") also implies this scope, so three packages may be touching it.~~ — **RESOLVED 08.07.26 from the GMP, pending PM confirmation. The Menu Display Case is ITB-072's.** Leveling tab `71` row 29 reads `SOW 072 | Menu Display Case | O | SEE SOW 072` and ADP Lemco did not bid it; ADP Lemco's carried $6,695.82 is markerboards only ($3,095.82 + $3,600 install add); leveling tab `72` row 27 carries "Menu Display Board +$4,250" inside YESCO's base, and $18,200 + $4,250 = the BackSheet's $22,450. Tab `85` has no menu display case row at all, and the BackSheet retitles line #071 "Visual Display **Boards**". **Consequences: ITB-071's exhibit must exclude it, and BackSheet #083 Manufactured Specialties ($0, "SEE LINE #071") is a stale pointer — 071 redirects to 072.** Product mismatch to watch: keynote 6-01 on A5-10 is an Aarco **ODCC** 5'-0"x3'-0" cabinet, but Section 10 11 00 ¶2.01.B specifies an Aarco **OADC3672-3H**, 6 ft in one piece. All three signage bidders priced the drawn ODCC.
   - RFP-094 (Bleachers & Press Box) scope doc cites a bleacher-specific section that doesn't exist; only a generic Fabricated Structures section was found and tentatively assigned to the press box portion only.
 
 ## Open Questions / Notes
