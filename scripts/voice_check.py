@@ -54,7 +54,11 @@ GROUP_HEADER = (
 # bare -- "General Scope Requirements" on its own line, items underneath -- with
 # no formula at all. "The following requirements shall apply to all work under
 # this Scope of Work package:" appears nowhere in his writing or the template.
-CATCH_ALL_HEADER = re.compile(r"^General Scope Requirements\s*[-–—]?\s*$")
+# A bare title with no formula and no trailing sentence -- "General Scope
+# Requirements", "Submittals, Permits, Testing & General Scope Requirements".
+# Matching only the literal phrase would reject a descriptive variant that is
+# otherwise in his form.
+CATCH_ALL_HEADER = re.compile(r"^[A-Z][^.:]{3,70}?\s*[-–—]?\s*$")
 INVENTED_HEADER = "The following requirements shall apply to all work under this Scope of Work"
 
 # Profile rule 3. Deliberately a denylist, not an allowlist of verbs: the first
@@ -153,6 +157,20 @@ SPELLED_COUNT = re.compile(
 DIGITS = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
           "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
           "fifteen": 15, "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50}
+
+# Profile rule 12. Exclusions name what is out, not who has it instead. 2 of his
+# 192 exclusion lines route (1.0%); the current drafts route 27%. Routing puts a
+# representation about another subcontract's contents into this one, and on this
+# project it would have been false -- RFP-008 and ITB-072 both excluded track
+# signage, so neither could truthfully point at the other.
+ROUTED_EXCLUSION = re.compile(
+    r"\bwhich (are|is) (included in|provided by|performed by)\b|"
+    r"\bincluded in the .{3,60}? Scope of Work\b|"
+    r"\b(are|is) (provided|furnished|performed) by (the )?[A-Z]",
+)
+
+# His exclusions run median 5 words, p90 11, p99 24.
+LONG_EXCLUSION_WORDS = 24
 
 # Profile rule 5. The blank template's install verb, not the PM's -- 25 of his
 # 1,554 scope items (1.6%), less even than the other CORE author's 3.4%, while
@@ -261,6 +279,16 @@ def check_line(rep, where, text, is_exclusion=False):
                     f"defined term lowercased — write '{proper}' (rule 7)", text)
 
     if is_exclusion:
+        m = ROUTED_EXCLUSION.search(text)
+        if m:
+            rep.add("error", where,
+                    f"routes the work to another package (\"{m.group(0)}\") — the PM's "
+                    f"exclusions state what is out and stop, 2 of 192 (rule 12)", text)
+        n = len(text.split())
+        if n > LONG_EXCLUSION_WORDS:
+            rep.add("warn", where,
+                    f"{n} words — his exclusions run median 5, p99 {LONG_EXCLUSION_WORDS} "
+                    f"(rule 12)", text)
         return
 
     m = SPELLED_COUNT.search(text)
@@ -309,7 +337,7 @@ def check(pkg, quiet=False):
             rep.add("error", f"group {gi} header",
                     "the trailing sentence is invented — the PM writes this group's "
                     "title bare, e.g. 'General Scope Requirements' with the items "
-                    "underneath and no formula (rule 12)", header)
+                    "underneath and no formula (rule 11)", header)
         else:
             rep.add("error", f"group {gi} header",
                     "does not carry the template's group-header formula (rule 2)", header)

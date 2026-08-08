@@ -8,38 +8,38 @@ rule describes. Built by `scripts/build_voice_corpus.py`.
 
 | author | authored lines | boilerplate lines | documents | document types |
 |---|---:|---:|---:|---|
-| yours | 1603 | 183 | 40 | executed |
-| CORE (others) | 801 | 679 | 44 | executed, template |
+| yours | 1795 | 223 | 40 | executed |
+| CORE (others) | 609 | 639 | 44 | executed, template |
 | drafts | 138 | 11 | 2 | draft |
 
 ## Probe hits (share of that author's authored lines)
 
 | probe | yours | CORE (others) | drafts |
 |---|---:|---:|---:|
-| opener: Includes | 244 (15%) | 1 (0%) | 6 (4%) |
+| opener: Includes | 244 (14%) | 1 (0%) | 6 (4%) |
 | opener: Supply only, F.O.B. | 2 (0%) | 0 (0%) | 0 (0%) |
-| opener: Supply and install | 183 (11%) | 4 (0%) | 14 (10%) |
-| opener: Provide and install | 25 (2%) | 10 (1%) | 1 (1%) |
-| opener: Furnish and install | 44 (3%) | 2 (0%) | 0 (0%) |
-| opener: Provide | 274 (17%) | 21 (3%) | 37 (27%) |
-| opener: Coordinate | 125 (8%) | 3 (0%) | 2 (1%) |
-| opener: Subcontractor shall | 37 (2%) | 50 (6%) | 0 (0%) |
-| responsibility: by others | 42 (3%) | 11 (1%) | 1 (1%) |
-| responsibility: Capitalized Subcontractor/trade | 90 (6%) | 35 (4%) | 7 (5%) |
-| coordination sentence | 177 (11%) | 5 (1%) | 2 (1%) |
+| opener: Supply and install | 184 (10%) | 3 (0%) | 14 (10%) |
+| opener: Provide and install | 25 (1%) | 10 (2%) | 1 (1%) |
+| opener: Furnish and install | 44 (2%) | 2 (0%) | 0 (0%) |
+| opener: Provide | 274 (15%) | 21 (3%) | 37 (27%) |
+| opener: Coordinate | 125 (7%) | 3 (0%) | 2 (1%) |
+| opener: Subcontractor shall | 37 (2%) | 50 (8%) | 0 (0%) |
+| responsibility: by others | 43 (2%) | 10 (2%) | 1 (1%) |
+| responsibility: Capitalized Subcontractor/trade | 90 (5%) | 35 (6%) | 6 (4%) |
+| coordination sentence | 177 (10%) | 5 (1%) | 2 (1%) |
 | cite: per plans and specifications | 55 (3%) | 13 (2%) | 12 (9%) |
 | cite: specifically referencing | 0 (0%) | 8 (1%) | 0 (0%) |
-| cite: as indicated/detailed | 147 (9%) | 2 (0%) | 25 (18%) |
-| cite: Section NN NNNN | 5 (0%) | 118 (15%) | 3 (2%) |
-| cite: detail or sheet number | 24 (1%) | 4 (0%) | 0 (0%) |
+| cite: as indicated/detailed | 147 (8%) | 2 (0%) | 25 (18%) |
+| cite: Section NN NNNN | 10 (1%) | 113 (19%) | 3 (2%) |
+| cite: detail or sheet number | 25 (1%) | 3 (0%) | 0 (0%) |
 | scope: whether shown or not | 1 (0%) | 0 (0%) | 0 (0%) |
-| abbrev defined on first use | 9 (1%) | 15 (2%) | 1 (1%) |
-| number: numeral in parens | 9 (1%) | 50 (6%) | 1 (1%) |
-| number: bare spelled-out | 8 (0%) | 5 (1%) | 8 (6%) |
-| number: inch/foot marks | 19 (1%) | 5 (1%) | 3 (2%) |
+| abbrev defined on first use | 10 (1%) | 14 (2%) | 1 (1%) |
+| number: numeral in parens | 9 (1%) | 50 (8%) | 1 (1%) |
+| number: bare spelled-out | 9 (1%) | 4 (1%) | 6 (4%) |
+| number: inch/foot marks | 20 (1%) | 4 (1%) | 6 (4%) |
 | parenthetical: (i.e./e.g. | 0 (0%) | 6 (1%) | 0 (0%) |
-| hedge: including but not limited to | 26 (2%) | 4 (0%) | 0 (0%) |
-| abbrev: CMU/MEP/AFF/OSHA | 34 (2%) | 7 (1%) | 4 (3%) |
+| hedge: including but not limited to | 26 (1%) | 4 (1%) | 0 (0%) |
+| abbrev: CMU/MEP/AFF/OSHA | 37 (2%) | 4 (1%) | 4 (3%) |
 | spelled-out term: Concrete Masonry Unit | 0 (0%) | 5 (1%) | 0 (0%) |
 | spelled-out term: Mechanical, Electrical and Plumbing | 0 (0%) | 1 (0%) | 0 (0%) |
 
@@ -47,34 +47,34 @@ rule describes. Built by `scripts/build_voice_corpus.py`.
 
 | probe | yours / executed | CORE (others) / executed | CORE (others) / template | drafts / draft |
 |---|---:|---:|---:|---:|
-| opener: Includes | 244 (15%) | 1 (0%) | 0 (0%) | 6 (4%) |
+| opener: Includes | 244 (14%) | 1 (0%) | 0 (0%) | 6 (4%) |
 | opener: Supply only, F.O.B. | 2 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| opener: Supply and install | 183 (11%) | 4 (1%) | 0 (0%) | 14 (10%) |
-| opener: Provide and install | 25 (2%) | 0 (0%) | 10 (26%) | 1 (1%) |
-| opener: Furnish and install | 44 (3%) | 2 (0%) | 0 (0%) | 0 (0%) |
-| opener: Provide | 274 (17%) | 9 (1%) | 12 (32%) | 37 (27%) |
-| opener: Coordinate | 125 (8%) | 3 (0%) | 0 (0%) | 2 (1%) |
-| opener: Subcontractor shall | 37 (2%) | 49 (6%) | 1 (3%) | 0 (0%) |
-| responsibility: by others | 42 (3%) | 8 (1%) | 3 (8%) | 1 (1%) |
-| responsibility: Capitalized Subcontractor/trade | 90 (6%) | 35 (5%) | 0 (0%) | 7 (5%) |
-| coordination sentence | 177 (11%) | 5 (1%) | 0 (0%) | 2 (1%) |
+| opener: Supply and install | 184 (10%) | 3 (1%) | 0 (0%) | 14 (10%) |
+| opener: Provide and install | 25 (1%) | 0 (0%) | 10 (26%) | 1 (1%) |
+| opener: Furnish and install | 44 (2%) | 2 (0%) | 0 (0%) | 0 (0%) |
+| opener: Provide | 274 (15%) | 9 (2%) | 12 (32%) | 37 (27%) |
+| opener: Coordinate | 125 (7%) | 3 (1%) | 0 (0%) | 2 (1%) |
+| opener: Subcontractor shall | 37 (2%) | 49 (9%) | 1 (3%) | 0 (0%) |
+| responsibility: by others | 43 (2%) | 7 (1%) | 3 (8%) | 1 (1%) |
+| responsibility: Capitalized Subcontractor/trade | 90 (5%) | 35 (6%) | 0 (0%) | 6 (4%) |
+| coordination sentence | 177 (10%) | 5 (1%) | 0 (0%) | 2 (1%) |
 | cite: per plans and specifications | 55 (3%) | 1 (0%) | 12 (32%) | 12 (9%) |
 | cite: specifically referencing | 0 (0%) | 0 (0%) | 8 (21%) | 0 (0%) |
-| cite: as indicated/detailed | 147 (9%) | 2 (0%) | 0 (0%) | 25 (18%) |
-| cite: Section NN NNNN | 5 (0%) | 114 (15%) | 4 (11%) | 3 (2%) |
-| cite: detail or sheet number | 24 (1%) | 4 (1%) | 0 (0%) | 0 (0%) |
+| cite: as indicated/detailed | 147 (8%) | 2 (0%) | 0 (0%) | 25 (18%) |
+| cite: Section NN NNNN | 10 (1%) | 109 (19%) | 4 (11%) | 3 (2%) |
+| cite: detail or sheet number | 25 (1%) | 3 (1%) | 0 (0%) | 0 (0%) |
 | scope: whether shown or not | 1 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| abbrev defined on first use | 9 (1%) | 14 (2%) | 1 (3%) | 1 (1%) |
-| number: numeral in parens | 9 (1%) | 40 (5%) | 10 (26%) | 1 (1%) |
-| number: bare spelled-out | 8 (0%) | 3 (0%) | 2 (5%) | 8 (6%) |
-| number: inch/foot marks | 19 (1%) | 5 (1%) | 0 (0%) | 3 (2%) |
+| abbrev defined on first use | 10 (1%) | 13 (2%) | 1 (3%) | 1 (1%) |
+| number: numeral in parens | 9 (1%) | 40 (7%) | 10 (26%) | 1 (1%) |
+| number: bare spelled-out | 9 (1%) | 2 (0%) | 2 (5%) | 6 (4%) |
+| number: inch/foot marks | 20 (1%) | 4 (1%) | 0 (0%) | 6 (4%) |
 | parenthetical: (i.e./e.g. | 0 (0%) | 0 (0%) | 6 (16%) | 0 (0%) |
-| hedge: including but not limited to | 26 (2%) | 4 (1%) | 0 (0%) | 0 (0%) |
-| abbrev: CMU/MEP/AFF/OSHA | 34 (2%) | 7 (1%) | 0 (0%) | 4 (3%) |
+| hedge: including but not limited to | 26 (1%) | 4 (1%) | 0 (0%) | 0 (0%) |
+| abbrev: CMU/MEP/AFF/OSHA | 37 (2%) | 4 (1%) | 0 (0%) | 4 (3%) |
 | spelled-out term: Concrete Masonry Unit | 0 (0%) | 5 (1%) | 0 (0%) | 0 (0%) |
 | spelled-out term: Mechanical, Electrical and Plumbing | 0 (0%) | 1 (0%) | 0 (0%) | 0 (0%) |
 
-Denominators: yours / executed 1603, CORE (others) / executed 763, CORE (others) / template 38, drafts / draft 138.
+Denominators: yours / executed 1795, CORE (others) / executed 571, CORE (others) / template 38, drafts / draft 138.
 
 ## Scope-item shape
 
@@ -136,11 +136,12 @@ Denominators: yours / executed 1603, CORE (others) / executed 763, CORE (others)
 
 | probe | yours | CORE (others) | delta |
 |---|---:|---:|---:|
-| opener: Includes | 15% | 0% | +15% |
-| opener: Provide | 17% | 3% | +14% |
-| cite: Section NN NNNN | 0% | 15% | -14% |
-| opener: Supply and install | 11% | 0% | +11% |
-| coordination sentence | 11% | 1% | +10% |
-| cite: as indicated/detailed | 9% | 0% | +9% |
-| opener: Coordinate | 8% | 0% | +7% |
-| number: numeral in parens | 1% | 6% | -6% |
+| cite: Section NN NNNN | 1% | 19% | -18% |
+| opener: Includes | 14% | 0% | +13% |
+| opener: Provide | 15% | 3% | +12% |
+| opener: Supply and install | 10% | 0% | +10% |
+| coordination sentence | 10% | 1% | +9% |
+| cite: as indicated/detailed | 8% | 0% | +8% |
+| number: numeral in parens | 1% | 8% | -8% |
+| opener: Coordinate | 7% | 0% | +6% |
+| opener: Subcontractor shall | 2% | 8% | -6% |

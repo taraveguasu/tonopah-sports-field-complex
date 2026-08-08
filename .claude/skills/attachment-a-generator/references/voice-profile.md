@@ -31,11 +31,10 @@ Every rule below is checked on both, and the report prints that comparison
 (`## Does it hold across jobs?` in `01-index/voice-corpus-stats.md`). **A probe that swings
 hard between his jobs is a convention, not a voice rule, and is not enforced as one.**
 
-**Only the SCOPE OF WORK section of those exhibits is the PM's writing** — confirmed 08.08.26.
-The construction-documents list, project-specific provisions, scope options and exclusions come
-from the template and the contracts department, and are attributed `core` even inside his own
-files (`SELF_SECTIONS` in `build_voice_corpus.py`). This profile is authoritative about scope
-items and group headers, and says nothing personal about exclusions.
+**The SCOPE OF WORK and EXCLUSIONS sections are his** — confirmed 08.08.26. The
+construction-documents list, project-specific provisions and scope options are not: they are
+assembled from the spec manual, are standing contract terms, or are priced adds, and stay
+`core` even inside his own files (`SELF_SECTIONS` in `build_voice_corpus.py`).
 
 | Confidence | Means |
 |---|---|
@@ -249,7 +248,44 @@ writing or in the template. `voice_check.py` errors on that sentence.
 ⚠️ This was warned about as an unverified invention when the corpus was one exhibit. With 40 it
 resolves the other way: the *group* is his, the *sentence* is not.
 
-## 12. Small packages skip the group-header structure — `medium`
+## 12. Exclusions are terse noun phrases, and do not route — `high`
+
+**192 exclusion lines. Median 5 words**, p75 8, p90 11. Sentence case, no trailing period, no
+verb:
+
+> Building permits · Shoring for concrete pours · Glazing at non-rated door lites ·
+> Dedicated firewatch · Furnishing and placing of grout · Cost of inspection and tests ·
+> All non-ferrous material · Roof access hatches
+
+**They do not say who has the work instead: 2 of 192 (1.0%).** No "by others", no "which is
+included in the X Scope of Work". An exclusion states that this Subcontractor is not doing it
+and stops there.
+
+Only four lines recur across many exhibits — *Building permits*, *Payment and Performance
+Bond*, *General Liability Insurance – Onsite Coverage*, *Temporary power*. Those are the
+standing defaults. **134 of 152 distinct lines appear on exactly one exhibit**, written off
+that package's descope, and some cite a sheet: *"Site fencing and gates at mechanical yard and
+outdoor breakroom per AS2.14 & AS4.02."*
+
+Qualifiers are used sparingly where a boundary needs one (6%): *"Shoring and bracing, except as
+included above."*
+
+### Why not route
+
+An earlier version of this file recommended the opposite — that exclusions name the package
+that *does* carry the work, on the reasoning that it forecloses the "then nobody has it"
+argument. That recommendation is withdrawn.
+
+Routing writes a representation about **another subcontract's contents** into this one. Telling
+the signage subcontractor that track signage sits in the sitework package is a statement by
+CORE about what the sitework subcontract contains — and if it does not contain it, the
+subcontractor has that in writing. On this project that risk was live: RFP-008 and ITB-072 both
+excluded track and field signage, so the routing would have been false.
+
+Route only where the receiving package is already bought and its executed Attachment A actually
+carries the work. Otherwise exclude and stop.
+
+## 13. Small packages skip the group-header structure — `medium`
 
 A scope small enough to state in two or three items is written as flat items directly under the
 turnkey clause, with no trade group header at all. The $33,700 cleaning package is two items.
@@ -265,13 +301,12 @@ against 1.6%. See rule 5.
 **D3. Standing operational obligations — CLOSED.** Present across both jobs as short single-line
 items. See rule 10.
 
-**D2. Exclusion style — still open, and no amount of this corpus closes it.** The PM wrote only
-the SCOPE OF WORK sections. House practice is terse Title Case noun phrases (*Concrete
-Footings*, *Anti-Graffiti Applications*); the current drafts instead route the work —
-*"…which are included in the Scoreboards Scope of Work"* — which forecloses the "then nobody has
-it" argument in a change-order dispute. Recommendation: **keep the routing, adopt the Title
-Case.** Needs a call, not more corpus. (If the PM does write exclusions himself, adding
-`"exclusions"` to `SELF_SECTIONS` settles it from evidence.)
+**D2. Exclusion style — CLOSED 08.08.26, from evidence.** The exclusions on his exhibits were
+tagged `core` on his description of his own role and never read. Reading them showed 134 of 152
+distinct lines unique to a single exhibit, several citing sheet numbers — authored per package,
+not template. He confirmed they are his, `SELF_SECTIONS` gained `"exclusions"`, and rule 12 is
+the measured result: terse, median 5 words, 1% routed. The earlier recommendation to keep the
+drafts' routing is withdrawn there, with the reasoning.
 
 ---
 
@@ -295,9 +330,8 @@ python3 scripts/voice_check.py --all      # re-check every drafted package
 ```
 
 At 40 exhibits over two jobs the openers, length distribution and citation idiom have stopped
-moving; a third job would mostly re-confirm them. The remaining gaps are **exclusions written by
-the PM himself** (closes D2) and any job outside Nevada public works, where the register may
-differ.
+moving; a third job would mostly re-confirm them. With D2 closed there is no open question the
+corpus is waiting on. The one register not represented is a job outside Nevada public works.
 
 The PM markup loop (`read_att_a_markup.py`) captures every edit he makes to a draft in review,
 and those edits *are* `self`-authored — a change made twice is a rule that belongs in this file.

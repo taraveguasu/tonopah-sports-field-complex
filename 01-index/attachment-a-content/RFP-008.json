@@ -154,7 +154,7 @@
       ]
     },
     {
-      "header": "General Scope Requirements - The following requirements shall apply to all work under this Scope of Work package:",
+      "header": "General Scope Requirements",
       "items": [
         "Request surveying a minimum of forty-eight (48) hours in advance, in writing to Contractor, and protect and maintain all survey monuments and staking to prevent damage.",
         "Immediately cease work and coordinate with Contractor for remediation and disposal of any hazardous materials encountered during the course of the work.",
@@ -208,17 +208,17 @@
     "Slope stabilization beyond that required to maintain the angle of repose at graded slopes",
     "Decomposed granite at the shot put and discus area",
     "Track and field signage and athletic field markings",
-    "Long jump pit sand and rip rap at the swale, which are included in the Landscaping & Irrigation Scope of Work",
+    "Long jump pit sand and rip rap at the swale",
     "Propane gas system at the abandoned elementary school campus",
     "Concrete flatwork, sidewalks, curb and gutter, and athletic equipment footings",
     "Dry utility trenching and backfill, except as specifically included above"
   ],
   "phase_code": "02-1000-10000",
-  "_phase_code_note": "Template default for Division 02. The GMP's Viewpoint Import sheet carries the amount but not a full phase code \u2014 CONFIRM with accounting.",
+  "_phase_code_note": "Template default for Division 02. The GMP's Viewpoint Import sheet carries the amount but not a full phase code — CONFIRM with accounting.",
   "_leveling_sheet": "tab '8' (Site Demo, Earthwork, Paving & Wet Utilities)",
   "_amount_buildup": [
     [
-      "Base Bid \u2014 TAB proposal 05.12.26, restated 05.22.26",
+      "Base Bid — TAB proposal 05.12.26, restated 05.22.26",
       1924851
     ],
     [
@@ -234,7 +234,7 @@
       30000
     ],
     [
-      "Deduct: Accepted VE #10 \u2014 leave access road as-is (incl. relocation of 2,100 CY to stockpile)",
+      "Deduct: Accepted VE #10 — leave access road as-is (incl. relocation of 2,100 CY to stockpile)",
       -16750
     ],
     [
@@ -246,8 +246,11 @@
       18720
     ],
     [
-      "Deduct: Accepted VE #9 \u2014 RCP flared end section in lieu of headwall",
+      "Deduct: Accepted VE #9 — RCP flared end section in lieu of headwall",
       -10500
     ]
+  ],
+  "_pm_rulings_applied": [
+    "08.08.26 - Exclusion style closed from the PM's own 40 exhibits (rule 12): exclusions state what is out and do not route the work to another package. Routing clauses removed; scope unchanged. Closing group header written bare, per his practice across 25 exhibits."
   ]
 }

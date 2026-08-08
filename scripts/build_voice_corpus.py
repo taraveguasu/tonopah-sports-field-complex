@@ -54,13 +54,21 @@ ROOT = Path(__file__).resolve().parent.parent
 DROP = ROOT / "00-source-docs" / "voice-corpus"
 MINE = DROP / "mine"          # exhibits this repo's PM wrote -- the authority
 
-# Which sections of a mine/ exhibit the PM actually wrote. Confirmed 08.08.26:
-# "I only wrote the scope of work section." The rest of a FINAL exhibit -- the
-# construction-documents list, the project-specific provisions, the exclusions --
-# comes from the template and the contracts department, so attributing a whole
-# packet to the PM would put other people's sentences in the personal corpus and
-# then measure them as personal voice. Widen this set only on the PM's say-so.
-SELF_SECTIONS = {"scope"}
+# Which sections of a mine/ exhibit the PM actually wrote.
+#
+# Started as {"scope"} on his own description -- "I only wrote the scope of work
+# section" -- and the exclusions were tagged `core` on that basis without ever
+# being read. They should have been read: 134 of 152 distinct exclusion lines
+# appear on exactly one exhibit, several citing sheet numbers ("per AS2.14 &
+# AS4.02"). Only four lines recur across many exhibits (building permits, P&P
+# bond, GL insurance, temporary power) and those are template defaults. Lines
+# written per package off the descope are authored, and he confirmed 08.08.26
+# that they are his.
+#
+# The remaining `core` sections are genuinely not his: the construction-documents
+# list is assembled from the spec manual, the project-specific provisions are
+# standing contract terms, and scope options are priced adds.
+SELF_SECTIONS = {"scope", "exclusions"}
 
 PROCESS = ROOT / "00-source-docs" / "05-supplemental" / "attachment-a-process"
 TEMPLATE_DIR = ROOT / "00-source-docs" / "SUBCONTRACTOR FILES" / "0 - ATTACHMENT A - Scope of Work"
