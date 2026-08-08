@@ -1,19 +1,52 @@
 # Voice corpus — measured
 
 Authored lines only; template boilerplate is excluded from every count.
-Built by `scripts/build_voice_corpus.py`.
+Grouped by who wrote the line, since that is what decides whose voice a
+rule describes. Built by `scripts/build_voice_corpus.py`.
+
+> ⚠️ **No lines in this corpus were written by this repo's PM.**
+> Every rule below therefore describes CORE *house* style as practised by
+> other authors — not personal voice. Put the PM's own executed exhibits in
+> `00-source-docs/voice-corpus/mine/` and re-run; those lines become the
+> authority and the rules get re-derived against them.
 
 ## Corpus size
 
-| source | authored lines | boilerplate lines | documents |
+| author | authored lines | boilerplate lines | documents | document types |
+|---|---:|---:|---:|---|
+| yours | 0 | 0 | 0 | -- |
+| CORE (others) | 90 | 17 | 4 | executed, template |
+| drafts | 138 | 11 | 2 | draft |
+
+## Probe hits (share of that author's authored lines)
+
+| probe | yours | CORE (others) | drafts |
 |---|---:|---:|---:|
-| executed | 50 | 14 | 1 |
-| template | 41 | 3 | 3 |
-| draft | 138 | 11 | 2 |
+| opener: Supply and install | -- | 2 (2%) | 14 (10%) |
+| opener: Provide and install | -- | 10 (11%) | 1 (1%) |
+| opener: Furnish and install | -- | 2 (2%) | 0 (0%) |
+| opener: Provide | -- | 19 (21%) | 37 (27%) |
+| opener: Coordinate | -- | 3 (3%) | 2 (1%) |
+| opener: Subcontractor shall | -- | 7 (8%) | 0 (0%) |
+| responsibility: by others | -- | 10 (11%) | 1 (1%) |
+| responsibility: Capitalized Subcontractor/trade | -- | 5 (6%) | 7 (5%) |
+| coordination sentence | -- | 5 (6%) | 2 (1%) |
+| cite: per plans and specifications | -- | 13 (14%) | 12 (9%) |
+| cite: specifically referencing | -- | 8 (9%) | 0 (0%) |
+| cite: as indicated/detailed | -- | 2 (2%) | 25 (18%) |
+| cite: Section NN NNNN | -- | 4 (4%) | 3 (2%) |
+| number: numeral in parens | -- | 11 (12%) | 1 (1%) |
+| number: bare spelled-out | -- | 2 (2%) | 8 (6%) |
+| number: inch/foot marks | -- | 1 (1%) | 3 (2%) |
+| parenthetical: (i.e./e.g. | -- | 6 (7%) | 0 (0%) |
+| hedge: including but not limited to | -- | 2 (2%) | 0 (0%) |
+| abbrev: CMU/MEP/AFF/OSHA | -- | 3 (3%) | 4 (3%) |
+| spelled-out term: Concrete Masonry Unit | -- | 5 (6%) | 0 (0%) |
+| spelled-out term: Mechanical, Electrical and Plumbing | -- | 1 (1%) | 0 (0%) |
 
-## Probe hits (share of that source's authored lines)
+## Probe hits by author and document type
 
-| probe | executed | template | draft |
+| probe | CORE (others) / executed | CORE (others) / template | drafts / draft |
 |---|---:|---:|---:|
 | opener: Supply and install | 2 (4%) | 0 (0%) | 14 (10%) |
 | opener: Provide and install | 0 (0%) | 10 (24%) | 1 (1%) |
@@ -37,15 +70,17 @@ Built by `scripts/build_voice_corpus.py`.
 | spelled-out term: Concrete Masonry Unit | 5 (10%) | 0 (0%) | 0 (0%) |
 | spelled-out term: Mechanical, Electrical and Plumbing | 1 (2%) | 0 (0%) | 0 (0%) |
 
+Denominators: CORE (others) / executed 49, CORE (others) / template 41, drafts / draft 138.
+
 ## Scope-item shape
 
-| source | items | median words | median sentences |
+| author | items | median words | median sentences |
 |---|---:|---:|---:|
-| executed | 34 | 28 | 1 |
-| template | 27 | 30 | 1 |
-| draft | 102 | 26 | 1 |
+| yours | 0 | -- | -- |
+| CORE (others) | 60 | 28 | 1 |
+| drafts | 102 | 26 | 1 |
 
-## Most common openers in executed + template scope items
+## Most common openers — CORE (others)
 
 - `Provide and` — 10
 - `Subcontractor shall` — 5
