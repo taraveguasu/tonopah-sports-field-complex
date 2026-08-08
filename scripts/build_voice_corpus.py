@@ -158,6 +158,20 @@ BOILERPLATE_CUES = [
 
 GROUP_HEADER_CUE = "provide all materials, labor, equipment, and supervision"
 
+# Every exhibit carries its job number. Stamping it on each record is what makes
+# the voice-versus-job-convention question answerable: a rule that holds on one
+# job may just be that job's habit, and only a second job can tell the
+# difference.
+PROJECT_NO = re.compile(r"CORE Project No\s*:?\s*([0-9]{2}-[0-9]{2}-[0-9]{3})")
+
+
+def project_of(lines):
+    for line in lines[:60]:
+        m = PROJECT_NO.search(line)
+        if m:
+            return m.group(1)
+    return "unknown"
+
 
 def norm(s):
     """Collapse whitespace and normalise the typography Word emits."""
@@ -256,6 +270,7 @@ def pdf_lines(path):
 def parse_exhibit(lines, source_id, kind, author):
     """Reassemble wrapped lines into outline items and tag each one."""
     records, section, buf = [], "scope", []
+    project = project_of([norm(x) for x in lines])
 
     def flush():
         if not buf:
@@ -270,6 +285,7 @@ def parse_exhibit(lines, source_id, kind, author):
                 "source_id": source_id,
                 "source_kind": kind,
                 "author": attribute(author, section),
+                "project": project,
                 "section": section,
                 "kind": classify(text, section),
                 "authored": not is_boilerplate(text),
@@ -329,9 +345,10 @@ def docx_exhibit(path, source_id, author):
     with zipfile.ZipFile(path) as z:
         xml = z.read("word/document.xml").decode("utf-8")
 
+    paras = [norm("".join(T_RE.findall(m.group(0)))) for m in P_RE.finditer(xml)]
+    project = project_of(paras)
     records, section = [], "scope"
-    for para in P_RE.finditer(xml):
-        text = norm("".join(T_RE.findall(para.group(0))))
+    for text in paras:
         if not text:
             continue
         head = text.lower().rstrip(":")
@@ -350,6 +367,7 @@ def docx_exhibit(path, source_id, author):
             "source_id": source_id,
             "source_kind": "executed",
             "author": attribute(author, section),
+            "project": project,
             "section": section,
             "kind": classify(text, section),
             "authored": not is_boilerplate(text),
@@ -390,6 +408,7 @@ def docx_highlighted(path, source_id, author="core"):
             "source_id": source_id,
             "source_kind": "template",
             "author": attribute(author, section),
+            "project": "template",
             "section": section,
             "kind": classify(text, section),
             "authored": not is_boilerplate(text),
@@ -415,6 +434,7 @@ def draft_records(path):
             "source_id": f"draft:{pkg}",
             "source_kind": "draft",
             "author": "claude",
+            "project": "26-01-019",
             "section": section,
             "kind": kind,
             "authored": not is_boilerplate(text),
@@ -589,6 +609,37 @@ def measure(records):
     for phrase, n in openers.most_common(12):
         lines.append(f"- `{phrase}` — {n}")
     lines.append("")
+
+    # The voice-versus-job-convention test. A rule measured on a single job may
+    # be that job's habit rather than how the PM writes; only a second job can
+    # tell them apart. Any probe that swings hard between his jobs is a
+    # convention, not a voice rule, and should not be enforced as one.
+    jobs = sorted({r.get("project") for r in groups["self"]} - {"unknown", None})
+    if len(jobs) > 1:
+        lines.append("## Does it hold across jobs? (the PM's scope items only)")
+        lines.append("")
+        cols = {j: [r for r in groups["self"]
+                    if r.get("project") == j and r["kind"] == "scope_item"]
+                for j in jobs}
+        other = [r for r in groups["core"] if r["kind"] == "scope_item"]
+        lines.append("| probe | " + " | ".join(f"{j} (n={len(c)})" for j, c in cols.items())
+                     + f" | CORE other (n={len(other)}) |")
+        lines.append("|---" + "|---:" * (len(cols) + 1) + "|")
+        for name, pat in PROBES:
+            rx = re.compile(pat)
+            cells = [f"{100*sum(1 for r in c if rx.search(r['text']))/len(c):.0f}%"
+                     if c else "--" for c in cols.values()]
+            cells.append(f"{100*sum(1 for r in other if rx.search(r['text']))/len(other):.0f}%"
+                         if other else "--")
+            lines.append(f"| {name} | " + " | ".join(cells) + " |")
+        lines.append("")
+        lines.append("| item length | " + " | ".join(
+            (lambda w: f"median {w[len(w)//2]}, p90 {w[int(.9*(len(w)-1))]}")(
+                sorted(len(r["text"].split()) for r in c)) if c else "--"
+            for c in cols.values())
+            + " | " + ((lambda w: f"median {w[len(w)//2]}, p90 {w[int(.9*(len(w)-1))]}")(
+                sorted(len(r["text"].split()) for r in other)) if other else "--") + " |")
+        lines.append("")
 
     # Where the PM's practice and CORE's differ, that difference IS the personal
     # voice -- the whole reason authorship is tracked. Surfaced only once there

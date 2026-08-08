@@ -1,8 +1,8 @@
 # Attachment A voice profile
 
-How this PM writes the SCOPE OF WORK section of an Attachment A, induced from eight exhibits
-he wrote and CORE executed — not from general contract-drafting advice, and not from the blank
-template.
+How this PM writes the SCOPE OF WORK section of an Attachment A, induced from 40 exhibits he
+wrote and CORE executed, across two jobs — not from general contract-drafting advice, and not
+from the blank template.
 
 `scope-drafter` reads this before writing any scope group, and `scripts/voice_check.py`
 enforces the mechanical half of it before an exhibit is built.
@@ -11,52 +11,54 @@ enforces the mechanical half of it before an exhibit is built.
 
 ## Corpus and authorship
 
-Every record in `01-index/voice-corpus.jsonl` carries an `author`:
+Every record in `01-index/voice-corpus.jsonl` carries an `author` and a `project`.
 
-| `author` | What it is | Lines | Weight |
+| `author` | What it is | Scope items | Weight |
 |---|---|---:|---|
-| `self` | **The PM's own SCOPE OF WORK sections**, from `00-source-docs/voice-corpus/mine/` | 411 | **The authority.** Outranks everything below |
-| `core` | Another CORE author's executed exhibit, and the blank templates' examples | 336 | House style. Governs only where `self` is silent |
-| `claude` | This project's generated drafts | 138 | Never defines a rule. Present so drift is measurable |
+| `self` | **The PM's own SCOPE OF WORK sections** | 1,554 | **The authority.** Outranks everything below |
+| `core` | Another CORE author's executed exhibit, and the blank templates | 295 | House style. Governs only where `self` is silent |
+| `claude` | This project's generated drafts | 102 | Never defines a rule. Present so drift is measurable |
 
-The `self` corpus is eight FINAL exhibits from **DMV Silverado Ranch** (SPWD, 23-01-011), across
-eight trades — ADI (Doors, Frames & Hardware), Adams & Smith (Structural & Ornamental Metals),
-Anning-Johnson (Metal Studs & Drywall), Great Salt Lake Electric, Rosendin (Low Voltage),
-Southland (Building & Lighting Controls), Performance Contracting, XL Concrete Masonry. That
-spread is what separates voice from trade vocabulary.
+The `self` corpus spans **two jobs, two years apart**:
+
+| Job | Exhibits | Scope items |
+|---|---:|---:|
+| 21-01-013 — UNLV College of Engineering, Academic & Research Building | 32 | 1,168 |
+| 23-01-011 — SPWD Silverado Ranch Facility (DMV) | 8 | 386 |
+
+Two jobs is what makes this a voice profile rather than a description of one job's conventions.
+Every rule below is checked on both, and the report prints that comparison
+(`## Does it hold across jobs?` in `01-index/voice-corpus-stats.md`). **A probe that swings
+hard between his jobs is a convention, not a voice rule, and is not enforced as one.**
 
 **Only the SCOPE OF WORK section of those exhibits is the PM's writing** — confirmed 08.08.26.
 The construction-documents list, project-specific provisions, scope options and exclusions come
-from the template and the contracts department, and are attributed `core` even inside the PM's
-own files (`SELF_SECTIONS` in `build_voice_corpus.py`). So this profile is authoritative about
-scope items and group headers, and says nothing personal about exclusions.
+from the template and the contracts department, and are attributed `core` even inside his own
+files (`SELF_SECTIONS` in `build_voice_corpus.py`). This profile is authoritative about scope
+items and group headers, and says nothing personal about exclusions.
 
 | Confidence | Means |
 |---|---|
-| **fixed** | Boilerplate. The template supplies it verbatim; not a writing choice at all |
-| **high** | Clear in the PM's own corpus, consistent across trades |
-| **medium** | Present in the PM's corpus but thin, or trade-specific |
-| **house** | No `self` evidence. CORE practice, followed by default — flag rather than rely |
-| **open** | Genuinely unsettled. Listed as a decision at the bottom |
-
-Counts cite `01-index/voice-corpus-stats.md` and name their bucket; percentages are against
-that bucket's own line count.
+| **fixed** | Boilerplate. The template supplies it verbatim; not a writing choice |
+| **high** | Holds on both jobs, with a wide margin over the other author |
+| **medium** | Holds on both jobs but at a low rate, or swings between them |
+| **thin** | Real but rare — a handful of instances. Do not generalise |
+| **open** | Unsettled. Listed as a decision at the bottom |
 
 ---
 
 ## 1. What is voice here, and what is not
 
-An Attachment A is three layers, and only one of them is written by a person:
+An Attachment A is three layers, and only one is written by a person:
 
 1. **The template's contract prose** — "Subcontractor has accounted for, as part of this lump
-   sum Subcontract, the fact that the Contract Documents may not contain all required
-   details…". Identical on every exhibit CORE issues. `build_attachment_a.py` only edits
-   highlighted runs, so this layer is byte-identical to the template and carries no voice
-   decisions. Do not paraphrase it, improve it, or reason about it.
-2. **The fixed formulas** — the group header, the spec-section line, the directive line. Fill
-   in the blanks; do not restyle. Rule 2.
-3. **The scope items** — the authored layer, and the PM's own work. Everything below is
-   about this layer.
+   sum Subcontract…". Identical on every exhibit CORE issues. `build_attachment_a.py` only
+   edits highlighted runs, so this layer is byte-identical to the template. Do not paraphrase
+   it, improve it, or reason about it.
+2. **The fixed formulas** — group header, spec-section line, directive line. Fill in the
+   blanks; do not restyle.
+3. **The scope items** — the authored layer, and the PM's own work. Everything below is about
+   this layer.
 
 ## 2. The group header is a formula — `fixed`
 
@@ -66,88 +68,102 @@ Scope of Work per plans and specifications. This Scope of Work shall include, bu
 limited to:
 ```
 
-Across 25 of the PM's group headers the **structure never varies**; only its casing does:
+Across 49 of his group headers the **structure never varies**. Only the casing does — and his
+own majority is the lowercase form:
 
 | | count |
 |---|---:|
 | Verbatim | 15 |
-| Same words, lowercase "scope of work" | 6 |
-| Trade name repeated inside — *"for a complete Audio-Visual System scope of work"* | 3 |
-| Truncated after "for a complete" (a slip) | 1 |
+| Same words, lowercase "scope of work" | 26 |
+| Trade name repeated inside, or truncated | 8 |
 
-Write it verbatim with the defined term capitalised — that is the plurality and it matches the
-template. Substitute only the trade name. Where a trade's name has a common abbreviation, define
-it here and use the short form below: *"Fiber-Reinforced Plastic (FRP) Paneling - Provide all
-materials…"*.
+**Write it capitalised anyway.** *Scope of Work* is a defined term in the Subcontract and the
+template capitalises it; the lowercase drift is a typing habit, not a decision. This is the one
+place the profile recommends against his majority practice, and it is a casing question with no
+commercial consequence.
+
+Where a trade's name has a common abbreviation, define it in the header and use the short form
+below: *"Fiber-Reinforced Plastic (FRP) Paneling - Provide all materials…"*.
 
 ## 3. Scope items are SHORT — `high`
 
-**Median 14 words. Quartiles 10 / 14 / 22. p90 32, p95 41, p99 50.** Across 386 scope items.
+**Median 13 words** across 1,554 items. Quartiles 9 / 13 / 22, p90 32, p95 40, p99 57.
 
-This is the largest single divergence from everything else in the corpus, and the one most
-worth enforcing:
+The distribution shape matters more than any single number:
 
-| | items | median | p90 | p99 |
-|---|---:|---:|---:|---:|
-| **PM (self)** | 386 | **14** | 32 | 50 |
-| CORE, other author | 86 | 28 | — | — |
-| Current drafts | 102 | 26 | 43 | — |
+| | items | median | p90 |
+|---|---:|---:|---:|
+| **PM — 21-01-013** | 1,168 | **13** | 32 |
+| **PM — 23-01-011** | 386 | **14** | 32 |
+| CORE, other author | 295 | 28 | 34 |
+| Current drafts | 102 | 26 | 43 |
 
-The current drafts run roughly double the PM's median. `Includes all half-height doors.` is a
-complete, enforceable item at five words. One obligation per item, stated once — when an item
-needs a comma-spliced second clause it is usually two items.
+Note what does *and does not* separate them. The 90th percentiles are nearly identical (32 vs
+34) — both authors write the occasional long item. **The median is the whole difference:** his
+typical item is half the length of the other author's, because most of his items do one small
+thing. `Includes all half-height doors.` is a complete, enforceable item at five words.
 
-`voice_check.py` errors past 55 words (his p99) and reports the package median separately,
-because a wordy register is one finding rather than twenty separate ones.
+So the check is on the *package median*, not on individual items. `voice_check.py` errors only
+past 60 words — just beyond his p99, where an item is almost certainly two obligations — and
+reports the package median separately. A wordy register is one finding, not twenty.
 
 ## 4. `Includes …` is the signature construction — `high`
 
-**27% of the PM's scope items open with `Includes` (104 of 386), against under 1% everywhere
-else.** It is a verb-initial fragment with no subject, used to pull a specific thing inside a
-scope the group header already established:
+**244 of 1,554 items (15.7%) open with `Includes`, against 1 of 295 (0.3%) for the other
+author.** A verb-initial fragment with no subject, pulling a specific thing inside a scope the
+group header already established:
 
 > "Includes frames at kiosks, mockup, and half-height door frames."
-> "Includes all gate hardware, excluding cane bolts, gate boxes, hinges, and pivots."
 > "Includes compound radius trusses as required to achieve compound radius structure at DMV roof."
 > "Includes 40 additional manhours to complete minor repairs due to undefinable or miscellaneous damage."
 > "Includes surfaces receiving intumescent coatings."
 
-Note the pattern in the second one: `Includes X, excluding Y` — the inclusion and its carve-out
-in a single line, rather than an item here and an exclusion four pages later.
+The rate swings between jobs — 12% on 21-01-013, 27% on 23-01-011 — so treat the *construction*
+as established and the frequency as a range, not a target.
+
+⚠️ An earlier version of this file presented `Includes X, excluding Y` as a characteristic
+pattern. It occurs **once** in 1,554 items. Withdrawn — see `thin` in the table above.
 
 ## 5. Install verbs — `high`
 
-**`Supply and install` is the verb: 14.2% of the PM's items (55 of 386), against 1–2% for every
-other author.** `Provide and install` — which the blank template uses in 24% of its examples —
-appears **4 times in 386**, the same rate as `Furnish and install`. Do not reach for it.
+| | PM | Other author |
+|---|---:|---:|
+| `Supply and install` | **183 (11.8%)** | 3 (1.0%) |
+| `Provide …` | 274 (17.6%) | 21 (7.1%) |
+| `Provide and install` | 25 (1.6%) | 10 (3.4%) |
 
-The working set, in the PM's own frequency order:
+`Supply and install` is the install verb, stable across both jobs (11% and 14%).
+`Provide and install` — which the blank template uses in 24% of its examples — he uses at 1.6%,
+*less* than the other author does. Don't reach for it.
 
-`Supply and install` · `Includes` · `Provide` · `Supply only, F.O.B. jobsite` · `Coordinate with` ·
-`Subcontractor shall` · `Provide all` · `Reinforce` · `Prepare` · `Verify` · `Layout, supply, and install` ·
-`Supply and apply` · `Install only`
+Other openers in his corpus: `Coordinate with` · `Subcontractor shall` · `Furnish and install` ·
+`Verify` · `Prepare` · `Reinforce` · `Supply and apply` · `Install only` · `Supply all`.
 
-`Supply only, F.O.B. jobsite` is the specific form for supply-without-install — it appears in
-the structural steel exhibit for embeds and bollards and it is more precise than "furnish".
+`Supply only, F.O.B. jobsite` is his form for supply-without-install (4 instances — `thin`, but
+precise where it fits: structural steel embeds and bollards).
 
-## 6. Abbreviate freely; define non-obvious ones on first use — `high`
+## 6. Abbreviate freely — `high`
 
-**The PM uses `CMU`, `MEP`, `FRP`, `HSS`, `HVAC`, `RTU`, `E.I.F.S.`, `F.O.B.`, `AHJ`, `FAA`,
-`LLV`, `NRC`, `VIN`, `CDL` without expansion.**
+**He writes `CMU`, `MEP`, `FRP`, `HSS`, `HVAC`, `RTU`, `BMS`, `AHU`, `E.I.F.S.`, `F.O.B.`,
+`AHJ`, `LLV`, `NRC`, `VIN`, `CDL` without expansion.**
 
 ⚠️ An earlier version of this file said the opposite — spell out `Concrete Masonry Unit`, never
-write `CMU` — on the strength of one masonry exhibit by a different author. That rule was wrong
-for this PM and `voice_check.py` would have flagged his own writing. It is withdrawn.
+write `CMU` — on the strength of one masonry exhibit by a different author. It was wrong for
+this PM, and `voice_check.py` would have flagged his own writing. Withdrawn.
 
-The real rule is lighter: use the trade's ordinary abbreviations, and where one is not
-universally read, define it once in the group header and use the short form after —
-`Fiber-Reinforced Plastic (FRP) Paneling`.
+Defining an abbreviation on first use appears 8 times (`thin`) and is worth copying when the
+term is not universal: *"fiberglass reinforced plastic (FRP) panels"*, *"Testing, Adjusting,
+and Balancing (TAB)"*.
 
 ## 7. Name the trade you are coordinating with — `high`
 
-Coordination is far more prominent than a three-exhibit sample suggested: **`Coordinate` opens
-10.4% of his items (40 of 386) and 14% carry a coordination sentence, against 1% for the other
-author.** It always names a counterparty by its subcontract role:
+| | PM | Other author |
+|---|---:|---:|
+| `Coordinate` opener | **125 (8.0%)** | 3 (1.0%) |
+| Coordination sentence anywhere | **177 (11.4%)** | 5 (1.7%) |
+| Capitalised `<Trade> Subcontractor` | **96 (6.2%)** | 4 (1.4%) |
+
+Holds on both jobs (7%/10% and 10%/15%). It always names a counterparty by its subcontract role:
 
 > "Coordinate with Low Voltage Subcontractor to ensure that all doors and frames to receive
 > door contact sensors, access controls, and card readers are properly prepped."
@@ -155,112 +171,133 @@ author.** It always names a counterparty by its subcontract role:
 > "Coordinate all keying requirements with Contractor and Owner, including providing keying
 > schedule required to obtain Letter of Authorization."
 
-Capitalised as a proper noun — *Low Voltage Subcontractor*, *Electrical Subcontractor*,
-*Framing Subcontractor* — never "the electrician" or "the GC". Defined contract terms stay
-capitalised: Scope of Work, Subcontract Amount, Contract Documents, Project Manual, Owner,
-Architect, Contractor, Subcontractor.
+Capitalised as a proper noun — *Low Voltage Subcontractor*, *Electrical Subcontractor* — never
+"the electrician" or "the GC". Defined contract terms stay capitalised throughout: Scope of
+Work, Subcontract Amount, Contract Documents, Project Manual, Owner, Architect, Contractor.
 
-`by others` is used, but sparingly — 3% of items, less than the other author's 6%.
+## 8. `as indicated` is the citation idiom — `high`
 
-## 8. Cite the detail, not the specification — `high`
+| | PM | Other author |
+|---|---:|---:|
+| `as indicated` / `as detailed` / `as scheduled` | **147 (9.5%)** | 2 (0.7%) |
+| `specifically referencing` | **0** | 8 (2.7%) |
+| `per plans and specifications` inside an item | 1% | 3% |
+| Detail or sheet number | 18 (1.2%) | 3 (1.0%) |
 
-**The PM cites a spec section number in a scope item twice in 386 items (0.5%)**, against 33%
-for the other CORE author. Scope items point at drawings:
+The dominant form is the light one — `as indicated`, `as indicated and required`, `as
+scheduled` — carried by 9.5% of his items and stable across jobs. Pinpoint drawing citations
+are used **sparingly**, where a specific detail fixes the obligation:
 
 > "LLV steel angles for Kiosk Screen connection per 5/S5.44."
-> "Steel angle and HSS at Mechanical Roof Curbs per sheet S5.61."
+> "1/4" Bent plate wall cover per 13/AS4.01."
 > "Tube steel and steel angle at Security Grille per detail 23/A2.16."
-> "Handrail closure plate and escutcheon rings per 8/ and 12/G1.02."
-> "…per architectural drawings (MF-1 and MF-2 as indicated on Finish Schedule, sheet A2.05)."
 
-Forms used: `per <detail>/<sheet>`, `per sheet <n>`, `per detail <d>/<sheet>`. Spec sections
-belong in the CONSTRUCTION DOCUMENTS section of the exhibit, which is not the PM's layer.
-
-`as indicated` / `as scheduled` / `as specified` is the general form when no single detail
-governs — 15% of items, against 1% for the other author. The blank template's
-`specifically referencing` idiom appears **zero** times in the PM's writing; an earlier version
-of this file recommended it, which was wrong. This does not change `SKILL.md`'s rule against
-enumerating a sheet roster — a pinpoint citation that does work is exactly what that rule asks
-for.
+⚠️ Two earlier claims here were wrong and are withdrawn. The blank template's
+`specifically referencing` idiom was recommended — he never uses it. And the profile reported
+that he cites spec-section numbers at 0% "against 33% for the other CORE author": that 33% came
+from the other author's CONSTRUCTION DOCUMENTS *list* lines, not scope items. Compared like
+with like, **neither author cites spec sections inside a scope item** (5 of 1,554 vs 0 of 295).
+Spec sections belong in the CONSTRUCTION DOCUMENTS section, which is not the PM's layer.
 
 ## 9. Numbers are bare numerals — `high`
 
-`40 additional manhours`, `35 steel pipe bollards`, `1/4" Bent plate`, `24" and 42" AFF`.
+`40 additional manhours`, `35 steel pipe bollards`, `1/4" Bent plate`, `24" and 42" AFF`,
+`roughly 47,000 SF`.
 
 The word-plus-parenthesis form (`thirty-four (34)`) is the blank template's habit — 24% of its
-examples — and appears in **0%** of the PM's scope items. Do not use it, and never spell a dimension
-longhand: `4" x 6"`, not "four inches by six inches".
+examples — and appears in **0.8%** of his items, less than the other author's 2.7%. Never spell
+a dimension longhand: `4" x 6"`, not "four inches by six inches".
 
-## 10. Write scope-expanding language deliberately — `medium`
+He also does not use `(i.e., …)` or `(e.g., …)` in scope items — 0 of 1,554, against 2.0% for
+the other author.
 
-Where a quantity or extent is uncertain, the PM closes the gap in the item rather than leaving
-it to be argued:
+## 10. Standing obligations get one line each — `medium`
 
-> "Provide tube steel support posts at half walls, **whether shown or not**."
-> "Provide all blocking under parapet caps, **whether wood or metal**."
-> "**Include an additional 35** steel pipe bollards in addition to those shown on plans."
-> "Joist design shall include **all additional live and dead loads as indicated on drawings**."
-
-## 11. Standing obligations get one line each — `medium`
-
-Testing, layout, protection and cleanup appear as their own short items, not as a paragraph:
+Testing, layout, protection and cleanup appear as their own short items, not folded into a
+paragraph:
 
 > "Provide all tests and certifications required for complete and operational systems."
 > "Provide all layout related to this scope of work."
 > "All templates shall arrive to jobsite preassembled with bolts attached to templates."
 > "Exterior structural members shall be sealed watertight."
 
-An obligation that constrains *how* rather than *what* is written `<Noun> shall <verb>` rather
-than as an imperative — that is the one place the PM drops the imperative opener.
+An obligation that constrains *how* rather than *what* is written `<Noun> shall <verb>` — the
+one place he drops the imperative opener.
+
+⚠️ An earlier rule here claimed scope-expanding language (`whether shown or not`) was
+characteristic. It occurs **once** in 1,554 items. Withdrawn.
+
+## 11. The closing group is titled bare — `high`
+
+Most packages end with a catch-all group covering testing, coordination, cleanup and the like.
+**It appears 25 times across his 40 exhibits, and he writes the title on its own line with no
+formula after it:**
+
+```
+General Scope Requirements
+   Provide all tests and certifications required for complete and operational systems.
+   Subcontractor responsible for scope coordination, including but not limited to:
+   Coordinate roof penetration requirements with Roofing Subcontractor to maintain
+   roofing system integrity and warranty.
+```
+
+Not `<Title> - Provide all materials, labor, equipment, and supervision…` — that formula is for
+trade groups. And **not** `<Title> - The following requirements shall apply to all work under
+this Scope of Work package:`, which both current drafts use and which appears nowhere in his
+writing or in the template. `voice_check.py` errors on that sentence.
+
+⚠️ This was warned about as an unverified invention when the corpus was one exhibit. With 40 it
+resolves the other way: the *group* is his, the *sentence* is not.
+
+## 12. Small packages skip the group-header structure — `medium`
+
+A scope small enough to state in two or three items is written as flat items directly under the
+turnkey clause, with no trade group header at all. The $33,700 cleaning package is two items.
+Do not manufacture group headers for a package that does not need them.
 
 ---
 
 ## Open decisions
 
-**D1. `Provide and install` vs `Supply and install` — CLOSED 08.08.26.** `Supply and install`,
-14.2% against 1.0%. See rule 5.
+**D1. `Provide and install` vs `Supply and install` — CLOSED.** `Supply and install`, 11.8%
+against 1.6%. See rule 5.
 
-**D2. Exclusion style — still open, and this corpus cannot close it.** The PM wrote only the
-SCOPE OF WORK sections of the eight exhibits on file; their exclusions are the contracts
-department's and are attributed `core`. What is known is house practice: terse Title Case noun
-phrases (*Concrete Footings*, *Anti-Graffiti Applications*), no routing. Current drafts instead
-route the work — *"…which are included in the Scoreboards Scope of Work"* — which forecloses the
-"then nobody has it" argument in a change-order dispute. Recommendation stands: keep the
-routing, adopt Title Case. **Needs the PM's call, not more corpus.**
+**D3. Standing operational obligations — CLOSED.** Present across both jobs as short single-line
+items. See rule 10.
 
-Worth noting alongside it: rule 4 shows the PM often handles carve-outs inside the inclusion
-(`Includes all gate hardware, excluding cane bolts…`) rather than in the exclusions list at all.
-
-**D3. Standing operational obligations — CLOSED 08.08.26.** Present across all eight trades, as
-short single-line items. See rule 11.
+**D2. Exclusion style — still open, and no amount of this corpus closes it.** The PM wrote only
+the SCOPE OF WORK sections. House practice is terse Title Case noun phrases (*Concrete
+Footings*, *Anti-Graffiti Applications*); the current drafts instead route the work —
+*"…which are included in the Scoreboards Scope of Work"* — which forecloses the "then nobody has
+it" argument in a change-order dispute. Recommendation: **keep the routing, adopt the Title
+Case.** Needs a call, not more corpus. (If the PM does write exclusions himself, adding
+`"exclusions"` to `SELF_SECTIONS` settles it from evidence.)
 
 ---
 
 ## Growing the corpus
 
-`00-source-docs/voice-corpus/mine/` — exhibits the PM wrote. Anything else goes one level up,
-in `00-source-docs/voice-corpus/`, and is read as house style only. The subfolder is the entire
-authorship signal, so a self-authored exhibit filed in the wrong place is counted as somebody
-else's.
+```
+00-source-docs/voice-corpus/mine/        exhibits the PM wrote      (author: self)
+00-source-docs/voice-corpus/             anyone else's, house style (author: core)
+```
 
-`.pdf` or `.docx`; Bluebeam FINAL packets can go in whole — the exhibit body is found by its own
-`Page 1 of N` footer and the cover sheet, price build-up, Bid Form and descope notes are ignored.
+The subfolder is the entire authorship signal. `.pdf` and `.docx` are read directly; Bluebeam
+FINAL packets can go in whole, since the exhibit body is found by its own `Page 1 of N` footer.
+
+Exhibits pulled from OneDrive cannot be downloaded as PDFs from a Claude Code session — the
+Graph connector returns extracted text, not bytes. `scripts/ingest_packet_text.py` takes that
+text, finds the exhibit inside the packet, and writes it to `mine/text/`.
 
 ```
 python3 scripts/build_voice_corpus.py     # rebuild + re-measure
 python3 scripts/voice_check.py --all      # re-check every drafted package
 ```
 
-What would sharpen this further: the DMV Silverado Ranch folder holds about two dozen more of
-his exhibits, including wet utilities, surveying, landscape, fencing and signage. Eight trades
-is already past the point where the openers and length distribution move much, so the remaining
-value is mostly in the trade-specific reading of rules 8 and 10. And if the PM ever writes an
-exclusions list himself, adding `"exclusions"` to `SELF_SECTIONS` closes D2.
+At 40 exhibits over two jobs the openers, length distribution and citation idiom have stopped
+moving; a third job would mostly re-confirm them. The remaining gaps are **exclusions written by
+the PM himself** (closes D2) and any job outside Nevada public works, where the register may
+differ.
 
-Exhibits pulled from OneDrive cannot be downloaded as PDFs from a Claude Code session — the
-Graph connector returns extracted text, not bytes. `scripts/ingest_packet_text.py` takes that
-text, finds the exhibit inside the packet by its own page footers, and writes it to
-`mine/text/`, which the corpus builder reads as `self`.
-
-The PM markup loop (`read_att_a_markup.py`) captures every edit made to a draft in review, and
-those edits *are* `self`-authored — a change made twice is a rule that belongs in this file.
+The PM markup loop (`read_att_a_markup.py`) captures every edit he makes to a draft in review,
+and those edits *are* `self`-authored — a change made twice is a rule that belongs in this file.

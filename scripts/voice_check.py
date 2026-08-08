@@ -17,11 +17,11 @@ a wordy register is one finding rather than twenty-five.
 Rules and the evidence behind them:
   .claude/skills/attachment-a-generator/references/voice-profile.md
 
-Calibrated 08.08.26 against the PM's own 8 executed exhibits (386 scope items).
-Before that the thresholds came from a different CORE author's masonry exhibit
-and the blank template, and several contradicted his writing outright -- the
-abbreviation list banned CMU, MEP and FRP, which he uses, and the count rule
-recommended "six (6)" where he writes "6".
+Calibrated 08.08.26 against the PM's own 40 executed exhibits across two jobs
+(1,554 scope items). Before that the thresholds came from a different CORE
+author's masonry exhibit and the blank template, and several contradicted his
+writing outright -- the abbreviation list banned CMU, MEP and FRP, which he
+uses, and the count rule recommended "six (6)" where he writes "6".
 
 Usage:
   python3 scripts/voice_check.py ITB-072
@@ -46,11 +46,16 @@ GROUP_HEADER = (
     "include, but not be limited to:"
 )
 
-# A second header formula both current drafts use for the catch-all group that
-# closes a package. It is not in the corpus -- no executed exhibit on file has
-# such a group -- so it is accepted with a warning rather than treated as a
-# defect, and it stays that way until an executed exhibit settles it.
-ALT_GROUP_HEADER = "The following requirements shall apply to all work under this Scope of Work"
+# The catch-all group that closes a package. On a 1-exhibit corpus this looked
+# like an invention and was warned about; across 40 of the PM's exhibits it
+# appears 25 times, so the GROUP is established practice.
+#
+# What is not his is the sentence the drafts append to it. He writes the title
+# bare -- "General Scope Requirements" on its own line, items underneath -- with
+# no formula at all. "The following requirements shall apply to all work under
+# this Scope of Work package:" appears nowhere in his writing or the template.
+CATCH_ALL_HEADER = re.compile(r"^General Scope Requirements\s*[-–—]?\s*$")
+INVENTED_HEADER = "The following requirements shall apply to all work under this Scope of Work"
 
 # Profile rule 3. Deliberately a denylist, not an allowlist of verbs: the first
 # cut enumerated the verbs seen in the corpus and flagged Salvage, Perform,
@@ -149,9 +154,9 @@ DIGITS = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
           "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
           "fifteen": 15, "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50}
 
-# Profile rule 5. The blank template's install verb, not the PM's -- 4 of his
-# 386 scope items (1.0%) against 24% of the template's examples, while
-# "Supply and install" opens 14.2% of his.
+# Profile rule 5. The blank template's install verb, not the PM's -- 25 of his
+# 1,554 scope items (1.6%), less even than the other CORE author's 3.4%, while
+# "Supply and install" opens 11.8% of his.
 HOUSE_VERB = re.compile(r"^Provide and install\b")
 
 # Profile rule 4. Signals that an item names who has the adjacent work. Note
@@ -168,23 +173,26 @@ RESPONSIBILITY = re.compile(
 
 # Profile rule 3, and the highest-value check in this file.
 #
-# Calibrated against the PM's own 386 scope items across 8 exhibits: median 14
-# words, p90 32, p95 41, p99 50, longest 78.
+# Calibrated against the PM's own 1,554 scope items across 40 exhibits and two
+# jobs: median 13 words, p90 32, p95 40, p99 57, longest 119.
 #
-# This threshold has moved twice and the history is worth keeping. It started
-# at 55, taken from a different author's masonry exhibit. On a 3-exhibit sample
-# of the PM's writing it looked far too loose -- his longest item there was 46
-# -- so it was tightened to 45. With 8 exhibits, 9 of his items (2.3%) exceed
-# 45, and 55 turns out to be about right after all: it sits just past his 99th
-# percentile, so it flags 2 of his own 386 items while still catching every
-# draft item that genuinely runs long. Tightening on a small sample was the
-# error, not the original number.
-LONG_ITEM_WORDS = 55
+# This threshold has moved three times and the history is the point. It started
+# at 55, from a different author's masonry exhibit. Three of the PM's exhibits
+# showed a maximum of 46, so it was tightened to 45 -- which turned out to flag
+# 2.6% of his own writing once more exhibits arrived. At 8 exhibits 55 looked
+# right; at 40 his p99 is 57. It now sits at 60, just past that, where an item
+# is almost certainly two obligations rather than one long one.
+#
+# The lesson worth keeping: each tightening was a small sample masquerading as a
+# limit. The package-median check below is the load-bearing one -- his median is
+# half the other author's, and that gap is stable across both jobs, while the
+# tails are nearly identical (his p90 32, the other author's 34).
+LONG_ITEM_WORDS = 60
 
 # The PM's 90th percentile and median, for the package-level register check
 # rather than per-item warnings.
 VERBOSE_ITEM_WORDS = 32
-PM_MEDIAN_WORDS = 14
+PM_MEDIAN_WORDS = 13
 
 # Contract terms that carry meaning and are capitalised in the corpus. Checked
 # only for the unambiguous ones -- "project" and "owner" appear too often as
@@ -265,7 +273,7 @@ def check_line(rep, where, text, is_exclusion=False):
     if HOUSE_VERB.match(text):
         rep.add("warn", where,
                 "'Provide and install' is the blank template's verb; the PM writes "
-                "'Supply and install' (14.2% vs 1.0%) (rule 5)", text)
+                "'Supply and install' (11.8% vs 1.6%) (rule 5)", text)
 
     if len(text.split()) > LONG_ITEM_WORDS:
         rep.add("error", where,
@@ -295,10 +303,13 @@ def check(pkg, quiet=False):
             if header.strip().startswith(("Provide", "Supply")):
                 rep.add("error", f"group {gi} header",
                         "missing the trade name before the formula (rule 2)", header)
-        elif ALT_GROUP_HEADER in header:
-            rep.add("warn", f"group {gi} header",
-                    "uses the catch-all header variant, which no executed exhibit "
-                    "on file uses — confirm it is house style (rule 2)", header)
+        elif CATCH_ALL_HEADER.match(header.strip()):
+            pass                          # his own closing group, written bare
+        elif INVENTED_HEADER in header:
+            rep.add("error", f"group {gi} header",
+                    "the trailing sentence is invented — the PM writes this group's "
+                    "title bare, e.g. 'General Scope Requirements' with the items "
+                    "underneath and no formula (rule 12)", header)
         else:
             rep.add("error", f"group {gi} header",
                     "does not carry the template's group-header formula (rule 2)", header)
@@ -339,7 +350,7 @@ def check(pkg, quiet=False):
             rep.add("warn", "package",
                     f"only {responsibility_hits} of {items_total} items "
                     f"({share:.0%}) name a counterparty or coordination partner; "
-                    f"the PM's own exhibits run 11% (rule 7)", "")
+                    f"the PM's own exhibits run 11.4% (rule 7)", "")
 
     if not quiet:
         rep.print()
