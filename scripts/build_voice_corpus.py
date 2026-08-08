@@ -53,6 +53,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DROP = ROOT / "00-source-docs" / "voice-corpus"
 MINE = DROP / "mine"          # exhibits this repo's PM wrote -- the authority
+
+# Which sections of a mine/ exhibit the PM actually wrote. Confirmed 08.08.26:
+# "I only wrote the scope of work section." The rest of a FINAL exhibit -- the
+# construction-documents list, the project-specific provisions, the exclusions --
+# comes from the template and the contracts department, so attributing a whole
+# packet to the PM would put other people's sentences in the personal corpus and
+# then measure them as personal voice. Widen this set only on the PM's say-so.
+SELF_SECTIONS = {"scope"}
+
 PROCESS = ROOT / "00-source-docs" / "05-supplemental" / "attachment-a-process"
 TEMPLATE_DIR = ROOT / "00-source-docs" / "SUBCONTRACTOR FILES" / "0 - ATTACHMENT A - Scope of Work"
 CONTENT = ROOT / "01-index" / "attachment-a-content"
@@ -82,7 +91,19 @@ MARKER = re.compile(
 # the exclusion-length statistics meaningless. Split those back apart. Only
 # markers followed by a capitalised word count, so "Section 07 9200 - Joint
 # Sealants" and "ASI #01" survive intact.
-MID_MARKER = re.compile(r"(?<=[\w.,)]) (?=(?:[A-Z]|[ivxl]{2,7}|[a-h])\.\s+[A-Z])")
+#
+# The digit and single-letter roman alternatives are not optional. Without them
+# the top-level "1./2./3." items -- the ones that carry most of the actual scope
+# -- were appended to whichever sub-item preceded them, producing records like
+# "Includes frames at kiosks, mockup, and half-height door frames. 2. Supply and
+# install all hollow metal and solid core wood doors." That is two obligations
+# in one record and it corrupts every length and opener statistic that reads it.
+#
+# A decimal inside a sheet reference cannot trigger a split: "sheet A2.05." has
+# no space before the number, and the lookbehind requires one.
+MID_MARKER = re.compile(
+    r"(?<=[\w.,)]) (?=(?:\d{1,2}|[A-Z]|[ivxl]{1,7}|[a-h])\.\s+[A-Z])"
+)
 
 # Lines that are page furniture rather than contract text.
 FURNITURE = re.compile(
@@ -133,6 +154,13 @@ def norm(s):
 def is_boilerplate(text):
     low = text.lower()
     return any(cue in low for cue in BOILERPLATE_CUES)
+
+
+def attribute(author, section):
+    """Authorship of one line, given its file's author and its section."""
+    if author == "self" and section not in SELF_SECTIONS:
+        return "core"
+    return author
 
 
 def classify(text, section):
@@ -224,7 +252,7 @@ def parse_exhibit(lines, source_id, kind, author):
             records.append({
                 "source_id": source_id,
                 "source_kind": kind,
-                "author": author,
+                "author": attribute(author, section),
                 "section": section,
                 "kind": classify(text, section),
                 "authored": not is_boilerplate(text),
@@ -301,7 +329,7 @@ def docx_exhibit(path, source_id, author):
         records.append({
             "source_id": source_id,
             "source_kind": "executed",
-            "author": author,
+            "author": attribute(author, section),
             "section": section,
             "kind": classify(text, section),
             "authored": not is_boilerplate(text),
@@ -341,7 +369,7 @@ def docx_highlighted(path, source_id, author="core"):
         records.append({
             "source_id": source_id,
             "source_kind": "template",
-            "author": author,
+            "author": attribute(author, section),
             "section": section,
             "kind": classify(text, section),
             "authored": not is_boilerplate(text),
@@ -391,6 +419,8 @@ def draft_records(path):
 # Each probe is a rule candidate. A rule earns its place in the voice profile by
 # showing up in the executed and template corpus, not by seeming reasonable.
 PROBES = [
+    ("opener: Includes",             r"^Includes?\b"),
+    ("opener: Supply only, F.O.B.",  r"^Supply only, F\.O\.B\."),
     ("opener: Supply and install",   r"^Supply and install\b"),
     ("opener: Provide and install",  r"^Provide and install\b"),
     ("opener: Furnish and install",  r"^(Furnish and install|Include furnishing and installing)\b"),
@@ -405,6 +435,10 @@ PROBES = [
     ("cite: specifically referencing", r"specifically referencing"),
     ("cite: as indicated/detailed",  r"\bas (indicated|detailed|shown|scheduled)\b"),
     ("cite: Section NN NNNN",        r"\bSection \d{2} \d{2,4}"),
+    ("cite: detail or sheet number",  r"\b(?:per|on|see) (?:detail |sheet )?\d{0,2}/?[A-Z]{1,2}\d\.\d|"
+                                      r"\bper (?:detail |sheet )[A-Z0-9]"),
+    ("scope: whether shown or not",  r"whether (?:shown|indicated|noted)[^.]{0,20}or not"),
+    ("abbrev defined on first use",  r"\([A-Z]{2,6}\)"),
     ("number: numeral in parens",    r"\b(?:one|two|three|four|five|six|seven|eight|nine|ten|"
                                      r"eleven|twelve|twenty[- ]?\w*|thirty[- ]?\w*|"
                                      r"[a-z]+teen)\s*\(\d+\)"),

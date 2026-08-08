@@ -9,12 +9,20 @@ into a generated file that the next build overwrites.
 Only the mechanical rules are checked here -- the ones a regex can decide
 without judgment. The profile's substantive rules (say who has the adjacent
 work, one obligation per item) are drafting instructions for `scope-drafter`,
-and rule 4 gets a soft coverage warning at the end rather than a per-line error,
+and rule 7 gets a soft coverage warning at the end rather than a per-line error,
 because whether a given item has an adjacent responsibility is not something a
-pattern can know.
+pattern can know. Item length is likewise reported once for the package, since
+a wordy register is one finding rather than twenty-five.
 
 Rules and the evidence behind them:
   .claude/skills/attachment-a-generator/references/voice-profile.md
+
+Recalibrated 08.08.26 against the PM's own three exhibits. Before that the
+thresholds came from a different CORE author's masonry exhibit and the blank
+template, and several of them contradicted the PM's own writing -- the
+abbreviation list banned CMU, MEP and FRP, which he uses; the length limit was
+55 words against his observed maximum of 46 and median of 12; and the count
+rule recommended "six (6)" where he writes "6".
 
 Usage:
   python3 scripts/voice_check.py ITB-072
@@ -66,33 +74,35 @@ BAD_OPENERS = [
 ]
 
 # Profile rule 6. Abbreviations that must be written out in an exhibit.
+#
+# This list used to hold CMU, MEP, FRP, SOW, T&B and a dozen more, on the
+# strength of one executed exhibit in which a different CORE PM wrote "Concrete
+# Masonry Unit" five times. Measured against this PM's own three exhibits that
+# was simply wrong -- he writes CMU, MEP, FRP, HSS, RTU, E.I.F.S., F.O.B., AHJ
+# and LLV without expansion, so the check was flagging his writing as defective.
+#
+# What survives is the short list where the abbreviation is genuinely ambiguous
+# in a contract: a role that has a defined-term equivalent, or a two-letter unit
+# that reads as a word.
 BANNED_ABBREV = {
-    "CMU": "Concrete Masonry Unit",
-    "MEP": "Mechanical, Electrical and Plumbing",
     "GC": "Contractor",
     "A/E": "Architect",
-    "OFCI": "Owner Furnished, Contractor Installed",
-    "CFCI": "Contractor Furnished, Contractor Installed",
-    "T&B": "Test and Balance",
-    "VE": "value engineering",
     "SOW": "Scope of Work",
-    "FRP": "fiberglass reinforced panel",
-    "DG": "decomposed granite",
-    "AC": "asphalt concrete",
-    "PT": "post-tensioned",
-    "SS": "stainless steel",
     "TYP": "typical",
     "EA": "each",
     "LF": "linear foot",
     "SF": "square foot",
 }
 
-# Rule 6, allowed: unambiguous terms of art.
+# Rule 6, allowed without expansion. Trade abbreviations plus standards bodies.
 ALLOWED_ABBREV = {
     "FOB", "AFF", "OSHA", "RFI", "ASI", "ADA", "IBC", "ICC", "ANSI", "NFHS",
     "SWPPP", "NRS", "CSI", "PR", "BIM", "NTP", "GMP", "CMAR", "UL", "ASTM",
     "NEC", "NFPA", "HVAC", "PVC", "HDPE", "II", "III", "IV", "PDF", "CORE",
-    "GPS", "ADA", "EPDM", "TPO", "PSI", "ACI", "AWS", "AISC", "NDS", "IECC",
+    "GPS", "EPDM", "TPO", "PSI", "ACI", "AWS", "AISC", "NDS", "IECC",
+    # Trade abbreviations measured in the PM's own exhibits.
+    "CMU", "MEP", "FRP", "HSS", "RTU", "AHJ", "FAA", "LLV", "NRC", "VIN",
+    "CDL", "WF", "MF", "EIFS", "DG", "OFCI", "CFCI",
 }
 
 # Two or more capitalised tokens in a row are sign copy, a project name or a
@@ -116,8 +126,14 @@ SPELLED_DIMENSION = re.compile(
     re.I,
 )
 
-# Profile rule 8. A bare count with no numeral: "six physical hard copies".
-BARE_COUNT = re.compile(
+# Profile rule 9. A count written as a word: "six physical hard copies".
+#
+# The fix used to be "write six (6)", copying the blank template's habit. The
+# PM's own exhibits use bare numerals -- "Includes 40 additional manhours",
+# "Include an additional 35 steel pipe bollards" -- and the word-plus-paren form
+# appears in 1% of his items against 24% of the template's. So the same pattern
+# is kept, and the advice it gives is inverted.
+SPELLED_COUNT = re.compile(
     r"\b(two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|"
     r"fifteen|twenty|thirty|forty|fifty)\s+(?!\()"
     r"(?!hundred|thousand|percent|inch|inches|foot|feet|degree|degrees|gauge|"
@@ -126,6 +142,14 @@ BARE_COUNT = re.compile(
     r"([a-z]+)",
     re.I,
 )
+
+DIGITS = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
+          "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
+          "fifteen": 15, "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50}
+
+# Profile rule 5. The blank template's install verb, not the PM's -- 1 use in
+# 108 of his lines against 24% of the template's examples.
+HOUSE_VERB = re.compile(r"^Provide and install\b")
 
 # Profile rule 4. Signals that an item names who has the adjacent work. Note
 # that bare "Coordinate" does not count -- coordinating with nobody in
@@ -139,8 +163,19 @@ RESPONSIBILITY = re.compile(
     r"\bCoordinate\b[^.]{0,80}\bwith (the )?[A-Z]",
 )
 
-# Profile rule 11.
-LONG_ITEM_WORDS = 55
+# Profile rule 3, and the highest-value check in this file.
+#
+# Recalibrated 08.08.26 against the PM's own 99 scope items: median 12 words,
+# p90 33, longest 46. The old threshold of 55 was taken from a different
+# author's exhibit and never fired on anything the PM wrote -- nor on most of
+# what the drafts overrun. 45 is his observed maximum, so it produces no false
+# positive on his corpus while still catching the 7 draft items above it.
+LONG_ITEM_WORDS = 45
+
+# The PM's 90th percentile and median, used for the package-level register
+# check rather than for per-item warnings.
+VERBOSE_ITEM_WORDS = 33
+PM_MEDIAN_WORDS = 12
 
 # Contract terms that carry meaning and are capitalised in the corpus. Checked
 # only for the unambiguous ones -- "project" and "owner" appear too often as
@@ -211,17 +246,23 @@ def check_line(rep, where, text, is_exclusion=False):
     if is_exclusion:
         return
 
-    m = BARE_COUNT.search(text)
+    m = SPELLED_COUNT.search(text)
     if m:
+        digit = DIGITS.get(m.group(1).lower(), m.group(1))
         rep.add("warn", where,
-                f"count without numeral: '{m.group(0).strip()}' — "
-                f"write '{m.group(1)} ({m.group(1)}) …' style (rule 8)", text)
+                f"count spelled out: '{m.group(0).strip()}' — the PM writes bare "
+                f"numerals, '{digit} {m.group(2)}' (rule 9)", text)
 
-    words = len(text.split())
-    if words > LONG_ITEM_WORDS:
+    if HOUSE_VERB.match(text):
         rep.add("warn", where,
-                f"{words} words — items above {LONG_ITEM_WORDS} usually carry "
-                f"two obligations; split (rules 11, 12)", text)
+                "'Provide and install' is the blank template's verb; the PM writes "
+                "'Supply and install' (18% vs 1%) (rule 5)", text)
+
+    if len(text.split()) > LONG_ITEM_WORDS:
+        rep.add("error", where,
+                f"{len(text.split())} words — longer than any item the PM has "
+                f"written ({LONG_ITEM_WORDS} max, median 12); split it (rule 3)",
+                text)
 
     for level, pattern, msg in BAD_OPENERS:
         if pattern.match(text):
@@ -237,6 +278,7 @@ def check(pkg, quiet=False):
     spec = json.loads(path.read_text())
     rep = Report(pkg)
     items_total = responsibility_hits = 0
+    lengths = []
 
     for gi, grp in enumerate(spec.get("scope_groups", []), 1):
         header = grp["header"]
@@ -256,22 +298,39 @@ def check(pkg, quiet=False):
             where = f"group {gi} item {ii}"
             check_line(rep, where, item)
             items_total += 1
+            lengths.append(len(item.split()))
             if RESPONSIBILITY.search(item):
                 responsibility_hits += 1
 
     for ei, exc in enumerate(spec.get("exclusions", []), 1):
         check_line(rep, f"exclusion {ei}", exc, is_exclusion=True)
 
-    # Rule 4 as a coverage check. The executed exhibit names another party in
-    # 14% of its lines; a package well under that is usually leaving adjacent
+    # Rule 3, reported once for the package rather than per item. Warning on
+    # every item above the PM's 90th percentile produced 25 warnings on one
+    # package, which is how a check gets ignored -- and it misrepresents the
+    # finding, because item length here is a property of the package's whole
+    # drafting register, not a defect in 25 separate places.
+    if lengths:
+        lengths.sort()
+        median = lengths[len(lengths) // 2]
+        verbose = sum(1 for n in lengths if n > VERBOSE_ITEM_WORDS)
+        if median > PM_MEDIAN_WORDS * 1.5:
+            rep.add("warn", "package",
+                    f"median item {median} words against the PM's {PM_MEDIAN_WORDS}; "
+                    f"{verbose} of {len(lengths)} items exceed his 90th percentile "
+                    f"({VERBOSE_ITEM_WORDS}). The register is wordier than his "
+                    f"exhibits throughout (rule 3)", "")
+
+    # Rule 7 as a coverage check. The PM names a counterparty in 11% of his
+    # scope items; a package well under that is usually leaving adjacent
     # responsibility implied rather than genuinely having none.
     if items_total:
         share = responsibility_hits / items_total
         if share < 0.08:
             rep.add("warn", "package",
                     f"only {responsibility_hits} of {items_total} items "
-                    f"({share:.0%}) name who has the adjacent work; the executed "
-                    f"exhibit runs 14% (rule 4)", "")
+                    f"({share:.0%}) name a counterparty or coordination partner; "
+                    f"the PM's own exhibits run 11% (rule 7)", "")
 
     if not quiet:
         rep.print()
