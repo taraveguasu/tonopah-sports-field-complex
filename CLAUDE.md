@@ -101,6 +101,7 @@ Full design doc: `Tonopah-Attachment-A-System-Master-Plan.md` (repo root). Summa
 | Spec sections cataloged & assigned | ✅ Done (08.05.26) — `01-index/spec-section-catalog.json` + `package-spec-citations.json`, built by `scripts/index_spec_sections.py`. 131 sections from the manual's own bookmark outline; **all 106 technical sections have a primary package** — 30 by scope-doc citation, 5 by PM ruling, 71 by trade judgment (flagged as judgment, never as citation). Division-level citations expanded to real sections: RFP-031 now has 04 05 03 / 04 20 16, RFP-098 all 11 Div-22, RFP-100 all 16 Div-23, RFP-103 all 22 Div-26/27. 3 flow-down sections separated from 5 genuine conflicts. 19 cited-but-absent sections written up individually. 14 spec probes added; **47/47 probes pass.** |
 | Sheet → package assignments | ✅ Done (08.06.26) — `01-index/sheet-package-assignments.json`, built by `scripts/assign_sheets.py`. **Re-derived from the scope docs, not from reading the drawings** — closing the third root cause of the 07.31.26 rejection. 91 sheets, 783 assignments, each carrying its evidence. Four signals: scope doc naming the sheet (12), spec section whose owner is known, distinctive scope vocabulary, discipline prefix (last resort, marked weak). Output splits `draft_from` from `leads_to_verify`. **Every sheet reaches a package and every package reaches a sheet.** 13 assignment probes added; **68/68 probes pass.** |
 | Buy-out log & release priority | ✅ Done (08.07.26) — `01-index/buyout-log.json`, `04-output/Buyout Log & Subcontract Release Priority.xlsx`, `04-output/Subcontract Release Priority.md`. Built by `scripts/build_buyout_log.py` + `scripts/write_release_priority_md.py`. 33 packages ranked by a backward pass through the 04.21.26 schedule; 50 long-lead chains evaluated, binding chain reported per package. **Reconciles exactly**: $9,675,291 + $201,725 CORE self-perform = the GMP BackSheet subtotal $9,877,015.55. |
+| Voice profile | ✅ Built (08.08.26) — `.claude/skills/attachment-a-generator/references/voice-profile.md`, measured from `01-index/voice-corpus.jsonl` by `scripts/build_voice_corpus.py`, enforced by `scripts/voice_check.py`. **Corpus is thin: 50 authored lines from ONE executed exhibit** (PTS Masonry, TRUSD Highlands HS, 22-01-005, inside the Bluebeam process example) plus 41 lines from 3 CORE templates. 12 rules; 3 open decisions (D1 `Provide and install` vs `Supply and install`, D2 exclusion style, D3 standing operational obligations). **Adding executed Attachment A's from past jobs to `00-source-docs/voice-corpus/` is the single highest-value input** — every *medium* and *open* rule stays unresolved without them |
 | Drawing sheet indexing | ⚠️ Partially valid — 91 base-bid sheets cataloged (`01-index/drawing-sheet-catalog.json`) and vision-read (`drawing-vision-{vol1,vol2,esdemo}.json`). Independent spot-check confirmed the readings are verbatim-accurate **for the revision they read**, but the pass consumed the base bid set only. The 7 sheets revised by Addendum #1 (G0-00, LS1-10, A1-20, A2-10, A10-30, C1, GD) were never opened. Sheet content is reusable; package assignments are not, having been made from drawings rather than from scope docs. |
 
 ### Carried-sub authority — CORRECTED 08.07.26
@@ -281,10 +282,13 @@ Listing". Page 15's own section heading reads **SECTION 00 4336C**, and it is fi
   (New-Com/TAB, $1,741,321) and ITB-072 (YESCO, $22,450). Each package ships three files:
   `<Sub> Draft Att A.docx`, `<Sub> - Att A Review Cover Sheet.xlsx`, and `PM-NOTES.md` for the
   judgment calls that do not belong in an exhibit. Content record per package lives in
-  `01-index/attachment-a-content/<package_id>.json`; build with
-  `scripts/build_attachment_a.py <id>` then `scripts/build_att_a_cover.py <id>`. Add the
-  package_id to `ATT_A_DRAFTED` in `scripts/build_buyout_log.py` and rerun it so the buy-out
-  log tracks status.
+  `01-index/attachment-a-content/<package_id>.json`; run `scripts/voice_check.py <id>`, then
+  build with `scripts/build_attachment_a.py <id>` and `scripts/build_att_a_cover.py <id>`. Add
+  the package_id to `ATT_A_DRAFTED` in `scripts/build_buyout_log.py` and rerun it so the
+  buy-out log tracks status. **Open voice findings on the two drafted packages:** ITB-072
+  carries 3 longhand dimensions that match neither the executed exhibit nor the templates
+  ("four inches" → `4"`, "twenty-four inches" → `24"`, "five feet zero inches" → `5'-0"`);
+  RFP-008 is clean.
 - [ ] Stage 5: QA leveling register generated (`03-qa/`)
 - [ ] Stage 6: Gaps/overlaps resolved by PM
 - [ ] Stage 7: Final exhibits generated (`04-output/`)

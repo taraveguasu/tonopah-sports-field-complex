@@ -77,6 +77,13 @@ Output: `02-drafts/package-{package_id}-attachment-a.md`
 
 ### Drafting rules
 
+- **Write in the house voice, not a generic contract voice.** Read
+  `references/voice-profile.md` before drafting a scope group. It is induced from the
+  Attachment A's CORE has actually signed, and it settles the questions a drafter would
+  otherwise guess at: the group-header formula, which openers are house verbs, spelling out
+  material names rather than abbreviating them, naming who has the adjacent work rather than
+  leaving it implied, and how numbers and pinpoint citations are written. Rules marked *open*
+  in that file are unresolved — follow the drafted convention and flag it, don't pick a side.
 - **Two citation classes, not one:**
   - Spec/drawing citations: `"per Spec Section 03 30 00" `/ `"per Sheet S-201"` / `"per Addendum #1 (05.06.26)"`
   - Awarded-sub citations (only when `awarded_sub.status == "awarded"`): `"per [Sub Name]'s proposal dated [x]"` /
@@ -118,6 +125,17 @@ Output: `02-drafts/package-{package_id}-attachment-a.md`
 
 Run 33 times (or however many packages the project has), one Task/Agent invocation per package_id.
 Can be parallelized freely — each run is independent by design.
+
+### Voice check before build
+
+`scripts/voice_check.py <package_id>` checks a package's content record against the
+mechanical half of the voice profile — header formula, weak openers, banned abbreviations,
+longhand dimensions, item length, and whether enough items name who has the adjacent work.
+Run it before `build_attachment_a.py`; it reads the content record, so a violation gets fixed
+at its source rather than typed into a generated file the next build overwrites.
+
+It deliberately reports only what a pattern can decide without judgment. The substantive
+rules stay drafting instructions — a check that cries wolf gets switched off.
 
 ## Stage 3 — QA (`scope-qa` subagent, run once)
 

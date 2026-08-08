@@ -1,0 +1,226 @@
+# Attachment A voice profile
+
+How CORE writes scope language, induced from the exhibits CORE has actually signed —
+not from general contract-drafting advice.
+
+`scope-drafter` reads this before writing any scope group, and `scripts/voice_check.py`
+enforces the mechanical half of it before an exhibit is built.
+
+---
+
+## How to read this file
+
+Every rule carries the evidence behind it and a confidence level, because the corpus is
+small and an unmarked rule invented from one example is worse than no rule at all.
+
+| Confidence | Means |
+|---|---|
+| **fixed** | Boilerplate. The template supplies it verbatim; not a writing choice at all |
+| **high** | Consistent across the executed exhibit and the templates, with no counter-example |
+| **medium** | Clear in one source, thin or absent in the other |
+| **open** | The sources disagree. Listed as a decision at the bottom — do not silently pick one |
+
+Counts cite `01-index/voice-corpus-stats.md`, rebuilt by `scripts/build_voice_corpus.py`.
+Corpus as of 08.08.26: **50 authored lines from 1 executed exhibit, 41 from 3 templates.**
+That is thin. Rules marked *medium* or *open* are the ones that will move as the corpus grows.
+
+---
+
+## 1. What is voice here, and what is not
+
+An Attachment A is three layers, and only one of them is written by a person:
+
+1. **The template's contract prose** — "Subcontractor has accounted for, as part of this lump
+   sum Subcontract, the fact that the Contract Documents may not contain all required
+   details…". Identical on every exhibit CORE issues. `build_attachment_a.py` only edits
+   highlighted runs, so this layer is byte-identical to the template and carries no voice
+   decisions. Do not paraphrase it, improve it, or reason about it.
+2. **The fixed formulas** — the group header, the spec-section line, the directive line. Fill
+   in the blanks; do not restyle. Rules 2 and 6.
+3. **The scope items, exclusions and provisions** — the authored layer. Everything else in this
+   file is about this layer.
+
+## 2. The group header is a formula — `fixed`
+
+```
+<Trade Name> - Provide all materials, labor, equipment, and supervision for a complete
+Scope of Work per plans and specifications. This Scope of Work shall include, but not be
+limited to:
+```
+
+Verbatim from the NV template. Substitute only the trade name. (The executed exhibit reads
+"for a Scope of Work", without *complete* — the template is the later document and governs.)
+
+## 3. Scope items open with an imperative verb — `high`
+
+No subject, no hedge. The verbs actually used, in descending frequency across executed +
+template scope items:
+
+`Provide` · `Provide and install` · `Supply and install` · `Furnish and install` ·
+`Include` · `Coordinate` · `Receive, offload` · `Grout` · `Clean, point up` · `Protect` ·
+`Verify` · `Seal` · `Construct` · `Demolish and remove` · `Leave` · `Supply and maintain`
+
+Two openers break the pattern legitimately:
+
+- `Subcontractor shall …` (8% executed, 7% template) — used when the sentence assigns a
+  *duty* rather than an item: coordinating layout, cleaning a footing, notifying a utility.
+- `Where <condition>, …` — used when the obligation is conditional on a field condition.
+
+Never open with *Subcontractor is responsible for*, *It is understood that*, *The Subcontractor
+will*, or a bare noun phrase.
+
+## 4. Say who has the work that this package does not — `high`
+
+This is the strongest signal in the corpus and the largest gap in current drafting:
+**14% of executed lines name another party; 1% of drafted lines do** (7 of 50 vs 1 of 138).
+
+The executed exhibit never leaves an adjacent responsibility implied:
+
+> "…all steel embeds to be set into Masonry systems **FOB to jobsite by others**, including
+> steel lintels, flashings, embed plates…"
+> "Provide core drilling for angles and ledgers, **which will be laid out by the Steel
+> subcontractor**."
+> "…from lines and grades **established by others** including embeds, control joints…"
+> "…as required for application of final finishes **by others**."
+
+Where an item depends on, hands off to, or is preceded by another trade, say so in the item.
+`by others` is acceptable where the other party is genuinely open; name the trade whenever it
+is known. A scope item whose completion depends on someone else, with no statement of who,
+is the defect this rule exists to catch.
+
+## 5. Coordination gets its own sentence — `high`
+
+10% of executed lines, 1% of drafted. The pattern is obligation first, coordination second,
+in the same item:
+
+> "Provide core drilling for angles and ledgers, which will be laid out by the Steel
+> subcontractor. **Coordinate this install with Steel subcontractor and Contractor.**"
+> "Provide all scaffolding as needed and comply with OSHA requirements. **Coordinate placement
+> of scaffolding with Contractor.**"
+
+Do not spin coordination duties out into a separate "Coordination" group. They ride with the
+item they qualify.
+
+## 6. Spell out materials and systems; abbreviate only terms of art — `high`
+
+The executed exhibit writes **Concrete Masonry Unit** five times and **CMU** zero times. It
+writes **Mechanical, Electrical and Plumbing**, never *MEP*.
+
+The abbreviations it does use are industry terms of art, and all of them are unambiguous
+without expansion: `FOB` `AFF` `OSHA` `RFI` `ASI`. On this project add `ADA` `IBC` `ICC`
+`ANSI` `NFHS` `SWPPP` `NRS` `CSI`.
+
+So: no *CMU*, *MEP*, *GC*, *A/E*, *OFCI*, *CFCI*, *T&B*, *VE*, *SOW*, *FRP*, *DG* in an
+exhibit. Write the words. (`voice_check.py` enforces this list.)
+
+## 7. Capitalise the trade, and name the counterparty by its subcontract role — `high`
+
+The trade under contract is a proper noun once the exhibit is about it — *Masonry*, *Concrete
+Masonry Unit reinforcing*, *all Masonry accessories*. Other trades are named the way the
+subcontract names them: **Steel subcontractor**, **Concrete subcontractor**, **Roofing
+subcontractor**, **Framing Subcontractor**. Not *the steel guy*, *the GC*, *the installer*.
+
+Defined contract terms stay capitalised throughout: Scope of Work, Subcontract, Subcontract
+Amount, Contract Documents, Project, Project Manual, Owner, Architect, Contractor,
+Subcontractor, Substantial Completion.
+
+## 8. Numbers — `medium`
+
+- **Counts** take the word with the numeral in parentheses: *one (1) manufactured aluminum
+  door*, *thirty-four (34) engineered steel stand-off assemblies*, *two (2) mobilizations*,
+  *six (6) physical hard copies*. 24% of template lines; 1 executed line.
+- **Dimensions** take numerals and marks: *24" and 42" AFF*, *five foot (5') boundary*.
+- **Never spell a dimension out longhand.** *"four inches by six inches"*, *"one thirty-second
+  inch"*, *"twenty-four inches in character height"* — all from current drafts — match neither
+  source. Write *4" x 6"*, *1/32"*, *24"*.
+
+## 9. Citations point at a detail, not at a document — `medium`
+
+The house pinpoint-citation idiom is **`specifically referencing`**:
+
+> "…per plans and specifications, **specifically referencing detail 6C on sheet A-602**."
+> "…**specifically referencing door #6014** and all associated hardware…"
+
+Used in 20% of template lines and 0% of drafted lines; current drafts write *as detailed* /
+*as indicated* instead (18%), which points at nothing in particular. Where a detail, keynote,
+door number or schedule row fixes the obligation, cite it that way. Where nothing specific
+fixes it, `per plans and specifications` (29% of template lines) is the general form.
+
+This does not conflict with the no-drawing-roster rule in `SKILL.md` — a pinpoint citation
+that does work is exactly what that rule asks for; an enumerated sheet list is what it forbids.
+
+## 10. Enumerate accessories in a parenthetical — `medium`
+
+> "…and all associated hardware, **(e.g., continuous hinge, battery operated alarmed panic
+> device, mortise cylinder, surface mount closure, offset pull, etc.)**."
+> "…at one (1) aluminum frame to PBU panel transition, **(i.e., over lobby restroom pop-out)**"
+
+15% of template lines, 0% of drafted. Note the house punctuation: a comma *before* the open
+paren, `i.e.`/`e.g.` with both periods, and a trailing `etc.` on open lists — which keeps the
+list illustrative rather than exhaustive.
+
+## 11. Length — `high`
+
+Median authored scope item: **28 words (executed), 30 (template), 26 (current drafts)** — a
+sentence or two. Items above ~55 words in the corpus are always doing two things and should
+be two items. There is no minimum; *"Provide all drypacking as needed."* is a complete item.
+
+## 12. Scope one item to one obligation — `high`
+
+The executed exhibit runs 30 items in a single Masonry group rather than folding related work
+into compound bullets. Cleaning, protection, scaffolding, hoisting, curing, rebar caps,
+mock-up removal and blockouts each get their own line. Granularity is the point: each line is
+separately enforceable, separately descopeable and separately priceable at change-order time.
+
+---
+
+## Open decisions — the corpus does not settle these
+
+**D1. `Provide and install` vs `Supply and install`.**
+The NV template uses *Provide and install* in 10 of 41 lines and never *Supply and install*;
+the executed exhibit uses *Supply and install* twice and *Furnish and install* twice, never
+*Provide and install*. Current drafts use *Supply and install* 14 times. All three are house
+verbs and no source is consistent. **Pick one as the default** and `voice_check.py` will hold
+it; until then the check accepts all three.
+
+**D2. Exclusion style — terse noun phrase, or routed to the package that has it?**
+Executed exclusions are Title Case noun phrases with no routing: *Concrete Footings*,
+*Anti-Graffiti Applications*, *Temporary water and power*, *Epoxy doweling and Dowel Bending*.
+Current drafts write sentence-case and route the work: *"Scoreboards and scoreboard support
+structures, which are included in the Scoreboards Scope of Work."*
+
+These differ in substance, not just style. Routing forecloses the "then nobody has it"
+argument in a change-order dispute, which the terse form leaves open — a real improvement
+worth keeping. Recommendation: **keep the routing, adopt the executed Title Case**, and route
+only where the receiving package is actually known. Confirm before this becomes a rule.
+
+**D3. Do exhibits carry the standing operational obligations?**
+The executed Masonry exhibit spends roughly a third of its items on protection, cleaning,
+weather, hoisting, scaffolding, safety caps and mock-up removal. Whether that reflects house
+practice on every trade or masonry specifically cannot be told from one exhibit. Two or three
+more executed exhibits would settle it.
+
+---
+
+## Growing the corpus
+
+The single highest-value input to this profile is **executed Attachment A's from past CORE
+jobs** — one exhibit is not a corpus, and every *medium* and *open* rule above stays that way
+until more arrive.
+
+Drop them in `00-source-docs/voice-corpus/` (`.pdf` or `.docx`, Bluebeam FINAL packets are
+fine — the exhibit body is located by its own `Page 1 of N` footer and the rest of the packet
+is ignored) and run:
+
+```
+python3 scripts/build_voice_corpus.py     # rebuild + re-measure
+python3 scripts/voice_check.py --all      # re-check every drafted package
+```
+
+Prefer breadth over volume: exhibits from **different trades** are worth more than several
+from one, since a single-trade corpus cannot distinguish house voice from that trade's
+vocabulary — which is exactly the ambiguity in D3.
+
+The other input is free and already wired up. The PM markup loop (`read_att_a_markup.py`)
+captures every edit made to a draft in review; a change made twice is a voice rule that
+belongs in this file. Run it after each review pass and fold the recurring edits in.

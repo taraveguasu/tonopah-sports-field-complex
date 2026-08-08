@@ -9,3 +9,7 @@ CLAUDE.local.md
 
 # Secrets (e.g. ANTHROPIC_API_KEY for scripts/upload-files.py)
 .env
+
+# voice corpus: reference exhibits from other jobs, not this project's documents
+00-source-docs/voice-corpus/*
+!00-source-docs/voice-corpus/README.md
