@@ -105,6 +105,14 @@ MID_MARKER = re.compile(
     r"(?<=[\w.,)]) (?=(?:\d{1,2}|[A-Z]|[ivxl]{1,7}|[a-h])\.\s+[A-Z])"
 )
 
+# A marker alone on its line, with the item's text on the following line. This
+# is how the exhibits extracted through the Microsoft Graph connector come back
+# -- Word's auto-numbering is rendered into its own tab-stop column, so "1."
+# and "D." land as separate lines. Without treating it as an item boundary the
+# whole exhibit accumulates into a single record, because MARKER needs body
+# text on the same line and never fires.
+MARKER_ONLY = re.compile(r"^\s*(?:\d{1,2}|[A-Z]|[ivxl]{1,7}|[a-h])\.\s*$")
+
 # Lines that are page furniture rather than contract text.
 FURNITURE = re.compile(
     r"^(page \d+ of \d+|example|attachment a|scope of work|"
@@ -137,6 +145,15 @@ BOILERPLATE_CUES = [
     "web-based software on this project",
     "foreman, at a minimum, shall attend",
     "pricing is based on tariff",
+    # The template's three optional standard clauses. They sit inside the SCOPE
+    # OF WORK section rather than the provisions, so section-based attribution
+    # cannot catch them -- but they are highlighted runs in the .docx template
+    # (the ones build_attachment_a.py toggles via `standard_clauses`), appear
+    # verbatim on all eight exhibits, and were inflating "Subcontractor shall"
+    # as though it were an authored opener.
+    "notify the local underground utility service",
+    "material and equipment procurement log",
+    "cost flow projections monthly",
 ]
 
 GROUP_HEADER_CUE = "provide all materials, labor, equipment, and supervision"
@@ -273,6 +290,9 @@ def parse_exhibit(lines, source_id, kind, author):
                        "scope options": "options"}.get(head, "scope")
             continue
         if FURNITURE.match(line):
+            continue
+        if MARKER_ONLY.match(line):
+            flush()                       # body arrives on the following lines
             continue
         m = MARKER.match(line)
         if m:
@@ -608,10 +628,16 @@ def main():
     if MINE.exists():
         exhibits += [(p, "self") for p in sorted(MINE.glob("*.pdf"))]
         exhibits += [(p, "self") for p in sorted(MINE.glob("*.docx"))]
+        # Exhibit bodies already pulled out of a packet by
+        # scripts/ingest_packet_text.py -- one line per outline item.
+        exhibits += [(p, "self") for p in sorted((MINE / "text").glob("*.txt"))]
 
     for p, author in exhibits:
         if p.suffix.lower() == ".pdf":
             recs = parse_exhibit(pdf_lines(p), p.stem, "executed", author)
+        elif p.suffix.lower() == ".txt":
+            recs = parse_exhibit(p.read_text().splitlines(), p.stem,
+                                 "executed", author)
         else:
             recs = docx_exhibit(p, p.stem, author)
         records += recs

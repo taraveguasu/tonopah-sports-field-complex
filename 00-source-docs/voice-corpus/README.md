@@ -12,9 +12,15 @@ The subfolder is the entire authorship signal. An exhibit you wrote, filed in
 the wrong place, is silently counted as somebody else's — and the whole point of
 the split is that your practice outranks the house's on every judgment call.
 
-Nothing staged in this repo was authored by this project's PM, so until `mine/`
-has files in it, `.claude/skills/attachment-a-generator/references/voice-profile.md`
-is a **house** profile wearing a personal profile's name. It says so at the top.
+`mine/` currently holds 8 exhibits from DMV Silverado Ranch (23-01-011), pulled
+from the PM's OneDrive at `Documents/DMV Database/Final Att A/`. About two dozen
+more sit in that folder unpulled.
+
+**From OneDrive:** exhibits there cannot be downloaded as PDFs from a Claude Code
+session — the Graph connector returns extracted text rather than bytes. Fetch with
+`read_resource`, then run `scripts/ingest_packet_text.py <dir>` over whatever the
+connector wrote to disk; it locates the exhibit inside the packet by its own page
+footers and writes it to `mine/text/`, which the corpus builder reads as `self`.
 
 **What to drop:** `.pdf` or `.docx`. Bluebeam FINAL packets are fine as-is — the
 exhibit body is located by its own `Page 1 of N` footer and the rest of the

@@ -17,12 +17,11 @@ a wordy register is one finding rather than twenty-five.
 Rules and the evidence behind them:
   .claude/skills/attachment-a-generator/references/voice-profile.md
 
-Recalibrated 08.08.26 against the PM's own three exhibits. Before that the
-thresholds came from a different CORE author's masonry exhibit and the blank
-template, and several of them contradicted the PM's own writing -- the
-abbreviation list banned CMU, MEP and FRP, which he uses; the length limit was
-55 words against his observed maximum of 46 and median of 12; and the count
-rule recommended "six (6)" where he writes "6".
+Calibrated 08.08.26 against the PM's own 8 executed exhibits (386 scope items).
+Before that the thresholds came from a different CORE author's masonry exhibit
+and the blank template, and several contradicted his writing outright -- the
+abbreviation list banned CMU, MEP and FRP, which he uses, and the count rule
+recommended "six (6)" where he writes "6".
 
 Usage:
   python3 scripts/voice_check.py ITB-072
@@ -103,6 +102,9 @@ ALLOWED_ABBREV = {
     # Trade abbreviations measured in the PM's own exhibits.
     "CMU", "MEP", "FRP", "HSS", "RTU", "AHJ", "FAA", "LLV", "NRC", "VIN",
     "CDL", "WF", "MF", "EIFS", "DG", "OFCI", "CFCI",
+    # Measured across the mechanical, electrical and low-voltage exhibits.
+    "BMS", "AHU", "FFE", "PV", "VAV", "RPDA", "RPPA", "FDC", "PIV", "RCP",
+    "DMV", "BACnet", "VFD", "ATS", "UPS", "IDF", "MDF", "CAT6", "EMT",
 }
 
 # Two or more capitalised tokens in a row are sign copy, a project name or a
@@ -147,8 +149,9 @@ DIGITS = {"two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7,
           "eight": 8, "nine": 9, "ten": 10, "eleven": 11, "twelve": 12,
           "fifteen": 15, "twenty": 20, "thirty": 30, "forty": 40, "fifty": 50}
 
-# Profile rule 5. The blank template's install verb, not the PM's -- 1 use in
-# 108 of his lines against 24% of the template's examples.
+# Profile rule 5. The blank template's install verb, not the PM's -- 4 of his
+# 386 scope items (1.0%) against 24% of the template's examples, while
+# "Supply and install" opens 14.2% of his.
 HOUSE_VERB = re.compile(r"^Provide and install\b")
 
 # Profile rule 4. Signals that an item names who has the adjacent work. Note
@@ -165,17 +168,23 @@ RESPONSIBILITY = re.compile(
 
 # Profile rule 3, and the highest-value check in this file.
 #
-# Recalibrated 08.08.26 against the PM's own 99 scope items: median 12 words,
-# p90 33, longest 46. The old threshold of 55 was taken from a different
-# author's exhibit and never fired on anything the PM wrote -- nor on most of
-# what the drafts overrun. 45 is his observed maximum, so it produces no false
-# positive on his corpus while still catching the 7 draft items above it.
-LONG_ITEM_WORDS = 45
+# Calibrated against the PM's own 386 scope items across 8 exhibits: median 14
+# words, p90 32, p95 41, p99 50, longest 78.
+#
+# This threshold has moved twice and the history is worth keeping. It started
+# at 55, taken from a different author's masonry exhibit. On a 3-exhibit sample
+# of the PM's writing it looked far too loose -- his longest item there was 46
+# -- so it was tightened to 45. With 8 exhibits, 9 of his items (2.3%) exceed
+# 45, and 55 turns out to be about right after all: it sits just past his 99th
+# percentile, so it flags 2 of his own 386 items while still catching every
+# draft item that genuinely runs long. Tightening on a small sample was the
+# error, not the original number.
+LONG_ITEM_WORDS = 55
 
-# The PM's 90th percentile and median, used for the package-level register
-# check rather than for per-item warnings.
-VERBOSE_ITEM_WORDS = 33
-PM_MEDIAN_WORDS = 12
+# The PM's 90th percentile and median, for the package-level register check
+# rather than per-item warnings.
+VERBOSE_ITEM_WORDS = 32
+PM_MEDIAN_WORDS = 14
 
 # Contract terms that carry meaning and are capitalised in the corpus. Checked
 # only for the unambiguous ones -- "project" and "owner" appear too often as
@@ -256,12 +265,12 @@ def check_line(rep, where, text, is_exclusion=False):
     if HOUSE_VERB.match(text):
         rep.add("warn", where,
                 "'Provide and install' is the blank template's verb; the PM writes "
-                "'Supply and install' (18% vs 1%) (rule 5)", text)
+                "'Supply and install' (14.2% vs 1.0%) (rule 5)", text)
 
     if len(text.split()) > LONG_ITEM_WORDS:
         rep.add("error", where,
-                f"{len(text.split())} words — longer than any item the PM has "
-                f"written ({LONG_ITEM_WORDS} max, median 12); split it (rule 3)",
+                f"{len(text.split())} words — past the 99th percentile of the "
+                f"PM's own items (median {PM_MEDIAN_WORDS}); split it (rule 3)",
                 text)
 
     for level, pattern, msg in BAD_OPENERS:
